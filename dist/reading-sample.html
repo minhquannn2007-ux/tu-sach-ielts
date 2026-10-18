@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css?v=options-v3">
+<link rel="stylesheet" href="question-template.css?v=matching-contrast-v1">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -983,6 +983,8 @@ html[data-exam-text-size] body .passage-para:has(+ .source-footnote){margin-bott
 html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:not(.video-current),html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(.bb-q-num,.tif-dot-label):not(.video-current .bb-q-num,.video-current .tif-dot-label){background:transparent!important;color:#ff0!important}
 html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(button.video-plain-dot:not(.video-current):hover,button.video-plain-dot:not(.video-current):focus-visible,.subQuestion:not(.video-current):hover .bb-q-num,.tif-dot:not(.video-current):hover .tif-dot-label){border-color:transparent!important;outline:none!important}
 html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-current,html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots .video-current :is(.bb-q-num,.tif-dot-label){background:#808000!important;color:#000!important;font-weight:700!important}
+/* Matching matrices and researcher/name lists use the contrast foreground for every rule. */
+html[data-exam-dark] body #qpanel :is(.grid-outer,.grid-tbl,.grid-tbl thead,.grid-tbl tbody,.grid-tbl tfoot,.grid-tbl tr,.grid-tbl th,.grid-tbl td,.researchers,.researchers-hdr,.res-row,.res-ltr,.res-name){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
 </style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=options-v3"><script src="exam-options.js?v=options-v3"></script></head>
 <body>
 
