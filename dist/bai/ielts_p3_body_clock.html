@@ -865,8 +865,8 @@ html, body {
 </style>
 <link rel="stylesheet" href="../exam-behavior.css">
 <link rel="stylesheet" href="../zoom-layout.css">
-<link rel="stylesheet" href="../question-template.css?v=countdown-seconds-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script></head>
+<link rel="stylesheet" href="../question-template.css?v=drag-slots-v1">
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=drag-slots-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1222,23 +1222,12 @@ WORDS.forEach(w => {
 // Allow dragging from filled drop zones too
 function setupDropListeners(drop) {
   const q = parseInt(drop.dataset.q);
-  // Click filled drop to remove
-  drop.addEventListener('click', e => {
-    if (dragData) return; // ignore click during drag
-    if (!dropState[drop.id]) return;
-    const {id} = dropState[drop.id];
-    returnWordToBank(id);
-    clearDrop(drop.id);
-    unAnswer(q);
-  });
+  // Filled answers move only after an actual drag.
   drop.addEventListener('mousedown', e => {
     if (!dropState[drop.id]) return;
     e.stopPropagation();
     const {id, word} = dropState[drop.id];
-    // Clear the drop and start dragging
-    clearDrop(drop.id);
-    unAnswer(q);
-    returnWordToBank(id);
+
     const wordEl = document.getElementById('word-'+id);
     startDrag(e, id, word, wordEl, drop.id);
   });
@@ -1247,6 +1236,8 @@ function setupDropListeners(drop) {
 document.querySelectorAll('.dnd-drop').forEach(drop => setupDropListeners(drop));
 
 function startDrag(e, wordId, word, sourceEl, fromDrop) {
+  if(!window.IELTSDragStart(e, ev=>startDrag(ev,wordId,word,sourceEl,fromDrop)))return;
+  if(fromDrop){clearDrop(fromDrop);unAnswer(Number(document.getElementById(fromDrop).dataset.q));returnWordToBank(wordId);}
   e.preventDefault();
   // Hide the source word in bank
   if (sourceEl) sourceEl.style.visibility = 'hidden';
@@ -1287,7 +1278,7 @@ function onDragEnd(e) {
   document.removeEventListener('mousemove', onDragMove);
   document.removeEventListener('mouseup', onDragEnd);
 
-  const {wordId, word, ghost, sourceEl} = dragData;
+  const {wordId, word, ghost, sourceEl, fromDrop} = dragData;
 
   // Find drop zone under cursor
   let landed = null;
@@ -1316,6 +1307,9 @@ function onDragEnd(e) {
     onAnswer(q);
     // Remove word from bank (hide it)
     if (sourceEl) { sourceEl.style.visibility = ''; sourceEl.classList.add('used'); }
+  } else if(fromDrop && !window.IELTSDragInBank(e,wordbank)) {
+    const original=document.getElementById(fromDrop);setDrop(original,wordId,word);onAnswer(Number(original.dataset.q));
+    if(sourceEl){sourceEl.style.visibility='';sourceEl.classList.add('used');}
   } else {
     // Return to bank
     if (sourceEl) sourceEl.style.visibility = '';
@@ -1328,7 +1322,7 @@ function setDrop(drop, wordId, word) {
   dropState[drop.id] = {id: wordId, word};
   drop.classList.add('filled');
   drop.innerHTML = word;
-  drop.title = 'Click to remove';
+  drop.title = 'Drag back to the list to remove';
 }
 
 function clearDrop(dropId) {

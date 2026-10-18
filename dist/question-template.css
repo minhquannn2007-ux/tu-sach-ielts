@@ -337,7 +337,11 @@ html body .mh-gap.drag-over{background:#ddd!important;border:1px dotted #5095b1!
 html body .mh-gap .gapFilledText{font:700 16px/1.25 Arial!important}
 html body .mh-bank{gap:12px!important;align-items:flex-start!important}
 html body .mh-heading{min-height:24px!important;padding:0 8px!important;border:1px solid #bbb!important;border-radius:2px!important;font:700 16px/20px Arial!important;box-shadow:0 1px 2px #0002;transition:none!important;overflow:visible!important}
-html body .mh-heading.used{display:inline-flex!important;visibility:hidden;pointer-events:none}
+/* Preserve every bank slot when its answer is placed. */
+html body :is(.mh-heading,.me-ending,.dnd-word).used{display:inline-flex!important;visibility:hidden!important;pointer-events:none}
+html body :is(.mh-heading,.me-ending,.dnd-word,.mh-gap.filled,.me-drop.filled,.dnd-drop.filled,.sample-drop.filled),
+html body :is(.mh-heading,.me-ending,.dnd-word,.mh-gap.filled,.me-drop.filled,.dnd-drop.filled,.sample-drop.filled) *{cursor:move!important}
+html body.exam-answer-dragging,html body.exam-answer-dragging *{cursor:move!important}
 html body .mh-heading.mh-source-dragging{display:inline-flex!important;visibility:visible!important;color:#bbb!important;pointer-events:none}
 html body .mh-heading.mh-source-dragging .mh-heading-text{color:#bbb}
 html body .mh-bank.drag-over{background:#e1e1e1}

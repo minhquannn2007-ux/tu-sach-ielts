@@ -912,8 +912,8 @@ html, body {
 .mc-radio-circ{width:13px;height:13px;flex:0 0 13px;border-width:1px;margin-top:0}
 </style>
 <link rel="stylesheet" href="../zoom-layout.css">
-<link rel="stylesheet" href="../question-template.css?v=countdown-seconds-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script></head>
+<link rel="stylesheet" href="../question-template.css?v=drag-slots-v1">
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=drag-slots-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1219,27 +1219,20 @@ ENDINGS.forEach(e => {
 // Setup drop zones
 document.querySelectorAll('.me-drop').forEach(drop => {
   const q = parseInt(drop.dataset.q);
-  drop.addEventListener('click', () => {
-    if (meDragData) return;
-    if (!meDropState[drop.id]) return;
-    const {id} = meDropState[drop.id];
-    meReturnToBank(id);
-    meClearDrop(drop.id);
-    unAnswer(q);
-  });
+
   drop.addEventListener('mousedown', ev => {
     if (!meDropState[drop.id]) return;
     ev.stopPropagation();
     const {id, text} = meDropState[drop.id];
-    meClearDrop(drop.id);
-    unAnswer(q);
-    meReturnToBank(id);
+
     const endEl = document.getElementById('ending-'+id);
-    meStartDrag(ev, id, text, endEl);
+    meStartDrag(ev, id, text, endEl, drop);
   });
 });
 
-function meStartDrag(e, endingId, text, sourceEl) {
+function meStartDrag(e, endingId, text, sourceEl, origin=null) {
+  if(!window.IELTSDragStart(e,ev=>meStartDrag(ev,endingId,text,sourceEl,origin)))return;
+  if(origin){meClearDrop(origin.id);unAnswer(Number(origin.dataset.q));meReturnToBank(endingId);}
   e.preventDefault();
   // Hide source from original position while dragging
   if (sourceEl) sourceEl.style.visibility = 'hidden';
@@ -1249,7 +1242,7 @@ function meStartDrag(e, endingId, text, sourceEl) {
   ghost.style.left = (e.clientX - 30) + 'px';
   ghost.style.top  = (e.clientY - 12) + 'px';
   document.body.appendChild(ghost);
-  meDragData = { endingId, text, ghost, sourceEl };
+  meDragData = { endingId, text, ghost, sourceEl, origin };
   document.addEventListener('mousemove', meDragMove);
   document.addEventListener('mouseup', meDragEnd);
 }
@@ -1268,7 +1261,7 @@ function meDragEnd(e) {
   if (!meDragData) return;
   document.removeEventListener('mousemove', meDragMove);
   document.removeEventListener('mouseup', meDragEnd);
-  const {endingId, text, ghost, sourceEl} = meDragData;
+  const {endingId, text, ghost, sourceEl, origin} = meDragData;
   let landed = null;
   document.querySelectorAll('.me-drop').forEach(drop => {
     const r = drop.getBoundingClientRect();
@@ -1287,6 +1280,9 @@ function meDragEnd(e) {
     onAnswer(q);
     // Keep source hidden, mark as used
     if (sourceEl) { sourceEl.style.visibility = ''; sourceEl.classList.add('used'); }
+  } else if(origin && !window.IELTSDragInBank(e,endingBank)) {
+    meSetDrop(origin,endingId,text);onAnswer(Number(origin.dataset.q));
+    if(sourceEl){sourceEl.style.visibility='';sourceEl.classList.add('used');}
   } else {
     // Drop failed — restore source visibility
     if (sourceEl) sourceEl.style.visibility = '';
@@ -1297,7 +1293,7 @@ function meSetDrop(drop, endingId, text) {
   meDropState[drop.id] = {id: endingId, text};
   drop.classList.add('filled');
   drop.innerHTML = text;
-  drop.title = 'Click to remove';
+  drop.title = 'Drag back to the list to remove';
 }
 function meClearDrop(dropId) {
   const drop = document.getElementById(dropId);

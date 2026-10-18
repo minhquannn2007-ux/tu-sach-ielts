@@ -1156,8 +1156,8 @@ html, body {
 </style>
 <link rel="stylesheet" href="../exam-behavior.css">
 <link rel="stylesheet" href="../zoom-layout.css">
-<link rel="stylesheet" href="../question-template.css?v=countdown-seconds-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script></head>
+<link rel="stylesheet" href="../question-template.css?v=drag-slots-v1">
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=drag-slots-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1484,6 +1484,7 @@ document.querySelectorAll('.mh-gap').forEach(gap=>{
   gap.addEventListener('keydown',e=>{if(e.key==='Delete'||e.key==='Backspace'){const value=mhState[gap.id];if(value){e.preventDefault();document.getElementById('mh-head-'+value.id).classList.remove('used');mhClearGap(gap);unAnswer(Number(gap.dataset.q));}}});
 });
 function mhStartDrag(e,id,text,source,origin=null){
+  if(!window.IELTSDragStart(e,ev=>mhStartDrag(ev,id,text,source,origin)))return;
   if(e.button!==0)return;
   e.preventDefault();window.getSelection()?.removeAllRanges();
   if(origin){mhClearGap(origin);unAnswer(Number(origin.dataset.q));}
@@ -1666,7 +1667,7 @@ document.addEventListener('mousedown',function(e){if(!e.target.closest('#selecti
 // Matching Headings help
 const helpBtn=document.getElementById('mh-help-btn');
 const helpPanel=document.createElement('div');helpPanel.className='mh-help-panel';helpPanel.id='mh-help-panel';
-helpPanel.innerHTML='<button class="mh-close" id="mh-close">×</button><strong>Matching headings</strong><div>Drag a heading from the list into the numbered gap for the paragraph it matches. A heading can be used once. Click a filled gap to move its heading back to the list.</div>';
+helpPanel.innerHTML='<button class="mh-close" id="mh-close">×</button><strong>Matching headings</strong><div>Drag a heading from the list into the numbered gap for the paragraph it matches. A heading can be used once. Drag a filled heading back to the list to remove it.</div>';
 document.body.appendChild(helpPanel);
 helpBtn.addEventListener('click',()=>{helpPanel.style.display=helpPanel.style.display==='block'?'none':'block';});
 document.getElementById('mh-close').addEventListener('click',()=>helpPanel.style.display='none');
