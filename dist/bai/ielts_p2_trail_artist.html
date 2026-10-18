@@ -913,7 +913,7 @@ html, body {
 </style>
 <link rel="stylesheet" href="../zoom-layout.css">
 <link rel="stylesheet" href="../question-template.css?v=thin-splitter-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=summary-states-v1"></script></head>
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=drag-center-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1232,6 +1232,7 @@ document.querySelectorAll('.me-drop').forEach(drop => {
 
 function meStartDrag(e, endingId, text, sourceEl, origin=null) {
   if(!window.IELTSDragStart(e,ev=>meStartDrag(ev,endingId,text,sourceEl,origin)))return;
+  const anchor=window.IELTSDragGeometry.anchor(origin||sourceEl,e);
   if(origin){meClearDrop(origin.id);unAnswer(Number(origin.dataset.q));meReturnToBank(endingId);}
   e.preventDefault();
   // Hide source from original position while dragging
@@ -1239,17 +1240,16 @@ function meStartDrag(e, endingId, text, sourceEl, origin=null) {
   const ghost = document.createElement('div');
   ghost.className = 'dnd-ghost';
   ghost.textContent = text;
-  ghost.style.left = (e.clientX - 30) + 'px';
-  ghost.style.top  = (e.clientY - 12) + 'px';
+
   document.body.appendChild(ghost);
-  meDragData = { endingId, text, ghost, sourceEl, origin };
+  window.IELTSDragGeometry.move(ghost,e,anchor);
+  meDragData = { endingId, text, ghost, sourceEl, origin, anchor };
   document.addEventListener('mousemove', meDragMove);
   document.addEventListener('mouseup', meDragEnd);
 }
 function meDragMove(e) {
   if (!meDragData) return;
-  meDragData.ghost.style.left = (e.clientX - 30) + 'px';
-  meDragData.ghost.style.top  = (e.clientY - 12) + 'px';
+  e=window.IELTSDragGeometry.move(meDragData.ghost,e,meDragData.anchor);
   document.querySelectorAll('.me-drop').forEach(drop => {
     const r = drop.getBoundingClientRect();
     if (e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom)
@@ -1261,7 +1261,8 @@ function meDragEnd(e) {
   if (!meDragData) return;
   document.removeEventListener('mousemove', meDragMove);
   document.removeEventListener('mouseup', meDragEnd);
-  const {endingId, text, ghost, sourceEl, origin} = meDragData;
+  const {endingId, text, ghost, sourceEl, origin, anchor} = meDragData;
+  e=window.IELTSDragGeometry.move(ghost,e,anchor);
   let landed = null;
   document.querySelectorAll('.me-drop').forEach(drop => {
     const r = drop.getBoundingClientRect();

@@ -866,7 +866,7 @@ html, body {
 <link rel="stylesheet" href="../exam-behavior.css">
 <link rel="stylesheet" href="../zoom-layout.css">
 <link rel="stylesheet" href="../question-template.css?v=thin-splitter-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=summary-states-v1"></script></head>
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=drag-center-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1237,6 +1237,7 @@ document.querySelectorAll('.dnd-drop').forEach(drop => setupDropListeners(drop))
 
 function startDrag(e, wordId, word, sourceEl, fromDrop) {
   if(!window.IELTSDragStart(e, ev=>startDrag(ev,wordId,word,sourceEl,fromDrop)))return;
+  const anchor=window.IELTSDragGeometry.anchor(fromDrop?document.getElementById(fromDrop):sourceEl,e);
   if(fromDrop){clearDrop(fromDrop);unAnswer(Number(document.getElementById(fromDrop).dataset.q));returnWordToBank(wordId);}
   e.preventDefault();
   // Hide the source word in bank
@@ -1246,11 +1247,11 @@ function startDrag(e, wordId, word, sourceEl, fromDrop) {
   const ghost = document.createElement('div');
   ghost.className = 'dnd-ghost';
   ghost.textContent = word;
-  ghost.style.left = (e.clientX - 30) + 'px';
-  ghost.style.top  = (e.clientY - 12) + 'px';
-  document.body.appendChild(ghost);
 
-  dragData = { wordId, word, ghost, sourceEl, fromDrop };
+  document.body.appendChild(ghost);
+  window.IELTSDragGeometry.move(ghost,e,anchor);
+
+  dragData = { wordId, word, ghost, sourceEl, fromDrop, anchor };
 
   document.addEventListener('mousemove', onDragMove);
   document.addEventListener('mouseup', onDragEnd);
@@ -1258,8 +1259,7 @@ function startDrag(e, wordId, word, sourceEl, fromDrop) {
 
 function onDragMove(e) {
   if (!dragData) return;
-  dragData.ghost.style.left = (e.clientX - 30) + 'px';
-  dragData.ghost.style.top  = (e.clientY - 12) + 'px';
+  e=window.IELTSDragGeometry.move(dragData.ghost,e,dragData.anchor);
 
   // Highlight drop zones under cursor
   document.querySelectorAll('.dnd-drop').forEach(drop => {
@@ -1278,7 +1278,8 @@ function onDragEnd(e) {
   document.removeEventListener('mousemove', onDragMove);
   document.removeEventListener('mouseup', onDragEnd);
 
-  const {wordId, word, ghost, sourceEl, fromDrop} = dragData;
+  const {wordId, word, ghost, sourceEl, fromDrop, anchor} = dragData;
+  e=window.IELTSDragGeometry.move(ghost,e,anchor);
 
   // Find drop zone under cursor
   let landed = null;

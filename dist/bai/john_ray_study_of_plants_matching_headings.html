@@ -1157,7 +1157,7 @@ html, body {
 <link rel="stylesheet" href="../exam-behavior.css">
 <link rel="stylesheet" href="../zoom-layout.css">
 <link rel="stylesheet" href="../question-template.css?v=thin-splitter-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=summary-states-v1"></script></head>
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=countdown-seconds-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script><script src="../exam-drag-start.js?v=drag-center-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1487,20 +1487,20 @@ function mhStartDrag(e,id,text,source,origin=null){
   if(!window.IELTSDragStart(e,ev=>mhStartDrag(ev,id,text,source,origin)))return;
   if(e.button!==0)return;
   e.preventDefault();window.getSelection()?.removeAllRanges();
+  const anchor=window.IELTSDragGeometry.anchor(origin||source,e);
   if(origin){mhClearGap(origin);unAnswer(Number(origin.dataset.q));}
   source?.classList.add('mh-source-dragging');
   const ghost=document.createElement('div');ghost.className='mh-ghost';ghost.textContent=text;
-  const sourceRect=(origin||source).getBoundingClientRect();
-  ghost.style.width=sourceRect.width+'px';ghost.style.left=(e.clientX+10)+'px';ghost.style.top=(e.clientY+10)+'px';
-  document.body.appendChild(ghost);document.body.classList.add('mh-dragging');
-  mhDrag={id,text,source,ghost,origin};
+
+  document.body.appendChild(ghost);document.body.classList.add('mh-dragging');window.IELTSDragGeometry.move(ghost,e,anchor);
+  mhDrag={id,text,source,ghost,origin,anchor};
   document.addEventListener('mousemove',mhMove);document.addEventListener('mouseup',mhEnd);
 }
-function mhHitGap(e){return [...document.querySelectorAll('.mh-gap')].find(g=>{const r=g.getBoundingClientRect();return e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom})}
-function mhHitBank(e){const r=mhBank.getBoundingClientRect();return e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom}
+function mhHitGap(e){e=window.IELTSDragGeometry.point(mhDrag.ghost);return [...document.querySelectorAll('.mh-gap')].find(g=>{const r=g.getBoundingClientRect();return e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom})}
+function mhHitBank(e){e=window.IELTSDragGeometry.point(mhDrag.ghost);const r=mhBank.getBoundingClientRect();return e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top&&e.clientY<=r.bottom}
 function mhMove(e){
   if(!mhDrag)return;
-  mhDrag.ghost.style.left=(e.clientX+10)+'px';mhDrag.ghost.style.top=(e.clientY+10)+'px';
+  window.IELTSDragGeometry.move(mhDrag.ghost,e,mhDrag.anchor);
   const gap=mhHitGap(e),bank=mhHitBank(e);
   document.querySelectorAll('.mh-gap').forEach(g=>g.classList.toggle('drag-over',g===gap));
   mhBank.classList.toggle('drag-over',bank);
@@ -1511,6 +1511,7 @@ function mhEnd(e){
   if(!mhDrag)return;
   document.removeEventListener('mousemove',mhMove);document.removeEventListener('mouseup',mhEnd);
   document.getElementById('mh-prohibited')?.remove();
+  window.IELTSDragGeometry.move(mhDrag.ghost,e,mhDrag.anchor);
   const landed=mhHitGap(e),bank=mhHitBank(e);
   const {id,text,source,ghost,origin}=mhDrag;
   ghost.remove();source?.classList.remove('mh-source-dragging');document.body.classList.remove('mh-dragging');

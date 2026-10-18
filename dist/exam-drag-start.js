@@ -1,5 +1,11 @@
 /* Original HTML drag controllers start only after actual movement. */
 (()=>{
+ window.IELTSDragGeometry={
+  anchor(el,e){const r=el.getBoundingClientRect();return {offsetX:e.clientX-r.left,offsetY:e.clientY-r.top,width:r.width}},
+  point(ghost){const r=ghost.getBoundingClientRect();return {clientX:r.left+r.width/2,clientY:r.top+r.height/2}},
+  move(ghost,e,anchor){Object.assign(ghost.style,{boxSizing:'border-box',width:anchor.width+'px',maxWidth:'none',left:e.clientX-anchor.offsetX+'px',top:e.clientY-anchor.offsetY+'px'});return this.point(ghost)}
+ };
+
  document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.mh-heading,.dnd-word').forEach(e=>e.tabIndex=0),{once:true});
  window.IELTSDragInBank=(e,bank)=>{const r=bank.getBoundingClientRect();return e.clientX>=r.left&&e.clientX<=r.right&&e.clientY>=r.top-12&&e.clientY<=r.bottom+12};
  window.IELTSDragStart=(e,start)=>{
