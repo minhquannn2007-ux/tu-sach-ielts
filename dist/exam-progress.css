@@ -52,3 +52,6 @@
 
 .bottom-bar .exam-part-label>.exam-part-complete{margin-right:7px!important}
 .bottom-bar .bb-part.exam-all-answered:not(.bb-active-part) .exam-part-progress{background:#358e14;gap:0}
+/* Notes reduce content width without changing the viewport media query. */
+body.exam-notes-open .bottom-bar .bb-active-part{flex:2 1 0!important}
+.bottom-bar .bb-active-part>#bb-dots{flex:1 1 auto!important;min-width:0;max-width:100%;overflow-x:auto;overflow-y:hidden;scrollbar-width:none}
