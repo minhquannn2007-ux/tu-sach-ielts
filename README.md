@@ -2,7 +2,7 @@
 
 Kho mã nguồn chung cho hai tài khoản ChatGPT. Website static, không cần login để làm bài.
 
-Checkpoint nhập từ Sites ngày 18/10/2026: **520 bài** =509 bài JSON + 11 HTML cũ; P1 179, P2 177, P3 164. Website Sites cũ giữ nguyên, repository này là nguồn cho website GitHub Pages.
+Checkpoint nhập từ Sites ngày 18/10/2026: **521 bài** =510 bài JSON + 11 HTML cũ; P1 179, P2 177, P3 165. Website Sites cũ giữ nguyên, repository này là nguồn cho website GitHub Pages.
 
 ## Xuất bản
 

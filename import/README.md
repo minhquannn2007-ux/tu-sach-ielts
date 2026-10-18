@@ -1,5 +1,9 @@
 # Free bulk import checkpoint
 
+Batch 35 (2026-10-18): Added the second distinct Passage 3 version titled **The Voynich Manuscript** as practice-only lesson `p3-the-voynich-manuscript-alt`. Its native PDF and scanned PAPER version were checked against the published Voynich passage and against each other; the reading and Questions 27–40 are distinct. The scan was visually reviewed. The lesson has no answer key. Manifest: `mass-published-35.json`. The clean P1/P2 text-prepared jobs remain held because their flow-chart/diagram arrows and label positions need visual reconstruction.
+
+Current total: 510 structured lessons plus 11 legacy HTML lessons (521 total): P1 179, P2 177, P3 165.
+
 Batch 18 (2026-10-15): 10 held native Passage 3 PDFs re-fetched through Drive;
 6 source-reviewed practice lessons added (manifest `mass-published-18.json`).
 Converter 3.18 keeps question continuations before a new header on the next page

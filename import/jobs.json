@@ -16850,5 +16850,30 @@
     "flags": [],
     "status": "queued",
     "holdReason": "Source Matching Uses Q35 and Q36 both say Radiometric analysis with no distinction; needs source correction, not published"
+  },
+  {
+    "id": "p3-the-voynich-manuscript-alt",
+    "part": 3,
+    "title": "The Voynich Manuscript",
+    "sources": [
+      {
+        "id": "1PXg7YXPv5G3-h_l1zCKo1U6-jVVFyhSN",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1PXg7YXPv5G3-h_l1zCKo1U6-jVVFyhSN/view?usp=drivesdk",
+        "size": "691606"
+      },
+      {
+        "id": "1Dro1-3bpkZqLqhDX2u5zURN-uYRk_iWS",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Dro1-3bpkZqLqhDX2u5zURN-uYRk_iWS/view?usp=drivesdk",
+        "size": "236920"
+      }
+    ],
+    "flags": [],
+    "status": "reviewed",
+    "lesson_id": "p3-the-voynich-manuscript-alt",
+    "mode": "practice"
   }
 ]
