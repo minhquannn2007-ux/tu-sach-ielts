@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css?v=heading-states-v1">
+<link rel="stylesheet" href="question-template.css?v=summary-states-v1">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -1021,6 +1021,15 @@ html[data-exam-contrast] body.exam-heading-dragging :is(#passage,#qpanel) .mh-ga
 html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap.filled{border:1px solid var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .mh-heading{outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .mh-heading:is(:hover,:focus){border-color:var(--heading-state-border)!important;background:var(--heading-state-hover)!important;outline:none!important;box-shadow:none!important}
+
+/* Summary drag gaps inherit heading states without changing their geometry. */
+html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop{transition:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop:not(.filled){border:1px dashed #418ec8!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body.exam-summary-dragging :is(#passage,#qpanel) .dnd-drop.dnd-drop:not(.filled){border:1px dashed var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop.filled{border:1px solid var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body #qpanel .dnd-word{outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body #qpanel .dnd-word:is(:hover,:focus){border-color:var(--heading-state-border)!important;background:var(--heading-state-hover)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) :is(.mh-gap.mh-gap,.dnd-drop.dnd-drop).drag-over{background:#333!important}
 </style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=nav-motion-v1"><script src="exam-options.js?v=active-v1"></script><script src="exam-question-focus.js?v=active-v1"></script></head>
 <body>
 
@@ -1141,10 +1150,10 @@ html[data-exam-contrast] body #qpanel .mh-heading:is(:hover,:focus){border-color
  document.addEventListener('dragstart',e=>{if(e.target.closest('.sample-token,.sample-drop'))e.preventDefault();},true);
  document.addEventListener('pointermove',e=>{
   if(!drag)return;if(!drag.started&&Math.hypot(e.clientX-drag.x,e.clientY-drag.y)<5)return;
-  e.preventDefault();if(!drag.started){drag.started=true;selected=drag.token;drag.el.classList.add('sample-drag-source');drag.ghost=document.createElement('div');drag.ghost.className='sample-drag-ghost';drag.ghost.textContent=drag.token.dataset.value;document.body.append(drag.ghost);document.body.classList.add('exam-answer-dragging');document.body.classList.toggle('exam-heading-dragging',drag.token.classList.contains('mh-heading'));document.body.style.userSelect='none';}
+  e.preventDefault();if(!drag.started){drag.started=true;selected=drag.token;drag.el.classList.add('sample-drag-source');drag.ghost=document.createElement('div');drag.ghost.className='sample-drag-ghost';drag.ghost.textContent=drag.token.dataset.value;document.body.append(drag.ghost);document.body.classList.add('exam-answer-dragging');document.body.classList.toggle('exam-heading-dragging',drag.token.classList.contains('mh-heading'));document.body.classList.toggle('exam-summary-dragging',drag.token.classList.contains('dnd-word'));document.body.style.userSelect='none';}
   drag.ghost.style.left=(e.clientX+10)+'px';drag.ghost.style.top=(e.clientY+10)+'px';drag.hover?.classList.remove('drag-over');drag.hover=dragTarget(e.clientX,e.clientY,drag.token.dataset.kind);drag.hover?.classList.add('drag-over');
  },{passive:false});
- function finish(cancelled=false){if(!drag)return;const state=drag;drag=null;if(state.started){if(!cancelled&&state.hover){if(state.hover.classList.contains('sample-bank')){if(state.from)clear(state.from);selected=null;document.querySelectorAll('.sample-token').forEach(t=>t.classList.remove('selected'));}else fill(state.hover,state.token);}else selected=null;state.ghost.remove();state.el.classList.remove('sample-drag-source');state.hover?.classList.remove('drag-over');document.body.classList.remove('exam-answer-dragging','exam-heading-dragging');document.body.style.userSelect='';suppressClick=true;setTimeout(()=>suppressClick=false,0);progress();}}
+ function finish(cancelled=false){if(!drag)return;const state=drag;drag=null;if(state.started){if(!cancelled&&state.hover){if(state.hover.classList.contains('sample-bank')){if(state.from)clear(state.from);selected=null;document.querySelectorAll('.sample-token').forEach(t=>t.classList.remove('selected'));}else fill(state.hover,state.token);}else selected=null;state.ghost.remove();state.el.classList.remove('sample-drag-source');state.hover?.classList.remove('drag-over');document.body.classList.remove('exam-answer-dragging','exam-heading-dragging','exam-summary-dragging');document.body.style.userSelect='';suppressClick=true;setTimeout(()=>suppressClick=false,0);progress();}}
  document.addEventListener('pointerup',e=>{if(drag?.started){drag.hover?.classList.remove('drag-over');drag.hover=dragTarget(e.clientX,e.clientY,drag.token.dataset.kind);}finish();});document.addEventListener('pointercancel',()=>finish(true));document.addEventListener('keydown',e=>{if(e.key==='Escape')finish(true)});
  const divider=document.querySelector('.divider'),main=document.querySelector('.main'),passage=document.querySelector('.passage'),panel=document.getElementById('qpanel');let resizing=false;
  divider.addEventListener('pointerdown',e=>{if(window.innerWidth<=760)return;resizing=true;divider.setPointerCapture?.(e.pointerId);e.preventDefault()});divider.addEventListener('pointermove',e=>{if(!resizing)return;const r=main.getBoundingClientRect();const pct=Math.max(25,Math.min(75,(e.clientX-r.left)/r.width*100));passage.style.flex='0 0 '+pct+'%';panel.style.flex='1 1 0';});divider.addEventListener('pointerup',()=>resizing=false);divider.addEventListener('pointercancel',()=>resizing=false);
