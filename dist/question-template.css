@@ -845,3 +845,9 @@ html[data-exam-contrast] body #divider.touch-resizing .resize-btn,html[data-exam
 html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn svg polygon{fill:currentColor!important}
 html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn svg line{stroke:currentColor!important}
 html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn .fa{color:inherit!important}
+
+/* Summary options remain a single unbroken card, including filled answers and ghosts. */
+html body .dnd-word{white-space:nowrap!important;overflow-wrap:normal!important;word-break:normal!important;max-width:none!important;width:max-content!important;flex-shrink:0!important}
+html body .dnd-wordbank{max-width:100%;overflow-x:auto;overflow-y:hidden}
+html body .dnd-summary-body .dnd-drop.filled,html body .dnd-summary-body .dnd-drop.filled .sample-filled{white-space:nowrap!important;overflow-wrap:normal!important;word-break:normal!important;max-width:none!important}
+html body.exam-summary-dragging :is(.sample-drag-ghost,.dnd-ghost){white-space:nowrap!important;overflow-wrap:normal!important;word-break:normal!important}
