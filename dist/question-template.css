@@ -791,3 +791,13 @@ html[data-exam-contrast] body .bottom-bar #bb-dots :is(button:not(.video-current
 html[data-exam-dark] body #qpanel :is(table,thead,tbody,tfoot,tr,th,td,.import-table th,.import-table td,.note-comp-table th,.note-comp-table td){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
 html[data-exam-dark] body #qpanel :is(#choice-result,#choice-explanation,.legacy-submit-result,#camouflage-result){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
 html[data-exam-dark] body #qpanel :is(.exam-question-explain,.explain){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
+
+/* Matching heading reference states: idle, drag availability, hover/focus and placed. */
+html{--heading-state-border:#418ec8;--heading-state-hover:#eef6fa}
+html[data-exam-contrast="white-on-black"]{--heading-state-border:#bd7039;--heading-state-hover:#000}
+html[data-exam-contrast="yellow-on-black"]{--heading-state-border:#00ffff;--heading-state-hover:#292929}
+html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap:not(.filled){border:2px dashed #418ec8!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body.exam-heading-dragging :is(#passage,#qpanel) .mh-gap.mh-gap:not(.filled){border:1px dashed var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap.filled{border:1px solid var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body #qpanel .mh-heading{outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body #qpanel .mh-heading:is(:hover,:focus){border-color:var(--heading-state-border)!important;background:var(--heading-state-hover)!important;outline:none!important;box-shadow:none!important}
