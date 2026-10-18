@@ -782,7 +782,7 @@ html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-part-progress 
 /* A question marker reflects activation only, never pointer hover. */
 html[data-exam-contrast]{--exam-question-focus:#3592df}
 html[data-exam-contrast="white-on-black"]{--exam-question-focus:#ff8a00}
-html[data-exam-contrast="yellow-on-black"]{--exam-question-focus:#b3b300}
+html[data-exam-contrast="yellow-on-black"]{--exam-question-focus:#00ffff}
 html[data-exam-contrast] body :is(#passage,#qpanel) :is(.choice-number,.mc-num,.ync-num,.tfng-num,.qnum,.order-number,.tif-num):not(.exam-question-active){border-color:transparent!important;outline:none!important;box-shadow:none!important;transition:none!important}
 html[data-exam-contrast] body :is(#passage,#qpanel) :is(.choice-number,.mc-num,.ync-num,.tfng-num,.qnum,.order-number,.tif-num).exam-question-active{border:2px solid var(--exam-question-focus)!important;outline:none!important;box-shadow:none!important;transition:none!important}
 html[data-exam-contrast] body :is(#passage,#qpanel) :is(.sample-drop,.mh-gap,.me-drop,.dnd-drop,.choice-gap,.ans-wrap input,.note-ans-wrap input).exam-question-active{border-color:var(--exam-question-focus)!important;outline:1px solid var(--exam-question-focus)!important;outline-offset:0;box-shadow:none!important}
@@ -810,3 +810,16 @@ html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop.filled{bo
 html[data-exam-contrast] body #qpanel .dnd-word{outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .dnd-word:is(:hover,:focus){border-color:var(--heading-state-border)!important;background:var(--heading-state-hover)!important;outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body :is(#passage,#qpanel) :is(.mh-gap.mh-gap,.dnd-drop.dnd-drop).drag-over{background:#333!important}
+
+/* Temporary text selection is separate from saved highlight colours. */
+html[data-exam-dark] body :is(#passage,#qpanel)::selection,
+html[data-exam-dark] body :is(#passage,#qpanel) ::selection{background:#e38c08;color:#000}
+/* Hover strengthens the tool itself; only its inactive sibling gets a pale wash. */
+html[data-exam-contrast]{--tool-idle:#737373;--tool-hover:#202020;--tool-base:#fff;--tool-sibling:linear-gradient(#fff,#f7f7f7)}
+html[data-exam-contrast="white-on-black"]{--tool-idle:#8c8c8c;--tool-hover:#dfdfdf;--tool-base:#000;--tool-sibling:linear-gradient(#000,#141414)}
+html[data-exam-contrast="yellow-on-black"]{--tool-idle:#b3b300;--tool-hover:#ffff00;--tool-base:#000;--tool-sibling:linear-gradient(#000,#141400)}
+html[data-exam-contrast] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete){background:var(--tool-base)!important;color:var(--tool-idle)!important;transition:none!important}
+html[data-exam-contrast] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete) svg{color:inherit!important;stroke:none!important}
+html[data-exam-contrast] body #context-menu .annotation-delete svg{stroke:currentColor!important}
+html[data-exam-contrast] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete):hover{background:var(--tool-base)!important;color:var(--tool-hover)!important}
+html[data-exam-contrast] body #selection-popup:has(.sel-btn:hover) .sel-btn:not(:hover){background:var(--tool-sibling)!important}
