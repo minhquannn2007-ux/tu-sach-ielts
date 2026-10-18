@@ -218,7 +218,18 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 #sample-type-select{font:14px Arial;max-width:210px;border:1px solid #bbb;background:white;padding:5px;color:#222}
 #sample-reset{font:13px Arial;padding:6px 10px;border:1px solid #bbb;background:white;cursor:pointer}
 #sample-status{font:12px Arial;color:#555;max-width:220px}.bottom-bar .subQuestion{background:transparent;border:0;cursor:pointer}
-</style><style id="ielts-question-template">/* COMMON / MATCHING INFORMATION / MULTIPLE CHOICE TWO / SUMMARY INPUT */
+</style><style id="ielts-question-template">
+/* Inspera splitter reference: Screenshot 2026-10-18 142538.png. */
+html body .divider{width:2px;flex-shrink:0;position:relative;cursor:col-resize;touch-action:none}
+html body .resize-bar{width:100%;height:100%;background:#909090;display:flex;align-items:center;justify-content:center;overflow:visible}
+html body .resize-btn{box-sizing:border-box;width:36px;height:36px;min-width:36px;min-height:36px;padding:0;border:2px solid #595959;border-radius:0;background:#fafafa;display:flex;align-items:center;justify-content:center;flex-shrink:0;cursor:col-resize;box-shadow:none;touch-action:none}
+html body .resize-btn svg{display:block;width:16px;height:10px;flex-shrink:0;pointer-events:none}
+html body .resize-btn svg polygon{fill:#595959}
+html body .resize-btn svg line{stroke:#595959;stroke-width:2;stroke-linecap:butt}
+html body .resize-btn .fa{font-size:16px;line-height:1;color:#595959;pointer-events:none}
+html body .resize-btn:focus:not(:focus-visible){border-color:#595959;outline:none}
+html body .resize-btn:focus-visible{outline:2px solid #418fc6;outline-offset:2px}
+/* COMMON / MATCHING INFORMATION / MULTIPLE CHOICE TWO / SUMMARY INPUT */
 html body .passage-example-heading{font:inherit;font-weight:700;line-height:inherit;margin:0 0 .15em;padding:0;border:0;background:none;}
 html body .sec-hdr{font-weight:700;font-size:16px;margin-bottom:10px;margin-top:22px;color:#000;}
 html body .sec-hdr:first-child{margin-top:24px;}
