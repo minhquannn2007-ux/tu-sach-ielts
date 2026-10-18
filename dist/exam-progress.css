@@ -33,3 +33,10 @@
 
 /* Give fourteen separate questions enough room without clipping the last one. */
 @media(min-width:1251px){.bottom-bar .bb-active-part:has([data-exam-q="40"]){min-width:626px!important}}
+
+/* Compact number focus frame from Screenshot 2026-10-18 142659(1).png. */
+.bottom-bar .subQuestion.scorable-item,.bottom-bar .tif-dot{min-width:18px!important}
+.bottom-bar .bb-q-num,.bottom-bar .tif-dot-label,.bottom-bar #bb-dots button.video-plain-dot{font:400 16px/22px Arial!important;height:24px!important;min-width:18px!important;width:auto!important;padding:0 2px!important;border-radius:1px!important;color:#333!important}
+.bottom-bar #bb-dots button[data-exam-questions*=','],.bottom-bar .exam-grouped-dot .bb-q-num,.bottom-bar .exam-grouped-dot .tif-dot-label{min-width:40px!important}
+.bottom-bar .exam-part-label,.bottom-bar .bb-inactive-label,.bottom-bar .bb-inactive-progress{font-size:16px!important}
+.exam-part-progress span.done{background:#358e14}

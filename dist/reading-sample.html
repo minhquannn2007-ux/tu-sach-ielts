@@ -781,6 +781,15 @@ html body .flow-chart-linear{min-width:0;width:100%;max-width:680px;margin:0 aut
 html body .flow-chart-linear>.flow-chart-box{width:100%;min-height:52px;border:1px solid #111;display:block;text-align:center;padding:10px 12px;box-sizing:border-box;overflow-wrap:break-word}
 html body .flow-chart-linear-arrow{height:28px;display:flex;align-items:center;justify-content:center;margin:3px 0}
 html body .flow-chart-linear-arrow img{display:block;width:22px;height:26px;object-fit:contain}
+
+/* Inspera radio reference, 18 Oct: white ring with blue central dot. */
+html body #qpanel :is(.radio-circ,.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ){box-sizing:border-box;width:13px!important;height:13px!important;flex:0 0 13px!important;border:1px solid #888!important;border-radius:50%;background:#fff!important;display:inline-flex;align-items:center;justify-content:center;box-shadow:none!important;transition:none}
+html body #qpanel :is(.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ){margin:calc((1.5em - 13px)/2) 0 0!important}
+html body #qpanel :is(.radio-lbl,.mc-opt-lbl,.ync-opt-lbl,.tfng-opt-lbl) input[type=radio]:checked ~ :is(.radio-circ,.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ){border-color:#0085ff!important;background:#fff!important}
+html body #qpanel :is(.radio-lbl,.mc-opt-lbl,.ync-opt-lbl,.tfng-opt-lbl) input[type=radio]:checked ~ :is(.radio-circ,.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ)::after{content:'';display:block;width:7px!important;height:7px!important;border:0;border-radius:50%;background:#0085ff!important;margin:0;box-shadow:none}
+html body #qpanel .choice-question label>input[type=radio]{width:13px;height:13px;flex:0 0 13px;accent-color:#0085ff;margin:calc((1.5em - 13px)/2) 0 0!important}
+html body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-lbl):has(input:checked){background:#bbd8f0!important}
+html body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-lbl){gap:6px;border-radius:2px}
 </style><link rel="stylesheet" href="exam-progress.css"></head>
 <body>
 
