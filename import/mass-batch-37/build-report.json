@@ -1,0 +1,109 @@
+[
+  {
+    "job": "p3-when-people-are-deaf-to-music",
+    "lessonId": "p3-when-people-are-deaf-to-music",
+    "sourceId": "1JKVJB1_Pc1BuH6t87ViaBwQqrcg0SEZQ",
+    "error": null,
+    "groups": []
+  },
+  {
+    "job": "p3-managing-the-language-barrier-in-international-business",
+    "lessonId": "p3-managing-the-language-barrier-in-international-business",
+    "sourceId": "1C4w_HC89AVGoapQ_QWHXZD9RoL4MGGbW",
+    "error": "27-34: Summary word bank missing",
+    "groups": []
+  },
+  {
+    "job": "p3-the-tuatara-past-and-future",
+    "lessonId": "p3-the-tuatara-past-and-future",
+    "sourceId": "1VdbGHTHs0LCcE-l5XQtxVvX7V3sv2-NQ",
+    "error": null,
+    "groups": [
+      [
+        "mc-one",
+        [
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      ],
+      [
+        "ynng",
+        [
+          32,
+          33,
+          34,
+          35
+        ]
+      ],
+      [
+        "summary-drag",
+        [
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      ]
+    ]
+  },
+  {
+    "job": "p3-what-makes-organisations-successful",
+    "lessonId": "p3-what-makes-organisations-successful",
+    "sourceId": "1FALDyyxUnvsTw_8DGbMBSz7cf4h7IfXx",
+    "error": "27-31: Missing, duplicate or unordered numbered prompts",
+    "groups": []
+  },
+  {
+    "job": "p3-what-is-history",
+    "lessonId": "p3-what-is-history",
+    "sourceId": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+    "error": "32-35: Answer-sheet boundary is unclear",
+    "groups": [
+      [
+        "ynng",
+        [
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      ]
+    ]
+  },
+  {
+    "job": "p3-risk-taking",
+    "lessonId": "p3-risk-taking",
+    "sourceId": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+    "error": "31-39: Source paragraph range differs from extracted text",
+    "groups": [
+      [
+        "matching-endings",
+        [
+          27,
+          28,
+          29,
+          30
+        ]
+      ]
+    ]
+  },
+  {
+    "job": "p3-the-peopling-of-patagonia",
+    "lessonId": "p3-the-peopling-of-patagonia",
+    "sourceId": "1HIYg-V2yHwnEWfXD7o9stxwEPOR_mbVY",
+    "error": "27-31: MC options missing",
+    "groups": []
+  },
+  {
+    "job": "p3-the-flouridation-controversy",
+    "lessonId": "p3-the-fluoridation-controversy",
+    "sourceId": "1h5wynQ8QHlMSIN68n3x1IStNaTQbm0Qh",
+    "error": "27-31: Answer-sheet boundary is unclear",
+    "groups": []
+  }
+]

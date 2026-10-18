@@ -11,6 +11,7 @@ for(const c of catalog){
  assert.equal(c.title,lesson.title);assert.equal(c.part,lesson.part);
  assert.equal(c.count,c.part===3?14:13);
  assert(fs.existsSync(path.join(root,c.cover.asset)),'Missing cover '+c.id);
+ for(const paragraph of lesson.paragraphs)if(paragraph.figure)assert(fs.existsSync(path.join(root,paragraph.figure.asset)),'Missing source figure '+c.id);
  for(const group of lesson.groups){
   if(group.diagram?.asset)assert(fs.existsSync(path.join(root,group.diagram.asset)),'Missing diagram '+c.id);
   if(group.flow?.arrow)assert(fs.existsSync(path.join(root,group.flow.arrow)),'Missing linear flow arrow '+c.id);

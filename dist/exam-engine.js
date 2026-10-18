@@ -79,7 +79,7 @@ function explain(n){return window.IELTSExam.explain(n)}
   lesson.paragraphs.forEach((p,i)=>{
    const blocks=p.blocks?.length>1?p.blocks:[p.text],section=blocks.length>1?element('div','passage-section'):null;
    const quotes=(mark||[]).filter(e=>e.paragraph===i&&e.quote).map(e=>({at:p.text.indexOf(e.quote),text:e.quote})).filter(e=>e.at>=0).sort((a,b)=>a.at-b.at);let offset=0;
-   blocks.forEach((text,j)=>{const row=element(p.heading?'h3':'p',p.heading?'passage-section-title':'passage-para'+(p.bullet?' passage-bullet':''));if(!section)row.id='para'+i;
+   blocks.forEach((text,j)=>{const row=element(p.heading?'h3':'p',p.heading?'passage-section-title':'passage-para'+(p.bullet?' passage-bullet':''));if(!section)row.id='para'+i;if(j===0&&p.figure){const image=element('img','passage-source-figure');image.src=p.figure.asset;image.alt=p.figure.alt;Object.assign(image.style,{float:'right',width:'34%',maxWidth:'220px',height:'auto',margin:'0 0 12px 18px'});row.append(image)}
     if(j===0&&p.label&&lesson.displayParagraphLabels!==false&&!lesson.groups.some(g=>g.type==='matching-headings'))row.append(element('span','para-lbl',p.label));
     let cursor=0;for(const q of quotes){const start=Math.max(0,q.at-offset),end=Math.min(text.length,q.at+q.text.length-offset);if(end<=start||start<cursor)continue;row.append(document.createTextNode(text.slice(cursor,start)),element('mark','evidence-hit',text.slice(start,end)));cursor=end}row.append(document.createTextNode(text.slice(cursor)));(section||passage).append(row);offset+=text.length+1;
    });if(section){section.id='para'+i;passage.append(section)}

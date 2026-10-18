@@ -1,0 +1,95 @@
+{
+  "id": "p3-risk-taking",
+  "title": "Risk taking",
+  "part": 3,
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "We run risks. Most of the time we ignore them; sometimes we stop and decide how to deal with them. That’s life. Risks arise in sports, in business, in personal relationships; they are present in the laboratory, in political calculations, everywhere. Acting individually, we often prefer to gain some benefit by accepting some danger. Acting collectively, we make similar trade-offs."
+    },
+    {
+      "label": "B",
+      "text": "When society must assess risks, and those risks can be clarified, at least in part, by science, technology or mathematics, the responsibility of the research community is to be clear and complete. But that is not always so easy. Furthermore, too few people pay full attention to the best evidence, much less modify their behavior as a result. Even when the evidence of high risk is clear — about smoking, for instance — many will deny the risk, or dispute it, or accept that it exists and still go ahead. As a former cigarette smoker, | understand denial. c Perhaps more important than the basic facts of risk are the varied perceptions of it. Hearing the prediction of 60% chance of rain, or recognizing the minuscule likelihood of becoming ill from a flu shot, most people understand the right responses: take your umbrella and get your flu shot. But some, fearfully but irrationally, go to the extreme and stay at home and avoid all contact with other people. Irrational decisions occasionally affect us all. When it comes to risks the best odds do not always influence people to make the correct decision."
+    },
+    {
+      "label": "D",
+      "text": "In her book, The Universe and the Teacup, the science writer K. C. Cole reminds us that the risks of losing something and gaining something appear to be calculated in our minds according to quite different scales. People will risk a lot to prevent a loss, she notes; some people will rush into a burning building to save a pet. But they will usually risk very little if the only perceived outcome is a possible gain; many people won’t even risk pursuing an exciting job, if the current job, though unfulfilling, remains comfortable. That psychological mechanism, a desire to maintain the status quo, helps explain the high hurdles that any rational risk assessment must confront. Organizations face the same hurdles whenever they must cope with major shifts in policy. In his classic examination of the character of high-tech industry, Only the Paranoid Survive, Andrew S. Grove gives a perceptive account of a crisis that took place during his tenure as Chairman of the Intel Corporation. The business environment for Intel and its competitors was transformed by a flood of low-cost memory chips from Japan, and Intel made the difficult decision to abandon its chip-making business. Such a period of change in the outside world is filled with danger, Grove notes, precisely because it is so easy for executives to try to disregard it or misinterpret the mounting evidence showing the profound risks of not making change at the very core. The distinction Cole cites is instructive here: one reason management and staff may not act is that they tend to focus on the potential gains of risking change (which they characterize as small), rather than on the catastrophic losses that risking change could prevent. The period becomes critical for a company, according to Grove, and deadly when unattended to. Likewise, at the national level, and even the global one, institutions tend to be more willing to take a risk if it means avoiding a loss, than they are if it might confer a gain. Almost everyone, for instance, sees the signs of ecological decay. Reid J. Lifset’s article, ‘Full Accounting’, describes newly developed techniques for clarifying which critical decision would have the highest pay-offs for the environment. Once these ‘leverage points’ as he calls them, are located, many environmental organizations will be willing to risk the resources needed to prevent further deterioration. More complicated are decisions by nations to invest broadly in educational research. Some governmental leaders are oblivious to the risks posed by social under-investment, because the urgent needs of the present take precedence over actions that would give rise to even more substantial gains in the future. Their attitude is that today’s risks must be manageable, and that tomorrow’s gains are at the very least difficult to measure. Better consideration and decision making for what lies ahead is essential. Nevertheless, | confess to being an optimist. My glass is generally half full — though that may not help me handle risk. Whether one’s temperament is optimistic or pessimistic, everyone in our scientific and engineering community has a social responsibility: measure with care and portray with honesty the level of risk involved in any action or decision."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 — 30 Complete each sentence with the correct ending, A-G, below. Write the correct letter, A-G, in boxes 27-30 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "K. C. Cole points out that avoiding a loss seems more important to people than"
+        },
+        {
+          "n": 28,
+          "prompt": "According to Andrew S. Grove, it can be very dangerous for companies to ignore"
+        },
+        {
+          "n": 29,
+          "prompt": "Reid J. Lifset argues that environmental agencies can benefit from"
+        },
+        {
+          "n": 30,
+          "prompt": "The writer suggests that government leaders need to focus more on"
+        }
+      ],
+      "type": "matching-endings",
+      "bank": [
+        {
+          "value": "A",
+          "text": "planning for the future."
+        },
+        {
+          "value": "B",
+          "text": "predicting their errors."
+        },
+        {
+          "value": "C",
+          "text": "continuing in the present situation."
+        },
+        {
+          "value": "D",
+          "text": "recent findings on the most effective solutions to problems."
+        },
+        {
+          "value": "E",
+          "text": "achieving a gain."
+        },
+        {
+          "value": "F",
+          "text": "changes occurring externally."
+        },
+        {
+          "value": "G",
+          "text": "a high level of agreement."
+        }
+      ],
+      "reuse": false
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+      "role": "passage-and-questions",
+      "sha256": "11fac28c6591a34247429a9dfe5368da21ee9de68280b213eb9f1322dd555ccd",
+      "name": "PAPER + PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.24",
+    "jobId": "p3-risk-taking",
+    "method": "source-verified-ocr-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 3
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "p3-what-is-history",
+  "title": "What is history?",
+  "part": 3,
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "The answer to the question ‘What is history?’ seems obvious: history is the study of the past. But it’s not quite as simple as that. There are some ways of studying the past that cannot be classified as history. History is, in the first place, the study of the past in order to find out the truth about it. Unlike novelists or film-makers, historians do not invent things that did not happen or conjure up characters that did not exist. When dealing with a topic drawn from the past, novelists and screenwriters can make up dialogue and use their imagination to make the subject more exciting. Historians have no such luxury. They deal with fact, not fiction."
+    },
+    {
+      "text": "This distinction has been made by all historians ever since the first serious historical work, the History of the Peloponnesian War, was written by the Greek historian Thucydides 2,500 years ago. Thucydides rejected the romantic myths of the poets and checked all his evidence, as he told his readers, ‘with as much thoroughness as possible’. But he went on to complain, as historians have done regularly ever since, that the truth was far from easy to discover: ‘Different eyewitnesses give different accounts of the same events, speaking out of partiality for one side or the other or else from imperfect memories.’"
+    },
+    {
+      "text": "Modern historians have developed sophisticated methods of checking evidence and dealing with the gaps and partialities of their sources, But they can never attain perfect knowledge of the whole truth. All they can do is establish probabilities — sometimes overwhelming, sometimes less so — about parts of the past: SS \"27 oe A those parts that can be accessed by means of the relics it has handed down in one form or another to posterity."
+    },
+    {
+      "text": "History has a second essential quality: it aims not just at reconstructing and representing the past but also at understanding and interpreting it. This is what makes history different from chronicles, which describe events as they happened over the years, but do not try to make any connection between them or attempt to explain why they occurred."
+    },
+    {
+      "text": "The historical approach to the past is also different from that of morality and the law. Those approaches to the past are concerned with establishing guilt or innocence and classifying actions as good or evil, lawful or criminal. It has recently become fashionable to categorise historical figures ‘from a time such as the European settlement of Australia in terms derived from morality and the law: as ‘perpetrators’, ‘victims’ and so on, and to distribute praise and blame accordingly. This is profoundly alien to the enterprise of history, which is concerned in the first place with explaining why people did what they did, not with issuing their own verdicts on complex moral issues based on the luxury of hindsight."
+    },
+    {
+      "text": "Of course, historians can and often do provide evidence in legal cases, such as when commissions are assessing claims for historic wrongs, just as another important side of their work lies in producing scholarly editions of previously unpublished documents. But such a deployment of expertise, however necessary, is not their chief business, The historian's job is to explain; it is for others to judge. Historians therefore have to try to understand the past from a variety of points of view, not just to see it through the eyes of one person or group who lived at that time, still less to study it extensively in the light of the concerns of the time in which they themselves are writing. History written purely to fulfil a present-day purpose, such as encouraging national pride or showing that one ethnic or national group has been oppressed over the ages by another, is all too likely to degenerate into propaganda, Nevertheless, historical perspectives change, not just with growing distance in time but also with the changing ideas and interests of historians themselves and the society they live in, The days when history was concemed principally with kings and battles, politics and diplomacy, ‘great men’ and ‘great wars’ are long gone. In the 21st century, big questions involve the history of private as well as public life, of ideas and beliefs, of personal behaviour, even of broad topics such as the environment, geography and the natural world."
+    },
+    {
+      "text": "Of course, historians have always disagreed among themselves about virtually all of these points. Controversy is an indispensable means of advancing historical knowledge, as the rough edges are rubbed off implausible or exaggerated interpretations, and reasoned debate disposes of the unsupported argument. This is why politicians are nearly always mistaken when they claim that ‘history’ will prove they were right."
+    },
+    {
+      "text": "The historian’s training can allow the wilder claims of politicians and statesmen to be punctured. Training can or should help anyone who undergoes it to separate the genuine from the fake, and to demand clear evidence for a statement. It is helpful in the wider fields of culture, tourism and the arts, which in Britain, for example, income and export earnings than the manufacturing industries do nowadays. History books, television shows, and magazine articles have never been more popular in the UK. History in this broad sense is a major national economic earner. But its most important justification lies in its less immediately tangible effects, History can teach us about other societies and other beliefs and so help us to build a better world for the future."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 — 31 Do the following statements agree with the views of the writer In Reading Passage 37 In boxes 27-31 on your answer sheet, write YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "It is acceptable for novelists to invent details when describing real people and events from the past."
+        },
+        {
+          "n": 28,
+          "prompt": "The importance of the work of the Greek historian Thucydides has been underestimated by other historians."
+        },
+        {
+          "n": 29,
+          "prompt": "In the interpretation of history, historians should avoid creating connections between different events."
+        },
+        {
+          "n": 30,
+          "prompt": "The use of legal terminology may prevent the public from understanding historical studies."
+        },
+        {
+          "n": 31,
+          "prompt": "Historians should refrain from giving personal opinions about what was right or wrong in the past."
+        }
+      ],
+      "type": "ynng"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+      "role": "passage-and-questions",
+      "sha256": "82e872a961ca769a165bf7e44b7596242a156dfd4031bb2d74f3ca6e19d62f55",
+      "name": "PAPER"
+    }
+  ],
+  "conversion": {
+    "version": "3.24",
+    "jobId": "p3-what-is-history",
+    "method": "source-verified-ocr-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 8
+  }
+}
