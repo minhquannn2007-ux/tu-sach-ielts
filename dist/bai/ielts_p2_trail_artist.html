@@ -1383,8 +1383,7 @@ function makeMatchRow(q,letters){
     const lbl=document.createElement('label');lbl.className='radio-lbl';
     const r=document.createElement('input');r.type='radio';r.name='q'+q.n;r.value=l;
     r.addEventListener('click',function(){
-      if(this.dataset.wasChecked==='true'){this.checked=false;this.dataset.wasChecked='false';unAnswer(q.n);sp.classList.remove('active');}
-      else{document.querySelectorAll(`input[name="q${q.n}"]`).forEach(rb=>rb.dataset.wasChecked='false');this.dataset.wasChecked='true';onAnswer(q.n);}
+      {document.querySelectorAll(`input[name="q${q.n}"]`).forEach(rb=>rb.dataset.wasChecked='false');this.dataset.wasChecked='true';onAnswer(q.n);}
     });
     const c=document.createElement('span');c.className='radio-circ';
     lbl.appendChild(r);lbl.appendChild(c);td.appendChild(lbl);tr.appendChild(td);

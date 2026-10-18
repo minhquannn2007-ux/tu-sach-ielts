@@ -40,3 +40,8 @@
 .bottom-bar #bb-dots button[data-exam-questions*=','],.bottom-bar .exam-grouped-dot .bb-q-num,.bottom-bar .exam-grouped-dot .tif-dot-label{min-width:40px!important}
 .bottom-bar .exam-part-label,.bottom-bar .bb-inactive-label,.bottom-bar .bb-inactive-progress{font-size:16px!important}
 .exam-part-progress span.done{background:#358e14}
+
+/* Compact thick tick matching the supplied Inspera submit control. */
+.bottom-bar .exam-submit{box-sizing:border-box;flex:0 0 76px!important;width:76px!important;height:52px!important;align-self:flex-end;background:#efefef!important;color:#555!important;display:flex;align-items:center;justify-content:center;padding:0!important}
+.bottom-bar .exam-submit svg{display:block;width:18px;height:18px;pointer-events:none}
+.bottom-bar .exam-submit:disabled{opacity:.5;cursor:default}

@@ -574,3 +574,6 @@ html body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-
 /* Start every reading pane pair at the screen centre; inline drag sizes override this. */
 @media(min-width:600px){html body .main>.passage,html body .main>.qpanel{box-sizing:border-box;flex:0 0 calc((100% - 2px)/2);width:auto}}
 html body .hl{background:#7d4a5a!important;color:#fff!important}
+
+/* Submission is available only through the footer tick. */
+html body #submit-choice{display:none!important}

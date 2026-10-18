@@ -794,6 +794,9 @@ html body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-
 /* Start every reading pane pair at the screen centre; inline drag sizes override this. */
 @media(min-width:600px){html body .main>.passage,html body .main>.qpanel{box-sizing:border-box;flex:0 0 calc((100% - 2px)/2);width:auto}}
 html body .hl{background:#7d4a5a!important;color:#fff!important}
+
+/* Submission is available only through the footer tick. */
+html body #submit-choice{display:none!important}
 </style><link rel="stylesheet" href="exam-progress.css"></head>
 <body>
 
@@ -876,7 +879,7 @@ html body .hl{background:#7d4a5a!important;color:#fff!important}
  document.querySelectorAll('.sample-token').forEach(t=>{t.addEventListener('click',()=>select(t));t.addEventListener('dragstart',e=>{select(t);e.dataTransfer.setData('text/plain',t.dataset.value);e.dataTransfer.effectAllowed='move';})});
  document.querySelectorAll('.sample-drop').forEach(d=>{d.addEventListener('dragover',e=>{if(selected?.dataset.kind===d.dataset.kind){e.preventDefault();d.classList.add('drag-over')}});d.addEventListener('dragleave',()=>d.classList.remove('drag-over'));d.addEventListener('drop',e=>{e.preventDefault();d.classList.remove('drag-over');fill(d,selected)});const click=()=>{if(selected)fill(d,selected);else if(d.classList.contains('filled'))clear(d)};d.addEventListener('click',click);d.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();click()}if(e.key==='Backspace'||e.key==='Delete')clear(d)})});
  document.querySelectorAll('.tif-opt').forEach(o=>{const toggle=()=>{if(!o.classList.contains('selected')&&document.querySelectorAll('#sample-two-container input:checked').length>=2){status.textContent='Dạng này chỉ chọn TWO đáp án.';return}o.classList.toggle('selected');o.setAttribute('aria-checked',String(o.classList.contains('selected')));progress()};o.addEventListener('click',toggle);o.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();toggle()}})});
- document.querySelectorAll('.radio-lbl input').forEach(i=>i.addEventListener('click',()=>{if(i.dataset.last==='true'){i.checked=false;i.dataset.last='false';}else{document.querySelectorAll('input[name="'+i.name+'"]').forEach(x=>x.dataset.last='false');i.dataset.last='true';}progress()}));
+ document.querySelectorAll('.radio-lbl input').forEach(i=>i.addEventListener('click',()=>{progress()}));
  document.querySelectorAll('#sample-two-container input').forEach(input=>input.addEventListener('change',()=>{const chosen=document.querySelectorAll('#sample-two-container input:checked');if(chosen.length>2)input.checked=false;const limit=document.querySelectorAll('#sample-two-container input:checked').length>=2;document.querySelectorAll('#sample-two-container input').forEach(i=>i.disabled=limit&&!i.checked);active=4;progress();}));
  document.querySelectorAll('input').forEach(i=>{i.addEventListener('input',progress);i.addEventListener('change',progress)});
  function sampleParagraphLabels(type){document.querySelectorAll('#passage .para-lbl').forEach(label=>label.hidden=type!=='#type-matching-info');}
