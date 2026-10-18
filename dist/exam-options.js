@@ -6,12 +6,12 @@
  function read(){try{return clean(JSON.parse(localStorage.getItem(key)||'null'))}catch{return clean(null)}}
  let settings=clean(embedded&&parent.IELTSOptions?parent.IELTSOptions.settings:read()),screen=null,view='options',trigger=null,previousFocus=null,blocked=[],pointerOpen=false;
  function apply(next,{save=false,propagate=true}={}){
-  settings=clean(next);const root=document.documentElement;root.dataset.examContrast=settings.contrast;root.dataset.examTextSize=settings.textSize;root.toggleAttribute('data-exam-dark',settings.contrast!==contrasts[0]);root.style.setProperty('--exam-text-scale',settings.textSize==='large'?'1.25':settings.textSize==='extra-large'?'1.5':'1');
+  settings=clean(next);const root=document.documentElement;root.dataset.examContrast=settings.contrast;root.dataset.examTextSize=settings.textSize;root.toggleAttribute('data-exam-dark',settings.contrast!==contrasts[0]);root.style.setProperty('--exam-text-scale',settings.textSize==='large'?'1.2':settings.textSize==='extra-large'?'1.4':'1');
   if(save)try{localStorage.setItem(key,JSON.stringify(settings))}catch{}
   if(propagate)for(const frame of document.querySelectorAll('#full-frames iframe'))try{frame.contentWindow.IELTSOptions?.apply(settings,{propagate:false})}catch{}
   if(screen)paintChecks();window.dispatchEvent(new Event('resize'));
  }
- function paintChecks(){for(const button of screen.querySelectorAll('[data-preference]')){const checked=settings[button.dataset.preference]===button.dataset.value;button.setAttribute('aria-checked',String(checked));button.querySelector('.options-check').textContent=checked?'✓':''}}
+ function paintChecks(){for(const button of screen.querySelectorAll('[data-preference]')){const checked=settings[button.dataset.preference]===button.dataset.value;button.setAttribute('aria-checked',String(checked));button.querySelector('.options-check').innerHTML=checked?'<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 10l4 4L17 4"/></svg>':''}}
  const arrow='<svg class="options-arrow" viewBox="0 0 20 20" aria-hidden="true"><path d="m7 4 6 6-6 6"/></svg>';
  const contrastIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor" stroke="none"/></svg>';
  const sizeIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6M10 6v8M6 10h8"/></svg>';

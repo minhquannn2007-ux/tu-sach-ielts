@@ -682,7 +682,7 @@ html[data-exam-dark] body .bottom-bar .exam-submit{background:#101010!important;
 html[data-exam-dark] body .bottom-bar .exam-submit svg{color:inherit;stroke:currentColor}
 html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-submit{background:#666!important}
 html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-part-complete{color:#ff0!important}
-html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:is(.answered,.video-current),html[data-exam-contrast="yellow-on-black"] body .bottom-bar :is(.answered .bb-q-num,.answered .tif-dot-label,.video-current .bb-q-num,.video-current .tif-dot-label){background:#808000!important;color:#000!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:is(.video-current),html[data-exam-contrast="yellow-on-black"] body .bottom-bar :is(.video-current .bb-q-num,.video-current .tif-dot-label){background:#808000!important;color:#000!important}
 html[data-exam-dark] body :is(#selection-popup,#context-menu){background:#000!important;color:var(--exam-fg)!important;border-color:#666!important}
 html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete),html[data-exam-dark] body :is(#selection-popup .sel-btn svg,#context-menu .annotation-delete svg){color:var(--exam-fg)!important;stroke:var(--exam-fg)!important}
 html[data-exam-dark] body :is(.exam-notes,#note-panel){background:var(--exam-note-panel)!important;color:var(--exam-fg)!important}
@@ -699,24 +699,15 @@ html[data-exam-dark] body .exam-note-card.editing textarea::placeholder{color:#0
 html[data-exam-dark] body .exam-note-card.editing .exam-note-actions button{color:#0000ff!important}
 html[data-exam-dark] body #note-panel textarea{background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-note-border)!important}
 html[data-exam-dark] body :is(.submission-review,.submission-review-stage,.submission-review-footer,.submission-review-part,#full-summary>div){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-line)!important}
-/* Keep toolbar/menu geometry fixed; enlarge the actual reading and question text. */
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body :is(.passage,.qpanel,.sec-hdr,.sec-inst,.tfng-stmt,.ync-stmt,.mc-stmt,.me-text,.summ-body,.summ-title,.choice-notes,.source-notes,.grid-tbl,.researchers,.res-name,.source-note-row,.choiceInteraction__choiceInteraction___QMm1T,.choiceInteraction__choiceInteraction___QMm1T label.text,.diagram-label,.diagram-fixed,.sample-token,.sample-drop,.part-box h2,.part-box p,.tfng-opt-lbl,.ync-opt-lbl,.mc-opt-lbl,.tif-opt,.tif-stmt,.tif-stem,.interaction-prompt,.interaction-prompt .text,.td-q,.q-text-inner,.grid-tbl th,.researchers-hdr,.res-ltr,.me-sentence,.me-ending,.mh-heading,.dnd-word,.sample-number,.sample-filled,.para-lbl){font-size:calc(16px * var(--exam-text-scale))!important;line-height:1.5}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #passage .passage-title{font-size:calc(20.8px * var(--exam-text-scale))!important}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #passage .passage-sub{font-size:calc(18px * var(--exam-text-scale))!important}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body .source-footnote{font-size:calc(14px * var(--exam-text-scale))!important}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #qpanel :is(.choice-gap,.ans-wrap input){font-size:calc(16px * var(--exam-text-scale))!important;height:calc(23px * var(--exam-text-scale))!important;line-height:calc(21px * var(--exam-text-scale))!important}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body :is(.tfng-num,.ync-num,.mc-num,.choice-number,.order-number,.qnum,.tif-num){font-size:calc(16px * var(--exam-text-scale))!important}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body .exam-note-card :is(p,textarea){font-size:calc(16px * var(--exam-text-scale))!important}
 /* Explicit IDs keep the sampled footer colours above the original footer rules. */
 html[data-exam-dark] body .bottom-bar #bb-dots button.video-plain-dot{color:var(--exam-fg)!important;background:transparent!important}
-html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:is(.answered,.video-current){background:#808000!important;color:#000!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:is(.video-current){background:#808000!important;color:#000!important}
 html[data-exam-dark] body .nav-arrows .nav-btn:disabled{background:#666!important;color:var(--exam-fg)!important}
 html[data-exam-contrast="white-on-black"] body #divider .resize-btn{background:#000!important;color:#fff!important;border-color:#aaa!important}
 html[data-exam-contrast="yellow-on-black"] body #divider .resize-btn{background:#fff!important;color:#000!important;border-color:#aaa!important}
 html[data-exam-dark] body #divider .resize-btn .fa{color:inherit!important}
 html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar{width:14px;background:#000}
 html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar-thumb{background:#666}
-html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #qpanel :is(.tfng-num,.ync-num,.mc-num,.choice-number,.order-number,.qnum,.tif-num){font-size:calc(16px * var(--exam-text-scale))!important}
 /* Complete all control variants, including the original HTML lessons. */
 html[data-exam-dark] body #qpanel :is(.flow-chart,.flow-chart-box,.flow-chart-title,.choice-notes,.note-comp-table,.summ-body,.summ-title,.dnd-summary-body,.order-number,.sample-number,.sample-filled,.tif-num,.me-num,.dnd-num,.gapOrderNumber){background:var(--exam-bg)!important;border-color:var(--exam-line)!important}
 html[data-exam-dark] body #qpanel .flow-chart :is(.flow-chart-linear-arrow img,.flow-arrow-left,.flow-arrow-right,.flow-chart-connector img){filter:invert(1)}
@@ -724,7 +715,7 @@ html[data-exam-dark] body #qpanel .tif-opt .tif-cb{background:var(--exam-bg)!imp
 html[data-exam-dark] body #qpanel .tif-opt.selected .tif-cb{background:var(--exam-accent)!important;border-color:var(--exam-accent)!important}
 html[data-exam-dark] body .sample-drag-ghost{background:var(--exam-bg)!important;color:var(--exam-fg)!important;border-color:var(--exam-line)!important}
 html[data-exam-dark] body .bottom-bar #bb-dots :is(.bb-q-num,.tif-dot-label){color:var(--exam-fg)!important}
-html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(.answered .bb-q-num,.answered .tif-dot-label,.video-current .bb-q-num,.video-current .tif-dot-label){background:#808000!important;color:#000!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(.video-current .bb-q-num,.video-current .tif-dot-label){background:#808000!important;color:#000!important}
 html[data-exam-dark] body #note-panel .note-header{background:#000!important;color:var(--exam-fg)!important}
 html[data-exam-dark] body #note-panel .note-close-btn{background:transparent!important;color:var(--exam-fg)!important}
 html[data-exam-dark] body #note-panel:focus-within,html[data-exam-dark] body #note-panel:focus-within textarea{background:#3cffff!important;color:#000!important;border-color:var(--exam-note-edit-border)!important}
@@ -738,3 +729,37 @@ html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotatio
 html[data-exam-dark] body :is(#selection-popup .sel-btn svg,#context-menu .annotation-delete svg){color:var(--exam-annotation-tool)!important;stroke:none!important}
 html[data-exam-dark] body #context-menu .annotation-delete svg{stroke:var(--exam-annotation-tool)!important}
 html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete):hover{background:#171717!important}
+/* Text-size references at 100% browser zoom: 16 / 19.2 / 22.4 px.
+   The splitter, radio circles, annotation popup and 300px sidebar do not zoom. */
+html[data-exam-text-size] body :is(.passage,.qpanel,.sec-hdr,.sec-inst,.tfng-stmt,.ync-stmt,.mc-stmt,.me-text,.summ-body,.summ-title,.choice-notes,.source-notes,.grid-tbl,.researchers,.res-name,.source-note-row,.choiceInteraction__choiceInteraction___QMm1T,.choiceInteraction__choiceInteraction___QMm1T label.text,.diagram-label,.diagram-fixed,.sample-token,.sample-drop,.part-box h2,.part-box p,.tfng-opt-lbl,.ync-opt-lbl,.mc-opt-lbl,.tif-opt,.tif-stmt,.tif-stem,.interaction-prompt,.interaction-prompt .text,.td-q,.q-text-inner,.grid-tbl th,.researchers-hdr,.res-ltr,.me-sentence,.me-ending,.mh-heading,.dnd-word,.sample-number,.sample-filled,.para-lbl,.flow-chart,.flow-chart-box,.short-question,.short-prompt){font-size:calc(16px * var(--exam-text-scale))!important;line-height:1.5}
+html[data-exam-text-size] body #passage .passage-title{font-size:calc(20.8px * var(--exam-text-scale))!important;margin-top:calc(24px * var(--exam-text-scale));margin-bottom:calc(16px * var(--exam-text-scale))}
+html[data-exam-text-size] body #passage .passage-sub{font-size:calc(18px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body .source-footnote{font-size:calc(14px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body #qpanel :is(.choice-gap,.ans-wrap input){font-size:calc(16px * var(--exam-text-scale))!important;width:calc(174px * var(--exam-text-scale))!important;min-width:calc(174px * var(--exam-text-scale))!important;height:calc(23px * var(--exam-text-scale))!important;line-height:calc(21px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body #qpanel .shared-diagram :is(.choice-gap,.dnd-drop){width:calc(180px * var(--exam-text-scale))!important;min-width:calc(180px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body #qpanel :is(.tfng-num,.ync-num,.mc-num,.choice-number,.order-number,.qnum,.tif-num){font-size:calc(16px * var(--exam-text-scale))!important;line-height:calc(23px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body #qpanel :is(.tfng-num,.ync-num,.mc-num,.choice-number,.qnum){min-width:calc(16px * var(--exam-text-scale) + 13px);height:calc(16px * var(--exam-text-scale) + 11px)}
+html[data-exam-text-size] body :is(.tfng-question,.ync-question,.mc-question,.choice-question){margin-bottom:calc(40px * var(--exam-text-scale))}
+html[data-exam-text-size] body #passage :is(.passage-para,.passage-section>.passage-para){margin-bottom:calc(22px * var(--exam-text-scale))}
+html[data-exam-text-size] body :is(.sec-hdr,.sec-hdr:first-child){margin-top:calc(24px * var(--exam-text-scale));margin-bottom:calc(10px * var(--exam-text-scale))}
+html[data-exam-text-size] body .sec-inst{margin-bottom:calc(16px * var(--exam-text-scale))}
+html[data-exam-text-size] body .exam-notes{width:300px}
+html[data-exam-text-size] body .exam-notes-head{height:calc(55px * var(--exam-text-scale));font-size:calc(16px * var(--exam-text-scale))}
+html[data-exam-text-size] body .exam-notes-list{height:calc(100% - 55px * var(--exam-text-scale))}
+html[data-exam-text-size] body .exam-note-card :is(p,textarea),html[data-exam-text-size] body .exam-note-card .exam-note-actions button{font-size:calc(16px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body .exam-note-card textarea{height:47px;min-height:47px}
+html[data-exam-text-size] body .exam-note-card{padding-top:calc(20px * var(--exam-text-scale));padding-bottom:calc(20px * var(--exam-text-scale))}
+html[data-exam-text-size] body :is(.sample-drag-ghost,.dnd-summary-body,.me-num,.dnd-num,.gapOrderNumber,.gapFilledText,.mh-heading-text,.passage-section-title,.import-table){font-size:calc(16px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body #qpanel .choice-notes-title,html[data-exam-text-size] body .reviewed-diagram-figure>.diagram-title{font-size:calc(18px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body .mh-gap:not(.filled){width:calc(534px * var(--exam-text-scale))!important;height:calc(24px * var(--exam-text-scale))!important;min-height:calc(24px * var(--exam-text-scale))!important;line-height:calc(24px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body .mh-gap.filled{min-height:calc(24px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body .mh-heading{min-height:calc(24px * var(--exam-text-scale))!important;line-height:calc(20px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body .me-drop:not(.filled){width:calc(300px * var(--exam-text-scale));height:calc(25px * var(--exam-text-scale));line-height:calc(25px * var(--exam-text-scale))}
+html[data-exam-text-size] body .dnd-word{line-height:calc(20px * var(--exam-text-scale))!important}
+html[data-exam-dark] body #passage .mh-gap{background:var(--exam-bg)!important;color:var(--exam-fg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body #passage .mh-gap.video-current{border-color:var(--exam-focus)!important;outline-color:var(--exam-focus)!important}
+html[data-exam-text-size] body .passage-para:has(+ .source-footnote){margin-bottom:0}
+/* Footer focus is independent of completion. Hover never creates a second active cell. */
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:not(.video-current),html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(.bb-q-num,.tif-dot-label):not(.video-current .bb-q-num,.video-current .tif-dot-label){background:transparent!important;color:#ff0!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(button.video-plain-dot:not(.video-current):hover,button.video-plain-dot:not(.video-current):focus-visible,.subQuestion:not(.video-current):hover .bb-q-num,.tif-dot:not(.video-current):hover .tif-dot-label){border-color:transparent!important;outline:none!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-current,html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots .video-current :is(.bb-q-num,.tif-dot-label){background:#808000!important;color:#000!important;font-weight:700!important}
