@@ -68,3 +68,7 @@ The Notes panel empty message is vertically centred. A note card is blue only wh
 Every new standalone attempt and Full Test asks ‘Bạn muốn làm trong vòng bao nhiêu phút?’ before revealing the exam. Only integer minutes 1–120 are accepted. The shared exam-duration controller renders a normal-weight 15px countdown below Test taker ID, left aligned with it; no site-name link appears in exam headers. Expiry bypasses and closes pending submission review, saves the existing responses once and locks the attempt. Manual submission stops the timer. Full Test resume retains its saved time, including durations up to 120 minutes; closing the page pauses it. Full Test loading does not consume chosen exam time. Keep the 11 legacy paths connected too, including the two custom footer controllers via legacy-duration.js.
 
 Run exam-duration-dom.mjs and full-test-dom.mjs with HAPPY_DOM_MODULE set to happy-dom/lib/index.js when changing timing or forced submission.
+
+## Consecutive two-of-five tasks — 18 October 2026
+
+Consecutive two-of-five groups with contiguous question numbers and identical displayed instructions share exactly one Questions first–last heading and one instruction, as in the supplied Questions 18–23 example. Preserve each pair's own number, prompt, five choices, two-answer cap, restore and answer mapping. The shared renderer applies this to both standalone and Full Test frames; retain the same grouping in the legacy Goya page. Apply all interface changes to both standalone and Full Test views.
