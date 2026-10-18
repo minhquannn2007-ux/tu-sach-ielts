@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css">
+<link rel="stylesheet" href="question-template.css?v=notes-icon-v325">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -844,6 +844,9 @@ html body.submission-review-open .submit-review-extra-icon{display:none!importan
 html body .exam-note-card .exam-note-delete-message{display:block;margin:20px 0 12px;font:16px/1.5 Arial}
 html body .exam-note-card:has(.exam-note-delete-message) .exam-note-actions{justify-content:flex-end;gap:32px;margin-top:0}
 
+html body .nav-icons [aria-label="Notes"]{width:24px!important;height:24px!important;outline:none!important;border:0!important;box-shadow:none!important;color:#222}
+html body .nav-icons [aria-label="Notes"]:focus-visible{background:#dedede}
+html body .main>#passage,html body .main>#qpanel{transition:none!important}
 /* Notes leave edit mode only on an outside pointer action; Enter remains a newline. */
 html body .exam-notes-list{height:calc(100% - 55px);overflow:auto;box-sizing:border-box}
 html body .exam-notes-list:has(>.exam-notes-empty){display:flex;align-items:center;justify-content:center}
@@ -863,8 +866,8 @@ html body #passage .mh-gap-wrap+.passage-para,html body #passage .mh-gap-wrap+.p
 html body #passage .passage-section>.passage-para{margin-top:0;margin-bottom:22px}
 @media(min-width:600px){
  html body .main.pane-passage-collapsed>#passage,html body .main.pane-questions-collapsed>#qpanel{padding:0!important;min-width:0!important;overflow:hidden!important;visibility:hidden}
- html body .main.pane-questions-collapsed>#passage{min-width:0;padding-left:max(22px,calc((100% - 1000px)/2));padding-right:max(22px,calc((100% - 1000px)/2))}
- html body .main.pane-passage-collapsed>#qpanel{min-width:0;padding-left:33px;padding-right:24px}
+ html body .main.pane-questions-collapsed>#passage{min-width:0}
+ html body .main.pane-passage-collapsed>#qpanel{min-width:0}
  html body .main.pane-passage-collapsed>#qpanel>*{max-width:1210px}
 }
 </style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script></head>
@@ -996,4 +999,4 @@ html body #passage .passage-section>.passage-para{margin-top:0;margin-bottom:22p
  divider.addEventListener('pointerdown',e=>{if(window.innerWidth<=760)return;resizing=true;divider.setPointerCapture?.(e.pointerId);e.preventDefault()});divider.addEventListener('pointermove',e=>{if(!resizing)return;const r=main.getBoundingClientRect();const pct=Math.max(25,Math.min(75,(e.clientX-r.left)/r.width*100));passage.style.flex='0 0 '+pct+'%';panel.style.flex='1 1 0';});divider.addEventListener('pointerup',()=>resizing=false);divider.addEventListener('pointercancel',()=>resizing=false);
  updateFooter();
 })();
-</script><script src="zoom-layout.js"></script><script src="question-template.js"></script><script src="exam-progress.js"></script></body></html>
+</script><script src="zoom-layout.js?v=notes-icon-v325"></script><script src="question-template.js"></script><script src="exam-progress.js"></script></body></html>

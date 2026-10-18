@@ -20,7 +20,7 @@ fs.writeFileSync(path.join(root,'dist/question-template.css'),'/* Generated from
 for(const name of fs.readdirSync(path.join(root,'dist/bai'))){
  if(!name.endsWith('.html'))continue;
  const filename=path.join(root,'dist/bai',name);let html=cbtInstructions(fs.readFileSync(filename,'utf8'));
- if(!html.includes('href="../question-template.css"'))html=html.replace('</head>','<link rel="stylesheet" href="../question-template.css">\n</head>');
+ if(!/href="\.\.\/question-template\.css(?:\?[^"]*)?"/.test(html))html=html.replace('</head>','<link rel="stylesheet" href="../question-template.css">\n</head>');
  if(!html.includes('src="../question-template.js"'))html=html.replace('</body>','<script src="../question-template.js"></script>\n</body>');
  fs.writeFileSync(filename,html);
 }
