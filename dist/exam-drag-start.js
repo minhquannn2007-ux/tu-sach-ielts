@@ -1,9 +1,12 @@
 /* Original HTML drag controllers start only after actual movement. */
 (()=>{
  window.IELTSDragGeometry={
-  anchor(el,e){const r=el.getBoundingClientRect();return {offsetX:e.clientX-r.left,offsetY:e.clientY-r.top,width:r.width}},
+  anchor(el,e){const r=el.getBoundingClientRect(),anchor={offsetX:e.clientX-r.left,offsetY:e.clientY-r.top,width:r.width};
+   if(el.matches('.dnd-word,.dnd-drop')){const style=getComputedStyle(el);anchor.shape={height:r.height+'px',minHeight:'0',maxHeight:'none',minWidth:'0'};
+    for(const key of ['fontFamily','fontSize','fontStyle','fontWeight','fontStretch','fontVariant','lineHeight','letterSpacing','wordSpacing','fontFeatureSettings','fontVariationSettings','whiteSpace','wordBreak','overflowWrap','textTransform','textAlign','textIndent','paddingTop','paddingRight','paddingBottom','paddingLeft','borderTopWidth','borderRightWidth','borderBottomWidth','borderLeftWidth','borderRadius'])anchor.shape[key]=style[key];
+   }return anchor},
   point(ghost){const r=ghost.getBoundingClientRect();return {clientX:r.left+r.width/2,clientY:r.top+r.height/2}},
-  move(ghost,e,anchor){Object.assign(ghost.style,{boxSizing:'border-box',width:anchor.width+'px',maxWidth:'none',left:e.clientX-anchor.offsetX+'px',top:e.clientY-anchor.offsetY+'px'});return this.point(ghost)}
+  move(ghost,e,anchor){if(anchor.shape&&!ghost.dataset.dragShape){Object.assign(ghost.style,anchor.shape);ghost.dataset.dragShape='preserved'}Object.assign(ghost.style,{boxSizing:'border-box',width:anchor.width+'px',maxWidth:'none',left:e.clientX-anchor.offsetX+'px',top:e.clientY-anchor.offsetY+'px'});return this.point(ghost)}
  };
 
  document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.mh-heading,.dnd-word').forEach(e=>e.tabIndex=0),{once:true});
