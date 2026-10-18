@@ -1,0 +1,16 @@
+html.duration-pending body>*:not(.duration-screen):not(script):not(style){visibility:hidden!important}
+.duration-screen{position:fixed;inset:0;z-index:2000001;display:flex;align-items:center;justify-content:center;padding:24px;background:#fff;color:#111;font:16px/1.5 Arial,Helvetica,sans-serif;overflow:auto}
+.duration-form{width:100%;max-width:520px;display:flex;flex-direction:column;align-items:stretch}
+.duration-form h1{font-size:24px;line-height:1.4;margin:0 0 24px}
+.duration-form label{margin-bottom:8px}
+.duration-form input{box-sizing:border-box;width:100%;padding:12px;border:1px solid #777;border-radius:4px;font:20px Arial}
+.duration-form input:focus{outline:2px solid #7451b8;outline-offset:2px}
+.duration-form button{padding:12px 18px;border:0;border-radius:4px;background:#7451b8;color:#fff;font:700 16px Arial;cursor:pointer}
+#duration-error{min-height:24px;margin:8px 0 16px;color:#b42318}
+.duration-back{align-self:center;margin-top:16px;color:#65499a}
+.top-nav .nav-left{height:100%;align-items:flex-start}
+.top-nav .nav-taker-block{display:flex;flex-direction:column;align-items:flex-start;align-self:flex-start;gap:2px;padding-top:2px}
+.top-nav .nav-taker{font-size:15px;font-weight:700;margin:0;padding:0}
+.top-nav .nav-timer{font:400 15px/normal Arial,Helvetica,sans-serif;color:#111;white-space:nowrap}
+.top-nav .nav-timer.urgent{color:#b42318}
+.top-nav .nav-icons #timer,.top-nav .exam-home{display:none!important}

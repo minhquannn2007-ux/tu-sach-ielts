@@ -642,7 +642,7 @@ html, body {
 <link rel="stylesheet" href="../exam-behavior.css">
 <link rel="stylesheet" href="../zoom-layout.css">
 <link rel="stylesheet" href="../question-template.css?v=notes-icon-v325">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script></head>
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=duration-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1117,7 +1117,7 @@ new MutationObserver(paintFooter).observe(document.getElementById('bb-dots'),{su
 const submit=document.createElement('button');submit.className='exam-submit';submit.type='button';submit.textContent='✓';submit.setAttribute('aria-label','Kết thúc bài');submit.onclick=()=>window.finishCamouflage();row.append(submit);paintFooter();
 })();
 </script>
-<a href="../index.html" style="position:fixed;top:8px;right:16px;z-index:99999;background:white;color:#7451b8;padding:8px 12px;border:1px solid #ddd;border-radius:6px;font:14px Arial;text-decoration:none">Tủ Sách IELTS</a>
+
 <script id="camouflage-practice">
 (()=>{
  const key='reading-p2-australias-camouflaged-creatures',panel=document.getElementById('qpanel');let finished=false;
@@ -1132,5 +1132,5 @@ const submit=document.createElement('button');submit.className='exam-submit';sub
 </script>
 <script src="../zoom-layout.js?v=notes-icon-v325"></script>
 <script src="../question-template.js"></script>
-<script src="../exam-progress.js"></script></body>
+<script src="../exam-progress.js"></script><script src="../legacy-duration.js?v=duration-v1"></script></body>
 </html>

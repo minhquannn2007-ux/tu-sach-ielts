@@ -8,6 +8,6 @@ Giữ giao diện thi máy, trang chủ tím và logo IELTS đỏ. Không viết
 
 Có hai bài The Voynich Manuscript P3 khác nhau, hiện mới đăng một bài. So nguồn và tách ID có bằng chứng, không loại vì trùng title. Giữ các hardhold trong import/source-content-holds.json.
 
-Không đoán nguồn mờ hoặc mất câu. Draft và OCR không tự được duyệt. Chỉ publish allowlist có review và source hash. Regenerate catalog sau thêm bài. Kiểm: node scripts/check-reviewed-data.mjs; node scripts/check-github-pages.mjs; DOM tests theo thay đổi. Nộp và hơn năm câu trả lời mới hoàn thành; Full Test 13+13+14=40 câu trong 60 phút.
+Không đoán nguồn mờ hoặc mất câu. Draft và OCR không tự được duyệt. Chỉ publish allowlist có review và source hash. Regenerate catalog sau thêm bài. Kiểm: node scripts/check-reviewed-data.mjs; node scripts/check-github-pages.mjs; DOM tests theo thay đổi. Nộp và hơn năm câu trả lời mới hoàn thành; Full Test 13+13+14=40 câu. Bài lẻ và Full Test đều hỏi thời lượng 1–120 phút nguyên trước khi bắt đầu, đếm phút và tự nộp khi hết giờ.
 
 Pages workflow tự deploy dist/ khi main thay đổi. Không commit token, cache hay node_modules. Không ghi đè thay đổi của tài khoản khác: lấy main mới, giải quyết conflict hoặc tạo pull request. Tránh sửa đồng thời cùng bài.
