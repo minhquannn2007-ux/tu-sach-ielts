@@ -2694,8 +2694,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "lesson_id": "p1-forgotten-forests",
+    "mode": "practice"
   },
   {
     "id": "p1-fishbourne-roman-palace",

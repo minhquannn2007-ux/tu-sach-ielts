@@ -2479,6 +2479,25 @@
     }
   },
   {
+    "id": "p1-forgotten-forests",
+    "title": "Forgotten forests",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "Diagram Labelling",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/birds-cover.jpg",
+      "alt": "A bird flying over a forested valley",
+      "credit": "Duyet Le",
+      "source": "https://unsplash.com/photos/a-bird-flying-in-the-sky-over-a-city-_Aq2JIpO1gk",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p1-forty-thousand-year-old-baby",
     "title": "Forty thousand year old baby",
     "part": 1,
