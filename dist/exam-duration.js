@@ -2,7 +2,7 @@
 (()=>{
  const embedded=new URLSearchParams(location.search).get('full')==='1'&&parent!==window;
  const valid=value=>/^\d+$/.test(String(value))&&Number(value)>=1&&Number(value)<=120;
- const label=ms=>{const n=Math.ceil(Math.max(0,ms)/60000);return n+' '+(n===1?'minute':'minutes')+' remaining'};
+ const label=ms=>{ms=Math.max(0,ms);if(ms>300000){const n=Math.ceil(ms/60000);return n+' '+(n===1?'minute':'minutes')+' remaining'}const seconds=Math.ceil(ms/1000),m=Math.floor(seconds/60),s=seconds%60;return (m?m+' '+(m===1?'minute':'minutes')+' ':'')+s+' '+(s===1?'second':'seconds')+' remaining'};
  if(!embedded)document.documentElement.classList.add('duration-pending');
  function reveal(){document.documentElement.classList.remove('duration-pending')}
  function choose(){
