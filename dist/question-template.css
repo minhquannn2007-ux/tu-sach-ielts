@@ -620,3 +620,6 @@ html body [data-exam-note],html body [data-exam-note] .hl{background:#204ccf!imp
 html body .exam-chat-icon{display:none!important}
 html body.submission-review-open .submit-review-extra-icon{display:none!important}
 @media(max-width:599px){html body.exam-notes-open{padding-right:0}html body .exam-notes{width:min(300px,80vw)}}
+
+html body .exam-note-card .exam-note-delete-message{display:block;margin:20px 0 12px;font:16px/1.5 Arial}
+html body .exam-note-card:has(.exam-note-delete-message) .exam-note-actions{justify-content:flex-end;gap:32px;margin-top:0}

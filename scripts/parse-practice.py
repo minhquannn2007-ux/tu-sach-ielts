@@ -8,7 +8,7 @@ from pathlib import Path
 import fitz
 sys.dont_write_bytecode=True
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='3.22'
+VERSION='3.23'
 _spec=importlib.util.spec_from_file_location('source_notes',ROOT/'scripts/source-notes.py')
 notes_module=importlib.util.module_from_spec(_spec);_spec.loader.exec_module(notes_module)
 HEADER=re.compile(r'(?m)^[ \t]*Questions?[ \t]+(\d+)(?:[ \t]*(?:[–—-]|and|&)\s*(\d+))?[ \t]*[.:]?[ \t]*$')
@@ -384,7 +384,13 @@ def parse_group(chunk,paras,doc):
    indices=[i for i,p in enumerate(paras) if m and p.get('label')==m[1].upper()]
    if len(indices)!=1:raise Hold('heading-questions','Heading paragraph mapping is ambiguous')
    questions.append({'n':q['n'],'paragraph':indices[0]})
-  g.update(type='matching-headings',questions=questions,bank=bank,reuse=False)
+  scope=re.search(r'(?:reading passage\s*\d+|text)\s+has\s+([a-z-]+|\d+)\s+(paragraphs?|sections?)',clean(text),re.I)
+  if not scope and doc is not None:scope=re.search(r'(?:reading passage\s*\d+|text)\s+has\s+([a-z-]+|\d+)\s+(paragraphs?|sections?)',clean(' '.join(p.get_text() for p in doc)),re.I)
+  words=['zero','one','two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','thirteen','fourteen','fifteen','sixteen','seventeen','eighteen','nineteen','twenty','twenty-one','twenty-two','twenty-three','twenty-four','twenty-five','twenty-six']
+  if not scope or not(scope[1].isdigit()or scope[1].lower()in words):raise Hold('heading-scope','Original source count and paragraph/section declaration required')
+  count=int(scope[1])if scope[1].isdigit()else words.index(scope[1].lower())
+  if count<1:raise Hold('heading-scope','Invalid source heading count')
+  g.update(type='matching-headings',questions=questions,bank=bank,reuse=False,headingCount=count,headingUnit='sections'if scope[2].lower().startswith('section')else'paragraphs')
   if examples:
    if any(e['value'] not in [o['value'] for o in bank] or e['paragraph'] in [q['paragraph'] for q in questions] for e in examples):raise Hold('heading-questions','Invalid worked example')
    g['examples']=examples

@@ -48,6 +48,7 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
    const codes=range?Array.from({length:range[1].charCodeAt(0)-64},(_,i)=>String.fromCharCode(65+i)):listed?[...listed[0].matchAll(/[A-Z]/g)].map(m=>m[0]):null;
    if(codes&&g.type==='mc-two'&&g.selectionCount&&g.options&&(g.options.length!==codes.length||g.options.some((o,i)=>o.value!==codes[i])))errors.push('Multiple-answer options differ from source range');
    if(codes&&g.bank&&g.type!=='matching-headings'&&(g.bank.length!==codes.length||g.bank.some((o,i)=>o.value!==codes[i])))errors.push('Option bank differs from source range');
+   if(g.type==='matching-headings'&&(!Number.isInteger(g.headingCount)||g.headingCount<1||!['paragraphs','sections'].includes(g.headingUnit)))errors.push('Missing source heading count/unit');
    if(g.type==='matching-headings'&&(g.questions||[]).some(q=>!Number.isInteger(q.paragraph)||!d.paragraphs[q.paragraph]))errors.push('Invalid heading paragraph');
    if(g.type==='matching-headings'&&(g.examples||[]).some(e=>!Number.isInteger(e.paragraph)||!d.paragraphs[e.paragraph]||!g.bank?.some(o=>o.value===e.value)||g.questions?.some(q=>q.paragraph===e.paragraph)))errors.push('Invalid heading example');
    if(g.tableCellItalicText&&(!Array.isArray(g.tableCellItalicText)||g.tableCellItalicText.some(c=>!Number.isInteger(c.row)||!Number.isInteger(c.col)||typeof c.text!=='string'||!c.text||!g.table?.[c.row]?.[c.col]?.includes(c.text))))errors.push('Invalid italic table text');
@@ -87,7 +88,7 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
    'mc-one':'Choose the correct answer.','mc-two':'Choose <strong>'+(g.selectionCount===3?'THREE':'TWO')+'</strong> correct answers.',
    'matching-info':'The text has '+(countWords[g.paragraphCount]||g.paragraphCount)+' paragraphs, <strong>'+(g.letters?.[0]||'')+'–'+(g.letters?.at(-1)||'')+'</strong>. Which paragraph contains the following information?'+(g.reuse?' You may choose any letter more than once.':''),
    'matching-features':'Choose the correct '+(g.targetName||'researcher')+'.'+(g.reuse?' You may choose any '+(g.targetName||'researcher')+' more than once.':''),
-   'matching-headings':'Choose the correct heading for each paragraph from the list of headings and move it into the gap.',
+   'matching-headings':'The text has '+(countWords[g.headingCount]||g.headingCount)+' '+g.headingUnit+'. Choose the correct heading for each '+(g.headingUnit==='sections'?'section':'paragraph')+' and move it into the gap.',
    'matching-endings':'Complete each sentence with the correct ending. Choose the correct answer and move it into the gap.',
    'summary-input':'Complete the '+(g.task||'summary')+'. Write '+word+from+' for each answer.',
    'summary-drag':'Complete the summary'+(g.summaryScope?' of '+g.summaryScope:'')+' using the list of words. Choose the correct answer and move it into the gap.',

@@ -37,9 +37,17 @@ class ConverterTests(unittest.TestCase):
   self.assertEqual(g['type'],'matching-features');self.assertTrue(g['reuse'])
   self.assertEqual([o['text'] for o in g['bank']],['first category','second category','third category'])
  def test_heading_example_is_not_an_answerable_question(self):
-  text='Questions 27-28\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number in boxes 27-28 on your answer sheet.\nList of Headings\ni\nFirst heading\nii\nExample heading\niii\nLast heading\n27 Paragraph A\nExample\nParagraph B\nii\n28 Paragraph C'
+  text='Questions 27-28\nReading Passage 3 has three paragraphs, A-C.\nChoose the correct heading for each paragraph from the list of headings below.\nWrite the correct number in boxes 27-28 on your answer sheet.\nList of Headings\ni\nFirst heading\nii\nExample heading\niii\nLast heading\n27 Paragraph A\nExample\nParagraph B\nii\n28 Paragraph C'
   g=m.parse_group({'start':27,'end':28,'text':text,'page':0},[{'label':c,'text':'Text'} for c in 'ABC'],None)
   self.assertEqual(g['examples'],[{'paragraph':1,'value':'ii'}]);self.assertEqual([q['paragraph'] for q in g['questions']],[0,2])
+ def test_source_heading_scope_and_wrapped_matching_targets(self):
+  base='Questions 14-15\nReading Passage 2 has seven sections, A-G.\nChoose the correct heading for each section from the list of headings below.\nWrite the correct number in boxes 14-15 on your answer sheet.\nList of Headings\ni\nFirst\nii\nSecond\n14 Section A\n15 Section B'
+  g=m.parse_group({'start':14,'end':15,'text':base,'page':0},[{'label':c,'text':'Text'}for c in 'AB'],None)
+  self.assertEqual(g['headingCount'],7);self.assertEqual(g['headingUnit'],'sections')
+  with self.assertRaises(m.Hold):m.parse_group({'start':14,'end':15,'text':base.replace('Reading Passage 2 has seven sections, A-G.\n',''),'page':0},[{'label':c,'text':'Text'}for c in 'AB'],None)
+  for target in ['business person','sleep expert','historical period']:
+   text='Questions 14-15\nMatch each statement with the correct '+target.replace(' ','\n')+', A-B.\nWrite the correct letter in boxes 14-15 on your answer sheet.\n14 First statement\n15 Second statement\nList of Choices\nA Choice Alpha\nB Choice Beta'
+   group=m.parse_group({'start':14,'end':15,'text':text,'page':0},[],None);self.assertEqual(group['targetName'],target)
  def test_answer_these_questions_wording(self):
   text='Questions 33-34\nAnswer these questions below\nChoose NO MORE THAN THREE WORDS from the passage for each answer.\nWrite your answers in boxes 33-34 on your answer sheet.\n33 First question?\n34 Second question?'
   g=m.parse_group({'start':33,'end':34,'text':text,'page':0},[],None)
