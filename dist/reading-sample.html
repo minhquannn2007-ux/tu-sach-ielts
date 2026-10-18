@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css?v=splitter-reference-v1">
+<link rel="stylesheet" href="question-template.css?v=thin-splitter-v1">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -1051,18 +1051,20 @@ html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar-thumb{backgro
 html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar-track{background:#000}
 html[data-exam-contrast] body :is(.passage,.qpanel)::-webkit-scrollbar-button{display:none!important;width:0!important;height:0!important}
 /* Pane splitter: hover edge, right-side hit strip, pressed handle and arrow cursor. */
-html{--pane-resize-cursor:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2218%22%20viewBox%3D%220%200%2024%2018%22%3E%3Cpath%20d%3D%22M1%209%208%202v5h8V2l7%207-7%207v-5H8v5Z%22%20fill%3D%22white%22%20stroke%3D%22black%22%20stroke-width%3D%221%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E") 12 9, ew-resize}
-html[data-exam-contrast="white-on-black"]{--splitter-edge:#d59369;--splitter-hover:#1e1e1e;--splitter-pressed-glyph:#000}
-html[data-exam-contrast="yellow-on-black"]{--splitter-edge:#2a6c96;--splitter-hover:#e1e1e1;--splitter-pressed-glyph:#fff}
+html{--pane-resize-cursor:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2218%22%20viewBox%3D%220%200%2024%2018%22%3E%3Cpath%20d%3D%22M3%209%207%205v3h10V5l4%204-4%204v-3H7v3Z%22%20fill%3D%22white%22%20stroke%3D%22black%22%20stroke-width%3D%220.75%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E") 12 9, ew-resize}
+html[data-exam-contrast="black-on-white"]{--splitter-edge:#2a6c96;--splitter-hover:#e1e1e1;--splitter-pressed-glyph:#fff;--splitter-strip:#e5e5e5}
+html[data-exam-contrast="white-on-black"]{--splitter-strip:#1a1a1a;--splitter-edge:#d59369;--splitter-hover:#1e1e1e;--splitter-pressed-glyph:#000}
+html[data-exam-contrast="yellow-on-black"]{--splitter-strip:#1a1a1a;--splitter-edge:#2a6c96;--splitter-hover:#e1e1e1;--splitter-pressed-glyph:#fff}
 html body :is(#divider,.resize-bar,.resize-btn),html body .resize-btn *{cursor:var(--pane-resize-cursor)!important}
 html body.pane-resizing,html body.pane-resizing *{cursor:var(--pane-resize-cursor)!important}
-html[data-exam-dark] body #divider::after{content:'';position:absolute;left:100%;top:0;width:17px;height:100%;background:transparent;pointer-events:auto;z-index:-1}
-html[data-exam-dark] body #divider.splitter-right-hover::after{background:#1a1a1a}
-html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-bar{background:var(--splitter-edge)!important}
-html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-btn{border-color:var(--splitter-edge)!important;background:var(--splitter-hover)!important;color:var(--splitter-edge)!important;outline:none!important}
-html[data-exam-dark] body #divider.touch-resizing .resize-btn,html[data-exam-dark] body #divider .resize-btn:active{background:var(--splitter-edge)!important;color:var(--splitter-pressed-glyph)!important}
-html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-btn svg polygon{fill:currentColor!important}
-html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-btn svg line{stroke:currentColor!important}
+html[data-exam-contrast] body #divider::after{content:'';position:absolute;left:100%;top:0;width:17px;height:100%;background:transparent;pointer-events:auto;z-index:-1}
+html[data-exam-contrast] body #divider.splitter-right-hover::after{background:var(--splitter-strip)}
+html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-bar{background:var(--splitter-edge)!important}
+html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn{border-color:var(--splitter-edge)!important;background:var(--splitter-hover)!important;color:var(--splitter-edge)!important;outline:none!important}
+html[data-exam-contrast] body #divider.touch-resizing .resize-btn,html[data-exam-contrast] body #divider .resize-btn:active{background:var(--splitter-edge)!important;color:var(--splitter-pressed-glyph)!important}
+html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn svg polygon{fill:currentColor!important}
+html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn svg line{stroke:currentColor!important}
+html[data-exam-contrast] body #divider:is(:hover,.touch-resizing) .resize-btn .fa{color:inherit!important}
 </style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=nav-motion-v1"><script src="exam-options.js?v=active-v1"></script><script src="exam-question-focus.js?v=active-v1"></script></head>
 <body>
 
