@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css?v=options-v1">
+<link rel="stylesheet" href="question-template.css?v=options-v2">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -949,7 +949,16 @@ html[data-exam-dark] body #note-panel .note-header{background:#000!important;col
 html[data-exam-dark] body #note-panel .note-close-btn{background:transparent!important;color:var(--exam-fg)!important}
 html[data-exam-dark] body #note-panel:focus-within,html[data-exam-dark] body #note-panel:focus-within textarea{background:#3cffff!important;color:#000!important;border-color:var(--exam-note-edit-border)!important}
 html[data-exam-dark] body #note-panel .note-save-btn{background:transparent!important;color:var(--exam-note-delete)!important}
-</style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=options-v1"><script src="exam-options.js?v=options-v1"></script></head>
+/* Selection tools: grey on black, muted yellow on black; filled reference glyphs. */
+html[data-exam-contrast="white-on-black"]{--exam-annotation-tool:#8c8c8c}
+html[data-exam-contrast="yellow-on-black"]{--exam-annotation-tool:#b3b300}
+html[data-exam-dark] body :is(#selection-popup,#context-menu){border-color:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup,#context-menu)::before{background:#000!important;border-color:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete){background:#000!important;color:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn svg,#context-menu .annotation-delete svg){color:var(--exam-annotation-tool)!important;stroke:none!important}
+html[data-exam-dark] body #context-menu .annotation-delete svg{stroke:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete):hover{background:#171717!important}
+</style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=options-v2"><script src="exam-options.js?v=options-v2"></script></head>
 <body>
 
 <!-- TOP NAV -->

@@ -37,3 +37,11 @@ html[data-exam-dark] body :is(.passage,.qpanel){scrollbar-color:#666 #000}
 .options-swatch i{height:1px;background:currentColor;display:block;width:100%}.options-swatch i:first-child{width:40%}
 .options-swatch.white-on-black{background:#000;color:#fff}.options-swatch.yellow-on-black{background:#000;color:#ff0}
 @media(max-width:599px){.options-heading h1{font-size:20px}.options-back{font-size:18px}.options-close{right:5px}.options-row{padding:0 22px}}
+
+/* Reference palettes for Options and a clean pointer/focus state on the trigger. */
+html[data-exam-contrast="white-on-black"]{--exam-line:#3e3e3e;--options-submit-bg:#1ce7c8;--options-submit-fg:#000}
+html[data-exam-contrast="yellow-on-black"]{--options-submit-bg:#ff0;--options-submit-fg:#000}
+.options-submit{background:var(--options-submit-bg,#e31837);color:var(--options-submit-fg,#fff)}
+html body .nav-icons [data-exam-options]{box-sizing:content-box;padding:15px 10px;margin:-15px -10px;border:0!important;box-shadow:none!important;outline:none!important;background:transparent}
+html[data-exam-contrast="black-on-white"] body .nav-icons [data-exam-options]:hover{background:#dedede}
+html body .nav-icons [data-exam-options]:focus-visible{outline:2px solid currentColor!important;outline-offset:-4px}

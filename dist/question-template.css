@@ -729,3 +729,12 @@ html[data-exam-dark] body #note-panel .note-header{background:#000!important;col
 html[data-exam-dark] body #note-panel .note-close-btn{background:transparent!important;color:var(--exam-fg)!important}
 html[data-exam-dark] body #note-panel:focus-within,html[data-exam-dark] body #note-panel:focus-within textarea{background:#3cffff!important;color:#000!important;border-color:var(--exam-note-edit-border)!important}
 html[data-exam-dark] body #note-panel .note-save-btn{background:transparent!important;color:var(--exam-note-delete)!important}
+/* Selection tools: grey on black, muted yellow on black; filled reference glyphs. */
+html[data-exam-contrast="white-on-black"]{--exam-annotation-tool:#8c8c8c}
+html[data-exam-contrast="yellow-on-black"]{--exam-annotation-tool:#b3b300}
+html[data-exam-dark] body :is(#selection-popup,#context-menu){border-color:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup,#context-menu)::before{background:#000!important;border-color:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete){background:#000!important;color:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn svg,#context-menu .annotation-delete svg){color:var(--exam-annotation-tool)!important;stroke:none!important}
+html[data-exam-dark] body #context-menu .annotation-delete svg{stroke:var(--exam-annotation-tool)!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete):hover{background:#171717!important}

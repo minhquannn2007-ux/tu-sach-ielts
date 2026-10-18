@@ -88,8 +88,8 @@ const notes=[];let counter=0,annotationRange=null,highlightTarget=null,editingNo
 const host=window.parent!==window&&document.documentElement.classList.contains('full-test-frame')?parent.document:document;
 const sidebar=host.createElement('aside');sidebar.className='exam-notes';sidebar.hidden=true;sidebar.setAttribute('aria-label','Notes');sidebar.innerHTML='<div class="exam-notes-head"><span>Notes</span><button type="button" aria-label="Close notes">×</button></div><div class="exam-notes-list"></div>';host.body.append(sidebar);
 const popup=document.getElementById('selection-popup'),context=document.getElementById('context-menu');
-const noteIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h18v18H3z" fill="currentColor" stroke="none"/><path d="M9 8H7v4h3v-2H8m9-2h-2v4h3v-2h-2" stroke="white" stroke-width="1.4" fill="none"/></svg>';
-const highlightIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 3h4l-1 12h-4zM4 20h16" stroke="currentColor" stroke-width="2" fill="none"/></svg>';
+const noteIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h18v19l-5-4H3z M9 7C6 8 6 10 6 13h4v-4H8c0-1 0-1 1-2z M16 7c-3 1-3 3-3 6h4v-4h-2c0-1 0-1 1-2z" fill="currentColor" fill-rule="evenodd" stroke="none"/></svg>';
+const highlightIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 3h5v12l-2 4h-2l-1-4z M14 18h2v2h-2z M3 21h15v2H3z" fill="currentColor" stroke="none"/></svg>';
 const trashIcon='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M9 3h6M6 6l2 15h8l2-15" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
 function hideAnnotationMenus(){popup.style.display='none';context.style.display='none'}
 function closeNotes(){sidebar.hidden=true;host.body.classList.remove('exam-notes-open')}
