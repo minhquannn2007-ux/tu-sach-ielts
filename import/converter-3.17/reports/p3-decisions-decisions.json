@@ -1,0 +1,22 @@
+{
+  "job": "p3-decisions-decisions",
+  "title": "Decisions, decisions!",
+  "part": 3,
+  "fingerprint": "de233dfcf9767a3fc129b99176211a299941e2807fcce47d07638a4c34756020",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Fpwa9azzLZOnG-QYLcQx19sHQyLwr1UX",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.075
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-multi-purpose-meeting-spaces",
+  "title": "Multi-purpose meeting spaces",
+  "part": 3,
+  "fingerprint": "80b961ce95aebf6c95c407bdcd0b4f84f7f0be13f96b0373c5cdadc7478b2122",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-multi-purpose-meeting-spaces.json",
+  "lessonId": "p3-multi-purpose-meeting-spaces",
+  "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "matching-endings"
+  ],
+  "sourceHash": "ed6ccc783abc37432d994cab518037144f43d76f4f28f125ba78751bf13ca2c8",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.111
+}

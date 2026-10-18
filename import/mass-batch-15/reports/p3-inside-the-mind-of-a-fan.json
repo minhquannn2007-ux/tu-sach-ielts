@@ -1,0 +1,17 @@
+{
+  "job": "p3-inside-the-mind-of-a-fan",
+  "title": "Inside the mind of a fan",
+  "part": 3,
+  "fingerprint": "3fc1664ff9dcdec05ba650622e36208aa2ddbedc16804b5b32c5d8ae398e426f",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1A2OfDq9CF5NdkpgS1qUUOG8R6Q9-H2tq",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

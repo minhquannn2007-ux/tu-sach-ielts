@@ -1,0 +1,17 @@
+{
+  "job": "p3-case-study-cargill-dow-llc",
+  "title": "Case Study: Cargill Dow LLC",
+  "part": 3,
+  "fingerprint": "0b174ffc67bce2862b9332e35d8044dbb94158eb47b1704f9bd5d479bf639b03",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1VhbMxYR6RiW1VD9aO1jPuF-xSAdM_3Pv",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.074
+}

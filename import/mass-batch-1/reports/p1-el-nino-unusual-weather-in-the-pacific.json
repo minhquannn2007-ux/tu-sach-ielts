@@ -1,0 +1,32 @@
+{
+  "job": "p1-el-nino-unusual-weather-in-the-pacific",
+  "title": "El Niño – unusual weather in the Pacific",
+  "part": 1,
+  "fingerprint": "c9cb4fb088ffeb09a53a9d36cd37e658a8bf7e808b6c93f8d5674a44b09b21b9",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1jRRsHo8vx6NL-ZgDRKhsLqBgF8X6KpaW",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-el-nino-unusual-weather-in-the-pacific.json",
+  "lessonId": "p1-el-nino-unusual-weather-in-the-pacific",
+  "sourceId": "1jRRsHo8vx6NL-ZgDRKhsLqBgF8X6KpaW",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "7c17b73d7f5083930a64f6a6301f44563a8809d0036df3bbe54cef9586d80d59",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

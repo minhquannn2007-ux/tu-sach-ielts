@@ -1,0 +1,32 @@
+{
+  "job": "p1-concrete",
+  "title": "Concrete",
+  "part": 1,
+  "fingerprint": "462f82d25c8ad75849a21bd2d5c598ebb8fc6109050502835e91cce84c950b8b",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1qd5x_B7kJKhYZGZW8OVOWhXfA3aYvtWP",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-concrete.json",
+  "lessonId": "p1-concrete",
+  "sourceId": "1qd5x_B7kJKhYZGZW8OVOWhXfA3aYvtWP",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "c7463136e9009a4971fdde02b21e6f2f27cda20c2cb87835806b6edcf8f21447",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.079
+}

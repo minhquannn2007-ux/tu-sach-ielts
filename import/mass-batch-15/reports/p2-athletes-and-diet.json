@@ -1,0 +1,33 @@
+{
+  "job": "p2-athletes-and-diet",
+  "title": "Athletes and diet",
+  "part": 2,
+  "fingerprint": "446fe616c8d1aa17460940257cde9f32462dd47807068c6d5808ee4d70d5c70d",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1zLnHAw4xTK4i__07nditNMkHVvRcO-54",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-athletes-and-diet.json",
+  "lessonId": "p2-athletes-and-diet",
+  "sourceId": "1zLnHAw4xTK4i__07nditNMkHVvRcO-54",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "f73f4e885873b2e86c857eaecff14830c195e29b181a890a8bf46ad62f22586a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.059
+}

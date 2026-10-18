@@ -1,0 +1,22 @@
+{
+  "job": "p3-australias-megafauna-controversy",
+  "title": "Australia’s Megafauna Controversy",
+  "part": 3,
+  "fingerprint": "4a6657b8d9d999502d481e71648d79c80d4ad3dcd1a0cb62322454718e511351",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1G_QjJ_TBWdajxhV0nF3ygTH6HQdsOMgI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1FbasxQXlWb91ncguFHpTVxNBt6yJqurF",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.022
+}

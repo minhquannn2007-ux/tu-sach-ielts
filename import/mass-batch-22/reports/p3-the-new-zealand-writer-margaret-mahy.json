@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-new-zealand-writer-margaret-mahy",
+  "title": "The New Zealand writer Margaret Mahy",
+  "part": 3,
+  "fingerprint": "33bab55a5554762a62a2ef8431c40eb6ae488bd02c5387b0f98322dc049d343c",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-new-zealand-writer-margaret-mahy.json",
+  "lessonId": "p3-the-new-zealand-writer-margaret-mahy",
+  "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "summary-drag",
+    "mc-one"
+  ],
+  "sourceHash": "836a50c1b4d3a0721d5c9d1fd123bace0b04d61fb71ca1d72dc55acad9a095c2",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.092
+}

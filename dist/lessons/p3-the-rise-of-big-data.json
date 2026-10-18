@@ -1,0 +1,274 @@
+{
+  "id": "p3-the-rise-of-big-data",
+  "part": 3,
+  "title": "The rise of big data",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The Internet has changed the world we live in. But now there is a new, related technological trend. ‘Big data’ is to do with the fact that there is more information available these days than ever before, and it is being employed in extraordinary ways. Big data is distinct from the internet, although the Web makes it easier to gather and share information. It means that the knowledge we can acquire from a large body of information goes far beyond what we had in the past when we had access only to smaller amounts."
+    },
+    {
+      "text": "It is tempting to understand big data solely in terms of size, but it is also characterized by the ability to put into numerical form aspects of the world that have never been translated into data before. For example, location has been quantified with GPS satellite systems. Words are turned into data when computers scan entire books. Even friendships and ‘likes’ are quantified through social media sites. This kind of data is being analyzed with the assistance of powerful processors, smart algorithms, and clever software. Instead of trying to ‘teach’ a computer how to do something like drive a car, enough information is provided to allow the computer to infer how likely it is that, say, a red traffic light means ‘stop.’"
+    },
+    {
+      "text": "This requires profound changes in how we approach data. For most of history, people worked with relatively small amounts of data. Modern statistics, which first emerged in the late 19th century, enabled society to understand complex realities even when only small samples existed, by using the technique of sampling. This is based on the idea that one can infer something about a population from a small sample, if this is chosen at random."
+    },
+    {
+      "text": "Hence, opinion polls may use a randomly selected group of people to predict the voting behavior of an entire region. But what happens when we want to investigate subgroups within the sample? What if we want to know who single Asian-American women under 30 are most likely to vote for? The random sample is largely useless, since it may contain too few people with those characteristics to make a meaningful assessment. But if we collect all the data, the problem disappears."
+    },
+    {
+      "text": "There is a trade-off, however. When we increase the scale so greatly, we might have to tolerate some ‘messiness’ in our data. This idea runs counter to how people have tried to work with data in the past. While there was not that much data around, researchers had to make sure that the figures they collected were as exact as possible. Tapping vastly more data means we can now allow some inaccuracies in return for benefiting from the insights that a massive body of data provides."
+    },
+    {
+      "text": "These two shifts in how we think about data – from some to all, and from clean to messy – give rise to a third change: from causation to correlation. This represents a move away from always trying to understand the deeper reasons behind how the world works, to simply learning about an association among phenomena, and using that as a way to get things done. Of course, knowing the causes behind things is desirable. The problem is that causes are often extremely hard to figure out. In addition, studies have shown that humans are conditioned to see causes even where none exist. So we must be on guard to prevent this."
+    },
+    {
+      "text": "Take CTR, the delivery company. It places sensors on vehicle parts to identify heat or vibrational patterns that have previously been associated with failures in those parts. In this way, the company can predict a breakdown before it happens and replace the part before it fails. CTR do not know why the part is in trouble. But they know what to do in the near term, and they can also investigate any underlying problem that might exist."
+    },
+    {
+      "text": "By transforming the way society processes information, big data could address many of the challenges we face. Farming practices, for example, could be improved if we analyzed meteorological trends, machinery performance, and crop yields together. Data-driven modeling may also make global energy use more efficient and help reduce emissions. Similarly, big data could improve medical understanding and healthcare outcomes. Machine learning systems trained on huge data sets can already recognize some illnesses from scans more accurately than human doctors. Smartphones, provide a wealth of data that allow climatologists to model global weather systems more accurately. Meanwhile, the huge datasets being built from medical records allow computers to perform some tasks that currently require human judgment. They could potentially be used by a computer, such as detecting infections before symptoms fully emerge."
+    },
+    {
+      "text": "Ultimately, big data marks the moment when information takes center stage. But this requires a new way of thinking and will challenge institutions and human activities if everyone is attracted by such data and harnesses big-data tools, perhaps without full awareness of its unpredictability. The human element of instinct, risk-taking, accidents, and error will remain. If so, it will be necessary to ensure these aspects of being human are encouraged: we should reserve space for intuition and common sense, to ensure that these aspects are not crowded out by data and machine-made answers."
+    },
+    {
+      "text": "This has important implications for the notion of progress in society. Big data enables us to experiment faster and explore more leads. It is meant to inform, rather than explain; it points toward understanding, but it can still lead to misunderstanding, depending on how well it is wielded. And however dazzling the power of big data appears, this must not blind us to its imperfections. Rather, we must adopt this technology with an appreciation of its power but also with caution."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 30 Complete the summary using the list of words, A-G, below. Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27
+        },
+        {
+          "n": 28
+        },
+        {
+          "n": 29
+        },
+        {
+          "n": 30
+        }
+      ],
+      "type": "summary-drag",
+      "bank": [
+        {
+          "value": "A",
+          "text": "collection"
+        },
+        {
+          "value": "B",
+          "text": "probabilities"
+        },
+        {
+          "value": "C",
+          "text": "equations"
+        },
+        {
+          "value": "D",
+          "text": "uses"
+        },
+        {
+          "value": "E",
+          "text": "understanding"
+        },
+        {
+          "value": "F",
+          "text": "techniques"
+        },
+        {
+          "value": "G",
+          "text": "emotions"
+        }
+      ],
+      "reuse": false,
+      "title": "What is big data?",
+      "content": [
+        "Big data involves the identification of new ways of using the increased amount of data available today. It is not just about the {{27}} of information, which is one of the functions of the internet; it also allows increased opportunities for greater {{28}} .",
+        "Big data may include new kinds of input such as that related to people’s {{29}} . Basically, however, it involves providing a computer with enough data to work out {{30}} for itself."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 31 – 34 Choose the correct letter, A, B, C or D. Write the correct letter in boxes 31-34 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "prompt": "What is the writer doing in the third paragraph?",
+          "options": [
+            {
+              "value": "A",
+              "text": "explaining the origins of modern statistics"
+            },
+            {
+              "value": "B",
+              "text": "describing a key feature of modern statistics"
+            },
+            {
+              "value": "C",
+              "text": "pointing out one problem with modern statistics"
+            },
+            {
+              "value": "D",
+              "text": "summarising the various uses of modern statistics"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "prompt": "What is the writer's opinion about 'messiness' in data?",
+          "options": [
+            {
+              "value": "A",
+              "text": "Messiness should be avoided in certain circumstances."
+            },
+            {
+              "value": "B",
+              "text": "Some messiness is an acceptable aspect of big data."
+            },
+            {
+              "value": "C",
+              "text": "Messiness reflects a decline in standards of analysis today."
+            },
+            {
+              "value": "D",
+              "text": "More messiness occurs when big data is entered carelessly."
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "prompt": "What does the writer suggest about searching for underlying causes?",
+          "options": [
+            {
+              "value": "A",
+              "text": "It may not be based on reliable scientific principles."
+            },
+            {
+              "value": "B",
+              "text": "It may mean we hide important data."
+            },
+            {
+              "value": "C",
+              "text": "It may be done for the wrong reason."
+            },
+            {
+              "value": "D",
+              "text": "It may not be a productive activity."
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "prompt": "According to the writer, smartphones are helping to tackle climate change by",
+          "options": [
+            {
+              "value": "A",
+              "text": "creating simple models of global warming."
+            },
+            {
+              "value": "B",
+              "text": "providing data from a wide range of locations."
+            },
+            {
+              "value": "C",
+              "text": "functioning as inexpensive ways to analyse data."
+            },
+            {
+              "value": "D",
+              "text": "allowing climatologists to exchange information quickly."
+            }
+          ]
+        }
+      ],
+      "type": "mc-one"
+    },
+    {
+      "sourceInstructions": "Questions 35 – 40 Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 35-40 on your answer sheet, write YES if the statement agrees with the claims of the writer NO if the statement contradicts with the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "n": 35,
+          "prompt": "In future, computers will only be able to identify infections if the patient displays symptoms."
+        },
+        {
+          "n": 36,
+          "prompt": "People will need specialised training to help them deal with big data."
+        },
+        {
+          "n": 37,
+          "prompt": "One major advantage of big data is its ability to overcome unpredictability."
+        },
+        {
+          "n": 38,
+          "prompt": "Humans should sometimes be allowed to make mistakes."
+        },
+        {
+          "n": 39,
+          "prompt": "The rise of big data will result in more restrictions in society."
+        },
+        {
+          "n": 40,
+          "prompt": "Some care needs to be taken in the use of big data."
+        }
+      ],
+      "type": "ynng"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1w-OfkA1C2EkmyyFqan9a00l4kmmFoglR",
+      "role": "passage-and-questions",
+      "sha256": "937a5312303660d231d820f31b87815e19dfec3e98f5b802538ab7c16bb67b9e",
+      "name": "The rise of big data.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 10,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-the-rise-of-big-data"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "The amount of information that’s available to us is changing the way we think about the world",
+  "cover": {
+    "asset": "assets/batch3-code-cover.jpg",
+    "alt": "Mã lập trình",
+    "credit": "Markus Spiske",
+    "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-6-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

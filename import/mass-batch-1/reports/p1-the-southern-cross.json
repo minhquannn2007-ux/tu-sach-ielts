@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-southern-cross",
+  "title": "The Southern Cross",
+  "part": 1,
+  "fingerprint": "37451adebb2cc3766241a134da43e0e99a3f3cb64bdbc8c82bbaeecb70941868",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1CUCC9ktSy4SYSFMCFD_fLfzkmlrdoYyp",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-southern-cross.json",
+  "lessonId": "p1-the-southern-cross",
+  "sourceId": "1CUCC9ktSy4SYSFMCFD_fLfzkmlrdoYyp",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "e6b169e1963fa92b5e2aa77c82db67e61bd1125faac95cabf5ca2bd6ad10ccfc",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

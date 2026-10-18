@@ -1,0 +1,201 @@
+{
+  "converterVersion": "3.22",
+  "selected": 8,
+  "cachedSources": 8,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 5,
+    "held": 3,
+    "error": 0
+  },
+  "seconds": 0.242,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p3-a-new-voyage-round-the-world",
+      "title": "A New Voyage Round The World",
+      "part": 3,
+      "fingerprint": "1a4642c6ad24380f571ccc1bb590d6c5375e6f6b451d2be82a0f34963493e974",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1_LKGjWGg4qPlCs73ykLrEGLQJAM7g8Jj",
+          "code": "detached-bank",
+          "message": "Word bank is separated from its task and cannot be assigned safely"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Verified native bank object order or neutral label for genuinely untitled source"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.109,
+      "draft": "drafts/p3-a-new-voyage-round-the-world.json",
+      "lessonId": "p3-a-new-voyage-round-the-world",
+      "sourceId": "1_LKGjWGg4qPlCs73ykLrEGLQJAM7g8Jj",
+      "sourceHash": "e7e99e979a16a8ffa046003efc15efe2e4673cd65bd653eb1fdc30dbd850cafa"
+    },
+    {
+      "job": "p3-flower-power",
+      "title": "Flower Power",
+      "part": 3,
+      "fingerprint": "1e4ce97034b1a05ae32ea0f0f88d40a721ec12398db2473d3d646d805694c201",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1UO1IyW98TW12FSFpD1GBhuHZ_mEWx_pE",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.082
+    },
+    {
+      "job": "p3-green-fingers-and-green-thoughts",
+      "title": "Green Fingers and Green Thoughts",
+      "part": 3,
+      "fingerprint": "7fb71102d07c9c16b8b69d477377d35a8beba28b4a5df238aeee70d77653d392",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1E6inLpjEAXlQZzL2vyxBc_VXdCgVdGtS",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-green-fingers-and-green-thoughts.json",
+      "lessonId": "p3-green-fingers-and-green-thoughts",
+      "sourceId": "1E6inLpjEAXlQZzL2vyxBc_VXdCgVdGtS",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "summary-drag"
+      ],
+      "sourceHash": "9779833f29047c4190c8232005768cc88dadbacbecad965ade2021538d95db8c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.11
+    },
+    {
+      "job": "p3-no-title-charles-darwin",
+      "title": "No title - Charles Darwin",
+      "part": 3,
+      "fingerprint": "56bbc5063ba37eb5feba0148ca66370b1e7ca41c48cc1d9d46824fd6b30e2581",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1YMNvrPerQzeiiG7WndTeWyn854yM_oOO",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Verified native bank object order or neutral label for genuinely untitled source"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.101,
+      "draft": "drafts/p3-no-title-charles-darwin.json",
+      "lessonId": "p3-no-title-charles-darwin",
+      "sourceId": "1YMNvrPerQzeiiG7WndTeWyn854yM_oOO",
+      "sourceHash": "ac1985672e3a7cd0df55a4b6912305e700b2b501d7080953df6e98839fd147e2"
+    },
+    {
+      "job": "p3-psychological-responses-to-mirror-images",
+      "title": "Psychological responses to mirror images",
+      "part": 3,
+      "fingerprint": "a30239a5833fa5a1798a18948f0d772043f3ade5b2f577498b72154ce47d2aee",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1zD3JGOrNXZwkdshFbeHPqPql_7mJ9zN8",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Verified native bank object order or neutral label for genuinely untitled source"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.108,
+      "draft": "drafts/p3-psychological-responses-to-mirror-images.json",
+      "lessonId": "p3-psychological-responses-to-mirror-images",
+      "sourceId": "1zD3JGOrNXZwkdshFbeHPqPql_7mJ9zN8",
+      "sourceHash": "d7ed43310f9a36c2c647bbc2cc346a7f7b57664e0da418a2cad367afca992936"
+    },
+    {
+      "job": "p3-refraction",
+      "title": "REFRACTION",
+      "part": 3,
+      "fingerprint": "d2e7f4577522cbf0ab6e73a7565c696624b26da5221718ccddd315ebc6154d53",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1F9OCwBBr-3s_Fk7HIzIeU2N3IHiOrjp_",
+          "code": "gap-numbering",
+          "message": "Expected one control per source gap [36, 37, 38, 39, 40], found [33, 34, 35, 36, 37, 38, 39, 40]"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.061
+    },
+    {
+      "job": "p3-rights-for-apes",
+      "title": "Rights for apes",
+      "part": 3,
+      "fingerprint": "ff1792f5ca216beafdbb0e586a3d70619e06621072fb178e8278c917e1cfe062",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1gGCRaaxWBBvJ38CChJcSELuFmMPLGz9u",
+          "code": "detached-bank",
+          "message": "Word bank is separated from its task and cannot be assigned safely"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Verified native bank object order or neutral label for genuinely untitled source"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.112,
+      "draft": "drafts/p3-rights-for-apes.json",
+      "lessonId": "p3-rights-for-apes",
+      "sourceId": "1gGCRaaxWBBvJ38CChJcSELuFmMPLGz9u",
+      "sourceHash": "f2ae4667f8e340637b7b1f800cc8ec1f0abd3c2bf95e4248f757071d9c80395c"
+    },
+    {
+      "job": "p3-the-lost-animals-of-australia",
+      "title": "The lost animals of Australia",
+      "part": 3,
+      "fingerprint": "698dc2211bc3f268b39158cb2639fa3d437c00c808f872861063932c4337e1d0",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1Wx7-So_wMdgra0BuDFU5AqojtZ6OD1Fi",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'A', 'B', 'C', 'D']; expected ['A', 'B', 'C', 'D']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.107
+    }
+  ],
+  "published": 0
+}

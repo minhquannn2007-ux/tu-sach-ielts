@@ -1,0 +1,22 @@
+{
+  "job": "p1-museums-and-family-visitors-in-australia-loi-cham-nho-table-subhead-ien-tu-13",
+  "title": "Museums and family visitors in Australia (lỗi chấm nhỏ table, subhead điền từ 13)",
+  "part": 1,
+  "fingerprint": "b3bac94ef0d8efa99a7efbfd98dad543fa1d70cc90e0d44ef78aba6ee5c414cb",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1pA5YjDfWg9qGEtfSD4MRfc3GHpUnzphz",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    },
+    {
+      "sourceId": "16xTDPSjOyCrR9zeuaQOtNrzEOak6yn6M",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.165
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-bright-sparks",
+  "title": "Bright sparks",
+  "part": 3,
+  "fingerprint": "5773a662682b4c74c4d9b0ff03282a6441f1eff59e2cac50bd33f40303c0e5ae",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-bright-sparks.json",
+  "lessonId": "p3-bright-sparks",
+  "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "matching-endings",
+    "ynng"
+  ],
+  "sourceHash": "efaec8e51935869c1a927635d5dafca44a8047faed1698a4bf5ec1cad113ae10",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.147
+}

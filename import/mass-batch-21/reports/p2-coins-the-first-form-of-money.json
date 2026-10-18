@@ -1,0 +1,22 @@
+{
+  "job": "p2-coins-the-first-form-of-money",
+  "title": "Coins - the first form of money",
+  "part": 2,
+  "fingerprint": "f22af5e585ea6785c3d2ebd1d13cb1fbb9a957a6fde07e0759529e78135e78aa",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1ERFNjlevvguQeaTyiUqNgTlRHRVzL7Hu",
+      "code": "heading-questions",
+      "message": "Heading paragraph mapping is ambiguous"
+    },
+    {
+      "sourceId": "1re9wB2b5eo9q9pa_zxskKTo0hbO2wkxP",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.324
+}

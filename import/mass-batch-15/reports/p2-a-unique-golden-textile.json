@@ -1,0 +1,17 @@
+{
+  "job": "p2-a-unique-golden-textile",
+  "title": "A unique golden textile",
+  "part": 2,
+  "fingerprint": "1590a08f2d18df319ed6044dab9f6c345518c70590f6ac203082323229576d72",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "19TiuxCVHSQxcC-G-cY9Ht1C_QXZ3Hfd9",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

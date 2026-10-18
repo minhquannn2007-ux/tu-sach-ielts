@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-development-of-the-advertising-industry-in-new-zealand",
+  "title": "The Development of the Advertising Industry in New Zealand",
+  "part": 1,
+  "fingerprint": "27547bb3957f477ded6d69a3ba880ce693b88bd2f8f51fffa9b9fd25f38945af",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1eVZ95Oktcu6FHyfPS9_dqATGBDflD9gf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-development-of-the-advertising-industry-in-new-zealand.json",
+  "lessonId": "p1-the-development-of-the-advertising-industry-in-new-zealand",
+  "sourceId": "1eVZ95Oktcu6FHyfPS9_dqATGBDflD9gf",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "2f804f1594ca978d995912eeb55d66fa4c09701713ed00308f77ec6534ca6d21",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.092
+}

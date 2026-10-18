@@ -1,0 +1,32 @@
+{
+  "job": "p1-rubber",
+  "title": "Rubber",
+  "part": 1,
+  "fingerprint": "378e699740b4916bbfc22f1109874a297384befc330622e8f1590b6593ba4463",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1k1EsCT6Hr-25Jl4pcXbosPqQ0HChqo66",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-rubber.json",
+  "lessonId": "p1-rubber",
+  "sourceId": "1k1EsCT6Hr-25Jl4pcXbosPqQ0HChqo66",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "765921b9ee3a9079b067cd610a61b75276f19b0ca75cb24f145b7f3f919a7c31",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.073
+}

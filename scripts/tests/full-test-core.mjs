@@ -1,0 +1,8 @@
+import fs from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';
+const ctx={};vm.runInNewContext(fs.readFileSync('dist/full-test-core.js','utf8'),ctx);const C=ctx.FullTestCore;
+const map=new Map(),store={getItem:k=>map.get(k)||null,setItem:(k,v)=>map.set(k,v),removeItem:k=>map.delete(k)};
+const catalog=JSON.parse(fs.readFileSync('dist/lesson-catalog.json'));const selected=C.select(catalog,store,()=>0);assert.deepEqual(Array.from(selected,x=>x.part),[1,2,3]);assert.equal(selected.reduce((a,x)=>a+x.count,0),40);assert.equal(map.size,0,'selection must not reserve or mark used');
+map.set('reading-'+selected[0].id+'-history',JSON.stringify([{completed:true}]));assert.notEqual(C.select(catalog,store,()=>0)[0].id,selected[0].id,'prefer unseen');for(const item of catalog.filter(x=>x.part===1))map.set('reading-'+item.id+'-history',JSON.stringify([{completed:true}]));assert.equal(C.select(catalog,store,()=>0)[0].id,selected[0].id,'reuse once all complete');
+map.clear();store.setItem(C.key,JSON.stringify({items:selected}));assert.equal(C.select(catalog,store,()=>0)[0].id,selected[0].id,'unfinished set stays eligible');
+const set={id:'test-set',items:selected},answers=selected.map((x,i)=>Array.from({length:x.count},(_,j)=>j<(i===0?5:i===1?6:0)?'answer':''));C.submit(store,set,answers);assert.equal(C.completed(store,selected[0].id),false);assert.equal(C.completed(store,selected[1].id),true);assert.equal(C.completed(store,selected[2].id),false);assert.equal(store.getItem(C.key),null);C.submit(store,set,answers);selected.forEach(x=>assert.equal(JSON.parse(store.getItem('reading-'+x.id+'-history')).length,1));
+console.log('PASS full-test selection, 40 questions, no reservations, completion threshold and idempotent submission');

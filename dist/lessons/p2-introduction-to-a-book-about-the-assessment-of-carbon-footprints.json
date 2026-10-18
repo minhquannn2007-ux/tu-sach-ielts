@@ -1,0 +1,223 @@
+{
+  "id": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints",
+  "part": 2,
+  "title": "Introduction to a book about the assessment of carbon footprints",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "As this book is about ways of measuring the carbon footprint of particular things, I should start by making it clear what I mean. I am using the word 'carbon' as shorthand for all the different global-warming greenhouse gases, and I am using the word 'footprint' as a metaphor for the total impact that something has. So I am using the phrase 'carbon footprint' as shorthand to mean the full climate-change impact of something. That something could be anything — an activity, an item, a lifestyle, a company, a country, or even the whole world."
+    },
+    {
+      "label": "B",
+      "text": "Measuring carbon footprints is a long way from being an exact process, whatever anyone claims, or whatever numbers you might see written on the side of products in some shops. All my numbers are best estimates and nothing more, even though I have reached them as carefully as I can."
+    },
+    {
+      "label": "C",
+      "text": "I have used a variety of different methods and sources. I have drawn on a range of data sets and models taken from publicly available reports of life-cycle* studies. I have also used studies carried out for businesses across different industries by my own company, Small World Consulting, using models that we are developing all the time. Often I have arrived at numbers by a couple of different routes, to check that the results agree with each other. Occasionally, it has been more a case of putting my finger in the air and guessing, but when that has been the case I have tried to make it clear."
+    },
+    {
+      "label": "D",
+      "text": "The publicly available data sets I have used were arrived at by two main methods. The first of these, process-based life-cycle analysis, is the most common approach to carbon footprint calculations. It is often referred to as 'bottom-up' because you start off identifying, one by one, all the processes that have had to happen in order for, say, a product to be created. Then you add up the emissions from each process, and that is the footprint of the product. It may sound simple, but it is not at all. It is back-breaking work, and since the number of processes you really need to include is always infinite, the job is never quite complete, so you end up with an underestimate. In fact, the omissions from the calculation are often shocking: they can be fifty per cent or more. To make matters worse, these problems are commonly overlooked, even in the development of government-backed and government-funded guidelines, such as the UK's PAS 2050 standard. But for all the problems, process-based life-cycle analysis is still an essential source of detailed information that can't be gathered any other way."
+    },
+    {
+      "label": "E",
+      "text": "The other method is environmental input-output analysis. This is a neat alternative to process-based life-cycle analysis. It is not as popular, perhaps because it is a bit less easy to understand, but it is at least as robust as anything else in the dim world of measuring carbon footprints. It is sometimes called a 'top-down' approach because it begins by looking at the whole economy. It uses macroeconomic modelling to understand the way in which the activities of one industry trigger activities and emissions in every other industry. Input-output analysis' key 'trick' is a piece of ingenious maths (for which a man called Wassily Leontief got a Nobel Prize) that succeeds in capturing the endless ripple effects in a way that is one hundred per cent complete. It has the further advantage that if you know how much something costs, you can get an instant crude estimate of its carbon footprint. It is like a magic trick. And just like all the best magic it is also a bit too good to be true — in many cases the results can be ridiculously general and of little value."
+    },
+    {
+      "label": "F",
+      "text": "Input-output analysis is nevertheless a powerful tool both because it does not omit things, and because once a specific model has been built it is often easy to use. The basic technique is well established. The specific model I have used is one that was developed at Small World Consulting in collaboration with Lancaster University in the UK, and draws mainly on data obtained from government sources. It was based on a 2007 picture of the UK economy. It deals with all the greenhouse gases, and employs a weighting factor for gases emitted at a high altitude, which have a greater impact than ground-level emissions. A key weakness, which I sometimes adjust for, is that it treats imported products as though they had the same carbon intensity as products from within the UK, whereas in reality imports are usually more carbon-intensive."
+    },
+    {
+      "label": "G",
+      "text": "Most of the time I have used a combination of life-cycle analysis and input-output analysis to get my numbers. At its best, life-cycle analysis can be more precise, but input-output analysis is often able to get at information that life-cycle analysis is unable to reach. Putting the two methods together is sometimes called a hybrid approach, and the result is a bit like looking through both a microscope and a telescope at the same time. They each show you different things, and between them, if the lenses are clean, you end up with a passable understanding of whatever it is you are looking at."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-19 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "reference to an award-winning formula"
+        },
+        {
+          "n": 15,
+          "prompt": "an acknowledgement of the general shortcomings of carbon footprint calculations"
+        },
+        {
+          "n": 16,
+          "prompt": "mention of a working partnership"
+        },
+        {
+          "n": 17,
+          "prompt": "reference to the demanding nature of one way of calculating carbon footprints"
+        },
+        {
+          "n": 18,
+          "prompt": "the advantage of combining two different methods"
+        },
+        {
+          "n": 19,
+          "prompt": "a comparison between goods from home and abroad"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 20 and 21 Choose TWO letters, A-E Write the correct letters in boxes 20 and 21 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "type": "mc-two",
+      "numbers": [
+        20,
+        21
+      ],
+      "prompt": "Which TWO of these features of process-based life-cycle analysis are mentioned by the writer?",
+      "options": [
+        {
+          "value": "A",
+          "text": "It is more complicated than it sounds."
+        },
+        {
+          "value": "B",
+          "text": "It usually produces exaggerated results."
+        },
+        {
+          "value": "C",
+          "text": "It is a frequently used procedure."
+        },
+        {
+          "value": "D",
+          "text": "Its faults are widely recognised."
+        },
+        {
+          "value": "E",
+          "text": "It was first developed in the UK."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 22 and 23 Choose TWO letters, A-E Write the correct letters in boxes 22 and 23 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "numbers": [
+        22,
+        23
+      ],
+      "prompt": "Which TWO of these features of environmental input-output analysis are mentioned by the writer?",
+      "options": [
+        {
+          "value": "A",
+          "text": "It is often the basis of national guidelines."
+        },
+        {
+          "value": "B",
+          "text": "Its starting point is the manufacturing process."
+        },
+        {
+          "value": "C",
+          "text": "It is comprehensive in scope."
+        },
+        {
+          "value": "D",
+          "text": "It is a relatively new method of calculation."
+        },
+        {
+          "value": "E",
+          "text": "It can use prices to get approximate carbon footprints."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "Small World Consulting",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Small World Consulting has collaborated with a UK University to develop a version of the environmental input-output model of analysis, using data provided by the {{24}} about the UK economy in 2007. This model is able to take into account the altitude at which greenhouse gases are produced. A significant {{25}} is that it does not distinguish between {{26}} of different origin, but the writer occasionally makes allowances for that."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1eqNgFPFrpE0SY4idNqyp736VysF5-hiI",
+      "role": "passage-and-questions",
+      "sha256": "2ef863bab7c908b9925b3ab3b4bc981e0ec3326f4883d2ab07b47d252f762c5a",
+      "name": "Introduction to a book about the assessment of carbon footprints.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints"
+  },
+  "displayParagraphLabels": true,
+  "footnotes": [
+    "* life-cycle: the stages of a product's life from beginning to end (i.e. from raw material extraction through materials processing, manufacture, distribution, use, repair and maintenance, and disposal or recycling)."
+  ],
+  "cover": {
+    "asset": "assets/batch-windmill-cover.jpg",
+    "alt": "Cối xay gió",
+    "credit": "Eric Krull",
+    "source": "https://unsplash.com/photos/4owUCOLaB14",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

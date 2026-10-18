@@ -1,0 +1,285 @@
+{
+  "id": "p3-science-and-filmmaking",
+  "part": 3,
+  "title": "Science and filmmaking",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "Every year the film academy in the USA celebrates the outstanding achievements of the year in a ceremony known as the Oscars. An increasingly important component of the ceremony is the presentation of the Scientific and Technical awards. In 2004 a notable event took place: the academic world met the cinematographic world when researchers from Stanford University in the USA were awarded an Oscar. These researchers, led by Steve Marschner, were from the field of Computer Graphics at Stanford. They were part of a growing cohort of computer scientists that has become fundamental to moviemaking."
+    },
+    {
+      "text": "Films have shown that it is possible to use CGI to make actors look younger, older, weaker or stronger than they actually are in a surprisingly realistic manner. At least, it is possible if the altered actors are not filmed too closely. This is because the difficulty of recreating the textures of both skin and fabric means that the effect is less convincing when seen close up. The work of Marschner and his colleagues has greatly improved the accurate and realistic modeling of both skin and fabric. They recognized that one of the difficulties of creating lifelike characters in the computer world is that in CGI the characters’ skin is opaque (two-dimensional) whereas real skin is in fact translucent (three-dimensional), that is to say it is semi-transparent."
+    },
+    {
+      "text": "Marschner and his colleagues received the Oscar for their work in successfully producing a CGI model that simulates translucency; this is when light penetrates skin and then scatters below the skin’s surface before re-emerging. This is called subsurface scattering, and the mathematics for the model goes back many decades to the time when it was used in astrophysics. Because human skin is naturally translucent, it was necessary to be able to create this artificially in order to simulate the soft appearance of real skin. Previous CGI models, which assumed that skin was entirely opaque, resulted in characters with a plastic appearance. The scientists’ new model of CGI was so important in bringing digital characters to life that, within two years of their original research paper, all the major special-effects studios had incorporated it into their digital rendering systems."
+    },
+    {
+      "text": "However, despite their award, the scientists, with admirable tenacity, continued their search for perfection, as they still did not feel that they had yet satisfactorily recreated the subtle ways light is reflected. To do this, they began to look in detail at the way skins and fabrics reflect light differently according to their make-up: the exact arrangement of fibers in fabric and the network of fibers in skin. Marschner and his team of friends to do this by using computerized tomography – which is most familiar as a medical technique for examining people’s internal organs. Like classical radiology it uses X-rays, but because the image is constructed inside a computer using exposures taken from many different positions, rather than a single exposure on photographic film, it can capture fine details that are invisible in classical radiography."
+    },
+    {
+      "text": "Unfortunately, the scientists understood that at this point in time they could not use computer tomography on skin, because a very high intensity X-ray is needed to show the kind of detail they wanted and this would be very dangerous for human skin. They have, however, had some success with fabric. Using this new method of imaging, they are able to accurately record the three-dimensional structure of all the fibers in a number of small pieces of fabric. These same pieces of fabric, through the use of CGI, can then be patched together to form an entire garment inside a computer, in the same way that a small group of actors can be made to look like hundreds of people gathered together. A garment created through CGI is therefore made up of pieces of fabric whose internal structure has been pre-recorded. This means that the way light is reflected by the garment can be calculated far more realistically than if the scientists just made a computer model of what they thought the interior of the fabric looked like. Cinematography will benefit from this because, although it may take some years to be able to use computerized tomographic imaging of skin, for the moment the movement of a virtual cloak or the lifting of a computerized hat should look far more realistic."
+    },
+    {
+      "text": "In the meantime, according to Marschner’s colleague Kavita Bala, the technology might have an application in online retailing. At the moment people buying clothes over the internet have only a standard photograph to help them choose their purchases. It is hoped that if online shoppers can view items which have been presented through the use of computerized tomography graphics, they will have a much better understanding of what the material the item is made of is really like."
+    },
+    {
+      "text": "Marschner is now working on the way light is scattered from individual hairs. He says, ‘I feel lucky to be working in this niche. I’m a visual person and to be able to spend my time scrutinizing the world around me, trying to understand why it looks the way it does, is very rewarding’."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 32 Choose the correct letter, A, B, C or D. Write the correct letter in boxes 27-32 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "What is the writer’s main point in the first paragraph?",
+          "options": [
+            {
+              "value": "A",
+              "text": "Computer scientists are rarely represented at the Oscars."
+            },
+            {
+              "value": "B",
+              "text": "Film industry awards hold little interest for computer scientists."
+            },
+            {
+              "value": "C",
+              "text": "The USA rewards film actors more than computer scientists."
+            },
+            {
+              "value": "D",
+              "text": "Computer scientists are becoming a vital part of the film industry."
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "prompt": "When describing the way computer generated imagery changes actors’ appearance, what does the writer suggest?",
+          "options": [
+            {
+              "value": "A",
+              "text": "CGI looks best from a distance."
+            },
+            {
+              "value": "B",
+              "text": "CGI interferes with actors’ facial expressions."
+            },
+            {
+              "value": "C",
+              "text": "Audiences expect too much of CGI."
+            },
+            {
+              "value": "D",
+              "text": "The scientists had hoped for more convincing results."
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "prompt": "What does the writer suggest about the scientists’ attitude to their work in the fourth paragraph?",
+          "options": [
+            {
+              "value": "A",
+              "text": "They were motivated to get as near to reality as possible."
+            },
+            {
+              "value": "B",
+              "text": "They were interested in gaining recognition for their work."
+            },
+            {
+              "value": "C",
+              "text": "They thought it could have medical applications."
+            },
+            {
+              "value": "D",
+              "text": "They hoped to receive further funding for their research."
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "prompt": "What are we told about computerised tomography?",
+          "options": [
+            {
+              "value": "A",
+              "text": "It has only recently been used by doctors."
+            },
+            {
+              "value": "B",
+              "text": "It is similar to X-rays in the way it works."
+            },
+            {
+              "value": "C",
+              "text": "Filmmakers have used it for many years for special lighting effects."
+            },
+            {
+              "value": "D",
+              "text": "It can be administered using traditional radiography machines."
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "prompt": "Which of these advantages does the writer attribute to the current use of computerised tomography?",
+          "options": [
+            {
+              "value": "A",
+              "text": "It is most effective when used to create images of skin."
+            },
+            {
+              "value": "B",
+              "text": "It can make a few people seem like a crowd."
+            },
+            {
+              "value": "C",
+              "text": "It allows clothes designers to create new designs."
+            },
+            {
+              "value": "D",
+              "text": "It is practical because of the time it takes."
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "prompt": "The writer mentions Kavita Bala in order to",
+          "options": [
+            {
+              "value": "A",
+              "text": "comment on the success of CGI in commercial contexts."
+            },
+            {
+              "value": "B",
+              "text": "highlight the link between CGI and photography."
+            },
+            {
+              "value": "C",
+              "text": "show that Marschner’s team are uncertain about the future of CGI."
+            },
+            {
+              "value": "D",
+              "text": "demonstrate a use for CGI outside the film industry."
+            }
+          ]
+        }
+      ],
+      "type": "mc-one"
+    },
+    {
+      "sourceInstructions": "Questions 33 – 36 Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 33-36 on your answer sheet, write YES if the statement agrees with the claims of the writer NO if the statement contradicts with the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 33,
+          "prompt": "It used to be unusual for university researchers to receive a cinematography award."
+        },
+        {
+          "n": 34,
+          "prompt": "CGI is popular among ageing actors."
+        },
+        {
+          "n": 35,
+          "prompt": "The scientists’ success in generating images of complete CGI garments has won them many awards."
+        },
+        {
+          "n": 36,
+          "prompt": "It will be a long time before computerised tomographic fabric is used by filmmakers."
+        }
+      ],
+      "type": "ynng"
+    },
+    {
+      "sourceInstructions": "Questions 37 – 40 Complete the summary using the list of words, A-I, below. Write the correct letter, A-I, in boxes 37-40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "type": "summary-drag",
+      "bank": [
+        {
+          "value": "A",
+          "text": "light"
+        },
+        {
+          "value": "B",
+          "text": "age"
+        },
+        {
+          "value": "C",
+          "text": "transparency"
+        },
+        {
+          "value": "D",
+          "text": "astrophysics"
+        },
+        {
+          "value": "E",
+          "text": "use"
+        },
+        {
+          "value": "F",
+          "text": "colour"
+        },
+        {
+          "value": "G",
+          "text": "transluency"
+        },
+        {
+          "value": "H",
+          "text": "mathematics"
+        },
+        {
+          "value": "I",
+          "text": "improvement"
+        }
+      ],
+      "reuse": false,
+      "title": "The work of Marschner and his colleagues",
+      "content": [
+        "For many years, CGI characters in films did not appear entirely lifelike as their skin lacked {{37}} . Marschner and his colleagues were the first to apply an understanding of how {{38}} interacts with human skin. Their CGI model is based on a novel application of principles of {{39}} , which had previously been applied in other scientific research. The importance of CGI to the film industry has led to the {{40}} of Marschner’s model by special effects studios."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1PeJKgewRRKMFjRPVQszKklAo74EXmm-x",
+      "role": "passage-and-questions",
+      "sha256": "5a8dc9aaff8e38a8efa165f8b592efa16d4397ace5b9ac72c2a95dfb9fdfae11",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.17",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-science-and-filmmaking"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Academics are now working more with filmmakers who are impressed by the results of their research in computer generated imagery (CGI)"
+}

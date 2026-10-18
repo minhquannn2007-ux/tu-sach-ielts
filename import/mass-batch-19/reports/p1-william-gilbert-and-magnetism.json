@@ -1,0 +1,33 @@
+{
+  "job": "p1-william-gilbert-and-magnetism",
+  "title": "William Gilbert and magnetism",
+  "part": 1,
+  "fingerprint": "b60573326410489374478712816811f4b4aca7e3e5e5db4fbc08d28f19ce7179",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1xO5NNew7_n2kgqilJ2G0V-yNDr0zUzql",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-william-gilbert-and-magnetism.json",
+  "lessonId": "p1-william-gilbert-and-magnetism",
+  "sourceId": "1xO5NNew7_n2kgqilJ2G0V-yNDr0zUzql",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "ynng",
+    "mc-two"
+  ],
+  "sourceHash": "69877e880442337c131a565322bad7007370e42627843debe3a6ac84042961bc",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.072
+}

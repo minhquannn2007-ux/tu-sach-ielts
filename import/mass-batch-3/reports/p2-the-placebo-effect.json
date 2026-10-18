@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-placebo-effect",
+  "title": "The placebo effect",
+  "part": 2,
+  "fingerprint": "56fc6c79fa802f1cb0ba04004c20005c8e43e2ac0e61da3c7a37e78d3d6ea66f",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1NEoq_i03xrFyiJVZaDlpZLV7JJ6X3ZVd",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-placebo-effect.json",
+  "lessonId": "p2-the-placebo-effect",
+  "sourceId": "1NEoq_i03xrFyiJVZaDlpZLV7JJ6X3ZVd",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "08922e03c074dfd52db78dbb8f36a9a46e95078af5f1054f86288ef0c1a2d39f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

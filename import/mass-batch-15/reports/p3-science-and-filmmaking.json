@@ -1,0 +1,22 @@
+{
+  "job": "p3-science-and-filmmaking",
+  "title": "Science and filmmaking",
+  "part": 3,
+  "fingerprint": "b4288562c97e502252e4bf8145d8df5ae0f0734084d8392c5b1d366908a617be",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1PeJKgewRRKMFjRPVQszKklAo74EXmm-x",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+    },
+    {
+      "sourceId": "1DWpntziwQXlbDvBHr4qdi91qEYqI_5Hs",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.067
+}

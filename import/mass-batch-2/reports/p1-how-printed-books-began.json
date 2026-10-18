@@ -1,0 +1,17 @@
+{
+  "job": "p1-how-printed-books-began",
+  "title": "How printed books began",
+  "part": 1,
+  "fingerprint": "64eb504861a64ff03e5cdb54cf63d10e3afd55b48b156a0bba05a73783af3e1a",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1quvnV5vXHq0FjTchP11j71bdI9oA8a5c",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

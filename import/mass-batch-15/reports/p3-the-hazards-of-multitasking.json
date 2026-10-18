@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-hazards-of-multitasking",
+  "title": "The hazards of multitasking",
+  "part": 3,
+  "fingerprint": "daa0b76be33bd0d7d64c6f8b596f0ab1677e7069a67661d18d36d92cce6cc34e",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1EPte8MBlC-Y9tqb7uQle0M4k7D0TFKjI",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1h31fWtMBQYhWvApbJ3znQ2q9VUsYSJ6o",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.074
+}

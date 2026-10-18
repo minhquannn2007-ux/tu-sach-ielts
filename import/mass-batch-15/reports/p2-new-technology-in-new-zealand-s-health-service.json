@@ -1,0 +1,17 @@
+{
+  "job": "p2-new-technology-in-new-zealand-s-health-service",
+  "title": "New Technology in New Zealand's Health Service",
+  "part": 2,
+  "fingerprint": "dff89c61bfb06139099f0f366487025c546825eef42b55ccfdbac41f9b407cc2",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1xEnclg1t6tR2AW5YSdi9Ovu6euAwQAU4",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

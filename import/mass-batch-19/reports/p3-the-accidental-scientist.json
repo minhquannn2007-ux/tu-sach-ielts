@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-accidental-scientist",
+  "title": "The Accidental Scientist",
+  "part": 3,
+  "fingerprint": "3e8cdf7b01cac7ccdf649a3291fb53bbd9f70249b82642e6a5db2fa03c2c26cc",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+      "code": "heading-questions",
+      "message": "Heading paragraph mapping is ambiguous"
+    },
+    {
+      "sourceId": "1TrLJhCVQmEvxhtKKJ7q6VKq8rvpN9yn4",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.075
+}

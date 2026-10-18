@@ -1,0 +1,32 @@
+{
+  "job": "p1-australian-artist-margaret-preston",
+  "title": "Australian artist Margaret Preston",
+  "part": 1,
+  "fingerprint": "6aa5ef4a386021c4c4cf88389e1a9d002fce34f450636542221243bb8664e177",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1_OId5cnMRuAGIo4PvOWLMDDOznjAl7ao",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-australian-artist-margaret-preston.json",
+  "lessonId": "p1-australian-artist-margaret-preston",
+  "sourceId": "1_OId5cnMRuAGIo4PvOWLMDDOznjAl7ao",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "6671f8838c4ceb570f287fd675c77dde9a07916f668a7ef7365cd45f4d126d27",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

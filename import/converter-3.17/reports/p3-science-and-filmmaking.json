@@ -1,0 +1,33 @@
+{
+  "job": "p3-science-and-filmmaking",
+  "title": "Science and filmmaking",
+  "part": 3,
+  "fingerprint": "b2e490922a6e002775dc59305b54493a6530d92310080f740e9c663b8f96c482",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1PeJKgewRRKMFjRPVQszKklAo74EXmm-x",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-science-and-filmmaking.json",
+  "lessonId": "p3-science-and-filmmaking",
+  "sourceId": "1PeJKgewRRKMFjRPVQszKklAo74EXmm-x",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag"
+  ],
+  "sourceHash": "5a8dc9aaff8e38a8efa165f8b592efa16d4397ace5b9ac72c2a95dfb9fdfae11",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.103
+}

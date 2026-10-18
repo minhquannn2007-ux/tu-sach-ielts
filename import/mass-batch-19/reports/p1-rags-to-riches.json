@@ -1,0 +1,33 @@
+{
+  "job": "p1-rags-to-riches",
+  "title": "Rags to Riches",
+  "part": 1,
+  "fingerprint": "ae02f85bf03780833336b7ee04208aafd368effeee6249618b194df10d88958f",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1aqTUa644iun_uvnpSffSY1T-gwPlOBco",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-rags-to-riches.json",
+  "lessonId": "p1-rags-to-riches",
+  "sourceId": "1aqTUa644iun_uvnpSffSY1T-gwPlOBco",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "summary-input",
+    "summary-drag"
+  ],
+  "sourceHash": "87d9ad80bcb1f3ac49cdd4544ac1793d12e86da9f6f675b188eb68bd3ea9db3b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.056
+}

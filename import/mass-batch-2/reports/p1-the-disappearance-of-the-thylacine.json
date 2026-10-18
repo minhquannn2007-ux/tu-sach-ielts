@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-disappearance-of-the-thylacine",
+  "title": "The disappearance of the thylacine",
+  "part": 1,
+  "fingerprint": "44132ee17f74e74ffa1f6d9fdffc9ea4579986559a6fb70ce988a8a2542b80aa",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1rtvHJ6l1R3HXnns5PuQ8bT5l8WoKtdgi",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.062
+}

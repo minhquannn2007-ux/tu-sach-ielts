@@ -1,0 +1,22 @@
+{
+  "job": "p1-no-title-a-decibel-hell-chua-rep",
+  "title": "No title - A Decibel Hell (CHƯA REP)",
+  "part": 1,
+  "fingerprint": "3ac5e57a7624800cc37f326b71d526d75c3b4b4702537c1b3c5f26210e37eb30",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1Gwf97r7-8xFO9N7jEquxPjPhPbmbXVn6",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1UOdE6BNW7S9p4Oq-gymWGzCyKr9KFuoX",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.073
+}

@@ -1,0 +1,27 @@
+{
+  "job": "p3-game-theory",
+  "title": "Game theory",
+  "part": 3,
+  "fingerprint": "8e50e651644084c34d1ac1b40b9492e9d8cbea980e99022e9844843f8119419e",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1MC26oTgvrDy4HaYTQCNmhZ-N64JVjxKt",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1SnHaKvvu14Pde3XMPd4v1KPrlHiwHQOg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1FWSjx3gBM6_NW0HrRSPzCIXjvHle_HiY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-life-of-beatrix-potter",
+  "title": "The life of Beatrix Potter",
+  "part": 1,
+  "fingerprint": "981cd8c4e42075b30be0d7919d79838f917e6e28bc3b7f31e6f825d72c235d34",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1JVQRSbNTUrYefv6-02hCTWsaGNF7jPNf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-life-of-beatrix-potter.json",
+  "lessonId": "p1-the-life-of-beatrix-potter",
+  "sourceId": "1JVQRSbNTUrYefv6-02hCTWsaGNF7jPNf",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "f88d572ec61188ef7f67b2e71674b2651fe756a44fbc49196fc4d560c6f1a679",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.055
+}

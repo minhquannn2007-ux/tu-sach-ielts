@@ -1,0 +1,22 @@
+{
+  "job": "p3-how-to-win-the-world-memory-championship",
+  "title": "How to win the World Memory Championship",
+  "part": 3,
+  "fingerprint": "d2b7a9d5f558ab9df6834498aa3073c052a4157a2ee4df29f8c0fd384cf8662b",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1owbfxogR2OBVrysFXrh1ZY-er-zpKOHk",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1uwJiC4hq-1_KJ6kf2Dtw9ig-A8Kc9Snk",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

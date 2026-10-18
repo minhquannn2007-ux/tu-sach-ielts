@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-history-of-tapestry-in-europe",
+  "title": "The history of tapestry in Europe",
+  "part": 2,
+  "fingerprint": "bfb12940ebeab16cac39dd8092478f6d3a73d01ccd671ba8d8d1b4d5f6204e27",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1vRQyJu1XGRM5wo_giyxELyVJiM0TWtwf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-history-of-tapestry-in-europe.json",
+  "lessonId": "p2-the-history-of-tapestry-in-europe",
+  "sourceId": "1vRQyJu1XGRM5wo_giyxELyVJiM0TWtwf",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "78f3e98367c7000f3b5dea8299d20a64df882ec6cfdbec33fa2b624e7bfb7224",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.05
+}

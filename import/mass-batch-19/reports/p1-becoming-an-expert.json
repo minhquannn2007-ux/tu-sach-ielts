@@ -1,0 +1,22 @@
+{
+  "job": "p1-becoming-an-expert",
+  "title": "Becoming an expert",
+  "part": 1,
+  "fingerprint": "3e738b7986b69e289926de5018422347566875e04000a9becb76355c0fd6cd67",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1uX8DgV1Ifa_9sQGM1S9yWQtUgusM44JJ",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    },
+    {
+      "sourceId": "1BhjKyQRuGmF1Qg1S7wqv0GCYlirfyQ_f",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.049
+}

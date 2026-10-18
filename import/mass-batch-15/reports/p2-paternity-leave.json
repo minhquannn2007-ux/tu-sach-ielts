@@ -1,0 +1,17 @@
+{
+  "job": "p2-paternity-leave",
+  "title": "Paternity Leave",
+  "part": 2,
+  "fingerprint": "b0bdda03ae7401a1bdf5cca978c9ad8ef0f43d417b9b89779e9a3a984955ec27",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "11PmWDdJ3QnZeXvfa64-EcWgPMuVjHxb-",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

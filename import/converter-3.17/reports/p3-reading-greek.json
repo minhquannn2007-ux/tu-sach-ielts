@@ -1,0 +1,22 @@
+{
+  "job": "p3-reading-greek",
+  "title": "Reading Greek",
+  "part": 3,
+  "fingerprint": "562463b7ef15a40da794f3443f5412392dd57ad507ed6ed892473cee78c46d92",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1ymBNaNMkrk7UKWsYVPVI0Mv_WTlMb2pa",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1u64O4tm1ux8f5ZohUwqNBotw34qineaH",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

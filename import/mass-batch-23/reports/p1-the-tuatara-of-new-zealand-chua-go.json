@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-tuatara-of-new-zealand-chua-go",
+  "title": "The Tuatara of New Zealand(CHƯA GÕ)",
+  "part": 1,
+  "fingerprint": "963a01f1acdd89db3480d5ef6ee5341467f94aa2d740b7ca9641d3578ee28bf0",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1xRoRo67Frml-pdjyLsKby16TcerUHr5S",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

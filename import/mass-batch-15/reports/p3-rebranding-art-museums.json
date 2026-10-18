@@ -1,0 +1,17 @@
+{
+  "job": "p3-rebranding-art-museums",
+  "title": "Rebranding art museums",
+  "part": 3,
+  "fingerprint": "087c2834b074e34bf5e71afd31da2a36a859b076c7e23ace21cc7bfb605f8c4c",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.066
+}

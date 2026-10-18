@@ -1,0 +1,32 @@
+{
+  "job": "p1-hormones",
+  "title": "Hormones",
+  "part": 1,
+  "fingerprint": "f3e36b4980892843900830d08ff34564365bab0f845b20ff8e57c95ef0c91b05",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-hormones.json",
+  "lessonId": "p1-hormones",
+  "sourceId": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "4ecb4810e7c5fa8802156d55212e23e2205d00ea59346676e4510548f4f81cf1",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.2
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-problem-with-aiming-for-average",
+  "title": "The problem with aiming for average",
+  "part": 2,
+  "fingerprint": "d191a4004cadf9f135146d5308eb8c0ebff1d8d0b813f3eddecbab97b83563be",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1VJADLqe2tg8LhTmd-x_RSTbVv1BL3wcK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

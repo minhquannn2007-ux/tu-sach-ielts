@@ -1,0 +1,17 @@
+{
+  "job": "p2-how-dental-health-is-threatened",
+  "title": "How Dental Health Is Threatened",
+  "part": 2,
+  "fingerprint": "53255c2db5b987c7175d5379fa35f57110e200b94c05ff1999ea9275e4299973",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1XOvNTZpvecwY8_BhiHTnITu9pkrPpshu",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.047
+}

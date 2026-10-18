@@ -1,0 +1,32 @@
+{
+  "job": "p1-socotra-island",
+  "title": "Socotra Island",
+  "part": 1,
+  "fingerprint": "ace6ee21acd1e9d9bf6a8c8ed8b9233a5f6a0ebde1dc28b5e30d581574349467",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1b7C8ud7kW6WK7F_tvagIMcC_xLz6cpk7",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-socotra-island.json",
+  "lessonId": "p1-socotra-island",
+  "sourceId": "1b7C8ud7kW6WK7F_tvagIMcC_xLz6cpk7",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "afbc22db0a14a09e79c8379c5da0198713cf31b3acfb25897ae8ff9040b790e8",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

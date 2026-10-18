@@ -1,0 +1,32 @@
+{
+  "job": "p1-food-flavor",
+  "title": "Food flavor",
+  "part": 1,
+  "fingerprint": "0c32703828d7646c762be29733991d800846fb8fa7e60f21af78fed07bc2c19b",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1l5d2oLEBRY5DdjAzAt9BWDkuLbcNjBHS",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-food-flavor.json",
+  "lessonId": "p1-food-flavor",
+  "sourceId": "1l5d2oLEBRY5DdjAzAt9BWDkuLbcNjBHS",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "5b28e7cd6501efdb3912efe13a53679393ff4566fe94acfeadd137250dcb2151",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.099
+}

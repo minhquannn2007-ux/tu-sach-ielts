@@ -1,0 +1,17 @@
+{
+  "job": "p2-biomimicry",
+  "title": "Biomimicry",
+  "part": 2,
+  "fingerprint": "7e8f53f9a58cfce41873123b3e897ea72ee474bee161dcff264293402ff951ed",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1uBHIUo4iaryopWSxoP1hSP2EE2FLlAC3",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

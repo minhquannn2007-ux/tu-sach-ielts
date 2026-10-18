@@ -1,0 +1,17 @@
+{
+  "job": "p3-lets-all-be-friends",
+  "title": "Let’s all be friends",
+  "part": 3,
+  "fingerprint": "ab365322e805e8e42e7eda0667158837ed2a007a0a6ab3eac0922679c5efdfb4",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.053
+}

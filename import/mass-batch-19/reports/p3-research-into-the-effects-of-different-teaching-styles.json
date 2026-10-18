@@ -1,0 +1,33 @@
+{
+  "job": "p3-research-into-the-effects-of-different-teaching-styles",
+  "title": "Research into the effects of different teaching styles",
+  "part": 3,
+  "fingerprint": "8d9d5010b55ca9543e77dbb8d7d3e9d8dc557ff0439c024b4d1ef3d986fec020",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1uvWuoXUD6xyZFxFibug5wFicetQXGkfd",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-research-into-the-effects-of-different-teaching-styles.json",
+  "lessonId": "p3-research-into-the-effects-of-different-teaching-styles",
+  "sourceId": "1uvWuoXUD6xyZFxFibug5wFicetQXGkfd",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "matching-features",
+    "matching-info"
+  ],
+  "sourceHash": "2eada58aff60362e44c9b02458b8f05036446c5834f4fadfb425bfd4e6643894",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

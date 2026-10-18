@@ -1,0 +1,35 @@
+/* Shared Inspera footer, measured against the supplied 1920px reference. */
+.bottom-bar .bb-top-row{height:64px!important;min-height:64px!important;padding:0!important;gap:0;background:#fff!important;border:0!important}
+.bottom-bar .bb-part,.bottom-bar .bb-active-part{flex:1 1 0!important;min-width:0!important;min-height:64px!important;justify-content:flex-start!important;position:relative;padding:0!important;overflow:visible!important}
+.bottom-bar .bb-active-part{display:flex!important;align-items:center!important;flex-direction:row!important}
+.bottom-bar .bb-numbers-row{width:100%!important;height:64px!important;box-sizing:border-box;padding:0 22px!important;overflow-x:auto!important;overflow-y:hidden!important;scrollbar-width:none;align-items:center!important}
+.bottom-bar .bb-active-part:has(> #bb-dots){padding-left:22px!important;box-sizing:border-box}
+.bottom-bar .exam-part-label{font:700 18px Arial!important;color:#202020!important;padding:0!important;margin:0!important;white-space:nowrap}
+.bottom-bar .exam-part-label>span{margin:0!important}
+.bottom-bar #bb-dots,.bottom-bar .footer__subquestionWrapper{margin-left:36px!important;gap:3px!important;height:64px!important;align-items:center!important;flex-wrap:nowrap!important}
+.bottom-bar .subQuestion.scorable-item,.bottom-bar .tif-dot{height:64px!important;min-width:32px!important;background:transparent!important;border:0!important;outline:none!important;box-shadow:none!important;flex-shrink:0}
+.bottom-bar .bb-q-num,.bottom-bar .tif-dot-label,.bottom-bar #bb-dots button.video-plain-dot{box-sizing:border-box;font:400 18px/28px Arial!important;height:30px!important;min-width:32px!important;width:auto!important;padding:0 4px!important;border:1px solid transparent!important;border-radius:1px!important;color:#202020!important;background:transparent!important;outline:none!important;box-shadow:none!important;white-space:nowrap;cursor:pointer}
+.bottom-bar .bb-q-num,.bottom-bar .tif-dot-label{display:inline-block;text-align:center}
+.bottom-bar #bb-dots button[data-exam-questions*=','],.bottom-bar .exam-grouped-dot .bb-q-num,.bottom-bar .exam-grouped-dot .tif-dot-label{min-width:64px!important}
+.bottom-bar .video-current .bb-q-num,.bottom-bar .video-current .tif-dot-label,.bottom-bar .subQuestion:hover .bb-q-num,.bottom-bar .tif-dot:hover .tif-dot-label,.bottom-bar .subQuestion:focus-visible .bb-q-num,.bottom-bar .tif-dot:focus-visible .tif-dot-label,.bottom-bar #bb-dots button.video-plain-dot:is(.video-current,:hover,:focus-visible){border-color:#418fc6!important;outline:1px solid #418fc6!important;outline-offset:0!important}
+.bottom-bar .bb-inactive-view{height:64px!important;gap:18px!important;padding:0!important;justify-content:center!important;align-items:center!important}
+.bottom-bar .bb-inactive-label{font:400 18px Arial!important;color:#202020!important}
+.bottom-bar .bb-inactive-progress{font:400 18px Arial!important;color:#777!important;margin:0!important}
+.bottom-bar .bb-clickable:not(.bb-active-part):hover{background:#efefef!important}
+.bottom-bar .bb-clickable:is(:active,:focus-visible){outline:2px solid #418fc6!important;outline-offset:-2px!important}
+.bottom-bar .exam-submit{flex:0 0 92px!important;width:92px!important;height:64px!important;border:0!important;border-radius:0!important;background:#efefef!important;color:#555!important;font:700 26px Arial!important}
+.bottom-bar .subQuestion::before,.bottom-bar .tif-dot::before,.bottom-bar .video-plain-dot::before{display:none!important}
+.exam-part-progress,.exam-part-progress span{height:3px!important}
+.exam-part-progress{position:absolute;top:3px!important;left:3px;right:3px;gap:3px;pointer-events:none}
+.exam-part-progress span{background:#d7d7d7}
+.exam-part-progress span.done{background:#568c3f}
+.exam-part-progress.exam-progress-aligned{display:block;overflow:hidden;left:0;right:0}
+.exam-progress-aligned span{position:absolute;top:0;flex:none}
+.exam-part-progress .exam-label-progress{background:#d7d7d7}
+.bottom-bar .bb-part:not(.bb-active-part) .exam-part-progress{display:none}
+.nav-arrows{bottom:90px!important}
+@media(max-width:1250px){.bottom-bar .bb-active-part{flex:2 1 0!important}.bottom-bar .bb-numbers-row{padding:0 12px!important}.bottom-bar #bb-dots,.bottom-bar .footer__subquestionWrapper{margin-left:18px!important}.bottom-bar .bb-active-part:has(> #bb-dots){padding-left:12px!important}}
+@media(max-width:800px){.bottom-bar .exam-submit{flex-basis:54px!important;width:54px!important}.bottom-bar .bb-q-num,.bottom-bar .tif-dot-label,.bottom-bar #bb-dots button.video-plain-dot,.bottom-bar .exam-part-label,.bottom-bar .bb-inactive-label,.bottom-bar .bb-inactive-progress{font-size:14px!important}.bottom-bar .bb-inactive-view{gap:8px!important}}
+
+/* Give fourteen separate questions enough room without clipping the last one. */
+@media(min-width:1251px){.bottom-bar .bb-active-part:has([data-exam-q="40"]){min-width:626px!important}}

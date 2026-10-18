@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-iditarod",
+  "title": "The Iditarod",
+  "part": 1,
+  "fingerprint": "e6abfd534c5d55b5dabc87e6d32009e4d4ec22b6abf45bc69529d37ee6971c21",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1td68lPilOq0wwqpyAJdT75Xyg3bT8U9D",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p1-weaver-ants-a-remarkable-species",
+  "title": "Weaver ants – a remarkable species",
+  "part": 1,
+  "fingerprint": "e6d22420b884c1a88889565a4210dd75c567183095b4b8bb3b5519d643fe82f9",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1uBaD0aaPadcaGTdXvBS-jEFIY1H886VI",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-weaver-ants-a-remarkable-species.json",
+  "lessonId": "p1-weaver-ants-a-remarkable-species",
+  "sourceId": "1uBaD0aaPadcaGTdXvBS-jEFIY1H886VI",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "short-answer",
+    "tfng"
+  ],
+  "sourceHash": "1bb6e6ae158dd34d9c2d215a6205bf0a9559b2921cd0a0a311b26894e82bdcdf",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-fascinating-world-of-attine-ants-chua-rep",
+  "title": "The fascinating world of attine ants",
+  "part": 2,
+  "fingerprint": "88fc5146161ffd2185f87dbe06046c5bad446a8e30ddd2fe8e01960ec159185d",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1olv6hHHUAluBIS3VpZEju_eMlRvn565L",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-fascinating-world-of-attine-ants-chua-rep.json",
+  "lessonId": "p2-the-fascinating-world-of-attine-ants",
+  "sourceId": "1olv6hHHUAluBIS3VpZEju_eMlRvn565L",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "mc-one"
+  ],
+  "sourceHash": "fd8db7ddf85250e048b4519f716b25efb6614ca7bacdcb85ac7b7b02605eda68",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

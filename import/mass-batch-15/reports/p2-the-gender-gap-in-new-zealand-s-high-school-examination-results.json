@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-gender-gap-in-new-zealand-s-high-school-examination-results",
+  "title": "The gender gap in New Zealand's high school examination results",
+  "part": 2,
+  "fingerprint": "c6ddcd77838aba3b06bd0449b6443b3e617a3e214778ed1bb869ba7a0cb5d134",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1S13fPWb_igA5GxdLroMMT7ll6xk0GNtc",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-humanities-and-the-health-professional",
+  "title": "Humanities and the health professional",
+  "part": 3,
+  "fingerprint": "de0cc2ebaad74ebd5fdb22a1a275151e00e15b2c58d5621138ffa4f990cfa76f",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1cbVeVgbfrWutXZ_6y6qZnRwbqNAczszu",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

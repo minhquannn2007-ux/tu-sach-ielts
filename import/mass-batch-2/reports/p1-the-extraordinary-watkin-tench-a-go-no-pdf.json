@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-extraordinary-watkin-tench-a-go-no-pdf",
+  "title": "The extraordinary Watkin Tench(đã gõ, no pdf)",
+  "part": 1,
+  "fingerprint": "03a97e3f592266c6ab623ee07cf6409d0cce58839e3329b698bdd0467fb2961c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1T8R_qDhZqVuR52AhBKkwVZk_gEmbMQrn",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

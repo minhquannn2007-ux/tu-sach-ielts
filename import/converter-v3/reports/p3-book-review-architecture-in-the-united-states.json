@@ -1,0 +1,33 @@
+{
+  "job": "p3-book-review-architecture-in-the-united-states",
+  "title": "Book Review Architecture in the United States",
+  "part": 3,
+  "fingerprint": "d5bca96780bd3ced79076ff612dc3ad48387fbe4d9ba799dffaf2ff9c64f7adc",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1cLpoxkqyiiBwhm8eKAI-LXGVuRzDxG5A",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-book-review-architecture-in-the-united-states.json",
+  "lessonId": "p3-book-review-architecture-in-the-united-states",
+  "sourceId": "1cLpoxkqyiiBwhm8eKAI-LXGVuRzDxG5A",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "4e389b83d9548facb0e350807c4dc7393e281f9a5be7b4d37bfee6f443484e80",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.049
+}

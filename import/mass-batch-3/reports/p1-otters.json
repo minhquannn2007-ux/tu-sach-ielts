@@ -1,0 +1,17 @@
+{
+  "job": "p1-otters",
+  "title": "Otters",
+  "part": 1,
+  "fingerprint": "a1a45e28aa923bd70886b18cccc291775ff787832ceca5a32a80cac2d0717237",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1rYzsaky-Z73Kc3FcTgaKbmbrgRJY-QQh",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.044
+}

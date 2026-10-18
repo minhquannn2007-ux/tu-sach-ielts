@@ -1,0 +1,22 @@
+{
+  "job": "p3-avalanches",
+  "title": "AVALANCHES",
+  "part": 3,
+  "fingerprint": "72b8d602d53a23418ffcd5df1feb73e68e6e2d2192797ee6541fb5d63075e107",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1uKirxEooeTBwa2bunpP2GiTkiQqZUZSr",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1W5u7WxCsMTG35UGbh2PcGHdi2fjExoPR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

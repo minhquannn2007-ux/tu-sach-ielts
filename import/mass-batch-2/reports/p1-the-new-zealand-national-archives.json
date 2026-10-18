@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-new-zealand-national-archives",
+  "title": "The New Zealand National Archives",
+  "part": 1,
+  "fingerprint": "2e44f74e3d360238374f11c7b51197d11d2ec2474556cfce0568794a4692493b",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1xK0cvpbFEuiLAVv6zuW7Dr_v67XhVHaq",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 11, 12, 13]"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.079
+}

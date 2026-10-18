@@ -1,0 +1,34 @@
+{
+  "job": "p2-michael-ventris-and-the-decoding-of-linear-b",
+  "title": "Michael Ventris and the decoding of Linear B",
+  "part": 2,
+  "fingerprint": "76686dd4005f52f8c9e27cbd8a2dc8569c891d06534555cd8e6a0d5ee8502eb1",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "12vS7d7JRu9gN4UAFw6X1ivCXLVA2Nd8U",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-michael-ventris-and-the-decoding-of-linear-b.json",
+  "lessonId": "p2-michael-ventris-and-the-decoding-of-linear-b",
+  "sourceId": "12vS7d7JRu9gN4UAFw6X1ivCXLVA2Nd8U",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "ee5bf640fecd6fd5dca8dd704d9d22394fef565bb4be914cd2c00c8e5677f380",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.047
+}

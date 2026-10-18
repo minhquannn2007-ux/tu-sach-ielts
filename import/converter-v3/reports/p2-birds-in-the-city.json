@@ -1,0 +1,33 @@
+{
+  "job": "p2-birds-in-the-city",
+  "title": "Birds in the City",
+  "part": 2,
+  "fingerprint": "5c45c389f93bd4085e13575b3631ecfc88388d194c8532b373bf21712cd53753",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1lwa7FKpp9zZ5tDqW5WUSgiO0SDoT9CVS",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-birds-in-the-city.json",
+  "lessonId": "p2-birds-in-the-city",
+  "sourceId": "1lwa7FKpp9zZ5tDqW5WUSgiO0SDoT9CVS",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "a681cc9ab94931397f838b29c3a2fd5618e457e3fadb240384fd89de8d121a9c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.066
+}

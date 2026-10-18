@@ -1,0 +1,9 @@
+{
+  "icon": "arrow-down-bold",
+  "project": "Material Design Icons",
+  "source": "https://sources.debian.org/src/fonts-materialdesignicons-legacy/5.9.55%2B6.9.96%2Bdfsg-3/MaterialDesign-SVG-6.9.96/svg/arrow-down-bold.svg",
+  "upstream": "https://github.com/Templarian/MaterialDesign-SVG",
+  "license": "Apache-2.0",
+  "licenseSource": "https://github.com/Templarian/MaterialDesign-SVG/blob/master/LICENSE",
+  "changes": "Retained original path; rotated diagonal variants and trimmed transparent viewBox. No rasterization in website."
+}

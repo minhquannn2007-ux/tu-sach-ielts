@@ -1,0 +1,17 @@
+{
+  "job": "p1-advertising-needs-attention",
+  "title": "Advertising needs attention",
+  "part": 1,
+  "fingerprint": "b310bf1e7df3fdba4f3dc96ef1cb3edbd690b0b2a0ec3bf5f47c31da09cf8132",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1E92trwsR_PWWaIcJGkR9D_9nVcMTeGZY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

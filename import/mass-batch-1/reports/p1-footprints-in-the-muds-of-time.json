@@ -1,0 +1,23 @@
+{
+  "job": "p1-footprints-in-the-muds-of-time",
+  "title": "Footprints in the muds of time",
+  "part": 1,
+  "fingerprint": "0eaa3605c67ee340b10626cdf316854604ba6a40767f4a20a025788ae2fcab38",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1DHG5dCDLDzFeBh-G4mkzK9deHAty8ezL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1DHG5dCDLDzFeBh-G4mkzK9deHAty8ezL.json",
+      "ocrConfidence": [
+        96.0,
+        95.7,
+        94.5
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.024
+}

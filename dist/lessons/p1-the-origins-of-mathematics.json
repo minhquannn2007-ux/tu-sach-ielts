@@ -1,0 +1,318 @@
+{
+  "id": "p1-the-origins-of-mathematics",
+  "part": 1,
+  "title": "The origins of mathematics",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The history of mathematics is nearly as old as humanity itself. Our prehistoric ancestors would have had a general sense of amounts, and would have instinctively known the difference between, say, one and two antelope. But the intellectual leap from the concrete idea of two things, to the invention of a symbol or word for the abstract idea of ‘two’, took many ages to come about."
+    },
+    {
+      "text": "Early man kept track of regular occurrences such as the phases of the moon and the seasons. Arguably the very earliest evidence of humankind thinking about numbers is a bone which had a series of notches cut into it, discovered in the Lebombo mountains of Eswatini, Africa. Dating from around 35,000 BC, this artefact has been interpreted as an early attempt to quantify time. Remarkable as this object is, this is still mere counting rather than mathematics as such."
+    },
+    {
+      "text": "Civilisations in the Middle East represented geometric patterns on their artefacts as early as the 5th millennium BC, as did some megalithic societies in northern Europe in the 3rd millennium BC or before. But this is mere decoration rather than the systematic treatment of figures, patterns, forms and quantities that has come to be considered as mathematics."
+    },
+    {
+      "text": "Mathematics proper first occurred in the Sumerian and Babylonian civilisations of Mesopotamia (roughly, modern Iraq) and in ancient Egypt. The Sumerians developed the earliest known writing system, known as cuneiform script, and this has meant that we have more knowledge of ancient Sumerian and Babylonian mathematics than of early Egyptian mathematics. Indeed, we even have what appear to school exercises in arithmetic and geometric problems."
+    },
+    {
+      "text": "As in Egypt, Sumerian and Babylonian mathematics initially arose largely as a response to bureaucratic needs when their civilisation settled and developed agriculture, possibly as early as the 6th millennium BC. Basic mathematics was used for such functions as recording information connected to farming and trade, and the taxation of individuals. In addition, the Sumerians and Babylonians needed to describe quite large numbers as they attempted to chart the course of the night sky and develop their sophisticated lunar calendar."
+    },
+    {
+      "text": "The Sumerians and Babylonians were perhaps the first people to assign symbols to groups of objects in an attempt to make the description of larger numbers easier. They moved from using separate tokens or symbols to signify individual sheaves of wheat, jars of oil, etc., to the more abstract use of a symbol for a specific number of anything. Starting as early as the 4th millennium BC, the Sumerians and Babylonians began using a small clay cone to represent one, a clay ball for ten, and a large cone for sixty. Over the course of the 3rd millennium BC, these objects were replaced by cuneiform equivalents so that a number could be written in the same way as a word in a text."
+    },
+    {
+      "text": "Sumerian and Babylonian mathematics was based on a ‘sexagesimal’, or base-60, numerical system, which could be counted physically using twelve knuckles on one hand and five fingers on the other hand. Unlike those of the Egyptians, Greeks and Romans, Babylonian numbers used a true placevalue system, where digits written in the left column represented larger values, much as in the modern decimal system. However, the number 60 was represented by the same symbol as the number 1 and, because they lacked an equivalent of the decimal point, the actual place value of a symbol often had to be inferred from the context."
+    },
+    {
+      "text": "It has been conjectured that Babylonian advances in mathematics were probably facilitated by the fact that 60 has many divisors (1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30). The continued modern-day usage of 60 seconds in a minute, 60 minutes in an hour, and 360 (60 x 6) degrees in a circle, are all testaments to the ancient Babylonian system."
+    },
+    {
+      "text": "The Babylonians also developed another revolutionary mathematical concept, something else that the Egyptians, Greeks and Romans did not have: a circle character for zero, although its symbol was initially more of a placeholder than a number in its own right."
+    },
+    {
+      "text": "The idea of square numbers and quadratic equations (where the unknown quantity is multiplied by itself, e.g. 𝑥2) arose naturally in the context of the measurement of areas of land. Clay tablets found in Sumeria, dating from the 3rd millennium BC and inscribed with such calculations, give us the first ever evidence of the solution of quadratic equations. The Babylonian approach to solving them usually revolved around a kind of geometric game of slicing up and rearranging shapes, although the use of algebra and quadratic problem-equations also appears. What is more, at least some of the examples we have appear to indicate problem-solving for its own sake, rather than in order to resolve a concrete practical problem. From this point on, humankind sought to develop mathematical concepts and to use them for an increasing range of applications."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 6 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 1-6 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1
+        },
+        {
+          "n": 2
+        },
+        {
+          "n": 3
+        },
+        {
+          "n": 4
+        },
+        {
+          "n": 5
+        },
+        {
+          "n": 6
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "ONE WORD ONLY",
+      "noteLayout": {
+        "title": "Early mathematics",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "35,000 BC",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Evidence: a {{1}} with marks made on it"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Use: probably used to measure {{2}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.03,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "5th millennium BC",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.81
+          },
+          {
+            "runs": [
+              {
+                "text": "Evidence: artefacts with {{3}} designs on them"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Use: simply for {{4}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.03,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "4th millennium BC",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.81
+          },
+          {
+            "runs": [
+              {
+                "text": "Evidence: differently shaped objects made from"
+              },
+              {
+                "text": " ",
+                "bold": true
+              },
+              {
+                "text": "{{5}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Use: each shape or size represented a particular"
+              },
+              {
+                "text": " ",
+                "bold": true
+              },
+              {
+                "text": "{{6}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.05,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "3rd millennium BC",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.81
+          },
+          {
+            "runs": [
+              {
+                "text": "Evidence: tablets with quadratic equations on them"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Use: calculating the size of pieces of land"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.05,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": "Early mathematics",
+      "content": [
+        "35,000 BC",
+        "Evidence: a {{1}} with marks made on it",
+        "Use: probably used to measure {{2}}",
+        "5th millennium BC",
+        "Evidence: artefacts with {{3}} designs on them",
+        "Use: simply for {{4}}",
+        "4th millennium BC",
+        "Evidence: differently shaped objects made from {{5}}",
+        "Use: each shape or size represented a particular {{6}}",
+        "3rd millennium BC",
+        "Evidence: tablets with quadratic equations on them",
+        "Use: calculating the size of pieces of land"
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 7 – 13 Do the following statements agree with the information given in Reading Passage 1? In boxes 7-13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 7,
+          "prompt": "There is relatively little evidence of Sumerian and Babylonian mathematics compared with evidence of early Egyptian mathematics."
+        },
+        {
+          "n": 8,
+          "prompt": "Sumerian and Babylonian mathematics were developed for the same principal uses as Egyptian mathematics."
+        },
+        {
+          "n": 9,
+          "prompt": "The Sumerians and Babylonians continued to use solid cones and balls for mathematical purposes for several thousand years."
+        },
+        {
+          "n": 10,
+          "prompt": "There is archaeological evidence that most early mathematical systems were based on the anatomy of the human hand."
+        },
+        {
+          "n": 11,
+          "prompt": "Present-day units of time owe their origins to the Babylonian mathematics system."
+        },
+        {
+          "n": 12,
+          "prompt": "The Babylonians were the first people to use the zero symbol."
+        },
+        {
+          "n": 13,
+          "prompt": "It is thought that the Babylonians used mathematics exclusively to find solutions to practical challenges."
+        }
+      ],
+      "type": "tfng"
+    }
+  ],
+  "sources": [
+    {
+      "id": "178JJ0-hhzbrr3PZgCBEAp88R10hvJx7R",
+      "role": "passage-and-questions",
+      "sha256": "439b8e4b3ff625b0a6a2b5fc8e3bba94031b073c3f23ac64a98a807fd5e8383a",
+      "name": "The origins of mathematics.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.0",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-the-origins-of-mathematics"
+  },
+  "cover": {
+    "asset": "assets/batch-math-cover.jpg",
+    "alt": "Bảng công thức toán",
+    "credit": "Thomas T",
+    "source": "https://unsplash.com/photos/OPpCbAAKWv8",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-2026-10-12",
+    "checks": [
+      "native-text comparison",
+      "source typography and question-layout review",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

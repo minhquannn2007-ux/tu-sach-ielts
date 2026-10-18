@@ -1,0 +1,33 @@
+{
+  "job": "p2-ideal-homes-chua-rep",
+  "title": "Ideal Homes (CHƯA REP)",
+  "part": 2,
+  "fingerprint": "deba4618dceae9985fc10b2b1be2df5b59b30f9faa8448befd126589a5b5b3fa",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1SJqM5W05wgWmRi12eCFF5mPdgKjMPQUD",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-ideal-homes-chua-rep.json",
+  "lessonId": "p2-ideal-homes",
+  "sourceId": "1SJqM5W05wgWmRi12eCFF5mPdgKjMPQUD",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "tfng"
+  ],
+  "sourceHash": "9662d3843812256af5157606f075a3db5bbd1d56424554c0a491858a4106816e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.058
+}

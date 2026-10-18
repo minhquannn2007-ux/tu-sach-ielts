@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-sound-recording-industry-in-the-usa-before-1950",
+  "title": "The sound recording industry in the USA before 1950",
+  "part": 3,
+  "fingerprint": "1878d65a413a668126941dcf208f78985f352da2913ff3af3287bf95ee93df9a",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1Rh497gix8d4wbv1Qlpeaad8sKm9QpfgA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1ByZ30yH6Fmr4Ndbb9tErM2FPxaGEWyla",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p1-what-do-managers-really-do",
+  "title": "What do managers really do",
+  "part": 1,
+  "fingerprint": "6285b18f1d738620d17040d4ae3d17366099007b4d0680703035904e3ddf4c90",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1hKzouf53pVPvzt3A-WmnuO3GXzO42_FO",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-what-do-managers-really-do.json",
+  "lessonId": "p1-what-do-managers-really-do",
+  "sourceId": "1hKzouf53pVPvzt3A-WmnuO3GXzO42_FO",
+  "questionCount": 13,
+  "types": [
+    "matching-features",
+    "mc-two",
+    "tfng"
+  ],
+  "sourceHash": "0ab6473b01ec423ff12d517e943113b869335e81c87332a80261caa3163b31da",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.094
+}

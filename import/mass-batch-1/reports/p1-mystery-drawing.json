@@ -1,0 +1,21 @@
+{
+  "job": "p1-mystery-drawing",
+  "title": "Mystery Drawing",
+  "part": 1,
+  "fingerprint": "c515714f3c7753b6136167e4d96b911dd5b5cf67cd9c2252be919e04cb6bf305",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE.json",
+      "ocrConfidence": [
+        0.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.052
+}

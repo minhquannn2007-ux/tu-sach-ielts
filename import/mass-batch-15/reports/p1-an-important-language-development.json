@@ -1,0 +1,22 @@
+{
+  "job": "p1-an-important-language-development",
+  "title": "An important language development",
+  "part": 1,
+  "fingerprint": "761fc2f5638a0f4e31ae6fab0d14bb98c4741fbed9cfe9b6ce3a0842ac1e7479",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1RoB_l7gAdmaD-gBGl6fFLFNFEBcgAcMY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Pw0q66Aqe3Gpzz9Wa3VPdebPBrUIUoDd",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.015
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-new-businesses-in-new-zealand",
+  "title": "New Businesses in New Zealand",
+  "part": 2,
+  "fingerprint": "6dffce476993c534765d4be60bb4dde36e5550a9fb746cd03f62dd15d2a1651f",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1JDvqt4AMGTT9EbPHTFDMFGqTniHudwt6",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-new-businesses-in-new-zealand.json",
+  "lessonId": "p2-new-businesses-in-new-zealand",
+  "sourceId": "1JDvqt4AMGTT9EbPHTFDMFGqTniHudwt6",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "6345ab8e33d6b6b5456474e6a3990c8f504a45954be93289069be9d9554764c9",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.061
+}

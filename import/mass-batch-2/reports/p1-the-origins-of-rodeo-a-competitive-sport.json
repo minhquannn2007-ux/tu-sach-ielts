@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-origins-of-rodeo-a-competitive-sport",
+  "title": "The origins of rodeo - a competitive sport",
+  "part": 1,
+  "fingerprint": "a1cfa5e74cb10506916484081f6c59f00437e00b92ef2eebb81bcb0254e295a9",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1sHJSrq-UuA4bu_eI6C2_m8gLEbgLHJqn",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.063
+}

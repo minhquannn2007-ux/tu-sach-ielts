@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-theater-designs-in-britain",
+  "title": "The history of theater designs in Britain",
+  "part": 1,
+  "fingerprint": "d6eb038a6026e6f92a0d37249dfd9a0325360173770821b6411d6060e23fe003",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1w1c_p-t14Wh2IKxhk0MWGaWJ_21M863T",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-theater-designs-in-britain.json",
+  "lessonId": "p1-the-history-of-theater-designs-in-britain",
+  "sourceId": "1w1c_p-t14Wh2IKxhk0MWGaWJ_21M863T",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "ce48c5bab0ca55f738e160d44c0b1ac964e75c8db4b76fa2b867485352cd7387",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

@@ -1,0 +1,303 @@
+{
+  "id": "p1-traditional-maori-medicine",
+  "title": "Traditional Māori Medicine",
+  "part": 1,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The Māori are the indigenous people of the islands of New Zealand. Their traditional medicine, which is believed to date back as far as the 13th century, was a system of healing that was passed down through the generations orally. It comprised diverse practices and placed an emphasis on the spiritual dimension of health. Its practices included remedies made from herbs, and physical therapies such as massage to relieve discomfort in the muscles and bones."
+    },
+    {
+      "text": "Māori systems for treating illness were well developed before Europeans arrived in New Zealand in the late 1700s: they had quite detailed knowledge of anatomy and recognition of the healing properties of various plants. When Europeans first visited New Zealand, the average age of death for Māori adults was around 30. However, apart from this, the people were fit and healthy, and troubled by few diseases."
+    },
+    {
+      "text": "Illness was often seen as spiritually based. Māori saw themselves as guardians of the earth, and the focus of their existence was to remain at one with the natural and supernatural world. Rather than a medical problem, sickness was often viewed as a symptom of disharmony with nature."
+    },
+    {
+      "text": "In Māori culture, illnesses were divided into diseases of the gods (mate atua) and physical diseases (mate tangata). Diseases sent by the gods were often attributed to attacks by evil spirits, because the person had broken a religious rule. For instance, for Māori, places where people had died, or places where their ancestors were buried were sacred, so if someone took food from a river where someone had died, or took a stick from a tree that had held their ancestor’s bones and placed it on a cooking fire, it was believed that the gods could punish them for their disrespectful acts by making them sick."
+    },
+    {
+      "text": "More than 200 plants were used medicinally by Māori. The leaves of the flax plant were used to treat skin infections and food poisoning, and the hard part of the leaf was also used as a splint or brace for broken bones and injured backs. Flax fibres were used along with a sharpened stick to sew up bad cuts. The bark and leaves of the pepper tree were used to heal cuts, wounds and stomach pains. People who had toothache were instructed to chew the leaves of this same tree, and this was found to be of considerable benefit. The pepper tree was also used in vapour baths to treat people with painful joints."
+    },
+    {
+      "text": "Colonisation by Europeans in the 1800s had a significant effect on traditional Māori healing. Europeans brought many new diseases with them which Māori healers had limited ability to combat. Though Western medicine was also relatively ineffectual at the time, this failure still strongly affected Māori confidence in their healers. Some western missionaries attributed the spread of disease to the fact that Māori did not believe in Christianity, and as Māori healers appeared powerless, many Māori accepted this explanation and turned to Christianity. Over time the schools of higher learning which had trained healers started to close and the tradition of the Māori healer declined."
+    },
+    {
+      "text": "From the late 20th century, there was renewed Māori interest in their traditional medicine. This was due to several factors. There was a resurgence of all aspects of Māori culture in New Zealand. Furthermore, people started to be less trusting of Western medicine — statistics from the 1970s came out revealing that Māori health continued to be poorer than that of other New Zealanders. There were also problems with access to health care for Māori. Additionally, there was and still is today a perceived lack of a spiritual dimension in Western health services."
+    },
+    {
+      "text": "Although Māori today largely accept Western concepts of health and illness, and use the mainstream health system, there is significant demand for traditional medicine. This is true for unusual illnesses, or those that fail to respond to standard medical treatment, but also for common ailments such as the cold and influenza."
+    },
+    {
+      "text": "Today’s healers differ significantly from those of old times. Training is highly variable, usually informal, and often less tribally bound than the rigorous education of the traditional houses of higher learning. Many modern healers work in urban clinics, some alongside mainstream health professionals. They experiment, incorporating knowledge from Western and other medical systems. As a result, their modern day work has no standard system of diagnosis or widespread agreement about treatments. Despite this, many healers are recognised as having knowledge and ability that has been passed down from their ancestors. The Māori language is also seen as important by many of those receiving treatment."
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "sourceInstructions": "Questions 1 – 6 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-6 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Early Māori healers learned their skills through studying written texts."
+        },
+        {
+          "n": 2,
+          "prompt": "The first Europeans in New Zealand were surprised by how long the Māori lived."
+        },
+        {
+          "n": 3,
+          "prompt": "Diseases of the gods were believed to be more serious than physical diseases."
+        },
+        {
+          "n": 4,
+          "prompt": "The leaves of the pepper tree were used to treat toothache."
+        },
+        {
+          "n": 5,
+          "prompt": "Western religion was one reason why traditional Māori medicine became less popular."
+        },
+        {
+          "n": 6,
+          "prompt": "Modern day Māori healers often reach the same conclusion about the type of treatment which is best."
+        }
+      ]
+    },
+    {
+      "type": "notes",
+      "sourceInstructions": "Questions 7 – 13 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 7-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "title": "A short history of Māori healing",
+      "noteLayout": {
+        "title": "A short history of Māori healing",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Pre-European arrival",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.3
+          },
+          {
+            "runs": [
+              {
+                "text": "Māori were using plant-based remedies, as well as treatments including massage"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "diseases sent from the gods were thought to be caused by disobeying a spiritual {{7}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "sickness could be attributed to eating food from a sacred {{8}} or burning sacred wood"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "After European arrival",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "1800s",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "the inability of Māori healers to cure new diseases meant the Māori people lost {{9}} in them"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "eventually the {{10}} for Māori healing began shutting down"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "1970s",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "published {{11}} showed that Māori were not as healthy as Europeans"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "2000s",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "Māori healers can be seen working with Western doctors in {{12}} in cities"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "many patients appreciate the fact that the Māori {{13}} is used by healers"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "content": [
+        "Pre-European arrival",
+        "Māori were using plant-based remedies, as well as treatments including massage",
+        "diseases sent from the gods were thought to be caused by disobeying a spiritual {{7}}",
+        "sickness could be attributed to eating food from a sacred {{8}} or burning sacred wood",
+        "After European arrival",
+        "1800s",
+        "the inability of Māori healers to cure new diseases meant the Māori people lost {{9}} in them",
+        "eventually the {{10}} for Māori healing began shutting down",
+        "1970s",
+        "published {{11}} showed that Māori were not as healthy as Europeans",
+        "2000s",
+        "Māori healers can be seen working with Western doctors in {{12}} in cities",
+        "many patients appreciate the fact that the Māori {{13}} is used by healers"
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1fT0vFW6leo1euBYzsXF-vtxpu4LOJMjs",
+      "role": "passage-and-questions",
+      "sha256": "69ffcfbb4a43a405f4ed644748b3ce4210c67bac25a1cbb20307bd060d0a801b"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "jobId": "p1-traditional-maori-medicine",
+    "method": "ocr-with-explicit-source-reviewed-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 9,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "ocrCorrections": true,
+      "footnotes": true,
+      "date": "2026-10-15"
+    }
+  },
+  "cover": {
+    "asset": "assets/batch4-orchid-cover.jpg",
+    "alt": "Hoa lan tím",
+    "source": "https://unsplash.com/photos/close-up-photo-of-purple-orchid-flower-eH5gAM2X2wQ",
+    "credit": "Rita Ox",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

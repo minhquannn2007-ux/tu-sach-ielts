@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-world-s-first-cities",
+  "title": "The world's first cities",
+  "part": 1,
+  "fingerprint": "bf173590b4febb2db3c40f509e46491f63fc91da231e99927cda133c627d7949",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1vBtKoDJPpf3Y-e_JpFHrNarV1JXePFPL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

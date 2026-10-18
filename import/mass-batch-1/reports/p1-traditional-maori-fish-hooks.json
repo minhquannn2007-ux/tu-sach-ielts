@@ -1,0 +1,32 @@
+{
+  "job": "p1-traditional-maori-fish-hooks",
+  "title": "Traditional Maori Fish Hooks",
+  "part": 1,
+  "fingerprint": "b03b904affd953f3b538a5e98146a81f71cdaa1a4f817ad04bd42aec239854ab",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1ZotyWJKM18TCcpdS77-52HRgoGDcfDon",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-traditional-maori-fish-hooks.json",
+  "lessonId": "p1-traditional-maori-fish-hooks",
+  "sourceId": "1ZotyWJKM18TCcpdS77-52HRgoGDcfDon",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "1e474246b55e9b65df1a3c58cc6f866a05bc5c874744b538e834efd5498481dd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.079
+}

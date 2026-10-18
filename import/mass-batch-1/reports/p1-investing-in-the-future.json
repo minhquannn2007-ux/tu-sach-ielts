@@ -1,0 +1,24 @@
+{
+  "job": "p1-investing-in-the-future",
+  "title": "Investing in the Future",
+  "part": 1,
+  "fingerprint": "f233f1105f5346bc06a43a9e2f164aac1bd4867f215431c3e767f3217ea2387e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1zoFMLu_bHwQltGO6GK3JzV39CW5L6Ywh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1zoFMLu_bHwQltGO6GK3JzV39CW5L6Ywh.json",
+      "ocrConfidence": [
+        96.2,
+        95.8,
+        95.2,
+        91.6
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.015
+}

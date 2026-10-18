@@ -1,0 +1,17 @@
+{
+  "job": "p2-will-eating-less-make-you-live-longer",
+  "title": "Will Eating Less Make You Live Longer?",
+  "part": 2,
+  "fingerprint": "e18546ea7f921e0ad3ac191243d451f0bccda770949f1e6561a3c180310d8b06",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1D9Lf2HiSIUDPuv3D8lukUemfrFMV8arT",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

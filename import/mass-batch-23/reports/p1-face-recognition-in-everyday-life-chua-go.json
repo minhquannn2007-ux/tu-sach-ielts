@@ -1,0 +1,17 @@
+{
+  "job": "p1-face-recognition-in-everyday-life-chua-go",
+  "title": "Face recognition in everyday life(CHƯA GÕ)",
+  "part": 1,
+  "fingerprint": "9024bad860c5380a243a387e4a29326d6d2de57de623926a601f79f23877e1af",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1abvscMdUSuf_6QUMsO1QTHm6wEcHtv6c",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.02
+}

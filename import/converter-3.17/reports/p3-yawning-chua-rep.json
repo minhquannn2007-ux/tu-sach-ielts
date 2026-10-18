@@ -1,0 +1,17 @@
+{
+  "job": "p3-yawning-chua-rep",
+  "title": "Yawning(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "125f1c5c44570a13d93fcf1beaca767ab4389501b81abe6b5a88c39f8c560464",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "13nrRbGxxHd1oLPP85uqujWAD3OPMUqZg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

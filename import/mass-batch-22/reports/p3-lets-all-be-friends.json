@@ -1,0 +1,33 @@
+{
+  "job": "p3-lets-all-be-friends",
+  "title": "Let’s all be friends",
+  "part": 3,
+  "fingerprint": "51c94667817beb9fea4420ba708bfc5b4142e2ae1290ac12c1f645cc0fafbdb5",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-lets-all-be-friends.json",
+  "lessonId": "p3-lets-all-be-friends",
+  "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag"
+  ],
+  "sourceHash": "76be39d7520006a7ef4f57d587a911f23292a218d9952725cb1d283b4e332a2c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.083
+}

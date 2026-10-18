@@ -1,0 +1,70 @@
+/* Browser zoom changes the CSS viewport. Keep text readable and scroll only
+   diagrams/tables that require a two-dimensional layout. */
+/* Prefer real local Arial; bundle a metrically compatible fallback for Android. */
+@font-face{font-family:Arial;src:local('Arial'),local('ArialMT'),url('assets/fonts/LiberationSans-Regular.ttf') format('truetype');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:Arial;src:local('Arial Bold'),local('Arial-BoldMT'),url('assets/fonts/LiberationSans-Bold.ttf') format('truetype');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:Arial;src:local('Arial Italic'),local('Arial-ItalicMT'),url('assets/fonts/LiberationSans-Italic.ttf') format('truetype');font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:Arial;src:local('Arial Bold Italic'),local('Arial-BoldItalicMT'),url('assets/fonts/LiberationSans-BoldItalic.ttf') format('truetype');font-weight:700;font-style:italic;font-display:swap}
+html{max-width:100%;scroll-padding-top:64px;-webkit-text-size-adjust:100%;text-size-adjust:100%}
+body.zoom-exam{min-width:0}
+.zoom-exam .passage,.zoom-exam .qpanel{min-width:0;overflow-wrap:break-word}
+.zoom-exam .qpanel{overflow-x:auto}
+.zoom-exam .passage img{max-width:100%;height:auto}
+.zoom-exam .top-nav{min-height:48px;height:auto;gap:12px;flex-wrap:wrap}
+.zoom-exam .nav-left,.zoom-exam .nav-icons{min-width:0;flex-wrap:wrap}
+.zoom-exam .diagram-viewport{width:100%;max-width:100%;overflow-x:auto!important;overflow-y:visible;overscroll-behavior-x:contain;padding-bottom:24px;scrollbar-gutter:stable}
+.zoom-exam .diagram-viewport .jenny-diagram{width:100%;min-width:700px;flex-shrink:0}
+.zoom-exam .diagram-viewport .perfume-diagram{width:100%;min-width:760px;flex-shrink:0}
+.zoom-exam .diagram-viewport .diagram-label{overflow-wrap:normal}
+.zoom-exam .zoom-table-viewport{max-width:100%;overflow-x:auto;overscroll-behavior-x:contain;margin:0 0 12px}
+.zoom-exam .zoom-table-viewport .grid-outer{min-width:620px}
+.zoom-exam .zoom-table-viewport table{min-width:594px}
+.zoom-exam .me-drop{min-width:min(300px,100%)!important;max-width:100%}
+.zoom-exam .mh-gap.filled{white-space:normal!important;overflow-wrap:break-word}
+.zoom-exam .bottom-bar .bb-top-row{overflow-x:auto;overflow-y:hidden}
+#reading-home article,#reading-home .hero>*,#reading-home header>*{min-width:0;overflow-wrap:break-word}
+@media (max-width: 599px){
+ body.zoom-exam{height:auto!important;min-height:100vh;min-height:100dvh;overflow:auto!important;display:block!important}
+ .zoom-exam .top-nav{position:sticky;top:0;z-index:10000;padding:8px 12px;background:#fff}
+ .zoom-exam .main{display:block!important;overflow:visible!important;min-height:0;height:auto!important}
+ .zoom-exam .passage,.zoom-exam .qpanel{width:100%!important;max-width:100%;height:auto!important;flex:none!important;overflow:visible!important;padding:12px 16px 28px!important;box-sizing:border-box}
+ .zoom-exam .divider{display:none!important}
+ .zoom-exam .qpanel{border-top:1px solid #ddd;padding-bottom:100px!important}
+ .zoom-exam .bottom-bar{position:sticky;bottom:0;z-index:10000;width:100%;background:#fff}
+ .zoom-exam .bottom-bar .bb-part{min-width:100px!important}
+ .zoom-exam .bottom-bar .bb-active-part{min-width:440px!important}
+ .zoom-exam .bottom-bar .exam-submit{flex-shrink:0!important}
+ .zoom-exam .bottom-bar .bb-numbers-row{overflow-x:auto!important;overflow-y:hidden!important}
+ .zoom-exam .nav-arrows{position:fixed!important;bottom:82px!important;right:12px!important}
+ .zoom-exam .nav-btn{width:40px;height:40px}
+ body.zoom-exam.exam-notes-open{padding-right:0!important}
+ .zoom-exam .exam-notes{width:min(260px,80vw)}
+ #reading-home main{padding:14px}
+ #reading-home .hero{padding:18px}
+}
+
+/* Tablet panes remain side by side, including inside a Full Test iframe. */
+@media(min-width:600px){
+ .zoom-exam{height:100%;height:100dvh;overflow:hidden}
+ .zoom-exam .main{display:flex!important;min-height:0;overflow:hidden}
+ .zoom-exam .divider{display:block!important}
+ .zoom-exam .passage,.zoom-exam .qpanel{height:auto;min-width:0;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch}
+}
+.zoom-exam .divider,.zoom-exam .resize-btn{touch-action:none;-webkit-user-select:none;user-select:none}
+.zoom-exam .divider{z-index:30}
+.zoom-exam .touch-resizing::before{content:'';position:absolute;inset:0 -20px;touch-action:none}
+@media(pointer:coarse){.zoom-exam .resize-btn{min-width:44px;min-height:44px;touch-action:none}.zoom-exam .resize-btn .fa{pointer-events:none}}
+
+@media (max-width: 780px){#reading-home .grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width: 440px){#reading-home .grid{grid-template-columns:1fr}#reading-home header{padding:16px}#reading-home .hero h2{font-size:24px}}
+
+/* Measured canvases: original artwork and deliberate caption lines. */
+html body.zoom-exam .reviewed-diagram-viewport{min-height:0!important;height:auto!important;padding:0 0 8px!important;margin:0 0 10px!important;overflow:auto!important;scrollbar-gutter:auto}
+html body .reviewed-diagram-figure{max-width:none;margin:0 auto}
+html body .reviewed-diagram-figure>.diagram-title{text-align:center!important;font:700 18px/1.4 Arial!important;margin:12px 0 8px!important;padding:0}
+html body.zoom-exam .reviewed-diagram-figure>.shared-diagram{width:100%!important;min-width:0!important;height:auto!important;margin:0!important;isolation:isolate}
+html body .shared-diagram>.diagram-label{background:transparent!important;padding:0!important;margin:0;font:16px/30px Arial!important;white-space:nowrap!important;overflow-wrap:normal!important;box-sizing:border-box}
+html body #qpanel .shared-diagram .choice-gap{width:180px!important;min-width:180px!important;max-width:none!important;height:23px!important;box-sizing:border-box;vertical-align:baseline!important}
+html body .shared-diagram .dnd-drop{display:inline-flex;width:180px!important;min-width:180px!important;max-width:none!important;height:23px;min-height:23px;padding:0 5px!important;box-sizing:border-box;align-items:center;justify-content:center;vertical-align:middle;white-space:nowrap}
+html body .shared-diagram .dnd-drop .sample-filled{white-space:nowrap}
+html body .reviewed-diagram-viewport+.dnd-wordbank{margin-top:8px!important}

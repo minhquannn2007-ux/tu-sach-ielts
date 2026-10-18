@@ -1,0 +1,185 @@
+{
+  "id": "p1-temperature-rising",
+  "part": 1,
+  "title": "TEMPERATURE RISING",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The tourism industry depends to a large extent on good weather. The past few years have brought intense hurricanes, typhoons, torrential rains, heat waves and droughts. According to the World Meteorological Organization, 2004 was the fourth hottest year on record. And while global warming, defined as human-driven climate change traced to the burning of fossil fuels such as oil, coal and natural gas, cannot be blamed for single-handedly wreaking such havoc, the scientific consensus is that it may intensify some weather events. For example, meteorologists attribute the back-to-back hurricanes in 2004 to a 50- to 70-year natural cycle of increased hurricane activity. But hurricanes tend to become even more formidable on a warmer globe. Bill MacCracken, a scientist at the Climate Institute in Washington DC, likens the present climate to a pot of slowly boiling water on a stove: if you turn up the flame you get more bubbles, but you can't attribute one particular bubble to the increase in heat. He says, 'Were slowly going to be getting more extreme weather, but we can' t say that any particular type of weather is due to the changing climate.'"
+    },
+    {
+      "text": "Tourism companies worldwide are starting to feel the financial effects of weather change. In Scotland higher winter temperatures have led several ski areas to diversify into summer leisure pursuits such as golf, and paragliding in the winter. A similar scenario is taking place in the European Alps. Robert Mills, of the United States Tourism Association, reports that in the upper Midwest of the United States, cooler summers and warmer winters have resulted in resort owners having to restrict outdoor sports such as swimming in lakes and ice fishing. And in the west of the United States, intense forest fires in recent years have limited public access to national and state parks. For the tourism industry, which generated US$578 billion in 2002, or seven per cent of the world's economy, the costs of extreme weather are high. Last year was the most expensive on record for the insurance side of the industry 'Weather and tourism go hand in hand', says Tim Warren, an adventure business consultant based in California. 'If the weather's not co-operating, the impacts on profits are very real.'"
+    },
+    {
+      "text": "One of the most impacted areas is the diving industry, whose very survival depends on the health of coral reefs. The Global Coral Reef Monitoring Network reports that 20 per cent of the world's reefs have been effectively destroyed by factors such as pollution, overfishing diseases, and bleaching — the last directly related to a rise in water temperatures that essentially heats coral until it sheds the algae that feed it, leaving it colourless. Even Australia's Great Barrier Reef, with its 400 species of coral spanning 1,240 miles, hasn't been spared. Scientists estimate that bleaching has affected significant areas of the Great Barrier Reef. 'We hear tourists say, 'this doesn't look like the postcard or as it did three years ago',' says John Rumney, manager of Undersea Explorer, a dive and research vessel that operates out of Queensland in Australia."
+    },
+    {
+      "text": "The ski industry has also felt the effects of climate change. A 2003 report by Brendan Stark, of the Global Environment Programme(GEP), predicted that downhill skiing could disappear altogether at low-altitude ski resorts such as Kitzbuhel in Austria. snowfall in the New England region of the United States has decreased by 15 per cent since 1953 and, perhaps more significantly, there are seven fewer days per annum with snow on the ground here than there were fifty years ago. While there is no concrete evidence that the warming in New England is due to the emission of greenhouse gases, many scientists in the United States believe it is consistent with global warming. The ski industry has made great efforts to downplay the impact of climate change. However, less snow and more variable temperatures have had disastrous consequences for many smaller ski operators, who can only open for business when snow is on the ground. According to Michael Berry, president of the Denver-based National Ski Areas Association, 'the reason why some small ski resorts aren't around any more is because they decided they could not afford to install snow-making systems.' The best snowmaking in the world won't save the industry if current trends continue."
+    },
+    {
+      "text": "The Intergovernmental Panel on Climate Change, made up of some 2,000 scientists, estimates a rise of between two and 10.4 degrees Fahrenheit by 2100. As a result, the GEP forecasts that the ski and tourism industry in Switzerland, for example, could eventually lose up to US$1.6 billion annually. The outlook for other travel destinations is not much brighter. Scientists feel polar bears will die out within the next hundred years or so. James Wilson, of the Planet Travel Club, believes that in just 20 to 30 years, if people have not already had the opportunity to see the snows of Mt Kilimanjaro in Tanzania or visit the low-lying Maldive Islands of the Indian Ocean, it will be too late because they will have gone too. Kyoto s climate treaty, signed by more than 100 countries, required industrialised nations to reduce greenhouse gases by at least five per cent. It is a step towards slowing the trend, but clearly much larger strides are necessary if the travel industry hopes to become less affected by the impact of global warming."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 4 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-4 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "In Europe, some ski resorts now offer summer activities during the winter months."
+        },
+        {
+          "n": 2,
+          "prompt": "In parts of the United States, fires have prevented tourists from visiting some park areas."
+        },
+        {
+          "n": 3,
+          "prompt": "The financial consequence of global warming on the tourism industry in 2002 was US$578 billion."
+        },
+        {
+          "n": 4,
+          "prompt": "Global warming has caused the closure of some Australian ski resorts."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 5 – 8 Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 5,
+          "slots": 1
+        },
+        {
+          "n": 6,
+          "slots": 1
+        },
+        {
+          "n": 7,
+          "slots": 1
+        },
+        {
+          "n": 8,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "The {{5}} is the area of tourism which is suffering most as a result of coral reef damage.",
+        "Warmer water ultimately changes the appearance of coral to the point where it becomes {{6}} .",
+        "International scientists predict that global temperatures will have increased by at least {{7}} degrees Fahrenheit by the next century.",
+        "Experts believe that this century will see the extinction of {{8}} ."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 9 – 13 Look at the following statements (Questions 9-13) and the list of people below. Match each statements with the correct person, A-G Write the correct letter, A-G, in boxes 9-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 9,
+          "prompt": "The technology required to extend the skiing season is too expensive for some businesses."
+        },
+        {
+          "n": 10,
+          "prompt": "It is difficult to know exactly which weather conditions are caused by global warming."
+        },
+        {
+          "n": 11,
+          "prompt": "Tourists have observed changes in the environment over time."
+        },
+        {
+          "n": 12,
+          "prompt": "The change in the climate will mean that some locations near sea level will no longer exist."
+        },
+        {
+          "n": 13,
+          "prompt": "Temperature changes have forced holiday complexes to cut down on certain types of activities."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Bill MacCracken"
+        },
+        {
+          "value": "B",
+          "text": "Robert Mills"
+        },
+        {
+          "value": "C",
+          "text": "Tim Warren"
+        },
+        {
+          "value": "D",
+          "text": "John Rumney"
+        },
+        {
+          "value": "E",
+          "text": "Brendan Stark"
+        },
+        {
+          "value": "F",
+          "text": "Michael Berry"
+        },
+        {
+          "value": "G",
+          "text": "James Wilson"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of Researchers",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1KcR8hdjiTFMguFrdvZWj77f1tc_XphTm",
+      "role": "passage-and-questions",
+      "sha256": "3ad2bc830c81d622d92e9c9c0ab4961ecaadf8ca4a8b555f0cdb2ad776f9fc65",
+      "name": "TEMPERATURE RISING.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.20",
+    "sourceParagraphCount": 5,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-temperature-rising",
+    "visualTitleVerified": true,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "noteLayout": true,
+      "date": "2026-10-15"
+    }
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "The impact of global warming on the tourism industry",
+  "cover": {
+    "asset": "assets/batch-ice-cover.jpg",
+    "alt": "Phong cảnh Nam Cực",
+    "credit": "Dylan Shaw",
+    "source": "https://unsplash.com/photos/XizlZYFKz44",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

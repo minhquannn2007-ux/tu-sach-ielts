@@ -1,0 +1,2468 @@
+{
+  "converterVersion": "3.9",
+  "selected": 100,
+  "cachedSources": 100,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 45,
+    "held": 55,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "seconds": 1.201,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p2-a-history-of-early-inventions",
+      "title": "A history of early inventions",
+      "part": 2,
+      "fingerprint": "394bc92a947fc4464eb0fc41f9c74d25b42d2d2e6e212884182bce4e2bef9000",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1eO3M4E-zz8gcF7bcfHGXbogRIpqtHk80",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.081
+    },
+    {
+      "job": "p2-a-mechanical-friend-for-children-chua-rep",
+      "title": "A mechanical friend for children(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "aeb4115d387bd4a586483a1b7136f1e194c6fb48720b0f231e0f724966c47375",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1T88ZuyEr8_fy9DF1tTeQDdjKR09zWqnC",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.085
+    },
+    {
+      "job": "p2-adventures-in-comic-land",
+      "title": "Adventures in Comic-Land*",
+      "part": 2,
+      "fingerprint": "a3492755540c09c9eb86f636238e77286c89a3e2417aec9bb7691e6824320765",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "16q__sEyutrWQfdOWVFHVu_RQG2ym0tXV",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.06
+    },
+    {
+      "job": "p2-an-ancient-city",
+      "title": "An ancient city",
+      "part": 2,
+      "fingerprint": "407ef395f75e83071e517eed7f386aeea4def5d0edaf1b05a830bde86f29f6c1",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1P0KKs4UPLiXAQTNNEuxk6rCBpc8vhw_J",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-an-ancient-city.json",
+      "lessonId": "p2-an-ancient-city",
+      "sourceId": "1P0KKs4UPLiXAQTNNEuxk6rCBpc8vhw_J",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "b1c687d9832e3af28fff148596bf41b334cd94f5df2bc554973f515fa4f2d15d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.068
+    },
+    {
+      "job": "p2-an-early-study-of-inappropriate-behaviour-in-the-classroom",
+      "title": "An early study of inappropriate behaviour in the classroom",
+      "part": 2,
+      "fingerprint": "26c3ab87dcec08402cf4cd0a18826150e0fc21caab899ea8303d1c06d546e7ff",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "11NINJVzenIb1GWyugJDzVQDfGRD3XEsS",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-an-early-study-of-inappropriate-behaviour-in-the-classroom.json",
+      "lessonId": "p2-an-early-study-of-inappropriate-behaviour-in-the-classroom",
+      "sourceId": "11NINJVzenIb1GWyugJDzVQDfGRD3XEsS",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "f4b6171ee446544e8d939a36742cbca73b62b2dca1426db9afbec66b423ff2e4",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.048
+    },
+    {
+      "job": "p2-an-innovative-american-school-black-mountain-college",
+      "title": "An Innovative American School: Black Mountain College",
+      "part": 2,
+      "fingerprint": "4f93d47810ca7955ff34aa2b42b3b7102b1112aacb487e449b879bfe41b4e795",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1O2f1h9deA35YZDyAQEgJkmbpnyxCy0V-",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.049
+    },
+    {
+      "job": "p2-antarctica-s-climate",
+      "title": "Antarctica's climate",
+      "part": 2,
+      "fingerprint": "6811876fbf630aabf18ebb8cd3f77d7d349432e6481399e3f5fc2b98fecda2d8",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1eNPRy2XP-jQ8ZbeJqL9iqsJ0J7EFfeIz",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-antarctica-s-climate.json",
+      "lessonId": "p2-antarctica-s-climate",
+      "sourceId": "1eNPRy2XP-jQ8ZbeJqL9iqsJ0J7EFfeIz",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-endings",
+        "mc-one"
+      ],
+      "sourceHash": "6d763326c6ddf29ac1a0fb3e546af23cc6bb0f47465d39e00279a2ea09ca4d07",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.053
+    },
+    {
+      "job": "p2-athletes-and-diet",
+      "title": "Athletes and diet",
+      "part": 2,
+      "fingerprint": "f8a43f9bc967c6fb98061d18e3977a59f81f2ad72789b375e1f2da086ece22d6",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Si7jO1DBl6ie0u779Bw-ieLIpVH3yKXC",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-australia-s-artistic-heritage",
+      "title": "Australia's Artistic Heritage",
+      "part": 2,
+      "fingerprint": "d88510b4c565a749a7b942799001600a1179e78dc6e9031a3753a1eeb4b00531",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "11MWxE7rn68Ox_j8VyC-DcTq15eTY_4FV",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-australia-s-artistic-heritage.json",
+      "lessonId": "p2-australia-s-artistic-heritage",
+      "sourceId": "11MWxE7rn68Ox_j8VyC-DcTq15eTY_4FV",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "e4ba29e8d17209d0cfb9a9d21c708e1e367470f7af91b5959ea52851f251c778",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.095
+    },
+    {
+      "job": "p2-australia-s-camouflaged-creatures",
+      "title": "Australia's camouflaged creatures",
+      "part": 2,
+      "fingerprint": "0d720e89c0e155b0f991b01dc70fc7dd770b449674e0436b2ffba9f5dac06652",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1eKKERDraIK0kEZ8fdZ9P1H8ohJR2Pkh5",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-australian-parrots",
+      "title": "Australian parrots",
+      "part": 2,
+      "fingerprint": "2b1788efb2d2b9816589df354dae2d7ee753cb8822147e4a3efd6d7b06890f62",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1LDa6UIEsCp8aX-vfkqmWi-FFestF16r8",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-being-left-handed-in-a-right-handed-world",
+      "title": "Being left-handed in a right-handed world",
+      "part": 2,
+      "fingerprint": "5977a284cab299670f1ec8bdcd998bc0255edce45612c8fecb67af1ef9d358f1",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1DKp_T20VHJCNHjVvPAUFLPNSL-sUxYGW",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-being-left-handed-in-a-right-handed-world.json",
+      "lessonId": "p2-being-left-handed-in-a-right-handed-world",
+      "sourceId": "1DKp_T20VHJCNHjVvPAUFLPNSL-sUxYGW",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "ynng"
+      ],
+      "sourceHash": "207334c830a45cf4ac0150d09e8de59672da447c72c3ced1190584ae272c6aa9",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.086
+    },
+    {
+      "job": "p2-children-s-comprehension-of-television-advertising-toan-bo-et-al-chua-italic",
+      "title": "Children's comprehension of television advertising (toàn bộ et al chưa italic)",
+      "part": 2,
+      "fingerprint": "fa130fb4b16aee276b9c00787463c18746614a58e8f662dc72f4e38253749ff4",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1rP1R7BfJVCS5a9vDLTlR848yfJpSwxpU",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p2-children-s-understanding-of-other-people-s-minds-18-chua-rep",
+      "title": "Children's understanding of other people's minds (18 chưa rep)",
+      "part": 2,
+      "fingerprint": "397658f5a1575f1941f9baa06b9ee9d57cb1bb0772afb12cbc1d9308143d80f0",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1w2Lg7Q_Ufborc0lurUA6rhYzinAv3Z91",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.083
+    },
+    {
+      "job": "p2-childrens-literature",
+      "title": "Children’s literature",
+      "part": 2,
+      "fingerprint": "f757f70fc31fd96f39356aaa9bb9ea007080a57999716ec2273c2337587d37b5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1N-scGcnnCID9H5t0dAPr2RRq1j1ycAzd",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-childrens-literature.json",
+      "lessonId": "p2-childrens-literature",
+      "sourceId": "1N-scGcnnCID9H5t0dAPr2RRq1j1ycAzd",
+      "questionCount": 13,
+      "types": [
+        "notes",
+        "matching-endings",
+        "tfng"
+      ],
+      "sourceHash": "e4517728494f9a8a362a4846eca02a076644bcf72864a3f3513c27c31916f450",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.213
+    },
+    {
+      "job": "p2-considerate-technology-chua-rep",
+      "title": "Considerate Technology (chưa rep)",
+      "part": 2,
+      "fingerprint": "c1b2db8a8e8e14b54dfbf35f3cc1883d9dbc6bf94d0ec77106af56689a0a61fe",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "14frXmdnqyhyXnN5qgZEPmq2uNHd9GVdE",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.06
+    },
+    {
+      "job": "p2-corporate-social-responsibility",
+      "title": "Corporate Social Responsibility",
+      "part": 2,
+      "fingerprint": "887ab44efca377545061081d5a5f19e3820eea368eca9e28eadad312967a754b",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1tqejMSsax6TAvMhHktJ7edmp87pZk4Yn",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.097
+    },
+    {
+      "job": "p2-creator-of-managers",
+      "title": "Creator of Managers",
+      "part": 2,
+      "fingerprint": "19ddaf5e51531e62fe3c659d7304a81b908958f92c528a36c0b3a16141f903de",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1KliM6tS-TvsWlxDpUlyIVMuHsNC08Z6Z",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-creator-of-managers.json",
+      "lessonId": "p2-creator-of-managers",
+      "sourceId": "1KliM6tS-TvsWlxDpUlyIVMuHsNC08Z6Z",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "tfng",
+        "mc-two"
+      ],
+      "sourceHash": "87343878f9d0ebd549240757fde22c4fd20f753f754c69deec68b42902a7107a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.093
+    },
+    {
+      "job": "p2-dark-chocolate-s-health-giving-benefits",
+      "title": "Dark Chocolate's Health-giving Benefits",
+      "part": 2,
+      "fingerprint": "d964cf40b39a2102b29c8545d4d953d734c265366ef12db5d76da74362deb90e",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1dwkmSWVnYZccCo0dxFaNS2FJNz4b26Pm",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-dolphins-and-language-learning",
+      "title": "Dolphins and Language Learning",
+      "part": 2,
+      "fingerprint": "06afb5f7f6f3c097a175545f69ad3eb42c81eb39e4c2a9718917198d08ba6cb3",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        },
+        {
+          "code": "schema",
+          "message": "Option bank differs from source range"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "draft": "drafts/p2-dolphins-and-language-learning.json",
+      "lessonId": "p2-dolphins-and-language-learning",
+      "sourceId": "141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "aebfdb885db46bccdfcd09b91fcd581123e418e7af0f4e83e67c13ffd1a1273e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.051
+    },
+    {
+      "job": "p2-doodling",
+      "title": "Doodling*",
+      "part": 2,
+      "fingerprint": "e25a0d583e6b90a5a42522599682f348ad5d337ca316c58ad647b972665669c9",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Y_BG0uGsfGjzBNacwczfUi8Bicpkn8PQ",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-doodling.json",
+      "lessonId": "p2-doodling",
+      "sourceId": "1Y_BG0uGsfGjzBNacwczfUi8Bicpkn8PQ",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-one",
+        "notes"
+      ],
+      "sourceHash": "faabb45e3da03b01d3092b16f9065d1ae3450280ae05fb366f4a1a90b503a2fb",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.131
+    },
+    {
+      "job": "p2-effects-of-changes-in-world-population",
+      "title": "Effects of changes in world population",
+      "part": 2,
+      "fingerprint": "de5f8b99ea9244544e85df6349474f6ae3af2704730fe1dfa17a597b321de15e",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1BnTDlVsyK6szxW1EBUYf0Gf7bPFw-OBk",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-effects-of-changes-in-world-population.json",
+      "lessonId": "p2-effects-of-changes-in-world-population",
+      "sourceId": "1BnTDlVsyK6szxW1EBUYf0Gf7bPFw-OBk",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two",
+        "mc-two"
+      ],
+      "sourceHash": "e137c2da56a0abffab185822b3dfdf674fdeea3c676b70016494406939c95936",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.093
+    },
+    {
+      "job": "p2-egypt-s-ancient-boat-builders-chua-go",
+      "title": "Egypt's ancient boat-builders (chưa gõ)",
+      "part": 2,
+      "fingerprint": "875033b05ee16a4e566d112ca8d16ac5fe91c452fcf4fd1821efd06c169966b4",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1WkMVpnGK5dhg2HDnkmmq8moTL9hYUxgd",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-emotional-development-in-babies",
+      "title": "Emotional development in babies",
+      "part": 2,
+      "fingerprint": "8933a72915e5ad2e3eb53dcc776050f3a45bd8ae416ead3940b0b4b6a2481866",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1RekJ84esARnqb5twgAejcVj4qzLsCe1n",
+          "code": "paragraph-labels",
+          "message": "Missing or repeated paragraph labels"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.071
+    },
+    {
+      "job": "p2-farmers-chua-rep",
+      "title": "Farmers(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "3555e0348d39102e6861be387f2e4d3912dd475b4f432067d5fb4fef2087c520",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1KLZo1dyCiENh7uTGKmxALmJkh62Wqaf_",
+          "code": "question-numbering",
+          "message": "Missing, duplicate or unordered numbered prompts"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.051
+    },
+    {
+      "job": "p2-follow-your-nose",
+      "title": "Follow your nose",
+      "part": 2,
+      "fingerprint": "c5c984c72fd2de2d11a346b8a7524a2b30a13f0ba37b5185ab8cb33818a8ff32",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-from-princes-to-paupers-how-goya-s-portraits-tell-the-story-of-spain",
+      "title": "From princes to paupers: how Goya's portraits tell the story of Spain*",
+      "part": 2,
+      "fingerprint": "bfc5e2778e701f89cde0bef110bc7c06ca6d03dd0b068f45e99569bcc7f58399",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ug1P302azpFYz3UgfmuBNQ-jBSU_E4u-",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.084
+    },
+    {
+      "job": "p2-geodiversity",
+      "title": "Geodiversity",
+      "part": 2,
+      "fingerprint": "fa96408d87a16c10f1c675cbd792672a129995ea669bc64daefa47a44f349ad2",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1sguV325MG_XtWawk1JNdE88vbjqEz5bD",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-geodiversity.json",
+      "lessonId": "p2-geodiversity",
+      "sourceId": "1sguV325MG_XtWawk1JNdE88vbjqEz5bD",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "bed0fcfcf6367553ab335acfd30c4546c2eb70fd5bcf6419f0885e68d2f95fa3",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.088
+    },
+    {
+      "job": "p2-getting-young-children-to-stay-in-bed-and-sleep",
+      "title": "Getting Young Children to Stay in Bed and Sleep",
+      "part": 2,
+      "fingerprint": "baa4971f8fee1113350d144b9f7623c3de167104b20e4e2029eb75b5770ccd57",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1e3_jYHAKmY-SGIpy7-WdyU52Nt_tTfap",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-getting-young-children-to-stay-in-bed-and-sleep.json",
+      "lessonId": "p2-getting-young-children-to-stay-in-bed-and-sleep",
+      "sourceId": "1e3_jYHAKmY-SGIpy7-WdyU52Nt_tTfap",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "6bb495f4f53fb18aedbe9ae088ba31e6eddb011550440ffa585d20acab22b55a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.05
+    },
+    {
+      "job": "p2-going-with-the-flow",
+      "title": "GOING WITH THE FLOW",
+      "part": 2,
+      "fingerprint": "08af2ee57472ad0d63f4ddc76bf234b5d640f3370757761eb5bfb50bc6f91db3",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1PYS06LE68yEj19Rd-ocksvJeG3vZCeQx",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.05
+    },
+    {
+      "job": "p2-goya-s-portraits",
+      "title": "Goya's portraits",
+      "part": 2,
+      "fingerprint": "d0dbaaf490cbef9432051efa5afb63861ab96369d9f69a2a9ef1d62bc8191778",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1rLj2OF6ugpSYRBbVjdBFa7Qnrq0uxMLA",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-goya-s-portraits.json",
+      "lessonId": "p2-goya-s-portraits",
+      "sourceId": "1rLj2OF6ugpSYRBbVjdBFa7Qnrq0uxMLA",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "4b90f2293f28c5eb313c9dbe11f54e4138beb2e9b1ffc42990ad4e97bce00139",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.096
+    },
+    {
+      "job": "p2-growing-food-in-cities",
+      "title": "Growing food in cities",
+      "part": 2,
+      "fingerprint": "e6d0959d437776849aee53448348ca94529215291d246795f444eb2bff710580",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "169EJbtGw_GLe22Ir6fD-APDfZBksAaQt",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['E']; expected ['A', 'B', 'C', 'D', 'E']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.082
+    },
+    {
+      "job": "p2-healthy-buildings-productive-people",
+      "title": "Healthy buildings, productive people",
+      "part": 2,
+      "fingerprint": "68874da595748f5f1c9ec4b162695e5d1019675da9c301e63f4cf84524006283",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1L8aaSHo32pab0xImp6NeGmPco72R-aml",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-healthy-buildings-productive-people.json",
+      "lessonId": "p2-healthy-buildings-productive-people",
+      "sourceId": "1L8aaSHo32pab0xImp6NeGmPco72R-aml",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "0b236075766313dd73bdb7f36c2fcb344a8da6963474a79948b6ef2cdf6073db",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.05
+    },
+    {
+      "job": "p2-heart-of-the-community",
+      "title": "Heart of the Community",
+      "part": 2,
+      "fingerprint": "c68be6ff8ae1924f9d2feb42ab6c967c6b3bf985eabb9ff2d16a7a83b278b13c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1RxL4W9R1LcELUwugf3MwFyDhVb5XsUHV",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-heart-of-the-community.json",
+      "lessonId": "p2-heart-of-the-community",
+      "sourceId": "1RxL4W9R1LcELUwugf3MwFyDhVb5XsUHV",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "86dfc1cd50e9b6a8faa641d6aa1c70e0d4f961661bb3d53343ee6a49def60dc5",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.087
+    },
+    {
+      "job": "p2-homo-ergaster",
+      "title": "Homo ergaster",
+      "part": 2,
+      "fingerprint": "3f502fb3d944e130f837257425deb08acc3273e64e595237ddb4ab2eb40b1acf",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1HJbHFMYO1ONl6NYGaaj8dQdskhQVFkxl",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.068
+    },
+    {
+      "job": "p2-how-dental-health-is-threatened",
+      "title": "How Dental Health Is Threatened",
+      "part": 2,
+      "fingerprint": "87c7772c2457a1f613db908b41803a7350701a2e6de95af0253a54c9ef417282",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1XOvNTZpvecwY8_BhiHTnITu9pkrPpshu",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.07
+    },
+    {
+      "job": "p2-how-do-plants-talk-to-each-other",
+      "title": "How do plants talk to each other",
+      "part": 2,
+      "fingerprint": "84930d876b9951e0f0edc04ec412b6a8ddec3ba0542377c99cad5cf6660d7b38",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1GA_ZCA5bRKk4_PByycaFsVZJdRvmNBU3",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['E']; expected ['A', 'B', 'C', 'D', 'E']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.059
+    },
+    {
+      "job": "p2-human-running-speed",
+      "title": "Human running speed",
+      "part": 2,
+      "fingerprint": "64624da34d5ed0d6193ef86882813f1600fc25e2ed561dae4e0475aa72f072b8",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ysnpcbfkHRZufySw3wmvGa44PBotYeH9",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-human-running-speed.json",
+      "lessonId": "p2-human-running-speed",
+      "sourceId": "1ysnpcbfkHRZufySw3wmvGa44PBotYeH9",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "da51a0f7efac3a0fadd86966ede96dd8421582b406e64ada00562dd22bbe6a0b",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.095
+    },
+    {
+      "job": "p2-ideal-homes-chua-rep",
+      "title": "Ideal Homes (CHƯA REP)",
+      "part": 2,
+      "fingerprint": "bdb34992f9751e6338a7e8a9dc3606feacd6d210fbdd4f07be5a47d3feb64aed",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1SJqM5W05wgWmRi12eCFF5mPdgKjMPQUD",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.093
+    },
+    {
+      "job": "p2-improving-sensory-perception",
+      "title": "Improving sensory perception",
+      "part": 2,
+      "fingerprint": "1c8ea8226b2183cc854afb4024b11b301c456a1811dd6caefaa36c9c167c74bb",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1U9LRwY4sLIpD6dqA1Nkl413tQFntXcUd",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-improving-sensory-perception.json",
+      "lessonId": "p2-improving-sensory-perception",
+      "sourceId": "1U9LRwY4sLIpD6dqA1Nkl413tQFntXcUd",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "a036d49a1c1b22084d310fede59296232bc3a0f9aab492f03671b7b990d12178",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.067
+    },
+    {
+      "job": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints",
+      "title": "Introduction to a book about the assessment of carbon footprints",
+      "part": 2,
+      "fingerprint": "b3a8ec261e7393c45fb416f8bbf7c860ba1366219f08100615914a94d4116633",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1eqNgFPFrpE0SY4idNqyp736VysF5-hiI",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints.json",
+      "lessonId": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints",
+      "sourceId": "1eqNgFPFrpE0SY4idNqyp736VysF5-hiI",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "2ef863bab7c908b9925b3ab3b4bc981e0ec3326f4883d2ab07b47d252f762c5a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.054
+    },
+    {
+      "job": "p2-keeping-an-eye-on-shoppers",
+      "title": "Keeping an eye on shoppers",
+      "part": 2,
+      "fingerprint": "b0c345c49b9a4cf781229fa2cd49ebbf87e824dba7e146d752102a335596b085",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1icMTjh7frGLtOdQ9LcTrISqdqJkAB_Kz",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.055
+    },
+    {
+      "job": "p2-london-smog",
+      "title": "London Smog",
+      "part": 2,
+      "fingerprint": "1893362b3694bb2afbe9d70e14966bb8076695f71b06f1947b064e5f832d8813",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1s-0Q4ZCLwPo6Pr5-OzFzkQ3ar71lUijc",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-london-smog.json",
+      "lessonId": "p2-london-smog",
+      "sourceId": "1s-0Q4ZCLwPo6Pr5-OzFzkQ3ar71lUijc",
+      "questionCount": 13,
+      "types": [
+        "matching-features",
+        "summary-input",
+        "tfng"
+      ],
+      "sourceHash": "f4ce22c33fe53ef785fc0e5a93293ddbc4c6550a42ef7ac8a03559aeadac8c08",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.052
+    },
+    {
+      "job": "p2-meeting-challenges-in-food-production",
+      "title": "Meeting Challenges in Food Production",
+      "part": 2,
+      "fingerprint": "4b0c07e9027bdf34fbaee63ceb1066b270fef14a5b96e1346fde8564feb747f5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "12uhkPGot4xmfWLzDASlC80hk_gf_7K7y",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.091
+    },
+    {
+      "job": "p2-mind-music",
+      "title": "Mind Music",
+      "part": 2,
+      "fingerprint": "150c002e087c1db2cec57303f1e3ec89c6b082878e0733f6a2960d191ea00696",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1LV528_n5DZmA-sLy5TQcne2yXnCnbW0V",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-mind-music.json",
+      "lessonId": "p2-mind-music",
+      "sourceId": "1LV528_n5DZmA-sLy5TQcne2yXnCnbW0V",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "e32c2409516a679ffcb7c5b290361043d5e30c64167582f5348f0338abb18c81",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.057
+    },
+    {
+      "job": "p2-mixed-signals",
+      "title": "Mixed signals",
+      "part": 2,
+      "fingerprint": "d9f199f5c0a3107051ec5757b6868039347c96004d7ed98de5f05cff6930a72e",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1IkVYEsmFDpyRC7fRYIbd16HQignRP1a7",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-mixed-signals.json",
+      "lessonId": "p2-mixed-signals",
+      "sourceId": "1IkVYEsmFDpyRC7fRYIbd16HQignRP1a7",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "29e205a6400772f6f4742e70acd5c86073f6cfcbb5cadf98f8c7bb38c09cb6d5",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.043
+    },
+    {
+      "job": "p2-new-filter-promises-clean-water-for-millions",
+      "title": "New filter promises clean water for millions",
+      "part": 2,
+      "fingerprint": "1624462c80594ad18bc0f7f754a783bff9bd4a6105d5a8a6b03797494895fc52",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1A_BTpHe-lMLjaORbqZkiJCSr9-WE2ixk",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.071
+    },
+    {
+      "job": "p2-of-horses-teeth-and-regulation",
+      "title": "Of horses' teeth and regulation",
+      "part": 2,
+      "fingerprint": "f230f196e15d69a4a916d40aa5bdd1744a24aa242524f8e5771285904a3da98b",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1cw7nNcsxGz0PGfeq_X0ytR804xGWoH9Y",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.077
+    },
+    {
+      "job": "p2-on-the-trail-of-the-artist",
+      "title": "On the trail of the artist",
+      "part": 2,
+      "fingerprint": "ba4aaec5eaf9b1dff07f6c2bcab4d1f21fb09068e5e7f585b0f9f4e76c4422cd",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "186WzT3Yu8p1eswL6MJLaSPAvRQFH8MRK",
+          "code": "paragraph-labels",
+          "message": "Missing or repeated paragraph labels"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.085
+    },
+    {
+      "job": "p2-parental-involvement-programmes-in-education-a-review-of-the-literature",
+      "title": "Parental involvement programmes in education - a review of the literature",
+      "part": 2,
+      "fingerprint": "320502027e205a574cfd8b20097aac6507bcbe28f9512a54fb18fa5495584d39",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1P9eskZqZm3mp6rNASeUHcA2smO9zJkKz",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.041
+    },
+    {
+      "job": "p2-patience-fairness-and-the-human-condition",
+      "title": "Patience, fairness and the human condition",
+      "part": 2,
+      "fingerprint": "f7fd67078f23881c95f93fb1c18167b604ba1622cb791a91a874279ae3adbb1c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "16zJE5tnHDyRPIrS5437AlxpX4bD0-h-C",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.085
+    },
+    {
+      "job": "p2-re-dating-cave-art",
+      "title": "Re-dating cave art",
+      "part": 2,
+      "fingerprint": "5675f34ecf56f31927f1ebbe1f75d97e8ea7a86a828e646a112d374d5307674d",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "161jGytB_2JmvMfqeIF407810jH6A2mmD",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-re-dating-cave-art.json",
+      "lessonId": "p2-re-dating-cave-art",
+      "sourceId": "161jGytB_2JmvMfqeIF407810jH6A2mmD",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "501f1db9556808368a7426ee6e001b5b144b17f466f04181bbbb83ce6840c966",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.068
+    },
+    {
+      "job": "p2-red-and-brown-seaweed",
+      "title": "Red and Brown Seaweed",
+      "part": 2,
+      "fingerprint": "8f6efbbd0f7e3834b5b6ba6c85a6d17010ed82365bb27d93cdfb8f74e4c4dad7",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1xacEqwrTjRjp2z6lD026ThkIqr3r6v68",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-red-and-brown-seaweed.json",
+      "lessonId": "p2-red-and-brown-seaweed",
+      "sourceId": "1xacEqwrTjRjp2z6lD026ThkIqr3r6v68",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "4d0bc4d580c4e15f7822863cab708d1df1e99fafbfae3ed50e973852045de39c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.051
+    },
+    {
+      "job": "p2-saving-the-ss-united-states",
+      "title": "Saving the SS United States",
+      "part": 2,
+      "fingerprint": "8ba91d4c57a7ea3b2d724ae92d7e763e0dcb81ea2561c333d711b19de690bb20",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1qnIA_husV3akFKLFMZF7-dcbdJJ7T48v",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.056
+    },
+    {
+      "job": "p2-seeing-in-the-sea",
+      "title": "Seeing in the sea",
+      "part": 2,
+      "fingerprint": "d04ad5e2238baccd9344d9610cf4dc6da4e35f530736d98060233946fab61c1a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1tR-T5xRYdGglEW_KajXmgfBmdolwGmTi",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-seeing-in-the-sea.json",
+      "lessonId": "p2-seeing-in-the-sea",
+      "sourceId": "1tR-T5xRYdGglEW_KajXmgfBmdolwGmTi",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "437527a02f8dae083e704ed739a443129d5f7093b32327a95a630115e342bd20",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.104
+    },
+    {
+      "job": "p2-should-top-managers-be-promoted-from-within-the-company-or-hired-from-outside-chua-go",
+      "title": "Should top managers be promoted from within the company, or hired from outside?(CHƯA GÕ)",
+      "part": 2,
+      "fingerprint": "f22b44420fe5c2e8bd86f8a0613e15370d41f6328132f95d592e59a890e508a9",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1IBqqeoDQoauHfukzN8ySxqMad5FNkEZk",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-solving-the-problem-of-waste-disposal",
+      "title": "Solving the problem of waste disposal",
+      "part": 2,
+      "fingerprint": "f9bc3fad5fa1979f9d9952148b7bda717de61a7b7886f6fdc8b046e5a70e9b53",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "13Hu9J1C08v8Zu5N4G0C1QCa7ovCgUaf8",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-solving-the-problem-of-waste-disposal.json",
+      "lessonId": "p2-solving-the-problem-of-waste-disposal",
+      "sourceId": "13Hu9J1C08v8Zu5N4G0C1QCa7ovCgUaf8",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "9a681605116e87bedfc87b809efb29047339cfe50d21689d7245b1709e4bcbc4",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.087
+    },
+    {
+      "job": "p2-the-2003-heat-wave-chua-go-no-pdf",
+      "title": "The 2003 Heat Wave (chưa gõ/no pdf)",
+      "part": 2,
+      "fingerprint": "8326a29031809fcddb674f516e4f93a81abd6ad0d1bbabc5716a4e17d68d360a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1SLrJiEPN_wVH1M_pI4qiukI634JBZNmD",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-the-attraction-of-video-games-chua-rep-heading-cho-sapo-hep-lai",
+      "title": "The attraction of video games (chưa rep heading, cho sapo hẹp lại)",
+      "part": 2,
+      "fingerprint": "2854e3a97b934882a8d6296b5a4e1e948f275fb924527bb3952cb61daacc66e3",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1WgrrK4rnIXPXj16Y8u1GHc8MvHh1Sk9w",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.061
+    },
+    {
+      "job": "p2-the-biological-basis-of-business-management",
+      "title": "The biological basis of business management",
+      "part": 2,
+      "fingerprint": "67b51d68a10117d91c22159c478bb9c9be5f1accdc4e9160f09eb98c469291c4",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "172OE5rg9co__lTPPqyOk3PreY9w7kbOY",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-biological-basis-of-business-management.json",
+      "lessonId": "p2-the-biological-basis-of-business-management",
+      "sourceId": "172OE5rg9co__lTPPqyOk3PreY9w7kbOY",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "955289cbc8269bf563af9b27e6eddabb072c71d9531ba07136fe924ae2a823d2",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.062
+    },
+    {
+      "job": "p2-the-changing-face-of-farming-in-the-canterbury-region-of-new-zealand",
+      "title": "The Changing Face of Farming in the Canterbury Region of New Zealand",
+      "part": 2,
+      "fingerprint": "f49b807539134b5b55f36b9450b3257dbe12542778443cd9913d64e61cf119f5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1sluq5rYrK_koOrv0d_UXFVpjaiwqk42P",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-changing-face-of-farming-in-the-canterbury-region-of-new-zealand.json",
+      "lessonId": "p2-the-changing-face-of-farming-in-the-canterbury-region-of-new-zealand",
+      "sourceId": "1sluq5rYrK_koOrv0d_UXFVpjaiwqk42P",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "c613ea5eed0a1245954bfa063c68580e3b16a27c2e0ca1a0422bdc1afdff9e5d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.083
+    },
+    {
+      "job": "p2-the-commercial-production-of-ice-in-the-nineteenth-century",
+      "title": "The Commercial Production of Ice in the Nineteenth Century",
+      "part": 2,
+      "fingerprint": "56213bad60d30854817f391eaef1129f321726f94b731aef66e447522fc8eddb",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "14EWEgrBjNN9AaED8h7m52sdD87sww2YN",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.052
+    },
+    {
+      "job": "p2-the-constant-evolution-of-the-humble-tomato-chua-go",
+      "title": "The Constant Evolution of the Humble Tomato(CHƯA GÕ)",
+      "part": 2,
+      "fingerprint": "d762c5ab37de5347504fe97cc1b40c687ac90b78ae127ee7d7b3e7cc842ee90f",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "17RWFMLwWKCa-B0jEo1duO_w3PaHlEtGK",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-the-cost-of-human-thinking-ability",
+      "title": "The cost of human thinking ability",
+      "part": 2,
+      "fingerprint": "1da2f3d9ca2537744ce44e4737d468f903e0a2d13af9f32e32ee54d32ce956ad",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1aUNWRY8_5Cx-jOftCU9dP6KuHQQNwo7q",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-cost-of-human-thinking-ability.json",
+      "lessonId": "p2-the-cost-of-human-thinking-ability",
+      "sourceId": "1aUNWRY8_5Cx-jOftCU9dP6KuHQQNwo7q",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "77b217b603b848f0cbdb961b3dccf850d73beeb91a9033293b885da7afd50e62",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.081
+    },
+    {
+      "job": "p2-the-discovery-of-gobekli-tepe",
+      "title": "The Discovery of Gobekli Tepe",
+      "part": 2,
+      "fingerprint": "bb4f5c0c09e35b60f96ce5abc15cf93bc5212a614ba852f7064da8af3a4ec2d4",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "10JNnw8H_jSdIdEiF7zqFI77DQBAKDAQI",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-discovery-of-gobekli-tepe.json",
+      "lessonId": "p2-the-discovery-of-gobekli-tepe",
+      "sourceId": "10JNnw8H_jSdIdEiF7zqFI77DQBAKDAQI",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "22de0616b734e64a6fd072cbbe6dd77c03876a06cf9ce4ab61e3290a6c66882f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.063
+    },
+    {
+      "job": "p2-the-economic-effect-of-climate-no-pdf",
+      "title": "The economic effect of climate (no pdf)",
+      "part": 2,
+      "fingerprint": "fe355fa72a67a01ef906d8dde97adef8cbd149413779dfce0c13aaf594abcf3a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1IfWkGcQG3cpbLGq02TU-SUrisXfHWHzg",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.009
+    },
+    {
+      "job": "p2-the-elnino-effect-no-pdf",
+      "title": "The Elnino effect (no pdf)",
+      "part": 2,
+      "fingerprint": "021380bdc6c123dc0e186612d885bcbd98f242f55b7901a360c409556d9de799",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1pEtKZ0ZmQoVcLPqhbRrifGLIgYjnoJJD",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.009
+    },
+    {
+      "job": "p2-the-fascinating-world-of-attine-ants-chua-rep",
+      "title": "The fascinating world of attine ants (chưa rep)",
+      "part": 2,
+      "fingerprint": "790d3d789fc43e6f4b94caeb2b8b5dde7dc198b23f359f9c7802e0bc384feda6",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "13DHiHW3Xb7NhSB02HdxOqKBdEHgvUMCA",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p2-the-future-of-food-packaging",
+      "title": "The Future of Food Packaging",
+      "part": 2,
+      "fingerprint": "958289ac8e1ede32459215b59876756ad034802d7ba254c2c52afdcbe58dc5aa",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ICdCaYJn7ZO3T825n527TacjkxtOcvUD",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.059
+    },
+    {
+      "job": "p2-the-greener-side-of-biotechnology",
+      "title": "The Greener Side of Biotechnology",
+      "part": 2,
+      "fingerprint": "7d6f14128565a6209f8fef7bf64d04b94bd5cae849356635f8dc2002b9d80bd9",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1KcMV_ii8pUj5unaXK_Qgpyo5lBK4PNYS",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-greener-side-of-biotechnology.json",
+      "lessonId": "p2-the-greener-side-of-biotechnology",
+      "sourceId": "1KcMV_ii8pUj5unaXK_Qgpyo5lBK4PNYS",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "79c646c876a1f053cad57580e23d1b6eab8c03d4c8772397778687d1acd8b57b",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.085
+    },
+    {
+      "job": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
+      "title": "The humble houseplant - an aid for health and cleanliness",
+      "part": 2,
+      "fingerprint": "c6047736c5e6a487236bc9d5be24e6554f23e76886d0c88425aa36a29a8be72e",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "17SiTutSqftb9Uyufg5ERk6Wx4sAEbXIL",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.087
+    },
+    {
+      "job": "p2-the-importance-of-diet",
+      "title": "The importance of diet",
+      "part": 2,
+      "fingerprint": "0921a9dd7c4d12c146b7d2206afa806dbd9e5cd7d0448c8d4764d5c0e8a0f073",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1DJ0YplMx5GoOfV2RNpxy7dY5bgFydarX",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-importance-of-diet.json",
+      "lessonId": "p2-the-importance-of-diet",
+      "sourceId": "1DJ0YplMx5GoOfV2RNpxy7dY5bgFydarX",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "ed09f58cd20723a6bd8ace063f9a8ec5fc38643ed1090120e7dbd439ce6a5b3e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.059
+    },
+    {
+      "job": "p2-the-internal-body-clock",
+      "title": "The internal body clock",
+      "part": 2,
+      "fingerprint": "cf7f21f3467201638a7620330289b392f608482010d9e0eb003c1b783e9ded34",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1u0p6nUtMF3-jXIzfLc4m2rnbl7HGb-zD",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-internal-body-clock.json",
+      "lessonId": "p2-the-internal-body-clock",
+      "sourceId": "1u0p6nUtMF3-jXIzfLc4m2rnbl7HGb-zD",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "mc-two",
+        "mc-two"
+      ],
+      "sourceHash": "574f2247b645004de5801b0abc654d9652f2599fc6ad57d57e9bafbbdc9831f2",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.059
+    },
+    {
+      "job": "p2-the-international-meteorite-market",
+      "title": "The international meteorite market",
+      "part": 2,
+      "fingerprint": "2d8a4f06d13fd9bad6c933c94dbb3dfdeac67a5da36e9789af925ee991599fa2",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1PG4w_sLZxyB5sBoKcLlnZYxYQLeAWa_m",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-international-meteorite-market.json",
+      "lessonId": "p2-the-international-meteorite-market",
+      "sourceId": "1PG4w_sLZxyB5sBoKcLlnZYxYQLeAWa_m",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "b24fc419428f6ee842d578395ed975bfc0bca54bf097fed6a9f64b4b7e955c2d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.094
+    },
+    {
+      "job": "p2-the-last-of-the-rock-forests",
+      "title": "The last of the rock forests",
+      "part": 2,
+      "fingerprint": "62cf2de860044299380c183d847755d9c18185403c5a71db6374d461d1bfa26f",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1FYar03lDH6YUnOccKvVIP00y3-4gybcs",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-last-of-the-rock-forests.json",
+      "lessonId": "p2-the-last-of-the-rock-forests",
+      "sourceId": "1FYar03lDH6YUnOccKvVIP00y3-4gybcs",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "mc-two",
+        "mc-two"
+      ],
+      "sourceHash": "cae25a51df5faab1b21ce4e6ad10c6ab2c73fc1c0279bf35912af830055c5c3e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.058
+    },
+    {
+      "job": "p2-the-legacy-of-stanislavsky",
+      "title": "The Legacy of Stanislavsky",
+      "part": 2,
+      "fingerprint": "3e5b410c63510a25ad95ef2954f02dc6d40179a45ffe36a02b7c2ab07990627f",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-many-benefits-of-mangrove-chua-rep",
+      "title": "The many benefits of mangrove(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "b3ef90f4b1b24968db684e7b518dc0367db7f852ab007661775263726189acd2",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1KxbS3T_cHGeTz92RYKx9i9-wjhOUUFTp",
+          "code": "instructions",
+          "message": "Answer-sheet boundary is unclear"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.103
+    },
+    {
+      "job": "p2-the-mbuti-of-the-ituri-forest-in-zaire",
+      "title": "The Mbuti of the Ituri Forest in Zaire",
+      "part": 2,
+      "fingerprint": "456cd0b41c1af69a3c80a1425ab4147c0c9511ac6d0d72b32a11bfe7dcb6988a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1pkiBlKwMq2zIUTSbbkUs2eGTIQYeCbeS",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-mbuti-of-the-ituri-forest-in-zaire.json",
+      "lessonId": "p2-the-mbuti-of-the-ituri-forest-in-zaire",
+      "sourceId": "1pkiBlKwMq2zIUTSbbkUs2eGTIQYeCbeS",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "c57572c0838a2b6294e0728b6e5dd2bb5306cdb2108265d9f8dddd427c2e346d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.083
+    },
+    {
+      "job": "p2-the-myth-of-the-eight-hour-sleep",
+      "title": "The Myth of the Eight-hour Sleep",
+      "part": 2,
+      "fingerprint": "d24f6cee78c1f969ebb753905756dce8c5f561545cca755d3357ccb3d2e13c44",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1jlfdaorMdpxxjljmUDqaeGqydj6A33p0",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-myth-of-the-eight-hour-sleep.json",
+      "lessonId": "p2-the-myth-of-the-eight-hour-sleep",
+      "sourceId": "1jlfdaorMdpxxjljmUDqaeGqydj6A33p0",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "c9c6e8af464d88b2b04206fd84e12492c3ab5c7183774e9fcf283fe32e02b541",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.094
+    },
+    {
+      "job": "p2-the-origin-and-development-of-applause",
+      "title": "The origin and development of applause",
+      "part": 2,
+      "fingerprint": "d4f349b1f1e8d9c627e92386354bd411ec1ddb91209fd9a74af3039711ccc2e7",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1OVtSyo5xs1i4E769AdRltrG-kQuJ8TFl",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-origin-and-development-of-applause.json",
+      "lessonId": "p2-the-origin-and-development-of-applause",
+      "sourceId": "1OVtSyo5xs1i4E769AdRltrG-kQuJ8TFl",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "52352aee163010a9b4bf937f09e75f3a9976a2d936910c235c12e30049d0b710",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.083
+    },
+    {
+      "job": "p2-the-perfume-hunters",
+      "title": "THE PERFUME HUNTERS",
+      "part": 2,
+      "fingerprint": "b7a39f4dc4f1ab0f2cc2baec5511ae8989983fbef4b1420842ba94ac53553795",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1XYNOdoXLpAnGkbxwWBuv78kubje6BgdX",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.05
+    },
+    {
+      "job": "p2-the-plan-to-bring-an-asteroid-to-earth",
+      "title": "The plan to bring an asteroid to Earth",
+      "part": 2,
+      "fingerprint": "8b1bbbcf31a9633455224229818923b04bdffa9f24f6d803b3be49e091f97380",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "183V9uKcY75-17s4pjYGr60-l5nUX8agr",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.053
+    },
+    {
+      "job": "p2-the-power-of-smell",
+      "title": "The Power of Smell",
+      "part": 2,
+      "fingerprint": "82f8c2d4af390a3e15acebfde6c33254b8fb022e2da836c878432a16daf5dc99",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1kIk2q-XyJ1cYyx-4XNkzI6TuQz8vRzQ4",
+          "code": "option-bank",
+          "message": "No unambiguous option markers"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.045
+    },
+    {
+      "job": "p2-the-problem-of-waste-in-the-21st-century",
+      "title": "The problem of waste in the 21st century",
+      "part": 2,
+      "fingerprint": "207ab868d4268e1b908e754b9cb9eafbb197c7007a2f6816c746d70cb4c9b361",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1HjY-wIl_QdsRnTj0OfzqB3sC7MGyDtwI",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.055
+    },
+    {
+      "job": "p2-the-return-of-monkey-life-co-pdf-k-move-c",
+      "title": "The return of monkey life(có pdf, k move đc)",
+      "part": 2,
+      "fingerprint": "48b409412c6140d7c348cc3018fef9a815fad3a38e9537f916c40148663a6501",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1LhVJ4Z8Zk3iAuR1rw5896qaNMxHEqtiH",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.009
+    },
+    {
+      "job": "p2-the-return-of-the-black-footed-ferret",
+      "title": "The return of the black-footed ferret",
+      "part": 2,
+      "fingerprint": "2981c586edb442227539d27d377f5dee6b122eff8701711de0b3d77544d0b615",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1-9xq4cef7QVPSw5qAYGZT8cZfW9NyGhE",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.081
+    },
+    {
+      "job": "p2-the-role-of-mothers-in-the-origins-of-music",
+      "title": "The Role of Mothers in the Origins of Music",
+      "part": 2,
+      "fingerprint": "7e4dc768fe7edd2472773d9b6f5a4d3ed5ff3429c5c84d1bf372dad46e0e7fdf",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1glrTw5rfffQ4qbnVDPPvdySM2HzCQrMq",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-role-of-mothers-in-the-origins-of-music.json",
+      "lessonId": "p2-the-role-of-mothers-in-the-origins-of-music",
+      "sourceId": "1glrTw5rfffQ4qbnVDPPvdySM2HzCQrMq",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "fdebb0a665511970598df5b7182b4de137b9dba5faa00cc8f128d3930bd6f3f3",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.087
+    },
+    {
+      "job": "p2-treasures-of-the-deep",
+      "title": "Treasures of the deep",
+      "part": 2,
+      "fingerprint": "4f491066f9fbb00966ec5c58a79e50006bc3e766bba749c78ef481511ba5adef",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "12Ga7qlkhNuJEVhZrQaML1FytDCri0f9h",
+          "code": "option-bank",
+          "message": "No unambiguous option markers"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.049
+    },
+    {
+      "job": "p2-treetop-research",
+      "title": "Treetop Research",
+      "part": 2,
+      "fingerprint": "2f7fe70ad0ecee6552a564c7eaae6fd67566c771405ac71259e8271a6b73e1b1",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1j6VgzF9mZ5SoB7RoMOAXcOafHYCDKK4Q",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-treetop-research.json",
+      "lessonId": "p2-treetop-research",
+      "sourceId": "1j6VgzF9mZ5SoB7RoMOAXcOafHYCDKK4Q",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "7a697be43e4ac8c76dbac145fa34f3eb13eef3c681de0d7ae6edeb9fd020c460",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.05
+    },
+    {
+      "job": "p2-two-of-a-kind-scientific-research-into-twins",
+      "title": "Two of a kind – scientific research into twins",
+      "part": 2,
+      "fingerprint": "ec3558bc481dc7d9f9c78089332c4dcc34cb3505189bb35ae8f34895a1c61202",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ObiRufBfafPXzeEINlocLDuSuPBOwfTN",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.08
+    },
+    {
+      "job": "p2-undoing-our-emotions",
+      "title": "Undoing our emotions",
+      "part": 2,
+      "fingerprint": "06dd5d413171da90b018aa74d076114211e999ad546dfdbba641a5c5b05a9748",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1goqXI1yicxMYK4M5bfEPJM3tMx4snfIn",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-undoing-our-emotions.json",
+      "lessonId": "p2-undoing-our-emotions",
+      "sourceId": "1goqXI1yicxMYK4M5bfEPJM3tMx4snfIn",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "1d82dc5e8a321a00a5c1f63d9a399e09dab5ef6a3c4c875d5e318eac00abb27e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.089
+    },
+    {
+      "job": "p2-urban-regeneration-an-award-winning-redevelopment-project-in-berlin-chua-rep",
+      "title": "Urban Regeneration: an award-winning redevelopment project in Berlin(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "f199f1740d83a748b6881049b5d4c5cdfe6ebbf61006011fb807ce3fff93cb1a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1NzkEM0Hlmd0h4ekLl3YsCHwbQfmfKDTz",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-weighty-matters",
+      "title": "Weighty matters",
+      "part": 2,
+      "fingerprint": "a4dea4a22b8ec92e1c4b897ee591d11ef8cb684c9c3ae6706f76c586ffb1bb2d",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1hz72fV-8VuRpsN8nmKA8MWzCtS8Z_0zL",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-weighty-matters.json",
+      "lessonId": "p2-weighty-matters",
+      "sourceId": "1hz72fV-8VuRpsN8nmKA8MWzCtS8Z_0zL",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "4232ec18531ac47594d2b6de68471fa49f9ffb7da89df7dedf9fb53bfdfc60ef",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.051
+    },
+    {
+      "job": "p2-what-does-performance-involve",
+      "title": "What does performance involve",
+      "part": 2,
+      "fingerprint": "b832456d2ff005756cdb77a314f9bad9fd9cfcbacd1114e81f7508a7e78a8831",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1R3Qpim3qAhA20yAO0TlcJDFsjkUOqRa3",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.075
+    },
+    {
+      "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+      "title": "What kind of structure will make living in space comfortable for us",
+      "part": 2,
+      "fingerprint": "a24f621ef7ac2b12be476745d006ec77db6ef1a421a739348d761d6387bdc430",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.045
+    },
+    {
+      "job": "p2-who-wrote-shakespear-s-plays",
+      "title": "Who wrote Shakespear's plays?",
+      "part": 2,
+      "fingerprint": "0f1649fd10a30184700f405398f2280673ee37abfb9dbd0279f4a00a82a30f94",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1S7HAhqy9cMWxvMf5SPvpwCd56kASD44V",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-who-wrote-shakespear-s-plays.json",
+      "lessonId": "p2-who-wrote-shakespeare-s-plays",
+      "sourceId": "1S7HAhqy9cMWxvMf5SPvpwCd56kASD44V",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "ce4cfd8de91eadb8c31f2b2848c15a15edeaf81c684c5562d008e57567bdd487",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.096
+    },
+    {
+      "job": "p2-why-do-we-use-language",
+      "title": "Why do we use language",
+      "part": 2,
+      "fingerprint": "6459da67e1672c26ce98a8423cf8f500a3554eb0cfd1fa696cc60bd1674125a5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1equ-2tyLP2Kc5CmQpzncKnEklgrjC1bb",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-why-do-we-use-language.json",
+      "lessonId": "p2-why-do-we-use-language",
+      "sourceId": "1equ-2tyLP2Kc5CmQpzncKnEklgrjC1bb",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "5059931fa8519d91f471cbd14dd0f81840c5951dbaa33483b1784d059b34e93a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.075
+    },
+    {
+      "job": "p2-why-don-t-we-sleep",
+      "title": "Why don't we sleep",
+      "part": 2,
+      "fingerprint": "2cf1f8e69ca8ff19a961acec623564436fd5526ca770eb91402854c5e4a9e6f9",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1SNEjFovjWL5ooM3JXtROdOQlT1vH4-HN",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-why-don-t-we-sleep.json",
+      "lessonId": "p2-why-don-t-we-sleep",
+      "sourceId": "1SNEjFovjWL5ooM3JXtROdOQlT1vH4-HN",
+      "questionCount": 13,
+      "types": [
+        "summary-input",
+        "matching-info",
+        "matching-features"
+      ],
+      "sourceHash": "6901cf132cb055a761fdf3f73586d503358965e4bfad76763ceadbc334f8b960",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.053
+    },
+    {
+      "job": "p2-why-was-he-so-smart",
+      "title": "Why was he so smart?",
+      "part": 2,
+      "fingerprint": "0a84884eb08c7317de536ad77b2d0ae3bd149e7d96de67519f67917cc69ec79d",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1GIb3Ud9hTWoiZLqcyF1-Z4gT2JW5YqOC",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-why-was-he-so-smart.json",
+      "lessonId": "p2-why-was-he-so-smart",
+      "sourceId": "1GIb3Ud9hTWoiZLqcyF1-Z4gT2JW5YqOC",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "1674d25ea49cebdf049ec6e0d8d2a752300f24d20e19a21b199f1f2af92c80ca",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.091
+    },
+    {
+      "job": "p2-why-we-love-music",
+      "title": "Why we love music?",
+      "part": 2,
+      "fingerprint": "ea141b5b18b803210479fbbbb80642063357cead510574d7cf09723393aab43c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "160prQBBRbUFIcVTzw3yajmHebTkPq0KE",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-why-we-love-music.json",
+      "lessonId": "p2-why-we-love-music",
+      "sourceId": "160prQBBRbUFIcVTzw3yajmHebTkPq0KE",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "774db49562af6af30246ecbddf8fb502427b4c806cfb02cc18ead9f33f76f68a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.055
+    }
+  ],
+  "published": 0
+}

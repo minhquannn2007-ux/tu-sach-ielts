@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-accidental-scientist",
+  "title": "The Accidental Scientist",
+  "part": 3,
+  "fingerprint": "b26495635241dd3d00b819338334f65d098a666cd9d5c3a24878fb866a6636a1",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-accidental-scientist.json",
+  "lessonId": "p3-the-accidental-scientist",
+  "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "mc-one",
+    "summary-input"
+  ],
+  "sourceHash": "acfd4be1a4821aa3d884914e3f65ec0ed142fc220185f033a26ced4c62437603",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.119
+}

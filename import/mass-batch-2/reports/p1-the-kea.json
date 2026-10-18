@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-kea",
+  "title": "The kea",
+  "part": 1,
+  "fingerprint": "f7fc526112b37cce4b5911c52eb8ec80dd39da0459282df164e6959a54d1eba8",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1jpq9NS2rvZxEOrrGoVfissgjBY6ELBVd",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-kea.json",
+  "lessonId": "p1-the-kea",
+  "sourceId": "1jpq9NS2rvZxEOrrGoVfissgjBY6ELBVd",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "3245bef1b10d3904f28ef286a15e81b61c613d705ae76627fc7c8d4f7a8975ac",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.094
+}

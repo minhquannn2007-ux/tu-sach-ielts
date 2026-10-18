@@ -1,0 +1,22 @@
+{
+  "job": "p3-practical-learning-in-the-classroom",
+  "title": "Practical Learning in the Classroom",
+  "part": 3,
+  "fingerprint": "861b5e6e3dc065e5a212a5c75eeaa18d5d980dec8b02cecb61bb63d3f671fb92",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1QGH4KvPWfmk21UXkXpy1bQfE-7mJb-d-",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1g5F-EBjKnWOaeKJVP6N9hxcCyf11PBXJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

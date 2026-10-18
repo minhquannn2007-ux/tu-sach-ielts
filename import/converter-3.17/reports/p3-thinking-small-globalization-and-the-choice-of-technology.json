@@ -1,0 +1,22 @@
+{
+  "job": "p3-thinking-small-globalization-and-the-choice-of-technology",
+  "title": "Thinking Small: Globalization and the Choice of Technology",
+  "part": 3,
+  "fingerprint": "c190bf31a68ba59c0f9c10ea901d20458873a7889ee13348d0a91a38642fd130",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1uFbpwIhhF6YwCAjLG9fWo8-o3ffVfbRO",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Wu5ejKHVG8bJmFbJfIRNTF6XhtHdWPTg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.086
+}

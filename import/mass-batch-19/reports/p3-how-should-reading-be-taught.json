@@ -1,0 +1,17 @@
+{
+  "job": "p3-how-should-reading-be-taught",
+  "title": "How should reading be taught",
+  "part": 3,
+  "fingerprint": "9ef63914f860c16272d654ddca88de8a842bff97cb682fc7e068f650eef80509",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'ix']; expected ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.063
+}

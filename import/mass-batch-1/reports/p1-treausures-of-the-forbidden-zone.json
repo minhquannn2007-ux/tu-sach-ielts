@@ -1,0 +1,23 @@
+{
+  "job": "p1-treausures-of-the-forbidden-zone",
+  "title": "Treausures of the forbidden zone",
+  "part": 1,
+  "fingerprint": "e81aff29514eba300c6e29209673434d7f9b97f6a240eff9123d208d3839545d",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1SPN9YEPGBjSrVS5APgt9Oip6fcTtVnZ6",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1SPN9YEPGBjSrVS5APgt9Oip6fcTtVnZ6.json",
+      "ocrConfidence": [
+        95.8,
+        96.2,
+        93.8
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.023
+}

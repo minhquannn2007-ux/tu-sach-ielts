@@ -1,0 +1,27 @@
+{
+  "job": "p3-the-peopling-of-patagonia",
+  "title": "The peopling of Patagonia",
+  "part": 3,
+  "fingerprint": "4545dc1731826de82a588da9f01134f503f4c298fbaf357355ea2663ce1dbd4d",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1f56Zz9Puy7jngNkeEUiVHizEZGQdXDHj",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1OLzsOSjk3TD5eelfUGH9kGn4gGocltnN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1HIYg-V2yHwnEWfXD7o9stxwEPOR_mbVY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.032
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-are-the-rules-of-grammar-inherited-or-learned",
+  "title": "Are the rules of grammar inherited or learned",
+  "part": 2,
+  "fingerprint": "63c3ffb4da4d5f5f08447dc7f62f97a157ff29996f84b2d19a4df5baad2c98ef",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1VUJkGnB3rlyQx7upTpgOEcmm2FbTFM1C",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-are-the-rules-of-grammar-inherited-or-learned.json",
+  "lessonId": "p2-are-the-rules-of-grammar-inherited-or-learned",
+  "sourceId": "1VUJkGnB3rlyQx7upTpgOEcmm2FbTFM1C",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "2deb975ca12eac5f8b947efab529e03fa9b8fa8b58a22e2f0b270fb7535345d8",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.058
+}

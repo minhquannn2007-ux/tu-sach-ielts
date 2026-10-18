@@ -1,0 +1,33 @@
+{
+  "job": "p2-measuring-economic-activity-from-outer-space",
+  "title": "Measuring economic activity from outer space",
+  "part": 2,
+  "fingerprint": "cd9b288f001459d487b6b9130c10406f5bb015e96f414fe9898905ab7d1c273c",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1s4G5sU4XCKwqOxfJ9FGXjl_oQO6Lt0ea",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-measuring-economic-activity-from-outer-space.json",
+  "lessonId": "p2-measuring-economic-activity-from-outer-space",
+  "sourceId": "1s4G5sU4XCKwqOxfJ9FGXjl_oQO6Lt0ea",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "f676ba61d328ad9228a0682f2b5238a9958d8d04c528d9b6abc02010765be22b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.059
+}

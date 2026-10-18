@@ -1,0 +1,33 @@
+{
+  "job": "p2-parental-involvement-programmes-in-education-a-review-of-the-literature",
+  "title": "Parental involvement programmes in education - a review of the literature",
+  "part": 2,
+  "fingerprint": "3f0d0cfa987e31d70d8859e39e585cb85d01d0dacba27c6e27136a5ed994e9ea",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1P9eskZqZm3mp6rNASeUHcA2smO9zJkKz",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-parental-involvement-programmes-in-education-a-review-of-the-literature.json",
+  "lessonId": "p2-parental-involvement-programmes-in-education-a-review-of-the-literature",
+  "sourceId": "1P9eskZqZm3mp6rNASeUHcA2smO9zJkKz",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "matching-features",
+    "mc-one"
+  ],
+  "sourceHash": "ec17ff908c50a31b64d76d7b60e6caad3fae951b544e88ddf3d0ca5a6321e051",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.048
+}

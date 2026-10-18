@@ -1,0 +1,22 @@
+{
+  "job": "p3-learning-to-be-bilingual",
+  "title": "Learning to be bilingual",
+  "part": 3,
+  "fingerprint": "5ae35c1b5511928bcacb0900a06ef7b5d6427b12078af06282543a63d71df6b6",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1kmgQnx99g4Idptu-jtWBoa8ucQ6rdZ_p",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1pmUoxE4LrzF6QHxPzBNkTatgdlY8EOzG",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.008
+}

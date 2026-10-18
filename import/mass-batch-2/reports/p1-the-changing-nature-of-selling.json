@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-changing-nature-of-selling",
+  "title": "The Changing Nature of Selling",
+  "part": 1,
+  "fingerprint": "7c13bee9eba6f2f1e6664abeaa251ba5c5a5f239740377fe1db2e41ab4124356",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1egA6zO0YQ_X31B02nmdHWqHtm2BNQCaU",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

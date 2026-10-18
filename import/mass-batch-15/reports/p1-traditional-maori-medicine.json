@@ -1,0 +1,22 @@
+{
+  "job": "p1-traditional-maori-medicine",
+  "title": "Traditional Māori Medicine",
+  "part": 1,
+  "fingerprint": "a5328c2b0aa69bbf646e84da57f630fd927bc2a09412073945073502545c4dc0",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1fT0vFW6leo1euBYzsXF-vtxpu4LOJMjs",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "19fu179w1U6BGq7tNnAZUUDd9JOcvNsmr",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.024
+}

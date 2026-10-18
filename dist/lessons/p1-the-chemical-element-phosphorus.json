@@ -1,0 +1,285 @@
+{
+  "id": "p1-the-chemical-element-phosphorus",
+  "part": 1,
+  "title": "The chemical element phosphorus",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Phosphorus was first discovered in 1669 by German physician Hennig Brand. Brand is a well- known name in chemistry as he is sometimes called the last of the alchemists. Alchemists sought a method of changing lead, iron, and other metals into gold, as well as the secret of eternal life. Alchemy was practised from around 500 BC to the late 1600s, but it contained too much magic and mysticism to be considered a real science. However, it did develop a number of scientific techniques and produced many new materials that were later found to have valuable applications in modern chemistry."
+    },
+    {
+      "text": "Brand was convinced that the key to changing metals into gold could be discovered in urine. His experiments to find such a chemical were, of course, a failure, but he made an accidental discovery along the way: in the process of heating and purifying urine, he obtained a material which mysteriously glowed green in the dark - phosphorus. In doing so, he became the first known discoverer of an element. Other elements such as gold and silver had been known since ancient times, but there is no record of who discovered them. Brand named the new substance phosphorus after the Greek for 'light bearer'. At a time when light was usually produced by burning materials, his discovery was a source of great curiosity. Although, like many alchemists, he was secretive about his methods, they eventually became widely known."
+    },
+    {
+      "text": "Other scientists began to experiment with the element, and phosphorus soon became a wonder of 17th-century European courts and fairs, with the chemiluminescent combination of phosphorus and atmospheric oxygen producing a light show no one had ever seen before or even thought possible. It was hoped that phosphorus might offer a safer alternative to candles for lighting the home, until people realised that it could catch fire spontaneously. The 17th-century chemist Nicolas Lemery discovered this for himself when, in his hurry to go out following an experiment, he left a small piece of phosphorus on a table in his house. A maid later placed some clean bed sheets on top of it, in preparation for changing the bed covers. The phosphorus got caught up in the sheets and the next occupant of the bed was lucky to escape with his life when the bed later caught fire."
+    },
+    {
+      "text": "Despite such accidents, the new element seemed to offer a path to wealth and fame, although Brand himself showed little interest in its potential. Not much is known about what happened to him after his discovery, and there is no record of where or when he died. Ten years after Brand's discovery, the Anglo-Irish philosopher, scientist, and inventor Robert Boyle added silicon dioxide to phosphorus, then coated paper with the resulting mixture. When he drew a wood splinter through the paper, it caught fire, producing the first match. He later discovered that using white phosphorus for match heads meant that a flame could be produced with only the slightest heat from friction. It was seen as a huge step forward at a time when lighting a fire was a very labour-intensive task."
+    },
+    {
+      "text": "White phosphorus (also referred to as yellow phosphorus) had been discovered by Brand, but there are other forms; red phosphorus and, the most stable form, black, or violet phosphorus. The three forms all have different physical and chemical properties. White phosphorus is a transparent solid, similar in appearance to wax. It is extremely flammable, spontaneously catching fire in temperatures above 30°C. For this reason, it has to be kept in water when not in use. Although originally used in the production of matches, it is poisonous and can cause liver damage. The first cases of phosphorus poisoning presented themselves in the 1850s, but white phosphorus continued to be used until the early 20th century, when it was finally replaced with the much safer red phosphorus that still adorns the side of match-boxes."
+    },
+    {
+      "text": "Red phosphorus is a red powder which can be made by heating white phosphorus. Although flammable, it will only ignite at temperatures above 240°C and this level of stability makes it safer to work with than white phosphorus. Interestingly, it can also be used to make products called fire retardants, which slow or stop the spread of fire."
+    },
+    {
+      "text": "In terms of appearance, properties and structure, black phosphorus, also referred to as violet phosphorus, has much in common with graphite. Black phosphorus can be synthesized from red phosphorus, under extreme pressure and high temperatures. One of the significant properties of black phosphorus is that, despite not being a metal, it can conduct electricity. In recent years, engineers have become interested in its potential use in the manufacture of electronics. It is hoped that devices could be made smaller if black phosphorus is used in their production instead of silicon."
+    }
+  ],
+  "sources": [
+    {
+      "id": "1aFtiJedvzgbrI8u-Vj5T6XplfmP9NIam",
+      "role": "passage-and-questions"
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Hennig Brand lived towards the end of the era of alchemy."
+        },
+        {
+          "n": 2,
+          "prompt": "Modern chemistry has made use of alchemists’ discoveries."
+        },
+        {
+          "n": 3,
+          "prompt": "Hennig Brand was looking for a way to produce phosphorus when he experimented with urine."
+        },
+        {
+          "n": 4,
+          "prompt": "Hennig Brand conducted experiments to try to discover why phosphorus glowed in the dark."
+        },
+        {
+          "n": 5,
+          "prompt": "Hennig Brand was keen to share his methods with other scientists."
+        },
+        {
+          "n": 6,
+          "prompt": "People in 17th-century Europe were amazed by phosphorus."
+        },
+        {
+          "n": 7,
+          "prompt": "Robert Boyle had looked for other uses of phosphorus before he invented matches."
+        }
+      ],
+      "sourceInstructions": "Do the following statements agree with the information given in Reading Passage 1? TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this"
+    },
+    {
+      "type": "notes",
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "sourceInstructions": "Complete the table below. Choose ONE WORD ONLY from the passage for each answer.",
+      "task": "table",
+      "wordLimit": "ONE WORD ONLY",
+      "table": [
+        [
+          "Form of phosphorus",
+          "Properties",
+          "Uses"
+        ],
+        [
+          "• white phosphorus",
+          "• looks like {{8}}\n\n• catches fire above 30°C, so needs to be stored under water\n\n• toxic-harmful to a person’s {{9}}",
+          "• used in matches until early 20th century"
+        ],
+        [
+          "• red phosphorus",
+          "• has greater {{10}} than white phosphorus\n\n• catches fire above 240°C",
+          "• matches\n\n• fire retardants"
+        ],
+        [
+          "• black phosphorus",
+          "• similar in many ways to {{11}}\n\n• made by applying heat and {{12}} to red phosphorus\n\n• can conduct electricity",
+          "• possible applications in the {{13}} industry"
+        ]
+      ]
+    }
+  ],
+  "key": {
+    "1": {
+      "accepted": [
+        "TRUE"
+      ],
+      "evidence": [
+        {
+          "paragraph": 0,
+          "quote": "Alchemy was practised from around 500 BC to the late 1600s"
+        }
+      ],
+      "explanation": "Brand phát hiện phosphorus năm 1669; giả kim thuật được thực hành tới cuối những năm 1600, nên ông sống vào cuối giai đoạn này."
+    },
+    "2": {
+      "accepted": [
+        "TRUE"
+      ],
+      "evidence": [
+        {
+          "paragraph": 0,
+          "quote": "valuable applications in modern chemistry"
+        }
+      ],
+      "explanation": "Đoạn đầu nói các kỹ thuật và vật liệu do giả kim thuật tạo ra về sau có ứng dụng giá trị trong hóa học hiện đại."
+    },
+    "3": {
+      "accepted": [
+        "FALSE"
+      ],
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Brand was convinced that the key to changing metals into gold could be discovered in urine"
+        }
+      ],
+      "explanation": "Ông muốn tìm chất giúp biến kim loại thành vàng trong nước tiểu. Phosphorus được phát hiện tình cờ, không phải mục tiêu ban đầu."
+    },
+    "4": {
+      "accepted": [
+        "NOT GIVEN"
+      ],
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": null
+        }
+      ],
+      "explanation": "Bài nêu chất phát sáng và việc Brand đặt tên cho nó, nhưng không nói ông làm thí nghiệm tìm nguyên nhân phát sáng."
+    },
+    "5": {
+      "accepted": [
+        "FALSE"
+      ],
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "he was secretive about his methods"
+        }
+      ],
+      "explanation": "Brand giữ bí mật về phương pháp; điều này trái với việc ông muốn chia sẻ chúng."
+    },
+    "6": {
+      "accepted": [
+        "TRUE"
+      ],
+      "evidence": [
+        {
+          "paragraph": 2,
+          "quote": "a light show no one had ever seen before or even thought possible"
+        }
+      ],
+      "explanation": "Màn phát sáng của phosphorus là điều người châu Âu chưa từng thấy hoặc nghĩ có thể xảy ra, khiến họ kinh ngạc."
+    },
+    "7": {
+      "accepted": [
+        "NOT GIVEN"
+      ],
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": null
+        }
+      ],
+      "explanation": "Bài mô tả Boyle tạo ra diêm và phát hiện sau đó; không cho biết ông tìm các ứng dụng khác trước khi phát minh diêm."
+    },
+    "8": {
+      "accepted": [
+        "wax"
+      ],
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "similar in appearance to wax"
+        }
+      ],
+      "explanation": "White phosphorus có vẻ ngoài giống wax (sáp)."
+    },
+    "9": {
+      "accepted": [
+        "liver"
+      ],
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "can cause liver damage"
+        }
+      ],
+      "explanation": "Phosphorus trắng độc và có thể gây tổn thương liver (gan)."
+    },
+    "10": {
+      "accepted": [
+        "stability"
+      ],
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "this level of stability makes it safer to work with"
+        }
+      ],
+      "explanation": "Phosphorus đỏ chỉ cháy ở nhiệt độ trên 240°C; độ stability cao hơn khiến nó an toàn hơn phosphorus trắng."
+    },
+    "11": {
+      "accepted": [
+        "graphite"
+      ],
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "has much in common with graphite"
+        }
+      ],
+      "explanation": "Phosphorus đen giống graphite về vẻ ngoài, đặc tính và cấu trúc."
+    },
+    "12": {
+      "accepted": [
+        "pressure"
+      ],
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "under extreme pressure and high temperatures"
+        }
+      ],
+      "explanation": "Cần nhiệt độ cao và pressure để tổng hợp phosphorus đen từ phosphorus đỏ."
+    },
+    "13": {
+      "accepted": [
+        "electronics"
+      ],
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "the manufacture of electronics"
+        }
+      ],
+      "explanation": "Kỹ sư quan tâm đến ứng dụng của phosphorus đen trong sản xuất electronics."
+    }
+  },
+  "cover": {
+    "asset": "assets/phosphorus-cover.jpg",
+    "alt": "Diêm có đầu phosphorus đỏ",
+    "credit": "Santeri Viinamäki",
+    "source": "https://commons.wikimedia.org/wiki/File:Matchsticks_2016-06-13.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+  }
+}

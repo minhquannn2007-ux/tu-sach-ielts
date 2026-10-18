@@ -1,0 +1,34 @@
+{
+  "job": "p2-conserving-plastic",
+  "title": "Conserving plastic",
+  "part": 2,
+  "fingerprint": "237c30728494f6fa68a5bee52e177769b2bb05ba222ab5c2f77ce359a75a314a",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1BxIauxdbo64oqFVJwnu_e8FvOH11xkN6",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-conserving-plastic.json",
+  "lessonId": "p2-conserving-plastic",
+  "sourceId": "1BxIauxdbo64oqFVJwnu_e8FvOH11xkN6",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "ae042c617e9021c67e4fe039bd4b5b8f114146c2ec8fd091956a9382f6da4301",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.045
+}

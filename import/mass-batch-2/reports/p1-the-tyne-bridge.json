@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-tyne-bridge",
+  "title": "The Tyne Bridge",
+  "part": 1,
+  "fingerprint": "f1febd9ffaa82ab3353b81c9d0e0a4b3da1f3abfacf20f0f3181ff85fc081c93",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "16XIo6LTwdr0K5OdogFqZxZ3bdmEX-Os1",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

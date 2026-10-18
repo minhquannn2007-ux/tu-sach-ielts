@@ -1,0 +1,17 @@
+{
+  "job": "p1-salt",
+  "title": "Salt",
+  "part": 1,
+  "fingerprint": "3659f363bfa545e1ac261d1bca28bad26031e8ebd4568fa17b7ff7ab4c021667",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1jg-k3R3Mvn5PKIm_FWvZ_1eqDwhlS-kV",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

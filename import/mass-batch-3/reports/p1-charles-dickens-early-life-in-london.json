@@ -1,0 +1,32 @@
+{
+  "job": "p1-charles-dickens-early-life-in-london",
+  "title": "Charles Dickens' early life in London",
+  "part": 1,
+  "fingerprint": "6b247624066f1be28efd53dea8c1d2830541024f303f945a1fd95d85fbc6b47a",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1XFE5MXcv-AG27AecomEXSTUgiocccqvb",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-charles-dickens-early-life-in-london.json",
+  "lessonId": "p1-charles-dickens-early-life-in-london",
+  "sourceId": "1XFE5MXcv-AG27AecomEXSTUgiocccqvb",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "2e1127f79fd1d4d1fb903ef568445fac2c6b5768039a5cf4331cb87c04c9e2b7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.089
+}

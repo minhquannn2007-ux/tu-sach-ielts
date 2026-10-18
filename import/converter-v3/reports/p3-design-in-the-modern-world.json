@@ -1,0 +1,33 @@
+{
+  "job": "p3-design-in-the-modern-world",
+  "title": "Design in the modern world",
+  "part": 3,
+  "fingerprint": "190539f385123122b7146e91be25242e870e7c825769ba30f21abea405fedaaa",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1p3scRq777TTep3EGcgT4-VBN8bvUsAM2",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-design-in-the-modern-world.json",
+  "lessonId": "p3-design-in-the-modern-world",
+  "sourceId": "1p3scRq777TTep3EGcgT4-VBN8bvUsAM2",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "36a3ce405856cfcd5007664d7c940d41b667abab5d8317b43ad4c22330649192",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.075
+}

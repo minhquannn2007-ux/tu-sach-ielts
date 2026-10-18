@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-oldest-leather-shoe",
+  "title": "The Oldest Leather Shoe",
+  "part": 1,
+  "fingerprint": "834a037611b7a437a3acb3e7d01ff56b91038a516edb3fc80e1b1eef0d931a71",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co.json",
+      "ocrConfidence": [
+        96.2,
+        96.2,
+        90.0,
+        95.7
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.023
+}

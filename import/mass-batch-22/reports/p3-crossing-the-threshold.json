@@ -1,0 +1,33 @@
+{
+  "job": "p3-crossing-the-threshold",
+  "title": "Crossing the Threshold",
+  "part": 3,
+  "fingerprint": "0736f49bc3c15fecad6368c084a1d1de8aeac21f36cf7e610b54395f8d0a4e14",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-crossing-the-threshold.json",
+  "lessonId": "p3-crossing-the-threshold",
+  "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "matching-endings"
+  ],
+  "sourceHash": "459b50e51bec13b96660b7ccaab620ab6bd6eae23181cdda9c6311ce13e42ded",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.097
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-children-and-symbols",
+  "title": "Children and Symbols",
+  "part": 3,
+  "fingerprint": "6b7994d92ff2b0e79cd70fac3a6dfa287056c4090506a1d437b99a17ff2d097e",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1uF-3UlqTBXuMR1NLH6GjugqWxGawhdsC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

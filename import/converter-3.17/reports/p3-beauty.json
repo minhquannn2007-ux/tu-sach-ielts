@@ -1,0 +1,22 @@
+{
+  "job": "p3-beauty",
+  "title": "Beauty",
+  "part": 3,
+  "fingerprint": "51e78397ebfe0793da8d7498ff8716df7c2e7d7c6c027381f953a84704f664b5",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1xlJ6nIE7vezbtKr1lt-JGX7dGCValUiA",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    },
+    {
+      "sourceId": "1g3Rhw3XC9X4xRN_zPWtdFzwvJPWV0sd7",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.075
+}

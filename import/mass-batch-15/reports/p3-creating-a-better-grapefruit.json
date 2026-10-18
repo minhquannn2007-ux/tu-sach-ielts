@@ -1,0 +1,17 @@
+{
+  "job": "p3-creating-a-better-grapefruit",
+  "title": "Creating a Better Grapefruit",
+  "part": 3,
+  "fingerprint": "c2514682549dbe3344c0a8b92c88b84aae63c5b7da3cc48f7ade4200e37f439d",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1VBOx4wqp_BHVGV4eYvZ4GSq-BoOs1Njd",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p1-city-transport-uneven-progress",
+  "title": "CITY TRANSPORT: UNEVEN PROGRESS",
+  "part": 1,
+  "fingerprint": "36e24ad3b4fdcd41f907be052ef67fa188f5ffa085095ed3d187ecd3488a74cb",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "14-GYMVNLSjwmz5cHyPDXAqcNY7yhpx9v",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1ArOb8SKlAyu52lTCV5yuu-L1glXSL1Bz",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

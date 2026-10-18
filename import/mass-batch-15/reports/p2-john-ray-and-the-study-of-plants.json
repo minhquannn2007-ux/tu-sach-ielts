@@ -1,0 +1,33 @@
+{
+  "job": "p2-john-ray-and-the-study-of-plants",
+  "title": "John Ray and the Study of Plants",
+  "part": 2,
+  "fingerprint": "89179985c60a3a7dbf686e18a9211abc3dde3bcf89d0a300fd40aedc36d969be",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1yeEkUwp4PEMWXReaKadNSyDu5l5E8zlR",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-john-ray-and-the-study-of-plants.json",
+  "lessonId": "p2-john-ray-and-the-study-of-plants",
+  "sourceId": "1yeEkUwp4PEMWXReaKadNSyDu5l5E8zlR",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "mc-two"
+  ],
+  "sourceHash": "47e48d3658895d5d9d218840efb5721b4ed8b00594553c9bdf07c52ef18f153b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.063
+}

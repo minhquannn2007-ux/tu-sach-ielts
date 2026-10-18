@@ -1,0 +1,383 @@
+[
+  {
+    "job": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-an-experiment-to-investigate-the-nature-of-language-ability.json",
+    "reasons": [
+      {
+        "sourceId": "1BQW5oUMU2hvVxpMVWyTDRdV9Ct2nApzY",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-development-of-libraries-in-australia",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-development-of-libraries-in-australia.json",
+    "reasons": [
+      {
+        "sourceId": "1g9ihGt255Y8Nqel7GT4OtrbhEWlR30b0",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-discovering-ancient-cities",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-discovering-ancient-cities.json",
+    "reasons": [
+      {
+        "sourceId": "1TW6fXYSCd2XVz3OdOiaT2Vs-atSd-a0P",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-how-deserts-grow",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1pLaZxLfcZKm0Axcb6oxx1O4MJvmzoF9j",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-learning-about-the-moa",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK.json",
+        "ocrConfidence": [
+          80.1,
+          84.4,
+          81.7,
+          86.4
+        ]
+      },
+      {
+        "sourceId": "1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm.json",
+        "ocrConfidence": [
+          68.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-new-understanding-of-giraffes-in-the-wild",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-new-understanding-of-giraffes-in-the-wild.json",
+    "reasons": [
+      {
+        "sourceId": "1ARBxA04iQq4GQF2gSSNl_WZmJ0tYscG0",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-chemical-element-phosphorus",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1aFtiJedvzgbrI8u-Vj5T6XplfmP9NIam",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-development-of-the-advertising-industry-in-new-zealand",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-development-of-the-advertising-industry-in-new-zealand.json",
+    "reasons": [
+      {
+        "sourceId": "1eVZ95Oktcu6FHyfPS9_dqATGBDflD9gf",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-secret-of-a-long-life",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-secret-of-a-long-life.json",
+    "reasons": [
+      {
+        "sourceId": "14UV-ZkGPfaxqWQwqL5B1ZW6zcpvhkljc",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-an-australian-tree-abroad",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-an-australian-tree-abroad.json",
+    "reasons": [
+      {
+        "sourceId": "18DeR_BdoYo4TRplUNwu8kbi9rB5QCWgr",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-ancient-treasures",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH.json",
+        "ocrConfidence": [
+          92.5,
+          77.3,
+          84.3,
+          87.9
+        ]
+      },
+      {
+        "sourceId": "16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83.json",
+        "ocrConfidence": [
+          86.2,
+          0.0,
+          79.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p2-birds-in-the-city",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-birds-in-the-city.json",
+    "reasons": [
+      {
+        "sourceId": "1lwa7FKpp9zZ5tDqW5WUSgiO0SDoT9CVS",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-catch-of-the-day",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-catch-of-the-day.json",
+    "reasons": [
+      {
+        "sourceId": "1Xev7BB-nQ0vSEAvJhMBSxE_Na0Sfm1jE",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-conserving-plastic",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-conserving-plastic.json",
+    "reasons": [
+      {
+        "sourceId": "1BxIauxdbo64oqFVJwnu_e8FvOH11xkN6",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-digital-analysis-of-literature",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "source-content: Q20–23 discuss workplaces rather than the passage; compare another version"
+      }
+    ]
+  },
+  {
+    "job": "p2-influences-on-child-development",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1qL903OIO9wcM6XI3D83D3K8n8CW18yLS",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-collective-evolution-of-tangle-web-spiders",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-collective-evolution-of-tangle-web-spiders.json",
+    "reasons": [
+      {
+        "sourceId": "1hw2ljvyqFxAewSDHoqiqVzZKkJ7I3b_S",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-use-of-dietary-supplements",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-use-of-dietary-supplements.json",
+    "reasons": [
+      {
+        "sourceId": "1jTMDqIaIUmQuBIYrRTNxmujIjngbOg06",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-book-review-architecture-in-the-united-states",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-book-review-architecture-in-the-united-states.json",
+    "reasons": [
+      {
+        "sourceId": "1cLpoxkqyiiBwhm8eKAI-LXGVuRzDxG5A",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-design-in-the-modern-world",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-design-in-the-modern-world.json",
+    "reasons": [
+      {
+        "sourceId": "1p3scRq777TTep3EGcgT4-VBN8bvUsAM2",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-expansion-of-the-worlds-deserts",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-patterns-of-nature",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-songs-of-ourselves",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-songs-of-ourselves.json",
+    "reasons": [
+      {
+        "sourceId": "1uRKqEx2r5d0sy_ixovO5wQ_Mj2bCA9ZM",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-beginnings-of-modern-cognition",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "source-content: damaged sentence around symbolic thinking; compare another version"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-contentious-role-of-public-art",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-contentious-role-of-public-art.json",
+    "reasons": [
+      {
+        "sourceId": "1mC0v-za4JdQMY8DuMrZEgviOc3K4zaKe",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-future-of-work",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-future-of-work.json",
+    "reasons": [
+      {
+        "sourceId": "1egnRt7SVse41407gRWIBgT0tXJ9c6tWk",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-traffic-congestion-possible-solutions-to-an-increasing-problem",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "19SLwcY26ma_rM65fzcfukkXzV364d_E5",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/19SLwcY26ma_rM65fzcfukkXzV364d_E5.json",
+        "ocrConfidence": [
+          95.6,
+          94.4,
+          94.2,
+          87.0,
+          94.8
+        ]
+      },
+      {
+        "sourceId": "1MSi7UciIvrBTgq3YAkcmWBbvO979xsol",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1MSi7UciIvrBTgq3YAkcmWBbvO979xsol.json",
+        "ocrConfidence": [
+          81.1,
+          95.2,
+          88.8,
+          91.3,
+          92.4
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-future-of-work",
+  "title": "The future of work",
+  "part": 3,
+  "fingerprint": "a09eb465dd05baa9227d0e9afd2673608272c0b63fecb8cfdfde1587124cbfb8",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1egnRt7SVse41407gRWIBgT0tXJ9c6tWk",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-future-of-work.json",
+  "lessonId": "p3-the-future-of-work",
+  "sourceId": "1egnRt7SVse41407gRWIBgT0tXJ9c6tWk",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "mc-one",
+    "ynng"
+  ],
+  "sourceHash": "dc5d6e6f4d71f0e29bc44082b87f021b5bab83dcc69fe057bfe075d806ca0468",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p1-tikopia",
+  "title": "Tikopia",
+  "part": 1,
+  "fingerprint": "033cba4bf13fe923ef9ae7646fbe09a94bf2c0c49ebd94b49054a70bc7ba6086",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1g0X26MDPKdqrZQNGeACeocPLm_vIFLZA",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.042
+}

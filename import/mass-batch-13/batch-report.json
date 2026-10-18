@@ -1,0 +1,591 @@
+{
+  "converterVersion": "3.13",
+  "selected": 24,
+  "cachedSources": 26,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 10,
+    "held": 14,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "seconds": 0.328,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+      "title": "Canal discovered at ancient quarry in Egypt",
+      "part": 2,
+      "fingerprint": "2252d4ee5996d7aab5726e3e0e07900ae9c12b6d61c264592091410bdb943d8d",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1Q41wGQx_co85QFleSKQeO1zISQxqdeha",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.049
+    },
+    {
+      "job": "p2-ideal-homes-chua-rep",
+      "title": "Ideal Homes (CHƯA REP)",
+      "part": 2,
+      "fingerprint": "0873c420f8954cd1ba5e2097ce7d7d9b0e9bb76af394ffc13341b1cdbfab0a60",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1DhzOsN6x4qE7wQ0Ghz-aNxmL-GolhDgH",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-keeping-an-eye-on-shoppers",
+      "title": "Keeping an eye on shoppers",
+      "part": 2,
+      "fingerprint": "7a3d96e37b83971bee95be8ca6fa1c478cb5aef7f2c57a2dc85da0aae244bb44",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1icMTjh7frGLtOdQ9LcTrISqdqJkAB_Kz",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-keeping-an-eye-on-shoppers.json",
+      "lessonId": "p2-keeping-an-eye-on-shoppers",
+      "sourceId": "1icMTjh7frGLtOdQ9LcTrISqdqJkAB_Kz",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "4a5f21ff903751488e83893bf880c7e979de4881ca3d4ad037f44f9954bb3f13",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.054
+    },
+    {
+      "job": "p2-keeping-the-water-away",
+      "title": "Keeping the water away",
+      "part": 2,
+      "fingerprint": "b7585cb7ebb3271d43c37b30a93fd07a6b6435fba1589de0c754b2effee08b46",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1m1wR60BszZyXPihceOcOAGya9_rO7QcK",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-learning-to-sing",
+      "title": "Learning to sing",
+      "part": 2,
+      "fingerprint": "b48703ccb51156962cbbf5d99363e20068b048f8f2e046c749a78ee6635128c1",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1VqxRH7VQdvXa3DepWjnEMzsZscRonIoF",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-learning-to-sing.json",
+      "lessonId": "p2-learning-to-sing",
+      "sourceId": "1VqxRH7VQdvXa3DepWjnEMzsZscRonIoF",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "cb6966b1a0b7f8cbd51770b1d9365fbccbf113c95cfcecc0ec30d066dffca6fa",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.081
+    },
+    {
+      "job": "p2-our-sense-of-smell",
+      "title": "Our Sense of Smell",
+      "part": 2,
+      "fingerprint": "256d0ace64c024f0a03beec3b25f4ef8934226a7f4f8c18c34c2c57f2babd903",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.055
+    },
+    {
+      "job": "p2-playing-soccer",
+      "title": "Playing soccer",
+      "part": 2,
+      "fingerprint": "7efcdbf00b7334665e9e1cc1e068ef4993d8d39cc2f8d72effc7b35d5a1f3f87",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1vkRFRwvbYZ1tyCN1Yx90Am6c6xinja28",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-fashion-industry",
+      "title": "The fashion industry",
+      "part": 2,
+      "fingerprint": "a87382c466cc6dae72790d3beb40315dbee78ae24fd063068c8a9024bfebf8f0",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1jjjDfkjkc2r-e5Ma6xA5EJ-8jkqd9tcr",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-the-gender-gap-in-new-zealands-high-school-examination-results",
+      "title": "The gender gap in New Zealand’s high school examination results",
+      "part": 2,
+      "fingerprint": "194cb95d38de35c2aaa5edee114e352a88786c657c8c43d82e30294671c54e8a",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1asKvRVjrz0fecKQwKc9z7xLBNsm-6yHG",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-gender-gap-in-new-zealands-high-school-examination-results.json",
+      "lessonId": "p2-the-gender-gap-in-new-zealands-high-school-examination-results",
+      "sourceId": "1asKvRVjrz0fecKQwKc9z7xLBNsm-6yHG",
+      "questionCount": 13,
+      "types": [
+        "summary-input",
+        "matching-info",
+        "matching-features"
+      ],
+      "sourceHash": "594f7f6261ef2e0c787ce3cee699e83ccf80489ea21c39464594380dbed4f6da",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.067
+    },
+    {
+      "job": "p2-the-importance-of-the-human-urge-to-move",
+      "title": "The importance of the human urge to move",
+      "part": 2,
+      "fingerprint": "f2d2a15e55629c5e21d386fee7a13b9f63bc6330b16cfe3a250f6f4796cfaa22",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1wOcUR85D1QjOmti6f43AzOoa_8xydVse",
+          "code": "paragraph-labels",
+          "message": "Missing or repeated paragraph labels"
+        },
+        {
+          "sourceId": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.071
+    },
+    {
+      "job": "p2-the-link-between-culture-and-thought",
+      "title": "The Link between Culture and Thought",
+      "part": 2,
+      "fingerprint": "39cb5bd944a945ba9be62bf3ba12fa48dcbffaee17659e6c6b005892a6a6633d",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1_W9TJOH87wC5Pet9STmvxIM6xbmHsyRM",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-link-between-culture-and-thought.json",
+      "lessonId": "p2-the-link-between-culture-and-thought",
+      "sourceId": "1_W9TJOH87wC5Pet9STmvxIM6xbmHsyRM",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "3b2f053010610971c9187e1b4862787a6ca6d118f0ede3fc364f7fb496aac5da",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.052
+    },
+    {
+      "job": "p2-the-power-of-music",
+      "title": "The power of music",
+      "part": 2,
+      "fingerprint": "ab705fc7adeb9faa986db7405910d55f3314253ee01f49510d80f4421a335524",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1Ww8os6MqXqnNXqzlyfa5irpk152CQpJ0",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-power-of-music.json",
+      "lessonId": "p2-the-power-of-music",
+      "sourceId": "1Ww8os6MqXqnNXqzlyfa5irpk152CQpJ0",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "7d3b2fac1c374a4787c72df2a1b8af2959eb1814d97bf0c28dcaba0a55227640",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.055
+    },
+    {
+      "job": "p2-the-problem-of-waste-in-the-21st-century",
+      "title": "The problem of waste in the 21st century",
+      "part": 2,
+      "fingerprint": "ee39600fb8a277a5fdf5bcd4c9a7c5d3387c1a157c277996a1c59c9062095707",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1HjY-wIl_QdsRnTj0OfzqB3sC7MGyDtwI",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-problem-of-waste-in-the-21st-century.json",
+      "lessonId": "p2-the-problem-of-waste-in-the-21st-century",
+      "sourceId": "1HjY-wIl_QdsRnTj0OfzqB3sC7MGyDtwI",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "139f278ae46e1ffceebfea79b0dda9f7f8747291d55f92323cd9e8333a498271",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.05
+    },
+    {
+      "job": "p2-the-return-of-monkey-life",
+      "title": "The return of monkey life",
+      "part": 2,
+      "fingerprint": "7950c2c1767ef5e9c281d232e04cd0699650dcf16ec6004962ccf7d45fd714e2",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "17krp0OLjiCTw2fpdQp6V_FV1NiTcEkIF",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-return-of-monkey-life.json",
+      "lessonId": "p2-the-return-of-monkey-life",
+      "sourceId": "17krp0OLjiCTw2fpdQp6V_FV1NiTcEkIF",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "72da60256886f6f352521370f329972c0a577a1da59662a50b9e33b661456775",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.066
+    },
+    {
+      "job": "p3-a-digital-cinema-of-the-mind",
+      "title": "A Digital Cinema of the Mind",
+      "part": 3,
+      "fingerprint": "b89380a808e530b30191ba5d253b35b1afc2be7ba02ca315bdcde42621661c71",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.058
+    },
+    {
+      "job": "p3-facial-expressions",
+      "title": "Facial Expressions",
+      "part": 3,
+      "fingerprint": "93a150d86d9a80986b7c1a5ed4d416fe930b18ea4606254e624a6ac32ab5159b",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1mhXXgFDQt3KU29vrrQHC1F97dTf8Jx_k",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-facial-expressions.json",
+      "lessonId": "p3-facial-expressions",
+      "sourceId": "1mhXXgFDQt3KU29vrrQHC1F97dTf8Jx_k",
+      "questionCount": 14,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "fd3ee8c7dd471ad6b4bddf3140f9109e5a76840c9fbb7a658f6fdfe6b40eb0c5",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.069
+    },
+    {
+      "job": "p3-marine-diversity",
+      "title": "Marine diversity",
+      "part": 3,
+      "fingerprint": "35e73b793e17d2f58a86a258f1adb2a77bd322c57ba9f6bb87cf3a105422306e",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "15Oh7N9LhYGVoKvU_yjFnKtXEbh4I9Yp8",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.052
+    },
+    {
+      "job": "p3-marketing-and-the-information-age",
+      "title": "Marketing and the information age",
+      "part": 3,
+      "fingerprint": "703bc98f36fd0b542a6860572f7c93b56a18db8faa8bcfed3e23df1c518a4a09",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1KZMltn_JvyKOqLNWevY9R8Qavw1XTUzh",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-memory-champions-or-just-good-at-tricks",
+      "title": "Memory Champions or just good at tricks",
+      "part": 3,
+      "fingerprint": "f2f673f9d8bd7f9377c64b07b495feb72336a02a4e7c8814a565dade6928b811",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "181b0TZaKXcLZzvy4tS97_b6684sXPClt",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.076
+    },
+    {
+      "job": "p3-movement-underwater",
+      "title": "Movement Underwater",
+      "part": 3,
+      "fingerprint": "bc3e7d36f68a8d4f2b65eeebfda9ece020964a2878775f1d31f46165e7a70c7f",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1G4leBrFHGqSLoiRyK3Dw5JEY9DBaTpJ6",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.104
+    },
+    {
+      "job": "p3-planets-without-suns",
+      "title": "Planets without suns",
+      "part": 3,
+      "fingerprint": "1eee85fa049be581d063dbde0e90c92cc53faf00539e99545f54dbce967f5f34",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1XOtrU5FqCe0bHPte0FMxJEeavANQLoYP",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-planets-without-suns.json",
+      "lessonId": "p3-planets-without-suns",
+      "sourceId": "1XOtrU5FqCe0bHPte0FMxJEeavANQLoYP",
+      "questionCount": 14,
+      "types": [
+        "matching-info",
+        "tfng",
+        "summary-input"
+      ],
+      "sourceHash": "6da5dec61f218379281bd3873f277afc77563610a54e6b3ade1998add732f651",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.052
+    },
+    {
+      "job": "p3-saving-languages",
+      "title": "Saving languages",
+      "part": 3,
+      "fingerprint": "953919146e9569a10ca6d2412881d403881c369d461b4febf6d087780f54b763",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1yT_9euiR0g3L4-20IFI2oh4ucEiyk349",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.001
+    },
+    {
+      "job": "p3-sea-change-for-salinity",
+      "title": "Sea Change for Salinity",
+      "part": 3,
+      "fingerprint": "203cd3f70c7c0206863c0cfd34a77b8284b07861e09e789dc5946125f9ab2b57",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1vMcKtXOzujyxvb7mVgNz-pF99hA-k6mw",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-sea-change-for-salinity.json",
+      "lessonId": "p3-sea-change-for-salinity",
+      "sourceId": "1vMcKtXOzujyxvb7mVgNz-pF99hA-k6mw",
+      "questionCount": 14,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "mc-one"
+      ],
+      "sourceHash": "13e954ab3c478460a8b7a14ad31c092845efa76afe9ac2c25f773d73f6437f43",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.05
+    },
+    {
+      "job": "p3-the-accidental-scientist",
+      "title": "The Accidental Scientist",
+      "part": 3,
+      "fingerprint": "3ba4c92fe959e641f12498fb2dfc22a8cac9184219f9ea62ffad6ae4f2fda5ba",
+      "converterVersion": "3.13",
+      "attempts": [
+        {
+          "sourceId": "1TrLJhCVQmEvxhtKKJ7q6VKq8rvpN9yn4",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.001
+    }
+  ],
+  "published": 0
+}

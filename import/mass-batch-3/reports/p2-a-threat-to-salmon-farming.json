@@ -1,0 +1,33 @@
+{
+  "job": "p2-a-threat-to-salmon-farming",
+  "title": "A threat to salmon farming",
+  "part": 2,
+  "fingerprint": "fe28c41be2c2a303fda89ba9fa7c548595fe4c8efcb0f0d7d63177198bfcb1e4",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1IfMS2EWyfXqPcLiYSGWPndHMtSY5Esuc",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-a-threat-to-salmon-farming.json",
+  "lessonId": "p2-a-threat-to-salmon-farming",
+  "sourceId": "1IfMS2EWyfXqPcLiYSGWPndHMtSY5Esuc",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "f6aa4a4385e236d74a6c037d614a580538304a425fd92b451b5905f653e89c97",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

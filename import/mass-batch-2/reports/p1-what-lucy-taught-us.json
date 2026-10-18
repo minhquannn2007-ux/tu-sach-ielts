@@ -1,0 +1,17 @@
+{
+  "job": "p1-what-lucy-taught-us",
+  "title": "What Lucy Taught Us",
+  "part": 1,
+  "fingerprint": "db2c73fed55f5f254f6e39f5e53a50542213a1cbd360a6367c5aabf185b34e3c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "13Hnjhz9zPDXpNT4QpT_cMQrIjEqh9SI7",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-no-title-about-sea",
+  "title": "No title - about sea",
+  "part": 3,
+  "fingerprint": "31b52b07b6b43762533d3fd1a789db820f3def580782338882684b6079e6d4fd",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1nXXhz2fRDMwvn2oHTwf-ManGSmf7DKmK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

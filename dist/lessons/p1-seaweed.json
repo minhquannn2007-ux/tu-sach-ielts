@@ -1,0 +1,315 @@
+{
+  "id": "p1-seaweed",
+  "part": 1,
+  "title": "Seaweed",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Seaweed, a common plant that grows in the sea, has been an important food, fuel, and fertilizer since prehistoric times. For example, it has supplemented the diet of sheep in the Orkneys, islands off the coast of Scotland, since Neolithic times, roughly 5,000 years ago. In the early part of the 8th century in Japan, seaweed was already such a key part of people’s regular diet that legislation was introduced giving people the right to pay their taxes to the Emperor in the form of seaweed."
+    },
+    {
+      "text": "The oldest evidence of seaweed use was found in South America, dating from 12,500 years ago. The remains of red seaweed mixed with a medicinal herb were discovered on the floor of a medicine hut at Monte Verde, Chile, one of the oldest human habitation sites in the Americas. The Monte Verde findings led to a re-evaluation of the importance of plants to the communities of that region. It was previously believed that their diet was predominantly meat-based, and therefore reliant on the hunting skills of men. However, these findings suggest that women, known to be responsible for the gathering of plants such as seaweed, also played an important part in the provision of food."
+    },
+    {
+      "text": "The first recorded commercial use of seaweed in Europe was in the 17th century in France and Norway. Coastal populations, mainly farmers, gathered and burnt seaweed to produce potash, a substance which is used in the production of glass and soap. In 1800, Norway exported 1,500 tonnes of potash."
+    },
+    {
+      "text": "Simple seaweed cultivation techniques were first developed in Japan in the mid-17th century and became increasingly popular over the next three centuries. In 1948, however, a series of typhoons combined with increased pollution in coastal waters led to a total collapse in Japanese production of nori, the type of seaweed used to make sushi. And because almost nothing was known about its life cycle, no one could figure out how to grow new plants from scratch to repopulate the depleted seaweed beds. The country’s nori industry ground to a halt, and many farmers lost their livelihoods."
+    },
+    {
+      "text": "It was a British scientist, Dr Kathleen Drew-Baker, who was credited with saving Japan’s seaweed farming industry. Based at Manchester University in the 1940s, she was studying a seaweed called laver, which is the Welsh equivalent of nori. In 1949, she published a paper outlining her discovery that certain tiny algae were actually baby seaweed, rather than an entirely separate species, as had previously been thought. After reading her research, Japanese scientists quickly developed methods for seeding these tiny algae artificially so that new plants could be grown. This made the mass production of nori possible. Although hardly anyone has heard of Dr Drew-Baker in the UK, she is known as the ‘Mother of the Sea’ in Japan, and a statue of her can be found in the Japanese city of Osaka."
+    },
+    {
+      "text": "In the United States, Professor Charles Yarish of the University of Connecticut should probably be called the ‘Father of the Sea’ for his work on kelp, a large brown seaweed. The renowned scientist, who has been studying the biology of seaweed since the early 1970s, recently turned his attention to the development of revolutionary techniques for the harvesting of this species. Yarish has helped make it an economically viable crop for the New England fishermen whose livelihoods were threatened by a combination of overfishing, pollution, and warming waters."
+    },
+    {
+      "text": "As the world population grows and the climate changes, there is increased interest from businesses and development organizations in the use of seaweed for food and energy. Seaweed, which can grow rapidly and efficiently, provides plant-based proteins, and could also be used as a source of biofuels to replace fossil fuels. Its ability to absorb a number of environmentally unfriendly chemicals discharged by farms, factories, and wastewater treatment plants also makes it valuable as a means of reducing pollution."
+    },
+    {
+      "text": "Seaweed cultivation in Asia has grown from the late 1950s into an industry offering sustainable employment in developing and emerging economies in many countries, notably Indonesia and China. However, seaweed farming is not very well developed in Europe, and the industry still relies on the harvesting, either manually or mechanically, of wild seaweed. The main constraints on the development of seaweed farming in Europe have been the lack of markets and the relative expense of European production compared to Asian production."
+    },
+    {
+      "text": "A 2016 report from the World Bank estimates that annual global seaweed production could reach 500 million dry tons by 2050 if the industry is able to increase its harvest by 14% per year. Hitting that 500 million marks would boost the world’s food supply by 10% from the current level, generating 50 million jobs in the process. As a biofuel for vehicles, it could also replace about 1.5% of the fossil fuels used today."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 5 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-5 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Seaweed has been used to feed animals on some Scottish islands for thousands of years."
+        },
+        {
+          "n": 2,
+          "prompt": "In the 8th century in Japan, eating seaweed was reserved for special occasions."
+        },
+        {
+          "n": 3,
+          "prompt": "The findings at Monte Verde revealed new information about the significance of women's roles in prehistoric times."
+        },
+        {
+          "n": 4,
+          "prompt": "Potash was Norway's largest export in the 1800s."
+        },
+        {
+          "n": 5,
+          "prompt": "Dr Kathleen Drew-Baker is more famous in Japan than she is in the UK."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 6 – 13 Complete the notes below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answer in boxes 6-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "noteLayout": {
+        "title": null,
+        "titleAlign": "left",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Japanese seaweed industry",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "was destroyed by pollution and {{6}} in 1948"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "recovered as a result of Kathleen Drew-Baker's research into {{7}} , a seaweed"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "species similar to nori"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.05,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "Seaweed farming in the USA",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 2.29
+          },
+          {
+            "runs": [
+              {
+                "text": "new methods have resulted in the type of seaweed called {{8}} becoming a"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "successful crop"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "has provided an alternative source of income for {{9}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Seaweed production in the future",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 2.37
+          },
+          {
+            "runs": [
+              {
+                "text": "may be used to minimise the harmful effects of various {{10}} produced by different"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "industries"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "the cost of production and shortage of {{11}} may be preventing growth of the"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "industry in Europe"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "could create very large numbers of new {{12}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "could be used instead of oil to power a small percentage of {{13}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.63,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": null,
+      "content": [
+        "Japanese seaweed industry",
+        "was destroyed by pollution and {{6}} in 1948",
+        "recovered as a result of Kathleen Drew-Baker's research into {{7}} , a seaweed species similar to nori",
+        "Seaweed farming in the USA",
+        "new methods have resulted in the type of seaweed called {{8}} becoming a successful crop",
+        "has provided an alternative source of income for {{9}}",
+        "Seaweed production in the future",
+        "may be used to minimise the harmful effects of various {{10}} produced by different industries",
+        "the cost of production and shortage of {{11}} may be preventing growth of the industry in Europe",
+        "could create very large numbers of new {{12}}",
+        "could be used instead of oil to power a small percentage of {{13}}"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1kmtJWBcOJmqIx7drlhZPJZIyDDW7VGGm",
+      "role": "passage-and-questions",
+      "sha256": "fab818aba5338d6884da72bf7a24aa5bb776a1a3dc04cc5e5f1f46701d03730e",
+      "name": "Seaweed.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.6",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-seaweed"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch3-seaweed-cover.jpg",
+    "alt": "Rong biển",
+    "credit": "Kristin Hoel",
+    "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-3-2026-10-12",
+    "checks": [
+      "native text comparison",
+      "title subtitle and first-paragraph visual review",
+      "source note layout review",
+      "source footnotes",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

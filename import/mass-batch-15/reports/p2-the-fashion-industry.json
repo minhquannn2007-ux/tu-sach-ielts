@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-fashion-industry",
+  "title": "The fashion industry",
+  "part": 2,
+  "fingerprint": "ef548b4ad70ca8741964affdbe7b2a64d6c9c7e3c5f1c0956d2a613927358599",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1w5ik9cI2TZ6Y7Uppm8KVnGJBkWFksDGd",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-fashion-industry.json",
+  "lessonId": "p2-the-fashion-industry",
+  "sourceId": "1w5ik9cI2TZ6Y7Uppm8KVnGJBkWFksDGd",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "mc-two"
+  ],
+  "sourceHash": "21ef3ef2c8e9e974879b2b546abad9b78284a1725f53f9f4998d08153659ccc2",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

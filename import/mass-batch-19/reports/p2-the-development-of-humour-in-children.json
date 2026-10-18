@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-development-of-humour-in-children",
+  "title": "The development of humour in children",
+  "part": 2,
+  "fingerprint": "495d5470ddf2493961aebb0843e9f1d1428b595d2f6917aaaf42131a808a4604",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1S47jcBmRuNXxNxjtCvVKqL_6ORj7AisZ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-development-of-humour-in-children.json",
+  "lessonId": "p2-the-development-of-humour-in-children",
+  "sourceId": "1S47jcBmRuNXxNxjtCvVKqL_6ORj7AisZ",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "mc-two"
+  ],
+  "sourceHash": "5c5e6eeb062a0fa516c8c63ca02deb5439df52fd25dbc404299a1caf20534b18",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.057
+}

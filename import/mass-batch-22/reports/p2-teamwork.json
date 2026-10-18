@@ -1,0 +1,33 @@
+{
+  "job": "p2-teamwork",
+  "title": "Teamwork",
+  "part": 2,
+  "fingerprint": "861c263c14a0daf1d680b4488a9a6adf93321172c92c652e7e9abfcc6bfa86d7",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "16my8G0aDQxAin-6C7_2bXi0xsPiI_zVv",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-teamwork.json",
+  "lessonId": "p2-teamwork",
+  "sourceId": "16my8G0aDQxAin-6C7_2bXi0xsPiI_zVv",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "bc831c7bcf4f90f2df5b431538809b55b4645a013e32ce3d2e71463cf1014677",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.125
+}

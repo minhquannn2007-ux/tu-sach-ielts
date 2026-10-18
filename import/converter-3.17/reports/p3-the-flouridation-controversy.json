@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-flouridation-controversy",
+  "title": "The flouridation controversy",
+  "part": 3,
+  "fingerprint": "78d769e3db70636e116e0da61a06edf946c0ca495fa1271282234eb7f8f73f20",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1hMJPuCxJLg07OtZfDflsjmzI5LRSfT2H",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1h5wynQ8QHlMSIN68n3x1IStNaTQbm0Qh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

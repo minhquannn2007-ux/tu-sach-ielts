@@ -1,0 +1,17 @@
+{
+  "job": "p1-learning-about-the-moa",
+  "title": "Learning about the Moa",
+  "part": 1,
+  "fingerprint": "cdb8252cf41cd8fe76139d755844832de63eb4bc554645f715a4510768d7270e",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

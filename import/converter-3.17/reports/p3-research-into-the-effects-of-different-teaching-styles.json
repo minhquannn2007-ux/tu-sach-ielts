@@ -1,0 +1,17 @@
+{
+  "job": "p3-research-into-the-effects-of-different-teaching-styles",
+  "title": "Research into the effects of different teaching styles",
+  "part": 3,
+  "fingerprint": "4c7c172fdf4fe58f73f6ba326382a417c2a28882e34fe0933bcb9eae32ddd4ee",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1uvWuoXUD6xyZFxFibug5wFicetQXGkfd",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['C', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.06
+}

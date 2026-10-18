@@ -1,0 +1,32 @@
+{
+  "job": "p1-studies-in-the-history-of-art-and-visual-culture",
+  "title": "Studies in the History of Art and Visual Culture",
+  "part": 1,
+  "fingerprint": "2661fa0f90486dc2fbcaa97baa77151741b2e9aeccc9f1a2c9712809ae22aaa1",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1u3i6EFCqwiOQTnV-uz2PJ2kwAocp-idW",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-studies-in-the-history-of-art-and-visual-culture.json",
+  "lessonId": "p1-studies-in-the-history-of-art-and-visual-culture",
+  "sourceId": "1u3i6EFCqwiOQTnV-uz2PJ2kwAocp-idW",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "1562fb7cdba2fdb40da2d139b64ff2630136e16c05c561582f9e45d9cc3e32a7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

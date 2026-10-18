@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-lighting",
+  "title": "The history of lighting",
+  "part": 1,
+  "fingerprint": "bfb0e94e36d9f55279e8b7846c8f62c92d620eb3588d967da3d5318dfe2154b5",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "134LUAJ7tBX6ykfILgmus33-RJY8lR9bn",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-lighting.json",
+  "lessonId": "p1-the-history-of-lighting",
+  "sourceId": "134LUAJ7tBX6ykfILgmus33-RJY8lR9bn",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "35f8d99bd09a190123aa29d6439b92c30767d13670d599cbbf46090922873cbd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.076
+}

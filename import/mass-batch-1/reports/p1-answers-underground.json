@@ -1,0 +1,24 @@
+{
+  "job": "p1-answers-underground",
+  "title": "Answers Underground",
+  "part": 1,
+  "fingerprint": "00c1c4942206fc69196835c623bbd8177a1459ad77113dc0871e5cbcb19a9447",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ.json",
+      "ocrConfidence": [
+        92.8,
+        95.7,
+        91.8,
+        94.9
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.011
+}

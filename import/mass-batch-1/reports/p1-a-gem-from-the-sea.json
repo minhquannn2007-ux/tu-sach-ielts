@@ -1,0 +1,33 @@
+{
+  "job": "p1-a-gem-from-the-sea",
+  "title": "A gem from the sea",
+  "part": 1,
+  "fingerprint": "e574ebc4d6d9303c5c042a4e82ccb93ba0fba43b2bf0e40fb3fad646b76b44bc",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1hcrAXqbWNjjAVlj7qhgqDGome0KbdKuy",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-gem-from-the-sea.json",
+  "lessonId": "p1-a-gem-from-the-sea",
+  "sourceId": "1hcrAXqbWNjjAVlj7qhgqDGome0KbdKuy",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "summary-drag",
+    "tfng"
+  ],
+  "sourceHash": "56332156029bea69a315d128125f929eb3a97ed29fd3a84f4ff22ccf21163975",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

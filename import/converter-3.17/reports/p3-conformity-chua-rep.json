@@ -1,0 +1,17 @@
+{
+  "job": "p3-conformity-chua-rep",
+  "title": "Conformity(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "9ab6938561bb9d678de3fa81985c51085ec82b082f84dadab64b73209d1c1350",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1bJUW9ygEAkaKRhYx-rqocIBXCw48dffb",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

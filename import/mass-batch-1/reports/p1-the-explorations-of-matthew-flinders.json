@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-explorations-of-matthew-flinders",
+  "title": "The explorations of Matthew Flinders",
+  "part": 1,
+  "fingerprint": "2a7274d415d49654200a79c27b1cc5ac2bc49710c3031561f16641201d539cfd",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1Vt1LbHW1B5HiaBYhCotwf_j3XaFC-CFW",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-explorations-of-matthew-flinders.json",
+  "lessonId": "p1-the-explorations-of-matthew-flinders",
+  "sourceId": "1Vt1LbHW1B5HiaBYhCotwf_j3XaFC-CFW",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "f926fece987580d3389542103fffd790f3c9c85486c4d31eeb38fb6a3373773d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.08
+}

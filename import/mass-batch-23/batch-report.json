@@ -1,0 +1,752 @@
+{
+  "converterVersion": "3.22",
+  "selected": 41,
+  "cachedSources": 43,
+  "remainingUncachedJobs": 3,
+  "counts": {
+    "ready-for-review": 2,
+    "held": 41,
+    "error": 0
+  },
+  "seconds": 0.167,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p1-a-moment-of-perfection-chua-go",
+      "title": "A Moment of Perfection(CHƯA GÕ)",
+      "part": 1,
+      "fingerprint": "cddd167a65306fcf317782fdf5142b65a0f648c59e986ed06fd99977a3336fc3",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1GCOAu4UzOgYd1wVGHtGY_T1bnaqtEjzy",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p1-advertising-needs-attention",
+      "title": "Advertising needs attention",
+      "part": 1,
+      "fingerprint": "b310bf1e7df3fdba4f3dc96ef1cb3edbd690b0b2a0ec3bf5f47c31da09cf8132",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1E92trwsR_PWWaIcJGkR9D_9nVcMTeGZY",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p1-ahead-of-its-time-chua-go",
+      "title": "Ahead of its time(CHƯA GÕ)",
+      "part": 1,
+      "fingerprint": "b0c018ac5a3c709234a7bb78124115e7e209f92bcd7c6bc3bcb790ee022d2265",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1NNkZkdrh54_IIEasMlmIQTCW7eY0kH_u",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p1-australia-s-cane-toad-problem",
+      "title": "Australia's cane toad problem",
+      "part": 1,
+      "fingerprint": "428b38084633cb2b732c92c249adc9fde2fd704893dfff8f070db0c8eb929a59",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1UefYbSx5yIqc5N3HNJzSzIBfUnpc-P8K",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        },
+        {
+          "sourceId": "1AzHYljKrGUgWrpbBZdD5cV_xbBmbAzFF",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p1-bondi-chua-go",
+      "title": "Bondi(CHƯA GÕ)",
+      "part": 1,
+      "fingerprint": "14908a6795e3bf73eb44db80b9616a31c224eca335ca2bc19bbe36c608dba207",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "19eaUkXDsWJFBMobFyEiz6scwt3ymSl5q",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p1-building-a-new-future",
+      "title": "Building a New Future",
+      "part": 1,
+      "fingerprint": "276547f72c7f584cb6296c92e336bb364ae797f4ed456efacb02b8f8dc984865",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "11Afas3Mw1RNsyNqpKKbXA8I01miKJLHu",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p1-chilli-peppers",
+      "title": "Chilli Peppers",
+      "part": 1,
+      "fingerprint": "341693fc6c75742beb63488f5c04fa2fdbfaf8fbf975cb0b7b3ed03ff2eb9075",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1tmap82OCsZvH7HTfCHHx6vsvRvNwz1Ic",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p1-effect-and-cause",
+      "title": "Effect and Cause",
+      "part": 1,
+      "fingerprint": "b3e27a6968b8c572127d3f3b9d77bb6cb627d61178843e2fd8c951a37a55497f",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1e-3MwSymWoJcPTPTL5BrnF1ww56_BzdB",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p1-face-recognition-in-everyday-life-chua-go",
+      "title": "Face recognition in everyday life(CHƯA GÕ)",
+      "part": 1,
+      "fingerprint": "9024bad860c5380a243a387e4a29326d6d2de57de623926a601f79f23877e1af",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1abvscMdUSuf_6QUMsO1QTHm6wEcHtv6c",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.02
+    },
+    {
+      "job": "p1-forgotten-forests",
+      "title": "Forgotten forests",
+      "part": 1,
+      "fingerprint": "b7361c17d4e1c1acfff17f2aa0ccc30b2836bef7f21e89de087318fbc8aed982",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1ktL0am_IZb3o0P3hJUGXsTLCi2bLfQ9V",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p1-jethro-tull-1674-1741",
+      "title": "Jethro Tull(1674-1741)",
+      "part": 1,
+      "fingerprint": "b306afc1573f29bc38b9232024b899b454d9a0fbb9b112bb1858582468d1d754",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1Lr5m4KNiTR4s27rICfKWmf3QzdJolLJ9",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.018
+    },
+    {
+      "job": "p1-learning-about-the-moa",
+      "title": "Learning about the Moa",
+      "part": 1,
+      "fingerprint": "cdb8252cf41cd8fe76139d755844832de63eb4bc554645f715a4510768d7270e",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p1-minds-of-their-own",
+      "title": "Minds of their own",
+      "part": 1,
+      "fingerprint": "952ad4d33f715dd25211433d4cadbd77d863141581aff7701ec1c23a1fb680aa",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "165TFc59Ot57e9ESgQf4AuTp8_VKVsCli",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p1-sleep-study-on-modern-day-hunter-gatherers-dispels-popular-notions-mat-pdf",
+      "title": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions(mất pdf)",
+      "part": 1,
+      "fingerprint": "345923358dde2c23e6720d92efe060f49a9bdca8cf29c5cc7abcf816ccac1a71",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1uqkxCAEbIxScRXLklz-zgt-4MbBsEMSJ",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p1-the-baobaps-of-madagascar",
+      "title": "The Baobaps of Madagascar",
+      "part": 1,
+      "fingerprint": "a1b2066889d223a48bb019fcb1fd3aae194805edfe3d2b9e21be2fddaeffc20a",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1nn_3XnvZuoutYnG8O9rTy5_2ArGdcUAE",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p1-the-history-of-the-bar-code-chua-rep",
+      "title": "The history of the bar code(CHƯA REP)",
+      "part": 1,
+      "fingerprint": "cbe9d2ac3fb9c87b2f761e9e661406839a2162929391a7dbff66c2f6aa03368f",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1AKQMqhtFpAD-AIyDhwxcZ4-VS9JMOMgP",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p1-the-tuatara-of-new-zealand-chua-go",
+      "title": "The Tuatara of New Zealand(CHƯA GÕ)",
+      "part": 1,
+      "fingerprint": "963a01f1acdd89db3480d5ef6ee5341467f94aa2d740b7ca9641d3578ee28bf0",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1xRoRo67Frml-pdjyLsKby16TcerUHr5S",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p1-the-world-s-first-cities",
+      "title": "The world's first cities",
+      "part": 1,
+      "fingerprint": "bf173590b4febb2db3c40f509e46491f63fc91da231e99927cda133c627d7949",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1vBtKoDJPpf3Y-e_JpFHrNarV1JXePFPL",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p1-using-video-diaries-to-collect-data-from-children",
+      "title": "Using video diaries to collect data from children",
+      "part": 1,
+      "fingerprint": "757a176a098ba6864b6e61309258931d39fd08ebef07bd983c1b8355bfef8371",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1A-fkPy8Qx5fzKug0OkSSgXMmPNsjnAD2",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-australian-sports-guidelines",
+      "title": "Australian Sports Guidelines",
+      "part": 2,
+      "fingerprint": "65ccddcc97d3b4ce510cca77a26e32b6b79ad2608f9d500387369731b8f5f994",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1vz64hNkpDOyKP_HnVz1E8nX3cctoZN2H",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-honeybees-face-a-fight-for-survival",
+      "title": "Honeybees face a fight for survival",
+      "part": 2,
+      "fingerprint": "3646a0c9fff280c205798b045c909fbddcf11ac2b1e972b678909e5d9b9b03b1",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1QzAxzaEpIo61TVqWpSfZJNzEodCoorPW",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-how-deserts-are-formed",
+      "title": "How deserts are formed",
+      "part": 2,
+      "fingerprint": "65e7184495e4bbd8206d68e26b5f4136540e5d4763ae37a61d6c849cdfb3f3fc",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1PFPcRXVh1pSjdnhRDroQIx_IvBESy4EV",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-memory-in-plants",
+      "title": "Memory in plants",
+      "part": 2,
+      "fingerprint": "cd06d351f99be88c3ff4aa8103d17a29ef79aff017252475ed34f01c9bde86e6",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "165jrLjy-2ivzTaBionBpIg9xGzp56t39",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p2-multi-tasking-and-the-brain",
+      "title": "Multi-tasking and the brain",
+      "part": 2,
+      "fingerprint": "0e005e027011625152a225b9982af51cd0a305f89f72fd2fdba121c38df24590",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1NTfx-3CooQp96CTIPNKJuZaIquDh9Gbj",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        },
+        {
+          "sourceId": "1XkfsqLWLojCxqQ8wuw30sY4YxiZOF0GT",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-natures-positive-effects-on-well-being",
+      "title": "Nature’s positive effects on well-being",
+      "part": 2,
+      "fingerprint": "73abdd251146dab8eabca8b2a970a3e760b0f092b9e3093000bc76fc08d391fb",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1ewXluQFHjIF8iq7UGh1qGqP1UOi-hIKX",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-new-technology-in-new-zealand-s-health-service",
+      "title": "New Technology in New Zealand's Health Service",
+      "part": 2,
+      "fingerprint": "87771c317e5a8faeff09e6e808dabc3154f3c95e82ad5fc3461b700eb0de0956",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "13Tx6amVEezyfwBMi0ZkqnWkQrFYnBeJw",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-science-and-the-stradivarius",
+      "title": "Science and the Stradivarius",
+      "part": 2,
+      "fingerprint": "2008724a972d8cd4bb3bcef69807bd5b190affd621e3b37e0fc60ab5d9f179fa",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1oSbAY9NbYjPvEvqcdHnV54PsWqkksLQ5",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-the-conquest-of-malaria-in-italy",
+      "title": "The conquest of malaria in Italy",
+      "part": 2,
+      "fingerprint": "5990bf0996b9dc8dc3091c97b2da07418f5eabb84c52a3c286c71113a2f7ebcc",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1M3X5ulPmrCmGewAYJkarJRvORG85yrxE",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-the-history-of-the-celtic-language",
+      "title": "The history of the Celtic language",
+      "part": 2,
+      "fingerprint": "bb36c112996f6d232599a5b9ce964e9d5b4fbc7ef789d5ba69f11a1dd3ac070e",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1Ymk89POWW89RjuwCjGk0vu4JcUYqp70G",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-tasmanian-tiger",
+      "title": "The Tasmanian Tiger",
+      "part": 2,
+      "fingerprint": "a72d02ce5cde1a7606c333b6f2f977fa2b666f02f27ed95152d7d8a34c81b2a6",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "14nmmOq_EZYlRRghBGFWBfW5l2QBf0Ao4",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-war-of-the-plants",
+      "title": "War of the Plants",
+      "part": 2,
+      "fingerprint": "263ab3d7b0a3b4611568835de756fbe03efe5e907e54724d61769b52393215e3",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1ATrLYNJqhmD-waVtG1A4xRB7zokxShZJ",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p3-child-s-play-in-medieval-england",
+      "title": "Child's Play in Medieval England",
+      "part": 3,
+      "fingerprint": "777b9d4e3e37c6bde3a5faa4f00dbe85ed3a007b5d54b8e4bfee7df4ca9019ef",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1vzQ8wwwt0ffQ8mtUE86fiegO44eA2xM5",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p3-honeybees-in-trouble-can-native-pollinators-fill-the-gap-chua-go",
+      "title": "Honeybees in trouble - can native pollinators fill the gap?(CHƯA GÕ)",
+      "part": 3,
+      "fingerprint": "6ae28c69dcab7217a27ca1a453afb2b3b650408b83d1debd0627621dda4cc000",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1qapaBxAcU9SffHF1juNe858ccns4cOAC",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p3-images-and-places",
+      "title": "Images and Places",
+      "part": 3,
+      "fingerprint": "090a8144657f7925f1b0359371cfd703cd22738c7dd4337002c7337d059ff200",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1058hWttcIVxy5-a58i706BJXVV--knls",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-language-change",
+      "title": "Language change",
+      "part": 3,
+      "fingerprint": "7ea8bd3c8f480d882f7c03e8666befd5b26166c0160db6d75056baf548414e5c",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1nqKu1zDjNSpAdjUyfBX7L8mppGjG1Apy",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-look-who-was-talking",
+      "title": "Look who was talking",
+      "part": 3,
+      "fingerprint": "d4e8242c9ebc43c75a6d351850177931f97d4725af4670b5ce4286a1988c6a9d",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1W50aoEl_VM5CwHprIyKVcMYTgpWBzbRC",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.013
+    },
+    {
+      "job": "p3-no-title-charles-darwin-chua-rep",
+      "title": "No title - Charles Darwin(CHƯA REP)",
+      "part": 3,
+      "fingerprint": "dbe76fdc94fafabe483d00e7918f1fd03c7e93797f5b49b9ad4fe78e6c296f41",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1dzXZRnA30hmj9YjcG_eYjysp3prwfZv4",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-the-origin-of-language",
+      "title": "The origin of language",
+      "part": 3,
+      "fingerprint": "d81895c28db6379565e3ca3e3ce9568fe58da440587b84172abcaa3edb0b1a5a",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1G1DGTrlpvlSFmWJ-zL0QN2JJG5hPQwsT",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-the-role-of-accidents-in-business",
+      "title": "The role of accidents in business",
+      "part": 3,
+      "fingerprint": "6804ee96eff8750f8d32b54e326421d0e010834cff133c72580863498cb03050",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1KhMQ84zFHrvjdBYcZU86-ipv6vvSjg6j",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p3-the-significant-role-of-mother-tongue-in-education",
+      "title": "The significant role of mother tongue in education",
+      "part": 3,
+      "fingerprint": "05bda0c15e0ff2295f582d6b73972abe992960767dbe057267ab311b03ad85f0",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1xYia3nsB6FfwWFGwKmFXxVILe5rsY5lh",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-yawning-chua-rep",
+      "title": "Yawning(CHƯA REP)",
+      "part": 3,
+      "fingerprint": "5092540bdef20f0964c6477094328309a096459d1d6f6a40ab26bb57e0247c07",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "13nrRbGxxHd1oLPP85uqujWAD3OPMUqZg",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.013
+    },
+    {
+      "job": "p1-undergraduate-students-guidelines-to-students-on-literature-courses-check-em-dash-toan-bai",
+      "attempts": [
+        {
+          "code": "reviewed-adapter",
+          "message": "Exact table region or baseline-aligned MCQ options checked against source PDF"
+        }
+      ],
+      "status": "ready-for-review",
+      "draft": "drafts/p1-undergraduate-students-guidelines-to-students-on-literature-courses-check-em-dash-toan-bai.json",
+      "lessonId": "p1-undergraduate-students-guidelines-to-students-on-literature-courses",
+      "sourceId": "1_2CTiE41vfw71crr9vHtZR9mLiYizD9x",
+      "sourceHash": "04b5df4575e441d319c3666c7662545d66f0e13c60ad34d613cc7155e48a5133"
+    },
+    {
+      "job": "p3-travelling-plants",
+      "attempts": [
+        {
+          "code": "reviewed-adapter",
+          "message": "Exact table region or baseline-aligned MCQ options checked against source PDF"
+        }
+      ],
+      "status": "ready-for-review",
+      "draft": "drafts/p3-travelling-plants.json",
+      "lessonId": "p3-travelling-plants",
+      "sourceId": "1ixA7GPGZvbbBYBLxZyrirOzw-9kTKeoC",
+      "sourceHash": "225dbba8da8e283d53f228eb3f3ef55815700e37ff4a07dda6689258c3c7189a"
+    }
+  ],
+  "published": 0
+}

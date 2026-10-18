@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-dark-side-of-the-technological-boom",
+  "title": "The dark side of the technological boom",
+  "part": 3,
+  "fingerprint": "dc9bd63d71a6d45f5351f61fcdf00412bff8c109e6bb738bc5c3c134f5b4ea80",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-dark-side-of-the-technological-boom.json",
+  "lessonId": "p3-the-dark-side-of-the-technological-boom",
+  "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+  "questionCount": 14,
+  "types": [
+    "matching-endings",
+    "matching-features",
+    "tfng"
+  ],
+  "sourceHash": "1ee2ea9065fd6dc68947314e52a40945daf5877ae92d44f8dad35e09201e0f8e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.103
+}

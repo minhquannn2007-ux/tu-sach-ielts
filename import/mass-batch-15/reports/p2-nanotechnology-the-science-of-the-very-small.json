@@ -1,0 +1,17 @@
+{
+  "job": "p2-nanotechnology-the-science-of-the-very-small",
+  "title": "Nanotechnology: the science of the very small",
+  "part": 2,
+  "fingerprint": "3aa1d17361aa175ed345a3bf53ca77fa09561c6771b9fabbdadccb2a4c16d3d9",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1BQV99tHmK_Wv4M-Zs59vX6r8zIz_BU78",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

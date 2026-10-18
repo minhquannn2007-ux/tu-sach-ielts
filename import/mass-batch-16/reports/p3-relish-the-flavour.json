@@ -1,0 +1,33 @@
+{
+  "job": "p3-relish-the-flavour",
+  "title": "Relish the flavour",
+  "part": 3,
+  "fingerprint": "c4e224f529d40db669fdf6ec4f573d7a315c1b43698003d6243b74d4566454f4",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1baiEAjF9717DHMh73T3RYXEXIfvMDRPn",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-relish-the-flavour.json",
+  "lessonId": "p3-relish-the-flavour",
+  "sourceId": "1baiEAjF9717DHMh73T3RYXEXIfvMDRPn",
+  "questionCount": 14,
+  "types": [
+    "matching-info",
+    "tfng",
+    "matching-features"
+  ],
+  "sourceHash": "7ba9f403574c34b46a6bae45186bce733461c1c5b7880be8c4e7b4ec24b9135f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

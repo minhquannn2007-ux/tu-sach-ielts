@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-origins-of-cinema",
+  "title": "The origins of cinema",
+  "part": 1,
+  "fingerprint": "b05e7fd3116f008877e591f3fcf94793c1ae207eff20cd6ea24d7e2dc2f93fbf",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1UtVQ-IBzhIYO2RZrly2pwvl6O1QW6mkZ",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.05
+}

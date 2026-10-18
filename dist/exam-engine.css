@@ -1,0 +1,24 @@
+/* Shared interactions use the canonical sample CSS. These rules govern layout only. */
+.exam-group{margin-bottom:34px}.exam-group .sec-hdr{margin-top:24px}.exam-group .sec-inst{margin-bottom:18px}
+.import-table{border-collapse:collapse;width:100%;font:16px/1.5 Arial;margin:16px 0}
+.import-table th,.import-table td{border:1px solid #111;padding:12px;vertical-align:top;text-align:left}
+.import-table th{font-weight:700}.import-table p{margin:0 0 12px}
+.exam-bullet-list{padding-left:24px}.exam-bullet-list li{margin:8px 0}
+.exam-question-explain{background:white;border:1px solid #bbb;padding:6px 10px;color:#65499a;font:14px Arial;cursor:pointer;margin-top:8px}
+.exam-question-explain[hidden]{display:none}
+.sample-bank{min-height:48px;padding:10px!important;box-sizing:border-box}
+.sample-token{touch-action:none;cursor:grab}.sample-token.used{visibility:hidden;pointer-events:none}
+.sample-token.selected{outline:2px solid #2979c8}.sample-drop{touch-action:none;cursor:pointer}
+.sample-drop .sample-filled{display:none}.sample-drop.filled .sample-filled{display:inline}.sample-drop.filled .sample-number{display:none}
+.sample-drag-source{opacity:.38}.sample-drag-ghost{position:fixed;z-index:999999;pointer-events:none;background:white;border:1px solid #2979c8;box-shadow:0 3px 12px #0003;padding:4px 9px;font:16px Arial;max-width:450px}
+.sample-drop.drag-over,.sample-bank.drag-over{background:#e1e1e1}
+.mh-gap.filled .gapFilledText{display:inline!important}.mh-gap.filled{font-weight:700}
+.shared-diagram{position:relative;min-width:760px!important}.shared-diagram img{position:absolute;width:100%;height:auto}
+html body .shared-diagram .diagram-label{background:transparent!important;position:absolute;font:16px/1.45 Arial;padding:0}
+#exam-error{padding:24px;line-height:1.6}
+.exam-loading{padding:24px;color:#555}
+.exam-question-anchor{display:inline}
+
+.passage-sub{white-space:normal}.passage-para:has(+ .source-footnote){margin-bottom:0}.source-footnote{border:0;margin:12px 0 0;padding:0;font-family:inherit;font-size:14px;font-style:italic;line-height:1.5}
+
+.passage-section-title{font-size:16px;line-height:1.5;margin:14px 0;font-weight:700}.passage-bullet{padding-left:24px;position:relative}.passage-bullet:before{content:'•';position:absolute;left:5px}

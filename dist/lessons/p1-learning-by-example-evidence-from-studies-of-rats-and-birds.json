@@ -1,0 +1,213 @@
+{
+  "id": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds",
+  "part": 1,
+  "title": "Learning by example: evidence from studies of rats and birds",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The best-known model of animal learning behaviour is probably the so-called classical model associated with the Russian scientist Pavlov. The key features of this model are stimulus, outcome, and repetition. Pavlov demonstrated that dogs could be trained to associate a sensory stimulus with a particular outcome, even where no natural association exists. In one famous experiment, dogs learned to associate the sound of a bell with the expectation of food. Subsequent models, such as the ‘operant conditioning’ model, also involved observing animals in isolation. Recently, however, behavioural research has focused on how animals are equipped to learn in social settings. And interest in the concept of role modelling, already a popular notion for guiding child development, has spread to other species."
+    },
+    {
+      "label": "B",
+      "text": "Heyes and Galef (1996) have compiled some very interesting and accessible papers on social learning in mammals. One of these papers starts with an account of a school field trip to Israel. In a pine forest there, many pine cones were discovered which had been stripped to the central core. So an investigation was started which had no weighty theoretical intent, but was directed initially at finding out what was eating the nutritious pine seeds, and how they managed to get them out of the cones. The culprit proved to be the versatile and athletic black rat. The forest-dwelling rat used a standard technique, biting off each cone scale in sequence, from base to tip, following the spiral growth pattern of the cone."
+    },
+    {
+      "label": "C",
+      "text": "The investigation was then broadened, with the aim of determining how the rat acquires such a skill. Urban black rats were found to lack the skill and were unable to learn it even when they were housed with experienced cone strippers, such as those found in Israel. However, infants of urban mothers which were fostered by forest mothers acquired the skill, whereas infants of forest mothers fostered by urban mothers did not. Clearly, the skill is not inherited, but has to be taught."
+    },
+    {
+      "label": "D",
+      "text": "Further elegant experiments showed that naive adult urban rats can develop the skill if they are provided with cones from which the first complete spiral of scales has been removed, rather as people can deduce how to use a new photocopier once they have been shown how to switch it on. In the case of forest rats, mothers supply their infants with cones which they have partially stripped, thereby providing the key for acquiring the complete stripping skill."
+    },
+    {
+      "label": "E",
+      "text": "We might conclude that this is a good example of adaptive learning, but how economical is it? The researchers went on to determine this by measuring the oxygen uptake of a rat stripping a cone. The rat was placed in a metabolic chamber so that the amount of energy used in the cone-stripping operation could be calculated. This was then compared with the energy benefit of the pine seeds, as measured by a machine known as a calorimeter. The rat’s energy expenditure proved to be less than 10% of the energetic value of the cone — an acceptable profit margin."
+    },
+    {
+      "label": "F",
+      "text": "A paper by Bednekoff and Balda (1996) provides another example of the adaptiveness of social learning, this time in birds. It concerns the ‘seed caching’ behaviour of two birds: Clark’s Nutcracker (Nucifraga columbiana) and the Mexican Jay (Aphelocoma ultramarina). The former is a specialist, caching 30,000 or so seeds in scattered locations, from where it recovers them over the winter months. The Mexican Jay also caches food, but is not nearly as dependent on this as the Nutcracker. The two species also differ in their social structure, the Nutcracker being rather solitary, while the Jay forages in social groups."
+    },
+    {
+      "label": "G",
+      "text": "An experiment was conducted to discover not just whether a bird can remember where it hid a seed itself, but also if it can remember where it saw another bird hide a seed. The design of the experiment is slightly comical, with a cacher bird wandering about a room with lots of holes in the floor and hiding food in some of them, while watched by an observer bird perched in a cage. Two days later, cachers and observers are tested for their discovery rate against an estimated random performance. In the role of cacher, not only the Nutcracker, but also the less specialised Jay performed above the rate of chance. More surprisingly, however, Jay observers were as successful as Jay cachers, whereas Nutcracker observers did no better than chance. So it seems that, whereas the Nutcracker is highly adapted for remembering where it hid its own seed, the gregarious Mexican Jay is more adept than the Nutcracker at remembering, and so exploiting, the caches of other birds."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 4 Reading Passage 1 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-4 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "a comparison between learning in rats and learning in humans"
+        },
+        {
+          "n": 2,
+          "prompt": "an explanation of what initially prompted a research project"
+        },
+        {
+          "n": 3,
+          "prompt": "an overview of research into learning behaviour in animals"
+        },
+        {
+          "n": 4,
+          "prompt": "an analysis of cost-effectiveness"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 5 – 9 Do the following statements agree with the information given in Reading Passage 1? In boxes 5-9 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "The purpose of the field trip to Israel was to investigate the feeding habits of the black rat."
+        },
+        {
+          "n": 6,
+          "prompt": "Pine cones are the main source of food for forest rats in Israel."
+        },
+        {
+          "n": 7,
+          "prompt": "The forest rats in Israel had a fixed method of peeling pine cones."
+        },
+        {
+          "n": 8,
+          "prompt": "Forest rats know instinctively how to peel pine cones."
+        },
+        {
+          "n": 9,
+          "prompt": "In extracting pine seeds from the cones, rats use only a small proportion of the energy they gain from eating them."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 10 – 13 Complete the summary using the list of words, A-J, below Write the correct letter, A-J, in boxes 10-13 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "summary-drag",
+      "bank": [
+        {
+          "value": "A",
+          "text": "equally"
+        },
+        {
+          "value": "B",
+          "text": "Nutcracker"
+        },
+        {
+          "value": "C",
+          "text": "dependent"
+        },
+        {
+          "value": "D",
+          "text": "watched"
+        },
+        {
+          "value": "E",
+          "text": "solitary"
+        },
+        {
+          "value": "F",
+          "text": "observer"
+        },
+        {
+          "value": "G",
+          "text": "less"
+        },
+        {
+          "value": "H",
+          "text": "social"
+        },
+        {
+          "value": "I",
+          "text": "Jay"
+        },
+        {
+          "value": "J",
+          "text": "more"
+        }
+      ],
+      "reuse": false,
+      "title": null,
+      "content": [
+        "Clark's Nutcracker and the Mexican Jay are two species of bird which store seeds in various places for use in winter. The Jay relies {{10}} on this habit, and is more {{11}} in its feeding habits. During an experiment, one bird stored seed while another {{12}} . Of the two species, the {{13}} was consistently more able to find seeds which had been stored by other birds."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1SDdJttU7d_RkdEbE6QWpBudqrQSDWxz_",
+      "role": "passage-and-questions",
+      "sha256": "6f4a470cecbfe7e6450807f3c9a9ca858f33a6f84482fefdd456126c829ffc6f",
+      "name": "Learning by example - evidence from studies of rats and birds.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.4",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch-owl-cover.jpg",
+    "alt": "Cú trong rừng",
+    "credit": "Erik Karits",
+    "source": "https://unsplash.com/photos/XsmAIQpgSUU",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-2-2026-10-12",
+    "checks": [
+      "native source text comparison",
+      "subtitle and title visual review",
+      "source note/table layout review",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "job": "p2-music-and-the-human-brain",
+  "title": "Music and the human brain",
+  "part": 2,
+  "fingerprint": "d2830a17a31e3e6001d6b06941e8e4d9eb8dbb2ec26d75afd64c7553d9dc2f7b",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1X7mQg23u6lnqkJKd1Vvw2xgohJY6vwJH",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-music-and-the-human-brain.json",
+  "lessonId": "p2-music-and-the-human-brain",
+  "sourceId": "1X7mQg23u6lnqkJKd1Vvw2xgohJY6vwJH",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "e3ffb9ee77b6e8d943b7a4f20bc5aabe55ead95e712e6c21bfdba937a36ef48b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.05
+}

@@ -1,0 +1,197 @@
+{
+  "id": "p2-mixed-signals",
+  "part": 2,
+  "title": "Mixed signals",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The difference between how people see themselves and how others see them is not just a matter of being self-centred. People change their self-conception when they see themselves through other people's eyes. Part of the discrepancy arises because the outsider's perspective affords information that we miss – like the fact that it looks like we're frowning when actually we're listening, so people wrongly assume we're in a bad mood. These are important issues because how well people understand themselves has a profound impact on their ability to function in society. Poor self-knowledge could have all sorts of negative outcomes, such as on a person's ability to relate to family and friends, or on their performance at school or work."
+    },
+    {
+      "label": "B",
+      "text": "To bring some order to all the things that can be known about people, it helps to divide them into four categories. 'Bright spots' are things that are known by both ourselves and others, like the fact that we are talkative. 'Dark spots' are things that are known by neither ourselves nor others. These could include deep, unconscious motives that drive our behaviours, like the fact that our ambition is driven by the need to prove wrong our parents' assumption that we would never amount to much. 'Personal spots' are things known only by us, such as our tendency to get anxious in crowds. 'Blind spots' are things known only by others, which can include such factors as our defensiveness. The most interesting are the last two, since they involve a mismatch that is apparent in the sometimes-conflicting appraisals that exist between how people see themselves and how others see them."
+    },
+    {
+      "label": "C",
+      "text": "There are many explanations as to why people often think they are the best judge of themselves. After all, they have known themselves longer than most other people have known them. They see themselves in all sorts of situations. But they also have a vested interest in seeing themselves as decent and competent, and not evil or inept. 'It's difficult to make judgements about your own intelligence, or similar traits that you have a lot invested in,' explains Simine Vazire, an academic at Washington University in the US. Similarly, if we do know how irritating or attractive we are, it's probably because someone has told us so. According to Vazire, if the attributes are positive, it is more probable that people will come straight out and inform us about them. But if they're negative, they may not want to hurt our feelings. It should also be remembered that, although we think others are aware of our anxiety and darkest feelings, research shows that they might not actually be looking. Thomas Gilovich, a psychologist at Cornell University in the US, has found that we overestimate the extent to which our behaviour is noticed by others. According to Gilovich, they are just not that interested, a bias he calls the 'spotlight effect'."
+    },
+    {
+      "label": "D",
+      "text": "One interesting case is that of Brian Little, a professor who taught a legendary class at Harvard University in the US. According to those who saw him lecture, he was eloquent, garrulous, brimming with ebullience and energy. Yet Little disagrees. He insists it was all an act, executed in the service of being a good teacher, and that the conduct of many professionals is distorted for the same reason, to help them do their jobs better. That's why it's important to view people across a diverse range of contexts before jumping to conclusions about what they're like. On the other hand, Randall Colvin of Northeastern University in the US has been studying the attributes of people who are easily judged, and found that they tended to be extroverted, talkative and friendly. These traits are known as 'amplifiers' because extroverted people tell others a great deal about themselves in a simple and sincere way, whereas introverted or shy people communicate less information. Some people have a quality called 'blirtatiousness'. This is the tendency to respond to others rapidly and effusively. According to Colvin, those who give a spontaneous response to a situation are often open books compared to those who give more measured and considered responses."
+    },
+    {
+      "label": "E",
+      "text": "Why are we so poor at knowing how we come across? Part of the problem is that we actively take into account information that outsiders are in fact unable to consider, however much they may want to, according to John Chambers, a psychologist at the University of Florida in the US. We may know that we're less reckless than we used to be or less productive than we might wish, but such information is not accessible to other people, though we often overlook this fact. All of which can seem a little daunting. Does it mean that we can never learn what we're really like? The first step is understanding that learning how others perceive us is a worthwhile goal. And then we have to ask others what they see. We'll need to get feedback from multiple people, and we may even want to film ourselves to get a more objective perspective."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Reading Passage 2 has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, in boxes 14-18 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reason why others may not give us feedback about our character"
+        },
+        {
+          "n": 15,
+          "prompt": "some suggested techniques for knowing ourselves better"
+        },
+        {
+          "n": 16,
+          "prompt": "some reasons why people might believe they know themselves well"
+        },
+        {
+          "n": 17,
+          "prompt": "some possible consequences of not knowing ourselves well enough"
+        },
+        {
+          "n": 18,
+          "prompt": "an example of a person whose character was misjudged by outsiders"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "paragraphCount": 5,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 19 – 21 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 19-21 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 19,
+          "slots": 1
+        },
+        {
+          "n": 20,
+          "slots": 1
+        },
+        {
+          "n": 21,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "The hidden {{19}} that fuel our ambitions are examples of the different things that make up 'dark spots'.",
+        "'Personal spots' and 'blind spots' feature a {{20}} between self-image and an outsider's view.",
+        "According to Randall Colvin, it is easiest to judge people with traits called {{21}} ."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 22 – 26 Look at the following statements (Questions 22-26) and the list of researchers below. Match each statement with the correct researcher, A-E. Write the correct letter, A-E, in boxes 22-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 22,
+          "prompt": "People's behaviour in the workplace may not reflect their true character."
+        },
+        {
+          "n": 23,
+          "prompt": "People are more likely to tell us about our positive characteristics than our negative ones."
+        },
+        {
+          "n": 24,
+          "prompt": "We forget that we know things about ourselves that outsiders cannot know."
+        },
+        {
+          "n": 25,
+          "prompt": "It is simpler to evaluate certain types of people."
+        },
+        {
+          "n": 26,
+          "prompt": "Other people observe our conduct less closely than we think."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Simine Vazire"
+        },
+        {
+          "value": "B",
+          "text": "Thomas Gilovich"
+        },
+        {
+          "value": "C",
+          "text": "Brian Little"
+        },
+        {
+          "value": "D",
+          "text": "Randall Colvin"
+        },
+        {
+          "value": "E",
+          "text": "John Chambers"
+        }
+      ],
+      "targetName": "researcher",
+      "listTitle": "List of Researchers",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1IkVYEsmFDpyRC7fRYIbd16HQignRP1a7",
+      "role": "passage-and-questions",
+      "sha256": "29e205a6400772f6f4742e70acd5c86073f6cfcbb5cadf98f8c7bb38c09cb6d5",
+      "name": "Mixed signals.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 5,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-mixed-signals"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "It's likely you see yourself very differently from the way others see you",
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

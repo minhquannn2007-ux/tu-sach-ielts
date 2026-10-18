@@ -1,0 +1,17 @@
+{
+  "job": "p1-sweet-scent-of-success",
+  "title": "Sweet scent of success",
+  "part": 1,
+  "fingerprint": "386273b9be666a7c2053a387152b4d6d8bc9ef6bb875244c6ba6b46136018832",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1dvIEifghNjPtE-B8QsahEu1FzG4hZdK0",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.057
+}

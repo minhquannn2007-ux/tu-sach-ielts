@@ -1,0 +1,22 @@
+{
+  "job": "p3-what-makes-us-human",
+  "title": "What makes us human?",
+  "part": 3,
+  "fingerprint": "95baa8b107dad8741e670e0c11d54f75d522f7c443b687662ce9a3d65e01d603",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1KT6QYEfkrxzEjIdu5lSmEdTjKDBQkDfk",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+    },
+    {
+      "sourceId": "1OEQ9InI_nsfspOuBBpnuC1bgT4_LPQRC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.075
+}

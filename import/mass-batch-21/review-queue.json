@@ -1,0 +1,347 @@
+[
+  {
+    "job": "p1-conquering-the-south-pole",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1zjxiBJgoRafWibF36esqWeFQU3IGumDo",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-dust-and-the-american-west",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1g2DNWkmOd6yy4dRjY-NlH83454MFivam",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [6, 7, 8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+      }
+    ]
+  },
+  {
+    "job": "p1-museums-and-family-visitors-in-australia-loi-cham-nho-table-subhead-ien-tu-13",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1pA5YjDfWg9qGEtfSD4MRfc3GHpUnzphz",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      },
+      {
+        "sourceId": "16xTDPSjOyCrR9zeuaQOtNrzEOak6yn6M",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-research-into-elephant-sleeping-habits",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1OcCzlFo4-cfoQOnJierjao31Xu0Udmvz",
+        "code": "question-headers",
+        "message": "No unambiguous question headers"
+      }
+    ]
+  },
+  {
+    "job": "p1-stagecoaching-in-australia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1pnFrxd_sk4_Hj4GyEC6wphl2JOD6Gxr6",
+        "code": "source-layout",
+        "message": "Parallel note columns need source-specific layout review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-blockbuster-phenomenon-a-new-museum-trend",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1aUL9dgQxcaXxVsz3OeLbeSKvZACUPVzp",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F', 'G']; expected ['A', 'B', 'C', 'D', 'E']"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-future-of-news-coming-from-a-fun-circle",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [1, 2, 3, 4, 5, 6, 7], found [1, 2, 3, 4, 5, 6]"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-history-of-the-british-wool-industry",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+        "code": "source-layout",
+        "message": "Parallel note columns need source-specific layout review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-history-of-the-guitar-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vwUz30zGYBtM8ZwUErGc1pNCP-VMEwIA",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      },
+      {
+        "sourceId": "1iy_yvaB4RCtyFcPdGbRVixrWNM5oVC3H",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-new-zealand-national-archives",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1xK0cvpbFEuiLAVv6zuW7Dr_v67XhVHaq",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 11, 12, 13]"
+      },
+      {
+        "sourceId": "1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-olympic-torch-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1iuotk1qL0EtHH8r8EvqWW8di3OIDQ-Dv",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+      },
+      {
+        "sourceId": "1EknzSuQY-9hRWpSwwj9m4Zi-Da_aEeqq",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-slow-food-organization",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1HdU-qqI1rTRWcDVQsM8ZDrNQIZgFyF_h",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      },
+      {
+        "sourceId": "17NXHaZe8WlO4F8SLWahNh_tbSrqif32g",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-story-of-the-railroad",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1NyE0nGAuH74lvP6lQTx5RTV3LLaSj1w_",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      },
+      {
+        "sourceId": "1WiF4SZ3JkFMHgMMJCkkP2pjS17XefVmR",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-walking-for-life",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1DRqz801oUhmTnLXlD0fiFLafo16DefDn",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+      }
+    ]
+  },
+  {
+    "job": "p2-buying-time",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "14EzkzEoux_aPJ9VIReVmICVwFqMR5HBN",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D']"
+      }
+    ]
+  },
+  {
+    "job": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Q41wGQx_co85QFleSKQeO1zISQxqdeha",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p2-coins-the-first-form-of-money",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ERFNjlevvguQeaTyiUqNgTlRHRVzL7Hu",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      },
+      {
+        "sourceId": "1re9wB2b5eo9q9pa_zxskKTo0hbO2wkxP",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-how-dental-health-is-threatened",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1XOvNTZpvecwY8_BhiHTnITu9pkrPpshu",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-japanese-bizen-art-that-rose-from-the-ashes.json",
+    "reasons": [
+      {
+        "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "17SiTutSqftb9Uyufg5ERk6Wx4sAEbXIL",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-importance-of-the-human-urge-to-move",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1wOcUR85D1QjOmti6f43AzOoa_8xydVse",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      },
+      {
+        "sourceId": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      },
+      {
+        "sourceId": "1wyWLGGl_V8ND-8hvVoaYP94XNX5bi0sY",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-origins-of-scottish-brochs",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-origins-of-scottish-brochs.json",
+    "reasons": [
+      {
+        "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-digital-cinema-of-the-mind",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-a-digital-cinema-of-the-mind.json",
+    "reasons": [
+      {
+        "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-should-reading-be-taught",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-how-should-reading-be-taught.json",
+    "reasons": [
+      {
+        "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-accidental-scientist",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-accidental-scientist.json",
+    "reasons": [
+      {
+        "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  }
+]

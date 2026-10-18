@@ -1,0 +1,17 @@
+{
+  "job": "p1-classifying-societies",
+  "title": "Classifying societies",
+  "part": 1,
+  "fingerprint": "5bbdfe1aa596d0fba4c238312966394994bd4a495518e9ae791bdf6af65d9696",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1oV1IbAdNoWag9eHs8INIK1zHL5engvKH",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

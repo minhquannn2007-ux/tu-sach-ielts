@@ -1,0 +1,33 @@
+{
+  "job": "p2-brains-trust-learning-about-ourselves",
+  "title": "Brains trust: learning about ourselves",
+  "part": 2,
+  "fingerprint": "a6ca22daccc4177f4b9881610740f45c06a1d14546492ffc00107c4ca906e95a",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1y72bDVh6e0Sd5IQf6oD9UThUOKd_AHqL",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-brains-trust-learning-about-ourselves.json",
+  "lessonId": "p2-brains-trust-learning-about-ourselves",
+  "sourceId": "1y72bDVh6e0Sd5IQf6oD9UThUOKd_AHqL",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "734c4d1584de22998d3dfc3f437640a339201460e4fb6916374b775247a02b0f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.098
+}

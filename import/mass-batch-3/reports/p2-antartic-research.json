@@ -1,0 +1,17 @@
+{
+  "job": "p2-antartic-research",
+  "title": "Antartic research",
+  "part": 2,
+  "fingerprint": "a93c2744317cbcd7ac48fbe080de6dc0bcf16b5dc4a0f256a21811c33b68f4d4",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1FaQCsmKRBzMDtWQfWFd1JDKqxk2ZhUQQ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

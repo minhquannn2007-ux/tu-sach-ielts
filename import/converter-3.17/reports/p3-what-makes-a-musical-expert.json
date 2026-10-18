@@ -1,0 +1,17 @@
+{
+  "job": "p3-what-makes-a-musical-expert",
+  "title": "What makes a musical expert?",
+  "part": 3,
+  "fingerprint": "4ad152531d7636c487f81d00e92710d4c6e846e18fd2719730ee3b40579e64c2",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "19nvXpBPa4SJJ2u90X8Rk4bukAeT1y3Ig",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

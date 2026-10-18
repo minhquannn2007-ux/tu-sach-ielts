@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-origins-of-tennis",
+  "title": "The origins of tennis",
+  "part": 1,
+  "fingerprint": "b490f93bdbd3f8f903022daabcf2ed14da430298f66770f879814287d959fd63",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1yQRTh3E-bbavvxhiHmvjjt3bxeO8dgrU",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-origins-of-tennis.json",
+  "lessonId": "p1-the-origins-of-tennis",
+  "sourceId": "1yQRTh3E-bbavvxhiHmvjjt3bxeO8dgrU",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "317e2af3741422a915973884eec147a2f1ab2d1503dcb9ed201e2cbfa3039e33",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.095
+}

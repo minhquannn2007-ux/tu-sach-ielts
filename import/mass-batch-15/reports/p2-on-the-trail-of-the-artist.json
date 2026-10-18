@@ -1,0 +1,22 @@
+{
+  "job": "p2-on-the-trail-of-the-artist",
+  "title": "On the trail of the artist",
+  "part": 2,
+  "fingerprint": "388822ace1127c7524417ec8d8fa4db5bb1cea8a2e7c1946a4183a62ae856d57",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "186WzT3Yu8p1eswL6MJLaSPAvRQFH8MRK",
+      "code": "paragraph-labels",
+      "message": "Missing or repeated paragraph labels"
+    },
+    {
+      "sourceId": "1zsWnmyed7eIHvLfj75-bz4EHTJ3mHN-o",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.057
+}

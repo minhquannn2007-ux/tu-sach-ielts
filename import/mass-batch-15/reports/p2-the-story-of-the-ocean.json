@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-story-of-the-ocean",
+  "title": "The story of the ocean",
+  "part": 2,
+  "fingerprint": "e34ac9de610fdf0512c5bdf0c5370bcd79b5d098ca70e19364ddc5ba06cb0de7",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1ot8cORGlGpgzS6k9q2_ZKE9kaJxcqIXn",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

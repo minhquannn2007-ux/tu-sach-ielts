@@ -1,0 +1,33 @@
+{
+  "job": "p3-manage-your-energy-not-your-time",
+  "title": "Manage Your Energy, Not Your Time",
+  "part": 3,
+  "fingerprint": "230afe5c10bd8247a2fec4256bcc573859bdf84ee49c7aa9669c7f6f63bde49b",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-manage-your-energy-not-your-time.json",
+  "lessonId": "p3-manage-your-energy-not-your-time",
+  "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "matching-endings"
+  ],
+  "sourceHash": "16a87ca58535dbce51dbea066cb9c872d1bb2df69ff880c5ac6f1a3c4aac5c02",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.082
+}

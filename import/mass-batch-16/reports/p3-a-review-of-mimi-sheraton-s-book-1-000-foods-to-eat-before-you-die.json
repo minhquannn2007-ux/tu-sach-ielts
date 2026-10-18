@@ -1,0 +1,33 @@
+{
+  "job": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+  "title": "A review of Mimi Sheraton's book, 1,000 Foods To Eat Before you Die",
+  "part": 3,
+  "fingerprint": "db0c79c5554287203f08adad84d6d79e4bd17574ef194c7f9521bfd034984604",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1ebEPnSLyckB_iOKhtn2Odd9W3_vcq-vC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die.json",
+  "lessonId": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+  "sourceId": "1ebEPnSLyckB_iOKhtn2Odd9W3_vcq-vC",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag"
+  ],
+  "sourceHash": "da8b80b2942203eea17833d82a164f0ee22ce96044ac3dcae5cad179a5da5f8a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.072
+}

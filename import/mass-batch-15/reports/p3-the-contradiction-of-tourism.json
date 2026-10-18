@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-contradiction-of-tourism",
+  "title": "The contradiction of tourism",
+  "part": 3,
+  "fingerprint": "d3664cfbf289821dad89d982fa072ca02039ec20a56d1219bb9e77a5481c58d7",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1zntkBkXaB7sgHbIZkChiFcdxxb6Q3Eif",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

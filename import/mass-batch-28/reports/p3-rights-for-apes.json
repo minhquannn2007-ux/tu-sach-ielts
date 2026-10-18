@@ -1,0 +1,17 @@
+{
+  "job": "p3-rights-for-apes",
+  "title": "Rights for apes",
+  "part": 3,
+  "fingerprint": "ff1792f5ca216beafdbb0e586a3d70619e06621072fb178e8278c917e1cfe062",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1gGCRaaxWBBvJ38CChJcSELuFmMPLGz9u",
+      "code": "detached-bank",
+      "message": "Word bank is separated from its task and cannot be assigned safely"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.112
+}

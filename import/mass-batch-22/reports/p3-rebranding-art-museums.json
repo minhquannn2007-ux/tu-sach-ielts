@@ -1,0 +1,33 @@
+{
+  "job": "p3-rebranding-art-museums",
+  "title": "Rebranding art museums",
+  "part": 3,
+  "fingerprint": "c5508c009b59f9822e761140abc6f40382f147647df27cceac2819b349ae514c",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-rebranding-art-museums.json",
+  "lessonId": "p3-rebranding-art-museums",
+  "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "matching-endings"
+  ],
+  "sourceHash": "232a0c62bdf9f22af548248f5f7ffb66d9f9d63bed788665741daa08af94615f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.09
+}

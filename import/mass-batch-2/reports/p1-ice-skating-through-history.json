@@ -1,0 +1,32 @@
+{
+  "job": "p1-ice-skating-through-history",
+  "title": "Ice Skating Through History",
+  "part": 1,
+  "fingerprint": "f09c886885e074e6f55a71a22e92351698a6e423b7b0614f624ca6732c9a705c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1nASByWvkxm2RJmsc_epL1tJHNSAFH8vv",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-ice-skating-through-history.json",
+  "lessonId": "p1-ice-skating-through-history",
+  "sourceId": "1nASByWvkxm2RJmsc_epL1tJHNSAFH8vv",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "cde565d9b66a5af4fa194e7673b79d3bbd8b9639b8a820ac8aa3828a192e43d7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

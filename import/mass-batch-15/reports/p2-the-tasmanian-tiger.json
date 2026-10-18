@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-tasmanian-tiger",
+  "title": "The Tasmanian Tiger",
+  "part": 2,
+  "fingerprint": "05073cfb34aed0dc850a368bbd553306648633f2a3380d2c76f79a147f326be0",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1OtyXz-kVvjRrna6_JjRRcZHT-UMZXHNR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

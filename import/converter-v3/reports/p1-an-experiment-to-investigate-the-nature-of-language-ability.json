@@ -1,0 +1,32 @@
+{
+  "job": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+  "title": "An experiment to investigate the nature of language ability",
+  "part": 1,
+  "fingerprint": "46019c92e9ff35d870c0a48f3c13bd59fee8b5a41f31ae32e4cadeee8704607f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1BQW5oUMU2hvVxpMVWyTDRdV9Ct2nApzY",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-an-experiment-to-investigate-the-nature-of-language-ability.json",
+  "lessonId": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+  "sourceId": "1BQW5oUMU2hvVxpMVWyTDRdV9Ct2nApzY",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "110a83bcb6f48c813680c0f4de811390590443a05caf538efa3adbf18c3dfc29",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.101
+}

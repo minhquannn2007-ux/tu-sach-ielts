@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-origin-of-language",
+  "title": "The origin of language",
+  "part": 3,
+  "fingerprint": "f9558290b67704e1d3f7319284202beb2be5be626e82be7510e757e99f039bc7",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "11RGxbYVPotgfA5Wx7SgnkZz4fI_GBloE",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1G1DGTrlpvlSFmWJ-zL0QN2JJG5hPQwsT",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

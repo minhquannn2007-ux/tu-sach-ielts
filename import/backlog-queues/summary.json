@@ -1,0 +1,79 @@
+{
+  "scope": "Scheduling metadata and persisted transcript evidence; not visual approval",
+  "total": 268,
+  "categories": {
+    "adapter-review": {
+      "total": 14,
+      "parts": {
+        "1": 8,
+        "2": 5,
+        "3": 1
+      }
+    },
+    "ocr-repair-or-alternate": {
+      "total": 58,
+      "parts": {
+        "1": 8,
+        "2": 24,
+        "3": 26
+      }
+    },
+    "preflight-needed": {
+      "total": 17,
+      "parts": {
+        "1": 7,
+        "2": 3,
+        "3": 7
+      }
+    },
+    "published-match-check": {
+      "total": 14,
+      "parts": {
+        "1": 1,
+        "2": 8,
+        "3": 5
+      }
+    },
+    "source-comparison": {
+      "total": 12,
+      "parts": {
+        "1": 2,
+        "2": 9,
+        "3": 1
+      }
+    },
+    "source-conflict": {
+      "total": 8,
+      "parts": {
+        "1": 3,
+        "2": 4,
+        "3": 1
+      }
+    },
+    "transcript-review-candidates": {
+      "total": 88,
+      "parts": {
+        "1": 27,
+        "2": 41,
+        "3": 20
+      }
+    },
+    "version-comparison": {
+      "total": 20,
+      "parts": {
+        "1": 1,
+        "2": 9,
+        "3": 10
+      }
+    },
+    "visual-layout": {
+      "total": 37,
+      "parts": {
+        "1": 30,
+        "2": 2,
+        "3": 5
+      }
+    }
+  },
+  "approved": 0
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-ecotherapy-using-nature-to-treat-health",
+  "title": "Ecotherapy Using nature to treat health",
+  "part": 2,
+  "fingerprint": "a05ea3982cab4389ad67df0b40917f5a6933e61f8be37a8b178a8bc45aaa1212",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1FoIDJm9Y2RtoS7wmz6QPkqvo1Rl7SfjD",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-ecotherapy-using-nature-to-treat-health.json",
+  "lessonId": "p2-ecotherapy-using-nature-to-treat-health",
+  "sourceId": "1FoIDJm9Y2RtoS7wmz6QPkqvo1Rl7SfjD",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "fa5946d098bcd49f178bf2c03605893ea436704fa80c5bfb3c95aa6ce51870ab",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.063
+}

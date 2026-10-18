@@ -1,0 +1,17 @@
+{
+  "job": "p3-sydney-opera-house",
+  "title": "Sydney Opera House",
+  "part": 3,
+  "fingerprint": "52bea8e4ace11cb0c1cb87658ad461d8daf464588ed05640cd156840344da531",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1zUX_zqFX38jA_Nk49wfobtAuQaJjpXHO",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'D']; expected ['A', 'B', 'C', 'D']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.071
+}

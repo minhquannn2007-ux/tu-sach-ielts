@@ -1,0 +1,34 @@
+{
+  "job": "p2-the-origins-of-scottish-brochs",
+  "title": "The origins of Scottish brochs",
+  "part": 2,
+  "fingerprint": "2fdba8111e2ab4453a7380aecba9e2b605b6a2c5fd5669fc17e992188898af38",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-origins-of-scottish-brochs.json",
+  "lessonId": "p2-the-origins-of-scottish-brochs",
+  "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "27e1062f7f96df804b63e4ab769b53ab46087de50150bfc6fe5340d85c9e9509",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

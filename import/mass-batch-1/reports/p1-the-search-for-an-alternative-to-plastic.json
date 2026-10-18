@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-search-for-an-alternative-to-plastic",
+  "title": "The search for an alternative to plastic",
+  "part": 1,
+  "fingerprint": "4bd544cdada9f17ddbfac0e4474bc114ea38c78a1e27cedfcf071c475ece56d4",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "157p-jTzIyTPFq-w1ls1zcJmFnM3yw1lM",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-search-for-an-alternative-to-plastic.json",
+  "lessonId": "p1-the-search-for-an-alternative-to-plastic",
+  "sourceId": "157p-jTzIyTPFq-w1ls1zcJmFnM3yw1lM",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "3e75e5ae79b4b24f7c5ebdb492deaeea52174ed6d206a09e152023d556e8999e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.046
+}

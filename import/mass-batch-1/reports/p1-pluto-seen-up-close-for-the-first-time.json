@@ -1,0 +1,17 @@
+{
+  "job": "p1-pluto-seen-up-close-for-the-first-time",
+  "title": "Pluto Seen up Close for the First Time",
+  "part": 1,
+  "fingerprint": "f54a1befd08989c9ba409ccde4fd55c669b63a23d7e3eed8a4d524bfd0cbd142",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1vvkNcS0MJExHmY0vC7xaviY3Nqxp1bGM",
+      "code": "table-layout",
+      "message": "Table grid/merged cells require visual transcription"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.066
+}

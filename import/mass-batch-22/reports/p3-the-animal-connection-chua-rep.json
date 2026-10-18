@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-animal-connection-chua-rep",
+  "title": "The Animal Connection(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "c51603c2360be38b01063881950ce7320332587cfbe4e586b833a892b96db684",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-animal-connection-chua-rep.json",
+  "lessonId": "p3-the-animal-connection",
+  "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "summary-drag",
+    "mc-one"
+  ],
+  "sourceHash": "2aaa8c7889f0cf7b42b5f55ae690e16696ee9821a7486f5a3d0091d8b59d412a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.132
+}

@@ -1,0 +1,148 @@
+{
+  "id": "p3-group-behaviour",
+  "part": 3,
+  "title": "Group Behaviour",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "This lack of individual accountability may lead to people letting go of their inhibitions - a process known as 'deindividuation. Sometimes this is dangerous, releasing violent and impulsive behaviours that individuals would never dream of indulging in alone. This can be seen when crowds of football hooligans abuse and attack people and property Deindividuation does have many negative connotations, says Dr Howat. 'But it's not always a bad thing - it's actually a very normal manifestation of group behaviour.\" Instead of thinking mob violence, think of relaxing, dancing and enjoying yourself at a party - that's deindividuation too."
+    },
+    {
+      "text": "One of the main things groups do is generate ideas and opinions and use these to make decisions. It is widely believed that two - or more - heads are better than one when it comes to these aspects of human behaviour. That's why the modern trend in teaching is for students to work in small groups to prepare presentations and why brainstorming is so popular in the work context. But surprisingly, research has shown that brainstorming by groups isn't that effective in either the number or quality of ideas generated - you get better results if you set people to work individually on a problem."
+    },
+    {
+      "text": "Many people also tend to assume that decisions made by groups are better than those made by individuals. But it is a carefully chosen team not a randomly generated group, that makes creative decisions says Meredith Belbin, whose theories on team-building developed at Henley Management College - have proved successful in businesses around the world. \"Big committees don't get anything done even though many people like them,' he adds. indeed, groups can get a decision badly wrong, because their thought processes can go away - a process psychologists call 'groupthink'."
+    },
+    {
+      "text": "Understanding how people work together is important because group psychology can have many positive applications in both therapy and business. Support groups - including those on the internet - are now available to anybody who wants to be in one and according to Dr Howat, they seem to work in ways that go beyond other sources of help."
+    },
+    {
+      "text": "Thinking about the way we work in groups leads to productivity boosts in business too. Meredith Belbin started by looking at patterns in group dynamics and found that having the smartest people didn't always make the most successful group. He developed a system of key roles that characterise a successful management team. The roles fall into the categories of 'creative brainy and of 'people-orientated.' Putting people in the right role improves productivity and decreases stress. Belbin's inspiration comes from a rather unusual source. 'I am very keen on the idea of the cellular network, which is the way social insects like honey bees and termites co-operate, he says. He believes that the old 'top-down' hierarchy is collapsing and that the future lies with the cellular network."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 35 Look at the following claims (Questions 27-35) and the list of people below. Match each claim with the correct person, A-E. Write the correct letter, A-E, in boxes 27-35 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "Success of group decisions depends on the selection of individual members."
+        },
+        {
+          "n": 28,
+          "prompt": "Interaction with other members of a group is the most effective way of helping individuals with personal problems."
+        },
+        {
+          "n": 29,
+          "prompt": "Group achievement depends on whether each person's contribution is being assessed."
+        },
+        {
+          "n": 30,
+          "prompt": "Groups work better together when members have different strengths."
+        },
+        {
+          "n": 31,
+          "prompt": "Groups can achieve far more than individuals, regardless of the size of the task."
+        },
+        {
+          "n": 32,
+          "prompt": "Loss of individual identity within a group does not necessarily have undesirable consequence."
+        },
+        {
+          "n": 33,
+          "prompt": "Commercial organisations need to consider changing their structures."
+        },
+        {
+          "n": 34,
+          "prompt": "Being part of a group affects the way we see ourselves."
+        },
+        {
+          "n": 35,
+          "prompt": "Achievement when performing in groups depends on the activity."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Douglas Howat"
+        },
+        {
+          "value": "B",
+          "text": "Jim Quick"
+        },
+        {
+          "value": "C",
+          "text": "Robert Zajonc"
+        },
+        {
+          "value": "D",
+          "text": "Max Ringelmann"
+        },
+        {
+          "value": "E",
+          "text": "Meredith Belbin"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 36 – 40 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 36-40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "title": "Experiments in Group Behaviour",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "Two opposing theories were put forward concerning the achievements of individuals performing simple tasks in groups. Proponents of the theory know as {{36}} laimed that individuals performed better when in a group. However, observations of a group of men pulling on a rope seemed to suggest the opposite was true - when working together the used less force. This was referred to as {{37}} . Experiments to observe the achievement of individuals on tasks of a {{38}} nature seemed to give clear results. Two groups were given a computer task and sent to {{39}} . It was found that performance anxiety was experienced by those in the group who believed that they were being evaluated as individuals. As a result, the achievement was lower than that of the other group, who had been told the scores of the group would be {{40}} ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "15Pb3QzntLNlXsNJdbzcnXayES2LeAM_E",
+      "role": "passage-and-questions",
+      "sha256": "85f5cb29c8c5e88f43ebbf972852df5bc75a9b815b64da1d76ce515a38dd7a4f",
+      "name": "Group Behaviour.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.17",
+    "sourceParagraphCount": 5,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-group-behaviour"
+  },
+  "displayParagraphLabels": true
+}

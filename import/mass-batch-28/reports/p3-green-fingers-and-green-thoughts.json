@@ -1,0 +1,33 @@
+{
+  "job": "p3-green-fingers-and-green-thoughts",
+  "title": "Green Fingers and Green Thoughts",
+  "part": 3,
+  "fingerprint": "7fb71102d07c9c16b8b69d477377d35a8beba28b4a5df238aeee70d77653d392",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1E6inLpjEAXlQZzL2vyxBc_VXdCgVdGtS",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-green-fingers-and-green-thoughts.json",
+  "lessonId": "p3-green-fingers-and-green-thoughts",
+  "sourceId": "1E6inLpjEAXlQZzL2vyxBc_VXdCgVdGtS",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "9779833f29047c4190c8232005768cc88dadbacbecad965ade2021538d95db8c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.11
+}

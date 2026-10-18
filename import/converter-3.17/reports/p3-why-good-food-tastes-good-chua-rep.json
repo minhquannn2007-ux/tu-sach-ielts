@@ -1,0 +1,33 @@
+{
+  "job": "p3-why-good-food-tastes-good-chua-rep",
+  "title": "Why Good Food Tastes Good(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "b4f4e18b3f3b4645ed4c2dec02a996b23703f7713bb1fb5928a31bfda80d3395",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1-PpC1iE-4MkgwIG8th3z22sbma61UUmP",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-why-good-food-tastes-good-chua-rep.json",
+  "lessonId": "p3-why-good-food-tastes-good",
+  "sourceId": "1-PpC1iE-4MkgwIG8th3z22sbma61UUmP",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "matching-endings"
+  ],
+  "sourceHash": "62f94aca143a80e91ce0a049dee7e7db305dd4a822253a6c447705f00895046e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.072
+}

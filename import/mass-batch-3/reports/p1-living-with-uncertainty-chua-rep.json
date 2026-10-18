@@ -1,0 +1,17 @@
+{
+  "job": "p1-living-with-uncertainty-chua-rep",
+  "title": "Living with uncertainty (CHƯA REP)",
+  "part": 1,
+  "fingerprint": "d4224cd63c8cb44cedbf1216847ba5d34feca9efe00cf26865910a3450df8f2a",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "129H_kGnBmKq-QGo-hoISAF0AcAs_erVo",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

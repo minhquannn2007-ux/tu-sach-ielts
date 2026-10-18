@@ -1,0 +1,172 @@
+{
+  "id": "p2-birds-in-the-city",
+  "part": 2,
+  "title": "Birds in the City",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Since the late 18th century, when cities became established as hubs of social activity and commerce, people have moved in vast numbers to these urban centers. How has this trend affected wildlife? Obviously, cities are not devoid of animals; many species establish successful populations in the concrete environments, and some, such as rats and pigeons, are universally recognised as creatures that thrive in urban settings. But other species aren’t so lucky. What makes the difference between city success and failure for these animals? That’s exactly the question conservation ecologist Martina Carrete of Pablo de Olavide University in Seville, Spain, wants to answer."
+    },
+    {
+      "label": "B",
+      "text": "We began some years ago to study why some species are able to occupy human areas – why some species invade and others are not able to do it,’ she says. Surely, the way a species interacts with humans would affect its ability to settle in the dense urban environment, she predicted. To investigate this idea, Carrete and a colleague surveyed bird species in and around the coastal city of Bahia Blanca, Argentina. They measured the animals’ fear of humans in terms of flight initiation distance (FID) – the distance separating a bird from an approaching experimenter at the moment when the animal flies away. When they looked at the FID of bird species in rural areas, they found that the average FID of the birds tested gave little indication of whether that species would successfully invade a city. What was significant, however, was the variability in the FID between individuals within one species, in particular the presence of some individuals with a low FID. When urban individuals were studied, they were found to have consistently lower FID – meaning they were less scared of humans – than their rural counterparts. This applied across all species studied."
+    },
+    {
+      "label": "C",
+      "text": "The findings suggested that the process of urbanisation isn’t about habituating or adapting to the presence of humans, but about favouring those individual animals that are naturally less fearful. ‘It used to be that there was a lot of focus either on habituation or [natural] selection, so there was some adaptive change in the population after they got into a city or after their habitat became urbanised,’ says Fran Bonier, a behavioural endocrinologist at Queen’s University in Kingston, Ontario. ‘But the idea that there’s non-random settlement – that birds and other organisms choose where they’re living based on what they can tolerate, that’s gaining traction only in the last few years.’"
+    },
+    {
+      "label": "D",
+      "text": "Carrete found that FID changed little over the birds’ lifetimes. She points out that bold individuals are always bold, and shy individuals are always shy, and that therefore not all birds can be urbanised. In total, the researchers found that roughly half of the avian species in the Bahia Blanca area, including the American kestrel and the chimango caracara, had sufficient numbers of individuals with a low FID to invade the city."
+    },
+    {
+      "label": "E",
+      "text": "‘Some individuals are very afraid of humans, some are not at all, and it’s the ones that are not at all that manage to enter cities,’ says Anders Moller of the Ecologie Systématique & Evolution outside Paris, France, who has made similar findings about the bird species of France and Denmark. ‘This situation is very similar to the process of domestication,’ he adds. ‘The animals that first became domesticated [around 11,000 years ago] – those individuals were the ones that were tolerant to humans or less afraid of humans.’"
+    },
+    {
+      "label": "F",
+      "text": "But how do city birds fare compared to their rural counterparts? Are they more stressed by their environment? To answer these questions, Carrete and her colleagues needed to look inside the birds – at levels of the stress hormone corticosterone (CORT). Over a four-year period, the researchers captured 183 female and fledgling burrowing owls (Athene cunicularia) in and around Bahia Blanca and plucked a single tail feather for CORT analysis. These owls can successfully inhabit urban settings, with six times as many territories in the city as in the rural areas nearby. In the initial piece of research, Carrete’s group found that CORT concentrations were essentially the same between urban and rural owls. ‘[City life] doesn’t mean stress for them,’ says Carrete."
+    },
+    {
+      "label": "G",
+      "text": "The researchers then followed individual owls for several more years in order to see which birds survived. For city birds, they found that birds with intermediate concentrations of CORT had the greatest survival, with both high and low CORT corresponding to lower levels of survival. One possible reason for this pattern, says Bonier, is that high CORT reflects stressful conditions that may have hindered owl survival, while low CORT may point to less-sensitive stress responses that leave the birds in harm’s way."
+    },
+    {
+      "label": "H",
+      "text": "CORT concentrations in feathers can only reveal the accumulation of the hormone over time, however, giving an estimate of a bird’s experience of stress over its lifetime. For an acute measure of stress, researchers typically measure CORT in the blood, which spikes when the birds are captured and handled by humans. In a later study, Carrete and her colleagues examined blood CORT concentrations in the burrowing owls and found that, while urban birds do have a stress response, they bounce back much more quickly than rural birds do. ‘If you manipulate an urban bird, they are a bit scared, but then they recuperate rather quickly,’ says Carrete, ‘while rural birds remain stressed for a long time because they are afraid of us.’"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Reading Passage 2 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 14-17 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "examples of different kinds of animals which are widely known to be successful city-dwellers"
+        },
+        {
+          "n": 15,
+          "prompt": "a method of assessing how anxious a bird is to escape from a human presence"
+        },
+        {
+          "n": 16,
+          "prompt": "a description of a team’s first study focusing on a single species"
+        },
+        {
+          "n": 17,
+          "prompt": "a mention of two species of birds found to have the characteristics necessary for city survival"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 18 – 21 Look at the following statements (Questions 18-21) and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 18-21 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "prompt": "The urbanisation of birds has parallels with a development in early history."
+        },
+        {
+          "n": 19,
+          "prompt": "A bird’s behaviour is likely to remain constant throughout its life."
+        },
+        {
+          "n": 20,
+          "prompt": "There has been a recent shift of opinion regarding urban wildlife."
+        },
+        {
+          "n": 21,
+          "prompt": "Stress affects city birds for less time than it affects countryside birds."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Martina Carrete"
+        },
+        {
+          "value": "B",
+          "text": "Fran Bonier"
+        },
+        {
+          "value": "C",
+          "text": "Anders Moller"
+        }
+      ],
+      "targetName": "researcher",
+      "listTitle": "List of Researchers",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 22 – 26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 22-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "Martina Carrete’s Research",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "In one study of wildlife around the city of Bahía Blanca, Carrete and her colleague approached birds until they flew away, and measured the {{22}} between the researcher and the bird at that moment. This measurement is referred to as the FID. She found that the key factor was variability in levels of nervousness – if individual birds within species had very different levels of nervousness around humans, these species were more likely to invade the city. Another study focused on the levels of CORT, a {{23}} in the body which indicates stress levels. In the first set of experiments, Carrete analysed a {{24}} from each bird. She found that the birds most likely to survive in the city were those with {{25}} levels of CORT. Later, she measured acute stress levels using birds’ {{26}} ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1lwa7FKpp9zZ5tDqW5WUSgiO0SDoT9CVS",
+      "role": "passage-and-questions",
+      "sha256": "a681cc9ab94931397f838b29c3a2fd5618e457e3fadb240384fd89de8d121a9c",
+      "name": "Birds in the City.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.0",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-birds-in-the-city"
+  }
+}

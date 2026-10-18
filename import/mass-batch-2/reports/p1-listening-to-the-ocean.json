@@ -1,0 +1,17 @@
+{
+  "job": "p1-listening-to-the-ocean",
+  "title": "Listening to the Ocean",
+  "part": 1,
+  "fingerprint": "a69337bc7fd38afe7cbbf63743d0318aaaf5a3c63a5d905d14b09aad65e76ff2",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "16x-T6EpjmVZGbBi4zENlazGpsQgTZ5uC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

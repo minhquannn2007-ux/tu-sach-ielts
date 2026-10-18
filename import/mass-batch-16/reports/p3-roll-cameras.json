@@ -1,0 +1,33 @@
+{
+  "job": "p3-roll-cameras",
+  "title": "Roll Cameras!",
+  "part": 3,
+  "fingerprint": "a17096ce3c0160d520944de819c2f8bb8a88f01b12154a834a3521f27228110d",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1Ipxuq53EPtk8fQxdOjqYZCZJtAE0mX9T",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-roll-cameras.json",
+  "lessonId": "p3-roll-cameras",
+  "sourceId": "1Ipxuq53EPtk8fQxdOjqYZCZJtAE0mX9T",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "2c0461ce2b1e666b8d7bbf89234d5b181c46339dd5e624fd969b62878061d140",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.077
+}

@@ -1,0 +1,262 @@
+{
+  "id": "p1-are-dreams-really-meaningful",
+  "part": 1,
+  "title": "Are dreams really meaningful?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Virtually every culture throughout history has developed methods to interpret dreams – most notably, in the modern era, the psychoanalytic approach. But today most people assume that this quest has been unsuccessful. Science, they say, has proved that dream interpretation is a kind of superstition, and that dreams are just random signals sent from primitive regions of the brain, signifying nothing."
+    },
+    {
+      "text": "However, this conclusion is premature. In fact, for many years, researchers have been systematically analyzing the content of dreams. The latest findings from these studies provide compelling evidence that dreaming is not meaningless 'noise', but rather a coherent and sophisticated mode of psychological functioning. Furthermore, advances in digital technology are expanding this approach, potentially boosting our ability to understand the recurring patterns in people's dreams. You could say that we are learning how to data-mine dreaming."
+    },
+    {
+      "text": "Dream content was first studied in this way more than a century ago by an American psychologist called Mary Whiton Calkins. Her 1893 article Statistics of Dreams described one of the first experiments devoted to dream content. Calkins and a colleague kept journals of their dreams, recording each one upon awakening. Calkins collected a total of 375 of these dream records, each of which she analyzed and coded for their content. She then tabulated her results to determine which elements appeared most often. Her discoveries were interesting. She found, for example, that the content of these dreams was routinely characterized by realistic settings, lots of familiar people, a surprisingly high proportion of rational thought and a very striking preponderance of visual imagery."
+    },
+    {
+      "text": "Calkins used fairly simple tools and a small data set to identify patterns in dream content, but later studies have largely confirmed these insights and also extended them. For example, we now know that artists are more likely than non-artists to have nightmares; that children have more animals in their dreams than do adults; and that younger people are more likely than older people to have 'lucid' dreams – those in which people are aware that what they are experiencing is a dream rather than reality."
+    },
+    {
+      "text": "The emergence of modern technology now allows us to take Calkins' rather slow and labor-intensive approach to new levels of speed and sophistication. In the 21st century, the coding categories originally developed by Calkins and others could be used for the analysis not just of hundreds but thousands or even millions of dreams, allowing us to identify new patterns and subtler dimensions of meaning."
+    },
+    {
+      "text": "Dream researcher Kelly Bulkeley has recently explored that possibility by conducting several experiments in 'blind analysis'. This is a technique developed with the help of the psychologist G William Domhoff at the University of California, Santa Cruz. Professor Domhoff sends him a file containing reports of the dreams of a participant whose identity is hidden from Bulkeley. Without reading these, he uploads the data into a computer program designed for this purpose. The program enables the use of a specially designed template to analyze the reports, and to allow the identification of words referring to particular areas of meaning, such as emotions, and so on."
+    },
+    {
+      "text": "Once the template has identified these, he moves on to the next stage. This involves comparing word-usage frequencies in a number of dream reports for a particular individual. He looks for unusually high or low frequencies that might signal meaningful connections between dream content and the person's real life. Then he makes inferences about the participant's activities and relationships in waking life. These are forwarded to the participant via Professor Domhoff and the participant confirms or denies them."
+    },
+    {
+      "text": "This is hardly a perfect method, but the results so far have been positive. To give one example from many, in a recent study published in the journal Dreaming, Bulkeley inferred correctly that one individual worked as a journalist and had a pet dog. His findings suggest that genuinely meaningful aspects of dreaming can be analyzed in an objective way using generally available analytical techniques."
+    },
+    {
+      "text": "We have plenty of evidence to accept the solid working hypothesis that dreams are meaningful to a considerable degree. The question then becomes, what else can we learn? How much more might a technologically enhanced system of dream analysis based on what is now referred to as big data teach us about people's lives?"
+    },
+    {
+      "text": "According to Bulkeley, one thing that researchers could do in greater depth is look at the many different cultures around the globe, from the Inuit of North America to the Xhosa people of South Africa, who have traditions of enhancing people's awareness of their dreams. These cultures have different ways of deriving insight from dreams to benefit the life of the individual and the community. Some may, for instance, make use of drama. Bulkeley believes that by combining the study of these cultures with today's technologies, modern researchers will be able to use new tools to pursue an ancient practice."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 7 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Most people consider dream interpretation to be a scientific activity."
+        },
+        {
+          "n": 2,
+          "prompt": "Recent studies suggest that dream content has significance."
+        },
+        {
+          "n": 3,
+          "prompt": "The patterns of an individual's dreams can be altered by a change in their behaviour."
+        },
+        {
+          "n": 4,
+          "prompt": "Calkins' discoveries were based entirely on her own dreams."
+        },
+        {
+          "n": 5,
+          "prompt": "Calkins' research investigated which elements of dreams occurred most frequently."
+        },
+        {
+          "n": 6,
+          "prompt": "Recent research has shown Calkins' findings to be misleading."
+        },
+        {
+          "n": 7,
+          "prompt": "Children dream for longer periods than adults do."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 8 – 13 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 8-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "ONE WORD ONLY",
+      "noteLayout": {
+        "title": "Kelly Bulkeley's dream research",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Bulkeley receives a {{8}} from Domhoff containing reports of a person's dreams"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "the {{9}} of the person is unknown to Bulkeley"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.63,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Bulkeley uploads data into a computer program"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.61,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "a {{10}} linked to the program makes it possible to find words relating to emotions and"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "other categories"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.61,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "Bulkeley tries to discover {{11}} exist between the person's dreams and their real life"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.51,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Bulkeley accurately guesses that one participant was a {{12}}"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.61,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Bulkeley believes researchers should study the various {{13}} that exist around the"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "world – for example, ones where drama is thought to provide insight into dreams"
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.63,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": "Kelly Bulkeley's dream research",
+      "content": [
+        "Bulkeley receives a {{8}} from Domhoff containing reports of a person's dreams",
+        "the {{9}} of the person is unknown to Bulkeley",
+        "Bulkeley uploads data into a computer program",
+        "a {{10}} linked to the program makes it possible to find words relating to emotions and other categories",
+        "Bulkeley tries to discover {{11}} exist between the person's dreams and their real life",
+        "Bulkeley accurately guesses that one participant was a {{12}}",
+        "Bulkeley believes researchers should study the various {{13}} that exist around the world – for example, ones where drama is thought to provide insight into dreams"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1OfUeLTrDOp4_2VMsSk7ayzbD_1__E9fw",
+      "role": "passage-and-questions",
+      "sha256": "21f56e1f9a261f9cee9758c119e826f3cd05cc9a68a5410d8cf6314e7257b30e",
+      "name": "Are dreams really meaningful.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.4",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-are-dreams-really-meaningful"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "A dream researcher describes the development of dream analysis",
+  "cover": {
+    "asset": "assets/batch2-dream-cover.jpg",
+    "alt": "Giấc ngủ",
+    "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
+    "credit": "Diana Light",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-2-2026-10-12",
+    "checks": [
+      "native source text comparison",
+      "subtitle and title visual review",
+      "source note/table layout review",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

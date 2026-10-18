@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-walking-in-new-zealand",
+  "title": "The history of walking in New Zealand",
+  "part": 1,
+  "fingerprint": "3ec63cc22b0b4f46aaf1ac49a51c6e5d1b9aaf60617a091615bc7d2c8c068cc4",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1TPbW1CLs7iO390N3KUwOAKp3y3-1Dx1T",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-walking-in-new-zealand.json",
+  "lessonId": "p1-the-history-of-walking-in-new-zealand",
+  "sourceId": "1TPbW1CLs7iO390N3KUwOAKp3y3-1Dx1T",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "95f2d18887f86d33a5c2053cd9a12f35b93b0e87165d76e5cbd3a76f63698228",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.077
+}

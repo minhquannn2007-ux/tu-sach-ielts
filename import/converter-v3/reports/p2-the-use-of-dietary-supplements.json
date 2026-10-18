@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-use-of-dietary-supplements",
+  "title": "The Use of Dietary Supplements",
+  "part": 2,
+  "fingerprint": "8daa06f83f4999b30c7b235838f8a91c640774081710821ccca32c422c549d7e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1jTMDqIaIUmQuBIYrRTNxmujIjngbOg06",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-use-of-dietary-supplements.json",
+  "lessonId": "p2-the-use-of-dietary-supplements",
+  "sourceId": "1jTMDqIaIUmQuBIYrRTNxmujIjngbOg06",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "d1b43b903f013767d29b06893bd270f7a85688ea382f348a03573872a69abff6",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

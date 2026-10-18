@@ -1,0 +1,16 @@
+{
+  "job": "p3-grimm-s-fairy-tales",
+  "title": "Grimm's Fairy Tales*",
+  "part": 3,
+  "fingerprint": "0698026f9a09e2a5732eeb398c5f8da738b4f6c23b746d0f3bc8090759981d59",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "code": "source-flag",
+      "message": "duplicate-title: compare the source versions before choosing a lesson"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.0
+}

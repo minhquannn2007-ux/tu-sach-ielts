@@ -1,0 +1,122 @@
+[
+  {
+    "job": "p3-a-history-of-pirates",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-a-history-of-pirates.json",
+    "reasons": [
+      {
+        "sourceId": "124ryZBuHyMJly3KutVw8J1Ipx2cNyHWW",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yOyUTMs6OmW3b8sB9inMZeiXclH6HEWa",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-an-introduction-to-a-new-collection-of-ted-hughes-s-poem",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-an-introduction-to-a-new-collection-of-ted-hughes-s-poem.json",
+    "reasons": [
+      {
+        "sourceId": "1f3i5RaZmtxi5DA19osjV-qldz4LbkWnK",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-back-to-the-future-of-skyscraper-design",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Oq3Y5YVgbaJh9IUNUxfHQpKtUQeU118C",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-beauty",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-beauty.json",
+    "reasons": [
+      {
+        "sourceId": "1xlJ6nIE7vezbtKr1lt-JGX7dGCValUiA",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-brutalist-architecture",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1D14Vx8HJXXXQgA69mCKQYB0cX4-HXNDd",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-new-zealand-short-stories",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-new-zealand-short-stories.json",
+    "reasons": [
+      {
+        "sourceId": "12Z2ma1NkOIE4pNQuKqIZ5qKQO8-8XqND",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-science-in-the-kitchen",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1N2mF1b4FAc4sJG8uVx-mZTrax4lfgmEx",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-self-perceptions",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-self-perceptions.json",
+    "reasons": [
+      {
+        "sourceId": "1yDrAhqGFJrssYMMz9d9ek8aQv-8_r4p3",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-makes-us-human",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-what-makes-us-human.json",
+    "reasons": [
+      {
+        "sourceId": "1KT6QYEfkrxzEjIdu5lSmEdTjKDBQkDfk",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  }
+]

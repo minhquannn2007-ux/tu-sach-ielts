@@ -1,0 +1,17 @@
+{
+  "job": "p1-report-on-a-university-drama-project",
+  "title": "Report on a university drama project",
+  "part": 1,
+  "fingerprint": "1cb7d8176c1bc6255eeba35b62ee3f9d39452880fd175db3551e11b34db76f62",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "18cDXqq0d1UtoxDD4IFjWNXlK-lk7PQ8I",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.049
+}

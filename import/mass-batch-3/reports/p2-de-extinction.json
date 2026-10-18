@@ -1,0 +1,17 @@
+{
+  "job": "p2-de-extinction",
+  "title": "De-extinction",
+  "part": 2,
+  "fingerprint": "9a34d3e8aab7e268d8010fc24e6abb4b9659d06d9ad310c425fb8c18c2b72886",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1VklmsouGIOi4ltzH_Ocp9_0DOUpIQ_C6",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.051
+}

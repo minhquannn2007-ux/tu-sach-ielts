@@ -1,0 +1,33 @@
+{
+  "job": "p2-rocket-science",
+  "title": "Rocket Science",
+  "part": 2,
+  "fingerprint": "c799ca09e9de34422d7b43c25ac6c2fb11c82bf055d3c6a32fb62c6ca3661ca8",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1Xd28uqiGY6rnr5OA7pT_P8qM1SY4zusq",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-rocket-science.json",
+  "lessonId": "p2-rocket-science",
+  "sourceId": "1Xd28uqiGY6rnr5OA7pT_P8qM1SY4zusq",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "cc3b3aaf6a461938901bdca189ce28c50d72bdcf68891e8fab6147003a08a9cc",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.05
+}

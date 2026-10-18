@@ -1,0 +1,17 @@
+{
+  "job": "p2-do-animals-really-remember",
+  "title": "Do animals really remember?",
+  "part": 2,
+  "fingerprint": "9f250b890455c2da8a300cf965a4cbf8c5308227f842f6008bd9a8ee48413063",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "18kolXqjYY5cycQDQjLmk3-Jnwh8NOPLN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+  "title": "What kind of structure will make living in space comfortable for us",
+  "part": 2,
+  "fingerprint": "977dea42660b27dd86471ff95df179ab4d5f4009dcb76dfe3a93631b98ddbd68",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.049
+}

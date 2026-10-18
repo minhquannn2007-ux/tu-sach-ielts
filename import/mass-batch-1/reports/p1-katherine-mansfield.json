@@ -1,0 +1,22 @@
+{
+  "job": "p1-katherine-mansfield",
+  "title": "Katherine Mansfield",
+  "part": 1,
+  "fingerprint": "33b5962a24cb21dfd50c975ed66e00b7566a053354a0bdd990ce5d741471a54a",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1mMDO7aSaEvCrtl43hkTfiz8OVSpcbqpg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1mMDO7aSaEvCrtl43hkTfiz8OVSpcbqpg.json",
+      "ocrConfidence": [
+        89.9,
+        88.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.008
+}

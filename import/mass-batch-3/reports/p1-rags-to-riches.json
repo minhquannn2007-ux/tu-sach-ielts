@@ -1,0 +1,17 @@
+{
+  "job": "p1-rags-to-riches",
+  "title": "Rags to Riches",
+  "part": 1,
+  "fingerprint": "480b54ea9b445d98b9070016b807f9a97eb58174cf62fa0e285b608a7caee8e8",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1aqTUa644iun_uvnpSffSY1T-gwPlOBco",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['C']; expected ['A', 'B', 'C', 'D', 'E', 'F']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.051
+}

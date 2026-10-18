@@ -1,0 +1,33 @@
+{
+  "job": "p3-how-did-music-begin",
+  "title": "How did music begin",
+  "part": 3,
+  "fingerprint": "a429f914bf1be7e1dc361d9181cb14dc38bcece4bc6c2b7a368da12280f81202",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-how-did-music-begin.json",
+  "lessonId": "p3-how-did-music-begin",
+  "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "matching-endings",
+    "ynng"
+  ],
+  "sourceHash": "078cdffdaa7412738bebfff523812aa6eb651ebbda9d9386fb45a62c43fb0c59",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.088
+}

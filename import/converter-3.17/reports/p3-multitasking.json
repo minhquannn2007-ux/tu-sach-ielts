@@ -1,0 +1,33 @@
+{
+  "job": "p3-multitasking",
+  "title": "Multitasking",
+  "part": 3,
+  "fingerprint": "8821e403198d7142a59797c099b5880810d2a26f913d6adb9bf38f10b3d8f35c",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1HkYliPug_vb3TtZlHRnwQhIEKeMn1a_n",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-multitasking.json",
+  "lessonId": "p3-multitasking",
+  "sourceId": "1HkYliPug_vb3TtZlHRnwQhIEKeMn1a_n",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "matching-endings",
+    "ynng"
+  ],
+  "sourceHash": "13fa35f7bf916d2115c28448649f9f7f37099247c75dbb304d4f194ca195da83",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

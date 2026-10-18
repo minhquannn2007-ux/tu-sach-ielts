@@ -1,0 +1,196 @@
+{
+  "id": "p2-when-our-immune-system-works-against-us",
+  "part": 2,
+  "title": "When our immune system works against us",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Since the 1950s, the number of people with diabetes has increased dramatically across the industrialised world. This disease, also known as an autoimmune disorder, causes the immune system (organs, cells and tissues that work together to protect your body from disease) to attack cells that produce insulin, the hormone which removes excess glucose from the blood. It is not the only autoimmune disorder to rise. Coeliac disease is now being diagnosed in growing numbers of infants. The only way to manage symptoms is to follow a strict diet free of gluten, a substance found in most starchy foods. What could explain these trends? In the US, while there is still debate amongst scientists over whether high consumption of milk is a factor, research has proven that certain chemicals in products formed from plastic are responsible for some disorders. Other studies indicate that populations living close to the polar regions are more likely to suffer from diabetes because vitamin D deficiency, caused by a lack of sunlight, increases the chances of the disease occurring. Currently, Finland has the highest incidence of Type 1 diabetes in young people in the world. Out of every 100,000 Finnish children, 64 are diagnosed annually with the disease. Researchers from the University of Helsinki are keen to find out why. Petrozavodsk, a Russian city about 175 miles from the Finland border, may be the perfect place to investigate. The rate of childhood Type 1 diabetes there is one-sixth that of Finland, yet the two populations for the most part share the same genes and inhabit the same subarctic environment. It is the standard of living which differs."
+    },
+    {
+      "label": "B",
+      "text": "Since 2008 the Helsinki researchers, led by Mikael Knip, have taken tissue matter from thousands of children in Finland, Estonia and Petrozavodsk, along with water and dust collected from the subjects’ local area. By comparing them, Knip hopes to isolate what is driving Finland’s diabetes rate up. His theory is that the key difference between the two populations is dirt, and that children in developed nations are too clean. But the idea that dirt, or the lack of it, might play a role in autoimmune disease and allergy is not new."
+    },
+    {
+      "label": "C",
+      "text": "In the 1980s, researcher Erika von Mutius decided to compare asthma rates amongst school children in Munich, West Germany, and in Leipzig, East Germany, to confirm whether air pollution caused asthma. Leipzig was chosen because the surrounding countryside was home to chemical plants and open-pit coal mines. The results were a complete surprise. ‘In fact, at first we thought we should re-enter the data.’ Young Leipzigers had slightly lower rates of asthma — and dramatically less hay fever."
+    },
+    {
+      "label": "D",
+      "text": "Von Mutius then read a paper by David Strachan, a physician who had examined the medical records of thousands of British children for clues to what caused allergies later in life. He found that children with many older brothers and sisters had lower rates of allergies hay fever and eczema, probably because the siblings brought home colds and other germs. Von Mutius wondered whether air pollution might somehow protect East Germans from respiratory allergies. Other researchers began to investigate along the same lines. But it was germ-laden dirt that seemed to matter, not air pollution. Von Mutius now believes the idea of air pollution causing allergies was a myth, instead suspecting that East German children may have benefited from time spent in daycare, developing a stronger immune system through contact with sick friends. She is concerned she might have missed her chance to prove her hypothesis now that Leipzig’s coal pits have been flooded and turned into lakes."
+    },
+    {
+      "label": "E",
+      "text": "The idea that early contact with germs means fewer allergies and autoimmune disorders later is known as the hygiene hypothesis. As Knip explains, ‘The immune system is programmed within the first two years of life. With less early infection, the immune system has too little to do, so it starts looking for other targets.’ Sometimes the immune system overreacts to things it should ignore, like eggs or peanuts. Those are allergies. And sometimes it turns on the body itself, damaging cells we need to produce insulin or targeting the central nervous system. Those are autoimmune disorders. Both appear to be mostly modern phenomena."
+    },
+    {
+      "label": "F",
+      "text": "A century ago more people lived on farms and in the countryside. Antibiotics hadn’t been invented, families were larger, water came straight from rivers. All these circumstances prepared young immune systems well. These findings don’t mean that people should ignore basic hygiene. Its benefits are clear: in the past 60 years, our overall life expectancy has continued to rise. The trick for scientists is to determine exactly which early life exposures to germs might matter."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Reading Passage 2 has six sections, A-F. Which section contains the following information? Write the correct letter, A-F, in boxes 14-17 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reason why it is important to maintain simple hygiene"
+        },
+        {
+          "n": 15,
+          "prompt": "an explanation of how autoimmune disorders differ from allergic reactions"
+        },
+        {
+          "n": 16,
+          "prompt": "a statistic on the occurrence of a particular medical problem"
+        },
+        {
+          "n": 17,
+          "prompt": "ways in which rural life in the past resulted in a properly functioning immune system"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 18 – 21 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-21 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "slots": 1
+        },
+        {
+          "n": 19,
+          "slots": 1
+        },
+        {
+          "n": 20,
+          "slots": 1
+        },
+        {
+          "n": 21,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Not all US researchers agree that {{18}} is potentially harmful to the immune system.",
+        "US studies have shown that particular substances in things made of {{19}} are harmful.",
+        "People who do not get enough {{20}} may not be getting a vitamin they need.",
+        "The people being studied in Russia and Finland are similar in regard to their {{21}} and the type of subarctic environment they live in."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 22 – 26 Look at the following statements (Questions 22-26) and the list of researchers below. Match each statement with the correct researcher, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 22-26 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 22,
+          "prompt": "The concept of pollution making a difference to levels of immunity was entirely wrong."
+        },
+        {
+          "n": 23,
+          "prompt": "It could be a lack of exposure to dirt which is causing an increase in rates of diabetes."
+        },
+        {
+          "n": 24,
+          "prompt": "There is little incentive to take part in immunity research if subjects see no immediate benefit from it."
+        },
+        {
+          "n": 25,
+          "prompt": "If there is no infection in early life, the immune system begins to attack things it does not normally attack."
+        },
+        {
+          "n": 26,
+          "prompt": "Exposure to germs via family members at a young age can prevent allergies developing later in life."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Mikael Knip"
+        },
+        {
+          "value": "B",
+          "text": "Erika von Mutius"
+        },
+        {
+          "value": "C",
+          "text": "David Strachan"
+        },
+        {
+          "value": "D",
+          "text": "Tatyana Varlamova"
+        }
+      ],
+      "targetName": "researcher",
+      "listTitle": "List of Researchers",
+      "reuse": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "1uCJgojcmsVIMRHLoW-m5eQlqFqdLi6Es",
+      "role": "passage-and-questions",
+      "sha256": "ec7b87f279146daa8674ba268b6c5e91be28ea4b1d4f584c889e5add01761820",
+      "name": "When our immune system works against us.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-when-our-immune-system-works-against-us"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Researchers think that dirt could explain why some of the wealthiest countries suffer from medical problems rarely seen in less-developed nations",
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-14-2026-10-13",
+    "checks": [
+      "all source title subtitle and question pages inspected",
+      "source paragraph question option and completion text compared",
+      "source-selected answer count and paragraph scopes preserved",
+      "source note bullets/indents and reading subheadings checked",
+      "original Mungo folder renamed to actual full source title Controversies in Australian Prehistory"
+    ]
+  }
+}

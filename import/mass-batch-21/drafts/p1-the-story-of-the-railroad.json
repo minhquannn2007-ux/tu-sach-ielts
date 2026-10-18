@@ -1,0 +1,168 @@
+{
+  "id": "p1-the-story-of-the-railroad",
+  "part": 1,
+  "title": "The story of the railroad",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "Early Developments Roads consisting of rails, called wagonways, were being used in Germany as early as 1550. These primitive railed roads consisted of rails constructed of timber, over which horse-drawn wagons or carts moved with greater ease than over dirt roads. Wagonways proved to be the beginning of modern railroads."
+    },
+    {
+      "text": "By 1776, iron had replaced the wood in the rails and the wheels on the carts. Wagonways evolved into tramways and spread throughout Europe. Horses still provided all the pulling power. In 1789, Englishman William Jessup designed the first wagons with flanged wheels. The flange was a groove that allowed the wheels to grip the rails better. This was an important design that carried over to all later locomotives."
+    },
+    {
+      "text": "The invention of the steam engine was critical to the invention of the modern railroad and trains. In 1803, a man named Samuel Homfray decided to fund the development of a steam-powered vehicle to replace the horse-drawn carts. Richard Trevithick (1771–1833) built that vehicle, the first steam engine locomotive. On February 22, 1804, the locomotive hauled a load of 10 tons of iron, 70 men and five extra wagons for 9 miles. It took about 9 hours."
+    },
+    {
+      "text": "In September, 1825, the Stockton & Darlington Railway Company began as the first railroad to carry both goods and passengers on regular schedules, using locomotives designed by English inventor George Stephenson. Stephenson's locomotive pulled six loaded coal cars and 21 passenger cars with 450 passengers over 9 miles in about one hour."
+    },
+    {
+      "text": "George Stephenson is considered to be the inventor of the first steam locomotive engine for railways. Richard Trevithick's is considered the first tramway locomotive, being designed for a road rather than a railway. Stephenson was extremely poor growing up and received little formal education. He worked in local coal mines and was self-taught in reading and writing. In 1812, he became a coal mine engine builder, and in 1814 he built his first locomotive for the Stockton & Darlington Railway. Every part of the engine had to be made by hand and hammered into shape. In 1825, Stephenson moved to a different railway where, together with his son Robert, he built the more advanced Rocket (1826-29)."
+    },
+    {
+      "text": "John Stevens is considered to be the father of American railroads. The first railroad charter in North America was granted to him in 1815. Other grants followed, and work soon began on the first operational railroads. In 1826, Stevens demonstrated the feasibility of steam locomotion on a circular track constructed on his estate in the United States, three years before George Stephenson perfected his practical steam locomotive in England."
+    },
+    {
+      "text": "The Pullman Sleeping Car was invented by George Pullman in 1857. Pullman's sleeping car, or sleeper, is a railroad passenger car that can accommodate all its passengers in beds of one kind or another, primarily for the purpose of making nighttime travel more restful. The first such cars saw sporadic use on American railroads in the 1830s and could be configured for seating for daytime use. Some of the more luxurious types had private rooms, that is to say fully and solidly enclosed rooms not shared with strangers."
+    },
+    {
+      "text": "Modern Train Systems In the 1960s and early 1970s, considerable interest developed in the possibility of building tracked passenger vehicles that could travel much faster than conventional trains. From the 1970s, interest in an alternative high-speed technology centred on magnetic levitation, or maglev. Maglev trains float on a cushion of air, decreasing friction. This lack of friction and the trains' aerodynamic designs allow them to reach unprecedented ground speeds of more than 310 mph. Developers say that maglev trains will eventually link cities that are up to 1,000 miles apart. At 310 mph, you could travel from Paris to Rome in just over two hours."
+    },
+    {
+      "text": "Germany and Japan are both developing maglev train technology. Although based on similar concepts, the German and Japanese trains have distinct differences. The German suspension system is called Transrapid and in this system, the bottom of the train wraps around a steel guideway. Electromagnets attached to the train's undercarriage are directed up toward the guideway, which levitates the train about 1/3 of an inch (1 cm) above the guideway and keeps the train levitated even when it's not moving. Other guidance magnets embedded in the train's body keep it stable during travel. Germany has demonstrated that this train can reach 300 mph with people onboard. And the costs of operating maglev trains in Germany are quite reasonable. The magnetic coils become quite hot at high speeds, though, making safety a real worry."
+    },
+    {
+      "text": "Japanese engineers are developing a competing version of maglev trains that use an electrodynamic suspension system, which is based on the repelling force of magnets. And these guideways are made of lead. Japanese trains can also travel very quickly, reaching speeds of up to 360 mph. The key difference between Japanese and German maglev trains is that the Japanese trains use super-cooled, superconducting electromagnets. This kind of electromagnet can conduct electricity even after the power supply has been shut off. In the German system, which uses standard electromagnets, the coils only conduct electricity when a power supply is present. By chilling the coils at sub-zero temperatures, Japan's system saves energy. However, the cooling system is prohibitively expensive."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 6 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-6 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Wood was used to make the first rails."
+        },
+        {
+          "n": 2,
+          "prompt": "The earliest vehicles on rails were powered by steam."
+        },
+        {
+          "n": 3,
+          "prompt": "Flanged wheels became the standard once they were developed."
+        },
+        {
+          "n": 4,
+          "prompt": "When the first steam locomotive was launched, it carried both cargo and people."
+        },
+        {
+          "n": 5,
+          "prompt": "The first regularly scheduled trains seldom ran on time."
+        },
+        {
+          "n": 6,
+          "prompt": "George Stephenson's first locomotive was built by machine."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 7 – 10 Answer the questions below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 7-10 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 7,
+          "prompt": "What was the shape of the track Stevens built on his property?"
+        },
+        {
+          "n": 8,
+          "prompt": "What were Pullman sleeper cars used for during the daytime?"
+        },
+        {
+          "n": 9,
+          "prompt": "What is reduced to increase the speed of trains?"
+        },
+        {
+          "n": 10,
+          "prompt": "What stabilises the body of the German maglev while it's moving?"
+        }
+      ],
+      "type": "short-answer",
+      "wordLimit": "ONE WORD ONLY"
+    },
+    {
+      "sourceInstructions": "Questions 11 – 13 Complete the table below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 11-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "notes",
+      "task": "table",
+      "wordLimit": "ONE WORD ONLY",
+      "tableHeader": true,
+      "table": [
+        [
+          "",
+          "Suspension System",
+          "Guideway Material",
+          "Top Speed",
+          "Problem"
+        ],
+        [
+          "Germany",
+          "Transrapid",
+          "{{11}}",
+          "300 mph",
+          "heat of components can impact on {{12}}"
+        ],
+        [
+          "Japan",
+          "{{13}}",
+          "lead",
+          "360 mph",
+          "expense"
+        ]
+      ],
+      "columnWidths": [
+        13.34,
+        16.7,
+        14.87,
+        15.8,
+        39.29
+      ],
+      "title": "Maglev technology"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1NyE0nGAuH74lvP6lQTx5RTV3LLaSj1w_",
+      "name": "PDF",
+      "role": "passage-and-questions",
+      "sha256": "d99a0a68ce8c9f666d6a91adabecd14f6e1e8730ad652bcc419e66ef2084ee65"
+    }
+  ],
+  "conversion": {
+    "version": "3.21",
+    "jobId": "p1-the-story-of-the-railroad",
+    "sourceParagraphCount": 10,
+    "method": "native-pdf-with-reviewed-layout-adapter",
+    "requiresReview": true
+  },
+  "displayParagraphLabels": true
+}

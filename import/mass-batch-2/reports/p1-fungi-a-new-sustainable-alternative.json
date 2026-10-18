@@ -1,0 +1,17 @@
+{
+  "job": "p1-fungi-a-new-sustainable-alternative",
+  "title": "Fungi: a new sustainable alternative",
+  "part": 1,
+  "fingerprint": "806c39154e9daa1bbc298868cbaec1f46c07ca3eb731c4d45827d4d85093b63d",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1Vf7aAQ_YD1_WdGhJ9kg8oR8xai9Ng-Cp",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-disappearing-languages",
+  "title": "Disappearing Languages",
+  "part": 3,
+  "fingerprint": "ad2a5ee1c0f1b5c32c13ffe7c01ee42ba8f7685d60f13559af724958c03abd2b",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1X1XMmT2KoI69G1RpUsCL7bW2yOvy5pnH",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-disappearing-languages.json",
+  "lessonId": "p3-disappearing-languages",
+  "sourceId": "1X1XMmT2KoI69G1RpUsCL7bW2yOvy5pnH",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "5fa63fdb22dd52d5f1f598672b551d7ebedad428a68ec9957bf3dad1c006cefd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.081
+}

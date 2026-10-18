@@ -1,0 +1,17 @@
+{
+  "job": "p3-learning-to-be-bilingual",
+  "title": "Learning to be bilingual",
+  "part": 3,
+  "fingerprint": "6861bc206ee34b24a38df035969dea2ea2312032eeeb22e4f2b51f0b02ed26c4",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1kmgQnx99g4Idptu-jtWBoa8ucQ6rdZ_p",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

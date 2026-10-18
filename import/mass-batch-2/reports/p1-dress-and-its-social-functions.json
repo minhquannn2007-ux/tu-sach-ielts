@@ -1,0 +1,32 @@
+{
+  "job": "p1-dress-and-its-social-functions",
+  "title": "Dress and its Social Functions",
+  "part": 1,
+  "fingerprint": "0ac7eb7de6697c8a50ab0e0541904203eb56343e60b4967a1b25579a408fad7e",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1NKGviBbMdgxTrUAMvmUfzYhB3nZwGsRi",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-dress-and-its-social-functions.json",
+  "lessonId": "p1-dress-and-its-social-functions",
+  "sourceId": "1NKGviBbMdgxTrUAMvmUfzYhB3nZwGsRi",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "6c61108c2d127f1e7149479a759ea815d449c3747d531ceaa15d153cb52b7d5a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.057
+}

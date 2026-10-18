@@ -1,0 +1,346 @@
+{
+  "id": "p2-conserving-plastic",
+  "part": 2,
+  "title": "Conserving plastic",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "In 1862 at the International Exhibition in London, a new material was first put on public display; the new material was plastic. Since that time many different forms of plastic have been developed and during the last century these plastics became an integral part of our lives. Many artefacts from the 20th century, from iconic items such as early Bakelite radios and iPods, to mundane goods such as children’s lunch boxes, are made from plastics. One of the most appealing aspects of plastics is their flexibility; they can be moulded into almost any shape imaginable, and are available in consistencies ranging from rock-hard to soft and malleable."
+    },
+    {
+      "label": "B",
+      "text": "For much of the last century it was believed that these materials were indestructible. Since the late 1970s, however, as some of the items have become museum pieces, scientists and museum curators have found that the notion was sadly mistaken. When it comes to longevity, plastics have a serious weak spot. In molecular terms, plastics are chain-like carbon-based molecules that can be shaped when warm but become firm once cooled. Over time, the chemical bonds that hold these chains together are destroyed as they are attacked by oxygen in the air or by sunlight, or are simply broken apart by heat. The consequences of these processes are already being seen in materials and objects from the 19th and 20th centuries. Cinema film made from celluloid, for example, caused the movie industry to explode in more ways than one. Celluloid is in some respects an ideal medium for film, as it is both transparent and flexible, but it is also a close relative of another plastic, sometimes known as guncotton, which is an explosive. In hot weather celluloid became unstable and ignited spontaneously. As a result, many early Hollywood movies simply went up in smoke."
+    },
+    {
+      "label": "C",
+      "text": "Other plastics decay in different ways. When the problems of using celluloid became understood, a non-flammable alternative was found. Unfortunately, this alternative, cellulose acetate, has its own inherent problems. Like many other plastics, when cellulose acetate starts to break down, it releases chemicals that attack its own molecular chains so that the plastic is in effect attacking itself, thus speeding up the rate of decay. One of these chemicals is acetic acid, the sour liquid that is the essential ingredient of vinegar. A Russian sculptor of the 1920s and 1930s, Naum Gabo, chose cellulose acetate as his sculpting medium. The Tate Modern gallery in London has a large collection of his works, many of which are from this period. In recent years, several have started to crumble without warning, giving off a distinct vinegary aroma as they do so. Without intervention, the same fate will eventually befall Gabo’s later sculptures, including one which sold for over £1 million at an auction in 2007. Although this sculpture was made from Perspex, a more durable plastic than cellulose acetate, it too will eventually decay back into basic molecular units. A similar fate awaits domestic and commercial doors, windows and water pipes which are of PVC (polyvinyl chloride). PVC often begins to decay after as little as a decade; the first sign of decay is when the surface becomes sticky and shiny."
+    },
+    {
+      "label": "D",
+      "text": "These days the onset of decay in plastics can be put back significantly by adding anti- ageing compounds that block the initial harmful effects of air and sunlight by acting like a sunscreen. Unfortunately, these additives are so costly that manufacturers do not use them unless absolutely necessary. Eventually, these additives also lose their effectiveness. Developing conservation strategies is made more challenging due to the variety of ways in which different plastics degrade. What works to preserve one material can catastrophically shorten the lifetime of another. Most modern plastics decay primarily through reactions with oxygen and are best preserved by sealing them in an oxygen-free atmosphere. Yet cellulose acetate needs exactly the opposite treatment: without a good supply of fresh air the decay is accelerated."
+    },
+    {
+      "label": "E",
+      "text": "Conservation chemists from University College London have been working to find a way to be able to discover the type of plastic which plastic objects are made of. To this end they have developed a gun which shoots a wide spectrum of infrared light towards an object, and from this it is possible to build up a profile of the material from which the object is made. This is a non-destructive technique which the conservationists have already used to investigate the state of preservation of cultural artefacts which are not made of plastic, most notably the original notebooks of the scientist Charles Darwin, which record his thoughts and observations during his voyage on HMS Beagle and which formed the basis of his ground-breaking book on evolution: On the Origin of Species."
+    },
+    {
+      "label": "F",
+      "text": "The infrared gun is being refined so that it will detect not only which plastic an object is made from, but also how degraded it has become. The task then is to devise methods of preserving objects, or at least inhibiting their decay. With limited knowledge and resources at their disposal, the conservationists have had to use a certain amount of improvisation. For example, one way is to freeze plastics to slow the process of decay, and another is to put them in airtight packaging often used by the food industry for meat. Lars Christensen of the National Museum of Denmark supports their work, believing that every generation of humans writes its own history through the artefacts it leaves to its successors. As our generation struggles to piece together the fragmentary records left behind by our ancestors, we should be mindful of our own legacy. He feels that if our plastic items were lost, it would very much affect how future generations would think of us."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a realisation that a long-held assumption was incorrect"
+        },
+        {
+          "n": 15,
+          "prompt": "a method of analysing plastics and other materials"
+        },
+        {
+          "n": 16,
+          "prompt": "a reference to some of the positive features of plastics"
+        },
+        {
+          "n": 17,
+          "prompt": "situations when our senses can be useful in detecting decaying plastic"
+        },
+        {
+          "n": 18,
+          "prompt": "an example of a dangerous reaction of plastic to temperature"
+        },
+        {
+          "n": 19,
+          "prompt": "possible problems in the future for home owners"
+        }
+      ],
+      "sourceInstructions": "Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information? NB You may use any letter more than once.",
+      "paragraphCount": 6,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "reuse": true
+    },
+    {
+      "type": "mc-two",
+      "numbers": [
+        20,
+        21
+      ],
+      "sourceInstructions": "Choose TWO letters, A-E.",
+      "prompt": "The list below gives some of the reasons why the conservation of plastics is a difficult task. Which TWO of these reasons are mentioned by the writer of the text?",
+      "options": [
+        {
+          "value": "A",
+          "label": "A",
+          "text": "There are not enough trained conservationists."
+        },
+        {
+          "value": "B",
+          "label": "B",
+          "text": "Preservation have only a temporary effect."
+        },
+        {
+          "value": "C",
+          "label": "C",
+          "text": "New plastics are less stable than older ones."
+        },
+        {
+          "value": "D",
+          "label": "D",
+          "text": "Different plastics react differently to conservation techniques."
+        },
+        {
+          "value": "E",
+          "label": "E",
+          "text": "Museums are reluctant to spend money on conserving plastics."
+        }
+      ]
+    },
+    {
+      "type": "mc-two",
+      "numbers": [
+        22,
+        23
+      ],
+      "sourceInstructions": "Choose TWO letters, A-E.",
+      "prompt": "The article discusses an infrared gun which is used in plastics conservation. Which TWO of the following statements are made about the infrared gun?",
+      "options": [
+        {
+          "value": "A",
+          "label": "A",
+          "text": "It can damage plastics if it is used repeatedly."
+        },
+        {
+          "value": "B",
+          "label": "B",
+          "text": "It can be used on other materials."
+        },
+        {
+          "value": "C",
+          "label": "C",
+          "text": "It can only be operated in a darkened room."
+        },
+        {
+          "value": "D",
+          "label": "D",
+          "text": "It took a long time to design."
+        },
+        {
+          "value": "E",
+          "label": "E",
+          "text": "It will soon have an additional application."
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "questions": [
+        {
+          "n": 24,
+          "slots": 2
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "sourceInstructions": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "Although celluloid is {{24:0}} and {{24:1}}, it has other characteristics which make it less suitable for use by film makers.",
+        "Anti-ageing compounds, which are used to delay the decay of plastics, operate in a similar way to a {{25}}.",
+        "Two ways of preserving plastic are to put it in an airtight container or to {{26}} it."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1BxIauxdbo64oqFVJwnu_e8FvOH11xkN6",
+      "role": "passage-and-questions"
+    }
+  ],
+  "key": {
+    "14": {
+      "accepted": [
+        "B"
+      ],
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "the notion was sadly mistaken"
+        }
+      ],
+      "explanation": "Đoạn B nói niềm tin rằng nhựa không thể bị phá hủy là sai."
+    },
+    "15": {
+      "accepted": [
+        "E"
+      ],
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "a gun which shoots a wide spectrum of infrared light"
+        }
+      ],
+      "explanation": "Đoạn E mô tả súng hồng ngoại giúp lập hồ sơ vật liệu và đã được dùng cho cả hiện vật không làm bằng nhựa."
+    },
+    "16": {
+      "accepted": [
+        "A"
+      ],
+      "evidence": [
+        {
+          "paragraph": 0,
+          "quote": "they can be moulded into almost any shape imaginable"
+        }
+      ],
+      "explanation": "Đoạn A nêu nhựa có thể tạo gần như mọi hình dạng, với độ cứng và độ dẻo đa dạng."
+    },
+    "17": {
+      "accepted": [
+        "C"
+      ],
+      "evidence": [
+        {
+          "paragraph": 2,
+          "quote": "a distinct vinegary aroma"
+        },
+        {
+          "paragraph": 2,
+          "quote": "the surface becomes sticky and shiny"
+        }
+      ],
+      "explanation": "Đoạn C nêu mùi giấm khi cellulose acetate phân hủy và bề mặt PVC dính, sáng bóng; khứu giác, thị giác và xúc giác có thể giúp phát hiện."
+    },
+    "18": {
+      "accepted": [
+        "B"
+      ],
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "In hot weather celluloid became unstable and ignited spontaneously"
+        }
+      ],
+      "explanation": "Đoạn B nói celluloid có thể tự bốc cháy trong thời tiết nóng, khiến nhiều bộ phim bị cháy."
+    },
+    "19": {
+      "accepted": [
+        "C"
+      ],
+      "evidence": [
+        {
+          "paragraph": 2,
+          "quote": "domestic and commercial doors, windows and water pipes"
+        }
+      ],
+      "explanation": "Đoạn C nói cửa, cửa sổ và ống nước PVC cũng phân hủy, có khi chỉ sau khoảng mười năm."
+    },
+    "20": {
+      "accepted": [
+        "B"
+      ],
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "Eventually, these additives also lose their effectiveness"
+        }
+      ],
+      "explanation": "Các chất phụ gia chống lão hóa cuối cùng cũng mất tác dụng: hiệu quả bảo quản chỉ tạm thời."
+    },
+    "21": {
+      "accepted": [
+        "D"
+      ],
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "What works to preserve one material can catastrophically shorten the lifetime of another"
+        }
+      ],
+      "explanation": "Phương pháp bảo quản một loại nhựa có thể rút ngắn tuổi thọ của loại khác."
+    },
+    "22": {
+      "accepted": [
+        "B"
+      ],
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "cultural artefacts which are not made of plastic"
+        }
+      ],
+      "explanation": "Súng đã được dùng để nghiên cứu hiện vật không phải nhựa, như sổ tay của Darwin."
+    },
+    "23": {
+      "accepted": [
+        "E"
+      ],
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "detect not only which plastic an object is made from, but also how degraded it has become"
+        }
+      ],
+      "explanation": "Súng đang được cải tiến để đo cả mức độ phân hủy, ngoài việc xác định loại nhựa."
+    },
+    "24": {
+      "accepted": [
+        "transparent flexible",
+        "flexible transparent"
+      ],
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "both transparent and flexible"
+        }
+      ],
+      "explanation": "Celluloid vừa transparent vừa flexible. Hai tính từ có thể được điền theo cả hai thứ tự; câu 24 tính một điểm."
+    },
+    "25": {
+      "accepted": [
+        "sunscreen"
+      ],
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "acting like a sunscreen"
+        }
+      ],
+      "explanation": "Các hợp chất chống lão hóa chặn tác động của không khí và ánh nắng, giống sunscreen."
+    },
+    "26": {
+      "accepted": [
+        "freeze"
+      ],
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "freeze plastics to slow the process of decay"
+        }
+      ],
+      "explanation": "Một phương pháp là freeze nhựa để làm chậm quá trình phân hủy."
+    }
+  },
+  "cover": {
+    "asset": "assets/plastic-cover.jpg",
+    "alt": "Radio cổ có vỏ nhựa Bakelite",
+    "credit": "Robert Neild",
+    "source": "https://commons.wikimedia.org/wiki/File:Bakelite_radio.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  }
+}

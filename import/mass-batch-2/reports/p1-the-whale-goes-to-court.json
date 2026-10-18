@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-whale-goes-to-court",
+  "title": "The Whale Goes to Court",
+  "part": 1,
+  "fingerprint": "1d7198d4ec05f359c835137f2df9e1f7582b568bddad4f2cef26ee55fda64cb1",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1mOLhAezuXW2xCd3NMWChkEkR5kRi4JcZ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-whale-goes-to-court.json",
+  "lessonId": "p1-the-whale-goes-to-court",
+  "sourceId": "1mOLhAezuXW2xCd3NMWChkEkR5kRi4JcZ",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "c5f707be45a099057f524b1b027eb76ddbbefcf26376389feec4e8822cf76f76",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.059
+}

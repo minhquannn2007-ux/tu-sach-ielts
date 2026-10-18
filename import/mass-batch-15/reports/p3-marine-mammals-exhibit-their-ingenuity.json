@@ -1,0 +1,17 @@
+{
+  "job": "p3-marine-mammals-exhibit-their-ingenuity",
+  "title": "Marine mammals exhibit their ingenuity",
+  "part": 3,
+  "fingerprint": "1c130dbfd18b2ec67f1d04edea11afb2c516228fe99f65dc9e16d41158e7d5c3",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "17YNHS02aHyOUjpxW1fyAIm6o3OgqmM2b",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-costs-of-brand-loyalty",
+  "title": "The costs of brand loyalty",
+  "part": 3,
+  "fingerprint": "8f164a0038a24ea7b6f7da12f855d9352b2b3ec3262ff55a2fb3e4ff7df1f88b",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-costs-of-brand-loyalty.json",
+  "lessonId": "p3-the-costs-of-brand-loyalty",
+  "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag"
+  ],
+  "sourceHash": "e773c40f79d5d5eced1228073791281e8bc73524d0a708c303a5e2e59722ecae",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.084
+}

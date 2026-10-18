@@ -1,0 +1,17 @@
+{
+  "job": "p3-what-makes-organisations-successful",
+  "title": "What makes organisations successful?",
+  "part": 3,
+  "fingerprint": "317a50bf23a2825eb289a40cab28459dd806fec5933b4b232af70b567990e094",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1C6KOjRP45COrjC30vbrW0KwB8Ly9AuG5",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

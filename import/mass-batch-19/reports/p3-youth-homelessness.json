@@ -1,0 +1,33 @@
+{
+  "job": "p3-youth-homelessness",
+  "title": "Youth homelessness",
+  "part": 3,
+  "fingerprint": "7828c246e0d2b32f3d7d2c8325aeb850a0a7322ffffeca73838d71d1a353db4e",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "14QcHTJq9xbU5cKrMjPeCH5sL-EisHeMt",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-youth-homelessness.json",
+  "lessonId": "p3-youth-homelessness",
+  "sourceId": "14QcHTJq9xbU5cKrMjPeCH5sL-EisHeMt",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "2f2997b48cf61b8d481c49c7a2377e068a07533259a5d355ed9dc66958684866",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

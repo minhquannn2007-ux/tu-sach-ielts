@@ -1,0 +1,16 @@
+{
+  "job": "p3-blind-to-change-doan-4-tu-duoi-len-rep-sai",
+  "title": "Blind to Change (doạn 4 từ dưới lên rep sai)",
+  "part": 3,
+  "fingerprint": "87ed4c402fd687c31839b178cca21789cbddccd293a5e662e7362f1d0878d7c1",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "code": "source-flag",
+      "message": "source-name-requires-comparison"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.001
+}

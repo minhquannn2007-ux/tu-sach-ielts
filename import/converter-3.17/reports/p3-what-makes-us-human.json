@@ -1,0 +1,22 @@
+{
+  "job": "p3-what-makes-us-human",
+  "title": "What makes us human?",
+  "part": 3,
+  "fingerprint": "c01f7b3af41b7e83d50e7f8a775b53aff6152bbae5379c2a91c98db63a4930b5",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1KT6QYEfkrxzEjIdu5lSmEdTjKDBQkDfk",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    },
+    {
+      "sourceId": "1OEQ9InI_nsfspOuBBpnuC1bgT4_LPQRC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.072
+}

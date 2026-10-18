@@ -1,0 +1,32 @@
+{
+  "job": "p1-forty-thousand-year-old-baby",
+  "title": "Forty thousand year old baby",
+  "part": 1,
+  "fingerprint": "a73034ef1517b481818a16920c60bb3cc42c9664558ff69392828f3c009e6bb0",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1brDpWk0BUQNAuIRRuzk5ZFmqxoxAlnU0",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-forty-thousand-year-old-baby.json",
+  "lessonId": "p1-forty-thousand-year-old-baby",
+  "sourceId": "1brDpWk0BUQNAuIRRuzk5ZFmqxoxAlnU0",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "e930cd69d88ddca9ea8cebdfc611a7ce36fefc146965241d95c1846adf166067",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.186
+}

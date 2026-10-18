@@ -1,0 +1,17 @@
+{
+  "job": "p3-on-art-and-artists",
+  "title": "On art and artists",
+  "part": 3,
+  "fingerprint": "856493a25f6c5daa332609392d8a9a4b5a91cac8bedf44f2d1f9573810b5664d",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "19MqZ6f45uCr3uy7j7-aeJNX6Alp3Hjsq",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-asian-space-return-of-an-asian-invention",
+  "title": "Asian space: return of an Asian invention",
+  "part": 3,
+  "fingerprint": "9bbc575ed2f60cb8e063431c0dcd2f63ed68ec17ab1be2268e1cd67dc2f3f8db",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1BvWTpGhA180FlBH7l86IFkFCwhDbxw0O",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-capability-brown",
+  "title": "Capability Brown",
+  "part": 2,
+  "fingerprint": "158c8eb2499b3b4095cc4ef5f2b3a77798a179aef487c7b2fee613f68c09802e",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1TTzqBmQ7zWkfMPak_ujG_cotr7VTnjhN",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-capability-brown.json",
+  "lessonId": "p2-capability-brown",
+  "sourceId": "1TTzqBmQ7zWkfMPak_ujG_cotr7VTnjhN",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "02fac7643866fae3f7e1ba9c4ea4d0154f697449b8350b53afb2ef318acce40f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.102
+}

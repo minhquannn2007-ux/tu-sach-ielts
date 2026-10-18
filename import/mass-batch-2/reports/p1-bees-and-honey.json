@@ -1,0 +1,32 @@
+{
+  "job": "p1-bees-and-honey",
+  "title": "Bees and Honey",
+  "part": 1,
+  "fingerprint": "6303329f97b1e4836c470175ef8747298cc2918d09fa3f620b84a2f2ca2e58b6",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1xBSqoPJBZ0gF6eGTsAwel49k-XgKoFro",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-bees-and-honey.json",
+  "lessonId": "p1-bees-and-honey",
+  "sourceId": "1xBSqoPJBZ0gF6eGTsAwel49k-XgKoFro",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "75a08839f0e93175659b68c08f086690c4e757fe21d3ac7be0d1baa1e56f6629",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.215
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-band-of-holes",
+  "title": "The Band of Holes",
+  "part": 1,
+  "fingerprint": "d60c9a07bf269f14ff00bec2d164d6e4a32839d1b8e00a4b0a4d4fa307bae744",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1skIBSUWZK-0xA2BEx84eKKUWsQIADFx8",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-band-of-holes.json",
+  "lessonId": "p1-the-band-of-holes",
+  "sourceId": "1skIBSUWZK-0xA2BEx84eKKUWsQIADFx8",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "be043630e3a717a973f9d04c452534cdad5c344404183612e1f3d9ea8703ac83",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

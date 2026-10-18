@@ -1,0 +1,184 @@
+{
+  "id": "p2-keeping-an-eye-on-shoppers",
+  "part": 2,
+  "title": "Keeping an eye on shoppers",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Several large retail chains utilise various technologies to monitor customer habits, increase profit margins, and enhance product delivery. Retailers, it seems, are buying the idea that by watching customers while they shop – what might be called ‘retail surveillance’ – and redesigning their shops accordingly, they can get people to spend more."
+    },
+    {
+      "label": "B",
+      "text": "One system, called Smartlane, has been successfully trialled by several major retailers. It has two elements: sensors by the doors count the number of people entering and leaving the shop, and sensors by the tills work out how fast the queues are moving and how many ‘shopping units’ – groups of people, such as families or couples, that make one transaction between them – are standing in each queue. All this information can then be used to predict how many tills will be needed up to an hour in advance and monitor average waiting times and queue lengths. In some cases, a queue longer than one shopping unit triggers the opening of another till. One British retailer said last year that the monitoring system had reduced waiting time for customers and helped to boost the firm’s revenue."
+    },
+    {
+      "label": "C",
+      "text": "This is not the only technology keeping tabs on shoppers. Another supplier of customer-monitoring systems uses dual-lens cameras, which are more accurate than single-lens cameras, in tracking and counting. Rather than monitoring queue lengths, however, the system, called BehaviorIQ, is used by retailers to gather data on where their customers go, how long they slow down to look at different products, and how they react to them. This information can then be compared with the store’s transaction log to determine the effectiveness of store layout, product fixtures and other variables. In-store designs and marketing campaigns that work can be identified and worked on, and those that do not work can be replaced with something more profitable."
+    },
+    {
+      "label": "D",
+      "text": "One of the largest customer-monitoring projects undertaken so far is PRISM (or ‘Pioneering Research for an In-Store Metric’). The project involved the use of sensors at the entrances and exits and in some of the aisles of 160 stores across the US. These sensors recorded data on customer-traffic patterns, to which was added further information recorded by human observers. By comparing the resulting data with sales information, it was then possible to gain insight into shoppers’ behaviour. For example, when observational data on the number of children present during a shopping trip was taken into account, the results were even more detailed: the PRISM results showed that although children took part in only 13 per cent of food-shopping trips, shoppers bought more when accompanied by them. Purchase of seasonal items was two and a half times more likely with children in tow but surprisingly there was no correlation found between the presence of children on a shopping trip and higher spending on sweets."
+    },
+    {
+      "label": "E",
+      "text": "A further adaptation of this technology is VideoMining, which uses a combination of video cameras and software to capture and analyse thousands of hours of footage of customer behaviour. As well as providing information about customer behaviour, the firm’s software can also determine each shopper’s sex, age range and ethnic group with an accuracy of around 80 per cent, says Jeff Hershey of VideoMining. The system can even be programmed to detect the characteristic behaviour of shoplifters as they steal goods from places in the store. Inevitably, all this raises doubts about privacy. Counting customers with motion sensors as they enter a supermarket is one thing, but sorting them into social or racial groups using video analysis is another. Retailers respond that none of the footage or information about individual shoppers is stored and that customers are generally willing to give up some personal information if they feel they are getting some benefit in return."
+    },
+    {
+      "label": "F",
+      "text": "Shoppers are not just being monitored by cameras and heat sensors, however; sometimes their speech is being recorded, too. Recordant, an in-store monitoring system operated by a company based in Atlanta, provides shop assistants with digital-audio recorders, to be hung around their necks, which record all their conversations with shoppers. At the end of each day the recording devices are plugged into special docking stations and the recordings are uploaded to Recordant’s headquarters for analysis. Its software scans the recorded dialogue for particular words or phrases without the need for any human input, in order to provide accurate information on employee performance and customer behaviour. By providing precise measurements, the technology allows retailers to refine their employee training programmes. They can even programme the system to search for any mention of their competitors. Unlike systems based on video cameras or sensors, users of Recordant’s technology are required to notify customers explicitly that their conversations are being recorded."
+    },
+    {
+      "label": "G",
+      "text": "As useful as customer-tracking systems may be for protecting harassed staff or minimising shoplifting, however, their primary objectives are clear. In an age when traditional ‘bricks and mortar’ retailers face stiff competition from online merchants, any means they can use to get customers into their shops and buying as much as possible is seen as a worthwhile investment."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-17 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a mention of the influence certain technology has on professional development of staff"
+        },
+        {
+          "n": 15,
+          "prompt": "how technology can identify the profile of individual customers"
+        },
+        {
+          "n": 16,
+          "prompt": "a mention of a significant current challenge to conventional shops"
+        },
+        {
+          "n": 17,
+          "prompt": "how retailers use the data to evaluate the way their products are presented"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 18 – 23 Look at the following statements (Questions 19-23) and the list of researchers below. Match each statement with the correct researcher, A-E. Write the correct letter, A-E, in boxes 18-23 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "prompt": "Computers search for specific language used in the store."
+        },
+        {
+          "n": 19,
+          "prompt": "Feedback is collected from people who watch customer activity."
+        },
+        {
+          "n": 20,
+          "prompt": "Staff wear the monitoring technology."
+        },
+        {
+          "n": 21,
+          "prompt": "It is possible to identify criminal behaviour in a store."
+        },
+        {
+          "n": 22,
+          "prompt": "Only customer arrivals, departures and lines are monitored."
+        },
+        {
+          "n": 23,
+          "prompt": "Cameras focus on the way customers move around the store and the places they stop."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Smartlane"
+        },
+        {
+          "value": "B",
+          "text": "BehaviorIQ"
+        },
+        {
+          "value": "C",
+          "text": "PRISM"
+        },
+        {
+          "value": "D",
+          "text": "VideoMining"
+        },
+        {
+          "value": "E",
+          "text": "Recordant"
+        }
+      ],
+      "targetName": "researcher",
+      "listTitle": "List of Technologies",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24,
+          "slots": 1
+        },
+        {
+          "n": 25,
+          "slots": 1
+        },
+        {
+          "n": 26,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "In the Smartlane system, people who shop together are referred to as {{24}} .",
+        "The PRISM project identified increased spending when shoppers had {{25}} with them.",
+        "The Recordant technology looks at customer behaviour and employee problems, and can even check whether shoppers talk about the shop’s {{26}} ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1icMTjh7frGLtOdQ9LcTrISqdqJkAB_Kz",
+      "role": "passage-and-questions",
+      "sha256": "4a5f21ff903751488e83893bf880c7e979de4881ca3d4ad037f44f9954bb3f13",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.13",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-keeping-an-eye-on-shoppers"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Big shops are using elaborate technology to monitor and influence the behaviour of their customers"
+}

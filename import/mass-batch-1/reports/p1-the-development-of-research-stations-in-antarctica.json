@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-development-of-research-stations-in-antarctica",
+  "title": "The Development of Research Stations in Antarctica",
+  "part": 1,
+  "fingerprint": "9db173237b20cc31c04a1e649cd028767d0bc3ae14c9c6dad4477d4046af900a",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1fXuia-RMrws4jj8R0qSc0hEg7Fv-LPyf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-development-of-research-stations-in-antarctica.json",
+  "lessonId": "p1-the-development-of-research-stations-in-antarctica",
+  "sourceId": "1fXuia-RMrws4jj8R0qSc0hEg7Fv-LPyf",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "8f916c3b7ad19acd940f78c6c909c8e272d8ea733da0a2dbd2af9fc1b94b87b5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.048
+}

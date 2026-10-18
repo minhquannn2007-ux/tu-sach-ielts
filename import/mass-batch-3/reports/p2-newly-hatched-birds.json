@@ -1,0 +1,17 @@
+{
+  "job": "p2-newly-hatched-birds",
+  "title": "Newly hatched birds",
+  "part": 2,
+  "fingerprint": "3b2ac82fc1663a88d31b4ba0d20351bacdb19bbb2b189460f6cf172b930a0c2a",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1hc3_OGqV978ULgq_uV5aogZaKIfUaMnf",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.047
+}

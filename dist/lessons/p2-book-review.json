@@ -1,0 +1,228 @@
+{
+  "id": "p2-book-review",
+  "part": 2,
+  "title": "Book Review",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "If you could drill a hole from London through the centre of the Earth and out the other side, the hole would emerge somewhere near the Antipodes and Bounty Islands, in New Zealand’s subantarctic region. On the face of it, finding a book’s worth of information about two inhospitable, uninhabited groups of islands would seem an impossible task, but Rowley Taylor has succeeded with 366 pages of minutely researched history."
+    },
+    {
+      "label": "B",
+      "text": "In the early 1800s, the Antipodes and Bounty Islands were favourite destinations for sealers – those men who caught seals for their skins. Taylor first came to the islands as a scientist to investigate present-day numbers of the New Zealand fur seal, and in the process of this work he discovered a wealth of historical information that warranted further exploration. The result is the publication of this book."
+    },
+    {
+      "label": "C",
+      "text": "Given the scarcity of visitors today, it seems remarkable that in the summer of 1805 an estimated 86 sealers lived on the Antipodes Islands. It was a harsh life on these spray-swept subantarctic rocks, the weather dominated by rain, fog and wind, the labour of catching seals dirty and dangerous. One sealer who got to know the islands all too well was an Irishman named Jack Coffee who was put ashore with a couple of shipmates in the 1820s, supposedly for a few months until their ship picked them up. But it never did, and Coffee’s group waited on, often starving, until a stranger took them off after they had given up all hope."
+    },
+    {
+      "label": "D",
+      "text": "The Antipodes have been the site of many shipwrecks, not least because the group of islands was wrongly charted for years, being shown some 40 miles too far east. One of the first to fall victim in the Antipodes was the ship Dawn. Unusually, the wind was light at the time of the wreck, but the ship struck the rocks in thick fog. The castaways* were fortunate, however, because it was the penguin breeding season, and each man ate 30 to 40 eggs a day. In the evenings, they used to knock the tops off a number of eggs and stand them on the ledges of their sleeping cave, so they were easy to find if they became thirsty in the middle of the night. They also ate the root of the Macquarie Island cabbage, which grew in places where sufficient soil had accumulated among the rocks."
+    },
+    {
+      "label": "E",
+      "text": "A second important shipwreck was a French vessel named Président Félix Faure. All 22 sailors reached shore safely and during their residence demonstrated remarkable ingenuity, making spoons from shells and knives from the hoops of a barrel. They also sent rescue messages attached to the necks of albatross birds, though none ever reached human hands, and in the end they were rescued by another ship. The captain of the Faure wrote afterwards of his great relief: it was not until he was standing on the deck of the rescue ship that he could believe the whole party had finally escaped from the rough and terrible little island."
+    },
+    {
+      "label": "F",
+      "text": "Such was the frequency of shipwrecks that castaway depots were built in both groups of islands from 1886. The depots took the form of simple, box-like huts, built of wood with iron roofs. Because the islands were home to multitudinous populations of penguins, petrels and albatrosses, it was found necessary to construct these buildings with great care, the boards being tightly nailed together, for if there were any gaps between them, feathers could be blown inside by the constant wind. This didn’t do any damage, but over the years the building would be filled up right to the roof. Once constructed, the huts were stocked with blankets and clothing, while plenty of fishing gear was also provided so that castaways could catch food for themselves. Finally, after the rescue of the French sailors, none of whom could speak English, the Antipodes depot was provided with a textbook consisting of materials to help castaways learn that language."
+    },
+    {
+      "label": "G",
+      "text": "Some of the depots still survive today, although many have had their roofs and doors torn off by the fierce gales that are endemic to the region. Taylor also laments the more recent loss of artefacts from within some depots, removed by souvenir hunters who occasionally visit the islands. He devotes significant space in the book to the history of these castaway depots, listing their dimensions and contents, the people who built them and repaired them, all in such minute detail that even the most enthusiastic reader may tire at times. However, in amongst this mass of information there are certainly some items of great interest, such as examples of graffiti left on the walls of the huts by desperate and bored castaways, which Taylor seems especially fascinated by."
+    },
+    {
+      "label": "H",
+      "text": "Preservation of such unique island habitats has been a high priority for years. Just consider that Leeward Island, one of the Antipodes, has never felt the foot of man – it is an ecological time capsule and should stay that way, Taylor believes, disturbed only by the wind."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Reading Passage 2 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 14-18 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "an error regarding the recording of the islands’ location"
+        },
+        {
+          "n": 15,
+          "prompt": "a story about men whose ship did not return for them"
+        },
+        {
+          "n": 16,
+          "prompt": "an account of how this book came to be written"
+        },
+        {
+          "n": 17,
+          "prompt": "a reason why this book might have been difficult to write"
+        },
+        {
+          "n": 18,
+          "prompt": "a criticism of the book’s content"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 19 and 20 Choose TWO letters, A-E Write the correct letters in boxes 19 and 20 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "type": "mc-two",
+      "numbers": [
+        19,
+        20
+      ],
+      "prompt": "Which TWO statements are true of the Dawn castaways?",
+      "options": [
+        {
+          "value": "A",
+          "text": "They were wrecked in a bad storm."
+        },
+        {
+          "value": "B",
+          "text": "They were lucky to be wrecked at that particular time."
+        },
+        {
+          "value": "C",
+          "text": "They built a shelter to live in."
+        },
+        {
+          "value": "D",
+          "text": "They collected rainwater in eggshells."
+        },
+        {
+          "value": "E",
+          "text": "They ate a type of plant to help them survive."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 21 and 22 Choose TWO letters, A-E Write the correct letters in boxes 21 and 22 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "numbers": [
+        21,
+        22
+      ],
+      "prompt": "Which TWO statements are true of the Président Félix Faure castaways while they were on the island?",
+      "options": [
+        {
+          "value": "A",
+          "text": "They manufactured tools and other implements."
+        },
+        {
+          "value": "B",
+          "text": "They ate albatross birds to survive."
+        },
+        {
+          "value": "C",
+          "text": "They managed to communicate with the outside world."
+        },
+        {
+          "value": "D",
+          "text": "They grew to be fond of the island over time."
+        },
+        {
+          "value": "E",
+          "text": "They all survived their ordeal on the island."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "Castaway depots",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Huts were built on the islands in the nineteenth century to provide shelter for castaways. Although very basic structures, the huts needed to be carefully built or they could fill up with {{23}} . Each one was supplied with bedding, clothes and equipment for {{24}} in order to help castaways survive. One hut also contained a useful {{25}} because of the experiences of some French castaways. Today, many of the huts are not in their original condition because of the weather and souvenir hunters. The author found it particularly interesting to look at the {{26}} left behind by the castaways."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1nJtofbWj5xKqucx_Tit5vLxpXVa_vDRo",
+      "role": "passage-and-questions",
+      "sha256": "4d5a201ef58f664535639ef72cd58409be1be634fc84ada86ceaf24f9e726f3f",
+      "name": "Book Review.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 8,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-book-review"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Straight through from London: the Antipodes and Bounty Islands, New Zealand by Rowley Taylor",
+  "footnotes": [
+    "* castaway: a person whose ship has sunk and who is trapped on an uninhabited island"
+  ],
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-4-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

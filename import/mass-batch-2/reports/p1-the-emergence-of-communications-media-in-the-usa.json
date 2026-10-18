@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-emergence-of-communications-media-in-the-usa",
+  "title": "The emergence of communications media in the USA",
+  "part": 1,
+  "fingerprint": "043dc50bc96e397c39675e6e0cf2393c5b3cbf5849999f86b3575d4de931a539",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1XjpdXD0zW-K0AeJi0AojgAdXLre5I_Im",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

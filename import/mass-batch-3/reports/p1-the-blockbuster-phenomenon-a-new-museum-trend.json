@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-blockbuster-phenomenon-a-new-museum-trend",
+  "title": "The Blockbuster Phenomenon - a new museum trend",
+  "part": 1,
+  "fingerprint": "ae25ddff449ed63af77be68fddba82de4e3c0770ad0a73b2808db393e6408e15",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1aUL9dgQxcaXxVsz3OeLbeSKvZACUPVzp",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.073
+}

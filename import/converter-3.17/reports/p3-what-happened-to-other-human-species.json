@@ -1,0 +1,22 @@
+{
+  "job": "p3-what-happened-to-other-human-species",
+  "title": "What happened to other human species?",
+  "part": 3,
+  "fingerprint": "b675ade44d84c4d5be821658bcc09677ce57d418e88b85cc066523d48c8508c1",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1VGt-Lplt3-bYnJv5onh7ZjwqL29fEb29",
+      "code": "question-numbering",
+      "message": "Missing, duplicate or unordered numbered prompts"
+    },
+    {
+      "sourceId": "1YoCaVqpsby1dS6y1G1pkPlkQEvEAv5iQ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.082
+}

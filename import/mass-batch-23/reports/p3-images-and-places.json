@@ -1,0 +1,17 @@
+{
+  "job": "p3-images-and-places",
+  "title": "Images and Places",
+  "part": 3,
+  "fingerprint": "090a8144657f7925f1b0359371cfd703cd22738c7dd4337002c7337d059ff200",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1058hWttcIVxy5-a58i706BJXVV--knls",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

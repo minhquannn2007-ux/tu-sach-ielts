@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-history-of-men-s-leisurewear",
+  "title": "The History of Men's Leisurewear",
+  "part": 2,
+  "fingerprint": "42d95b567dbf342d5553dbef135d4399eb02a28aeaab962d50eac20dc33c513a",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1k6yHjyhihZ0vEgfPG-IPdKJ4g5r-zXZO",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-history-of-men-s-leisurewear.json",
+  "lessonId": "p2-the-history-of-men-s-leisurewear",
+  "sourceId": "1k6yHjyhihZ0vEgfPG-IPdKJ4g5r-zXZO",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "aae39015384ef7ba0ee00f16d879477c2257dc3271cfdd3b87e0e7542b7f2d00",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

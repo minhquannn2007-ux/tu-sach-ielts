@@ -1,0 +1,17 @@
+{
+  "job": "p2-natures-positive-effects-on-well-being",
+  "title": "Nature’s positive effects on well-being",
+  "part": 2,
+  "fingerprint": "08ae2118a96440529891db7349b53e903f45ebad87b0e18941ba075014bae55d",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1ewXluQFHjIF8iq7UGh1qGqP1UOi-hIKX",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.001
+}

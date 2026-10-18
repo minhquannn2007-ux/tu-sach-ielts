@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-farming",
+  "title": "The history of farming",
+  "part": 1,
+  "fingerprint": "c84ebd7efabd2032816fa85b1ddc758cbaf7942b95ebb63b113f1441edf8d20f",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "10ZIJ4GRTl171g2X3U1DY8rbLmxM6C37S",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-farming.json",
+  "lessonId": "p1-the-history-of-farming",
+  "sourceId": "10ZIJ4GRTl171g2X3U1DY8rbLmxM6C37S",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "9ca7d12840105ff717103263146a1b2a98c78caf8306d3dd3c4ec6c323c82e8c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.065
+}

@@ -1,0 +1,34 @@
+{
+  "job": "p3-the-wooden-huts-of-antarctica",
+  "title": "The wooden huts of Antarctica",
+  "part": 3,
+  "fingerprint": "bdd25e0a8c8bd8a1224c34468bf8ac5c6750cf27004b44e0a6c2510b753b8613",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1mAOdxqZYjdsEUBITObg0jm7tylMr7BbD",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-wooden-huts-of-antarctica.json",
+  "lessonId": "p3-the-wooden-huts-of-antarctica",
+  "sourceId": "1mAOdxqZYjdsEUBITObg0jm7tylMr7BbD",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag",
+    "mc-one"
+  ],
+  "sourceHash": "eef3ece7d2fedb826f23700ca2eacdf5404fe0c27f429b12bb363786e3028dc1",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.096
+}

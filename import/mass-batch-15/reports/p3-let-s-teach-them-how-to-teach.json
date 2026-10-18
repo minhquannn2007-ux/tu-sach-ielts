@@ -1,0 +1,17 @@
+{
+  "job": "p3-let-s-teach-them-how-to-teach",
+  "title": "Let's teach them how to teach",
+  "part": 3,
+  "fingerprint": "d986e675fa568477e3248f0dd0743f6a98c7e661622851b9d0eb97df5e8b9b5b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1BeMA1A7uK06UnmPu8W7um8PhfDnh3TOI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

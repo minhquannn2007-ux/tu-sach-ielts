@@ -1,0 +1,27 @@
+{
+  "job": "p3-business-innovation",
+  "title": "BUSINESS INNOVATION",
+  "part": 3,
+  "fingerprint": "890dbfba6147d24e25ee9c18358f07b3159292e8cb9c0789d2861892925e7444",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1uLPTHzuqyaCss6dRZIjWjZwDwhBUAk4j",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1w8zll-ptMi9MSxOJmhOww25aGnLjGjFe",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1AqELDoqjGzyFpeCdbREpCORFOBMPLTs9",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

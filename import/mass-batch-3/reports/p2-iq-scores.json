@@ -1,0 +1,17 @@
+{
+  "job": "p2-iq-scores",
+  "title": "IQ Scores",
+  "part": 2,
+  "fingerprint": "82a627f29e62b517fc5bb702074c4958ec78edcca47c285f707e21cd11a37822",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1drHyUuA3NbQbrEKPgXxlN9ZrJfwG7qK2",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

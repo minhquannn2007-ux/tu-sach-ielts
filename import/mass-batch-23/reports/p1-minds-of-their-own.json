@@ -1,0 +1,17 @@
+{
+  "job": "p1-minds-of-their-own",
+  "title": "Minds of their own",
+  "part": 1,
+  "fingerprint": "952ad4d33f715dd25211433d4cadbd77d863141581aff7701ec1c23a1fb680aa",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "165TFc59Ot57e9ESgQf4AuTp8_VKVsCli",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

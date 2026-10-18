@@ -1,0 +1,845 @@
+{
+  "converterVersion": "3.20",
+  "selected": 31,
+  "cachedSources": 42,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 15,
+    "held": 16,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "seconds": 0.451,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+      "title": "A brome lives on - how a British grass escaped extinction",
+      "part": 1,
+      "fingerprint": "bc6744e9978acc0db4ddaf103b6e556b065e02966a1ad49124822349ce9ee561",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1VBFTYdi9Kr9R9S9f2DAILQ8HDuHUZpJ4",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-a-brome-lives-on-how-a-british-grass-escaped-extinction.json",
+      "lessonId": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+      "sourceId": "1VBFTYdi9Kr9R9S9f2DAILQ8HDuHUZpJ4",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "matching-features"
+      ],
+      "sourceHash": "80a2cdc8b0585afed328b26c5a93130368d038546c8bee460f88c90add2e905d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.141
+    },
+    {
+      "job": "p1-ancient-greek-coins",
+      "title": "Ancient Greek Coins",
+      "part": 1,
+      "fingerprint": "c9809425624399f19503fb2745eb3ecb6c097331a83e0cbebdd1a76a47b01319",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1M5aU9jjdsFn-A19HsymivqlERG_jLtFk",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.083
+    },
+    {
+      "job": "p1-becoming-an-expert",
+      "title": "Becoming an expert",
+      "part": 1,
+      "fingerprint": "007e516dfd132376069f7eb28bc387998c9c512fc7e4d8c16e2ac92c41e00822",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1uX8DgV1Ifa_9sQGM1S9yWQtUgusM44JJ",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        },
+        {
+          "sourceId": "1BhjKyQRuGmF1Qg1S7wqv0GCYlirfyQ_f",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.07
+    },
+    {
+      "job": "p1-buried-cities-of-the-amazon-rainforest-chua-rep",
+      "title": "Buried cities of the Amazon Rainforest(CHƯA REP)",
+      "part": 1,
+      "fingerprint": "bcbc55037614ab75bc75a68957c2fb3a434c50d60d4be1d00e6b61d3a3b8b44c",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1_gXznjf9E3er02TzR1fa46jhOBjWAVN2",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-buried-cities-of-the-amazon-rainforest-chua-rep.json",
+      "lessonId": "p1-buried-cities-of-the-amazon-rainforest",
+      "sourceId": "1_gXznjf9E3er02TzR1fa46jhOBjWAVN2",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "a51965a6124dedb6b470004368d26bb5c15cdab07188c485fd480115853f05f3",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.125
+    },
+    {
+      "job": "p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang",
+      "title": "Sweet Trouble",
+      "part": 1,
+      "fingerprint": "f0dbea3e77252e1395f7c04d93a5838849848a9fdaf472f33ccdb823477d6320",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "11wpJmVGf0pwcE4uDFL2HM13TrjO3ekWW",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang.json",
+      "lessonId": "p1-sweet-trouble",
+      "sourceId": "11wpJmVGf0pwcE4uDFL2HM13TrjO3ekWW",
+      "questionCount": 13,
+      "types": [
+        "matching-features",
+        "mc-one",
+        "tfng"
+      ],
+      "sourceHash": "3621f39d1dae358f0eafa23d1975d69d80a505c9777d33a1c4adc77adba80a86",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.109
+    },
+    {
+      "job": "p1-temperature-rising",
+      "title": "TEMPERATURE RISING",
+      "part": 1,
+      "fingerprint": "d23563df70366168886f8c71865fee1c4c24e21d1a02c3b88287e1f78c68b237",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1KcR8hdjiTFMguFrdvZWj77f1tc_XphTm",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-temperature-rising.json",
+      "lessonId": "p1-the-impact-of-global-warming-on-the-tourism-industry",
+      "sourceId": "1KcR8hdjiTFMguFrdvZWj77f1tc_XphTm",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "3ad2bc830c81d622d92e9c9c0ab4961ecaadf8ca4a8b555f0cdb2ad776f9fc65",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.097
+    },
+    {
+      "job": "p1-the-history-of-cakes-at-wedding",
+      "title": "The history of cakes at wedding",
+      "part": 1,
+      "fingerprint": "347b039fe14954ed8a7eee46e74b27412c3055972837dfe183b73f418bd70229",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1EE7CJfXm6bqGRkVQJHvSv9PptXNmfott",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.073
+    },
+    {
+      "job": "p1-the-history-of-the-british-wool-industry",
+      "title": "The history of the British wool industry",
+      "part": 1,
+      "fingerprint": "55d7e13935ef2f26df441dd5deb57ae5d5f202f7d8f56c633edfa6e2b4dd5b9b",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+          "code": "source-layout",
+          "message": "Parallel note columns need source-specific layout review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.102
+    },
+    {
+      "job": "p1-the-life-of-louis-braille",
+      "title": "The Life of Louis Braille",
+      "part": 1,
+      "fingerprint": "f428231e0ae15a856968b7d11ed3c7018a8c988e5737c7f159b5c3e0fa23e72a",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-the-life-of-louis-braille.json",
+      "lessonId": "p1-the-life-of-louis-braille",
+      "sourceId": "1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5",
+      "questionCount": 13,
+      "types": [
+        "notes",
+        "tfng"
+      ],
+      "sourceHash": "b8c2fd0e15a14e32df24218ec73160ab3e1b873c817874d792afd7ad5846fb2e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.058
+    },
+    {
+      "job": "p1-transport-and-transport-systems-during-the-roman-empire",
+      "title": "Transport and transport systems during the Roman Empire",
+      "part": 1,
+      "fingerprint": "fe674839e60a7f52dd59885e63eee29671218810833126220a385c2727b05ccb",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1CrYGlHGRgO_p5-yql5u8cgWZjL-T9p8Z",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-transport-and-transport-systems-during-the-roman-empire.json",
+      "lessonId": "p1-transport-and-transport-systems-during-the-roman-empire",
+      "sourceId": "1CrYGlHGRgO_p5-yql5u8cgWZjL-T9p8Z",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "a4e60cff024bde14a7d6edf564f7a1669024c057e7570757f4de75c2cd6f0469",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.092
+    },
+    {
+      "job": "p1-under-the-skin-of-a-great-violin",
+      "title": "Under the skin of a great violin*",
+      "part": 1,
+      "fingerprint": "2b6787d1c6a47b02c5be2e1d5bf5b6340b144bdd91f575921fce1dee5d3e0706",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1rUJwV84CSsaquLZfj9XHKS7mX5NiYwpY",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-under-the-skin-of-a-great-violin.json",
+      "lessonId": "p1-under-the-skin-of-a-great-violin",
+      "sourceId": "1rUJwV84CSsaquLZfj9XHKS7mX5NiYwpY",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "66a642d1ba8d84d0bc4a9a49f5d23df6b67a25186c11bd3fa4757099bdbd734c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.134
+    },
+    {
+      "job": "p1-what-do-managers-really-do",
+      "title": "What do managers really do",
+      "part": 1,
+      "fingerprint": "6285b18f1d738620d17040d4ae3d17366099007b4d0680703035904e3ddf4c90",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1hKzouf53pVPvzt3A-WmnuO3GXzO42_FO",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-what-do-managers-really-do.json",
+      "lessonId": "p1-what-do-managers-really-do",
+      "sourceId": "1hKzouf53pVPvzt3A-WmnuO3GXzO42_FO",
+      "questionCount": 13,
+      "types": [
+        "matching-features",
+        "mc-two",
+        "tfng"
+      ],
+      "sourceHash": "0ab6473b01ec423ff12d517e943113b869335e81c87332a80261caa3163b31da",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.094
+    },
+    {
+      "job": "p2-brains-trust-learning-about-ourselves",
+      "title": "Brains trust: learning about ourselves",
+      "part": 2,
+      "fingerprint": "a6ca22daccc4177f4b9881610740f45c06a1d14546492ffc00107c4ca906e95a",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1y72bDVh6e0Sd5IQf6oD9UThUOKd_AHqL",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-brains-trust-learning-about-ourselves.json",
+      "lessonId": "p2-brains-trust-learning-about-ourselves",
+      "sourceId": "1y72bDVh6e0Sd5IQf6oD9UThUOKd_AHqL",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "734c4d1584de22998d3dfc3f437640a339201460e4fb6916374b775247a02b0f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.098
+    },
+    {
+      "job": "p2-coins-the-first-form-of-money",
+      "title": "Coins - the first form of money",
+      "part": 2,
+      "fingerprint": "b2c51ea53055ec34e9287f9b76d7ccda357389a1fb7929a67fbae74ce1c265ff",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1ERFNjlevvguQeaTyiUqNgTlRHRVzL7Hu",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        },
+        {
+          "sourceId": "1re9wB2b5eo9q9pa_zxskKTo0hbO2wkxP",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.058
+    },
+    {
+      "job": "p2-considerate-technology-chua-rep",
+      "title": "Considerate Technology",
+      "part": 2,
+      "fingerprint": "31387ab5d1b6440d266061f74118f8f84cdacdc11d48b5e57707c16615575744",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "14frXmdnqyhyXnN5qgZEPmq2uNHd9GVdE",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        },
+        {
+          "sourceId": "1Leg6Q0bwOJzrFCNr_e3OB7qrwh3pqz_h",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.09
+    },
+    {
+      "job": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+      "title": "Japanese Bizen Art that Rose from the Ashes",
+      "part": 2,
+      "fingerprint": "cdfd2ee4a6a14111b99726e3c040955067efab18983e7ba20c409d4b311505f9",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        },
+        {
+          "code": "schema",
+          "message": "Missing or empty passage paragraph"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "draft": "drafts/p2-japanese-bizen-art-that-rose-from-the-ashes.json",
+      "lessonId": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+      "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "dd3551b7771860931e5e5e9fd97b3269bca1514a3dcbc05d48a5e33c1855738c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.083
+    },
+    {
+      "job": "p2-our-sense-of-smell",
+      "title": "Our Sense of Smell",
+      "part": 2,
+      "fingerprint": "3ea36092678798e2cef8c5cd3ba76f48d12e6c814365975c18840091e8bf2617",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.085
+    },
+    {
+      "job": "p2-roller-coaster-the-great-fairground-attraction",
+      "title": "Roller coaster: the great fairground attraction",
+      "part": 2,
+      "fingerprint": "5e89e600a273d5c504c675f79fb98de0ad4b6befde1756f34bc13547f57b2abb",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1kwNrfZWRZ6F2neOTTeU2QwwkL-LWRuc3",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.041
+    },
+    {
+      "job": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+      "title": "Surviving the winter: hibernation and other resting states",
+      "part": 2,
+      "fingerprint": "64f403c02ddbe93d9c0ed068884ffa514e8f35848b361cca236ccccf9e0b9298",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1slb5IKXWCFuYmDEZphdwQ51t73RtzfUo",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-surviving-the-winter-hibernation-and-other-resting-states.json",
+      "lessonId": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+      "sourceId": "1slb5IKXWCFuYmDEZphdwQ51t73RtzfUo",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "c5f53d4d2a941a56e1793551f10f30fcbdeec7238949dbbaf92c959854014b92",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.051
+    },
+    {
+      "job": "p2-the-attraction-of-video-games-chua-rep-heading-cho-sapo-hep-lai",
+      "title": "The attraction of video games",
+      "part": 2,
+      "fingerprint": "468a4fc01f2195728432d6b6888bb101f465f907cde39bd3ea5a66511b5bd608",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1WgrrK4rnIXPXj16Y8u1GHc8MvHh1Sk9w",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C', 'D']"
+        },
+        {
+          "sourceId": "1QzxWZNs-uOxu8d0XZ-GU5L7yzfEAYh0x",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.049
+    },
+    {
+      "job": "p2-the-fascinating-world-of-attine-ants-chua-rep",
+      "title": "The fascinating world of attine ants",
+      "part": 2,
+      "fingerprint": "88fc5146161ffd2185f87dbe06046c5bad446a8e30ddd2fe8e01960ec159185d",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1olv6hHHUAluBIS3VpZEju_eMlRvn565L",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-fascinating-world-of-attine-ants-chua-rep.json",
+      "lessonId": "p2-the-fascinating-world-of-attine-ants",
+      "sourceId": "1olv6hHHUAluBIS3VpZEju_eMlRvn565L",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "mc-one"
+      ],
+      "sourceHash": "fd8db7ddf85250e048b4519f716b25efb6614ca7bacdcb85ac7b7b02605eda68",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.078
+    },
+    {
+      "job": "p2-the-origins-of-scottish-brochs",
+      "title": "The origins of Scottish brochs",
+      "part": 2,
+      "fingerprint": "999a4953dd05bd384dedcb67fad990d07b277f753af7665041d1f5c7d3bb94dd",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        },
+        {
+          "code": "schema",
+          "message": "Missing or empty passage paragraph"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-origins-of-scottish-brochs.json",
+      "lessonId": "p2-the-origins-of-scottish-brochs",
+      "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "27e1062f7f96df804b63e4ab769b53ab46087de50150bfc6fe5340d85c9e9509",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.084
+    },
+    {
+      "job": "p3-a-digital-cinema-of-the-mind",
+      "title": "A Digital Cinema of the Mind",
+      "part": 3,
+      "fingerprint": "d7318da78bef1c2012f595c12930833d86bbb0c04986f164e433d33cdce050bf",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+          "code": "heading-questions",
+          "message": "Example paragraph is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.067
+    },
+    {
+      "job": "p3-changes-to-the-soviet-union-s-working-week",
+      "title": "Changes to the Soviet Union's working week",
+      "part": 3,
+      "fingerprint": "d2318518932b993ecc47b3388623f16eb6046d6ab9eb49da690580774174375d",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1P7RDXrxFVL6pMSlT1p_Zqj6ZFysZfVXc",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-changes-to-the-soviet-union-s-working-week.json",
+      "lessonId": "p3-changes-to-the-soviet-union-s-working-week",
+      "sourceId": "1P7RDXrxFVL6pMSlT1p_Zqj6ZFysZfVXc",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "mc-one",
+        "short-answer"
+      ],
+      "sourceHash": "d06d1b2db4de3f1f29eb3504bc4929c10300e7b2ab124f5e14c9836022e5f0e5",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.08
+    },
+    {
+      "job": "p3-does-class-size-matter",
+      "title": "Does class size matter?",
+      "part": 3,
+      "fingerprint": "44590ed0ba9a7109dfc89087867145eb2c1469b90c23e4a552715ce6e274e10f",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1T_3ZNL3DvaElZrId9egdkFHumtxHIhEP",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-does-class-size-matter.json",
+      "lessonId": "p3-does-class-size-matter",
+      "sourceId": "1T_3ZNL3DvaElZrId9egdkFHumtxHIhEP",
+      "questionCount": 14,
+      "types": [
+        "matching-info",
+        "matching-features"
+      ],
+      "sourceHash": "cfb732137b62d2c07729f9dd0dd88995ba60c8a9602ffefcefe4bc223f50a98d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.063
+    },
+    {
+      "job": "p3-insect-inspired-robots",
+      "title": "Insect-inspired robots",
+      "part": 3,
+      "fingerprint": "a2db0c83a81e2ad1a8893581026975b9da283c1d4d698b923b70f9a48c9be4b2",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1lKqdkaDy-pQFEUWpIrOQcQU5iQydqEFQ",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-insect-inspired-robots.json",
+      "lessonId": "p3-insect-inspired-robots",
+      "sourceId": "1lKqdkaDy-pQFEUWpIrOQcQU5iQydqEFQ",
+      "questionCount": 14,
+      "types": [
+        "matching-info",
+        "short-answer",
+        "matching-features"
+      ],
+      "sourceHash": "cb924bfd06c346034897340c49c6a8652f98829505d72e602a41f6828315bdce",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.073
+    },
+    {
+      "job": "p3-saving-languages",
+      "title": "Saving languages",
+      "part": 3,
+      "fingerprint": "5350f0034fa86d5306493c31abfd458fbe00ef978babd5979859307d816f8f2f",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-saving-languages.json",
+      "lessonId": "p3-saving-languages",
+      "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "mc-one"
+      ],
+      "sourceHash": "ca04f568817ebdbd7d8e4ee49cfae712ea8be5bdc3a02d8ca451644eb5ea3e9d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.054
+    },
+    {
+      "job": "p3-termite-mounds",
+      "title": "Termite Mounds",
+      "part": 3,
+      "fingerprint": "81c409a2e2ca75d144cdfe7a07debdaa14c20166b51a10b16565368432cff452",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1j7RzKzBoMDj0zOCABsGQTMhGKMfJ8vyU",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.054
+    },
+    {
+      "job": "p3-termite-mounds-chua-rep",
+      "title": "Termite Mounds(CHƯA REP)",
+      "part": 3,
+      "fingerprint": "e49c66a6507d4d311382534f35509ee13c0b4cf003c789d8fea7fbd15862beb4",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1-iQAexQHXof0A1JHHRBdPaAalewuRRUj",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.002
+    },
+    {
+      "job": "p3-the-accidental-scientist",
+      "title": "The Accidental Scientist",
+      "part": 3,
+      "fingerprint": "dcd88fdf0485379be43227a040ee8f4f0d8fe5176468ddbd910f3a8d5e3142e5",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+          "code": "heading-questions",
+          "message": "Example paragraph is ambiguous"
+        },
+        {
+          "sourceId": "1TrLJhCVQmEvxhtKKJ7q6VKq8rvpN9yn4",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.071
+    },
+    {
+      "job": "p3-travelling-on-light",
+      "title": "Travelling on Light",
+      "part": 3,
+      "fingerprint": "5dd6a551ff2064825bbc1a5d7feebcccd07a8d2c5c41e73209bbfe30113220b7",
+      "converterVersion": "3.20",
+      "attempts": [
+        {
+          "sourceId": "1_obyKfE24rlkTRwOG5MXy9riRKcAAWAk",
+          "code": "instructions",
+          "message": "Answer-sheet boundary is unclear"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.075
+    }
+  ],
+  "published": 0
+}

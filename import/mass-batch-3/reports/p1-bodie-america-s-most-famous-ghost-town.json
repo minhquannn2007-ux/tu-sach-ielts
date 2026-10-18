@@ -1,0 +1,32 @@
+{
+  "job": "p1-bodie-america-s-most-famous-ghost-town",
+  "title": "Bodie: America's Most Famous Ghost Town",
+  "part": 1,
+  "fingerprint": "8fe3db0c5531a76e2e2258fd4011b2200e3d9932069ddd4d51f16622b84657d8",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1GSzVCvZATkGAuTDzZIda000bI9rNxX_A",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-bodie-america-s-most-famous-ghost-town.json",
+  "lessonId": "p1-bodie-americas-most-famous-ghost-town",
+  "sourceId": "1GSzVCvZATkGAuTDzZIda000bI9rNxX_A",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "511a73fa0f66fa1c2f326261fb40cd1ead60034be87ff87c82a317797cc8d5cd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.06
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-beauty",
+  "title": "Beauty",
+  "part": 3,
+  "fingerprint": "973b95854622fabc6062776edb456eec5f754eff19ee09b54edf7dd8030ca525",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1xlJ6nIE7vezbtKr1lt-JGX7dGCValUiA",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']"
+    },
+    {
+      "sourceId": "1g3Rhw3XC9X4xRN_zPWtdFzwvJPWV0sd7",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.082
+}

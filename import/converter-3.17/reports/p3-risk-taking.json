@@ -1,0 +1,17 @@
+{
+  "job": "p3-risk-taking",
+  "title": "Risk taking",
+  "part": 3,
+  "fingerprint": "ec9da8ccfe100486366e6f8241187a1dd23d1bf0df95100ed0fcdd1db6108a14",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

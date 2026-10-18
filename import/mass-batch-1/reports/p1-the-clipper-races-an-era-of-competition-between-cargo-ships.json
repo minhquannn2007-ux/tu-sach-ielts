@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+  "title": "The Clipper Races: an era of competition between cargo ships",
+  "part": 1,
+  "fingerprint": "72937e9078db3f7695a9d7de619aa8fc8a6fe4fecd11e59c930d0defadf51b99",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1VCJFsfwPI2NiQd994oxWoscVoBUR9kQT",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1VCJFsfwPI2NiQd994oxWoscVoBUR9kQT.json",
+      "ocrConfidence": [
+        80.3,
+        94.6,
+        77.9,
+        39.2
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

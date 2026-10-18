@@ -1,0 +1,17 @@
+{
+  "job": "p1-australian-rock",
+  "title": "Australian Rock",
+  "part": 1,
+  "fingerprint": "36123f1d21b2fe15b0765ba417eddaf99686876712fdc0244d84ba405f78b3fe",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1ojecFyyxWSPYs3h4hNf3DLtpuYt9axAL",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.181
+}

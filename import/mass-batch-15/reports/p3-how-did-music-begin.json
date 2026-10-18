@@ -1,0 +1,17 @@
+{
+  "job": "p3-how-did-music-begin",
+  "title": "How did music begin",
+  "part": 3,
+  "fingerprint": "471bed658ea830099c5be3a7cfa1917a80532a8549ed4cf4de34f03231890df1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.066
+}

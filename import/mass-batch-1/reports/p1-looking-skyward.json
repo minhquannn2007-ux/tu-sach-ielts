@@ -1,0 +1,24 @@
+{
+  "job": "p1-looking-skyward",
+  "title": "Looking Skyward",
+  "part": 1,
+  "fingerprint": "23ad5d5a4df93b5e8cfaa01f44d862a17d11c8108666e0dac7b4467148767105",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1WfqlPCEhooQeTjG3h12MGnPsZVuR8SOL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1WfqlPCEhooQeTjG3h12MGnPsZVuR8SOL.json",
+      "ocrConfidence": [
+        95.4,
+        94.8,
+        94.9,
+        90.3
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.021
+}

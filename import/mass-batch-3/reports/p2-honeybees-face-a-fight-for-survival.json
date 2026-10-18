@@ -1,0 +1,17 @@
+{
+  "job": "p2-honeybees-face-a-fight-for-survival",
+  "title": "Honeybees face a fight for survival",
+  "part": 2,
+  "fingerprint": "706f6339941e4d7203b37c6534c8819b5edf2872ae119c66eae21afaa9ea388f",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1zpdbkUgF91WlkRGK5QLs-EvkiJwsUS4L",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

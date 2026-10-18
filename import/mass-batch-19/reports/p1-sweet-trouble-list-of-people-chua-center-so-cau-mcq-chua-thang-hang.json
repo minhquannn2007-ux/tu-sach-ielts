@@ -1,0 +1,22 @@
+{
+  "job": "p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang",
+  "title": "Sweet Trouble (List of People chưa center, số câu mcq chưa thẳng hàng)",
+  "part": 1,
+  "fingerprint": "941f7aa7b2ba9a275f0dadcdcfe2b0d5e4a0db3334775b3372d5ab3e8ec8dbdc",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "11wpJmVGf0pwcE4uDFL2HM13TrjO3ekWW",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1dFaEl6Ayk8XwLroL6HLLeJ-3qu9uz6XK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.071
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-children-s-literature-studies-today",
+  "title": "Children's literature studies today",
+  "part": 3,
+  "fingerprint": "cc8bf4f75d1e1b81c6ba08932e76fcbcf7de39140991c7bac16ab6407b0bed2b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1YaWnrQ-40pLtSVArgBKse8WujTT7kw_U",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    },
+    {
+      "sourceId": "1SJh1hsMQWVOc0c5j7FKinGuYZqQmWdXl",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.066
+}

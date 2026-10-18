@@ -1,0 +1,17 @@
+{
+  "job": "p3-no-title-charles-darwin-chua-rep",
+  "title": "No title - Charles Darwin(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "02508e817e2a261a801e5641838bade8dc0849a58f3c54c2f7cca52207ca0464",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1dzXZRnA30hmj9YjcG_eYjysp3prwfZv4",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

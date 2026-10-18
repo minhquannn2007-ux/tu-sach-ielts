@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-brief-history-of-glassmaking",
+  "title": "A Brief History of Glassmaking",
+  "part": 1,
+  "fingerprint": "96d265e4970679d23c94a00cf5f2dfa9014505864896ac5903a7e9ee87d2de7e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "12gLLVPyM1yQxDQkSM4oKGIiL9M0EYIIe",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-brief-history-of-glassmaking.json",
+  "lessonId": "p1-a-brief-history-of-glassmaking",
+  "sourceId": "12gLLVPyM1yQxDQkSM4oKGIiL9M0EYIIe",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "b0f897d38eedaf80b6313e085db17203c805b8b34fdb96251dc2554582c5bed5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

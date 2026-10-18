@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "job": "p1-advertising-needs-attention",
+      "status": "ready-for-review",
+      "sourceId": "1E92trwsR_PWWaIcJGkR9D_9nVcMTeGZY",
+      "draft": "drafts/p1-advertising-needs-attention.json",
+      "lessonId": "p1-advertising-needs-attention"
+    },
+    {
+      "job": "p1-bondi-chua-go",
+      "status": "ready-for-review",
+      "sourceId": "19eaUkXDsWJFBMobFyEiz6scwt3ymSl5q",
+      "draft": "drafts/p1-bondi-chua-go.json",
+      "lessonId": "p1-bondi"
+    },
+    {
+      "job": "p1-using-video-diaries-to-collect-data-from-children",
+      "status": "ready-for-review",
+      "sourceId": "1A-fkPy8Qx5fzKug0OkSSgXMmPNsjnAD2",
+      "draft": "drafts/p1-using-video-diaries-to-collect-data-from-children.json",
+      "lessonId": "p1-using-video-diaries-to-collect-research-data-from-children"
+    },
+    {
+      "job": "p3-child-s-play-in-medieval-england",
+      "status": "ready-for-review",
+      "sourceId": "1vzQ8wwwt0ffQ8mtUE86fiegO44eA2xM5",
+      "draft": "drafts/p3-child-s-play-in-medieval-england.json",
+      "lessonId": "p3-childs-play-in-medieval-england"
+    }
+  ],
+  "counts": {
+    "ready-for-review": 4
+  }
+}

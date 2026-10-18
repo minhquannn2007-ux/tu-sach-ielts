@@ -1,0 +1,33 @@
+{
+  "job": "p1-copy-your-neighbour",
+  "title": "Copy Your Neighbour",
+  "part": 1,
+  "fingerprint": "ecb79d5f73c25191cdb0ba64856488d2c1a235f3a42e335b21d1c5f1c97feab3",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1F5dM2Mj4zv_2lPywNQ7Wew4zuYTjY5Rt",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-copy-your-neighbour.json",
+  "lessonId": "p1-pretending-to-be-protects-you-from-predators-but-why-dont-neighbouring-mimics-all-look-alike-adrian-barnett-investigates",
+  "sourceId": "1F5dM2Mj4zv_2lPywNQ7Wew4zuYTjY5Rt",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "matching-info",
+    "mc-one"
+  ],
+  "sourceHash": "e266e7214e43268d4f6a371864b386100408ea6c4d32e524bc558bbbb27ceeb7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.066
+}

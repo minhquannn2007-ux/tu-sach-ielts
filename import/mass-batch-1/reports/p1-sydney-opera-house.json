@@ -1,0 +1,24 @@
+{
+  "job": "p1-sydney-opera-house",
+  "title": "Sydney Opera House",
+  "part": 1,
+  "fingerprint": "2696c61337f5d7819744af4929b3c18081ac195bb36af4732ab30781ea2e67ec",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "18PU7tjY3CFC5In6rbgpccW-o6FKLwHRm",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/18PU7tjY3CFC5In6rbgpccW-o6FKLwHRm.json",
+      "ocrConfidence": [
+        96.2,
+        96.2,
+        95.7,
+        90.9
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.036
+}

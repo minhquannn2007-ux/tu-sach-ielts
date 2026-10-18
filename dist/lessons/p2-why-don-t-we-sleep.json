@@ -1,0 +1,212 @@
+{
+  "id": "p2-why-don-t-we-sleep",
+  "part": 2,
+  "title": "Why don't we sleep?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Fifty-six million prescriptions for sleeping medication were handed out by doctors in America last year. Yet remarkably little is being done to understand insomnia's root causes. Socially and economically, the undertreatment of sleeplessness is hugely expensive. The Institute of Medicine, an independent scientific advisory group, estimates nearly 20 percent of all major accidents on the road are associated with driver sleepiness. The loss in terms of productivity within the workplace is even higher, costing billions. Then there are the softer costs which remain unmeasured but still exist; for example, the damaged relationships with others. If other medical problems were causing such widespread harm, governments would act, but US authorities contribute only about $230 million a year for the funding of sleep research, comparable to the amount that the manufacturers of popular sleeping pills spent in three months on advertising. Currently most medical school students get no more than four hours of training on sleep disorders; some get none."
+    },
+    {
+      "label": "B",
+      "text": "If we don't know why we can't sleep, it's in part because we don't really know why we need to sleep in the first place. We know that we divide it between periods of deep-wave sleep and rapid eye movement (REM) sleep, when the brain is as active as when we're awake, but our voluntary muscles are paralyzed. We know that all mammals sleep, and that there are some insects and reptiles that only half sleep, in order to remain aware of their environment and predators."
+    },
+    {
+      "label": "C",
+      "text": "The predominant theory of sleep is that the brain demands it. Recently, researchers at Harvard, led by Robert Stickgold, tested undergraduates on various aptitude tests, allowed them to nap, then tested them again. They found that those who had engaged in REM sleep subsequently performed better in pattern recognition tasks, such as grammar, while those who slept deeply were better at memorization."
+    },
+    {
+      "label": "D",
+      "text": "Such studies suggest that memory consolidation may be one function of sleep. Giulio Tononi, a sleep researcher at the University of Wisconsin, published an interesting twist on this theory a few years ago. His study showed that the sleeping brain seems to delete redundant or unnecessary synapses or connections. So the purpose of sleep may be to help us remember what's important, by letting us forget what's not."
+    },
+    {
+      "label": "E",
+      "text": "Sleep is likely to have physiological purposes too. Some researchers have found that sleep deprivation impedes wound healing in rats, and others have suggested that sleep helps boost the immune system and control infection. But these studies are not conclusive. At Stanford University, William Dement, co-founder of the Stanford Sleep Medicine Center, explains what he knows after 50 years of research, about the reason we sleep. 'As far as I know,' he said, 'the only reason we need to sleep that is really, really solid is because we get sleepy.'"
+    },
+    {
+      "label": "F",
+      "text": "The Stanford clinic does more than 3,000 overnight sleep studies a year. Their main diagnostic tool is the polysomnogram, the main element of which is the electroencephalograph (EEG), which captures the electrical output from a patient's brain. As the EEG records a person's sleep patterns, the polysomnogram technicians also measure body temperature, muscle activity, eye movement, and breathing. Then they look over the data for signs of abnormal sleep. When a person has narcolepsy, for instance, they plunge from wakefulness into REM sleep without any intermediate steps. However, Clete Kushida, the clinic director, told me he can spot most people's sleep problems right at the intake interview. 'There are those who cannot keep their eyes open, and those who just speak of their exhaustion but don't actually fall asleep. The former often have sleep apnea where they stop breathing. The latter have true insomnia.'"
+    },
+    {
+      "label": "G",
+      "text": "In sleep apnea, muscle relaxation allows the soft tissue of the throat to close, shutting off the sleeper's air passage. When the brain realizes it is not getting oxygen, it sends a signal to the body to wake up. The sleeper awakes, inhales, and sleep returns. Apnea is a serious problem but only indirectly a sleep disease. True insomniacs are people who either can't get to, or can't stay asleep for any evident reason."
+    },
+    {
+      "label": "H",
+      "text": "While apnea can be treated with a device that forces air down the sleeper's throat to keep the airways open, the treatment of classic insomnia is not so clear cut. Acupuncture may help. It has long had this role in Asian medicine and is being studied at the University of Pittsburgh sleep center now. Typically in the US, insomnia is treated in two ways. First come the sleeping pills. Though safer than they once were, they can still lead to psychological addiction. 'Many users complain that their sleeping-pill sleep seems different, and they feel unfocused on waking. Sleeping pills are not a natural way to sleep,' points out Charles Czeisler, director of the Harvard Health and Safety Group."
+    },
+    {
+      "label": "I",
+      "text": "The second step in treating insomniacs is usually cognitive behavioral therapy (CBT). In CBT a psychologist teaches insomniacs to think about sleep problems as manageable, and to practice good 'sleep hygiene': sleep in a dark room, go to bed only when you are sleepy, don't exercise beforehand. Studies have shown that CBT is more effective than sleeping pills at treating long-term insomnia, but many sufferers aren't convinced. 'Some people continue in my experience to struggle,' says John Winkelman, another sleep center director. 'They're not super-satisfied with their sleep.'"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 14-17 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14
+        },
+        {
+          "n": 15
+        },
+        {
+          "n": 16
+        },
+        {
+          "n": 17
+        }
+      ],
+      "title": "Insomnia in the USA",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Last year the high number of {{14}} doctors gave their patients highlights the fact that insomnia is a serious issue in the USA. It is evidently responsible for a number of serious traffic {{15}} and has a considerable effect on company {{16}} A lack of sleep can also have a harmful effect on different relationships, although there are no statistics on this. Unfortunately, there is insufficient official funding given to research into sleep problems, and the {{17}} given at medical school is also insufficient to deal with insomnia."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 18 – 23 Reading Passage 2 has nine paragraphs, A-I. Which paragraph contains the following information? Write the correct letter, A-I, in boxes 18-23 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "prompt": "a mention of different cultural approaches to dealing with insomnia"
+        },
+        {
+          "n": 19,
+          "prompt": "indications that sleep has a positive effect on health"
+        },
+        {
+          "n": 20,
+          "prompt": "the effects of different kinds of sleep on mental performance"
+        },
+        {
+          "n": 21,
+          "prompt": "reasons why various species of animal sleep in different ways"
+        },
+        {
+          "n": 22,
+          "prompt": "the suggestion that sleep allows us to get rid of insignificant information"
+        },
+        {
+          "n": 23,
+          "prompt": "a description of how the brain responds when a person stops breathing"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "paragraphCount": 9,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Look at the following statements (Questions 24-26) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24,
+          "prompt": "Research tells us that we sleep as a reaction to our body's signals."
+        },
+        {
+          "n": 25,
+          "prompt": "People suffering from insomnia are easily recognizable."
+        },
+        {
+          "n": 26,
+          "prompt": "Therapy does not always enable people to achieve good quality sleep."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Giulio Tononi"
+        },
+        {
+          "value": "B",
+          "text": "William Dement"
+        },
+        {
+          "value": "C",
+          "text": "Clete Kushida"
+        },
+        {
+          "value": "D",
+          "text": "Charles Czeisler"
+        },
+        {
+          "value": "E",
+          "text": "John Winkelman"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of Researchers",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1SNEjFovjWL5ooM3JXtROdOQlT1vH4-HN",
+      "role": "passage-and-questions",
+      "sha256": "6901cf132cb055a761fdf3f73586d503358965e4bfad76763ceadbc334f8b960",
+      "name": "Why don't we sleep.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 9,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-why-don-t-we-sleep"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Insomnia, the inability to fall and stay asleep, is at epidemic levels. If sleep is so important to us, why is it sometimes so hard to achieve?",
+  "cover": {
+    "asset": "assets/batch2-dream-cover.jpg",
+    "alt": "Giấc ngủ",
+    "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
+    "credit": "Diana Light",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

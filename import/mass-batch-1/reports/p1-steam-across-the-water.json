@@ -1,0 +1,17 @@
+{
+  "job": "p1-steam-across-the-water",
+  "title": "Steam across the water",
+  "part": 1,
+  "fingerprint": "6520ab8ae15124989b487b264cde0413c313f7100c033f29a290c96e21658c77",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1yiJQ0ZMxZogpW4i8lEIea1SUrZnaQj7L",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.195
+}

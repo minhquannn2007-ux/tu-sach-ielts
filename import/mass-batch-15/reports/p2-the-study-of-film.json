@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-study-of-film",
+  "title": "The study of film",
+  "part": 2,
+  "fingerprint": "a5c2c6f5ed565fc93b8551b1e80e8f216f335a5a50017bafc26d56a330ccd62e",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1NJuEWpdNqOMfMw3JSg1awPaHM2fqGk8b",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-avalanches",
+  "title": "AVALANCHES",
+  "part": 3,
+  "fingerprint": "73f79deda7a9b2cf02e60984cbf7fde6373d218d2de8e308822005bcd1e7459f",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1uKirxEooeTBwa2bunpP2GiTkiQqZUZSr",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

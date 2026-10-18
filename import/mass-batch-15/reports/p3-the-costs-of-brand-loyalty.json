@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-costs-of-brand-loyalty",
+  "title": "The costs of brand loyalty",
+  "part": 3,
+  "fingerprint": "4496a9ca7d5f47f5520b7b3071446844de6bd2a0edf2c208382a410e7fb3f657",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.065
+}

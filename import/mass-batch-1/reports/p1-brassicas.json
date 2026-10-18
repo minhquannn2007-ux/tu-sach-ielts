@@ -1,0 +1,32 @@
+{
+  "job": "p1-brassicas",
+  "title": "Brassicas",
+  "part": 1,
+  "fingerprint": "55a23925b3ea22d23c872be6008c001c8e544bdfb7a8ad073d6945907026df0f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1GN653au7TWNzzSk9e4U1ldPP-_yTpSWu",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-brassicas.json",
+  "lessonId": "p1-brassicas",
+  "sourceId": "1GN653au7TWNzzSk9e4U1ldPP-_yTpSWu",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "14ccae8065bc56a4536fd01e985d696b833ff6718833d6f3bddb8346078e0320",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.141
+}

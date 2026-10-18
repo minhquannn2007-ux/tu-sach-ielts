@@ -1,0 +1,17 @@
+{
+  "job": "p1-book-review-triumph-of-the-city",
+  "title": "Book review: Triumph of the City",
+  "part": 1,
+  "fingerprint": "2668b15c9b423eb85b11caa765d127121ee3af40ff51d68abca39fc8ed7f5d07",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "17NTX79PGK0v6Ny0oeEt5STfavp-g1WPi",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.009
+}

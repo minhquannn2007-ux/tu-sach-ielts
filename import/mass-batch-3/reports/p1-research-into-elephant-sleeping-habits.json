@@ -1,0 +1,17 @@
+{
+  "job": "p1-research-into-elephant-sleeping-habits",
+  "title": "Research into elephant sleeping habits",
+  "part": 1,
+  "fingerprint": "6f64d97c7482ee575a940e272d083bb8b17f9f7baf3dc45d7e23216672958dd6",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1OcCzlFo4-cfoQOnJierjao31Xu0Udmvz",
+      "code": "question-continuation",
+      "message": "Question continuation has no preceding group"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.089
+}

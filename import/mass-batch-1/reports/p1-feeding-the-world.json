@@ -1,0 +1,24 @@
+{
+  "job": "p1-feeding-the-world",
+  "title": "Feeding the world",
+  "part": 1,
+  "fingerprint": "a8b74660b57720fa079452e2b1f070bc87a11ee47ae1a618fda217019341463e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY.json",
+      "ocrConfidence": [
+        95.9,
+        96.2,
+        94.6,
+        94.8
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.021
+}

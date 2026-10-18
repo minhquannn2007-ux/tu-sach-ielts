@@ -1,0 +1,34 @@
+{
+  "job": "p3-children-s-literature-studies-today",
+  "title": "Children's literature studies today",
+  "part": 3,
+  "fingerprint": "58892e46ebd75f01db19d78d0542d7ebb8689f148f54cf7e5f7dd233380ef361",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1YaWnrQ-40pLtSVArgBKse8WujTT7kw_U",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-children-s-literature-studies-today.json",
+  "lessonId": "p3-children-s-literature-studies-today",
+  "sourceId": "1YaWnrQ-40pLtSVArgBKse8WujTT7kw_U",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "tfng",
+    "matching-endings",
+    "mc-one"
+  ],
+  "sourceHash": "e34bbfa1563d21f35fc9bae37066d9632904952993cad10bdf9cae92f91033ed",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.082
+}

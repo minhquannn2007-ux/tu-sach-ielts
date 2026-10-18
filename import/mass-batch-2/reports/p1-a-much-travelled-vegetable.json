@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-much-travelled-vegetable",
+  "title": "A much-travelled vegetable",
+  "part": 1,
+  "fingerprint": "763c00d1dc03e251704d0bcfccb0dc4a07f63835062748e6163f20ddb1fe473e",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1ygqR1zzul03tMPtIk74ByF8yeXoQ-yp6",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-much-travelled-vegetable.json",
+  "lessonId": "p1-a-much-travelled-vegetable",
+  "sourceId": "1ygqR1zzul03tMPtIk74ByF8yeXoQ-yp6",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "333de460330a953423b35e840b6dd2ca7d9c7144b5f396e7a6aff5051a7fddb1",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.053
+}

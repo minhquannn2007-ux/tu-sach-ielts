@@ -1,0 +1,226 @@
+{
+  "id": "p2-the-return-of-the-black-footed-ferret",
+  "part": 2,
+  "title": "The return of the black-footed ferret",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The black-footed ferret (Mustela nigripes) is a small carnivorous mammal, similar in length to a domestic cat, and is the only ferret species native to North America. For at least 100,000 years they lived in an area that extended almost uninterrupted from southern Canada to northern Mexico. But numbers fell dramatically throughout the 19th and 20th centuries, to such an extent that the black-fooled ferret was declared 'possibly extinct'. Then, almost miraculously, it returned from the dead."
+    },
+    {
+      "label": "B",
+      "text": "Within the genus Mustela, the ferret belongs to the subgenus Putorius, of which there are only three extant species : the European polecat; the Siberian polecat; and the black-footed ferret. The European polecat lives in open forests and meadows, and is thought to be the ancestor of the domestic ferret. The Siberian polecat looks more similar to the black-footed ferret, and leads a similar life on open grasslands and semi-desert regions across Russia, China and Siberia."
+    },
+    {
+      "label": "C",
+      "text": "Ferrets probably evolved in Europe between three and four million years ago, and dispersed into North American across an ice-age land bridge at least two million years ago. They then advanced south-eastward to the Great Plains through ice-free passageways. The black-fooled ferret's history in North America is inextricably linked to the creature which became almost sole prey - the prairie dog. These small rodents are a type of ground squirrel which live in networks of underground tunnels, known as burrows. The black-footed ferret's short legs and long, slim body make it superbly adapted for it in the burrow systems of its pray."
+    },
+    {
+      "label": "D",
+      "text": "Spending virtually all their time underground, black-footed ferrets have always been elusive. Ferrets are never mentioned in accounts of the early explorers or pioneers who crossed the Great Plains by wagon-train during the early to mid-1800s. They were, however, occasionally listed in records kept by fur companies in the upper Missouri River basin during that period. Black-fooled ferrets were not officially recognized by scientists until 1851, when a description and drawing of one featured in a book by the renowned naturalist John James Audubon and Reverand John Bachman. For over two decades, no other specimens were been, and scientists even began to question their existence. Then, in 1874, Dr Elliott Coues issued a request for specimens through the popular magazines, 'The American Sportsmen', and was soon rewarded. With these he was able to add to Audubon's description, and confirm the existence of the black-footed ferret."
+    },
+    {
+      "label": "E",
+      "text": "In the decades that followed, European settlement across North America changed the landscape dramatically, with vast areas being transformed into crop and grazing land. As agriculture and ranching expanded, the black-footed ferret's main prey, the prairie dog, became a target for extermination, and was eventually eradicated from 98% of its original range. The result was devastating for black-footed ferret populations throughout the continent. Even today, the prairie dog is still trapped and poisoned, because ranchers believe that it competes with livestock for grass - a notion that believes recent research showing that prairie dogs and cattle feed on different plants."
+    },
+    {
+      "label": "F",
+      "text": "As late as the 1950s, black-footed ferrets were still thought to occur in low densitives throughout most of their historic range. However, by the 1960s, the only known population was a small colony in south-western South Dakota. In 1967, the US Fish and Wildlife Service classified the black-footed ferret as an endangered species, and in 1974 the South Dakota colony disappeared. Finally, in January 1979, the last ferret in a captive-breeding programme died making the black-footed ferret the first mammal to be declared extinct in the northern hemisphere in the 20th century."
+    },
+    {
+      "label": "G",
+      "text": "But that was not the end of the story. In 1981, a farm dog called Shep carried an odd-looking creature to its owner's ranch house in Meeteetse, Wyoming. The rancher put the carcass in his fridge and alerted state officials. The dog had found a black-footed ferret - which led to efforts again being made to save the species. An intensive search in the region led to the discovery of a 130-strong population. This wild colony thrived for a while, but disaster struck again and the number of animals was drastically reduced by the disease distemper - probably contracted from domestic dogs. In 1985, in a final bid to save the species, the remaining 18 individuals in the colony were trapped for a new captive-breeding programme. This project was successful, and there are now more than 2,000 black-footed ferrets in captivity across the US and Canada."
+    },
+    {
+      "label": "H",
+      "text": "A reintroduction programme began in 1991. Before they can be reintroduced into their natural habitat, captive ferrets have to learn to hunt and escape from predators. They are first held in pens on the prairie, where they are fed prairie dog meat. Once the ferrets associate these animals with food, keepers unleash live prey into the pens, and they soon realise that they must hunt or go hungry. Then, to get the ferrets used to living underground they have to be tempted into the holes with food."
+    },
+    {
+      "label": "I",
+      "text": "Reintroduction programmes are now underway across central USA, but there is one location that is key. The Janos area on the US-Mexico border is the obvious place to reactivate the continent's wild black-footed ferret population, being one of the most important remaining grassland ecosystems in the Americas, and home to an abundance of prairie dogs. At the last report, the future of the black-footed ferret finally looks promising."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 16 Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 14-16 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "slots": 1
+        },
+        {
+          "n": 15,
+          "slots": 1
+        },
+        {
+          "n": 16,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "The black-footed ferret shares most characteristics with its relative the {{14}} .",
+        "North American ferrets are thought to have originally come from {{15}} .",
+        "The {{16}} is the black-footed ferret's primary source of food."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 17 – 22 Look at the following events (Questions 17-22) and the list of dates below. Match each event with the correct date, A-H. Write the correct letter, A-H, in boxes 17-22 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 17,
+          "prompt": "An appeal for evidence of black-footed ferrets was published."
+        },
+        {
+          "n": 18,
+          "prompt": "A scheme for releasing captive-born black-footed ferrets into the wild was launched."
+        },
+        {
+          "n": 19,
+          "prompt": "The black-footed ferret first appeared in a scientific work."
+        },
+        {
+          "n": 20,
+          "prompt": "The discovery of a single black-looted ferret led to renewed hope for the species."
+        },
+        {
+          "n": 21,
+          "prompt": "North America's last wild-born black-footed ferrets were taken into captivity."
+        },
+        {
+          "n": 22,
+          "prompt": "Efforts to save the black-fooled ferret were officially announced as having failed."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "1851"
+        },
+        {
+          "value": "B",
+          "text": "1874"
+        },
+        {
+          "value": "C",
+          "text": "1967"
+        },
+        {
+          "value": "D",
+          "text": "1974"
+        },
+        {
+          "value": "E",
+          "text": "1979"
+        },
+        {
+          "value": "F",
+          "text": "1981"
+        },
+        {
+          "value": "G",
+          "text": "1985"
+        },
+        {
+          "value": "H",
+          "text": "1991"
+        }
+      ],
+      "targetName": "date",
+      "listTitle": "List of Dates",
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Question 23 – 26 Reading Passage 2 has nine paragraphs, A-I. Which paragraph contains the following information? Write the correct letter, A-I, in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "prompt": "reasons for the sharp decrease in black-footed ferret populations"
+        },
+        {
+          "n": 24,
+          "prompt": "the procedure by which black-footed ferrets are taught to survive in the wild"
+        },
+        {
+          "n": 25,
+          "prompt": "mention of doubts about whether there was such an animal as a black-footed ferret"
+        },
+        {
+          "n": 26,
+          "prompt": "reference to a site which is ideal for the release of black-footed ferrets into the wild"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "paragraphCount": 9,
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1-9xq4cef7QVPSw5qAYGZT8cZfW9NyGhE",
+      "role": "passage-and-questions",
+      "sha256": "6c83565e3b56c45685cae55942600970741af1eb5c9c5ddc603f67840812036c",
+      "name": "The return of the black-footed ferret.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 9,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-the-return-of-the-black-footed-ferret"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "The rise, fall and rise of one of North America's rarest mammals",
+  "cover": {
+    "asset": "assets/batch-trail-cover.jpg",
+    "alt": "Đường đi bộ trong rừng",
+    "credit": "Unsplash",
+    "source": "https://unsplash.com/photos/I-tGOPAq-1A",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-14-2026-10-13",
+    "checks": [
+      "all source title subtitle and question pages inspected",
+      "source paragraph question option and completion text compared",
+      "source-selected answer count and paragraph scopes preserved",
+      "source note bullets/indents and reading subheadings checked",
+      "original Mungo folder renamed to actual full source title Controversies in Australian Prehistory"
+    ]
+  }
+}

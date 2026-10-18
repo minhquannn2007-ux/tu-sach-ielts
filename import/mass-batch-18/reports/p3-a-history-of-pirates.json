@@ -1,0 +1,33 @@
+{
+  "job": "p3-a-history-of-pirates",
+  "title": "A history of pirates",
+  "part": 3,
+  "fingerprint": "50955460e9fac9aefcaef218b6dc189b0fe5c0cd2b95899062e6fc2203bbe392",
+  "converterVersion": "3.18",
+  "attempts": [
+    {
+      "sourceId": "124ryZBuHyMJly3KutVw8J1Ipx2cNyHWW",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-a-history-of-pirates.json",
+  "lessonId": "p3-a-history-of-pirates",
+  "sourceId": "124ryZBuHyMJly3KutVw8J1Ipx2cNyHWW",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "aa050a1d778da70e5d8a006f3be5c4b0a5588782116b3e8d78d84c81b4de36c9",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

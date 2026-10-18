@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+  "title": "The development of art appreciation in Melbourne, Australia",
+  "part": 1,
+  "fingerprint": "f856e7a812e1fdff0de3a851f2746bfaa6c7f154c620338e798a75d37592bb0d",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

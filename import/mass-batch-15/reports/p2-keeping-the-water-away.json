@@ -1,0 +1,33 @@
+{
+  "job": "p2-keeping-the-water-away",
+  "title": "Keeping the water away",
+  "part": 2,
+  "fingerprint": "6aca24313671e23582e139adf58b376f53e766ac6082f3d295bba4bfdb7af563",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "13qVYCvIhOwKMzEwBCTzlsV60G314kP7X",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-keeping-the-water-away.json",
+  "lessonId": "p2-keeping-the-water-away",
+  "sourceId": "13qVYCvIhOwKMzEwBCTzlsV60G314kP7X",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "94282b0e1d7c5d732f6cdbf8087b655dde04f3b01cf5be672f962868de8c3485",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.063
+}

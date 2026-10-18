@@ -1,0 +1,32 @@
+{
+  "job": "p1-vulcan-the-planet-that-wasnt-there",
+  "title": "Vulcan, the planet that wasn’t there",
+  "part": 1,
+  "fingerprint": "412935519c9fffafee6a55b685ff89d7be5f1833fbd0ac0dd2b3d96f64effb07",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1oD6yp7PGiaAI2lqtLjypi93GEOkcwt5r",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-vulcan-the-planet-that-wasnt-there.json",
+  "lessonId": "p1-vulcan-the-planet-that-wasnt-there",
+  "sourceId": "1oD6yp7PGiaAI2lqtLjypi93GEOkcwt5r",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "51e55ccc479e2341f72470b3c06f21d4aebaab7c1e52b9c473b69d51314bc3ab",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.073
+}

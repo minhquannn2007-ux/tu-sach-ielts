@@ -1,0 +1,17 @@
+{
+  "job": "p1-effect-and-cause",
+  "title": "Effect and Cause",
+  "part": 1,
+  "fingerprint": "b3e27a6968b8c572127d3f3b9d77bb6cb627d61178843e2fd8c951a37a55497f",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1e-3MwSymWoJcPTPTL5BrnF1ww56_BzdB",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

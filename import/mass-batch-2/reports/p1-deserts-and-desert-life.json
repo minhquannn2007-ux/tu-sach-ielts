@@ -1,0 +1,17 @@
+{
+  "job": "p1-deserts-and-desert-life",
+  "title": "Deserts and desert life",
+  "part": 1,
+  "fingerprint": "991c09ebc9f1f546de8ab27a8ed6bad7c7132d15cd08de289a2f2c5b2e68b5b0",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1qATj_H48NS5TwlWV8_NGvmClm24be5CQ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

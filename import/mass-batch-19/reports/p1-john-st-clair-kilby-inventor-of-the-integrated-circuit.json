@@ -1,0 +1,32 @@
+{
+  "job": "p1-john-st-clair-kilby-inventor-of-the-integrated-circuit",
+  "title": "John St Clair Kilby - inventor of the integrated circuit",
+  "part": 1,
+  "fingerprint": "dc03e0787b317e1195a1de847b0c8ae8fdd72f7f44ef9f7a910cba2a890de38e",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1AYEgLUttMj7tlv1cfR0gmZqw-znScMtF",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-john-st-clair-kilby-inventor-of-the-integrated-circuit.json",
+  "lessonId": "p1-john-st-clair-kilby-inventor-of-the-integrated-circuit",
+  "sourceId": "1AYEgLUttMj7tlv1cfR0gmZqw-znScMtF",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "32db1f4d600c1f84c5d692b186593999daffce35b1abf12304843d8705828225",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.088
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-role-of-error-in-the-learning-process",
+  "title": "The role of error in the learning process",
+  "part": 2,
+  "fingerprint": "5c5c2de042ecfa3c7f96a4296e4f277fc848be74136886cd192e1f24fe87c57a",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1gtH5ZtdoyzVx9n0q1chb4wxpvDiOgMBa",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

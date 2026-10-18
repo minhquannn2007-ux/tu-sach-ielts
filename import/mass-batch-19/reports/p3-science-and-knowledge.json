@@ -1,0 +1,22 @@
+{
+  "job": "p3-science-and-knowledge",
+  "title": "Science and knowledge",
+  "part": 3,
+  "fingerprint": "eb7783a142766e1a7c97cce3befe9c676bce361ad630f113df632d53d4e5f064",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [36, 37, 38, 39, 40], found [35, 36, 37, 38, 39, 40]"
+    },
+    {
+      "sourceId": "1GB538sFZHh_K0D6AoRX7Jr3AFSqSIVvY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.069
+}

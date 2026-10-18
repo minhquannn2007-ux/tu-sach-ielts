@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-nature-and-characteristics-of-memory",
+  "title": "The nature and characteristics of memory",
+  "part": 2,
+  "fingerprint": "4d67f7d3c1568db821625d6f6f4fa649ccb037f087fec300fc9df766f01f1f62",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1lBJ5aML_mogBQPBkH_jfJr4coBngMOqC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

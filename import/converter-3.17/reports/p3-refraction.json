@@ -1,0 +1,17 @@
+{
+  "job": "p3-refraction",
+  "title": "REFRACTION",
+  "part": 3,
+  "fingerprint": "c1815bf6168193fff5be761ed41b4dd78344e3848363af4a602e2fe222154601",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1F9OCwBBr-3s_Fk7HIzIeU2N3IHiOrjp_",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [36, 37, 38, 39, 40], found [33, 34, 35, 36, 37, 38, 39, 40]"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.05
+}

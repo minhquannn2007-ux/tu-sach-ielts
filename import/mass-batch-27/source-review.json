@@ -1,0 +1,92 @@
+[
+  {
+    "job": "p2-how-deserts-are-formed",
+    "sourceId": "1PFPcRXVh1pSjdnhRDroQIx_IvBESy4EV",
+    "sourceHash": "1787c811bdb8d090ea0cca72d06163cee1911e16155dae8a559bb5261ed69056",
+    "visualSourcePages": [
+      1,
+      2,
+      3
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Restored damaged paragraph A and E from scan",
+      "Nine original paragraph labels retained; no reuse permission in print",
+      "Recovered complete questions 14, 15 and 26 from printed rows"
+    ],
+    "reviewed": true,
+    "paragraphs": 9,
+    "questionCount": 13
+  },
+  {
+    "job": "p2-memory-in-plants",
+    "sourceId": "165jrLjy-2ivzTaBionBpIg9xGzp56t39",
+    "sourceHash": "ad1fa37200f8e32bedc746626c77cf701cef6ffca04bdf2ed7123e9d289fb91a",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "All six paragraphs checked/transcribed from print; retained page continuation in D",
+      "Restored omitted Matching Names questions 20–22 and full five-person bank",
+      "Information task permits reuse; Names task does not",
+      "Retained two summary paragraphs and gentle before gap 24"
+    ],
+    "reviewed": true,
+    "paragraphs": 6,
+    "questionCount": 13
+  },
+  {
+    "job": "p2-the-history-of-the-celtic-language",
+    "sourceId": "1Ymk89POWW89RjuwCjGk0vu4JcUYqp70G",
+    "sourceHash": "8b60a6bc79025342f4f233ce071ee806324770073eadda0ce546f54697d53aad",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Seven paragraphs restored from curved-page scan, including E continuation across pages",
+      "Recovered complete question 14 and Names/Sentence tasks omitted by OCR",
+      "Information task does not permit reuse; researcher task does",
+      "Preserved printed dates, measures, proper names and single-word limits"
+    ],
+    "reviewed": true,
+    "paragraphs": 7,
+    "questionCount": 13
+  },
+  {
+    "job": "p3-the-origin-of-language",
+    "sourceId": "1G1DGTrlpvlSFmWJ-zL0QN2JJG5hPQwsT",
+    "sourceHash": "a711000ea0e454f2783138f45226baeeaf1edbd83e5b3532583011851434fd77",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Eight reading paragraphs and separate Neanderthals footnote retained",
+      "Damaged paragraphs 5–6 transcribed from visible source; OCR glyphs corrected elsewhere",
+      "Verified paper header 27–31, not OCR 27–37",
+      "Five complete MCQs, eight endings, and seven options for choose THREE checked"
+    ],
+    "reviewed": true,
+    "paragraphs": 8,
+    "questionCount": 14
+  }
+]

@@ -1,0 +1,240 @@
+{
+  "id": "p3-intelligence",
+  "part": 3,
+  "title": "Intelligence",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Herbert Spencer (1820-1893) and Sir Francis Galton (1822-1911) were the first people to use the term intelligence in the way we use it today. They both believed in the existence of a 'general ability', which affects how well people perform any sort of intellectual task. They acknowledged that some people might be good at one type of task, such as arithmetic calculations, but maintained that unless they were good at all types of tasks they must lack the 'general ability' which they suggested was 'intelligence' and which was inherited."
+    },
+    {
+      "label": "B",
+      "text": "Galton began the psychological investigation of intelligence in the 1860s. He believed that genius runs in families and supported this by the fact that the most distinguished men of the time had equally important fathers. He seemed to forget that these fathers had the financial status to educate their children at private schools, and could give them far more opportunities to develop a career than the average person."
+    },
+    {
+      "label": "C",
+      "text": "One of the 20*-century psychologists most influenced by Galton was Cyril Burt, who was firmly committed to the idea that intelligence was inherited and that it is pointless to educate people beyond the limits of their capacity. Burt produced a large number of research papers, which seemed to provide unquestionable proof of this and which led in the 1940s to the testing of British children when they reached the age of eleven, to see whether they would receive an ' academic ' or 'practical' education. However, in 1974, Kamin re-analysed Burt's data and concluded that most of it was extremely suspect. It seems that Burt believed so strongly that intelligence was inherited, he simply adjusted the evidence to support his ideas."
+    },
+    {
+      "label": "D",
+      "text": "Basically, there are two ways to examine whether intelligence (or IQ) is inherited or not. One way is to look at identical twins reared in different homes, and see if their IQs are the same. Because they are genetically identical, but have different life experiences, this method would test whether their IQ is caused by genetic factors rather than early experiences. Another way is to look at children who have been adopted and see if their IQ is closer to that of their adoptive parents or of their natural parents."
+    },
+    {
+      "label": "E",
+      "text": "Shields (1962) investigated 37 pairs of twins who had been reared apart and compared them with twins who had been brought up together. The criterion for inclusion in the study was that they should have been reared in different homes for at least five years. Unfortunately, some of the separations didn't occur until the twins were nine years of age. By that time, they would have spent many of their 'formative' years together and this may have affected the results. The other problem was that the 'separated' twins were often living in new homes but with other members of the same family. Often the twins knew each other and were attending the same school, so in terms of totally different upbringings the findings were really not that valid. When Shields took these factors into consideration, it left only 13 pairs of twins, and the correlation in IQ scores between these remaining pairs of twins was quite weak, giving very little support to the idea that IQ was inherited."
+    },
+    {
+      "label": "F",
+      "text": "Further research suffered from similar sampling problems to the Shields study, although Horn (1983) reported on a group of 300 children whose mothers had given them up at birth, thus getting round some of the earlier methodological problems. He found that the identical twins (who shared the same genetic material) had very similar IQs, whereas the fraternal twins (non-identical twins who shared only some of the same genetic material) had less similar IQs. He concluded that about 80% of the concordance of IQ in twins is due to genetic rather than environmental factors."
+    },
+    {
+      "label": "G",
+      "text": "Others, like the French scientist Alfred Binet, did not believe that intelligence was a fixed capacity we inherit through birth. Binet believed that anyone is capable of learning, but that some learn faster than others. He viewed it as a general capacity for comprehension and reasoning' and suggested that the environment will have a large impact on achievement, particularly in a child's early years."
+    },
+    {
+      "label": "H",
+      "text": "Evidence to substantiate this came from the USA in the mid-1960s, when President Johnson started the Head Start programme as part of a 'war on poverty'. Project Head Start was a comprehensive early child development programme, which was designed to provide learning experiences for two- to five-year-olds. It provided different activities for mothers, fathers and children and was seen as a way of giving the children the preschool educational experiences they would otherwise have missed for financial reasons.From its inception, Head Start recognised the need to address children's educational, physical and social needs holistically, and also to extend help to their families and communities. Evaluation of Head Start programmes over the years (McCall, 1993) has found they produce improvements in IQ scores and in academic readiness and achievement, greater self-esteem and better social behaviour."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 29 Reading Passage 3 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 27-29 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "a summary of the main methods of testing the link between genes and intelligence"
+        },
+        {
+          "n": 28,
+          "prompt": "a reference to the idea that children do not all learn at the same speed"
+        },
+        {
+          "n": 29,
+          "prompt": "an overview of research that failed to prove the inheritance theory"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 30 – 33 Look at the following statements (Questions 30-33) and the list of people below. Match each statement with the correct person, A-F. Write the correct letter, A-F, in boxes 30-33 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 30,
+          "prompt": "He falsified his research results in order to prove a theory."
+        },
+        {
+          "n": 31,
+          "prompt": "He related intelligence to social position."
+        },
+        {
+          "n": 32,
+          "prompt": "He believed that the ability to develop intelligence is common to all."
+        },
+        {
+          "n": 33,
+          "prompt": "He overcame some of the difficulties experienced by other researchers."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Galton"
+        },
+        {
+          "value": "B",
+          "text": "Burt"
+        },
+        {
+          "value": "C",
+          "text": "Kamin"
+        },
+        {
+          "value": "D",
+          "text": "Shields"
+        },
+        {
+          "value": "E",
+          "text": "Horn"
+        },
+        {
+          "value": "F",
+          "text": "Binet"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 34 – 38 Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 34-38 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        }
+      ],
+      "title": "Studies by Shields and Horn",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "The Shields study aimed to compare the IQs of twins that had been reared together with those of twins that had been separated for a period of {{34}} or more. However, the results were influenced by factors like what {{35}} the twins were when they were separated and whether they had moved to {{36}} that were shared by other family members. Thus many twins were removed from the study because their general upbringings were too similar. Only a small number of twins were left and their {{37}} were very different. Horn achieved a larger sample by focusing on children who had been separated from their families soon after {{38}} ."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 39 and 40 Choose TWO letters, A-E Write the correct letters in boxes 39 and 40 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "numbers": [
+        39,
+        40
+      ],
+      "prompt": "According to the writer which TWO of the following statements are true of the Head Start programmes?",
+      "options": [
+        {
+          "value": "A",
+          "text": "They were originally developed to combat poor school results."
+        },
+        {
+          "value": "B",
+          "text": "All school-age children can take part."
+        },
+        {
+          "value": "C",
+          "text": "Parents are involved in the activities."
+        },
+        {
+          "value": "D",
+          "text": "The idea has spread to other countries."
+        },
+        {
+          "value": "E",
+          "text": "Their effect has been assessed."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1c-kiPQPU8v7uri46taai92rdxvnzSmI6",
+      "role": "passage-and-questions",
+      "sha256": "14851f4c609cf2e95bfc9ab58238acdc259e1f69a7945d4ff2dd53997ce4c124",
+      "name": "Intelligence.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 8,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-intelligence"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Is intelligence inherited or is it more closely linked to our social environment?",
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-7-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

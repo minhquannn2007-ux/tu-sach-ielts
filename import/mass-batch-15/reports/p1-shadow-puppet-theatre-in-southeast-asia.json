@@ -1,0 +1,22 @@
+{
+  "job": "p1-shadow-puppet-theatre-in-southeast-asia",
+  "title": "Shadow Puppet Theatre in Southeast Asia",
+  "part": 1,
+  "fingerprint": "391a3fef962115ecd8c7c5ae27b28a9e74961bd083344a5a8a3cd1fbc7c51edd",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1bA7yq3FZSa-PjwueAU4yONua9L36JjGS",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    },
+    {
+      "sourceId": "1fi0mpJGNK08xFTKkujtXAQ-hqPMZ9tjn",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.081
+}

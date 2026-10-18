@@ -1,0 +1,32 @@
+{
+  "job": "p1-successful-approaches-to-public-speaking",
+  "title": "Successful approaches to public speaking",
+  "part": 1,
+  "fingerprint": "f897606584428c91c142460131ef5e80d391bf815e52e3abe14e9ed37d34e2b4",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1l9Im7YYOWRpKEEEG9DOTE9yp9GIkDO_j",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-successful-approaches-to-public-speaking.json",
+  "lessonId": "p1-successful-approaches-to-public-speaking",
+  "sourceId": "1l9Im7YYOWRpKEEEG9DOTE9yp9GIkDO_j",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "3c2242272a82572b6c52ad0934ce03cd2cdc28e033815737a258a15ebf13fc2f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.044
+}

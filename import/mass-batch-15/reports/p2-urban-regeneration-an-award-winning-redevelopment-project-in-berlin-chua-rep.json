@@ -1,0 +1,17 @@
+{
+  "job": "p2-urban-regeneration-an-award-winning-redevelopment-project-in-berlin-chua-rep",
+  "title": "Urban Regeneration: an award-winning redevelopment project in Berlin(CHƯA REP)",
+  "part": 2,
+  "fingerprint": "526a12e5b5b2891e242c70ae03418578042ec049416f3af08ec407ab8edc20f9",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1NzkEM0Hlmd0h4ekLl3YsCHwbQfmfKDTz",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

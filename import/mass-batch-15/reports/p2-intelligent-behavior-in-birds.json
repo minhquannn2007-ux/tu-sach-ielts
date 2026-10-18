@@ -1,0 +1,17 @@
+{
+  "job": "p2-intelligent-behavior-in-birds",
+  "title": "Intelligent behavior in birds",
+  "part": 2,
+  "fingerprint": "90d691d3e96a56ef0ae62ffcab8c73a72bf01fb11b1fcddb549ebd3678428c0f",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1WVDutM0ZFDyRPal_kETm9gCY6Jpz__4K",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

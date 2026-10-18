@@ -1,0 +1,199 @@
+{
+  "id": "p2-a-mechanical-friend-for-children",
+  "part": 2,
+  "title": "A mechanical friend for children",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The development of robots that interact socially with people and assist them in everyday life has been an elusive goal of modern science. Despite impressive advances in the mechanical aspects of this problem, producing robots that bond and socialize with people for sustained periods of time has proven difficult. The most successful robots so far have been storytellers, but they have only been able to maintain human interest for a limited time and typically rely on the robot telling stories that change over time. In practice, commercially available robots seldom cross the 10-hour barrier (i.e., individual users tend to spend less than a combined total of 10 hours with the robots before losing interest). This observation is in sharp contrast to the long-term interactions and bonding that commonly develop between humans and their pets."
+    },
+    {
+      "label": "B",
+      "text": "In a recent study, researchers from the Institute for Neural Computation in California introduced a state-of-the-art social robot into a classroom of 18-to-24-month-olds for five months as a way of studying human/robot interactions. The researchers, including Fumihide Tanaka and Javier R. Movellan, introduced a toddler-sized humanoid robot into a classroom at a childhood education center. One of the QRIO series of robots, the 58 cm machine, was originally developed by Sony. ‘Children of toddler age were chosen because they have no preconceived notions of robots,’ according to Tanaka. One of the goals of the study was to establish whether it was possible for social robots to maintain the interest of children beyond the 10-hour barrier."
+    },
+    {
+      "label": "C",
+      "text": "The researchers sent instructions to the robot about every two minutes to do things like giggle, dance, sit down, fall down, or walk in a certain direction. The 45 sessions were videotaped, and interactions between toddlers and the robot were later analyzed. The results showed that the quality of those interactions improved steadily over 27 sessions. The interactions deteriorated quickly over the next 15 sessions, when the robot was ordered to behave in a more limited, predictable manner. Finally, the human/robot relations improved in the last three sessions, after the robot had been instructed to display its full range of behaviors."
+    },
+    {
+      "label": "D",
+      "text": "‘Initially, the children treated the robot very differently from the way they treated each other,’ Tanaka said. ‘Early in the study, some children cried when QRIO fell. But a month into the study, the toddlers helped QRIO stand up by pushing its back or pulling its hands.’ The most important aspect of interaction was touch, Tanaka said. At first, the toddlers would touch the robot on its face, but later on they would touch it only on its hands and arms, like they would with other humans. Another robot-like toy named Robby, which resembled QRIO but did not move, was used as a control in the study. While hugging of QRIO increased, hugging of Robby decreased throughout the study. Furthermore, when QRIO laid down on the floor, caretaking behaviors were frequently observed toward QRIO but seldom toward Robby."
+    },
+    {
+      "label": "E",
+      "text": "The study concluded that after 45 days of immersion in a childcare center over a period of five months, long-term bonding and socialization occurred between toddlers and a state-of-the-art social robot. Overall, the interaction between children and the robot improved over time and the children progressively treated it more as a peer than a plaything. ‘To my knowledge, this is the first long-term study of this sort,’ said Ronald Arkin, a roboticist at the Georgia Institute of Technology in the US."
+    },
+    {
+      "label": "F",
+      "text": "Tanaka and Movellan are now developing autonomous robots for the toddler classroom. ‘It could have great potential in educational settings, assisting teachers and enriching the classroom environment,’ Tanaka said. The researchers hope that more advanced versions of robots like QRIO could become personalized tutors to assist teachers in classrooms. A robotic tutor could react on the spot to social cues and approximate social skills like facial expression and eye gaze, they said. ‘It is becoming clear that, to achieve this goal, we are going to endow machines with something similar to emotion, not just traditional forms of intelligence,’ said Movellan."
+    },
+    {
+      "label": "G",
+      "text": "Associate Professor David Powers, an expert in artificial intelligence and cognitive science at Flinders University in South Australia, commented, ‘In this study, it is clearly demonstrated that a limited range of robot behaviors, however impressive, is nowhere near as important to human/robot interaction as being able to make appropriate responses from a broad repertoire of behaviors.’ Ronald Arkin was not surprised by the affection demonstrated by the toddlers toward the robot. ‘Humans have a tremendous propensity to bond with artifacts, whether it be a car, a doll, or a robot,’ he said. But he also cautioned that researchers do not yet understand the consequences of increased human/robot interaction. ‘Studying how robots and humans work together can give us insight into whether this is a good thing or a bad thing for society,’ Arkin said. ‘We need to find out what the consequences are of introducing a robot into a cadre of children. How will that enhance, or potentially interfere with, their social development? Do we really understand the long-term impact of having a robot as a childhood friend?’"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-18 on your answer sheet. NB You may use any letter more than one",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a comparison of children's reactions towards different robots"
+        },
+        {
+          "n": 15,
+          "prompt": "a speculation about ways robots may be able to communicate"
+        },
+        {
+          "n": 16,
+          "prompt": "a description of changes in the way the children physically handled a robot"
+        },
+        {
+          "n": 17,
+          "prompt": "a comparison between people's connections with animals and their connections with robots"
+        },
+        {
+          "n": 18,
+          "prompt": "an account of the way one robot was programmed"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 19 – 23 Look at the following statements (Questions 19-23) and the list of people below. Match each statement with the correct people, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 19-23 on your answer sheet. NB You may use any letter more than one",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 19,
+          "prompt": "In future, robots will not only have to think, but also to show feelings."
+        },
+        {
+          "n": 20,
+          "prompt": "It is uncertain whether more contact between people and robots will be beneficial."
+        },
+        {
+          "n": 21,
+          "prompt": "Very young children have not yet developed ideas about robots."
+        },
+        {
+          "n": 22,
+          "prompt": "Robots need to perform a wide variety of actions for people to relate to them."
+        },
+        {
+          "n": 23,
+          "prompt": "Using robots as an aid in schools may have many benefits."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Fumihide Tanaka"
+        },
+        {
+          "value": "B",
+          "text": "Javier R Movellan"
+        },
+        {
+          "value": "C",
+          "text": "Ronald Arkin"
+        },
+        {
+          "value": "D",
+          "text": "David Powers"
+        }
+      ],
+      "targetName": "people",
+      "listTitle": "List of People",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24,
+          "slots": 1
+        },
+        {
+          "n": 25,
+          "slots": 1
+        },
+        {
+          "n": 26,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Until recently, robots that were best at holding people’s attention were those that acted as {{24}} .",
+        "The children responded to the QRIO robot as a friend or a {{25}}, rather than as a toy.",
+        "Arkin expected that the children would show {{26}} towards the QRIO robot."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1T88ZuyEr8_fy9DF1tTeQDdjKR09zWqnC",
+      "role": "passage-and-questions",
+      "sha256": "1b315736fdec33b90c7fc7a48f9238e01ba08bf57ba2c62d0cacd8d0260638d1",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-a-mechanical-friend-for-children-chua-rep"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch3-code-cover.jpg",
+    "alt": "Mã lập trình",
+    "credit": "Markus Spiske",
+    "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-15-2026-10-13",
+    "checks": [
+      "native source text comparison",
+      "PDF title and task-page visual review",
+      "source notes and footnotes",
+      "shared schema",
+      "practice controls"
+    ]
+  }
+}

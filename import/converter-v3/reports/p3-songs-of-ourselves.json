@@ -1,0 +1,33 @@
+{
+  "job": "p3-songs-of-ourselves",
+  "title": "Songs of ourselves",
+  "part": 3,
+  "fingerprint": "d80e4bf0c5077d4893b315523e8d22389ad7a2b66f76fb1af972338339e84e46",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1uRKqEx2r5d0sy_ixovO5wQ_Mj2bCA9ZM",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-songs-of-ourselves.json",
+  "lessonId": "p3-songs-of-ourselves",
+  "sourceId": "1uRKqEx2r5d0sy_ixovO5wQ_Mj2bCA9ZM",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "mc-one"
+  ],
+  "sourceHash": "a657ea85c5fb66eabc2f3eabdd7ff967797a3b2bb818ca35f38db1b5d8695126",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.046
+}

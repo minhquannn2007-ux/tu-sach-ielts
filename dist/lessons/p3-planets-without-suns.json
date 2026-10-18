@@ -1,0 +1,183 @@
+{
+  "id": "p3-planets-without-suns",
+  "part": 3,
+  "title": "Planets without suns",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Imagine a world without a sun, whose gloom is brightened only by lightning and by the cherry-red glow of lava spilling from active volcanoes. According to a growing band of scientists, enormous numbers of planets could be like this, orphans wandering in interstellar space – the frigid darkness between the stars. 'There could be as many \"interstellar planets\" as there are stars – 100,000 million in our galaxy alone,' says planetary scientist David Stevenson of the California Institute of Technology."
+    },
+    {
+      "label": "B",
+      "text": "The idea that interstellar planets exist is contrary to the commonly held belief that planets always revolve around suns, but Stevenson and others claim that there is a real possibility that planets can be torn from their parent suns and shot into space by encounters with the gravity of other celestial objects. This is most likely to happen in areas where stars are crowded together. In our own galaxy, this is either in the galactic centre, or in 'globular star clusters' – dense areas containing up to millions of stars – which orbit our galaxy. Star density near our Sun is less than one star per cubic light year, but in globular clusters there can be over 250 stars in a similar space."
+    },
+    {
+      "label": "C",
+      "text": "If Earth were in such a cluster, the nearest stars would appear as bright as the full Moon, and instead of a mere 6,000 visible stars, there would be 10 million. 'Midnight on a planet in the core of such a cluster would be indistinguishable from midday on the Earth,' says astronomer Jarrod Hurley of the American Museum of Natural History in New York."
+    },
+    {
+      "label": "D",
+      "text": "In these crowded environments, encounters between stars are frequent. Hurley and his colleague Michael Shara have investigated the effect of such encounters by simulating the motion of 10,000 stars in a computer model of a globular star cluster. They found that, after a speciric time, only 25% of the stars remained in the cluster, the majority having been pulled away by the gravity of the nearby galaxy. Of the stars left, 30% had been stripped of their planets. 'In real globular clusters that fraction could be higher than 50%,' says Hurley. He concludes that globular clusters could contain a large population of free-floating planets. This conclusion is supported by observation of the globular cluster M22 carried out at the Space Telescope Science Institute in Baltimore, USA, by Kailash Sahu and his colleagues, where evidence of an enormous number of free-floating planets was found."
+    },
+    {
+      "label": "E",
+      "text": "But globular clusters may not be the only places where planet ejection occurs. According to Stevenson, this could also happen during the process of planet formation. He points to some computer simulations of the gas and dust out of which our Sun and planets formed 4.6 billion years ago. These have revealed that the young Earth may have originally had up to ten companions of similar size, made of rock and ice. The majority would have been very quickly swallowed up by the Sun, or forced into interstellar space by encounters with newly formed giant planets such as Jupiter."
+    },
+    {
+      "label": "F",
+      "text": "If the possibility of Earth having ten long-lost companions in interstellar space is not remarkable enough, Stevenson makes another almost incredible claim. He alleges that, despite wandering in complete darkness and extreme cold, planets without suns might be common sites for life. Stevenson points out that an ejected planet would carry with it a hydrogen layer that could prevent its heat escaping. As on Earth, the heat would come from the decay of radioactive elements deep in the planet's core. 'In this way, it would be possible for an interstellar planet to stay warm for at least 10 billion years.' Stevenson believes energy from radioactive rocks could be harnessed by primitive organisms similar to those on Earth that have adapted to energy sources other than sunlight."
+    },
+    {
+      "label": "G",
+      "text": "Stevenson's planets and those being considered by Hurley and Shara got into space by being ejected from a planetary system. But could planets form in interstellar space? Some think that the answer is 'yes'. Until recently, it was thought that planets could only form from gas and dust swirling around a newborn star. Everything changed, however, in 2000, with the discovery of planets without parent stars in the star cluster Sigma Orionis. 'The existence of such isolated planets strongly suggested that there was another way of making planets,' says Jane Greaves of the Royal Observatory, Edinburgh, UK. In 2003, Greaves and colleague Marc Pound looked at a star nursery (an area where stars are in the process of formation) in the galaxy Ophiuchus B, closer to Earth than the famous star nursery in the Orion Nebula. Using the James Clerk Maxwell Telescope in Hawaii, they found about a dozen planetary objects. If Greaves and Pound are right, interstellar planets may be so common that there could be one between the Sun and Alpha Centauri, the nearest star from our Solar System. In the future, such planets might be useful to humans, providing refuelling stops for starships in their voyages across the galaxy. Definitions • star: an object in the sky which generates its own light; our Sun, for example • planet: an object in the sky which does not generate its own light; the Earth, for example, was previously thought to always revolve around a star • interstellar planet: a planet which does not revolve around a star • light year: the distance that light travels in a year, approximately 9,500,000,000,000 km"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 32 Reading Passage 3 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 27-32 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "a suggestion that life could survive on a planet without a sun"
+        },
+        {
+          "n": 28,
+          "prompt": "a theory that planets could be born in the spaces between the stars"
+        },
+        {
+          "n": 29,
+          "prompt": "a comment on the level of light on a planet in a globular cluster"
+        },
+        {
+          "n": 30,
+          "prompt": "an estimate of the possible number of interstellar planets in our galaxy"
+        },
+        {
+          "n": 31,
+          "prompt": "the result of an experiment on a model globular cluster"
+        },
+        {
+          "n": 32,
+          "prompt": "a suggestion that planets were ejected into interstellar space during the creation of our Solar System"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 33 – 37 Do the following statements agree with the information given in Reading Passage 3? In boxes 33-37 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 33,
+          "prompt": "A planet without a sun would be dark all the time."
+        },
+        {
+          "n": 34,
+          "prompt": "The removal of planets from their suns is thought to be most frequent in areas with the most stars."
+        },
+        {
+          "n": 35,
+          "prompt": "According to Hurley, real globular clusters will have fewer free-floating planets than in his computer simulation."
+        },
+        {
+          "n": 36,
+          "prompt": "Our Sun could once have had more planets than it does now."
+        },
+        {
+          "n": 37,
+          "prompt": "Water could exist on an interstellar planet."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 38 – 40 Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 38-40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 38,
+          "slots": 1
+        },
+        {
+          "n": 39,
+          "slots": 1
+        },
+        {
+          "n": 40,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "Stevenson believes that very large planets such as {{38}} may have influenced the behaviour of smaller planets in the early Solar System.",
+        "Stevenson suggests that an interstellar planet could retain warmth by being enclosed in a {{39}} .",
+        "The writer suggests that interstellar planets might be used by starships as {{40}} ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1XOtrU5FqCe0bHPte0FMxJEeavANQLoYP",
+      "role": "passage-and-questions",
+      "sha256": "6da5dec61f218379281bd3873f277afc77563610a54e6b3ade1998add732f651",
+      "name": "Planets without suns.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.13",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-planets-without-suns"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Are there planets without a parent star?",
+  "cover": {
+    "asset": "assets/batch3-rocket-cover.jpg",
+    "alt": "Phóng tên lửa",
+    "credit": "Unsplash",
+    "source": "https://unsplash.com/s/photos/rockets",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-13-2026-10-13",
+    "checks": [
+      "all source reading question options and completion compared",
+      "all source titles subtitles and question pages visually inspected",
+      "paragraph ranges and word limits verified",
+      "inline banks complete and source reuse preserved",
+      "Shoppers source researcher typo adapted to actual List of Technologies"
+    ]
+  }
+}

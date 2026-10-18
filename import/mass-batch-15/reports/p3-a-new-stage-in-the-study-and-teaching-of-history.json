@@ -1,0 +1,17 @@
+{
+  "job": "p3-a-new-stage-in-the-study-and-teaching-of-history",
+  "title": "A new stage in the study and teaching of history",
+  "part": 3,
+  "fingerprint": "1cfe143fa833f908424c8ae867abf29ed52eb574b5761a1e42ec528de0db4cee",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1T8dj8h9bcIrL27FbPDPtni5C3EzFz1IW",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

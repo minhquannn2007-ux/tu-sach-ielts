@@ -1,0 +1,194 @@
+{
+  "id": "p2-learning-from-the-romans",
+  "part": 2,
+  "title": "Learning from the Romans",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "In a quest to make concrete more durable and sustainable, an international team of geologists and engineers has found inspiration in the concrete used by the ancient Romans. The chemical secrets of Roman concrete have been uncovered in samples taken from a concrete Roman breakwater. A breakwater is a barrier that is built out into the sea to protect coasts and harbors from the force of waves. This particular breakwater has spent the last 2,000 years submerged in seawater. The international team of researchers that collected the samples was led by Paulo Monteiro, a professor of civil and environmental engineering at the University of California, Berkeley. Analysis of samples from the ancient underwater site in Pozzuoli Bay near Naples in Italy, pinpointed why the best Roman concrete was superior to most modern concrete."
+    },
+    {
+      "label": "B",
+      "text": "Concrete was the Roman Empire’s construction material of choice. It was used in land monuments such as the Pantheon in Rome, as well as in underwater and partially underwater coastal and harbor structures. Monteiro and his team were particularly interested in how the coastal and harbor structures endured the unforgiving saltwater environment. Chemical analysis of Roman concrete showed that it differs from the modern kind in several ways. One is the content of the cement that binds the material in the concrete. The most commonly used cement in recent decades has been Portland cement. Portland cement is a compound of calcium, silicates, and hydrates (C-S-H). However, analysis of Roman concrete shows that it contains a significantly different cement. Roman cement contains aluminum, which is not found in Portland cement, and less silicon than is found in Portland cement. The resulting calcium-aluminum-silicate-hydrate (C-A-S-H) is an exceptionally stable cement."
+    },
+    {
+      "label": "C",
+      "text": "The recipe for the contents of Roman concrete was first described around 30 BC by Vitruvius, an engineer for the Roman Emperor Augustus. Volcanic ash was one of the ingredients, and it is now understood that this is crucial, as it is volcanic ash that contains the aluminum that ultimately gives Roman concrete its great durability. The Romans devised an efficient method of making concrete for coastal structures. They combined volcanic ash with lime, which added the calcium to the mix. This was then packed, together with stones and chunks of rock, into wooden molds, which were then immersed in seawater. The seawater instantly triggered a hot chemical reaction. The lime was hydrated by the seawater, which means that it incorporated water molecules into its structure, and reacted with the volcanic ash to cement the whole mixture together. This reaction formed the concrete that was used to build some of the most enduring structures in Western civilization."
+    },
+    {
+      "label": "D",
+      "text": "According to Marie Jackson, a member of the research team, Roman concrete is one of the most durable construction materials on the planet, and that was no accident. Shipping was the lifeline of political, economic, and military stability for the Roman Empire, so constructing harbors that would last was critical. ‘Over time, the Romans used less and less concrete.’ ‘As the Roman Empire declined, and shipping declined, the need for the seawater concrete declined,’ said Jackson. ‘You could also argue that the original structures were built so well that, once they were in place, they didn’t need to be replaced,’ she added."
+    },
+    {
+      "label": "E",
+      "text": "Producing Roman concrete also left a smaller carbon footprint than its modern counterpart. ‘It’s not that modern concrete isn’t good—it’s so good we use 19 billion tons of it a year,’ says Monteiro. ‘The problem is that manufacturing Portland cement accounts for seven percent of the carbon dioxide that industry puts into the air.’ Portland cement holds most modern concrete together. However, making Portland cement releases carbon dioxide into the atmosphere from burning fuel in order to heat a mix of limestone and clays to 1,450 degrees Celsius. The production of Roman concrete, however, was much cleaner, as less heat was needed. A temperature that was a third lower than that required for making Portland cement was sufficient for making Roman concrete."
+    },
+    {
+      "label": "F",
+      "text": "Some modern concrete no longer contains Portland cement; instead fly ash is used, which causes fewer greenhouse gas emissions. Fly ash is a waste product from burning coal, and the researchers are investigating whether volcanic ash would be a good, large-volume replacement in countries that cannot access fly ash easily. ‘There is not enough fly ash in this world to replace half of the Portland cement being used,’ said Monteiro. ‘Many countries don’t have fly ash, so the idea is to find alternative local materials that will work, including the kind of volcanic ash that Romans used. Using these alternatives could replace 40 percent of the world’s demand for Portland cement.’"
+    },
+    {
+      "label": "G",
+      "text": "Cutting greenhouse gas emissions is one powerful incentive for finding better ways to provide the concrete the world needs; another is the need for stronger, longer-lasting buildings, bridges, and other structures. ‘In the middle 20th century, concrete structures were designed to last 50 years, and a lot of them are on borrowed time,’ Monteiro says. ‘Now we design buildings to last 100 to 120 years.’ Yet Roman harbor installations have survived 2,000 years of chemical attack from seawater and wave action. Stronger, longer-lasting modern concrete may be the legacy of a deeper understanding of how the Romans made their incomparable concrete."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 20 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-20 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "an opinion on why the Romans reduced the amount of concrete they made for use in seawater"
+        },
+        {
+          "n": 15,
+          "prompt": "a list of the contents of both Portland and Roman cement"
+        },
+        {
+          "n": 16,
+          "prompt": "an argument for finding substitutes for a limited resource that is used in making cement"
+        },
+        {
+          "n": 17,
+          "prompt": "information about the structure from which the scientists took their Roman concrete samples"
+        },
+        {
+          "n": 18,
+          "prompt": "a comparison of the environmental impacts of making modern and Roman concrete"
+        },
+        {
+          "n": 19,
+          "prompt": "a comparison of the durability of Roman concrete with concrete produced today"
+        },
+        {
+          "n": 20,
+          "prompt": "details of how the Romans used seawater to make concrete"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 21 and 22 Choose TWO letters, A-E Write the correct letters in boxes 21 and 22 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "type": "mc-two",
+      "numbers": [
+        21,
+        22
+      ],
+      "prompt": "According to the passage, which TWO of the following statements about fly ash are true?",
+      "options": [
+        {
+          "value": "A",
+          "text": "Fly ash results in less damage to the environment than Portland cement."
+        },
+        {
+          "value": "B",
+          "text": "Fly ash was used by the Romans as an alternative to volcanic ash."
+        },
+        {
+          "value": "C",
+          "text": "Fly ash is already used in the production of some concrete."
+        },
+        {
+          "value": "D",
+          "text": "All countries have access to fly ash resources."
+        },
+        {
+          "value": "E",
+          "text": "Fly ash will soon replace volcanic ash."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Complete the summary below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer. Write your answer in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "The environmental effects of concrete production",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD AND/OR A NUMBER",
+      "content": [
+        "Roman concrete is better for the environment than modern concrete, which is made by using Portland cement. This is because a temperature of {{23}} . Celsius is needed to combine clays and limestone to make Portland cement. This level of heat was reduced by a {{24}} when making Roman concrete. Needing less heat meant less {{25}} had to be burned and less carbon dioxide was produced. According to Monteiro, when considering the amount of carbon dioxide emitted by {{26}} , seven percent of it comes from the manufacture of Portland cement."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1xiJ8lWeTHvvey4uWwa__0Bobr1TONWot",
+      "role": "passage-and-questions",
+      "sha256": "38459def22c1437c9b9e250ba3d54238332b013af6d3bb8d59ddcc17cef90f98",
+      "name": "Learning from the Romans.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-learning-from-the-romans"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "How an ancient building material is influencing modern construction",
+  "cover": {
+    "asset": "assets/batch2-concrete-cover.jpg",
+    "alt": "Kiến trúc bê tông",
+    "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+    "credit": "Jonas Gerlach",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-4-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

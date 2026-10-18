@@ -1,0 +1,175 @@
+{
+  "id": "p2-catch-of-the-day",
+  "part": 2,
+  "title": "Catch of the Day",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "In the basement of a building on a wharf in the inner harbor of Baltimore in Maryland, USA, a group of aquaculturists at the Institute of Marine and Environmental Technology is trying to create an artificial ecosystem. Yonathan Zohar and his colleagues hope to liberate the raising of ocean fish from the ocean so that fish can be built inland. The fresh, served the day it comes out of the brine (if the brine in question is a mixture of tap water and salts), would thus become accessible to millions of people who must now have their fish shipped in from afar, deep-frozen. Equally important, marine-fish farmers would no longer need to find suitable coastal sites to keep their fish while they grow to marketable size, exposing the crowded animals to disease and polluting the marine environment."
+    },
+    {
+      "label": "B",
+      "text": "People have raised freshwater fish in ponds since time immemorial, but farming species such as salmon that live mainly in salt water dates back only a few decades, as does transformation of saltwater aquaculture to operate on an industrial scale. Now fish farming is booming and human consumption of fish has overtaken that of beef. Indeed, one way of supplying mankind with enough animal protein in future may be through aquaculture. To keep the boom going, technologists like Dr Zohar must become more inventive."
+    },
+    {
+      "label": "C",
+      "text": "Dr Zohar’s ecosystem is about to undergo commercial trials. This ecosystem constantly recycles the same supply of brine, which is purified by three sets of bacteria. One set turns ammonia excreted by the fish into nitrous ions. A second converts the ions to nitrogen and water. A third, working on solid waste filtered from the water, transforms it to methane — which via a special generator — provides part of the power which keeps the whole thing working. The result is a closed system that can be set up anywhere — it generates no pollution and that can be kept disease free. It is also escape proof. That means species such as sea bream and sea bass, which cannot be grown in North America because they might get out and breed in the wild, could be delivered to a table anywhere. Besides transforming the design of fish farms, The Institute of Marine and Environmental Technology is also working on extending the range of species they can grow. At the institute, Dr Zohar spent decades studying the hormone system that triggers spawning* and can now stimulate it on demand."
+    },
+    {
+      "label": "D",
+      "text": "It is the goal of many fish farmers to supply the fish they are farming with spawnes to make them grow more quickly. Indeed, over the past couple of decades researchers _________________________________ ** transgenes: genetic material that has been transferred by genetic engineering techniques from one organism to another have treated more than 35 species of fish in this way. Only one company though, has persisted to the point of regulatory approval. AquaBounty’s transgenic Atlantic salmon, now cleared both in the USA and Canada, has the desirable property of rapid growth. Its transgene**, from the chinook salmon, causes it to put on weight all year round not just in spring and summer. That hales the time this fish takes to reach marketable size. Finding if people will be willing to eat the result is an experiment is own right. However, there is so much natural variation in wild fish that conventional selective rearing can make a difference without any hi-tech intervention. In 2007, a company which is now part of the Norwegian Institute of Food, Fisheries and Aquaculture showed that three decades of this approach by the country’s salmon farmers had resulted in fish that grew twice as fast as their wild progenitors."
+    },
+    {
+      "label": "E",
+      "text": "Researchers at SalmBreed of Bergen, in Norway, have employed genomic selection not to create bigger, faster-growing fish but to attack two fish farming’s enemies — infestation and infection. Using this technology, have produced varieties of salmon resistant to sea lice, pancreas disease and viral illness."
+    },
+    {
+      "label": "F",
+      "text": "A common complaint by environmental activists is that fish farm does not relieve as much pressure on the oceans as it appears, because a lot of the feed it uses is fish meal. That simply transfers fishing pressure from species eaten by people directly to those that get turned into such meal. But fish meal is expensive, so researchers are trying to reduce the amount used by substituting plant matter, such as sova. This initiative has seen some success. In 1990, 90% of salmon feed used in Norway was fish meal. In 2013, the figure was 30%."
+    },
+    {
+      "label": "G",
+      "text": "Even the production of conventional fish foods results in less strain on the environment than food for farm animals. Because fish are cold blooded, they do not eat to stay warm. They thus convert more of their food into body mass. For conservationists, and those worrying about whether there will be enough food in the future to feed the growing human population, that makes fish a particularly attractive form of animal protein."
+    },
+    {
+      "label": "H",
+      "text": "Nevertheless, the demand for all animal protein is growing. Novel technologies are therefore being applied to animal husbandry as well. And some imaginative researchers are even trying to grow meat and other animal products in factories, cutting the animals out of the loop altogether."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 20 Reading Passage 2 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 14-20 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a description of the process controlling the environment of an experimental fish farm"
+        },
+        {
+          "n": 15,
+          "prompt": "a reference to the significant increase in the amount of fish being eaten"
+        },
+        {
+          "n": 16,
+          "prompt": "a reason why fish can use their food more efficiently than other animals"
+        },
+        {
+          "n": 17,
+          "prompt": "reference to the large number of people to whom fresh fish will become available"
+        },
+        {
+          "n": 18,
+          "prompt": "a suggestion that animals may not be needed for food production in the future"
+        },
+        {
+          "n": 19,
+          "prompt": "an example of progress made in changing the composition of fish food"
+        },
+        {
+          "n": 20,
+          "prompt": "a suggestion that genetically modified fish might be rejected as food"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 21 – 23 Look at the following statements (Questions 21-23) and the list of organisations below. Match each statement with the correct organisation, A, B or C. Write the correct letter, A, B or C, in boxes 21-23 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "prompt": "Increasing the varieties of fish that can be farmed."
+        },
+        {
+          "n": 22,
+          "prompt": "Producing fish varieties which can defend themselves against health threats."
+        },
+        {
+          "n": 23,
+          "prompt": "Inventing a purification system which supplies its own fuel."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Institute of Marine and Environmental Technology"
+        },
+        {
+          "value": "B",
+          "text": "AquaBounty"
+        },
+        {
+          "value": "C",
+          "text": "SalmBreed"
+        }
+      ],
+      "targetName": "organisation",
+      "listTitle": "List of Organisations",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "Genetic Engineering in Farm Fish",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Genetically engineering fish to grow faster is the {{24}} of a lot of fish farmers. Now after genetic experiments on 35 fish species by various companies, AquaBounty has been granted {{25}} to sell its salmon. These fish can increase {{26}} during each season because of the addition of a chinook salmon transgene. However, it has been proven possible to greatly increase the rate of fish growth by selective breeding rather than by making use of a genetic solution."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1Xev7BB-nQ0vSEAvJhMBSxE_Na0Sfm1jE",
+      "role": "passage-and-questions",
+      "sha256": "6976ea8d161f17347d210adeb7cdeb8af607608e07ac64a366e13c8e53bc93c4",
+      "name": "Catch of the Day.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.0",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-catch-of-the-day"
+  },
+  "subtitle": "Farming marine fish inland will relieve pressure on the oceans"
+}

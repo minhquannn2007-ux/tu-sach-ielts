@@ -1,0 +1,32 @@
+{
+  "job": "p3-architecture-in-britain",
+  "title": "Architecture in Britain",
+  "part": 3,
+  "fingerprint": "42b1f787bb7e1f5ccffce99368db1d25d0aa1b8fe159f8599e64ab8d3f6412cd",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-architecture-in-britain.json",
+  "lessonId": "p3-architecture-in-britain",
+  "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-input"
+  ],
+  "sourceHash": "879210bd2c49fcba31c9583b94a2ed6c126c5f2a12c7fa4c77b86b911e477cdd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.149
+}

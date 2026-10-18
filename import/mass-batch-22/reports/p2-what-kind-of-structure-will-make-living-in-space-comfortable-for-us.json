@@ -1,0 +1,33 @@
+{
+  "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+  "title": "What kind of structure will make living in space comfortable for us",
+  "part": 2,
+  "fingerprint": "8dc0cd3ecb39235f3432fc1837e1ae8a6f00bcb715bd3538104bb65cfe138781",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us.json",
+  "lessonId": "p2-what-kind-of-structure-will-make-living-in-space",
+  "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "060428217d543d7af9c361887d7929c4ac2b31daf6abfa3a789d1cff77a30417",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.111
+}

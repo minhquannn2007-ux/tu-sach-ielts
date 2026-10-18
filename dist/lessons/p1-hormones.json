@@ -1,0 +1,315 @@
+{
+  "id": "p1-hormones",
+  "part": 1,
+  "title": "Hormones",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Hormones are remarkable chemicals, secreted into our blood by organs called endocrine glands. They control almost everything our body does, from our growth and development to our impulses and mood, from how often we sleep to how quickly our heart beats. There are even hormones that regulate our hormones."
+    },
+    {
+      "text": "Yet until the start of the 20th century, most scientists had no idea these chemicals even existed, let alone how they worked. The story of endocrinology – the study of hormones – begins in 1849 with a German scientist called Arnold Berthold. In what is now recognised as the first endocrinal experiment, Berthold discovered that there must be a substance carried in the bloodstream of cockerels that triggered their aggressive male behaviour and the growth of their characteristic red plumage."
+    },
+    {
+      "text": "Despite the significance of Berthold’s findings, his results went largely unnoticed for nearly half a century. Then, in 1891, George Redmayne Murray announced that he had managed to cure the medical condition known as myxedema. Now recognised as underactivity of the thyroid gland, the condition causes alarming swelling of the hands and eyes. Murray’s treatment involved taking a sheep, obtaining extracts from its thyroid gland, and then injecting this into patients. This was the first effective application of endocrinology in conventional medicine. By 1895, George Oliver and Edward Schafer had shown that injections of extracts of the adrenal glands and pituitary glands raised animals’ blood pressure. This was further proof that secretions released by glands could create important effects elsewhere in the body."
+    },
+    {
+      "text": "Despite mounting evidence of an internal chemical control system, the British Medical Association was still reluctant to accept the idea. The prevailing wisdom since ancient times was that the nervous system controlled the body’s functions, and it was difficult for people to accept that this might not be the case. Thankfully, in 1902, a defining experiment conducted by physiologist Ernest Starling and his brother-in-law William Bayliss proved beyond doubt that chemicals in the blood could affect the behaviour of organs independently of the nervous system. While carrying out research into the digestive systems of animals, they discovered that an organ called the duodenum, close to the stomach, was releasing a chemical substance that was entering the bloodstream and acting on other organs. They called this substance ‘secretin’. Three years later, in a lecture to the Royal College of Physicians, Starling referred to such chemicals as ‘hormones’, based on the ancient Greek word for ‘I excite’, and the term stuck."
+    },
+    {
+      "text": "From here, advancement in endocrinology began to gather pace. In 1921, Frederick Banting and Charles Best identified insulin, the hormone which tells the body to absorb sugar from the bloodstream. Their findings would lead to a treatment that still saves millions of lives today. Before Banting and Best’s discovery, people suffering from diabetes – the inability to produce enough insulin – often succumbed to a slow and painful death at a young age. In their groundbreaking experiment, the pair caused a dog to become diabetic by the removal of the organ known as the pancreas. Convinced that this organ had a key function in the production of hormones, the pair then injected the animal with secretions from certain cells of another dog’s pancreas. The animal’s blood sugar levels quickly returned to normal. Within a year of this discovery, they were administering the hormone insulin to human patients, and within two years, a pharmaceutical company was making enough to treat all the diabetics in North America."
+    },
+    {
+      "text": "Modern endocrinology was now in full swing, and there were numerous breakthroughs throughout the rest of the 20th century. Many of them came thanks to the ability to measure tiny quantities of hormones circulating in the blood. Such precise measurements would be impossible without a technique called ‘radioimmunoassay’, developed by US physicist and Nobel prize-winner Rosalyn Yalow. Her technique, which uses specially designed antibodies to bind to biological molecules of interest, allowed fellow prize-winners Roger Guillemin and Andrew Schally to measure minute concentrations of pituitary hormones in the blood. This work was vital in understanding the pituitary gland’s role as a regulator of other hormone glands. The pituitary links the brain with the rest of the endocrine system, and is a crucial connection between our senses and the body’s chemical response system."
+    },
+    {
+      "text": "In recent years, our understanding of hormones has grown immensely. Work is ongoing to unravel the complex relationships between hormones and the great challenges of our era like obesity, cardiovascular disease, depression and aging. To date, around 80 of these remarkable chemicals have been identified."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 8 Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 1-8 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1
+        },
+        {
+          "n": 2
+        },
+        {
+          "n": 3
+        },
+        {
+          "n": 4
+        },
+        {
+          "n": 5
+        },
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "noteLayout": {
+        "title": "The discovery of hormones",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "1849: Berthold",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "launched study of endocrinology with experiments on appearance and behaviour"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "of cockerels"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.882,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "1891: Murray",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.69
+          },
+          {
+            "runs": [
+              {
+                "text": "developed a treatment for {{1}} by extracting hormones from thyroid glands of"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "a sheep"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.882,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "By 1895: Oliver and Schäfer",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.71
+          },
+          {
+            "runs": [
+              {
+                "text": "found that injections of extracts from certain glands affected the {{2}} of animals"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.882,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "1902: Starling and Bayliss",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.81
+          },
+          {
+            "runs": [
+              {
+                "text": "discovered a substance they named {{3}} , a hormone produced in"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "the {{4}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.882,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "showed that the effect of hormones is unconnected to the body’s {{5}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.882,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "1921 Banting and Best",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.81
+          },
+          {
+            "runs": [
+              {
+                "text": "discovered the hormone {{6}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "made a {{7}} diabetic and studied its {{8}} — revealing the role of this organ"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "in hormone production"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.05,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": "The discovery of hormones",
+      "content": [
+        "1849: Berthold",
+        "launched study of endocrinology with experiments on appearance and behaviour of cockerels",
+        "1891: Murray",
+        "developed a treatment for {{1}} by extracting hormones from thyroid glands of a sheep",
+        "By 1895: Oliver and Schäfer",
+        "found that injections of extracts from certain glands affected the {{2}} of animals",
+        "1902: Starling and Bayliss",
+        "discovered a substance they named {{3}} , a hormone produced in the {{4}}",
+        "showed that the effect of hormones is unconnected to the body’s {{5}}",
+        "1921 Banting and Best",
+        "discovered the hormone {{6}}",
+        "made a {{7}} diabetic and studied its {{8}} — revealing the role of this organ in hormone production"
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 9 – 13 Do the following statements agree with the information given in Reading Passage 1? In boxes 9-13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 9,
+          "prompt": "Little progress was made in the field of endocrinology between the 1920s and the end of the 20th century."
+        },
+        {
+          "n": 10,
+          "prompt": "Guillemin and Schally dedicated many years to studying the connections between the pituitary gland and the brain."
+        },
+        {
+          "n": 11,
+          "prompt": "Current research is focusing on links between hormones and major medical problems in the world today."
+        },
+        {
+          "n": 12,
+          "prompt": "Scientists believe they have now identified nearly all the hormones of the human body."
+        },
+        {
+          "n": 13,
+          "prompt": "Computer modelling is more useful in endocrinology than in many other life sciences."
+        }
+      ],
+      "type": "tfng"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+      "role": "passage-and-questions",
+      "sha256": "4ecb4810e7c5fa8802156d55212e23e2205d00ea59346676e4510548f4f81cf1",
+      "name": "Hormones.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-hormones",
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "noteLayout": true,
+      "blankFinalSheet": true,
+      "date": "2026-10-15"
+    }
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Experiments by pioneering scientists have greatly improved our understanding of the body’s chemical messengers",
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

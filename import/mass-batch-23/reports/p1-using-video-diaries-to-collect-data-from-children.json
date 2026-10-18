@@ -1,0 +1,17 @@
+{
+  "job": "p1-using-video-diaries-to-collect-data-from-children",
+  "title": "Using video diaries to collect data from children",
+  "part": 1,
+  "fingerprint": "757a176a098ba6864b6e61309258931d39fd08ebef07bd983c1b8355bfef8371",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1A-fkPy8Qx5fzKug0OkSSgXMmPNsjnAD2",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

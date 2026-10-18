@@ -1,0 +1,17 @@
+{
+  "job": "p3-architecture-in-britain",
+  "title": "Architecture in Britain",
+  "part": 3,
+  "fingerprint": "44380b50a6e9cca3205d1bbb9c2983e42eaee1f6f8f7db261b65d9b0415ef692",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.06
+}

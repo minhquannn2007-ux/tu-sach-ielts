@@ -1,0 +1,33 @@
+{
+  "job": "p3-self-perceptions",
+  "title": "Self-perceptions",
+  "part": 3,
+  "fingerprint": "cb3b54f9efa23153a777758c0341bd9e9180c235b4868a09f4021404251bce9f",
+  "converterVersion": "3.18",
+  "attempts": [
+    {
+      "sourceId": "1yDrAhqGFJrssYMMz9d9ek8aQv-8_r4p3",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-self-perceptions.json",
+  "lessonId": "p3-self-perceptions",
+  "sourceId": "1yDrAhqGFJrssYMMz9d9ek8aQv-8_r4p3",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "matching-endings"
+  ],
+  "sourceHash": "dd33d1b9260b68b3ec834c225329194c3fa65e20357534e3b5b33befa5ad2fdd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.041
+}

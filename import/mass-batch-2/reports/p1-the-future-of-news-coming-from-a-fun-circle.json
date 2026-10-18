@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-future-of-news-coming-from-a-fun-circle",
+  "title": "The future of news – coming from a fun circle",
+  "part": 1,
+  "fingerprint": "e99547e2f7a5fd19949ca9f6ae24f5cdfb93b392da1bb6e141fbfee21ea35322",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [1, 2, 3, 4, 5, 6, 7], found [1, 2, 3, 4, 5, 6]"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.061
+}

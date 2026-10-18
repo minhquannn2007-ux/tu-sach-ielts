@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-the-doughnut",
+  "title": "The History of the Doughnut",
+  "part": 1,
+  "fingerprint": "f5e35ef7b9b560e5ced1321fb41e9b209b99520c5b8151ef4c01249f601beb92",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1aR_RV5KhjN5zhqjrJc7TqvqOQQTQl-Uu",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-the-doughnut.json",
+  "lessonId": "p1-the-history-of-the-doughnut",
+  "sourceId": "1aR_RV5KhjN5zhqjrJc7TqvqOQQTQl-Uu",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "f7c2f95f16348b5818e94ce229bc5cac001a6a12538e51311c7a883f573ec90a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.095
+}

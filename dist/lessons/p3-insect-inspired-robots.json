@@ -1,0 +1,200 @@
+{
+  "id": "p3-insect-inspired-robots",
+  "part": 3,
+  "title": "Insect-inspired robots",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "A tiny insect navigates its way across featureless salt-pans. A cockroach successfully works out how to scramble over an obstacle. The mantis shrimp scans its aquatic world through hyperspectral eyes. Using the most basic of equipment and brains tinier than a pinhead, insects constantly solve complex problems of movement vision and navigation – processing data that would challenge a supercomputer. How they do it is driving one of the most exciting new fields of technology – biomimetics and biorobotics, the imitation of insect ystems to control man-made machines. Delegates at a recent conference presented some outcomes of their work in this area."
+    },
+    {
+      "label": "B",
+      "text": "Dr Alex Zelinsky suggested that the method by which wasps use landmarks to find their way back to the nest may one day be part of a system for navigating cars that 'know’ where to go. A research team led by Dr Zelinsky has shown that a robot can navigate its way among 50 different landmarks by recognising them individualiy using a panoramic camera. ‘The inspiration came from biology, where wasps use a practice called \"turn back and look” to orient themselves as they emerge from the nest. By flying to and fro, they lock in images of the nest from different angles and perspectives, so they can recognise it again,’ he explained. The robot's panoramic camera logs the surrounding area and its key landmarks, which are then sorted in its computer according to how reliable they are as navigational aids. The landmarks are then scaled, from small to large, so that the robot can recognise whether it is getting closer to or further away from them. Their location is built into a map in its 'mind' which operates at different scales and instructs the robot whether to turn left or right at a particular mark. The technology provides a general way for a machine to navigate an unknown landscape."
+    },
+    {
+      "label": "C",
+      "text": "For three decades, Professor Ruediger Wehner has journeyed from Switzerland to the Sahara desert where Cataglyphis, a tiny ant with a brain weighing just 0.1 mg, performs acts of navigational genius when it leaves its nest, forages for food and returns successfully. Cataglyphis uses polarised light, caused when air molecules scatter light, to orient and steer itself. Wehner's team found the ant has a set of specialised photoreceptors along the upper rim of its eyes that detect polarised light, while other receptors per form different navigational tasks. As the sun moves, the ant notes its direction each time it leaves the nest and updates its internal compass. Using other eye receptors, it stores a 'snapshot' image of landmarks close to the nest entrance in its eyes and compares this with what it sees as it returns. The ant also has a way of measuring distance travelled, while a 'path integrator' periodically informs the ant of its curent position relative to its point of departure. Rather than integrate all the information it receives in its brain, the ant actually performs a number of complex calculations in different organs. Like a supercomputer, the ant has many separate subroutines going on simultaneously. Using the ant's ablllity to steer by polarised light and to stare and reuse landscape images, Wehner and colleagues have built 'Sahabot', a small vehicle that uses polarisers and a digital CCD camera to store 360° images of its surroundings. It navigates by using polarised sunlight and comparing the cuirent images of landmarks to the ones in its memory."
+    },
+    {
+      "label": "D",
+      "text": "Professor Robert Michelson had a different desert challenge – to design a flying robot that can not only navigate but also stay aloft and hover in the thin atmosphere of Mars. Drawing inspiration from insect flight, he has gone beyond nature to devise a completely new concept for a flying machine. The 'Entomopter' is a soit of double-ended dragonfly whose wings beat reciprocally. Michelson says that the flapping-wing design gives the craft unusually high lift compared with a fixed-wing flyer, enabling it to fly slowly or hover in the thin Martian air-whereas a fixed-wing craft would have to move at more than 400 km h and could not stop to explore."
+    },
+    {
+      "label": "E",
+      "text": "Engineer Roger Quinn and entomologist Professor Roy Ritzmann are taking their inspiration from cockroaches. According to Quinn and Ritzmann, the ability of cockroaches to run very fast over rough terrain may one day give rise to a completely new all-terrain vehicle with six legs, or maybe even wheel-like legs called 'whegs'. The key to the cockroach's remarkable cross-country performance lies partly in the fact that its legs do a lot of the 'thinking' without having to consult te brain. Quinn and Ritzmann are drawing on cockroach skills to create robotic walkers and control strategies that capture the remarkable capacity of these insects to traverse complex terrain and navigate safely toward goals while avoiding obstacles. The team has already designed a series of robots that run on six legs or on whegs. enabling them to handle surprisingly rugged teirain."
+    },
+    {
+      "label": "F",
+      "text": "International experts believe there are tremendous opportunities in biorobotics. However, delegates at the conference had differing visions for the future of the science. While some were concerned that the initial applications of blorobotics may be military, others such as Dr Barbara Webb, predicted swarms of tiny, cheap, insect-like robots as society's cleaners and collectors. Sonja Kleiniogel hoped the study of the hyperspectral eyes of the mantis shrimp might yield remote sensors that keep watch over the environmental health of our oceans. Several delegates concerned about the ethical implications of borobotics, and urged that close attention be paid to this as the science and technologies develop."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Question 27 – 32 Reading Passage 3 has six sections, A-F. Which section contains the following information? Write the correct letter, A-F, in boxes 27-32 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "positive and negative possibilities for the use of insect-inspired robots"
+        },
+        {
+          "n": 28,
+          "prompt": "how perceived size is used as an aid to navigation"
+        },
+        {
+          "n": 29,
+          "prompt": "an example of decision-making taking place in the limbs"
+        },
+        {
+          "n": 30,
+          "prompt": "a description of a potential aid in space exploration"
+        },
+        {
+          "n": 31,
+          "prompt": "the range of skills that have inspired biorobotics"
+        },
+        {
+          "n": 32,
+          "prompt": "how a variety of navigational methods operate at the same time"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 33 – 36 Answer these questions below Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answer in boxes 33-36 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 33,
+          "prompt": "Which creatures see particularly well underwater?"
+        },
+        {
+          "n": 34,
+          "prompt": "In addition to a computer, what technical equipment is fitted in Dr Zelinsky's robot?"
+        },
+        {
+          "n": 35,
+          "prompt": "Where is the Cataglyphis ant found?"
+        },
+        {
+          "n": 36,
+          "prompt": "What atmospheric effect helps the Catalyphis ant to know its direction?"
+        }
+      ],
+      "type": "short-answer",
+      "wordLimit": "NO MORE THAN THREE WORDS"
+    },
+    {
+      "sourceInstructions": "Questions 37 – 40 Look at the following people (Questions 37-40) and the list of robots below. Match each person or people with the correct robot, A-G. Write the correct letter, A-G, in boxes 37-40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 37,
+          "prompt": "Dr Alex Zelinsky"
+        },
+        {
+          "n": 38,
+          "prompt": "Professor Ruediger Wehner"
+        },
+        {
+          "n": 39,
+          "prompt": "Professor Robert Michelson"
+        },
+        {
+          "n": 40,
+          "prompt": "Roger Quinn and Professor Roy Ritzmann"
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "a robot that makes use of light as well as stored images for navigational purposes"
+        },
+        {
+          "value": "B",
+          "text": "a robot that can contribute to enviromental health"
+        },
+        {
+          "value": "C",
+          "text": "a robot that can move over difficult surfaces"
+        },
+        {
+          "value": "D",
+          "text": "a robot that categorises information from the environment according to its usefulness"
+        },
+        {
+          "value": "E",
+          "text": "a robot that can be used to clean surfaces and collect rubbish"
+        },
+        {
+          "value": "F",
+          "text": "a robot that has improved on the ability of the insect on which it is based"
+        },
+        {
+          "value": "G",
+          "text": "a robot that can replace soldiers in war"
+        }
+      ],
+      "targetName": "robot",
+      "listTitle": "List of Robots",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1lKqdkaDy-pQFEUWpIrOQcQU5iQydqEFQ",
+      "role": "passage-and-questions",
+      "sha256": "cb924bfd06c346034897340c49c6a8652f98829505d72e602a41f6828315bdce",
+      "name": "Insect-inspired robots.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.20",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-insect-inspired-robots",
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "noteLayout": true,
+      "date": "2026-10-15"
+    }
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "A recent conference reports on developments in biorobotics",
+  "cover": {
+    "asset": "assets/batch2-ants-cover.jpg",
+    "alt": "Kiến trên lá",
+    "source": "https://unsplash.com/photos/a-close-up-of-a-group-of-ants-on-a-leaf-Cvx1BDQM15o",
+    "credit": "Dibakar Roy",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

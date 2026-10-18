@@ -1,0 +1,99 @@
+[
+  {
+    "job": "p1-advertising-needs-attention",
+    "sourceId": "1E92trwsR_PWWaIcJGkR9D_9nVcMTeGZY",
+    "sourceHash": "dee036a8ab63f438d64edde4fa2005076fc0d1d690d09b93c26aa72d788cb09a",
+    "visualSourcePages": [
+      1,
+      2,
+      3
+    ],
+    "titleSubtitle": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "corrections": [
+      "Removed OCR-only QR fragments ot/eA",
+      "Recovered printed question number 7 from OCR z",
+      "Retained eight paragraph boundaries and both column continuations"
+    ],
+    "paragraphs": 8,
+    "questionCount": 13,
+    "reviewed": true
+  },
+  {
+    "job": "p1-bondi-chua-go",
+    "sourceId": "19eaUkXDsWJFBMobFyEiz6scwt3ymSl5q",
+    "sourceHash": "ee31131a15a7681db303e75ec39679197a709aaf6e4931e3e2667d166a6a33b3",
+    "visualSourcePages": [
+      1,
+      2,
+      3
+    ],
+    "titleSubtitle": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "corrections": [
+      "colonia]",
+      "Cattle vast",
+      "wasa cultural",
+      "in tur,",
+      "fammly",
+      "rent-\nPaying",
+      "surf\ncamival",
+      "Bondi asa",
+      "preparations fOr",
+      "weregood",
+      "Printed question numbers 1–13 recovered by visual row review",
+      "Nine original paragraph boundaries; both columns retained"
+    ],
+    "paragraphs": 9,
+    "questionCount": 13,
+    "reviewed": true
+  },
+  {
+    "job": "p1-using-video-diaries-to-collect-data-from-children",
+    "sourceId": "1A-fkPy8Qx5fzKug0OkSSgXMmPNsjnAD2",
+    "sourceHash": "6d3a8e6fe9ddf6f681d603f00d12123e3fa83c3db20171ea6d791d42ffa9181b",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "titleSubtitle": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "corrections": [
+      "OCR |→I, Ifa→If a; comma in In addition",
+      "Restored note gaps 3, 4, 5 and bullet markers from scan",
+      "Six reading paragraphs; continuation across pages preserved",
+      "Bold note headings, centered title and indented bullets checked"
+    ],
+    "paragraphs": 6,
+    "questionCount": 13,
+    "reviewed": true
+  },
+  {
+    "job": "p3-child-s-play-in-medieval-england",
+    "sourceId": "1vzQ8wwwt0ffQ8mtUE86fiegO44eA2xM5",
+    "sourceHash": "7eb65d9f8e488d5ebe834d8ef5e5d89efce926c353b332c075a767d98de06179",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "titleSubtitle": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "corrections": [
+      "Paragraph A and D damaged OCR replaced from visible scan",
+      "Paragraph C final sentence restored from scan",
+      "Recovered printed paragraph E and question 31; Ariès/modern OCR corrected",
+      "Ten event options mapped to printed A–J rows; no extra reuse instruction"
+    ],
+    "paragraphs": 8,
+    "questionCount": 14,
+    "reviewed": true
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-strange-world-of-sight",
+  "title": "The strange world of sight",
+  "part": 3,
+  "fingerprint": "d93b3ed4f183cdd40a14d4abfa27700c0dfe691a3d27fc03bd9e2e9047e19367",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1JbZe-esAceyy3eSZv2_Uf8ABtejWY8mR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1_eeq2YoQhOTvFmL9_1MMX66vbhIo2lb8",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.084
+}

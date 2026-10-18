@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-health-benefits-of-singing",
+  "title": "The Health Benefits of Singing",
+  "part": 1,
+  "fingerprint": "025deeb4099ec628f6cf122be92c917f9c9916b5859ad04ec032c945fab09a2b",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1cP1YmqHprXAhEur0NVpyzp73chTXfpAI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1cP1YmqHprXAhEur0NVpyzp73chTXfpAI.json",
+      "ocrConfidence": [
+        95.9,
+        95.7,
+        95.7,
+        91.4
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.013
+}

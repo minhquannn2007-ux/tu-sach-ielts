@@ -1,0 +1,17 @@
+{
+  "job": "p3-let-s-all-be-friends-chua-rep",
+  "title": "Let's all be friends(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "5fc772dfe9faa77128ef4e41b28489e54c1a1009ab1e7a59cbd6ceb4fb0da19b",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1iBvDy0wg2iUm4nWtVqAifrxCEfKZm3yJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

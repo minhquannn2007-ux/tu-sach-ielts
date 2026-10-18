@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-value-of-literary-prizes",
+  "title": "The value of literary prizes",
+  "part": 3,
+  "fingerprint": "9f7198bdf83d6d2c3141abb79fb39ff63397476194ad4414a579bcdc9e6151f9",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "17BBih5ZLowFKlbpk2tNfiFxz4WWIT-a9",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1dk6E4juuz4_8VQvpbPc9g9GiqaPjR6fX",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

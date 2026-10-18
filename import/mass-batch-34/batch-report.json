@@ -1,0 +1,35 @@
+{
+  "results": [
+    {
+      "job": "p3-learning-to-be-bilingual",
+      "sourceId": "1pmUoxE4LrzF6QHxPzBNkTatgdlY8EOzG",
+      "draft": "drafts/p3-learning-to-be-bilingual.json",
+      "lessonId": "p3-learning-to-be-bilingual",
+      "status": "ready-for-review"
+    },
+    {
+      "job": "p3-game-theory",
+      "sourceId": "1MC26oTgvrDy4HaYTQCNmhZ-N64JVjxKt",
+      "draft": "drafts/p3-game-theory.json",
+      "lessonId": "p3-game-theory",
+      "status": "ready-for-review"
+    },
+    {
+      "job": "p3-australias-megafauna-controversy",
+      "sourceId": "1FbasxQXlWb91ncguFHpTVxNBt6yJqurF",
+      "draft": "drafts/p3-australias-megafauna-controversy.json",
+      "lessonId": "p3-australias-megafauna-controversy",
+      "status": "ready-for-review"
+    },
+    {
+      "job": "p3-is-teleworking-sustainable",
+      "sourceId": "1gkSdMh0D1VbizgK0ueAXlyu6ARsFjEH5",
+      "draft": "drafts/p3-is-teleworking-sustainable.json",
+      "lessonId": "p3-is-teleworking-sustainable",
+      "status": "ready-for-review"
+    }
+  ],
+  "counts": {
+    "ready-for-review": 4
+  }
+}

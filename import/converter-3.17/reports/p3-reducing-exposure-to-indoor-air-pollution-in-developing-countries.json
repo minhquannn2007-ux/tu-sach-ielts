@@ -1,0 +1,33 @@
+{
+  "job": "p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries",
+  "title": "Reducing exposure to indoor air pollution in developing countries",
+  "part": 3,
+  "fingerprint": "7ed57082d43fa7cb5afbc0b2af98c28b3ca760f88be08110c7c226b51ed15e36",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1yLiMx1dqT652E53zlRwHfoy8tZMDitHq",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries.json",
+  "lessonId": "p3-reducing-exposure-to-indoor-air-pollution-in",
+  "sourceId": "1yLiMx1dqT652E53zlRwHfoy8tZMDitHq",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "matching-endings"
+  ],
+  "sourceHash": "09268cefaa8a078ffcc582a60b2a9c8de6ce5c8d2a21ab79654400072da8df6c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.083
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-geography-of-taste-buds",
+  "title": "The geography of taste buds",
+  "part": 3,
+  "fingerprint": "7722a0e5c03952f3e1daeaf1c8e54f30d6e0bc43f4fb15b9db15b465f3e05ec4",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.069
+}

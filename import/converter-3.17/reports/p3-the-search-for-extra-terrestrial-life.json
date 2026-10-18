@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-search-for-extra-terrestrial-life",
+  "title": "The search for extra-terrestrial life",
+  "part": 3,
+  "fingerprint": "78bac773e4e0d9ce0edc2cfa2bb40e58ab676dd1500e8846b192cf6c8002c70b",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1KA8MHo0kP3OQUq638uSYkYqjn200GEjm",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "17tcHnaSO9P8VFnYIJO1_thERrEhIZz6K",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

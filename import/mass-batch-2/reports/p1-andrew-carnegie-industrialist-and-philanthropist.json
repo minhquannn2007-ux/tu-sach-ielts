@@ -1,0 +1,32 @@
+{
+  "job": "p1-andrew-carnegie-industrialist-and-philanthropist",
+  "title": "Andrew Carnegie: industrialist and philanthropist",
+  "part": 1,
+  "fingerprint": "2fcb6f6151369a9a3c2d1eea8438ca867d0441637b6ef4884054f552c06be8d1",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1f6e7Bj26rmZzcVN9zM0y6rc2upnxtb5M",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-andrew-carnegie-industrialist-and-philanthropist.json",
+  "lessonId": "p1-andrew-carnegie-industrialist-and-philanthropist",
+  "sourceId": "1f6e7Bj26rmZzcVN9zM0y6rc2upnxtb5M",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "0f58f4b303adcc0f55e3995205722d5436d52a269564fd09cda2bf6c01b1fad6",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.071
+}

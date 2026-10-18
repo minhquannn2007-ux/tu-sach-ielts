@@ -1,0 +1,33 @@
+{
+  "job": "p1-the-history-of-london-s-coffeehouses",
+  "title": "The history of London's coffeehouses",
+  "part": 1,
+  "fingerprint": "8295f83156b2edde6e1473c09ef66c658564a5233ea73f6b54ac75d626028c68",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1LQOUUZcpHmAyxOqoDm2QuEslVX9JeFK7",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-london-s-coffeehouses.json",
+  "lessonId": "p1-the-history-of-london-s-coffeehouses",
+  "sourceId": "1LQOUUZcpHmAyxOqoDm2QuEslVX9JeFK7",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes",
+    "notes"
+  ],
+  "sourceHash": "b4d7704f3a6bc6d4fd1e1fb43f8801cd7d21dfe784fd42b2761f615bdc49f211",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.077
+}

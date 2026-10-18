@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-river-reveals-its-roman-past",
+  "title": "A river reveals its Roman past",
+  "part": 1,
+  "fingerprint": "b03a1151b364ddcd53c32e8d891e2ebad03be4ad89935816ad633f14935782d8",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1Woc9164uadsWZTwUX-XjbPK0taTyeF_L",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-river-reveals-its-roman-past.json",
+  "lessonId": "p1-a-river-reveals-its-roman-past",
+  "sourceId": "1Woc9164uadsWZTwUX-XjbPK0taTyeF_L",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "75a86542641a7826a33ec65816ae076705959fda8fbe002ae6d6ebfc82b60ef7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.075
+}

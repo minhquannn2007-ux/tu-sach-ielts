@@ -1,0 +1,33 @@
+{
+  "job": "p2-restoring-neighborhoods-by-removing-highways",
+  "title": "Restoring Neighborhoods by Removing Highways",
+  "part": 2,
+  "fingerprint": "eb9ad6509f718be9b747a8342166b5dbd8c8b94f4479cc77db5f04528df20cb5",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1NdcmN78yJFOzcBADDSpTQ8v4FUVaQQRJ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-restoring-neighborhoods-by-removing-highways.json",
+  "lessonId": "p2-restoring-neighborhoods-by-removing-highways",
+  "sourceId": "1NdcmN78yJFOzcBADDSpTQ8v4FUVaQQRJ",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "fc07d840105a5e14b39286a4e03c6b16103ecab295cccae946ce2541967780b0",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

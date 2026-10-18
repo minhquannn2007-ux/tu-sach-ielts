@@ -1,0 +1,195 @@
+{
+  "id": "p2-why-we-love-music",
+  "part": 2,
+  "title": "Why we love music?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Music has a remarkable ability to affect our emotions. While a single sound tone may not be pleasurable in itself, if these sounds are organized over time in an arrangement, the result can be powerful. In order to discover how powerful, participants in one research project by neuroscientist Valorie Salimpoor were hooked up to a machine that measures brain activity by detecting changes associated with blood flow. Participants chose a song which they were especially fond of, and then researchers noted their brain activity as they listened to it. During peak emotional moments in the songs, they observed that a chemical compound called dopamine, known to have a role in controlling the brain's reward center, was released into a structure deep within the brain called the nucleus accumbens. Additionally, another part of the brain, associated with the anticipation of pleasure – the caudate nucleus – was recorded producing dopamine specifically just before those same points in a song. Presumably, the anticipatory pleasure comes from familiarity with the song-you have a memory of the song you enjoyed in the past embedded in your brain, and you anticipate the high points that are coming."
+    },
+    {
+      "label": "B",
+      "text": "But what happens in our brains when we like something we haven't heard before? Salimpoor conducted further experiments to focus on what happens when we listen to songs we don't know. The results showed that when a listener liked a song they hadn't heard before, the reward center of the brain was again activated. Interestingly, however, there was also increased activity between the reward center and those parts of the brain involved in musical memory and emotional processing. This suggests that when we listen to something we haven't heard before, our brain runs the sounds through our memory circuits, searching for something we can recognize to help it make predictions about where the song is heading. If the song is too 'foreign-sounding' it will be hard to anticipate its structure, and the reward center will not be activated. But if the music has some recognizable features-maybe a familiar beat or melodic structure-we will more likely be able to anticipate the high points and enjoy it more. The release of dopamine then comes from having our predictions confirmed in intriguing ways."
+    },
+    {
+      "label": "C",
+      "text": "Music psychologist Ed Large from the University of Connecticut has looked at the brain's responses to different rhythms and the playing of softer or louder notes. His research examined how these factors affect one's enjoyment and emotional response. In one study, Large and his colleagues asked participants to listen to one of two variations of a piece of classical music by Chopin. In version one, the piece was played as it normally is, with contrasts between quieter and louder sections, while in version two, the piece was played purely mechanically. When the participants listened to the two versions, their brain reward centers lit up during certain moments in the version one song, but not in version two. It was as if the song had lost its emotional resonance when it was played mechanically, even though the actual melody was the same."
+    },
+    {
+      "label": "D",
+      "text": "In his study, Large also observed activity in what are known as the mirror neurons-the parts of the brain implicated in our ability to experience internally what we see or hear externally. These neurons fired more slowly when a piece of music was played at a slower tempo, and faster when played at a faster tempo, suggesting that mirror neurons may play an important role in processing musical dynamics and affect how we experience music. Musical rhythms can directly affect brain rhythms, and brain rhythms are responsible for how you feel at any given moment. That's why when people get together and hear the same music, such as at a concert, it tends to make their brains synchronize in rhythmic ways, inducing a shared emotional experience. Music is thought to work in much the same way language does-using a combination of sounds, rhythm and volume to impart a certain understanding to the listener. The idea of feelings being an integral part of music can be seen when considering past experiences. If you think about a memory from high school or college, you would probably be able to describe it. If you listened to a piece of music from that time, you may well recreate some of the feelings you experienced then."
+    },
+    {
+      "label": "E",
+      "text": "Further studies support Large's theories. In one study, neuroscientists introduced various styles of songs to people and monitored their brain activity. Results indicated that while music impacts on many centers of the brain simultaneously, each sort of music makes its own pattern, with upbeat songs creating one kind of pattern, sombre songs creating another, relaxing songs creating yet another, and so on. Even if the participants didn't like the songs or didn't have a lot of musical expertise, their brain patterns still looked surprisingly similar to those who did."
+    },
+    {
+      "label": "F",
+      "text": "If this is the case, why is it that we don't all respond with the same level of pleasure? This difference in preference is thought to be due to how our neurons are wired together, which in turn is a result of each individual's personal history of listening to or performing music. Enjoying music is all about predictability, and our predictions about music start forming from an early age. Studies have demonstrated that babies as young as eight months already tune into the rhythms of the music of the culture they are growing up in."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 20 Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 14-20 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reference to the idea that different types of music produce different responses in the brain"
+        },
+        {
+          "n": 15,
+          "prompt": "the suggestion that our brains look for familiar patterns in music which is new to us"
+        },
+        {
+          "n": 16,
+          "prompt": "a mention of the fact that music can help us recall emotions felt at specific times in our lives"
+        },
+        {
+          "n": 17,
+          "prompt": "a description of how a person's brain responds when listening to a favourite piece of music"
+        },
+        {
+          "n": 18,
+          "prompt": "the suggestion that certain brain responses to music are not the same in all listeners"
+        },
+        {
+          "n": 19,
+          "prompt": "a reference to the idea that the way a musician interprets a piece has more effect on the listener than the tune itself"
+        },
+        {
+          "n": 20,
+          "prompt": "a description of the process by which changes in the brain were recorded"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 21 and 22 Choose TWO letters, A-E Write the correct letters in boxes 20 and 21 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "type": "mc-two",
+      "numbers": [
+        21,
+        22
+      ],
+      "prompt": "Which TWO of the following statements relating to Valorie Salimpoor's research are mentioned in the text?",
+      "options": [
+        {
+          "value": "A",
+          "text": "There were similarities in brain activity recorded when participants listened to music they either liked or didn't like."
+        },
+        {
+          "value": "B",
+          "text": "There was a chemical response in participants' brains at different key points in a piece of music."
+        },
+        {
+          "value": "C",
+          "text": "Participants' brain responses differed depending on how recently they had heard a piece of music."
+        },
+        {
+          "value": "D",
+          "text": "A similar reaction was observed in participants listening to both familiar and unfamiliar songs."
+        },
+        {
+          "value": "E",
+          "text": "Different participants responded in different ways to the same piece of music."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 22-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "slots": 1
+        },
+        {
+          "n": 24,
+          "slots": 1
+        },
+        {
+          "n": 25,
+          "slots": 1
+        },
+        {
+          "n": 26,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Valorie Salimpoor recorded the movement of {{23}} around participants' brains.",
+        "Valorie Salimpoor's research focused on the production of {{24}} as participants listened to music.",
+        "People attending a {{25}} often experience similar emotions to each other.",
+        "Even very young children show an awareness of the typical music found in their own {{26}} ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "160prQBBRbUFIcVTzw3yajmHebTkPq0KE",
+      "role": "passage-and-questions",
+      "sha256": "774db49562af6af30246ecbddf8fb502427b4c806cfb02cc18ead9f33f76f68a",
+      "name": "Why we love music?.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-why-we-love-music"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "How our brains respond to the music we hear",
+  "cover": {
+    "asset": "assets/music-cover.jpg",
+    "alt": "Người chơi đàn violin",
+    "credit": "Luwadlin Bosman",
+    "source": "https://unsplash.com/photos/a-woman-in-a-blue-dress-playing-a-violin-pD1KUHCZ9Yc",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

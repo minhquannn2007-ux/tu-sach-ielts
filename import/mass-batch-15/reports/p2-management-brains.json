@@ -1,0 +1,17 @@
+{
+  "job": "p2-management-brains",
+  "title": "Management Brains",
+  "part": 2,
+  "fingerprint": "7b4d7c382849978f54f4d421f5483f42b8ea6f23637128472c334a4176d2c0bd",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1wgbG8xjFVB0ONNour9RL95seUAdXdRhA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

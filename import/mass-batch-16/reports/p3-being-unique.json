@@ -1,0 +1,33 @@
+{
+  "job": "p3-being-unique",
+  "title": "Being Unique",
+  "part": 3,
+  "fingerprint": "ea0b44ca1fcef79c5e9d04a7cd1865423aef5e8cd6abec60458f288d4cfe4559",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1sRC5bFjr3bfS_A55fRUv_TMG5Nl5XgBZ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-being-unique.json",
+  "lessonId": "p3-being-unique",
+  "sourceId": "1sRC5bFjr3bfS_A55fRUv_TMG5Nl5XgBZ",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "9c01633b342f2f956b606f5d49878673b111479f985230387ffe9de8f95255e9",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.13
+}

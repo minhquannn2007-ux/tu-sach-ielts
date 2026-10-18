@@ -1,0 +1,27 @@
+{
+  "job": "p2-the-fascinating-world-of-attine-ants-chua-rep",
+  "title": "The fascinating world of attine ants (chưa rep)",
+  "part": 2,
+  "fingerprint": "3984f920ccfd50c970411dc58974c8fd16dce00a99cc52b684616b584ce68b22",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1olv6hHHUAluBIS3VpZEju_eMlRvn565L",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "13DHiHW3Xb7NhSB02HdxOqKBdEHgvUMCA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1mjLB3BLUTdlYwAWCaYNPDuIp0r6NWcAh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

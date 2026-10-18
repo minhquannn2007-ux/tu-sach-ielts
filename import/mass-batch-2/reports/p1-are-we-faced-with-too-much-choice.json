@@ -1,0 +1,17 @@
+{
+  "job": "p1-are-we-faced-with-too-much-choice",
+  "title": "Are we faced with too much choice?",
+  "part": 1,
+  "fingerprint": "bb6c9ecdefb9bdce3c84c8b1d2c2ffafb1b9d8b2fdb0f20713bcd4c9db8b22d2",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1Q8psmrUVUOXNSX7QaoNE0IcJMGwjXma1",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

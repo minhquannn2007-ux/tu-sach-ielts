@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-adaptation-of-dickens-novels-for-film",
+  "title": "The adaptation of Dickens' novels for film",
+  "part": 1,
+  "fingerprint": "91ae66c3b533e0a9702e70423777cf1f5ca4a390b0151cad3f502b445a2df8aa",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1nunCo1i6eGDhBOWuGwZPmvzCnLt1rs2-",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-adaptation-of-dickens-novels-for-film.json",
+  "lessonId": "p1-the-adaptation-of-dickens-novels-for-film",
+  "sourceId": "1nunCo1i6eGDhBOWuGwZPmvzCnLt1rs2-",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "a324117352ec33035b528eb208fe56c7c1c9defd4fcf1d27c95301f435530a58",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

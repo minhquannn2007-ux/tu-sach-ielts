@@ -1,0 +1,32 @@
+{
+  "job": "p1-fazioli-pianos",
+  "title": "Fazioli pianos",
+  "part": 1,
+  "fingerprint": "aa15a56db4a19993757fbe64a83f2454afb65482dd7ddb19384f57755c806177",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "13BZDrqgNItBayYGXnCY0qpqaLqoOr-2e",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-fazioli-pianos.json",
+  "lessonId": "p1-fazioli-pianos",
+  "sourceId": "13BZDrqgNItBayYGXnCY0qpqaLqoOr-2e",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "5dca08178c42a2ba175debd48b60abd7712a7521402fc4552ee83e8256df328d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.056
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-clarence-birdseye-and-the-development-of-frozen-food",
+  "title": "Clarence Birdseye and the Development of Frozen Food",
+  "part": 1,
+  "fingerprint": "60b69d3f08d2948c5ec71fc18f0326f9722c1e43b5e289f19f870db2b1380df8",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "10jDImHyLc_HCwK5RkEOGC6YWl1nowdmB",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-clarence-birdseye-and-the-development-of-frozen-food.json",
+  "lessonId": "p1-clarence-birdseye-and-the-development-of-frozen-food",
+  "sourceId": "10jDImHyLc_HCwK5RkEOGC6YWl1nowdmB",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "545f60f57a98ff83b3005096b9ebcc625dd0db4299e966c2304e2671c17a64b9",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.061
+}

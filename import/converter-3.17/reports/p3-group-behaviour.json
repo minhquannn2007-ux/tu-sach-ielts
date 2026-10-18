@@ -1,0 +1,32 @@
+{
+  "job": "p3-group-behaviour",
+  "title": "Group Behaviour",
+  "part": 3,
+  "fingerprint": "c4bec9a09f26b70f0afee22c2abfa77ecb63c54c0138ccf4e3485b650c7bf643",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "15Pb3QzntLNlXsNJdbzcnXayES2LeAM_E",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-group-behaviour.json",
+  "lessonId": "p3-group-behaviour",
+  "sourceId": "15Pb3QzntLNlXsNJdbzcnXayES2LeAM_E",
+  "questionCount": 14,
+  "types": [
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "85f5cb29c8c5e88f43ebbf972852df5bc75a9b815b64da1d76ce515a38dd7a4f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-music-soothes-and-awes-and-may-help-us-heal",
+  "title": "Music soothes and awes - and may help us heal",
+  "part": 3,
+  "fingerprint": "f78d3ba1b229516608a7742dbf310460918493417db735a58cb47694b8b1ec61",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "17xYOeLl9pnZu5Y3reKliK9iWmMfriCVt",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1gaad97vg2GtxoAMMETnSY4X_C8rvl_ZN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

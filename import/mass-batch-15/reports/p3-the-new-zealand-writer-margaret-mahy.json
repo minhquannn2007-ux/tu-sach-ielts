@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-new-zealand-writer-margaret-mahy",
+  "title": "The New Zealand writer Margaret Mahy",
+  "part": 3,
+  "fingerprint": "a991fe69ee611a6aba382dc72ecc93673928c6b98a354ba4d182ec32deef9ee2",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.064
+}

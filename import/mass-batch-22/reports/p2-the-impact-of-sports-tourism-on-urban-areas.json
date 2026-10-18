@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-impact-of-sports-tourism-on-urban-areas",
+  "title": "The Impact of Sports Tourism on Urban Areas",
+  "part": 2,
+  "fingerprint": "18a6ec0aa0c79fe703803786a36bd1b718e5845840dab041939ebeeb94f31192",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1yMcI80tkLe7lpvSUZLMFBgr04eCIl0Fl",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-impact-of-sports-tourism-on-urban-areas.json",
+  "lessonId": "p2-the-impact-of-sports-tourism-on-urban-areas",
+  "sourceId": "1yMcI80tkLe7lpvSUZLMFBgr04eCIl0Fl",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "1195bffb5518a61ea5f306c0f1e6da3dba0a1e5139efd7b8bed0856f244ac26b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.12
+}

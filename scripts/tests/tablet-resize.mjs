@@ -1,0 +1,19 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+import assert from 'node:assert/strict';
+function node(){const handlers={};return {style:{},attributes:{},classList:{add(){},remove(){},contains(){return false}},handlers,querySelector(){return null},addEventListener(t,f){(handlers[t]??=[]).push(f)},setAttribute(k,v){this.attributes[k]=v},fire(t,e={}){for(const f of handlers[t]||[])f(e)}}}
+const main=node(),panel=node(),passage=node(),divider=node(),handle=node(),body=node();
+main.getBoundingClientRect=()=>({left:0,width:1000});passage.getBoundingClientRect=()=>({width:499});divider.offsetWidth=2;divider.querySelector=()=>handle;
+let captured=null;divider.setPointerCapture=id=>captured=id;divider.hasPointerCapture=id=>captured===id;divider.releasePointerCapture=()=>captured=null;
+const els={divider,passage,qpanel:panel};const doc={body,querySelector:s=>s==='.main'?main:null,getElementById:id=>els[id]||null,querySelectorAll:()=>[]};const win=node();win.innerWidth=768;
+vm.runInNewContext(fs.readFileSync('dist/zoom-layout.js','utf8'),{document:doc,window:win,queueMicrotask:f=>f()});
+const event=(id,x,type='touch')=>({pointerId:id,clientX:x,pointerType:type,isPrimary:true,preventDefault(){this.prevented=true}});
+divider.fire('pointerdown',event(1,500));assert.equal(captured,1);divider.fire('pointermove',event(1,700));assert(Math.abs(parseFloat(passage.style.flex)-70.14)<.02);
+divider.fire('pointermove',event(2,200));assert(Math.abs(parseFloat(passage.style.flex)-70.14)<.02,'ignore a second finger');
+divider.fire('pointermove',event(1,2000));assert.equal(passage.style.flex,'85 1 0');divider.fire('pointercancel',event(1,2000));assert.equal(captured,null);assert.equal(body.style.userSelect,undefined);
+divider.fire('pointerdown',event(3,500,'mouse'));assert.equal(captured,null,'desktop mouse remains owned by the existing handler');
+divider.fire('pointerdown',event(4,500,'pen'));divider.fire('pointermove',event(4,-100));assert.equal(passage.style.flex,'15 1 0');divider.fire('pointerup',event(4,0,'pen'));assert.equal(captured,null);
+handle.fire('keydown',{key:'Home',preventDefault(){}});assert.equal(passage.style.flex,'50 1 0');assert.equal(handle.attributes['aria-valuenow'],'50');
+const css=fs.readFileSync('dist/zoom-layout.css','utf8');assert(css.includes('text-size-adjust:100%'));assert(css.includes('@media(min-width:600px)'));assert(!css.includes('@media (max-width: 760px)'));
+for(const path of [...css.matchAll(/url\('([^']+)'\)/g)].map(x=>x[1]))assert(fs.existsSync('dist/'+path),'bundled font exists');
+console.log('PASS touch/pen resizing, capture/cancel, second-finger rejection, mouse compatibility, keyboard reset and bundled fonts');

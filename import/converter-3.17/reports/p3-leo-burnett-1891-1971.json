@@ -1,0 +1,17 @@
+{
+  "job": "p3-leo-burnett-1891-1971",
+  "title": "Leo Burnett 1891 - 1971",
+  "part": 3,
+  "fingerprint": "14700f753234f9f9aab1ddf3dc26e2da0639a2b2217ceb77736010a4694b8b05",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1L0PTEMcAey16vBUnVanUjmIZ4cuXrVSM",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

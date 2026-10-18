@@ -1,0 +1,32 @@
+{
+  "job": "p1-in-deep-water",
+  "title": "In Deep Water",
+  "part": 1,
+  "fingerprint": "15b97a25ecf749365fc42e14d80c00d7400eec91d4a6dc82367045c47e070494",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1JQpQYWkd1hQq9OiqeyWobEEnMAGdlA4R",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-in-deep-water.json",
+  "lessonId": "p1-in-deep-water",
+  "sourceId": "1JQpQYWkd1hQq9OiqeyWobEEnMAGdlA4R",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "a2ced3eae8563934de22aaced77553150f53ce2ead5bc41f83cc18ba46b91da5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

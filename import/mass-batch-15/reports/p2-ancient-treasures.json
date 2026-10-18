@@ -1,0 +1,33 @@
+{
+  "job": "p2-ancient-treasures",
+  "title": "Ancient Treasures",
+  "part": 2,
+  "fingerprint": "1abbcbbb5e75f117884765e17fda8a367916ccb4012b9fded94fc0235bdca16e",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1Y_lRpsOXoMCcqmFj_eGF2Gl2wh5lk4xp",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-ancient-treasures.json",
+  "lessonId": "p2-ancient-treasures",
+  "sourceId": "1Y_lRpsOXoMCcqmFj_eGF2Gl2wh5lk4xp",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "6ac48808c4773a8f03d76513567b6f70ddedfecf5f149d1d4ee0543494d8f83a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.08
+}

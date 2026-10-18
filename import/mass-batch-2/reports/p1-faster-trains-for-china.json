@@ -1,0 +1,32 @@
+{
+  "job": "p1-faster-trains-for-china",
+  "title": "Faster Trains for China",
+  "part": 1,
+  "fingerprint": "292b236aa01238d70c2b30b491953aac42fe17952e20347ca1827ebf08fb3834",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1FjWWuO2xj7Q6Js4_3HGvh2zubVc6rziy",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-faster-trains-for-china.json",
+  "lessonId": "p1-faster-trains-for-china",
+  "sourceId": "1FjWWuO2xj7Q6Js4_3HGvh2zubVc6rziy",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "632b036a3cf7b8a09a1cb88d182428e7d70b87b0d14270e3924361c1b7c18003",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.075
+}

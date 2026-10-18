@@ -1,0 +1,2526 @@
+{
+  "sources": 158,
+  "pages": 604,
+  "emptyDocuments": 6,
+  "qualityRepairCandidates": 47,
+  "cleanTranscriptCandidates": 111,
+  "approvedByOCR": 0,
+  "records": [
+    {
+      "job": "p1-the-new-zealand-national-archives",
+      "sourceId": "1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu",
+      "part": 1,
+      "pages": 4,
+      "sha256": "5e373d7771d38c92186d6f382cd7f1117475188b7d0b98153326560b9f46fd85",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-changing-nature-of-selling",
+      "sourceId": "1egA6zO0YQ_X31B02nmdHWqHtm2BNQCaU",
+      "part": 1,
+      "pages": 4,
+      "sha256": "499cd870751de1a71d8f50dd1fefc32191e472384bb8d7f444e801834cf962e3",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-what-lucy-taught-us",
+      "sourceId": "11a7w0G4ypV8VAKCWESOuOUDs6GoBZV4m",
+      "part": 1,
+      "pages": 4,
+      "sha256": "1b6d17413d46dcfbd1df91d2fde76a6ecb8450b7fac048a3adfc3ac91e40bcb0",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-chocolate-for-the-masses",
+      "sourceId": "1Qm4HyFQs-JuGoM3f_ZjLnwxZja3SZSit",
+      "part": 1,
+      "pages": 4,
+      "sha256": "dbf2f617e0094f35946aeb5db424ebe59391e0f5bb437d943152452bffd93b96",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-how-printed-books-began",
+      "sourceId": "1quvnV5vXHq0FjTchP11j71bdI9oA8a5c",
+      "part": 1,
+      "pages": 4,
+      "sha256": "923ad60a91a5277c6480de5ec17e96da2e3e974829af5ad435e678ddbd7f8bb0",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-history-of-the-chicken",
+      "sourceId": "14zf7Z6Hk-speYCjobmLZrDpxPo-fgiNb",
+      "part": 1,
+      "pages": 4,
+      "sha256": "60d8409b5d39f881135dfa2e4dbf9868647fba675c5b08c8fa35cb2190424627",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          2
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-iditarod",
+      "sourceId": "1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e",
+      "part": 1,
+      "pages": 4,
+      "sha256": "27148c129dd7a53f89e5ab404c9b602aa53d19d9f26d2c329a8b9115252484fc",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+      "sourceId": "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U",
+      "part": 1,
+      "pages": 4,
+      "sha256": "8159384a68e3aaa61a13251085e18a467407f2fb7c3082a334abef44e2cf68d4",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-solving-an-arctic-mystery",
+      "sourceId": "1hiDEOeH11ctSVj8NhHXy9Xq83Rg-Ph3U",
+      "part": 1,
+      "pages": 4,
+      "sha256": "f7e3c88b06e4292f0ca297dfd7019b02a9b9eabc0559852b4ca76ca34e4e37d5",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-listening-to-the-ocean",
+      "sourceId": "1oa0HtDkMcogLDvaH086mYI0ZlvTWUYxv",
+      "part": 1,
+      "pages": 4,
+      "sha256": "5eb2ce10b9bfffe5bec05ebb904c902b0c7c8bc1b0d3b679eabb213596dadeba",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-emergence-of-communications-media-in-the-usa",
+      "sourceId": "1XjpdXD0zW-K0AeJi0AojgAdXLre5I_Im",
+      "part": 1,
+      "pages": 4,
+      "sha256": "54707fcb0f8714d4f638d4b6af43ff679b7afe191f794e8db813978557bd9ca8",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-what-are-black-holes",
+      "sourceId": "1HGMZFIo-cqn9xwfpSOkzrB20qdl7wLcP",
+      "part": 1,
+      "pages": 4,
+      "sha256": "6b47541e1938bcc24739a91dd49233ff993ba1723d93a008ed9e05ee6545b894",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-fishbourne-roman-palace",
+      "sourceId": "1gPBoIQPZ-SqWvTPC7kn71YNfPQu8Xnro",
+      "part": 1,
+      "pages": 4,
+      "sha256": "47164b656645d49698a214fb489ea51e1e219c8297099017b7f0c79033e888f9",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-fungi-a-new-sustainable-alternative",
+      "sourceId": "1Vf7aAQ_YD1_WdGhJ9kg8oR8xai9Ng-Cp",
+      "part": 1,
+      "pages": 4,
+      "sha256": "d7bc633d4ea9c3432dec94194cf7b695a4deffe6a9910539d261afadce85e434",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-city-transport-uneven-progress",
+      "sourceId": "1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn",
+      "part": 1,
+      "pages": 4,
+      "sha256": "4c974e7da299601ac76ed6f6eab95807009ae0d59daf5b8d5fb06830accd2ac8",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-making-copies",
+      "sourceId": "1XDO3YZPb2mcB56xpBJHNzeQLcWU8pWP4",
+      "part": 1,
+      "pages": 3,
+      "sha256": "ebd3a1e544906f2bf276f6c0683e40f64a0c0c6e92a9bec07c3af4a1f5a3efc0",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-deep-sea-discovery",
+      "sourceId": "1faS8THFFtPO9ke4F4s572FejAMHb0Baq",
+      "part": 1,
+      "pages": 4,
+      "sha256": "fde47a79404678656929e3f3d30c808a27e1affc99b1d514f41ace604a8fa91b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-couran-cove-resort",
+      "sourceId": "1DIyCdii92kum8Dxi4QAarQ4WcY8u6Gtt",
+      "part": 1,
+      "pages": 4,
+      "sha256": "7ae54845820a9fae13fae13a57b0409fc83f4b64bae95f0ba5a50932d362e587",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-great-tit",
+      "sourceId": "1-kBeTQS_Muyn-MbnVrsLWhlzneKlkPlt",
+      "part": 1,
+      "pages": 4,
+      "sha256": "e732bab198a2106f886f3b876b70fa966227a3c3647a5ed5da5a324232aa1ace",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-dolls-through-the-ages",
+      "sourceId": "1HGV7oyN7bgnVME-zDA4QWxBWkB7SXiY3",
+      "part": 1,
+      "pages": 4,
+      "sha256": "989a82a89d7ecf41caa0866c8787ce5abf6f19d9bc80bc0db1620aec64e3105f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-classifying-societies",
+      "sourceId": "1oV1IbAdNoWag9eHs8INIK1zHL5engvKH",
+      "part": 1,
+      "pages": 3,
+      "sha256": "2a87038b6a27d074fc4de8a3dd0569fb2f3ae26501ef0b8ee790422a429392a6",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-carnivorous-plants",
+      "sourceId": "1-lKiqUldXTDru55KUKYuVcNLFLJ5YvNy",
+      "part": 1,
+      "pages": 4,
+      "sha256": "12009fc09456048729d78b9ee76001a33171f7267a5c92b8e718179f52ac015b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-book-review-triumph-of-the-city",
+      "sourceId": "17NTX79PGK0v6Ny0oeEt5STfavp-g1WPi",
+      "part": 1,
+      "pages": 4,
+      "sha256": "03daf196255e49b40ee825ae4862d691eadfcc29bc5342cdabc6f6de7024af59",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-a-watchful-eye-on-bridges",
+      "sourceId": "1KSGRUlIvekRr07QfY9pMF8_btdkSLr1q",
+      "part": 1,
+      "pages": 4,
+      "sha256": "78a9dbb3f5b50577d0f2a5d43a8602e6f61dfd38636ac1912ef4884b0da615dd",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-james-hargreaves-and-the-spinning-jenny-chua-rep",
+      "sourceId": "1xD9CAug0k8WscGlJVoDYrULEQ4FrKTVj",
+      "part": 1,
+      "pages": 4,
+      "sha256": "c2da43740efdc16c461f3b5354ee7335d64ce417887770a38c4caf77939fd973",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-the-history-of-colours-and-the-meanings-people-have-given-them-chua-rep",
+      "sourceId": "1gpgph22Ah_GHD9u1-xA46JbzpygUyh-l",
+      "part": 1,
+      "pages": 0,
+      "sha256": "735f07126c4170fd3c6ced8f512079bbea9261a32bbd3128236fb0e5a0f25bad",
+      "quality": {
+        "emptyDocument": true,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-deserts-and-desert-life",
+      "sourceId": "1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU",
+      "part": 1,
+      "pages": 4,
+      "sha256": "79e5da9416becd60df072573e031b7fd7faf7ea3636fad691376f68f730e2b65",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p1-antonio-stradivari-violin-maker-supreme",
+      "sourceId": "1MUbrfQ4qJYYcgG-Wsvm4JCIKCts7fw6b",
+      "part": 1,
+      "pages": 4,
+      "sha256": "cf88e21bc4989c8f4b8b886742489cfa3c6da6b6ea39734662aad9316668170e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-nature-and-characteristics-of-memory",
+      "sourceId": "1A63Iej-iVanlrJ_GPJ3KfU3h8kjbFjvY",
+      "part": 2,
+      "pages": 4,
+      "sha256": "ed18d2dd6c828e413b5c5b1ec86d742106b25e473cb01f9f1700e0b344ba077d",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-little-ice-age",
+      "sourceId": "1tPv5OaPWEu5qijOmW0OmVdhPQQKJgb5g",
+      "part": 2,
+      "pages": 0,
+      "sha256": "dd8e67f0287ddf3240f150e4c86986966012dd2ef09f4c19cf62c3b633af642d",
+      "quality": {
+        "emptyDocument": true,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-problem-with-aiming-for-average",
+      "sourceId": "1FHS96PoqxTeRddI9B5jsje61bl-_PHZ9",
+      "part": 2,
+      "pages": 4,
+      "sha256": "b78f4b8205e41377114ca422cb030e644abd9726f59bed5f41562bdbb6005d6a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-antartic-research",
+      "sourceId": "1FaQCsmKRBzMDtWQfWFd1JDKqxk2ZhUQQ",
+      "part": 2,
+      "pages": 4,
+      "sha256": "458eed7b83321e83884110e075abdc24c8b5529d9f940418ab81cdbdb2044016",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-dominance-in-social-insects",
+      "sourceId": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+      "part": 2,
+      "pages": 4,
+      "sha256": "abd84c3513231c8c8132dc635e3f465567903003dc317ad773719f85374e829c",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-bristlecone-pines",
+      "sourceId": "1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi",
+      "part": 2,
+      "pages": 4,
+      "sha256": "21127c4ba4e62aa038d1aabb3a5bd1dc64a931152a111c763d1ce11328e1f2eb",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-iq-scores",
+      "sourceId": "1OOhrTs5MIZcvWD6RVJU07yEAPWl9X2S_",
+      "part": 2,
+      "pages": 4,
+      "sha256": "37de836d110e88fa6ee79b1582cfd0263b9762833b578d4291383e3e0af96740",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          3
+        ],
+        "lowConfidencePages": [
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-playing-with-science",
+      "sourceId": "1lr65eBuOX06K9KDt6nVa7CPWhbEUE-1s",
+      "part": 2,
+      "pages": 4,
+      "sha256": "233a4ccab35005c5959fd2a4127e4f31904f5316f61fc1767165bdf27bc5cb84",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          1,
+          3,
+          4
+        ],
+        "lowConfidencePages": [
+          1,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-understanding-climate-change",
+      "sourceId": "1vMZVzLB_ty-ZqSRVAwlntwP1fuLXD1Q3",
+      "part": 2,
+      "pages": 4,
+      "sha256": "e6b3d4200c19307937e09d7863a32a7c89c0760baa92931b514de935dab29471",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-story-of-the-ocean",
+      "sourceId": "1SE79-GjAVCvqIi8KYKxLa4RIsAoXe_Yt",
+      "part": 2,
+      "pages": 4,
+      "sha256": "7fdfd1f0dece93ebca06d06ea1500f2a29cf5fe76fd4b72dfdbf8b5892fa2730",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-role-of-error-in-the-learning-process",
+      "sourceId": "1TXfpSdOBB7YbCjUkjywst8rOT0kipQLo",
+      "part": 2,
+      "pages": 4,
+      "sha256": "59960e7c0de566724e36b467d56287d556fdef6cbe3d34d23b3a60ad4741d3af",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-alps-2-ocean-cycle-trail",
+      "sourceId": "1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq",
+      "part": 2,
+      "pages": 4,
+      "sha256": "48703c7cc997f558ac6ffe2b1493c0aa345a6e1150475e8e18196f6243c22397",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-aerofoil",
+      "sourceId": "1f0MBRJyXLh3loIsXk4CVIBg_c97-w90W",
+      "part": 2,
+      "pages": 4,
+      "sha256": "5dc9c879252d6305ca448a761637962af65f6f1e9b4e7f783633c8ee72f7945a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-surviving-city-life",
+      "sourceId": "138HPypPV2QEm5JQb_zL3La0QLqfAFgsK",
+      "part": 2,
+      "pages": 4,
+      "sha256": "d165e6dbcb669ddaf3711088e73631fc36371328c0b80858c3a501478f9ebf9f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-stress-less",
+      "sourceId": "1Z4XDzkgHHChRNh_CZdQ082NlTzez5mSY",
+      "part": 2,
+      "pages": 4,
+      "sha256": "68654b0ab73e937792a41c7e29d369a610fbcdfae083302cd6c252e5f40fe90a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-paternity-leave",
+      "sourceId": "1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB",
+      "part": 2,
+      "pages": 4,
+      "sha256": "7afa19bfeac9f63b324e1246a7ee9eaef6ab8c3922aa06656e869e31015b71d2",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-pantomime",
+      "sourceId": "14nrNq4EktK7QlQelUy7Ba9kGAFtJwR4n",
+      "part": 2,
+      "pages": 4,
+      "sha256": "f32ad8cd517340becd4582ded10c2f486dcca099289593638d31ef240217f87e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-growing-more-for-less",
+      "sourceId": "1SBJEO5gNI65Kg4nWzaYz3KQwT7NPkc_n",
+      "part": 2,
+      "pages": 4,
+      "sha256": "bb578c56f07a41b0113218bc95489ff49e8e116f6f0dccc6e774e1a05143e985",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-fragrant-memories",
+      "sourceId": "1NzTjQ44G-mrjpnkhJLDxkvFh1UIVeNq4",
+      "part": 2,
+      "pages": 4,
+      "sha256": "601046879aaa03f36102bb0630eca139cd81850d047b7ebb479654180b898b9f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-classical-music-over-the-centuries",
+      "sourceId": "1bh4LDQDjbR6XzYhXEWA97Uh62G3RUlkC",
+      "part": 2,
+      "pages": 4,
+      "sha256": "cfbd1e7f35af6e883268bae88a190d77804acdc08d4db7b97393eebc343516bd",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-bird-migration",
+      "sourceId": "1xMnJ_HjA62l8kOeNnz8RumZX9mhFpUX8",
+      "part": 2,
+      "pages": 4,
+      "sha256": "542c0b68a3dcad2f81698ff15cc788e3faebca9a1c4b1e3ae53cc8534c7e51c0",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-biophilic-design",
+      "sourceId": "1KIB6sM7K9q8it2zex7fqQVzvajKBFYoa",
+      "part": 2,
+      "pages": 4,
+      "sha256": "f2f8852ee7c84003bbb3f62d95f0b6232f16d014d2b868f30d21191e94875d8e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-a-great-leap-forward",
+      "sourceId": "1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY",
+      "part": 2,
+      "pages": 4,
+      "sha256": "61e33d4866661e4977cce9df402e9495afa37f09380cf9d07d4c86340bd8e602",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-patterns-of-settlement-in-the-english-countryside-chua-go",
+      "sourceId": "1Zbgh_OOvF3Lcu9m98AA5LwItGTx7yABK",
+      "part": 2,
+      "pages": 4,
+      "sha256": "7eef5c135aaa826a0546b6e0fef96a0129928206f4563f5df9ea0c5b7f8d080a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          1
+        ],
+        "lowConfidencePages": [
+          1
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-mammoth-kill",
+      "sourceId": "1tDgzGETDOnjdm_CAsOYHNQt96aOM81gK",
+      "part": 2,
+      "pages": 4,
+      "sha256": "b544352342bcbf6a1a28710b64d9a75e0b90aedda9ac042c5949b1e637a62d48",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-intelligent-behavior-in-birds",
+      "sourceId": "1SiUCuV8Ce_0-W-iSICca6eFMDIdDQlaQ",
+      "part": 2,
+      "pages": 4,
+      "sha256": "538b0b4dd1cd7379e0cb99710bd67c961d9a50c28771ae86b2e2e9d15e203d7a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-icebergs-as-a-water-source-chua-go",
+      "sourceId": "1TG8H4n02dZoP61PHIGDnIbjN9uHo3X8q",
+      "part": 2,
+      "pages": 4,
+      "sha256": "21fae06d97462efa305b65060bbd194024426c5727ea728aee95367aaee597a5",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-boring-buildings",
+      "sourceId": "1xQF48IBE1pKqBXcwZZxFU-TS6wN-Eo6p",
+      "part": 2,
+      "pages": 4,
+      "sha256": "389b8b3062d67c5e03a36f0ccd4e1d3f9a142adc8ceced4d8da4a9f014f4d2e7",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-sir-gawain-and-the-green-knight",
+      "sourceId": "17_JqmzAnlm1wpR9xpEbxJ1wj9oSQCkAL",
+      "part": 2,
+      "pages": 4,
+      "sha256": "8302bf0222969f87ab1568189b931792a6a436cf90cc98f24af6a83872c42c7e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-discovery-of-a-baby-mammoth",
+      "sourceId": "1C_yq5le9FALXnAmdvE1Px1xTG3PywTPt",
+      "part": 2,
+      "pages": 4,
+      "sha256": "b6ff36af331c1b38f6d863edb187c9262bcbc8c43e5bca896306af1bbdc36870",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-orientation-of-birds",
+      "sourceId": "1SGeQRGcEtBBxHFyB8mHF3MVrFAw2rulK",
+      "part": 2,
+      "pages": 0,
+      "sha256": "b3adcc71bdcc32c6a68becce3ea0918ccf692defd3c1c853204e38d5ff7829b2",
+      "quality": {
+        "emptyDocument": true,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-no-title-the-ecological-importance-of-bees",
+      "sourceId": "1Xri7fWzykpJcDv5Jrt4p7VlfdPBnbO2k",
+      "part": 2,
+      "pages": 4,
+      "sha256": "b89183fd29c3c51bd318ac57f2e0d58f92a73bb28eccdbae93f31602ff43b90c",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-study-of-film",
+      "sourceId": "1vhu0ra7KVFXYIRtJwJS1EK93GBY1k7Lz",
+      "part": 2,
+      "pages": 4,
+      "sha256": "2785e8536e054b42c66b313255235ac052bda3a0f1ab18e5f05246bdcb56e43f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-arctic-foxes",
+      "sourceId": "10bTybZ9jfxBgaoJpvrnNGc_lKB9uu4ni",
+      "part": 2,
+      "pages": 4,
+      "sha256": "5fb5924cb4d4b64c68d8ef16e2265ba34534276048f218cc9fd79cd8d341962e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-nanotechnology-the-science-of-the-very-small",
+      "sourceId": "1pDxH4LxYl0cJiIsmKEGeKN3Ptu4sPP17",
+      "part": 2,
+      "pages": 5,
+      "sha256": "b9a03fc7a1e72219abe0967df5b83d23c3d9f4a7b73b55878d8890e9cb40029b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-mimicry-and-parenting",
+      "sourceId": "1JS9lwXhjAeezQ6WI_pDFnjw6OY0JupQh",
+      "part": 2,
+      "pages": 4,
+      "sha256": "420fd98dfa3f0797afe50fdb910478810828bb2b06ea8a717482cf38346ae74d",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-coastal-archaeology-of-britain",
+      "sourceId": "105nlftGkQHdYeSny-Ec-AdO1AM9SQDcb",
+      "part": 2,
+      "pages": 4,
+      "sha256": "ca6d3ac97064890dd087ff096790bca8183ca273309b1e89a6af5d8ce7bee68d",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-are-artists-liars",
+      "sourceId": "1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP",
+      "part": 2,
+      "pages": 4,
+      "sha256": "1e7da8393969f60643a610c7188ff5082016957e844c170e61c3e1640a596fba",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-a-unique-golden-textile",
+      "sourceId": "1lZwWS6CO-2Y4qGBhOuiuyQxJV6sbBcGW",
+      "part": 2,
+      "pages": 4,
+      "sha256": "ffe063c8ff6b941088e122293a91b3181a8237d9896660f370c4d835185d1daa",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-development-of-television-and-its-introduction-in-britain",
+      "sourceId": "1amKd7jQ_p-1uCe2FI6rPpkpgccTxG9VU",
+      "part": 2,
+      "pages": 4,
+      "sha256": "9dfd6c2673a183b5021fd9aaea33bcd709a7e715692a4eadd0a16bfe6deba15f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-lost-city",
+      "sourceId": "1NpdKzd3PiLv6Ks8Drf9SCCX3Gwd6vAup",
+      "part": 2,
+      "pages": 4,
+      "sha256": "e38862c490012b55ca810b9b288253bb1ddb5881cb2b4328e734c0237eea99ae",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-beginning-of-the-consumer-age",
+      "sourceId": "15s4goP4fApBFv0ja2Jw5-p85_uh9x39i",
+      "part": 2,
+      "pages": 4,
+      "sha256": "6f0e7b2e703329d7ceb8a5e5644dcb0bdbfafee303caba2ba691a15c64527d8e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-will-eating-less-make-you-live-longer",
+      "sourceId": "1naGQma3yOMO1dcdDgfmIzkmWZGFOj5ef",
+      "part": 2,
+      "pages": 4,
+      "sha256": "3c6b22fea3dc143583fa914504af826396f443914208ae9041b6d1509fa0b14a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-why-do-singers-lose-their-voices",
+      "sourceId": "1P80wk8jUMFbIUK8jAMTNUzj1zhDD6HeD",
+      "part": 2,
+      "pages": 4,
+      "sha256": "e5729a8e2dc21cbf3b6b0586bcd668022ec17680a045ee9016508dcc4ba9bfba",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-early-approaches-to-organisational-design",
+      "sourceId": "1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9",
+      "part": 2,
+      "pages": 4,
+      "sha256": "fe3024ee45b97cc95fe005aec668066690941961582b63f14ed36035b1d7506e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-flood-control-in-the-usa",
+      "sourceId": "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5",
+      "part": 2,
+      "pages": 4,
+      "sha256": "df783f6e1c802e8a70e4cd469673e4c83b2cefa2bdea988ef0ee356aade47ba4",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-nature-s-numbers",
+      "sourceId": "19aUG1joSz_4JAJWnU33a6q8i8ixQMi-S",
+      "part": 2,
+      "pages": 4,
+      "sha256": "f49d2790e1887a69da35db938f005bc0d977091bca649aa32d0363ec2ec966e3",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-investment-in-shares-versus-investment-in-other-assets-which-gives-the-greater-gain",
+      "sourceId": "1H1GdPdPzXojzf8qsmbpGiIydbzh3jcCU",
+      "part": 2,
+      "pages": 4,
+      "sha256": "838bb03a5e256b07994d28ffceae1ccefb442928c49c5a8408c07ec1ef69bdbf",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-biomimicry",
+      "sourceId": "1UbnCjHUAHlz3X-pTcVaKHYhuGudgbt2R",
+      "part": 2,
+      "pages": 4,
+      "sha256": "121eb177342140b5652aeba0225def62d15f5c55db252b413324297cee4b454b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-management-brains",
+      "sourceId": "1N0D297-3PBd16aOXCOHLPBkHF09wBLF-",
+      "part": 2,
+      "pages": 4,
+      "sha256": "c4b3cf51ed902750d5e5c4077409d985d4fa53a8242f18c5fe39ec20fd6d0a76",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-do-animals-really-remember",
+      "sourceId": "1tiEIbc3hnHRtG5wFC33_kiLClESIhGMd",
+      "part": 2,
+      "pages": 5,
+      "sha256": "529f15b1b8f81013d4f679ae3c6a2eeff30d1ec7d765f7de7f1eb0009fd439cd",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-restoration-of-baja-california-s-fishing-communities",
+      "sourceId": "1GcnbGq5ZArC6PHfXazP4g_xh5xpSu3Mw",
+      "part": 2,
+      "pages": 4,
+      "sha256": "fba3107cbe8cf89c769f34212ba4e5e0a5329a7e69ff2183a74f793dab51d8d7",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
+      "sourceId": "1qsScgycPZfu84W66MXihya2TUs52y4SP",
+      "part": 2,
+      "pages": 4,
+      "sha256": "5b6c233399c47c6ca5574a5a60d3ad8cfee5c6529970e84e6500f38e851b6ba9",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+      "sourceId": "1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB",
+      "part": 2,
+      "pages": 4,
+      "sha256": "fccc7b671c660c2961e42d2f9d6d3b7daa49414979468a19700ba14724e101ec",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-importance-of-diet-chua-rep",
+      "sourceId": "1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD",
+      "part": 2,
+      "pages": 4,
+      "sha256": "1bc7464989c06279705a798923576d7e63411d1b0b22602fb4d2112df3778193",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-return-of-monkey-life-co-pdf-k-move-c",
+      "sourceId": "1LhVJ4Z8Zk3iAuR1rw5896qaNMxHEqtiH",
+      "part": 2,
+      "pages": 4,
+      "sha256": "7837de68459d26f19f4ce8c0bf4313826069eb77e4c37176352fc0192cc936d0",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          4
+        ],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-elnino-effect-no-pdf",
+      "sourceId": "1pEtKZ0ZmQoVcLPqhbRrifGLIgYjnoJJD",
+      "part": 2,
+      "pages": 4,
+      "sha256": "1469a78d110e7d7b61276c4bc9e179496eb867098d8af3009ee5cfd196ebde2e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-economic-effect-of-climate-no-pdf",
+      "sourceId": "1IfWkGcQG3cpbLGq02TU-SUrisXfHWHzg",
+      "part": 2,
+      "pages": 4,
+      "sha256": "f5287ec7dae83b6c346ce4a862c71963fb40f4afaabd4646325bda91ed68c1f6",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-2003-heat-wave-chua-go-no-pdf",
+      "sourceId": "1SLrJiEPN_wVH1M_pI4qiukI634JBZNmD",
+      "part": 2,
+      "pages": 4,
+      "sha256": "dd58a21aa931520cf91fd922ae3da5bc6e2e6054d5e38f6c60a5fa51e39cfa2f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-egypt-s-ancient-boat-builders-chua-go",
+      "sourceId": "1WkMVpnGK5dhg2HDnkmmq8moTL9hYUxgd",
+      "part": 2,
+      "pages": 4,
+      "sha256": "0eb316146e453f1fc325e635c0d36b2991b89fa8997b307238a81949a940a598",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          4
+        ],
+        "lowConfidencePages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-children-s-comprehension-of-television-advertising-toan-bo-et-al-chua-italic",
+      "sourceId": "1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL",
+      "part": 2,
+      "pages": 4,
+      "sha256": "7392e57823ff5da16ca4d606af450e18cc48ddb9071b4b31645f27c51225a1be",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-legacy-of-stanislavsky",
+      "sourceId": "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg",
+      "part": 2,
+      "pages": 4,
+      "sha256": "fe9f6079f4255d9f6fcdf66e3e4c4f6cb242825c9504a3d7dcc1939040bc5e1c",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-urban-regeneration-an-award-winning-redevelopment-project-in-berlin-chua-rep",
+      "sourceId": "1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF",
+      "part": 2,
+      "pages": 2,
+      "sha256": "d55cb8eeb87f3a616c3e426fae0479de279536044136e3dd623bb9ced3977614",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-follow-your-nose",
+      "sourceId": "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC",
+      "part": 2,
+      "pages": 4,
+      "sha256": "2358b0e420344332a836fe11c810a29862b84ae297d10906883bb98cec270191",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-dark-chocolate-s-health-giving-benefits",
+      "sourceId": "1dwkmSWVnYZccCo0dxFaNS2FJNz4b26Pm",
+      "part": 2,
+      "pages": 4,
+      "sha256": "fcc5e8e879e92db087ab0dbc6e109fe1fd5f263e5a0065b35eee3c18367e5e8a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-australian-parrots",
+      "sourceId": "1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d",
+      "part": 2,
+      "pages": 4,
+      "sha256": "e283bd8ae43e84525a87841177d8d438d3cda6e0d157df448fcece65a7c9779e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-the-constant-evolution-of-the-humble-tomato-chua-go",
+      "sourceId": "17RWFMLwWKCa-B0jEo1duO_w3PaHlEtGK",
+      "part": 2,
+      "pages": 2,
+      "sha256": "2a1566bda36ee8daa97f988157cfed392af925ba0423cf2ef4c8b37ca42375b9",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          2
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p2-should-top-managers-be-promoted-from-within-the-company-or-hired-from-outside-chua-go",
+      "sourceId": "1IBqqeoDQoauHfukzN8ySxqMad5FNkEZk",
+      "part": 2,
+      "pages": 4,
+      "sha256": "7bb3f1877805a2e3fdfee6da420b2314fdd3777e826235feb7c9038b3b1d6354",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          2,
+          3,
+          4
+        ],
+        "lowConfidencePages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-life-on-mars",
+      "sourceId": "1Eh2DLicNC2bw14HVppvCmQ0NYv7H9Voy",
+      "part": 3,
+      "pages": 4,
+      "sha256": "e164a0400cf5ad63165578e9f20b3b7e539418a5fb8975f5ba2b6d9ba4fd2ba5",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-motivating-employees",
+      "sourceId": "1rXDP5xzFXfOeF51h41liN3SHzXyAgMs7",
+      "part": 3,
+      "pages": 4,
+      "sha256": "5cd2902a6207657c7864fd07d15e635d1543d5f8a6ec50c50d4be15584a286af",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          3
+        ],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-practical-learning-in-the-classroom",
+      "sourceId": "1g5F-EBjKnWOaeKJVP6N9hxcCyf11PBXJ",
+      "part": 3,
+      "pages": 4,
+      "sha256": "5545e8b0556f30e5a68569280a37785276bf42ddbb3c7b678c061f63cd51e74f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-music-soothes-and-awes-and-may-help-us-heal",
+      "sourceId": "1gaad97vg2GtxoAMMETnSY4X_C8rvl_ZN",
+      "part": 3,
+      "pages": 4,
+      "sha256": "450b9d1b804868be3fe3fc4a05aa86667de62ee2da30280e77e419fac1fb57ac",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-future-of-the-world-s-languages",
+      "sourceId": "1o62NYiZ9kUsmwoj5ifE66U_eDm7clNPh",
+      "part": 3,
+      "pages": 4,
+      "sha256": "045589276227638e249f9fc30b9f75520e169764e4e1e13273bac03168ebef05",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          3
+        ],
+        "lowConfidencePages": [
+          1,
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-conformity-chua-rep",
+      "sourceId": "1bJUW9ygEAkaKRhYx-rqocIBXCw48dffb",
+      "part": 3,
+      "pages": 4,
+      "sha256": "5b750e907290280e6fc455dc9f4114bc84289ee1cf5d90a403941e7d17fa35e4",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-recording-history",
+      "sourceId": "15kXFXnNme1NSZllzBPGdVl6XHpQrTvNz",
+      "part": 3,
+      "pages": 0,
+      "sha256": "652e28e2eaec147d4a83d8e45d616594d24ba3281f19c98efe28c2b7a6712e45",
+      "quality": {
+        "emptyDocument": true,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-children-and-symbols",
+      "sourceId": "1uF-3UlqTBXuMR1NLH6GjugqWxGawhdsC",
+      "part": 3,
+      "pages": 4,
+      "sha256": "3de873dde5966367a084c59ae950fdc804b99af790b104ebc9d60a89ddf850b6",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-inside-the-mind-of-a-fan",
+      "sourceId": "1nCEfopT3M4EVyHVTRfegUgIjUex_FBN8",
+      "part": 3,
+      "pages": 4,
+      "sha256": "91be09c65765ac4b33f29f3365d74a30fe0776c506dedded8991cf317ad0a6dd",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-on-art-and-artists",
+      "sourceId": "19MqZ6f45uCr3uy7j7-aeJNX6Alp3Hjsq",
+      "part": 3,
+      "pages": 4,
+      "sha256": "902769a519b5355f17c0f0e03254c0a0c886d738accd828bc0a4e49f6e8c14a6",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-how-have-humans-changed",
+      "sourceId": "1xsUnLh3QWVuQesTr8vujP9rooK0x1YR6",
+      "part": 3,
+      "pages": 4,
+      "sha256": "0b49214e2ff921897d951cb841ef6bfea899203659472a518940e66a7dca4027",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-when-people-are-deaf-to-music",
+      "sourceId": "1JKVJB1_Pc1BuH6t87ViaBwQqrcg0SEZQ",
+      "part": 3,
+      "pages": 2,
+      "sha256": "c0aa1c20ca27d0a2fb5363ea1230ff4bfdf5989f91e1ef1ea36595027219d09b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-what-makes-a-musical-expert",
+      "sourceId": "19nvXpBPa4SJJ2u90X8Rk4bukAeT1y3Ig",
+      "part": 3,
+      "pages": 0,
+      "sha256": "2766977b36e098b610cde7377e293fcfdb0c842780b1ee19f158540a4a02bad3",
+      "quality": {
+        "emptyDocument": true,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-australias-megafauna-controversy",
+      "sourceId": "1FbasxQXlWb91ncguFHpTVxNBt6yJqurF",
+      "part": 3,
+      "pages": 4,
+      "sha256": "90f15f3cca9e6b04301677a3bc7a458356adc9bf9ca628e84f77723527b61956",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-a-new-stage-in-the-study-and-teaching-of-history",
+      "sourceId": "12j3nlCAorZf0YAbvvZFNmpVqMrfBcIZC",
+      "part": 3,
+      "pages": 3,
+      "sha256": "a31caba333f71472c641b20cc6c59ea948532154fc1ed5d02047a0cae278f1c9",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-marketing-and-mind-control",
+      "sourceId": "1Hn9WEYPpeOEBNTRR0IQFZj7sdSvBHajO",
+      "part": 3,
+      "pages": 4,
+      "sha256": "9600825e99f68756746f57c32242e45474e016e3779581b47a3fb84ebd95384e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          3
+        ],
+        "lowConfidencePages": [
+          1,
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-sign-baby-sign",
+      "sourceId": "1gpb3KkvWtvAR4les4AHgUFGLgdt4qtg1",
+      "part": 3,
+      "pages": 3,
+      "sha256": "c8d9dfa25494c0c41fa08d34e571049da335b68090658888d3da06e625119d76",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-all-in-the-family",
+      "sourceId": "19UpsDrY0NBQAD9nYgZYiOlrLb0AyS8th",
+      "part": 3,
+      "pages": 4,
+      "sha256": "f4b77df18bacc50503146bc4546dbb51377e36b765b8cf5ec17a4a443a515b1a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-sound-recording-industry-in-the-usa-before-1950",
+      "sourceId": "1ByZ30yH6Fmr4Ndbb9tErM2FPxaGEWyla",
+      "part": 3,
+      "pages": 4,
+      "sha256": "160052edf3ad6df4b7f7a8c1bd60ec5241bed9d1e6cd9925d7ee3d6d0b654fd6",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-creating-a-better-grapefruit",
+      "sourceId": "18xgRf1FGU97oSXHIPQXOS2nt0ZotTYGl",
+      "part": 3,
+      "pages": 4,
+      "sha256": "ca2f26818bef65df6fa13ea6738cb65f9735034128a8b54201e189f3b4bf2e35",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-managing-the-language-barrier-in-international-business",
+      "sourceId": "1C4w_HC89AVGoapQ_QWHXZD9RoL4MGGbW",
+      "part": 3,
+      "pages": 4,
+      "sha256": "e8c560e663b8c8eb918bad95ddcc90d2e3e1bbc6528ee79b8bda4ed1af6dc531",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-studying-the-history-of-medieval-britain",
+      "sourceId": "1XRXzy0DVT6YywAPqqhn43YqJ5-MRI4hh",
+      "part": 3,
+      "pages": 4,
+      "sha256": "324b3bf8ddfdc93156c2f48a98e4cad064ff8aa2917792ae3c02320278c565c2",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-no-title-about-sea",
+      "sourceId": "1nXXhz2fRDMwvn2oHTwf-ManGSmf7DKmK",
+      "part": 3,
+      "pages": 5,
+      "sha256": "53a2dce490b3d2a7348f9d624bd2168d5e8e4901e39224319a46198d3b8e1827",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-marine-mammals-exhibit-their-ingenuity",
+      "sourceId": "1X3VrPZlBqQko7-N3aeY-IlS-hwQlYOre",
+      "part": 3,
+      "pages": 4,
+      "sha256": "7a0ee511f840eb1a215efcb3eef104e705f8f2ebb4b25adcbdbec92a4482300b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-asian-space-return-of-an-asian-invention",
+      "sourceId": "1TGnRvtpxb4ysgJcYxY2DMMKo0X4bFIPW",
+      "part": 3,
+      "pages": 5,
+      "sha256": "4893fb5c32b3abff541f93e2026263cd7f3ab86eb334d9aafdc890fee67b8ce3",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          5
+        ],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-ability-to-communicate-using-language",
+      "sourceId": "191mMEIgwwPzDC7Vri6yW4rAFulg_W-Gh",
+      "part": 3,
+      "pages": 4,
+      "sha256": "155c0cc7c613584da298ae3d1fa343237c70c9dd2b8d0f6e21a3a98c1c71fd9f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-leo-burnett-1891-1971",
+      "sourceId": "1L0PTEMcAey16vBUnVanUjmIZ4cuXrVSM",
+      "part": 3,
+      "pages": 4,
+      "sha256": "5c59ddbabc19a16b8309341992328cde8a87538e28957352aac33dc566423273",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-tuatara-past-and-future",
+      "sourceId": "1VdbGHTHs0LCcE-l5XQtxVvX7V3sv2-NQ",
+      "part": 3,
+      "pages": 4,
+      "sha256": "0760cd304c0200f2b7b52b745c3e8332f8f8c6812dae369034c85d6b727f4f25",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-how-to-win-the-world-memory-championship",
+      "sourceId": "1uwJiC4hq-1_KJ6kf2Dtw9ig-A8Kc9Snk",
+      "part": 3,
+      "pages": 4,
+      "sha256": "3e277da571d43f78810836f02721b48a6c5d7e9be5bebc40596fada34b249083",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-reading-greek",
+      "sourceId": "1ymBNaNMkrk7UKWsYVPVI0Mv_WTlMb2pa",
+      "part": 3,
+      "pages": 4,
+      "sha256": "a8ed253827d2d3ee8520dcf7256ef5038dfb46a6e9aca04d58a6094105e4f10e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-secret-sounds-of-elephants",
+      "sourceId": "1ZW2AOGCoOV9BP9HOUZ5jL_ZfFII0-if-",
+      "part": 3,
+      "pages": 5,
+      "sha256": "24ae8b2851427cf9ffdcfcdb8ad23a1dd22c268c5bcbab250efcfb764196b2e3",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-value-of-literary-prizes",
+      "sourceId": "17BBih5ZLowFKlbpk2tNfiFxz4WWIT-a9",
+      "part": 3,
+      "pages": 4,
+      "sha256": "1c59f4c8e2395e0f56fcd6804cf32034c3fc102c0908f3756ea3bf933cdc93a4",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-humanities-and-the-health-professional",
+      "sourceId": "1MZgfs_Q8WYLk6Io_pJpDv5TMlVopRKmH",
+      "part": 3,
+      "pages": 4,
+      "sha256": "61ca9a17e8328922a63dbbd4b23f06150f3e3e3a021c566efed0e2dea102783f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-what-makes-organisations-successful",
+      "sourceId": "1FALDyyxUnvsTw_8DGbMBSz7cf4h7IfXx",
+      "part": 3,
+      "pages": 5,
+      "sha256": "0268bacf0adf2aea0b5ed0d20b749963cd746ef74a3026a9f54882e1972117aa",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-let-s-all-be-friends-chua-rep",
+      "sourceId": "1iBvDy0wg2iUm4nWtVqAifrxCEfKZm3yJ",
+      "part": 3,
+      "pages": 4,
+      "sha256": "45f076cb00a88b3f2bc5fb600aa3f7047c3bb552d7d625d11c16c31ed64f0243",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          2
+        ],
+        "lowConfidencePages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-how-did-music-begin-chua-rep",
+      "sourceId": "1g8qIl8Q8kUm9lLY_1-Cv85e8msLdBmya",
+      "part": 3,
+      "pages": 2,
+      "sha256": "dec5df5527ecf44ae1ce63239c7e33b0bb1d13904cadb00fe725665e1181925e",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-termite-mounds-chua-rep",
+      "sourceId": "1-iQAexQHXof0A1JHHRBdPaAalewuRRUj",
+      "part": 3,
+      "pages": 4,
+      "sha256": "2a8e574d9dd9a605e2f5029e9b83062276fd4ecb5c046253f4ca96003815a26f",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          2,
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-contradiction-of-tourism",
+      "sourceId": "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt",
+      "part": 3,
+      "pages": 4,
+      "sha256": "018664d739b5c759a4a7203696d376f35a22cdc186fc17b1f4d09e139dadf310",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          3
+        ],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-thinking-small-globalization-and-the-choice-of-technology",
+      "sourceId": "1Wu5ejKHVG8bJmFbJfIRNTF6XhtHdWPTg",
+      "part": 3,
+      "pages": 4,
+      "sha256": "58d227442cb1dacc9c8beaac7e3a39d79c0f517590b0187ae074d548e2cc29d7",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [
+          3,
+          4
+        ],
+        "lowConfidencePages": [
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-is-teleworking-sustainable",
+      "sourceId": "1gkSdMh0D1VbizgK0ueAXlyu6ARsFjEH5",
+      "part": 3,
+      "pages": 4,
+      "sha256": "18312cb7f2f56968c59cc7859b005d8ad06c4efca4e04741e653f85379494517",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-green-roofs-blurred",
+      "sourceId": "1gDNADGAdGGn-lmM2Qg80BbNb8Ll5eN3-",
+      "part": 3,
+      "pages": 4,
+      "sha256": "b89adb66d70e04de05ae66ac9fff39cf6129df19a5880dabf41baf2b547d22c1",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-learning-to-be-bilingual",
+      "sourceId": "1pmUoxE4LrzF6QHxPzBNkTatgdlY8EOzG",
+      "part": 3,
+      "pages": 4,
+      "sha256": "b4f6d56bcc4326d71fbf83b1e54e6d45f9fe9c0a27787ef0fa9d4a8c636f77a7",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-benefits-of-learning-an-instrument",
+      "sourceId": "1VXPrYIMfv5T5yiBSdLTX6jZG1DjBMaE7",
+      "part": 3,
+      "pages": 0,
+      "sha256": "25f33385eb8d5bd8b4e660ffc3ed7415731ee6487e10cf53e2195220767217ec",
+      "quality": {
+        "emptyDocument": true,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-improving-patient-safety",
+      "sourceId": "1Kmq-uOLaZWq9ihguoKFNjAAfrT2tzGLG",
+      "part": 3,
+      "pages": 5,
+      "sha256": "1d056118209a849df212807234f78217fcaeb36d6cad5cd56c93350d570091d4",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-200-years-of-australian-landscapes-at-the-royal-academy-in-london",
+      "sourceId": "1Om3-x9w6qZzYDwvuF6E_HgwwPDZBMFyz",
+      "part": 3,
+      "pages": 4,
+      "sha256": "38a02a26840fbff3cdf12550ece425d17db1aaf2fde86505fac297ce7a611a9a",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-business-innovation",
+      "sourceId": "1AqELDoqjGzyFpeCdbREpCORFOBMPLTs9",
+      "part": 3,
+      "pages": 4,
+      "sha256": "ed752954595149e968a8b3f0c9545104dd8bcc89e8eaef4d46958cb3ee12d958",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-saving-the-skink",
+      "sourceId": "11eQPK_jePQetvsMUVyvQ-95MwdKfCdry",
+      "part": 3,
+      "pages": 4,
+      "sha256": "b1353be117bf26279a0fed4b1992ff097e4fd8c16d0b0e8f45e7ef4610348e99",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-living-dunes",
+      "sourceId": "1lKswyOQI3PLNNdOoJjcv0Db4BKboD3jk",
+      "part": 3,
+      "pages": 4,
+      "sha256": "a45fe2f1f1db57f880827bb4708e238c651e6950bc31b2102d8dfcac9c113969",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-game-theory",
+      "sourceId": "1MC26oTgvrDy4HaYTQCNmhZ-N64JVjxKt",
+      "part": 3,
+      "pages": 4,
+      "sha256": "274d572abb4ea8a455b59785390ff67d6be1868f266c3c477e01cff83a410af7",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-book-review-the-discovery-of-slowness",
+      "sourceId": "1Le7JE7-ldF3q051EVdsR-AH_4qRNoJ4w",
+      "part": 3,
+      "pages": 4,
+      "sha256": "849927efb9825d3301d5e36cbcefd3ba62deb7b8ab7a98d03a954448a05c8470",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-what-is-history",
+      "sourceId": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+      "part": 3,
+      "pages": 5,
+      "sha256": "82e872a961ca769a165bf7e44b7596242a156dfd4031bb2d74f3ca6e19d62f55",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-rating-female-leaders",
+      "sourceId": "1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX",
+      "part": 3,
+      "pages": 4,
+      "sha256": "f4c7b1a8d2e068afd6d08beb700d6aff06eb08cced24282d34d0c1780645ead5",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-risk-taking",
+      "sourceId": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+      "part": 3,
+      "pages": 4,
+      "sha256": "11fac28c6591a34247429a9dfe5368da21ee9de68280b213eb9f1322dd555ccd",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-search-for-extra-terrestrial-life",
+      "sourceId": "17tcHnaSO9P8VFnYIJO1_thERrEhIZz6K",
+      "part": 3,
+      "pages": 4,
+      "sha256": "e885a675e0ce0716e40578595707b8fff045c686b1c4a5910219c1ba020a666c",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-let-s-teach-them-how-to-teach",
+      "sourceId": "1mx2w8amNLDANtnLFoaeoG3XtLs-NDybs",
+      "part": 3,
+      "pages": 4,
+      "sha256": "37698c824872b61141c3f12d48ec9e7388969c17c305db5cba5f62f02cbd329b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-peopling-of-patagonia",
+      "sourceId": "1HIYg-V2yHwnEWfXD7o9stxwEPOR_mbVY",
+      "part": 3,
+      "pages": 4,
+      "sha256": "d4ec59de37ecf15aa7aeb873d63d46a1fb8dbdd7fc71419c282a31a82ef3ff40",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-robbers-cave-study",
+      "sourceId": "1R7qNMXluCL0-5lcx0t85SkBmcsJUod8O",
+      "part": 3,
+      "pages": 4,
+      "sha256": "3c20f080b82f8428ec12e6cd90c4b1f6ffe31b668513323ad99df05311857a11",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          1,
+          2,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-jean-piaget-1896-1980",
+      "sourceId": "1tFaLr0t_ubsU31MvFgWd-hp3-WkwRbAi",
+      "part": 3,
+      "pages": 4,
+      "sha256": "236213667142d801f3c4ee57a71298ab5eb936d19707932e8b290a88df7409e0",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          2,
+          3,
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-mapping-the-mind",
+      "sourceId": "1HTRPBlAaH7A-AF1ELCGoZbGphqnUw-gM",
+      "part": 3,
+      "pages": 4,
+      "sha256": "968dd16b4b3a1ad56e5c92bc3af7abdde07611e0f7aeb291724fa6d4ddf28a9b",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          3
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-whale-culture",
+      "sourceId": "1Wdb5qUCPE9QBYkFpObQvIUJgzi1nI0YA",
+      "part": 3,
+      "pages": 4,
+      "sha256": "ac882e8e992b530fd834f6517e3e325845e508bc61f976e664f1540b58a8512c",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-how-a-prehistoric-predator-took-to-the-skies",
+      "sourceId": "1DU5wJyVnu0vRCGB-CamINl63XndDzSHG",
+      "part": 3,
+      "pages": 4,
+      "sha256": "7b425d7a1ffc65b301bc8effc737b618d89163ec044f8790a64f4a405ff5e6bc",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [
+          4
+        ],
+        "needsRepair": true,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    },
+    {
+      "job": "p3-the-flouridation-controversy",
+      "sourceId": "1h5wynQ8QHlMSIN68n3x1IStNaTQbm0Qh",
+      "part": 3,
+      "pages": 4,
+      "sha256": "6fc1af3fce7e1e57cad0a8baa8f9d824bdbf62664c5a0ccaa3d5833c2e342cd5",
+      "quality": {
+        "emptyDocument": false,
+        "shortTextPages": [],
+        "lowConfidencePages": [],
+        "needsRepair": false,
+        "requiresVisualReview": true
+      },
+      "approved": false
+    }
+  ]
+}

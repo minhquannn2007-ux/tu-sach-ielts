@@ -1,0 +1,32 @@
+{
+  "job": "p1-seaweed",
+  "title": "Seaweed",
+  "part": 1,
+  "fingerprint": "a84231bd191e0f9afb2689ab695ca228f44ab596f6c958e7ac1cb1e26827b94a",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1kmtJWBcOJmqIx7drlhZPJZIyDDW7VGGm",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-seaweed.json",
+  "lessonId": "p1-seaweed",
+  "sourceId": "1kmtJWBcOJmqIx7drlhZPJZIyDDW7VGGm",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "fab818aba5338d6884da72bf7a24aa5bb776a1a3dc04cc5e5f1f46701d03730e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.087
+}

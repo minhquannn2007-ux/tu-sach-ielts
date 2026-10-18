@@ -1,0 +1,17 @@
+{
+  "job": "p2-dominance-in-social-insects",
+  "title": "Dominance in Social Insects",
+  "part": 2,
+  "fingerprint": "1acf019488c8bb43dad9613492f6a17ac9b66e7f524c3c2af186d82f31bec550",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

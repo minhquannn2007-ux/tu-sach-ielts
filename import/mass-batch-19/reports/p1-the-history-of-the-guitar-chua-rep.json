@@ -1,0 +1,22 @@
+{
+  "job": "p1-the-history-of-the-guitar-chua-rep",
+  "title": "The history of the guitar (CHƯA REP)",
+  "part": 1,
+  "fingerprint": "03c5d28e4eb1664f57cece27c589ba720a5af621247c1e48ebf4aceb3dbe9b9e",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1vwUz30zGYBtM8ZwUErGc1pNCP-VMEwIA",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    },
+    {
+      "sourceId": "1iy_yvaB4RCtyFcPdGbRVixrWNM5oVC3H",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.146
+}

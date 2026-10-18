@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-strange-world-of-sight",
+  "title": "The strange world of sight",
+  "part": 3,
+  "fingerprint": "e28f5594ad3add7ccc6fa408b90cae142881b748b51c903b629066c002fc0456",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1JbZe-esAceyy3eSZv2_Uf8ABtejWY8mR",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-strange-world-of-sight.json",
+  "lessonId": "p3-the-strange-world-of-sight",
+  "sourceId": "1JbZe-esAceyy3eSZv2_Uf8ABtejWY8mR",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag"
+  ],
+  "sourceHash": "e98b873dc82f2c6de8f64655ae18a777ebb350f7ebfdfa29f31f4a0e33106fb9",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.153
+}

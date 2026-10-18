@@ -1,0 +1,17 @@
+{
+  "job": "p2-australia-s-camouflaged-creatures",
+  "title": "Australia's camouflaged creatures",
+  "part": 2,
+  "fingerprint": "1b3d0a5c88a73eec8b32024ba4305853f2f618bf8513db74c8ce39becd3b51ae",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1TQCJlpmZAqd5jB5bUY4nSnE8GSwvOyrb",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.06
+}

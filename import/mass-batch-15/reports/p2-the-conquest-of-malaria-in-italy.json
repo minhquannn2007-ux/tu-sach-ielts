@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-conquest-of-malaria-in-italy",
+  "title": "The conquest of malaria in Italy",
+  "part": 2,
+  "fingerprint": "c44ed181f54f0b372223db646794d9395392b5027bea63bd31470fb12ab1dcde",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1pYwm7QgjHiiWXImJWC45PvPPyG_9n_0b",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

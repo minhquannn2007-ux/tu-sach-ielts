@@ -1,0 +1,22 @@
+{
+  "job": "p3-recording-history",
+  "title": "Recording History",
+  "part": 3,
+  "fingerprint": "9ea764688ba8ace00b85f9e51bc05c8ce31ce78c1de43ed644c4fd6dc37fee3f",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1dD229eDOZ1nwhHBNOd1i76buGvUSNYSh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "15kXFXnNme1NSZllzBPGdVl6XHpQrTvNz",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.008
+}

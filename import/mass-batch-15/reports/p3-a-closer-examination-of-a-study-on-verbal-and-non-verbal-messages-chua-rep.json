@@ -1,0 +1,33 @@
+{
+  "job": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages-chua-rep",
+  "title": "A closer examination of a study on verbal and non-verbal messages (CHƯA REP)",
+  "part": 3,
+  "fingerprint": "a200ca09fb044ffb427090c50b814dcffe72d203004b5ffecc8fc38a76236f3b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "18wR46ZRVIjbeeyPVSBI2D_XvpJlgz4h-",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages-chua-rep.json",
+  "lessonId": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages",
+  "sourceId": "18wR46ZRVIjbeeyPVSBI2D_XvpJlgz4h-",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "d6c73e946b55a10ad89bd9816e1fb1bc52b54ceb2db95da3f1dda61440610261",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p1-fishbourne-roman-palace",
+  "title": "Fishbourne Roman Palace",
+  "part": 1,
+  "fingerprint": "d1f1883a9b9e3b91c413b8c011eea8c4f681e6ad0d6f25105cf6a97d22216d2e",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1gPBoIQPZ-SqWvTPC7kn71YNfPQu8Xnro",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

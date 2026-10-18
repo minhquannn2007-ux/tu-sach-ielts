@@ -1,0 +1,17 @@
+{
+  "job": "p2-arctic-foxes",
+  "title": "Arctic foxes",
+  "part": 2,
+  "fingerprint": "5fa67230b12248602b11f880cf622f6627db5bb029155111164737d1fb36fb1b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1skQqjuTnlntrajezNLoaOE-hsB8SrH2W",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

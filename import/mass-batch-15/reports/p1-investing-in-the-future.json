@@ -1,0 +1,22 @@
+{
+  "job": "p1-investing-in-the-future",
+  "title": "Investing in the Future",
+  "part": 1,
+  "fingerprint": "b4547d5e56ea1131c747f166c33b615cbaa206f091345c59c15a68e49f996488",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1zoFMLu_bHwQltGO6GK3JzV39CW5L6Ywh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1FmzQ-gv7dDUEj5Z5jIzOp165wSyRupVR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.009
+}

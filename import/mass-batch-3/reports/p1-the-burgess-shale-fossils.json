@@ -1,0 +1,33 @@
+{
+  "job": "p1-the-burgess-shale-fossils",
+  "title": "The Burgess Shale fossils*",
+  "part": 1,
+  "fingerprint": "43780d8508012c3560545b1dd342200df0dd164ee1721540e76f9c5cecdf95e8",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1MvavjT_AziMMDE_3Xjn_vOfgqNGzKppg",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-burgess-shale-fossils.json",
+  "lessonId": "p1-the-burgess-shale-fossils",
+  "sourceId": "1MvavjT_AziMMDE_3Xjn_vOfgqNGzKppg",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes",
+    "notes"
+  ],
+  "sourceHash": "5a8666ae71e2e6a212dbbe850d2bb47ed1af3d2305a17767a94c0a745219e457",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.16
+}

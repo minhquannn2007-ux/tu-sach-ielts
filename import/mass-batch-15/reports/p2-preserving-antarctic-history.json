@@ -1,0 +1,34 @@
+{
+  "job": "p2-preserving-antarctic-history",
+  "title": "Preserving Antarctic History",
+  "part": 2,
+  "fingerprint": "04d1fae13bbe0542596a73ea856441513a46ae356a05c361ded8fe3792cc4e40",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1hvN5KF2rtWzD3wRtPesN03542YYgC2kf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-preserving-antarctic-history.json",
+  "lessonId": "p2-preserving-antarctic-history",
+  "sourceId": "1hvN5KF2rtWzD3wRtPesN03542YYgC2kf",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "47f338dc63ac333abe1c5bac11bfab10ad84d2d3e1e54fd60164eb5661ef1a7b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.057
+}

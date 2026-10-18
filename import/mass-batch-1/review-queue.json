@@ -1,0 +1,1650 @@
+[
+  {
+    "job": "p1-a-brief-history-of-ballet",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-brief-history-of-ballet.json",
+    "reasons": [
+      {
+        "sourceId": "1wXCemlHf_CZJSfBLkQ-5JGbQDPgqu7aj",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-a-brief-history-of-canned-food",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-brief-history-of-canned-food.json",
+    "reasons": [
+      {
+        "sourceId": "1-rxVx8fzFh-XEf6lfCuKMCLwH4zXPSQr",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-a-brief-history-of-glassmaking",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-brief-history-of-glassmaking.json",
+    "reasons": [
+      {
+        "sourceId": "12gLLVPyM1yQxDQkSM4oKGIiL9M0EYIIe",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-a-gem-from-the-sea",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-gem-from-the-sea.json",
+    "reasons": [
+      {
+        "sourceId": "1hcrAXqbWNjjAVlj7qhgqDGome0KbdKuy",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-a-moment-of-perfection-chua-go",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1GCOAu4UzOgYd1wVGHtGY_T1bnaqtEjzy",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1GCOAu4UzOgYd1wVGHtGY_T1bnaqtEjzy.json",
+        "ocrConfidence": [
+          84.0,
+          95.0,
+          89.1,
+          62.7
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-a-river-reveals-its-roman-past",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-river-reveals-its-roman-past.json",
+    "reasons": [
+      {
+        "sourceId": "1Woc9164uadsWZTwUX-XjbPK0taTyeF_L",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-a-survivor-s-story",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-survivor-s-story.json",
+    "reasons": [
+      {
+        "sourceId": "1wvNNuZORIJlAyF8h6GCfsIIIN0L5J0rh",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-ahead-of-its-time-chua-go",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1NNkZkdrh54_IIEasMlmIQTCW7eY0kH_u",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1NNkZkdrh54_IIEasMlmIQTCW7eY0kH_u.json",
+        "ocrConfidence": [
+          88.6
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-an-important-language-development",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1RoB_l7gAdmaD-gBGl6fFLFNFEBcgAcMY",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1RoB_l7gAdmaD-gBGl6fFLFNFEBcgAcMY.json",
+        "ocrConfidence": [
+          95.7,
+          95.3,
+          95.8,
+          92.3
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-answers-underground",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ.json",
+        "ocrConfidence": [
+          92.8,
+          95.7,
+          91.8,
+          94.9
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-australia-s-airbone-dentists",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1VX7zLDaZNeTVWt0E2bWCzT0SMcmNzuP6",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p1-australian-rock",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ojecFyyxWSPYs3h4hNf3DLtpuYt9axAL",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-back-to-the-wild",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-back-to-the-wild.json",
+    "reasons": [
+      {
+        "sourceId": "1jVsd3V8gbxrjx8HkrT8lFgrFrDNnYShd",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-back-to-their-roots",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1IczNABJJQy4KIaHzpGtOJerR2kIvDVTl",
+        "code": "question-numbering",
+        "message": "Passage 1 requires 13 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p1-barrels",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1T6fWm1s67Dwzr7edvonrVYiMQTzfM57Z",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1T6fWm1s67Dwzr7edvonrVYiMQTzfM57Z.json",
+        "ocrConfidence": [
+          95.9,
+          96.2,
+          89.8,
+          95.3
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-brassicas",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-brassicas.json",
+    "reasons": [
+      {
+        "sourceId": "1GN653au7TWNzzSk9e4U1ldPP-_yTpSWu",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-building-a-new-future",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "19mklY6momdN78zVtlpMSqSjsFOxzTLGh",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/19mklY6momdN78zVtlpMSqSjsFOxzTLGh.json",
+        "ocrConfidence": [
+          94.2,
+          94.6,
+          93.0,
+          91.7
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-butterfly-farms-valuable-resource-or-insect-zoo",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1j_yRxFEU5fSsXY8V53rdi-aOedY2CnTw",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1j_yRxFEU5fSsXY8V53rdi-aOedY2CnTw.json",
+        "ocrConfidence": [
+          78.7,
+          83.0,
+          88.7,
+          91.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-candles",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-candles.json",
+    "reasons": [
+      {
+        "sourceId": "1eENLecHptg_goG-N5R-EbJore_LdJJRy",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-climate-change-and-new-diseases",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-climate-change-and-new-diseases.json",
+    "reasons": [
+      {
+        "sourceId": "1LqroH6e0JfOy0H7_XlNFJTMet8QUii2c",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-cooked-food",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-cooked-food.json",
+    "reasons": [
+      {
+        "sourceId": "17GDPcOIAgA2nPljI3Fljw_Os2kGwRaMk",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-crowding-and-density",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1bBvwX2GQb3ewfRQnk_KS47JMGHSK1Cek",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p1-developmental-tasks-of-normal-adolescence",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "10qQTGkN-UZXNkHPBc3feozfFANra-shM",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/10qQTGkN-UZXNkHPBc3feozfFANra-shM.json",
+        "ocrConfidence": [
+          96.3,
+          96.2,
+          94.3,
+          94.6
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-el-nino-unusual-weather-in-the-pacific",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-el-nino-unusual-weather-in-the-pacific.json",
+    "reasons": [
+      {
+        "sourceId": "1jRRsHo8vx6NL-ZgDRKhsLqBgF8X6KpaW",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-energy-from-the-oceans",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1jgt7eRIq-E6zmZ1WlsF1qeCyHN54jwDR",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-ensuring-our-future-food-supply",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1suD8t4_1nHchUoezAqD2QEkk244Jctjq",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1suD8t4_1nHchUoezAqD2QEkk244Jctjq.json",
+        "ocrConfidence": [
+          96.2,
+          96.3,
+          95.3,
+          91.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-face-recognition-in-everyday-life-chua-go",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1abvscMdUSuf_6QUMsO1QTHm6wEcHtv6c",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1abvscMdUSuf_6QUMsO1QTHm6wEcHtv6c.json",
+        "ocrConfidence": [
+          94.1,
+          94.5,
+          92.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-feeding-the-world",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY.json",
+        "ocrConfidence": [
+          95.9,
+          96.2,
+          94.6,
+          94.8
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-food-flavor",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1l5d2oLEBRY5DdjAzAt9BWDkuLbcNjBHS",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p1-food-sources-of-early-native-americans",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-food-sources-of-early-native-americans.json",
+    "reasons": [
+      {
+        "sourceId": "1zy368y0rftvcPi5zFfxzARhXKvVgoZ2O",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-footprints-in-the-muds-of-time",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1DHG5dCDLDzFeBh-G4mkzK9deHAty8ezL",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1DHG5dCDLDzFeBh-G4mkzK9deHAty8ezL.json",
+        "ocrConfidence": [
+          96.0,
+          95.7,
+          94.5
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-gobekli-tepe-a-remarkable-discovery",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "15CQnHzgCREeMC66GRBEpJeFsbW6IvlD4",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/15CQnHzgCREeMC66GRBEpJeFsbW6IvlD4.json",
+        "ocrConfidence": [
+          96.0,
+          96.3,
+          95.2,
+          92.3
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-health-in-the-wild",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-health-in-the-wild.json",
+    "reasons": [
+      {
+        "sourceId": "1nnskT2ToXFMY21uSFdJ-bf_Yu9wJe4fE",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-hormones",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY.json",
+        "ocrConfidence": [
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-how-deserts-grow",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1pLaZxLfcZKm0Axcb6oxx1O4MJvmzoF9j",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-ice-ages",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-ice-ages.json",
+    "reasons": [
+      {
+        "sourceId": "1QZSAYfBObD8yjMXOwzwYos-iYagPgzr8",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-investing-in-the-future",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1zoFMLu_bHwQltGO6GK3JzV39CW5L6Ywh",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1zoFMLu_bHwQltGO6GK3JzV39CW5L6Ywh.json",
+        "ocrConfidence": [
+          96.2,
+          95.8,
+          95.2,
+          91.6
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-jethro-tull-1674-1741",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Lr5m4KNiTR4s27rICfKWmf3QzdJolLJ9",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1Lr5m4KNiTR4s27rICfKWmf3QzdJolLJ9.json",
+        "ocrConfidence": [
+          96.1,
+          94.2,
+          94.9
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-john-st-clair-kilby-inventor-of-the-integrated-circuit",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1AYEgLUttMj7tlv1cfR0gmZqw-znScMtF",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p1-katherine-mansfield",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1mMDO7aSaEvCrtl43hkTfiz8OVSpcbqpg",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1mMDO7aSaEvCrtl43hkTfiz8OVSpcbqpg.json",
+        "ocrConfidence": [
+          89.9,
+          88.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-keeping-healthy-at-work",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA.json",
+        "ocrConfidence": [
+          96.6,
+          95.7,
+          95.9,
+          91.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-learning-about-the-moa",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK.json",
+        "ocrConfidence": [
+          80.1,
+          84.4,
+          81.7,
+          86.4
+        ]
+      },
+      {
+        "sourceId": "1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm.json",
+        "ocrConfidence": [
+          68.2,
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-looking-skyward",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1WfqlPCEhooQeTjG3h12MGnPsZVuR8SOL",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1WfqlPCEhooQeTjG3h12MGnPsZVuR8SOL.json",
+        "ocrConfidence": [
+          95.4,
+          94.8,
+          94.9,
+          90.3
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-maori-buildings-in-new-zealand",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-maori-buildings-in-new-zealand.json",
+    "reasons": [
+      {
+        "sourceId": "1_Uqi5_nznR9B9WJWYDMT4DwY-vr_6GTl",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-map-reading-and-gender",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-map-reading-and-gender.json",
+    "reasons": [
+      {
+        "sourceId": "1ngIAK_Snk0nAs08Ib1mK1iNk9-79qBYh",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-minds-of-their-own",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH.json",
+        "ocrConfidence": [
+          95.6,
+          95.6,
+          93.1,
+          95.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-mystery-drawing",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE.json",
+        "ocrConfidence": [
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-obesity-do-citizens-of-developed-countries-really-have-a-choice",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1QU6eO1Ja2jInOmUUVCFGCs6YEYRU02Ct",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-pluto-seen-up-close-for-the-first-time",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vvkNcS0MJExHmY0vC7xaviY3Nqxp1bGM",
+        "code": "table-layout",
+        "message": "Table grid/merged cells require visual transcription"
+      }
+    ]
+  },
+  {
+    "job": "p1-practical-action",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "18DjcKb1FkgLp8iWbOA-LY0Z4e_b5nkHE",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-preserving-the-gardens-of-the-past",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1is61ST3FfWcqLPtRIVB4ewLWWQdmjdYK",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1is61ST3FfWcqLPtRIVB4ewLWWQdmjdYK.json",
+        "ocrConfidence": [
+          96.0,
+          95.9,
+          95.8,
+          90.8
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-radiocarbon-dating-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Id7BU52IAIAeL2WjPQwA2Zt0QbRB2FdV",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p1-reef-life-on-the-yongala",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1HmoU5-7m85RN9UTGb7DKa4g--3bMll11",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1HmoU5-7m85RN9UTGb7DKa4g--3bMll11.json",
+        "ocrConfidence": [
+          96.1,
+          95.8,
+          91.8,
+          95.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-scented-plants",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc.json",
+        "ocrConfidence": [
+          96.3,
+          95.9,
+          94.7,
+          95.7
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-secrets-of-the-nasca-lines",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-secrets-of-the-nasca-lines.json",
+    "reasons": [
+      {
+        "sourceId": "193tK6zP6QTgGrtvm1nQAr-elrJLde8FO",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-shadow-puppet-theatre-in-southeast-asia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1bA7yq3FZSa-PjwueAU4yONua9L36JjGS",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-shopping-by-design",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-shopping-by-design.json",
+    "reasons": [
+      {
+        "sourceId": "1-Bq0ICroUnt1sn7wIQ2-J7OoeRc1RVQ0",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-steam-across-the-water",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yiJQ0ZMxZogpW4i8lEIea1SUrZnaQj7L",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-successful-approaches-to-public-speaking",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-successful-approaches-to-public-speaking.json",
+    "reasons": [
+      {
+        "sourceId": "1l9Im7YYOWRpKEEEG9DOTE9yp9GIkDO_j",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-sydney-opera-house",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "18PU7tjY3CFC5In6rbgpccW-o6FKLwHRm",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/18PU7tjY3CFC5In6rbgpccW-o6FKLwHRm.json",
+        "ocrConfidence": [
+          96.2,
+          96.2,
+          95.7,
+          90.9
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-band-of-holes",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-band-of-holes.json",
+    "reasons": [
+      {
+        "sourceId": "1skIBSUWZK-0xA2BEx84eKKUWsQIADFx8",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-baobaps-of-madagascar",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1nn_3XnvZuoutYnG8O9rTy5_2ArGdcUAE",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1nn_3XnvZuoutYnG8O9rTy5_2ArGdcUAE.json",
+        "ocrConfidence": [
+          91.5,
+          92.0,
+          95.2,
+          87.8
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1VCJFsfwPI2NiQd994oxWoscVoBUR9kQT",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1VCJFsfwPI2NiQd994oxWoscVoBUR9kQT.json",
+        "ocrConfidence": [
+          80.3,
+          94.6,
+          77.9,
+          39.2
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-cooling-effect-of-plastic-clothes",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1AlEJk8dLE59jeEiAmKV0FUoc3RiyZx3B",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-development-of-exploration-and-scientific",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-development-of-exploration-and-scientific.json",
+    "reasons": [
+      {
+        "sourceId": "1H0RjncsmZnvLQnI2r_TlfocfDMKhYFJl",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-development-of-italian-opera",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-development-of-italian-opera.json",
+    "reasons": [
+      {
+        "sourceId": "1qusTh7_OWF1ecKyUvp6qEsDwF8m2R8dk",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-development-of-research-stations-in-antarctica",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-development-of-research-stations-in-antarctica.json",
+    "reasons": [
+      {
+        "sourceId": "1fXuia-RMrws4jj8R0qSc0hEg7Fv-LPyf",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-development-of-the-bicycle",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1pdTmnassupxETSft-XxIe2zz_2qeP4_-",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1pdTmnassupxETSft-XxIe2zz_2qeP4_-.json",
+        "ocrConfidence": [
+          95.9,
+          96.3,
+          90.4,
+          95.6
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-development-of-the-silk-industry",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1dOmuCOszyU_AtfBOa0d27QamYbeF5cut",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1dOmuCOszyU_AtfBOa0d27QamYbeF5cut.json",
+        "ocrConfidence": [
+          96.0,
+          96.2,
+          90.5,
+          95.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-explorations-of-matthew-flinders",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-explorations-of-matthew-flinders.json",
+    "reasons": [
+      {
+        "sourceId": "1Vt1LbHW1B5HiaBYhCotwf_j3XaFC-CFW",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-extinction-of-the-cave-bear",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1lzc8LA25DdOdkCIHDZBL8PSc0PhyqL08",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1lzc8LA25DdOdkCIHDZBL8PSc0PhyqL08.json",
+        "ocrConfidence": [
+          96.0,
+          96.1,
+          95.7,
+          92.9
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-great-exhibition",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-great-exhibition.json",
+    "reasons": [
+      {
+        "sourceId": "1sRFXLw2OsKPpJ06Ju8OMQnNG9kKCIWqp",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-health-benefits-of-singing",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1cP1YmqHprXAhEur0NVpyzp73chTXfpAI",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1cP1YmqHprXAhEur0NVpyzp73chTXfpAI.json",
+        "ocrConfidence": [
+          95.9,
+          95.7,
+          95.7,
+          91.4
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-history-of-the-pencil",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1YBqk992PznJZcKfF3GvKEEod6FFUZY76",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1YBqk992PznJZcKfF3GvKEEod6FFUZY76.json",
+        "ocrConfidence": [
+          96.2,
+          96.4,
+          93.2,
+          96.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-history-of-walking-in-new-zealand",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-history-of-walking-in-new-zealand.json",
+    "reasons": [
+      {
+        "sourceId": "1TPbW1CLs7iO390N3KUwOAKp3y3-1Dx1T",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-impact-of-refrigeration",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1SClQvI3yPTuAdkJzX4LazpOtxIR1UUBD",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-importance-of-business-cards",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1n-udR69Rj6gbxk2qOX015CVPnEA3fzkk",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1n-udR69Rj6gbxk2qOX015CVPnEA3fzkk.json",
+        "ocrConfidence": [
+          96.5,
+          96.3,
+          96.5,
+          93.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-last-man-who-knew-everything",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1iGY22xfNJTGO0GZ18kQaYgJJME3_tAjl",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1iGY22xfNJTGO0GZ18kQaYgJJME3_tAjl.json",
+        "ocrConfidence": [
+          94.9,
+          95.8,
+          95.5
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-media-literacy-of-children-a-review-of-research-literature",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "16gOEpWyJCgbh3AtHXc4Qz78hXtL9_HGJ",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/16gOEpWyJCgbh3AtHXc4Qz78hXtL9_HGJ.json",
+        "ocrConfidence": [
+          87.5,
+          90.4,
+          88.5,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-mesoamerican-ball-game",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-mesoamerican-ball-game.json",
+    "reasons": [
+      {
+        "sourceId": "1EVJUoaJ6dWF-HM-EL76B71mHS5Doauct",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-new-zealand-national-archives",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1xK0cvpbFEuiLAVv6zuW7Dr_v67XhVHaq",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 11, 12, 13]"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-oldest-leather-shoe",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co.json",
+        "ocrConfidence": [
+          96.2,
+          96.2,
+          90.0,
+          95.7
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-the-olmec-and-their-great-stone-heads-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1dciUxenM-U38AzoE37_CvhoZWuIUwCgX",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-origins-of-mathematics",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-origins-of-mathematics.json",
+    "reasons": [
+      {
+        "sourceId": "178JJ0-hhzbrr3PZgCBEAp88R10hvJx7R",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-pyramid-of-cestius",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-pyramid-of-cestius.json",
+    "reasons": [
+      {
+        "sourceId": "1cxAp94f_CfWXIvnc0uT-59k1lEGwm9DC",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-search-for-an-alternative-to-plastic",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-search-for-an-alternative-to-plastic.json",
+    "reasons": [
+      {
+        "sourceId": "157p-jTzIyTPFq-w1ls1zcJmFnM3yw1lM",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-southern-cross",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-southern-cross.json",
+    "reasons": [
+      {
+        "sourceId": "1CUCC9ktSy4SYSFMCFD_fLfzkmlrdoYyp",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-sunlight-soap-story",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-sunlight-soap-story.json",
+    "reasons": [
+      {
+        "sourceId": "1NxiAbvkIPUttAAbxJSXPDXLneSgfJ4X-",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-treadle-pump",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1RKRGE0k9mcfhxGbT2_Ol1Na6SM7RIuz7",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1RKRGE0k9mcfhxGbT2_Ol1Na6SM7RIuz7.json",
+        "ocrConfidence": [
+          96.2,
+          96.3,
+          89.5,
+          94.2
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-tikopia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1g0X26MDPKdqrZQNGeACeocPLm_vIFLZA",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p1-traditional-maori-fish-hooks",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-traditional-maori-fish-hooks.json",
+    "reasons": [
+      {
+        "sourceId": "1ZotyWJKM18TCcpdS77-52HRgoGDcfDon",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-traditional-maori-medicine",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1fT0vFW6leo1euBYzsXF-vtxpu4LOJMjs",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1fT0vFW6leo1euBYzsXF-vtxpu4LOJMjs.json",
+        "ocrConfidence": [
+          95.8,
+          95.8,
+          94.9,
+          92.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain.json",
+    "reasons": [
+      {
+        "sourceId": "1531VE7ExKTWxnX3RmpGM2eOSiqrWMrfO",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-treausures-of-the-forbidden-zone",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1SPN9YEPGBjSrVS5APgt9Oip6fcTtVnZ6",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1SPN9YEPGBjSrVS5APgt9Oip6fcTtVnZ6.json",
+        "ocrConfidence": [
+          95.8,
+          96.2,
+          93.8
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-tyrannosaur-rex-a-new-theory",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-tyrannosaur-rex-a-new-theory.json",
+    "reasons": [
+      {
+        "sourceId": "1ePLXC6KFu_8cnVy3ss7m4JY5MBNAfyFK",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-walking-for-life",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1DRqz801oUhmTnLXlD0fiFLafo16DefDn",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+      }
+    ]
+  },
+  {
+    "job": "p1-what-do-managers-really-do",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1hKzouf53pVPvzt3A-WmnuO3GXzO42_FO",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-what-is-the-secret-of-a-long-life",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1eZurF_e-0XJLr1G_xRELIVM34VmPppVB",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1eZurF_e-0XJLr1G_xRELIVM34VmPppVB.json",
+        "ocrConfidence": [
+          96.0,
+          96.1,
+          94.7
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-when-maps-were-made-for-the-public",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-when-maps-were-made-for-the-public.json",
+    "reasons": [
+      {
+        "sourceId": "1YVHhJDM_F8tQlw14-t3b1xun3WfUsMGS",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-why-good-ideas-fail",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa.json",
+        "ocrConfidence": [
+          93.9,
+          94.5,
+          92.4,
+          88.9
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p1-william-gilbert-and-magnetism",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1xO5NNew7_n2kgqilJ2G0V-yNDr0zUzql",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p1-windmills",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-windmills.json",
+    "reasons": [
+      {
+        "sourceId": "1OSr-MqKNBBWAVl1gAFz6JwlBOwXAPGGw",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-ancient-treasures",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH.json",
+        "ocrConfidence": [
+          92.5,
+          77.3,
+          84.3,
+          87.9
+        ]
+      },
+      {
+        "sourceId": "16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83.json",
+        "ocrConfidence": [
+          86.2,
+          0.0,
+          79.9,
+          0.0
+        ]
+      }
+    ]
+  },
+  {
+    "job": "p2-digital-analysis-of-literature",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "source-content: Q20–23 discuss workplaces rather than the passage; compare another version"
+      }
+    ]
+  },
+  {
+    "job": "p2-influences-on-child-development",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1qL903OIO9wcM6XI3D83D3K8n8CW18yLS",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-book-review-architecture-in-the-united-states",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-book-review-architecture-in-the-united-states.json",
+    "reasons": [
+      {
+        "sourceId": "1cLpoxkqyiiBwhm8eKAI-LXGVuRzDxG5A",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-expansion-of-the-worlds-deserts",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-patterns-of-nature",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-beginnings-of-modern-cognition",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "source-content: damaged sentence around symbolic thinking; compare another version"
+      }
+    ]
+  },
+  {
+    "job": "p3-traffic-congestion-possible-solutions-to-an-increasing-problem",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "19SLwcY26ma_rM65fzcfukkXzV364d_E5",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/19SLwcY26ma_rM65fzcfukkXzV364d_E5.json",
+        "ocrConfidence": [
+          95.6,
+          94.4,
+          94.2,
+          87.0,
+          94.8
+        ]
+      },
+      {
+        "sourceId": "1MSi7UciIvrBTgq3YAkcmWBbvO979xsol",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+        "transcript": "transcripts/1MSi7UciIvrBTgq3YAkcmWBbvO979xsol.json",
+        "ocrConfidence": [
+          81.1,
+          95.2,
+          88.8,
+          91.3,
+          92.4
+        ]
+      }
+    ]
+  }
+]

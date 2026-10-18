@@ -1,0 +1,32 @@
+{
+  "job": "p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain",
+  "title": "Traditional Pearl Diving Practices off the Coast of Bahrain",
+  "part": 1,
+  "fingerprint": "d0b219632cde01a1da1f3d446ab010fc35d44dd5cfed960a5c149547344ea518",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1531VE7ExKTWxnX3RmpGM2eOSiqrWMrfO",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain.json",
+  "lessonId": "p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain",
+  "sourceId": "1531VE7ExKTWxnX3RmpGM2eOSiqrWMrfO",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "0d17fa86e4df711d297102f97ce33b60643ff6e571eb0e39e2eb05dddaca1faf",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.045
+}

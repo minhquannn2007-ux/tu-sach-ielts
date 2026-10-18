@@ -1,0 +1,32 @@
+{
+  "job": "p1-transport-and-transport-systems-during-the-roman-empire",
+  "title": "Transport and transport systems during the Roman Empire",
+  "part": 1,
+  "fingerprint": "255365fca08c8ffb085d97fc0888f866853ee842165e4e3bebf26521c35b4145",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1CrYGlHGRgO_p5-yql5u8cgWZjL-T9p8Z",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-transport-and-transport-systems-during-the-roman-empire.json",
+  "lessonId": "p1-transport-and-transport-systems-during-the-roman-empire",
+  "sourceId": "1CrYGlHGRgO_p5-yql5u8cgWZjL-T9p8Z",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "a4e60cff024bde14a7d6edf564f7a1669024c057e7570757f4de75c2cd6f0469",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.053
+}

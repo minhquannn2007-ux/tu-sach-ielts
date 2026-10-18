@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-coastal-archaeology-of-britain",
+  "title": "The Coastal Archaeology of Britain",
+  "part": 2,
+  "fingerprint": "25448c8007e6a0832e20f492acae6c3629b117044d170cfa2d40ee0fabc04a33",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1ry1wM2jak0LguKMuqKwsiiA-Ax3-Kcom",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

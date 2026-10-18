@@ -1,0 +1,32 @@
+{
+  "job": "p1-when-maps-were-made-for-the-public",
+  "title": "When Maps were Made for the Public",
+  "part": 1,
+  "fingerprint": "3d079fe20ba7d68e9062d4930d5bf0018ee9ce4122a813138c760b14557d8114",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1YVHhJDM_F8tQlw14-t3b1xun3WfUsMGS",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-when-maps-were-made-for-the-public.json",
+  "lessonId": "p1-when-maps-were-made-for-the-public",
+  "sourceId": "1YVHhJDM_F8tQlw14-t3b1xun3WfUsMGS",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "49cf93d0072323be1bbd4c5b289097ad66e74d5059bf58cd0694b90c307c6857",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.05
+}

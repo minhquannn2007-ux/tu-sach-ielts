@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-ability-to-communicate-using-language",
+  "title": "The ability to communicate using language",
+  "part": 3,
+  "fingerprint": "cc6cca65b054ec4575d76bb92f0210457ce592f63034f044821f115b32866df7",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "191mMEIgwwPzDC7Vri6yW4rAFulg_W-Gh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1CQAZp7pNvlGLtWD161AuNVo-CRwCY3CR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

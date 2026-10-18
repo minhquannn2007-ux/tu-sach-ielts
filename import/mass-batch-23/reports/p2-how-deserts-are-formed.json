@@ -1,0 +1,17 @@
+{
+  "job": "p2-how-deserts-are-formed",
+  "title": "How deserts are formed",
+  "part": 2,
+  "fingerprint": "65e7184495e4bbd8206d68e26b5f4136540e5d4763ae37a61d6c849cdfb3f3fc",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1PFPcRXVh1pSjdnhRDroQIx_IvBESy4EV",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p1-ice-ages",
+  "title": "Ice Ages",
+  "part": 1,
+  "fingerprint": "7b3ee7c3d3355b2ba20ba2ce76cd1a303dd1cea05126954a4859285fd22309c1",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1QZSAYfBObD8yjMXOwzwYos-iYagPgzr8",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-ice-ages.json",
+  "lessonId": "p1-ice-ages",
+  "sourceId": "1QZSAYfBObD8yjMXOwzwYos-iYagPgzr8",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "short-answer",
+    "notes"
+  ],
+  "sourceHash": "a579c6ca898ea1d1d525ff1db2e45c64ab02932e51a3e142a81ec3f172cfd93b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

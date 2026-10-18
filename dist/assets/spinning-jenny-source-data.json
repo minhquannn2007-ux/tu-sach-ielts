@@ -1,0 +1,97 @@
+{
+  "start": 1,
+  "part": 1,
+  "answers": [
+    "farming",
+    "wives and daughters",
+    "Flying Shuttle",
+    "Thomas Highs",
+    "wood",
+    "FALSE",
+    "TRUE",
+    "NOT GIVEN",
+    "TRUE",
+    "spindles",
+    "cord",
+    "handwheel",
+    "carriage"
+  ],
+  "paras": [
+    "James Hargreaves was the inventor of the Spinning Jenny, the world's first commercially successful spinning machine. His invention was key to the mechanisation of cloth manufacture, and to the advancement of the Industrial Revolution. He was born in 1720 in Lancashire, in the North of England. Largely uneducated and illiterate, he worked as a carpenter and hand-weaver for many years during his early life. At that time, the manufacture of cloth in Lancashire was predominantly a small home-based industry. Most people survived through farming, but kept small spinning wheels and simple devices for weaving, known as looms, at home, where they worked in the evening to add a small amount to their income. In most households it was usual for wives and daughters to produce the thread (or yarn), which the husbands would then weave into cloth on the family loom.",
+    "By the mid-1700s most weavers had adopted the use of John Kay's 1733 invention known as the Flying Shuttle, an innovation which had more than doubled the speed and efficiency of the cloth-making process. But as yarn was still being spun one thread at a time on hand-spinning wheels, families inevitably produced yarn at a slower rate than their looms demanded. Frustrated at the inability of his household to keep him supplied with yarn, Hargreaves set about finding a solution.",
+    "It has been suggested that the inspiration for Hargreaves's invention was that his daughter Jenny was spinning one evening when she knocked over her spinning wheel. The device fell to the floor but kept on spinning, with the spindle – the horizontal rod on to which the yarn was wound – now pointing upright. It occurred to Hargreaves that there was no reason why the spindle had to be horizontal, or indeed why a spinning device should not have several spindles, placed vertically in a row. Although this is an appealing story, records indicate that nobody in Hargreaves's immediate family bore the name of Jenny, and there is likewise no documentary evidence that this event ever occurred.",
+    "What is universally acknowledged, however, is that the concept of the Spinning Jenny derives from an idea which was first thought up by Thomas Highs. His machine consisted of six spindles turned by a single wheel. Highs was an inspired inventor, but he lacked the money to patent his idea, so decided instead to build machines for hire. Hargreaves developed Highs's design further, and by 1764 he had built his own prototype spinning machine.",
+    "Hargreaves's Spinning Jenny was based on a simple metre-square frame, which he had hand-crafted himself out of wood. It increased the number of spindles to eight. These were fixed to one end of the frame, and a corresponding line of rovings – combed wool or cotton to be spun – were attached to a beam underneath. A carriage which ran on wheels along the top of the frame pulled threads from the rovings outwards, extending and twisting them. Then the person in charge of the machine rotated the handwheel, which pulled a cord that set into motion a roller at the bottom of the frame. This in turn drove the spindles, and as the carriage moved back to its starting position the spun yarn was wound onto the spindles.",
+    "Intended originally just for domestic use, the Jenny was simple enough to be operated by a layman or even a strong child. It was small enough to fit into a farmhouse kitchen, but could spin eight threads for the same effort and in the same time that conventional spinning produced one thread. Hargreaves began making the machine for friends and neighbours, and then for a local industrialist who installed them in his large factory. Before long their manufacture had taken off as a fully commercial enterprise. The cost of making yarn on the Jenny was much lower, which had a knock-on effect on what local producers could charge for it. This angered the Lancashire spinning community, who were jealous of Hargreaves's success and feared they would lose their jobs. In 1768 an irate mob gathered and marched to Hargreaves's workshop and his home, where they destroyed his machines and his equipment.",
+    "Following this attack, Hargreaves fled to Nottingham, where there was less suspicion of new technology. There he opened a small mill in partnership with a man called Thomas James, and continued to develop the Jenny. Although a skilled and inventive craftsman, Hargreaves was no businessman, and it was 1770 before he finally took out a legal patent in an effort to protect his idea. By this time, however, Lancashire carpenters were producing copies of the Jenny by the hundred, while others were improving on the original, increasing the number of threads to 80 and beyond. His efforts at taking legal action against these people failed, and by the time Hargreaves died in 1778, there were an estimated 20,000 Spinning Jennys in use in Britain."
+  ],
+  "evidence": [
+    [
+      0,
+      "Most people survived through farming"
+    ],
+    [
+      0,
+      "it was usual for wives and daughters to produce the thread"
+    ],
+    [
+      1,
+      "John Kay's 1733 invention known as the Flying Shuttle"
+    ],
+    [
+      3,
+      "first thought up by Thomas Highs"
+    ],
+    [
+      4,
+      "hand-crafted himself out of wood"
+    ],
+    [
+      5,
+      "a local industrialist who installed them in his large factory"
+    ],
+    [
+      5,
+      "The cost of making yarn on the Jenny was much lower"
+    ],
+    [
+      5,
+      null
+    ],
+    [
+      6,
+      "His efforts at taking legal action against these people failed"
+    ],
+    [
+      4,
+      "the spun yarn was wound onto the spindles"
+    ],
+    [
+      4,
+      "pulled a cord that set into motion a roller"
+    ],
+    [
+      4,
+      "the person in charge of the machine rotated the handwheel"
+    ],
+    [
+      4,
+      "A carriage which ran on wheels along the top of the frame pulled threads"
+    ]
+  ],
+  "explanations": [
+    "Nguồn thu nhập chính là farming (làm nông); dệt vải vào buổi tối chỉ bổ sung một khoản thu nhỏ.",
+    "Wives and daughters thường kéo sợi, còn người chồng dệt sợi thành vải.",
+    "Flying Shuttle của John Kay giúp tăng hơn gấp đôi tốc độ và hiệu quả dệt.",
+    "Ý tưởng ban đầu thuộc về Thomas Highs; Hargreaves phát triển thiết kế của ông.",
+    "Khung máy được Hargreaves làm bằng wood (gỗ).",
+    "FALSE: máy được dùng trong cả nhà máy lớn, nên không chỉ phù hợp với hộ gia đình.",
+    "TRUE: chi phí sản xuất sợi giảm, kéo theo mức giá người sản xuất địa phương có thể thu.",
+    "NOT GIVEN: bài kể đám đông phá máy và Hargreaves bỏ đi sau vụ tấn công, nhưng không nói họ ra lệnh ông rời khu vực.",
+    "TRUE: ông đăng ký bằng sáng chế và khởi kiện những người sao chép, dù không thành công.",
+    "Sợi đã kéo được cuốn lên spindles (các cọc sợi).",
+    "Cord (dây) truyền chuyển động để làm con lăn hoạt động.",
+    "Người vận hành xoay handwheel (bánh quay tay).",
+    "Carriage (bộ phận trượt) di chuyển dọc phía trên khung, kéo sợi qua lại."
+  ]
+}

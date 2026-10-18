@@ -1,0 +1,17 @@
+{
+  "job": "p2-australian-sports-guidelines",
+  "title": "Australian Sports Guidelines",
+  "part": 2,
+  "fingerprint": "990a38123bafe7b41e2234df0bd95286c8ec10f323ce69f3bd3b19676d5a8fb9",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1clbO86Y1-EuAbWdy9rDbLGl_TeuYTVjI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

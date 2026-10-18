@@ -1,0 +1,279 @@
+{
+  "id": "p3-movement-underwater",
+  "title": "Movement Underwater",
+  "part": 3,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Self-propelled motion is a fundamental ability in many organisms. From the beating flagella of tiny plankton keeping afloat near the ocean surface to the playful perfection of dolphins surfing the bow wave of a ship, marine creatures have adopted a huge variety of styles, speeds, and methods of movement. Each species has its own particular need for the evolutionary developments that have taken place, but the basic requirements are the same - finding food, avoiding predation, seeking a mate or a safe place to have young, or migrating to an area with more favorable conditions."
+    },
+    {
+      "label": "B",
+      "text": "The particular physical properties of water that most affect movement are density, viscosity (stickiness) and buoyancy. Seawater is about 800 times denser than air, and nearly 100 times as viscous. Consequently, there is much more resistance to movement than on land, as anyone will know who has ever tried to wade through waist-deep water. However, with density comes much greater buoyancy, so that organisms need spend relatively little energy to stay afloat. As they move through the ocean environment, organisms seek to make wave motion, currents, and natural turbulence work to their advantage, not detriment."
+    },
+    {
+      "label": "C",
+      "text": "Most fishes have swim bladders to help them offset the density of their bodies and so maintain neutral buoyancy with minimal effort. These small, gas-filled chambers contain specialized networks of blood vessels that can add or remove gases such as oxygen and carbon dioxide. The ability to remain indefinitely at a constant depth without expending energy is especially important for slow-moving fishes that seek food in the shallows, or for those that hunt and scavenge in kelp forests. Active swimmers, such as mackerel, skipjacks, and sharks, do not have swim bladders, because they need to change depth more rapidly than they could regulate the gas content. These fishes must swim forever or they will sink."
+    },
+    {
+      "label": "D",
+      "text": "Many animals, especially the tiny zooplankton, have taken to a life of simply drifting near the surface, contentedly feeding on the microscopic phytoplankton and bacteria floating there. Although life among the plankton might seem easy, there is in fact a remarkable range of movement. Some tiny plankton only 1-2 mm in length actually travel long distances each day. Species that live below the level where sunlight reaches, nightly swim hundreds of metres up to the surface to feed in the relative safety of darkness. At dawn they sink back down in an effort to escape predators-a double journey equivalent to a person swimming 700 km a day."
+    },
+    {
+      "label": "E",
+      "text": "It has taken marine creatures millions of years of evolution to overcome the chief deterrent to motion through a dense medium such as water-that of drag resistance. Swimming efficiency has been achieved by minimizing the three types of drag, created by friction, turbulence, and body form. To reduce surface friction, the body must be smooth and rounded. In addition, the scales of most fishes are coated with slime to lubricate their passage through water. To reduce the turbulent drag created as water flows around the moving shape, a rounded front end and tapered back end are required. To reduce form drag, the cross-sectional area of the body should be minimal-a pencil shape would be ideal. The combined shape, taking into account all three types of drag, is the streamlined torpedo form of a tuna, the fastest-swimming of all fishes."
+    },
+    {
+      "label": "F",
+      "text": "Speed is only one of three important aspects of swimming ability. Tuna, swordfish, and mackerel all specialize in fast, steady cruising, but there are many other fishes for whom sustained speed is less important, such as the barracuda. This formidable predator specializes in swift acceleration, and has a far higher success rate for its attacks than its steady-cruising cousins. The freshwater pike, which lurks in the shadows until its quarry is within striking distance and then lunges with great rapidity, achieves a remarkable 70-80 per cent success rate. The third specialization is maneuverability, best demonstrated by the butterfly fishes. These have disk-shaped bodies that permit abrupt changes of track. Many fishes are generalists, being at least partly proficient in all three modes of movement."
+    },
+    {
+      "label": "G",
+      "text": "Almost all fishes swim by undulation. Strong W-shaped muscles along the side of the body progressively contract and relax in sequence, from head to tail and from side to side, creating a traveling horizontal wave. The body is thrown into a series of curves that press sideways and back against the water, producing a forward thrust. The narrow, elongated forms of eels and sea snakes allow easy undulation along their full length. In contrast, the more stubby and inflexible bodies of armor- plated trunkfish use only the swish of their short tail fins to move themselves through the water. Most other fishes combine elements of both methods, coordinating powerful strokes of the tail fins with subtle body undulations."
+    },
+    {
+      "label": "H",
+      "text": "A fish's fins also play a vital and versatile role. The vertically oriented dorsal and ventral fins on the back and belly control sideways motion, while up-and-down motion is controlled by the pectoral and pelvic fins on the fish's sides. Whereas the shape of the tail fin relates directly to speed-crescent-moon shaped for fast cruising, broad and flat for acceleration-the style and arrangement of the other fins are crucial for maneuverability. Puffer fishes scull with tiny, oscillating pectoral fins, while butterfly fishes undulate their broad dorsal and ventral fins, twisting and turning with great precision through intricate coral reefs."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Question 27 – 31 Reading Passage 3 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 27-31 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "a strategy to avoid being attacked"
+        },
+        {
+          "n": 28,
+          "prompt": "how fish are able to keep afloat naturally"
+        },
+        {
+          "n": 29,
+          "prompt": "the physical process by which fish propel themselves ahead"
+        },
+        {
+          "n": 30,
+          "prompt": "a list of reasons why different creatures moves from one place to another"
+        },
+        {
+          "n": 31,
+          "prompt": "how the medium of water both restricts and aids movement"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 32 – 35 Complete the table below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 32-35 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 32
+        },
+        {
+          "n": 33
+        },
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        }
+      ],
+      "type": "notes",
+      "task": "table",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "table": [
+        [
+          "Specialised ability",
+          "Example fish species"
+        ],
+        [
+          "Ability to maintain the same {{32}} over long distances",
+          "Swordfish"
+        ],
+        [
+          "Rapid {{33}}",
+          "Barracuda"
+        ],
+        [
+          "Sudden attack on prey following period of lying in wait",
+          "{{34}}"
+        ],
+        [
+          "Rapid changes of direction",
+          "{{35}}"
+        ]
+      ],
+      "tableHeader": true,
+      "columnWidths": [
+        65.09,
+        34.91
+      ],
+      "title": "Specialization"
+    },
+    {
+      "type": "diagram",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "sourceInstructions": "Questions 36 – 40 Label the diagram below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers on your answer sheet.",
+      "diagram": {
+        "asset": "assets/diagram-p3-movement-underwater-uploaded-v1.png",
+        "width": 927,
+        "height": 666,
+        "alt": "Original diagram for Movement Underwater",
+        "captions": [
+          {
+            "x": 31.12864,
+            "y": 3.84056,
+            "width": 40.23732,
+            "text": "streamlined shape narrowing towards rear to reduce\n{{36}} drag",
+            "lineCount": 2
+          },
+          {
+            "x": 82.20065,
+            "y": 14.83788,
+            "width": 16.50485,
+            "text": "ideal tail fin shape\nfor steady movement\nknown as cruising",
+            "lineCount": 3
+          },
+          {
+            "x": 80.55724,
+            "y": 44.04678,
+            "width": 16.50485,
+            "text": "slime-covered scales\nto minimise surface\nfriction",
+            "lineCount": 3
+          },
+          {
+            "x": 36.31169,
+            "y": 48.53369,
+            "width": 30.52859,
+            "text": "fin controlling {{37}}\nmovement",
+            "lineCount": 2
+          },
+          {
+            "x": 4.89735,
+            "y": 47.38997,
+            "width": 28.37109,
+            "text": "fins controlling\n{{38}} movement",
+            "lineCount": 2
+          },
+          {
+            "x": 11.28135,
+            "y": 61.11463,
+            "width": 25.02697,
+            "text": "fins which are important for\n{{39}} of fish",
+            "lineCount": 2
+          },
+          {
+            "x": 52.3665,
+            "y": 89.70768,
+            "width": 33.22546,
+            "text": "Minimal cross-sectional body area:\nto decrease {{40}} drag",
+            "lineCount": 2
+          }
+        ],
+        "sourceLayoutChecked": true,
+        "sourceId": "file_00000000a25c82068af2cbb5214c892d",
+        "sourceSHA256": "80f74314813ff9b79a9f99c6b0a9c378cf59da812c0d0a58299313d9085b0934",
+        "sourcePage": null,
+        "sourceCrop": [
+          0,
+          0,
+          1536,
+          1108
+        ],
+        "minWidth": 927,
+        "image": {
+          "x": 1.294498,
+          "y": 1.201201,
+          "width": 97.087379,
+          "height": 97.480293
+        },
+        "layoutVersion": 2,
+        "lineHeight": 30,
+        "inputWidth": 180,
+        "backgroundRemoved": true,
+        "artworkVersion": "uploaded-raster-v1",
+        "artworkReview": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+        "artworkSHA256": "dcf02b4069f237e5c3c71c8632ab78bd95d540693cf144f32e1b6da5d315e1a2"
+      },
+      "title": "Mobility, stability and combating different types of drag resistance",
+      "wordLimit": "NO MORE THAN THREE WORDS"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1G4leBrFHGqSLoiRyK3Dw5JEY9DBaTpJ6",
+      "role": "passage-and-questions",
+      "sha256": "5b5c93664ea404356043c25c8b1a627d32f651ef72509e3fc72f953cb960c5ee"
+    },
+    {
+      "id": "file_00000000a25c82068af2cbb5214c892d",
+      "role": "user-supplied-diagram",
+      "sha256": "80f74314813ff9b79a9f99c6b0a9c378cf59da812c0d0a58299313d9085b0934",
+      "filename": "130650.png"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "jobId": "p3-movement-underwater",
+    "method": "ocr-with-explicit-source-reviewed-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 8,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "ocrCorrections": true,
+      "footnotes": true,
+      "date": "2026-10-15"
+    }
+  },
+  "cover": {
+    "asset": "assets/batch3-seaweed-cover.jpg",
+    "alt": "Rong biển",
+    "credit": "Kristin Hoel",
+    "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p1-chilli-peppers",
+  "title": "Chilli Peppers",
+  "part": 1,
+  "fingerprint": "341693fc6c75742beb63488f5c04fa2fdbfaf8fbf975cb0b7b3ed03ff2eb9075",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1tmap82OCsZvH7HTfCHHx6vsvRvNwz1Ic",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-can-business-learn-from-computer-games",
+  "title": "Can business learn from computer games",
+  "part": 3,
+  "fingerprint": "c79725ce75df9d4b5d4450c878713956168e23a3608c00a5a3a852ea27ba3061",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1f7tCzDdN3bNEWTgFWEuaDavkScx0T7Da",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-can-business-learn-from-computer-games.json",
+  "lessonId": "p3-can-business-learn-from-computer-games",
+  "sourceId": "1f7tCzDdN3bNEWTgFWEuaDavkScx0T7Da",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "9be67b7f2280c2c4ac0c22a7f76b0d855b453b53febf46015f25c6eeb0ba2499",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.074
+}

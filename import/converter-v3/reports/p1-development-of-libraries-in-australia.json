@@ -1,0 +1,32 @@
+{
+  "job": "p1-development-of-libraries-in-australia",
+  "title": "Development of libraries in Australia",
+  "part": 1,
+  "fingerprint": "c57d46874847fe0699da56a7ac7d7e1a7a5a2374e2864651fa911a14368f0a68",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1g9ihGt255Y8Nqel7GT4OtrbhEWlR30b0",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-development-of-libraries-in-australia.json",
+  "lessonId": "p1-development-of-libraries-in-australia",
+  "sourceId": "1g9ihGt255Y8Nqel7GT4OtrbhEWlR30b0",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "04b1eb190be07e717fdca971315edb24152cde6531fc375edc426c4e6f9c898d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.202
+}

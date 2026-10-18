@@ -1,0 +1,17 @@
+{
+  "job": "p3-improving-patient-safety",
+  "title": "Improving Patient Safety",
+  "part": 3,
+  "fingerprint": "5cfbce7ea81a2f81f6eff54290983724fa1ec603f41aca5a529a67de6abc4dd0",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1Kmq-uOLaZWq9ihguoKFNjAAfrT2tzGLG",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

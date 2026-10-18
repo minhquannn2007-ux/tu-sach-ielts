@@ -1,0 +1,32 @@
+{
+  "job": "p1-flying-the-coast",
+  "title": "Flying the Coast",
+  "part": 1,
+  "fingerprint": "533d6d607d35a9aac6245a370dae930dd1f1570984f0b0804a25017f00bea039",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1fA8gvaGgptfrDGTKh7UxbvxaUm_eQ9Yb",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-flying-the-coast.json",
+  "lessonId": "p1-flying-the-coast",
+  "sourceId": "1fA8gvaGgptfrDGTKh7UxbvxaUm_eQ9Yb",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "9175aae9b5a0f8ce9ada32bb2c23f33e40eb8700e577d7b66b4bd8e6b81e7703",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

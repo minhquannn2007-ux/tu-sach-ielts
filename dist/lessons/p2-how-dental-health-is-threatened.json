@@ -1,0 +1,185 @@
+{
+  "id": "p2-how-dental-health-is-threatened",
+  "part": 2,
+  "title": "How Dental Health Is Threatened",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Dentists are seeing more and more children and young adults with decaying teeth. This is worrying because good oral health is crucial for good general health. Dental infection can cause a significant amount of pain; in children this can even interfere with their sleep as they are regularly woken up. If the infection continues, there is a good chance that their work at school will suffer and may take time to recover, and in turn, their overall behaviour may decline. Removing teeth is often the only solution for dental decay, but it's a less than ideal one. Children who have teeth taken out can have difficulties when they eat and speak, and it may even affect how well they manage in social situations. Sometimes the decay is so widespread it's now no longer uncommon for infants to get general anaesthesia and have many teeth removed. After this procedure, the chances increase of new adult teeth moving into the wrong place and expensive orthodontic treatment then being required. Last year around 34,000 children, aged one to 14 years, had one or more teeth removed due to decay. Furthermore, children aged eight years and younger had the highest rates of admission to hospital for dental treatment, a figure far higher than for older generations. For the government this is a worrying trend, because the cost of all these dental procedures runs to millions."
+    },
+    {
+      "label": "B",
+      "text": "Dr Rob Beaglehole, principal dental officer at the Nelson Marlborough District Health Board in New Zealand, strongly believes an increased intake of soft drinks and other sugar-sweetened beverages is to blame for dental decay. This is disputed by John Simons, a representative for leading soft drinks manufacturers in New Zealand, who says that the consumption of sugar-sweetened beverages (SSBs) has declined. Simons says, 'Focussing on educating people how to look after their teeth would have a far greater effect than just attributing blame to SSBs.' However, according to Beaglehole, even if people have regular dental check-ups, it doesn't take long for a diet high in sugary drinks to damage a set of healthy teeth irreversibly. 'No amount of brushing your teeth can protect against that huge intake of sugary drinks. Water fluoridation is a positive thing, but all it does is reduce the incidence of tooth decay. It won't prevent it totally.'"
+    },
+    {
+      "label": "C",
+      "text": "We should have seen this coming. Back in 2000, an Italian study noted that the prevalence of early-childhood dental decay was associated with the use of baby bottles filled with sweetened beverages, and inversely associated with milk and yoghurt intake. In 2003, US researchers published a longitudinal study that recorded the dietary intake and dental health of more than 640 children. They found children who had higher intakes of soft drinks were more likely to have dental infection, as were children who had lower intakes of milk at two and three years. SSBs such as soft drinks and energy drinks are particularly damaging, not just because of their sugar but their acidity. On the pH scale, which measures acidity, seven is defined as neutral and lower numbers indicate a greater acidity. Some soft drinks have a pH of 2.9, for example-close to lemon juice and vinegar, and above stomach acid, which has a pH of about two. Acidic drinks cause teeth to eventually dissolve."
+    },
+    {
+      "label": "D",
+      "text": "The New Zealand Beverage Guidance Panel (NZBGP) was established by researchers at the University of Auckland. It is well aware of the effects of SSBs. Twenty-nine percent of children consume four or more SSBs per week, those who consume one can per day have a 3.3 kg higher mean weight, while those who consume two have a 5.3 kg higher weight. SSBs also increase the risk of type 2 diabetes mellitus and cardiovascular problems. Professor Boyd Swinburn would like to see the government introduce a 20% tax on SSBs, and also ensure that educational institutions only provide young pupils with foods and beverages meeting dietary guidelines, and restrict the marketing of unhealthy ones. Simons, however, believes that taxation 'has never been proven to be effective.' He says that higher prices would mean that consumers would then be restricted to cheaper brands or powdered mixes, which could actually lead to an increase in sugar consumption."
+    },
+    {
+      "label": "E",
+      "text": "Is bad dental and general health simply because individuals are making increasingly poor choices? The evidence suggests quite the opposite has happened, Swinburn maintains. Personal accountability has in general increased enormously around the world. People are far more careful than they ever were about workplace health, household health, and health in cars. Yet published clinical trials show that humans eat more when portion sizes are bigger, and food is cheaper and more accessible. Swinburn feels that government inaction is continuing to drive up obesity rates. Hence many industry and government-sponsored solutions continue to focus on educating people to make better food and lifestyle choices, while they ought to be looking to influence the consumer environment through a law change, he complains."
+    },
+    {
+      "label": "F",
+      "text": "Not surprisingly, cost was found to be the single most important factor in influencing food-purchasing choices, according to a study led by Professor Cliona Ni Mhurchu at Auckland University. The food industry knows and exploits this. For example, 'buy one, get one free' campaigns can increase sales by up to 3,000%. This is alarming for Dr Rob Beaglehole. He maintains that if the government wants to educate people, then they need to ensure the industry provides appropriate nutritional data on cartons and bottles. Whatever steps are taken, they must be taken soon."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 14-17 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "examples of non-dental health problems caused by high intake of sugary drinks"
+        },
+        {
+          "n": 15,
+          "prompt": "examples of research studies linking sugary drinks to tooth decay"
+        },
+        {
+          "n": 16,
+          "prompt": "examples of areas where people have become more responsible for their health"
+        },
+        {
+          "n": 17,
+          "prompt": "an explanation of why sugary drinks are harmful beyond their sugar content"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 18 – 21 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-21 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "slots": 1
+        },
+        {
+          "n": 19,
+          "slots": 1
+        },
+        {
+          "n": 20,
+          "slots": 1
+        },
+        {
+          "n": 21,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Pain from dental problems can reduce the amount of {{18}} children get.",
+        "Dental pain may negatively affect children's performance at {{19}} .",
+        "Removing teeth may affect children's {{20}} skills.",
+        "More children than adults now go to {{21}} for dental treatment."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 22 – 26 Look at the following statements (Questions 22-26) and the list of professionals below. Match each professional with the correct statement, A, B, C, or D. Write the correct letter, A, B, C, or D, in boxes 22-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 22,
+          "prompt": "Price is used by the food industry to influence buying behaviour."
+        },
+        {
+          "n": 23,
+          "prompt": "Legal regulation is more effective than public education campaigns."
+        },
+        {
+          "n": 24,
+          "prompt": "Advertising sugary products to children should be restricted."
+        },
+        {
+          "n": 25,
+          "prompt": "Clearer nutritional information should be provided on packaging."
+        },
+        {
+          "n": 26,
+          "prompt": "Teaching people how to care for their teeth is the best solution."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Dr Rob Beaglehole"
+        },
+        {
+          "value": "B",
+          "text": "John Simons"
+        },
+        {
+          "value": "C",
+          "text": "Professor Boyd Swinburn"
+        },
+        {
+          "value": "D",
+          "text": "Professor Cliona Ni Mhurchu"
+        }
+      ],
+      "targetName": "professional",
+      "listTitle": "List of Professionals",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1XOvNTZpvecwY8_BhiHTnITu9pkrPpshu",
+      "name": "How Dental Health Is Threatened.pdf",
+      "role": "passage-and-questions",
+      "sha256": "256343f711de1c0c6da5fc417d340959504aba4f3bf8a89912cb5acfd1f15c34"
+    }
+  ],
+  "conversion": {
+    "version": "3.21",
+    "jobId": "p2-how-dental-health-is-threatened",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf-with-reviewed-layout-adapter",
+    "requiresReview": true,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "tableLayout": true,
+      "date": "2026-10-15"
+    }
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Scientists are looking for ways to reduce tooth decay in New Zealand children",
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

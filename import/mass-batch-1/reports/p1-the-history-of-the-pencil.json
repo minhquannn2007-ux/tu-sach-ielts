@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-history-of-the-pencil",
+  "title": "The History of the Pencil",
+  "part": 1,
+  "fingerprint": "1fa5f6fc698644762a69758760da6ec6345d2fa1406c361df9a3a6b7a5a359c0",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1YBqk992PznJZcKfF3GvKEEod6FFUZY76",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1YBqk992PznJZcKfF3GvKEEod6FFUZY76.json",
+      "ocrConfidence": [
+        96.2,
+        96.4,
+        93.2,
+        96.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.023
+}

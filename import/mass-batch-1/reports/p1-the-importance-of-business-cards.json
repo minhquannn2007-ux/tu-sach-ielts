@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-importance-of-business-cards",
+  "title": "The Importance of Business Cards",
+  "part": 1,
+  "fingerprint": "3702d5320f0254590c439375654e8cddca722cb49971905f5088a89635507e95",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1n-udR69Rj6gbxk2qOX015CVPnEA3fzkk",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1n-udR69Rj6gbxk2qOX015CVPnEA3fzkk.json",
+      "ocrConfidence": [
+        96.5,
+        96.3,
+        96.5,
+        93.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.023
+}

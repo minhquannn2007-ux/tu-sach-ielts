@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-the-car-industry",
+  "title": "The history of the car industry",
+  "part": 1,
+  "fingerprint": "2dd597358d49e07380ad5ee7e0d7e1cde225e07512ce5a4c639a995e2f236473",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1DSOpdrKeiMcyhXsaKtiv6kBMd9azJfXe",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-the-car-industry.json",
+  "lessonId": "p1-the-history-of-the-car-industry",
+  "sourceId": "1DSOpdrKeiMcyhXsaKtiv6kBMd9azJfXe",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "fc831444dbaab264dbc202a738019f544af356a1f929060b0d78dc8179155ca7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

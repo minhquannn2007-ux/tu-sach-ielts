@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-tyne-bridge",
+  "title": "The Tyne Bridge",
+  "part": 1,
+  "fingerprint": "0d2033d01593ecb3c6991ff8bb50aecd2b77903322e25f101e3c111b1a4319dc",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1vXRiyEMeTkQ0UKNcRWvwZPh_7Vj8EpkY",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.145
+}

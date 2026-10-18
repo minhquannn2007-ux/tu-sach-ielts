@@ -1,0 +1,17 @@
+{
+  "job": "p1-a-watchful-eye-on-bridges",
+  "title": "A watchful eye on bridges",
+  "part": 1,
+  "fingerprint": "d926126d0f8b9119390e914bab7d5bab570562e614c8ec78ae3db0623626f3b6",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1KSGRUlIvekRr07QfY9pMF8_btdkSLr1q",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

@@ -1,0 +1,230 @@
+{
+  "id": "p1-the-impact-of-refrigeration",
+  "part": 1,
+  "title": "The Impact of Refrigeration",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "Over the last 150 years, refrigeration's great strides have offered us ways to preserve and cool food. Refrigeration brought distant production centers and the North American population together, tearing down the barriers of climates and seasons. To look at refrigeration's impact on consumers and industry, let us distinguish the refrigeration process from the refrigerator appliance."
+    },
+    {
+      "text": "Refrigeration is the process of cooling a space or substance below environmental temperature. To accomplish this, the process at first removed heat through evaporation, and then later, in the 1850s, with vapor compression that used air, and subsequently ammonia, as a coolant. Although its inventor, Maryland farmer Thomas Moore, introduced the term 'refrigerator' in 1803, the appliance we know today did not appear until the 20th century."
+    },
+    {
+      "text": "Before 1830, food preservation in the United States used time-tested methods: salting, spicing, smoking, pickling and drying. There was little use for refrigeration, since the North American diet consisted mainly of bread and salted meats. Consumer demand for fresh food, especially fresh meat, fish, milk, fruits, and vegetables, brought about diet reform between 1830 and 1860, fueled by the dramatic growth of cities and the improvement in economic status of the general populace. As cities grew, so did the distance between the consumer and the source of the food, which in turn led to the need for refrigerated containers so that the food arrived fresh at its destination."
+    },
+    {
+      "text": "Ice was first shipped commercially out of New York City, where it was cut, to South Carolina in 1799. Unfortunately, there wasn't much ice left when the shipment arrived. New Englanders Frederick Tudor and Nathaniel Wyeth saw the potential for the ice business, and revolutionized the industry through their efforts in the first half of the 1800s. Tudor, who became known as the 'Ice King', focused on shipping ice to tropical climates. He experimented with insulating materials and built ice houses that decreased melting losses from 66 percent to less than 8 percent. Wyeth devised a method of quickly and cheaply dividing the ice into uniform blocks that transformed the ice industry, making it possible to speed up handling techniques in storage, transportation and distribution, and also reducing the amount of surplus ice being discarded."
+    },
+    {
+      "text": "Natural ice supply became an industry in itself: more companies entered the business, prices decreased, and refrigeration using ice became more accessible. By 1879 there were 35 commercial ice plants in America, more than 200 a decade later, and 2,000 by 1909. In 1907, 14-15 million tons of ice were consumed, nearly triple the amount in 1880. However, by the 1890s, using natural ice as a refrigeration agent became a health problem because of pollution and sewage dumping, and good sources became harder and harder to find. Signs of the problem were first evident in the brewing industry. Soon the meat-packing and dairy industries followed with their complaints. Refrigeration technology provided the solution: ice mechanically manufactured, giving birth to mechanical refrigeration."
+    },
+    {
+      "text": "Refrigerated railroad carriages had been used since the 1840s to transport milk and butter. By 1860 refrigerated transport was still limited to these products, and seafood. In 1867, J B Sutherland of Detroit patented his design for a new kind of refrigerated railroad carriage, which was an insulated carriage with ice bunkers in each end. Air came in on the top, passed through the bunkers, and circulated through the carriage by gravity. Thanks to these carriages, certain states began to be associated with their produce: California was known for its grapes, peaches, pears and plums, Florida for its citrus, and Washington and Oregon were renowned for their apples, pears, cherries and raspberries."
+    },
+    {
+      "text": "There were different carriage designs based upon the type of cargo, whether meat or fruit. The first refrigerated railroad carriage to carry fresh produce was built in 1867 by Parker Earle of Illinois. However, it was not until 1949 that a refrigeration system made its way into the road trucking industry by way of a roof-mounted cooling device, patented by Fred Jones."
+    },
+    {
+      "text": "Despite the inherent advantages, refrigeration had its problems. Refrigerants like sulfur dioxide and methyl chloride were causing people to die. The American company Frigidaire discovered a new class of synthetic refrigerants called halocarbons or CFCs (chlorofluorocarbons) in 1928. Despite the company's original intent to keep sole production rights, this was too big an invention to keep to itself. Furthermore, Frigidaire did not have its own manufacturing facility. As a result, by 1930 the entire industry was allowed to use the patents, and refrigeration technology had switched to these new 'safe' agents such as 'Freon', which have since been banned for harming the ozone layer. However, it must be said that without the discovery of CFCs, refrigeration would not have spread so widely."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 4 Look at the following descriptions (Questions 1-4) and the list of dates below. Match each description with correct date, A-I. Write the correct letter, A-I, in boxes 1-4 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Refrigerated vehicles were used to transport fresh produce by road."
+        },
+        {
+          "n": 2,
+          "prompt": "Ice began to be sold and transported around the US."
+        },
+        {
+          "n": 3,
+          "prompt": "The use of dangerous chemicals in refrigeration stopped."
+        },
+        {
+          "n": 4,
+          "prompt": "The word 'refrigerator' was first used."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "1799"
+        },
+        {
+          "value": "B",
+          "text": "1803"
+        },
+        {
+          "value": "C",
+          "text": "1830"
+        },
+        {
+          "value": "D",
+          "text": "1840s"
+        },
+        {
+          "value": "E",
+          "text": "1867"
+        },
+        {
+          "value": "F",
+          "text": "1890s"
+        },
+        {
+          "value": "G",
+          "text": "1928"
+        },
+        {
+          "value": "H",
+          "text": "1930"
+        },
+        {
+          "value": "I",
+          "text": "1949"
+        }
+      ],
+      "targetName": "date",
+      "listTitle": "List of Dates",
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 5 – 8 Look at the following research statements (Questions 5-8) and the list of people below. Match each statement with correct people, A-E. Write the correct letter, A-E, in boxes 5-8 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "containers that could transport ice more efficiently"
+        },
+        {
+          "n": 6,
+          "prompt": "a cooling system that enabled fresh fruit to be transported by train"
+        },
+        {
+          "n": 7,
+          "prompt": "an ice-cutting technique that was less wasteful"
+        },
+        {
+          "n": 8,
+          "prompt": "a method of refrigeration that could be used to transport food by road"
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Thomas Moore"
+        },
+        {
+          "value": "B",
+          "text": "Frederick Tudor"
+        },
+        {
+          "value": "C",
+          "text": "Nathaniel Wyeth"
+        },
+        {
+          "value": "D",
+          "text": "J B Sutherland"
+        },
+        {
+          "value": "E",
+          "text": "Fred Jones"
+        }
+      ],
+      "targetName": "people",
+      "listTitle": "List of People",
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 9 – 13 Complete each sentence with the correct ending, A-F, below. Write the correct letter, A-F, in boxes 9-13 on your answer sheet.",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "n": 9,
+          "prompt": "From 1830 increased consumer demand for fresh food initially led to"
+        },
+        {
+          "n": 10,
+          "prompt": "The development of cities brought about"
+        },
+        {
+          "n": 11,
+          "prompt": "Problems caused by lack of water treatment resulted in"
+        },
+        {
+          "n": 12,
+          "prompt": "Risk of death from refrigerants led to"
+        },
+        {
+          "n": 13,
+          "prompt": "The availability of synthetic refrigerants resulted in"
+        }
+      ],
+      "type": "matching-endings",
+      "bank": [
+        {
+          "value": "A",
+          "text": "the invention of mechanical refrigeration."
+        },
+        {
+          "value": "B",
+          "text": "the widespread use of mechanical refrigeration."
+        },
+        {
+          "value": "C",
+          "text": "the discovery of CFCs."
+        },
+        {
+          "value": "D",
+          "text": "a healthy dietary change."
+        },
+        {
+          "value": "E",
+          "text": "the use of refrigerated transport systems."
+        },
+        {
+          "value": "F",
+          "text": "the establishment of mechanical ice growers."
+        }
+      ],
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1SClQvI3yPTuAdkJzX4LazpOtxIR1UUBD",
+      "role": "passage-and-questions",
+      "sha256": "bf2f165ffc5dec92c7783ee4bfd1491fa33b79b05fad9c8b1b6cba3232871f9e",
+      "name": "The Impact of Refrigeration.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.11",
+    "sourceParagraphCount": 8,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-the-impact-of-refrigeration"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Barbara Krasner-Khait discusses the effect refrigeration has had on the American food industry"
+}

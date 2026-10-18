@@ -1,0 +1,34 @@
+{
+  "job": "p3-putting-the-parts-together-muskets-and-mass-production",
+  "title": "Putting the parts together: muskets and mass production",
+  "part": 3,
+  "fingerprint": "8968c14cb8e7541014369083e674446805c377bb23c7df5beb5384553e6ea0bd",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1IZYe2S_SX2kcWfsgrsj7gLEvEyQk7HGy",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-putting-the-parts-together-muskets-and-mass-production.json",
+  "lessonId": "p3-putting-the-parts-together-muskets-and-mass-production",
+  "sourceId": "1IZYe2S_SX2kcWfsgrsj7gLEvEyQk7HGy",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "mc-one",
+    "summary-drag",
+    "mc-one"
+  ],
+  "sourceHash": "a736311d95ef3a47cdf13f4b25bd1d3a54e9f97140990caf1d0a3a0280eafd9a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

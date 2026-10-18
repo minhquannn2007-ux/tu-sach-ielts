@@ -1,0 +1,200 @@
+{
+  "id": "p2-two-of-a-kind-scientific-research-into-twins",
+  "part": 2,
+  "title": "Two of a kind – scientific research into twins",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The scientific study of twins goes back to the late 19 century when Francis Galton, an early geneticist, realised that there were two types: identical twins born from one egg and non-identical twins that had come from two. That insight turned out to be key, although it was not until 1924 that it was used to formulate what is known as the twin rule of pathology, and twin studies really began. The twin rule of pathology states that any heritable diseases will be more concordant (that is, more likely to be jointly present or absent) in identical twins than in non-identical twins and, in turn, will be more concordant in non-identical twins than in non-twin siblings."
+    },
+    {
+      "label": "B",
+      "text": "In recent years, a social get-together in the USA of families with twins has provided the opportunity for genetics researchers to benefit from two frenzied days of work. In the first weekend of every August, in the town of Twinsburg, Ohio, identical twins of all ages from all over the USA assemble for the world’s largest gathering of their kind. Scientists have become interested in this gathering for one simple reason: identical twins are natural clones; the odd mutation aside, they share 100% of their genes. A gathering such as this can cast light on the relative importance of genetics and environment in shaping particular human characteristics. Twin researchers may find that whether or not someone takes up smoking is largely determined mainly by environmental factors, but how much he smokes is determined by genes. Twin studies are also unravelling the influences in various aspects of human personality. More importantly, twin studies are helping the understanding of diseases such as cancer, asthma, osteoporosis, arthritis and immune disorders, And twins can be used, within ethical limits, for medical experiments. A study that administered vitamin C to one twin and a placebo to the other found that the vitamin had no effect on the common cold."
+    },
+    {
+      "label": "C",
+      "text": "In the past, research using twins has been controversial. In the 1950s, Cyril Burt, a British psychologist who worked on the heredity of intelligence, tainted twin research with results that appear, in retrospect, to have been rather too good. Some of his data on identical twins who had been reared apart was probably faked. The ideological pendulum has swung, however, as the human genome project and its aftermath have turned genes from abstract concepts into real pieces of DNA. The role of genes in sensitive areas such as intelligence is acknowledged by all but a few. The interesting questions now concern how nature and nurture interact rather than which of the two is more important, Twin studies, which are a good way to ask these questions, are back in fashion, and many twins are enthusiastic participants in this research."
+    },
+    {
+      "label": "D",
+      "text": "At one recent Ohio gathering, several groups of researchers were lodged in a special research tent. In one corner of this tent, Paul Breslin, who works at the Monell Institute in Philadelphia, watched over several tables where twins sat sipping clear liquids from cups and making notes, Dr Breslin and his colleagues want to find out how genes influence human perception, particularly the senses of smell and taste and those that result from stimulation of the skin (warmth, cold, pain, tingle, itch and so on). Perception is an example of something that is probably influenced by both genes and experience, Even before birth, people are exposed to flavours such as chocolate, garlic, mint and vanilla that pass intact into the bloodstream, and thus to the fetus. Though it is not yet clear whether such prenatal exposure shapes taste perception, there is evidence that it shapes preferences for foods encountered later in life."
+    },
+    {
+      "label": "E",
+      "text": "On the other side of the tent, Dennis Drayna, from the National Institute on Deafness and Other Communication Disorders, in Maryland, was studying hearing. He wants to know what happens to sounds after they reach the ear, It is not clear, he says, whether sound is processed into sensation mostly in the ear or in the brain. Elsewhere in the marquee, Peter Miraldi, of Kent State University in Ohio, was trying to find out whether genes affect an individual’s motivation to communicate with others. And next to Miraldi was a team of dermatologists from Case Western Reserve University in Cleveland, They are looking at the development of skin diseases and male-pattern baldness. The goal of their later piece of research is to find the genes responsible for making men’s hair fall out."
+    },
+    {
+      "label": "F",
+      "text": "The lesson from all today’s twin studies is that most human traits are at least partially influenced by genes, However, for the most part, the dichotomy between nature and nurture is not very useful, Many genetic programs are open to input from the environment, and genes are frequently switched on or off by environmental signals. It is also possible that genes themselves influence their environment, Some humans have an innate preference for participation in sports. Others are drawn to novelty. Might people also be drawn to certain kinds of friends and types of experience? In this way, a person’s genes might shape the environment they act in as much as the environment shapes the actions of the genes."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "the contribution of twin studies towards research into life-threatening medical conditions"
+        },
+        {
+          "n": 15,
+          "prompt": "the frequency with which identical twins have identical genes"
+        },
+        {
+          "n": 16,
+          "prompt": "the relative probability of twins and other relatives inheriting the same illness"
+        },
+        {
+          "n": 17,
+          "prompt": "a possible reason why research using twins used to lack scientific credibility"
+        },
+        {
+          "n": 18,
+          "prompt": "reference to a study which examined whether a desire to interact with people is inherited"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 19 and 20 Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 19 and 20 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 19,
+          "slots": 1
+        },
+        {
+          "n": 20,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "The first person to distinguish different kinds of twins was {{19}} .",
+        "Using studies of twins for medical research began in {{20}} ."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 21 – 23 Choose THREE letters, A-F. Write the correct letters in boxes 21-23 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "type": "mc-two",
+      "selectionCount": 3,
+      "numbers": [
+        21,
+        22,
+        23
+      ],
+      "prompt": "Which THREE of the following areas were being studied at the Ohio conference?",
+      "options": [
+        {
+          "value": "A",
+          "text": "the effect of genetic make-up on some human senses"
+        },
+        {
+          "value": "B",
+          "text": "food allergies in twins"
+        },
+        {
+          "value": "C",
+          "text": "what causes cancer"
+        },
+        {
+          "value": "D",
+          "text": "whether twins are more or less intelligent than non-twin siblings"
+        },
+        {
+          "value": "E",
+          "text": "hair loss in men"
+        },
+        {
+          "value": "F",
+          "text": "sound perception"
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Choose THREE letters, A-F. Write the correct letters in boxes 24-26 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "selectionCount": 3,
+      "numbers": [
+        24,
+        25,
+        26
+      ],
+      "prompt": "Which THREE of the following are generally accepted by researchers as being true?",
+      "options": [
+        {
+          "value": "A",
+          "text": "For twins born from a single egg, it is likely that both will have an inherited illness, or neither twin will have it."
+        },
+        {
+          "value": "B",
+          "text": "Becoming a smoker is more related to people's upbringing than their genetic make-up."
+        },
+        {
+          "value": "C",
+          "text": "Vitamin C is helpful in curing illnesses like the common cold."
+        },
+        {
+          "value": "D",
+          "text": "Intelligence is partly inherited."
+        },
+        {
+          "value": "E",
+          "text": "Pregnant women who eat sweet rather than savoury foods are more likely to influence their children’s perception of taste."
+        },
+        {
+          "value": "F",
+          "text": "Skin problems cause people to lose their hair."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1ObiRufBfafPXzeEINlocLDuSuPBOwfTN",
+      "role": "passage-and-questions",
+      "sha256": "d0464723a3248ad9f0af513a725affd6091b859d323f4f9c052a6f2316f6c7a5",
+      "name": "Two of a kind – scientific research into twins.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-two-of-a-kind-scientific-research-into-twins"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "The relationship between genes and experience is becoming better understood, through studies of twins"
+}

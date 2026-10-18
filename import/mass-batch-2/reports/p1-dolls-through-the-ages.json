@@ -1,0 +1,17 @@
+{
+  "job": "p1-dolls-through-the-ages",
+  "title": "Dolls through the ages",
+  "part": 1,
+  "fingerprint": "c418a06c588026316af1bc41f38a7bfe1cec15ace1e969e153a467daf53ae5cd",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1HGV7oyN7bgnVME-zDA4QWxBWkB7SXiY3",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

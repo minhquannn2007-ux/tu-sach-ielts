@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-animal-connection-chua-rep",
+  "title": "The Animal Connection(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "3d3daed76828ef72f57c5ecddaf073c357bcbd629ecb549f43afdf1237f4e99c",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

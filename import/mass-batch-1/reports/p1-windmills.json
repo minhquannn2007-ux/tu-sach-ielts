@@ -1,0 +1,32 @@
+{
+  "job": "p1-windmills",
+  "title": "Windmills",
+  "part": 1,
+  "fingerprint": "f4154c197de38992aaa195399a34653d616865b8b7da289e92ef858075ace04f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1OSr-MqKNBBWAVl1gAFz6JwlBOwXAPGGw",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-windmills.json",
+  "lessonId": "p1-windmills",
+  "sourceId": "1OSr-MqKNBBWAVl1gAFz6JwlBOwXAPGGw",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "ddd2ccd3596d41f8986d731a6bca4276e4e17addee34e47552566f0c56c0427a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.043
+}

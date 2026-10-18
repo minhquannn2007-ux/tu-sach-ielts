@@ -1,0 +1,295 @@
+[
+  {
+    "job": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Q41wGQx_co85QFleSKQeO1zISQxqdeha",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p2-ideal-homes-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1DhzOsN6x4qE7wQ0Ghz-aNxmL-GolhDgH",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-keeping-an-eye-on-shoppers",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-keeping-an-eye-on-shoppers.json",
+    "reasons": [
+      {
+        "sourceId": "1icMTjh7frGLtOdQ9LcTrISqdqJkAB_Kz",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-keeping-the-water-away",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1m1wR60BszZyXPihceOcOAGya9_rO7QcK",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-learning-to-sing",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-learning-to-sing.json",
+    "reasons": [
+      {
+        "sourceId": "1VqxRH7VQdvXa3DepWjnEMzsZscRonIoF",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-our-sense-of-smell",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p2-playing-soccer",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vkRFRwvbYZ1tyCN1Yx90Am6c6xinja28",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-fashion-industry",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1jjjDfkjkc2r-e5Ma6xA5EJ-8jkqd9tcr",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-gender-gap-in-new-zealands-high-school-examination-results",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-gender-gap-in-new-zealands-high-school-examination-results.json",
+    "reasons": [
+      {
+        "sourceId": "1asKvRVjrz0fecKQwKc9z7xLBNsm-6yHG",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-importance-of-the-human-urge-to-move",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1wOcUR85D1QjOmti6f43AzOoa_8xydVse",
+        "code": "paragraph-labels",
+        "message": "Missing or repeated paragraph labels"
+      },
+      {
+        "sourceId": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-link-between-culture-and-thought",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-link-between-culture-and-thought.json",
+    "reasons": [
+      {
+        "sourceId": "1_W9TJOH87wC5Pet9STmvxIM6xbmHsyRM",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-power-of-music",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-power-of-music.json",
+    "reasons": [
+      {
+        "sourceId": "1Ww8os6MqXqnNXqzlyfa5irpk152CQpJ0",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-problem-of-waste-in-the-21st-century",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-problem-of-waste-in-the-21st-century.json",
+    "reasons": [
+      {
+        "sourceId": "1HjY-wIl_QdsRnTj0OfzqB3sC7MGyDtwI",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-return-of-monkey-life",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-return-of-monkey-life.json",
+    "reasons": [
+      {
+        "sourceId": "17krp0OLjiCTw2fpdQp6V_FV1NiTcEkIF",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-digital-cinema-of-the-mind",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p3-facial-expressions",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-facial-expressions.json",
+    "reasons": [
+      {
+        "sourceId": "1mhXXgFDQt3KU29vrrQHC1F97dTf8Jx_k",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-marine-diversity",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "15Oh7N9LhYGVoKvU_yjFnKtXEbh4I9Yp8",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-marketing-and-the-information-age",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1KZMltn_JvyKOqLNWevY9R8Qavw1XTUzh",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-memory-champions-or-just-good-at-tricks",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "181b0TZaKXcLZzvy4tS97_b6684sXPClt",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-movement-underwater",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1G4leBrFHGqSLoiRyK3Dw5JEY9DBaTpJ6",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-planets-without-suns",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-planets-without-suns.json",
+    "reasons": [
+      {
+        "sourceId": "1XOtrU5FqCe0bHPte0FMxJEeavANQLoYP",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-saving-languages",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yT_9euiR0g3L4-20IFI2oh4ucEiyk349",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-sea-change-for-salinity",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-sea-change-for-salinity.json",
+    "reasons": [
+      {
+        "sourceId": "1vMcKtXOzujyxvb7mVgNz-pF99hA-k6mw",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-accidental-scientist",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1TrLJhCVQmEvxhtKKJ7q6VKq8rvpN9yn4",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  }
+]

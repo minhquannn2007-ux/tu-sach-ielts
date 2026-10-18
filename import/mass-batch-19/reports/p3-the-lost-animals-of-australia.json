@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-lost-animals-of-australia",
+  "title": "The lost animals of Australia",
+  "part": 3,
+  "fingerprint": "62b8dca952b4651a4865fd4a9e1ec10ea762ecddaf3f4be6d426ec45aaaadf15",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1Wx7-So_wMdgra0BuDFU5AqojtZ6OD1Fi",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'A', 'B', 'C', 'D']; expected ['A', 'B', 'C', 'D']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.064
+}

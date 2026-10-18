@@ -1,0 +1,33 @@
+{
+  "job": "p3-expansion-of-the-worlds-deserts",
+  "title": "Expansion of the world’s deserts",
+  "part": 3,
+  "fingerprint": "9cf0f84021f41fb3e68fe46e617d8ec753e183c7bac796565efd265fdcc9b8a1",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-expansion-of-the-worlds-deserts.json",
+  "lessonId": "p3-expansion-of-the-worlds-deserts",
+  "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+  "questionCount": 14,
+  "types": [
+    "notes",
+    "matching-features",
+    "matching-info"
+  ],
+  "sourceHash": "87178d48c3ada120a95f49f168fec22c899f9a19289f30def7cfb5ec69814b60",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.081
+}

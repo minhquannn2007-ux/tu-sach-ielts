@@ -1,0 +1,33 @@
+{
+  "job": "p3-decisions-decisions",
+  "title": "Decisions, decisions!",
+  "part": 3,
+  "fingerprint": "b28f3803d7d9b7bbdcddf59c967ef851741996d1ba00450f4e29576145f50660",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-decisions-decisions.json",
+  "lessonId": "p3-decisions-decisions",
+  "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "1009987255108a0dd77512c9f43a735dc852ef43c47b48c1c0627861d687f86a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.066
+}

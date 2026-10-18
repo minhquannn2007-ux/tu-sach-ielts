@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-life-of-louis-braille",
+  "title": "The Life of Louis Braille",
+  "part": 1,
+  "fingerprint": "f428231e0ae15a856968b7d11ed3c7018a8c988e5737c7f159b5c3e0fa23e72a",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-life-of-louis-braille.json",
+  "lessonId": "p1-the-life-of-louis-braille",
+  "sourceId": "1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "b8c2fd0e15a14e32df24218ec73160ab3e1b873c817874d792afd7ad5846fb2e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.058
+}

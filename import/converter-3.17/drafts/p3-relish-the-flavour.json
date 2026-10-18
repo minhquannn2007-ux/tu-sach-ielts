@@ -1,0 +1,183 @@
+{
+  "id": "p3-relish-the-flavour",
+  "part": 3,
+  "title": "Relish the flavour",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The concept called 'flavour' is a mix of sensory inputs that include taste, smell, texture, temperature and individual history. Flavour guides feeding behaviour, and is a major element of emotional and aesthetic life. But it is so complex that for a long time only eccentrics studied it. The recent entry of molecular biologists into the field has made it possible to go beyond merely describing perceptions of flavour to examining the biological mechanisms at work. The terms 'taste' and 'flavour' are often used interchangeably. Strictly speaking, however, taste refers to five basic qualities: salty, sour, sweet, bitter and umami (a characteristic of protein-rich foods such as meat). But try holding your nose and popping a strawberry-flavoured sweet in your mouth. You will taste the sweetness, but not the strawberry until you let go of your nose and the volatile chemicals from the confectionery enter the nostrils. Then you get the flavour. As if that were not complex enough, in the case of irritants - for example, carbonated drinks or the coolness of mint - detection occurs with the help of the 'trigeminal sense', which is part of the touch system adapted for the mouth. The brain receives news about what is in the mouth from receptors - proteins specialised in picking up particular molecules - located throughout the oral and nasal cavities. Receptors for smell were identified in the early 1990s, and for sweet, bitter and umami only in the past few years. But receptors may be only part of the story."
+    },
+    {
+      "label": "B",
+      "text": "Nobody knows how the brain distinguishes a mouthful of milk from a bite of bread, or a chicken dish in an Indian restaurant from one bought at a supermarket. Some scientists agree that the brain's response to stimuli is a simple map of the receptors in the tongue and nose, a more compelling theory suggests that the overall patterning of signals together creates a sense of particular flavours."
+    },
+    {
+      "label": "C",
+      "text": "There are, however, no useful algorithms* to measure brain inputs and outputs against subjective reports of flavour sensations. For flavour and fragrance companies, being able to predict what customers will like is still their greatest ambition. Like colourists grinding and mixing pigments, professional flavourists assemble the 50–100 components that are typical for a flavour into the finished product. Acceptability is measured using panels of expert and consumer taste-testers in a process called sensory analysis. Trained testers might be asked to rate the taste of vanilla ice-cream according to standards for sweetness and vanilla flavour, whereas consumer testers simply register whether they like it. The procedure is an iterative one, with several rounds of refinement between testers and flavourists, until the product is deemed to have an acceptable taste. 'Unfortunately,' says Alex Häusler, Director of Flavour Excellence at Givaudan, Geneva, 'people are born with different sets of taste receptors and different ways of interpreting them and this has unfortunate consequences for the quality of the data.'"
+    },
+    {
+      "label": "D",
+      "text": "Texture contributes substantially to the pleasure of eating, yet very little is known about it. Julian Vincent of the University of Bath, in the UK, is one of a small band of academic researchers who are trying to relate the results of mechanical tests on, for example, vegetables to our experience of, for example, crispness. The dynamics of flavour release have also proved difficult to assess. Researchers at the University of Nottingham, in the UK, have developed and commercialised an instrument called MS Nose that sucks in breath from a person’s nose while they are chewing gum, for instance, and analyses the molecules it finds there."
+    },
+    {
+      "label": "E",
+      "text": "Physiological studies can reveal patterns of electrical activity swishing around the brain in real time, says Dr Blake of the company Firmenich in Geneva. The idea is to get a person to eat something and see what parts of their brain light up. But the technologies are not yet sensitive enough, nor are the ways of analysing the data meaningful enough, for the methods to be useful in studies of flavour. An alternative approach, says Dr Beauchamp of the Monell Chemical Senses Institute, Philadelphia, USA, would be to focus on specific genes in animals and alter them to reveal the pathways that the brain uses in integrating data from the receptors. At present, finding the right enhancer or blocker for a given receptor means looking at thousands of compounds, a task better suited to automated testing than the caprices of the human tongue. Senomyx, a young biotech company in California, intends to use such technology, called 'high-throughput screening', to test legions of compounds against taste and smell receptors. Another biotech firm, Linguagen of New Jersey, USA, is researching flavour modifiers, particularly bitterness blockers."
+    },
+    {
+      "label": "F",
+      "text": "Innate aversions to sour and bitter substances - caffeine, nicotine and strychnine, for example - and a liking for sweet and salty ones reflect the wise choices that humanity's ancestors made in a hostile environment. Beyond these protective and nutritional reflexes, however, taste preferences are largely a matter of culture and learning. 'The taste system is reasonably compliant,' says Tom Scott, a neurophysiologist at San Diego State University in California. 'Cultures are kept distinct by cuisines, and cuisines are distinguished by taste.' Flavour appears to belong to a family of subtle perceptions - such as recognising a voice or telling faces apart. But how does the central nervous system process all the information needed to make these fine-grained distinctions? Identifying algorithms in the brain that transform taste into flavour, and comparing them with how people process complex sounds or tactile sensations, might enable us to gain a deeper understanding of how perception in general really works."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 31 Reading Passage 3 has six sections, A–F. Which section contains the following information? Write the correct letter, A–F, in boxes 27–31 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "the process by which a new food flavour is agreed on"
+        },
+        {
+          "n": 28,
+          "prompt": "the reason for some of our natural preferences"
+        },
+        {
+          "n": 29,
+          "prompt": "the reason why flavour has not been researched in depth in the past"
+        },
+        {
+          "n": 30,
+          "prompt": "an explanation for lack of consistency in sensory analysis data"
+        },
+        {
+          "n": 31,
+          "prompt": "the possible wider benefits to scientific knowledge of research into flavour"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 32 – 36 Do the following statements agree with the information given in Reading Passage 3? In boxes 32-36 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 32,
+          "prompt": "Both taste and flavour are experienced only in the mouth."
+        },
+        {
+          "n": 33,
+          "prompt": "Some elements in flavour involve neither taste nor smell."
+        },
+        {
+          "n": 34,
+          "prompt": "Ice-cream manufacturers have been at the forefront of research on flavour."
+        },
+        {
+          "n": 35,
+          "prompt": "It is possible to accurately match brain activity to the experience of particular flavours."
+        },
+        {
+          "n": 36,
+          "prompt": "Research is being done into ways of controlling our experience of particular tastes."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 37 – 40 Look at the following research activities (Questions 37–40) and the list of organisations below. Match each research activity with the correct organisation, A–F. Write the correct letter, A–F, in boxes 37–40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 37,
+          "prompt": "matching brain activity and particular food input"
+        },
+        {
+          "n": 38,
+          "prompt": "the use of genetic modification to track flavour signals"
+        },
+        {
+          "n": 39,
+          "prompt": "matching the textural qualities of food and our sensations"
+        },
+        {
+          "n": 40,
+          "prompt": "identifying the elements in certain smells"
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Givaudan"
+        },
+        {
+          "value": "B",
+          "text": "University of Bath"
+        },
+        {
+          "value": "C",
+          "text": "University of Nottingham"
+        },
+        {
+          "value": "D",
+          "text": "Firmenich"
+        },
+        {
+          "value": "E",
+          "text": "Monell Chemical Senses Institute"
+        },
+        {
+          "value": "F",
+          "text": "Linguagen"
+        }
+      ],
+      "targetName": "organisation",
+      "listTitle": "List of Organisations",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1baiEAjF9717DHMh73T3RYXEXIfvMDRPn",
+      "role": "passage-and-questions",
+      "sha256": "7ba9f403574c34b46a6bae45186bce733461c1c5b7880be8c4e7b4ec24b9135f",
+      "name": "Relish the flavour.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.17",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-relish-the-flavour"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Researchers are finally solving the mystery of how the brain perceives flavour",
+  "footnotes": [
+    "* algorithm: a set of rules or procedures which must be followed in order to calculate the answer to a particular problem"
+  ]
+}

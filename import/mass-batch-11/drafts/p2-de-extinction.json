@@ -1,0 +1,190 @@
+{
+  "id": "p2-de-extinction",
+  "part": 2,
+  "title": "De-extinction",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "For thousands of years a wild goat known as a bucardo endured harsh winters in the range of mountains that divides France from Spain, surviving on leaves and stems. As humans began to settle, hunting drove down the bucardo population over several centuries. By 1999 a single bucardo remained – a female nicknamed Celia. A team led by wildlife veterinarian Alberto Fernández-Arias clipped a tiny radio around her neck, and released her into the wild. Nine months later came a long beep: this told them that Celia had died. The bucardo became officially extinct. But Celia's cells lived on, preserved in laboratories. Over the next few years, a team of reproductive physiologists led by José Folch injected nuclei from those cells into goat eggs, then implanted the eggs in surrogate mothers. After 57 implantations, only seven animals had become pregnant, and of those seven pregnancies, only one continued to full term. And then, as Fernández-Arias held the newborn bucardo, he could see that she was struggling and despite efforts to help her breathe, the clone died. So far, Celia's clone is the closest anyone has gotten to bringing an extinct species back to life. Since then, remarkable advances have been made in manipulating stem cells, and in reconstructing lost genomes, the complete set of genetic material of an organism. It seems that de-extinction is within reach."
+    },
+    {
+      "label": "B",
+      "text": "In the popular imagination, people think of dinosaurs being brought back to life. In reality the only species we can hope to revive are those that died within the past few tens of thousands of years and left behind remains containing intact cells, or enough ancient DNA to reconstruct the creature's genome. Because of the natural rates of decay, retrieving the full genome of dinosaurs is not feasible. The species theoretically capable of being revived all disappeared while humanity was climbing toward world domination. ‘If we're talking about species that we drove extinct, then I think we have an obligation to try to do this,’ says Michael Archer, a palaeontologist at the University of New South Wales in Australia."
+    },
+    {
+      "label": "C",
+      "text": "Other scientists who favour de-extinction argue that there will be concrete benefits. Most pharmaceutical drugs, for example, have been derived from natural compounds found in wild flowers and shrubs, some of which are now also vulnerable to extinction. Some extinct animals performed vital services within their ecosystems, which might do well from their return. Siberia, for example, was once home to mammoths and other grazing mammals. Then, the landscape was not moss-dominated tundra but grassy steppes. Russian ecologist Sergey Zimov argues that this was no coincidence: the mammoths and numerous herbivores maintained the grassland by breaking up the soil and fertilizing it with their manure. Once they were gone, moss took over and transformed the grassland into less productive tundra."
+    },
+    {
+      "label": "D",
+      "text": "When Fernández-Arias first tried to bring back the bucardo ten years ago, the cloning tools at his disposal were very basic, but over the past decade scientists have improved their success in cloning non-extinct animals with the help of advanced scientific techniques. Korean and Russian researchers now aim to clone a mammoth, and have found pieces of mammoth tissue in Siberian ice. They need a cell that's still alive, but most scientists doubt that one could have survived the freezing temperatures. However, Insung Hwang, the Korean team leader, says ‘If you don't try, how would you know that it's impossible?’"
+    },
+    {
+      "label": "E",
+      "text": "Though the revival of a mammoth is no longer mere fantasy, the reality is still years away. For another extinct species, the time frame may be shorter. A group of scientists led by Michael Archer are hoping to revive a type of Australian frog. Archer previously directed a highly publicized attempt to clone the thylacine, a marsupial carnivore that went extinct in the 1930s, but this failed. Wary of the expectations that such high-profile experiments attract, Archer kept quiet about his team's new efforts until they had some preliminary results to offer; in fact they have now produced a number of embryos."
+    },
+    {
+      "label": "F",
+      "text": "But just because we potentially can bring back extinct species, does this mean we should? ‘There is clearly a terrible urgency to saving threatened species,’ says John Wiens, an evolutionary biologist at Stony Brook University in New York. ‘As far as I can see, there is little urgency for bringing back extinct ones. Why invest dollars in bringing a handful of species back from the dead, when there are millions still waiting to be protected?’ There is also the issue of whether a clone is truly an example of its species, or just an engineered curiosity. And would it need to be introduced into the wild to be truly de-extinct?"
+    },
+    {
+      "label": "G",
+      "text": "Conservation biologist Stuart Pimm points to the huge effort that went into restoring the Arabian oryx to the wild. After the animals were placed in a refuge, almost all were killed by hunters, making the project a failure. ‘We had the animals, and we put them back, and the world wasn’t ready,’ says Pimm. ‘Having the species solves only a tiny part of the problem.’ Even if de-extinction proved a logistical success, what impact would the introduction of a genetically engineered organism into the environment have? Could a revived species spread a virus that might wipe out other species? De-extinction advocates are pondering these questions and most believe they need to be resolved before any project moves forward."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-17 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reason why one research group has been cautious about announcing their current project"
+        },
+        {
+          "n": 15,
+          "prompt": "an explanation of why certain creatures can be brought back to life whilst others never can"
+        },
+        {
+          "n": 16,
+          "prompt": "the mention of a direct advantage to humans of the survival of certain plants"
+        },
+        {
+          "n": 17,
+          "prompt": "a comparison between the differences in technology available for use with early and current cloning methods"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 18 – 22 Complete the sentences below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 18-22 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "slots": 1
+        },
+        {
+          "n": 19,
+          "slots": 1
+        },
+        {
+          "n": 20,
+          "slots": 1
+        },
+        {
+          "n": 21,
+          "slots": 1
+        },
+        {
+          "n": 22,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD AND/OR A NUMBER",
+      "content": [
+        "The bucardo lived in the {{18}} on the French-Spanish border.",
+        "Bucardo numbers were dramatically reduced as {{19}} continued in the area.",
+        "Conservationists used a kind of {{20}} to keep track of the last bucardo.",
+        "Scientists successfully injected the nuclei from bucardo cells into a total of {{21}} goat eggs.",
+        "The bucardo clone died because she could not {{22}} properly."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Look at the following researchers (Questions 23-26) and the list of views below. Match each researcher with the correct view, A-F. Write the correct letter, A-F, in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "prompt": "Michael Archer"
+        },
+        {
+          "n": 24,
+          "prompt": "Sergey Zimov"
+        },
+        {
+          "n": 25,
+          "prompt": "John Wiens"
+        },
+        {
+          "n": 26,
+          "prompt": "Stuart Pimm"
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Unless we continue with our research, we will never know if cloning is really feasible."
+        },
+        {
+          "value": "B",
+          "text": "There is little point bringing extinct animals back to life if people continue to harm them."
+        },
+        {
+          "value": "C",
+          "text": "Laws should be introduced to restrict certain developments in cloning."
+        },
+        {
+          "value": "D",
+          "text": "It is our duty to bring back to life animals that people wiped out."
+        },
+        {
+          "value": "E",
+          "text": "De-extinction could benefit not only animal species but also the environment they lived in."
+        },
+        {
+          "value": "F",
+          "text": "Researchers should work to save endangered species rather than recreate extinct ones."
+        }
+      ],
+      "targetName": "view",
+      "listTitle": "List of Views",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1VklmsouGIOi4ltzH_Ocp9_0DOUpIQ_C6",
+      "role": "passage-and-questions",
+      "sha256": "4bb80c165b0c576c0dbce93e199b9dc62fb82f5f29d27494a4f4cd592cc7c293",
+      "name": "De-extinction.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.11",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-de-extinction"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Bringing an extinct species back to life is no longer a dream, but is it a good idea?"
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-tuatara-past-and-future",
+  "title": "The tuatara - past and future",
+  "part": 3,
+  "fingerprint": "0cbd5c76d5b1144b5da98736f1c2094f97d00b201b091773b7e648b57099efac",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1uSpapvNqVYxxM1cibQX8m9hqy8ZmDn5n",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1VdbGHTHs0LCcE-l5XQtxVvX7V3sv2-NQ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

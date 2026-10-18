@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-development-of-the-bicycle",
+  "title": "The development of the bicycle",
+  "part": 1,
+  "fingerprint": "893db26673db22e6841dc04d150404bd518dc04a076057030c7b8b3a1014c2fb",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1pdTmnassupxETSft-XxIe2zz_2qeP4_-",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1pdTmnassupxETSft-XxIe2zz_2qeP4_-.json",
+      "ocrConfidence": [
+        95.9,
+        96.3,
+        90.4,
+        95.6
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.014
+}

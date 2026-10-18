@@ -1,0 +1,17 @@
+{
+  "job": "p2-how-to-be-happy",
+  "title": "How to be Happy",
+  "part": 2,
+  "fingerprint": "690b0d281f45783cb6f313a2bf371ca29d04caf4f3a9bad51d2ca8fe665ef8d1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1ib479MZk_Bp9PUA-VAz5-v1RIzEl9q4m",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

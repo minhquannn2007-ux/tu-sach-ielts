@@ -1,0 +1,17 @@
+{
+  "job": "p1-reef-life-on-the-yongala",
+  "title": "Reef life on the Yongala",
+  "part": 1,
+  "fingerprint": "481478782fb49e8e485a9a5ae6583b2e495d5a70ccbb5fa8969237aec3e49692",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1HmoU5-7m85RN9UTGb7DKa4g--3bMll11",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.031
+}

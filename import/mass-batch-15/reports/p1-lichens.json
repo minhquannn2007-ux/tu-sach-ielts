@@ -1,0 +1,32 @@
+{
+  "job": "p1-lichens",
+  "title": "Lichens",
+  "part": 1,
+  "fingerprint": "724867ffb7f1e5f96ac17730314148a3acf039df98520482e19cde213a2e221b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1BS43XElks1hVPYKZSc6kwFTbRceViaXq",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-lichens.json",
+  "lessonId": "p1-lichens",
+  "sourceId": "1BS43XElks1hVPYKZSc6kwFTbRceViaXq",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "5a30c9d67086011d720c89dff2232350878e17ecec5e0328f27a0750fe20e258",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.079
+}

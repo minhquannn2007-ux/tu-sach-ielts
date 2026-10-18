@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-power-of-music",
+  "title": "The power of music",
+  "part": 2,
+  "fingerprint": "dfbc2d41520eebe1f2efad943f7dee4313574fe796e4225a57ced3dcf2e76700",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1Ww8os6MqXqnNXqzlyfa5irpk152CQpJ0",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-power-of-music.json",
+  "lessonId": "p2-the-power-of-music",
+  "sourceId": "1Ww8os6MqXqnNXqzlyfa5irpk152CQpJ0",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "7d3b2fac1c374a4787c72df2a1b8af2959eb1814d97bf0c28dcaba0a55227640",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.076
+}

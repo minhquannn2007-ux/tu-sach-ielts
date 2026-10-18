@@ -1,0 +1,494 @@
+[
+  {
+    "job": "p3-book-review-the-discovery-of-slowness",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vUxWxCzHrw3-s1LeW8ljEbeXHne-d52M",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-conformity",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-conformity.json",
+    "reasons": [
+      {
+        "sourceId": "16GIdknlBQfJ4rcEMkvxbJVN4kJ2iXXRB",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-crossing-the-threshold",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-decisions-decisions",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-game-theory",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1MC26oTgvrDy4HaYTQCNmhZ-N64JVjxKt",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-a-prehistoric-predator-took-to-the-skies",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "13sKLZV8rK-RkL498vmSDObpUfSCxeLkr",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-should-reading-be-taught",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'ix']; expected ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix', 'x']"
+      }
+    ]
+  },
+  {
+    "job": "p3-jean-piaget-1896-1980",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1fyL3eQr7wS6By47PmGv8uMdD3e5QFbuR",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-lawrence-johnston-and-hidcote-garden",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-lawrence-johnston-and-hidcote-garden.json",
+    "reasons": [
+      {
+        "sourceId": "1-Djh5q-EtbqkGDa7LHM_XEe_mcxvJpWx",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-let-s-teach-them-how-to-teach",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1mx2w8amNLDANtnLFoaeoG3XtLs-NDybs",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-lets-all-be-friends",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-living-dunes",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1cUMRetOaL8AGAGYvZKkyHFJuAY0B2McQ",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-look-who-was-talking",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1B4bkDyxnuTrMRi6I4vwdjyHjQcFjLFVa",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-looking-at-daily-life-in-ancient-rome",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-looking-at-daily-life-in-ancient-rome.json",
+    "reasons": [
+      {
+        "sourceId": "1ApfkucHDTbQWSTgk-Q0EfFl-ES7EM4rw",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-looking-for-inspiration",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-looking-for-inspiration.json",
+    "reasons": [
+      {
+        "sourceId": "10CFQPeq_EctBJBhMqRNWKBQlZoyLpE1L",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-manage-your-energy-not-your-time",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-mapping-the-mind",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1HnsvZM4HyFYLwG9WGnTaqFnYvjL0GCMn",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-movement-underwater",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1G4leBrFHGqSLoiRyK3Dw5JEY9DBaTpJ6",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p3-multi-purpose-meeting-spaces",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-petrol-power-an-eco-revolution",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Ey_L4wmO2sgx9j5rEfCVIZItBAS0CFIo",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F', 'H', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']"
+      }
+    ]
+  },
+  {
+    "job": "p3-rating-female-leaders",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1tTv5UypJ0EP-dmBbYaDvnT5mET4eESOA",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-rebranding-art-museums",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-risk-taking",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-sea-change-for-salinity",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vMcKtXOzujyxvb7mVgNz-pF99hA-k6mw",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p3-strategies-for-helping-children-to-learn",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-strategies-for-helping-children-to-learn.json",
+    "reasons": [
+      {
+        "sourceId": "1XFK14yz53zKPhT-GZJO4s7RNlarD_cfM",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-termite-mounds",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1j7RzKzBoMDj0zOCABsGQTMhGKMfJ8vyU",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-accidental-scientist",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-cause-of-linguistic-change",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-cause-of-linguistic-change.json",
+    "reasons": [
+      {
+        "sourceId": "1LjOdU7D1RxvSo3VTLXdZku_t3ZurUNsV",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-flouridation-controversy",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1hMJPuCxJLg07OtZfDflsjmzI5LRSfT2H",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-long-view",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Hn9Wmlq2K5qQAadSHRumkrivYQU9l6ad",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-new-zealand-writer-margaret-mahy",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-peopling-of-patagonia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1f56Zz9Puy7jngNkeEUiVHizEZGQdXDHj",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-piraha-people-of-brazil",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-piraha-people-of-brazil.json",
+    "reasons": [
+      {
+        "sourceId": "1ETT59kz4ah5VZDZRkFm5cgFJVMt7qi0v",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-robbers-cave-study",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1jtShNSS7A68uY-S0OCEEO7vbI4Y8pFbY",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-science-of-sleep",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-science-of-sleep.json",
+    "reasons": [
+      {
+        "sourceId": "1UaJQZcCAIOlO0Iezb-1E0cO3UctQOExt",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-search-for-extra-terrestrial-life",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1KA8MHo0kP3OQUq638uSYkYqjn200GEjm",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-travelling-plants",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ixA7GPGZvbbBYBLxZyrirOzw-9kTKeoC",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-whale-culture",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1IdvlWW-1cp-QKe3Suj5FcsCnSfUtE-u7",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-is-history",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-is-social-history",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-makes-us-human",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1KT6QYEfkrxzEjIdu5lSmEdTjKDBQkDfk",
+        "code": "paragraph-labels",
+        "message": "Missing or repeated paragraph labels"
+      }
+    ]
+  }
+]

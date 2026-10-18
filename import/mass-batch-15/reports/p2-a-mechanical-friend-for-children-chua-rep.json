@@ -1,0 +1,33 @@
+{
+  "job": "p2-a-mechanical-friend-for-children-chua-rep",
+  "title": "A mechanical friend for children(CHƯA REP)",
+  "part": 2,
+  "fingerprint": "7cfc6794e4bb0aebd1100a9023defe236c1eb11b8be93688072b9838cad895f6",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1T88ZuyEr8_fy9DF1tTeQDdjKR09zWqnC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-a-mechanical-friend-for-children-chua-rep.json",
+  "lessonId": "p2-a-mechanical-friend-for-children",
+  "sourceId": "1T88ZuyEr8_fy9DF1tTeQDdjKR09zWqnC",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "1b315736fdec33b90c7fc7a48f9238e01ba08bf57ba2c62d0cacd8d0260638d1",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.063
+}

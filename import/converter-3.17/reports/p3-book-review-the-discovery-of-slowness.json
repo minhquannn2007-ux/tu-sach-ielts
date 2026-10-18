@@ -1,0 +1,22 @@
+{
+  "job": "p3-book-review-the-discovery-of-slowness",
+  "title": "Book Review: The discovery of Slowness",
+  "part": 3,
+  "fingerprint": "fb0881e6c91e751eadcd861b279d963d62d9ad33b3d1144e0ff960165fe43131",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1vUxWxCzHrw3-s1LeW8ljEbeXHne-d52M",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Le7JE7-ldF3q051EVdsR-AH_4qRNoJ4w",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.008
+}

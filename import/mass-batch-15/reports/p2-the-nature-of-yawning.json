@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-nature-of-yawning",
+  "title": "The nature of yawning",
+  "part": 2,
+  "fingerprint": "19431b2bfd96b5b3f6d193be6f898467ba3ebd918c550ef77d85b9c37209eae1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "14lIP3SVmk1JZyF-NAqO5yC0ydhNvme2L",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-nature-of-yawning.json",
+  "lessonId": "p2-the-nature-of-yawning",
+  "sourceId": "14lIP3SVmk1JZyF-NAqO5yC0ydhNvme2L",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "f6b2714737bcde56a461f3dc7c479cea4b6d7d4d01aeefaa65c382d99671ae31",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

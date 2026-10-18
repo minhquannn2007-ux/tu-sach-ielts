@@ -1,0 +1,22 @@
+{
+  "job": "p2-considerate-technology-chua-rep",
+  "title": "Considerate Technology (chưa rep)",
+  "part": 2,
+  "fingerprint": "60edac86005e5c3fb4e3224f9a75ab89286dd5ac0d6c61d9f2fcd7475ef41336",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "14frXmdnqyhyXnN5qgZEPmq2uNHd9GVdE",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1Leg6Q0bwOJzrFCNr_e3OB7qrwh3pqz_h",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.062
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p2-the-attraction-of-video-games-chua-rep-heading-cho-sapo-hep-lai",
+  "title": "The attraction of video games",
+  "part": 2,
+  "fingerprint": "468a4fc01f2195728432d6b6888bb101f465f907cde39bd3ea5a66511b5bd608",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1WgrrK4rnIXPXj16Y8u1GHc8MvHh1Sk9w",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C', 'D']"
+    },
+    {
+      "sourceId": "1QzxWZNs-uOxu8d0XZ-GU5L7yzfEAYh0x",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.049
+}

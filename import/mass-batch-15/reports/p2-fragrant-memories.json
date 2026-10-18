@@ -1,0 +1,17 @@
+{
+  "job": "p2-fragrant-memories",
+  "title": "Fragrant memories",
+  "part": 2,
+  "fingerprint": "9d476d77bad343420c12913015dc045a101d8523a449f8eadcd8c4f5653141a9",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1i8iz0broCXLUnAdBM4Waz5jYFD9D5HmA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

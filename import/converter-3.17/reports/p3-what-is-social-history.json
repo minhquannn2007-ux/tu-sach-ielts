@@ -1,0 +1,22 @@
+{
+  "job": "p3-what-is-social-history",
+  "title": "What is social history?",
+  "part": 3,
+  "fingerprint": "226ab3ac135e58f9b9ee4c958c760cb8c48366065553bafb14629ce2293a2f42",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1wC695tD2f7CIumTk5oWUuQEN4XasUh_t",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.075
+}

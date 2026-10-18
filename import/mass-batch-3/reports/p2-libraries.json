@@ -1,0 +1,32 @@
+{
+  "job": "p2-libraries",
+  "title": "Libraries",
+  "part": 2,
+  "fingerprint": "0ab634167e5431745fb783621d696a5c09912db2dbdc8aca58ff9829121e31f0",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1Xo12GvaDa1AJgK8AtxXWEyjtEx-N_6rf",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-libraries.json",
+  "lessonId": "p2-libraries",
+  "sourceId": "1Xo12GvaDa1AJgK8AtxXWEyjtEx-N_6rf",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "914eaa993619b65e507cd87c492db3e5ea3d89399bc4c2ec7951bf54fe3329e5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.068
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-petrol-power-an-eco-revolution",
+  "title": "Petrol power: an eco-revolution?",
+  "part": 3,
+  "fingerprint": "18acf99e35658e981945fb4ab9620d74928388ba64472229a0afd46b371fc77d",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1Ey_L4wmO2sgx9j5rEfCVIZItBAS0CFIo",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-petrol-power-an-eco-revolution.json",
+  "lessonId": "p3-petrol-power-an-eco-revolution",
+  "sourceId": "1Ey_L4wmO2sgx9j5rEfCVIZItBAS0CFIo",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "6a16577aa748f3206b9a613843da1b0f2fb79b16f71fa6803e8e2b25cec23069",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.079
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-discovering-ancient-cities",
+  "title": "Discovering ancient cities",
+  "part": 1,
+  "fingerprint": "79da43dd2321113277e2a8f1c4b64523c192e577d2f9ba9d15bfde988a049519",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1TW6fXYSCd2XVz3OdOiaT2Vs-atSd-a0P",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-discovering-ancient-cities.json",
+  "lessonId": "p1-discovering-ancient-cities",
+  "sourceId": "1TW6fXYSCd2XVz3OdOiaT2Vs-atSd-a0P",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "39fdc32d16fce7d46864b972f1718235e0d7df2fa4f9bc94762e63335776166c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.089
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-sunlight-soap-story",
+  "title": "The Sunlight Soap Story",
+  "part": 1,
+  "fingerprint": "7418628f2992135ba3c8be30db37d7218de76d43eb70861bde3f7f22ffadc065",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1NxiAbvkIPUttAAbxJSXPDXLneSgfJ4X-",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-sunlight-soap-story.json",
+  "lessonId": "p1-the-sunlight-soap-story",
+  "sourceId": "1NxiAbvkIPUttAAbxJSXPDXLneSgfJ4X-",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "3925bb33cc13667c3fc2f21e6609dd2355c950a4962eadd06c7c4a147eaab650",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.046
+}

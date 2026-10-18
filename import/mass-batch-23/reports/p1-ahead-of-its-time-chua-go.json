@@ -1,0 +1,17 @@
+{
+  "job": "p1-ahead-of-its-time-chua-go",
+  "title": "Ahead of its time(CHƯA GÕ)",
+  "part": 1,
+  "fingerprint": "b0c018ac5a3c709234a7bb78124115e7e209f92bcd7c6bc3bcb790ee022d2265",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1NNkZkdrh54_IIEasMlmIQTCW7eY0kH_u",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

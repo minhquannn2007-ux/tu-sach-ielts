@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-contentious-role-of-public-art",
+  "title": "The contentious role of public art",
+  "part": 3,
+  "fingerprint": "b96a41dfbab6505b8bda04be5e6bb535d03e86860c9366d882b2067637383178",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1mC0v-za4JdQMY8DuMrZEgviOc3K4zaKe",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-contentious-role-of-public-art.json",
+  "lessonId": "p3-the-contentious-role-of-public-art",
+  "sourceId": "1mC0v-za4JdQMY8DuMrZEgviOc3K4zaKe",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "matching-endings"
+  ],
+  "sourceHash": "270a75f7ef0d531fc6a182bf04f4140fd67f5a8d05ef0f698a857c9a34f22cec",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.049
+}

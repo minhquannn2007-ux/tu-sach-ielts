@@ -1,0 +1,22 @@
+{
+  "job": "p1-developmental-tasks-of-normal-adolescence",
+  "title": "Developmental Tasks of Normal Adolescence",
+  "part": 1,
+  "fingerprint": "56924231203adfa1539dc18e290568e09434756aed4dd7d3e9a78154b107f3e4",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "10qQTGkN-UZXNkHPBc3feozfFANra-shM",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1BULeOlgY9-PLqS1Y_8YNNh1hDT0IGqFq",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.011
+}

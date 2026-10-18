@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-treasures-of-sutton-hoo",
+  "title": "The Treasures of Sutton Hoo",
+  "part": 1,
+  "fingerprint": "9a482b986b953e23697fc02b8eca6d8e7c50aef206ee79afc4f313caf79a9150",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1tc0eAgwHahWddLToRoxKxLXTHVmiLJhT",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-treasures-of-sutton-hoo.json",
+  "lessonId": "p1-the-treasures-of-sutton-hoo",
+  "sourceId": "1tc0eAgwHahWddLToRoxKxLXTHVmiLJhT",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "eb7522f13e1d6820469b090d600c33b3e31352dc41423ebfbb1b486bc9d1c639",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.201
+}

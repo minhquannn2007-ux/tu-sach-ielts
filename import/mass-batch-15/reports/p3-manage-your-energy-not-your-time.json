@@ -1,0 +1,17 @@
+{
+  "job": "p3-manage-your-energy-not-your-time",
+  "title": "Manage Your Energy, Not Your Time",
+  "part": 3,
+  "fingerprint": "e2ed53116f70e4deabb36d8150c3809fa99b7c3eb6f45b0a1b327fe91ea3d217",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.065
+}

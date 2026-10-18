@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-colours-and-the-meanings-people-have-given-them",
+  "title": "The history of colours and the meanings people have given them",
+  "part": 1,
+  "fingerprint": "d4dc47683f415d08a1338c7e37db742329f9a934e9fe39cd04dec1f48b47354c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1jF3QX1qgv1BFqCKFw-TFcCdpWbzFj2ok",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-colours-and-the-meanings-people-have-given-them.json",
+  "lessonId": "p1-the-history-of-colours-and-the-meanings-people-have-given-them",
+  "sourceId": "1jF3QX1qgv1BFqCKFw-TFcCdpWbzFj2ok",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "51bde95bd09d0f8693f9662dea1bbbaac0db5237460f9948b84be864a14fd99f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

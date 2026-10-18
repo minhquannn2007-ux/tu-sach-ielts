@@ -1,0 +1,32 @@
+{
+  "job": "p1-new-understanding-of-giraffes-in-the-wild",
+  "title": "New Understanding of Giraffes in the Wild",
+  "part": 1,
+  "fingerprint": "d3cf073fe35842d588bf69da7b803d49f7c08a545477bd85a12ef388e7bdba3f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1ARBxA04iQq4GQF2gSSNl_WZmJ0tYscG0",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-new-understanding-of-giraffes-in-the-wild.json",
+  "lessonId": "p1-new-understanding-of-giraffes-in-the-wild",
+  "sourceId": "1ARBxA04iQq4GQF2gSSNl_WZmJ0tYscG0",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "91a533bd0e429fc03e041e39876ca111b40b030af1a619a47aa511f6e4b59ef4",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.128
+}

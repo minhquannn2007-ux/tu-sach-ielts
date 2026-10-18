@@ -1,0 +1,17 @@
+{
+  "job": "p2-antarctic-architecture-halley-vi",
+  "title": "Antarctic architecture Halley VI",
+  "part": 2,
+  "fingerprint": "01af76d2a62b47af8b844e39657b116b8af075b2ed2a0cfc9506d60951b89097",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1964TIXvc0Y3GLHhz_zwRnrGiImwkt6Q6",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-mental-gymnastic",
+  "title": "Mental Gymnastic",
+  "part": 1,
+  "fingerprint": "9527e73738e554312a8508a34ebc643a159e1ea3997c4dd6f1cfd341cd85395d",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1RCutD9RU-S6VqxKOIL0JrWVaP3vKLw5X",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-mental-gymnastic.json",
+  "lessonId": "p1-mental-gymnastic",
+  "sourceId": "1RCutD9RU-S6VqxKOIL0JrWVaP3vKLw5X",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "matching-features"
+  ],
+  "sourceHash": "4a4a66e1ae77541722aa191eaf8706d456bfe123776251edfae2ca64bd91d139",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.056
+}

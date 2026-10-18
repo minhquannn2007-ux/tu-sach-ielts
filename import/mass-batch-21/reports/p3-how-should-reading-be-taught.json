@@ -1,0 +1,33 @@
+{
+  "job": "p3-how-should-reading-be-taught",
+  "title": "How should reading be taught",
+  "part": 3,
+  "fingerprint": "5d496c26b6c72a4f9187384282fd187379462c4225adc3bcda1634e4c0e8e627",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-how-should-reading-be-taught.json",
+  "lessonId": "p3-how-should-reading-be-taught",
+  "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "tfng",
+    "summary-drag"
+  ],
+  "sourceHash": "735b82c3de4ea788179e2ad562e0e8c14622b4fa5b63343776a0649d15e1e52a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.093
+}

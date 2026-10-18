@@ -1,0 +1,24 @@
+{
+  "job": "p1-reef-life-on-the-yongala",
+  "title": "Reef life on the Yongala",
+  "part": 1,
+  "fingerprint": "5904060c9d3e75bf3cfa81fe8299b6c723bcaa12ad6ff61edb58fb12fc240b22",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1HmoU5-7m85RN9UTGb7DKa4g--3bMll11",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1HmoU5-7m85RN9UTGb7DKa4g--3bMll11.json",
+      "ocrConfidence": [
+        96.1,
+        95.8,
+        91.8,
+        95.4
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.016
+}

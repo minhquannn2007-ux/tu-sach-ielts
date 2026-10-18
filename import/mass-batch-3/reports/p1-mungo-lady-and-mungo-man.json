@@ -1,0 +1,17 @@
+{
+  "job": "p1-mungo-lady-and-mungo-man",
+  "title": "Mungo Lady and Mungo Man",
+  "part": 1,
+  "fingerprint": "15afa2f1a3f1044f1a371b3bb3a560eebe5bbde1a42f7f53ea3bb56ad8704c8d",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1P5xVGoqmeGt1iCtoS6x-r_tM4XoFdkmt",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

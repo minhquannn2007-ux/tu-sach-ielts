@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-pyramid-of-cestius",
+  "title": "The Pyramid of Cestius",
+  "part": 1,
+  "fingerprint": "198d49e517e0bc10e525cae8a719cf631990934cfcd69654bc1b9d3e4ae02e44",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1cxAp94f_CfWXIvnc0uT-59k1lEGwm9DC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-pyramid-of-cestius.json",
+  "lessonId": "p1-the-pyramid-of-cestius",
+  "sourceId": "1cxAp94f_CfWXIvnc0uT-59k1lEGwm9DC",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "1331764dc7c262af13bb028aa7b5f923e8a27ee6807a3d1eb815f84fca0ef46e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

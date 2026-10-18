@@ -1,0 +1,33 @@
+{
+  "job": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds",
+  "title": "Learning by example - evidence from studies of rats and birds",
+  "part": 1,
+  "fingerprint": "1f4441c16ddd044ff0f1c98e963a679eddda128c455a2f7e5a446f008b1f39b2",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1SDdJttU7d_RkdEbE6QWpBudqrQSDWxz_",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-learning-by-example-evidence-from-studies-of-rats-and-birds.json",
+  "lessonId": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds",
+  "sourceId": "1SDdJttU7d_RkdEbE6QWpBudqrQSDWxz_",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "tfng",
+    "summary-drag"
+  ],
+  "sourceHash": "6f4a470cecbfe7e6450807f3c9a9ca858f33a6f84482fefdd456126c829ffc6f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

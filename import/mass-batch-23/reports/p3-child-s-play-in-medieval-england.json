@@ -1,0 +1,17 @@
+{
+  "job": "p3-child-s-play-in-medieval-england",
+  "title": "Child's Play in Medieval England",
+  "part": 3,
+  "fingerprint": "777b9d4e3e37c6bde3a5faa4f00dbe85ed3a007b5d54b8e4bfee7df4ca9019ef",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1vzQ8wwwt0ffQ8mtUE86fiegO44eA2xM5",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

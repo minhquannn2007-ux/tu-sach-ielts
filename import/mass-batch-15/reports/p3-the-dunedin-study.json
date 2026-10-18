@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-dunedin-study",
+  "title": "The Dunedin study",
+  "part": 3,
+  "fingerprint": "04c57bca1ef07477f932621ac32bb3b6563c3008c69ddb740e0a8e5a951ff4b1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1U1q8hY4S-fqNjCmXVCma-i8OFgRCouSF",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

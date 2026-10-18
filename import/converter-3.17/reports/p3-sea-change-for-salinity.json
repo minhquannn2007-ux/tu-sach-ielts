@@ -1,0 +1,17 @@
+{
+  "job": "p3-sea-change-for-salinity",
+  "title": "Sea Change for Salinity",
+  "part": 3,
+  "fingerprint": "aa972bde5aef155ae306bb1abbb1a3e3bb18a0b83a36b462e73034c56f482ba0",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1vMcKtXOzujyxvb7mVgNz-pF99hA-k6mw",
+      "code": "duplicate-question",
+      "message": "Questions 35 and 36 repeat the same source prompt; compare source versions"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.066
+}

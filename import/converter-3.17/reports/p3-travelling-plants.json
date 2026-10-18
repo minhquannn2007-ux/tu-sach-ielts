@@ -1,0 +1,22 @@
+{
+  "job": "p3-travelling-plants",
+  "title": "Travelling Plants",
+  "part": 3,
+  "fingerprint": "f8a4dc2a1d884a1decdebd5718d3eb0b6d4f1689b4407b3746be9b475c2885ad",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1ixA7GPGZvbbBYBLxZyrirOzw-9kTKeoC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Den_CRy8jFAx1plzs_V121o6S1P7Erit",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.063
+}

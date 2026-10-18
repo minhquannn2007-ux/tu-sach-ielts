@@ -1,0 +1,407 @@
+[
+  {
+    "job": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-a-brome-lives-on-how-a-british-grass-escaped-extinction.json",
+    "reasons": [
+      {
+        "sourceId": "1VBFTYdi9Kr9R9S9f2DAILQ8HDuHUZpJ4",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-ancient-greek-coins",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1M5aU9jjdsFn-A19HsymivqlERG_jLtFk",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-becoming-an-expert",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1uX8DgV1Ifa_9sQGM1S9yWQtUgusM44JJ",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      },
+      {
+        "sourceId": "1BhjKyQRuGmF1Qg1S7wqv0GCYlirfyQ_f",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-buried-cities-of-the-amazon-rainforest-chua-rep",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-buried-cities-of-the-amazon-rainforest-chua-rep.json",
+    "reasons": [
+      {
+        "sourceId": "1_gXznjf9E3er02TzR1fa46jhOBjWAVN2",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang.json",
+    "reasons": [
+      {
+        "sourceId": "11wpJmVGf0pwcE4uDFL2HM13TrjO3ekWW",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-temperature-rising",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-temperature-rising.json",
+    "reasons": [
+      {
+        "sourceId": "1KcR8hdjiTFMguFrdvZWj77f1tc_XphTm",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-history-of-cakes-at-wedding",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1EE7CJfXm6bqGRkVQJHvSv9PptXNmfott",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-history-of-the-british-wool-industry",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+        "code": "source-layout",
+        "message": "Parallel note columns need source-specific layout review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-life-of-louis-braille",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-life-of-louis-braille.json",
+    "reasons": [
+      {
+        "sourceId": "1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-transport-and-transport-systems-during-the-roman-empire",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-transport-and-transport-systems-during-the-roman-empire.json",
+    "reasons": [
+      {
+        "sourceId": "1CrYGlHGRgO_p5-yql5u8cgWZjL-T9p8Z",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-under-the-skin-of-a-great-violin",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-under-the-skin-of-a-great-violin.json",
+    "reasons": [
+      {
+        "sourceId": "1rUJwV84CSsaquLZfj9XHKS7mX5NiYwpY",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-what-do-managers-really-do",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-what-do-managers-really-do.json",
+    "reasons": [
+      {
+        "sourceId": "1hKzouf53pVPvzt3A-WmnuO3GXzO42_FO",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-brains-trust-learning-about-ourselves",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-brains-trust-learning-about-ourselves.json",
+    "reasons": [
+      {
+        "sourceId": "1y72bDVh6e0Sd5IQf6oD9UThUOKd_AHqL",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-coins-the-first-form-of-money",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ERFNjlevvguQeaTyiUqNgTlRHRVzL7Hu",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      },
+      {
+        "sourceId": "1re9wB2b5eo9q9pa_zxskKTo0hbO2wkxP",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-considerate-technology-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "14frXmdnqyhyXnN5qgZEPmq2uNHd9GVdE",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      },
+      {
+        "sourceId": "1Leg6Q0bwOJzrFCNr_e3OB7qrwh3pqz_h",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+    "status": "held",
+    "draft": "drafts/p2-japanese-bizen-art-that-rose-from-the-ashes.json",
+    "reasons": [
+      {
+        "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      },
+      {
+        "code": "schema",
+        "message": "Missing or empty passage paragraph"
+      }
+    ]
+  },
+  {
+    "job": "p2-our-sense-of-smell",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p2-roller-coaster-the-great-fairground-attraction",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1kwNrfZWRZ6F2neOTTeU2QwwkL-LWRuc3",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-surviving-the-winter-hibernation-and-other-resting-states.json",
+    "reasons": [
+      {
+        "sourceId": "1slb5IKXWCFuYmDEZphdwQ51t73RtzfUo",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-attraction-of-video-games-chua-rep-heading-cho-sapo-hep-lai",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1WgrrK4rnIXPXj16Y8u1GHc8MvHh1Sk9w",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C', 'D']"
+      },
+      {
+        "sourceId": "1QzxWZNs-uOxu8d0XZ-GU5L7yzfEAYh0x",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-fascinating-world-of-attine-ants-chua-rep",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-fascinating-world-of-attine-ants-chua-rep.json",
+    "reasons": [
+      {
+        "sourceId": "1olv6hHHUAluBIS3VpZEju_eMlRvn565L",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-origins-of-scottish-brochs",
+    "status": "held",
+    "draft": "drafts/p2-the-origins-of-scottish-brochs.json",
+    "reasons": [
+      {
+        "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      },
+      {
+        "code": "schema",
+        "message": "Missing or empty passage paragraph"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-digital-cinema-of-the-mind",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+        "code": "heading-questions",
+        "message": "Example paragraph is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p3-changes-to-the-soviet-union-s-working-week",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-changes-to-the-soviet-union-s-working-week.json",
+    "reasons": [
+      {
+        "sourceId": "1P7RDXrxFVL6pMSlT1p_Zqj6ZFysZfVXc",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-does-class-size-matter",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-does-class-size-matter.json",
+    "reasons": [
+      {
+        "sourceId": "1T_3ZNL3DvaElZrId9egdkFHumtxHIhEP",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-insect-inspired-robots",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-insect-inspired-robots.json",
+    "reasons": [
+      {
+        "sourceId": "1lKqdkaDy-pQFEUWpIrOQcQU5iQydqEFQ",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-saving-languages",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-saving-languages.json",
+    "reasons": [
+      {
+        "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-termite-mounds",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1j7RzKzBoMDj0zOCABsGQTMhGKMfJ8vyU",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-termite-mounds-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1-iQAexQHXof0A1JHHRBdPaAalewuRRUj",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-accidental-scientist",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+        "code": "heading-questions",
+        "message": "Example paragraph is ambiguous"
+      },
+      {
+        "sourceId": "1TrLJhCVQmEvxhtKKJ7q6VKq8rvpN9yn4",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-travelling-on-light",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1_obyKfE24rlkTRwOG5MXy9riRKcAAWAk",
+        "code": "instructions",
+        "message": "Answer-sheet boundary is unclear"
+      }
+    ]
+  }
+]

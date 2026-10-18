@@ -1,0 +1,17 @@
+{
+  "job": "p1-stagecoaching-in-australia",
+  "title": "Stagecoaching in Australia",
+  "part": 1,
+  "fingerprint": "95ccbe30662ca365c855f223e3f00f3ed8c1e481420a6d27954605a0ea2ac3e8",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1pnFrxd_sk4_Hj4GyEC6wphl2JOD6Gxr6",
+      "code": "source-layout",
+      "message": "Parallel note columns need source-specific layout review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.066
+}

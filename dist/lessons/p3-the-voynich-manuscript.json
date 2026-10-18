@@ -1,0 +1,223 @@
+{
+  "id": "p3-the-voynich-manuscript",
+  "part": 3,
+  "title": "The Voynich Manuscript",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "It is an unprepossessing manuscript about the size of a hardback book, containing 240-odd pages of drawings and text of unknown age and authorship. It is certainly strange: pages of drawings of weird plants, astrological symbolism, and human figures, accompanied by a script that looks like some form of shorthand. The drawings hint at esoteric knowledge, while the text seems to be some sort of code – one that no one has been able to break. It is known to scholars as the Voynich manuscript, after the American book dealer Wilfrid Voynich, who bought it in Italy in 1912. Since then, numerous attempts have been made to interpret the manuscript, which is now owned by the library of the USA’s Yale University."
+    },
+    {
+      "label": "B",
+      "text": "Voynich believed that the manuscript was the work of the 13th-century Englishman Roger Bacon, famed for his knowledge of alchemy, philosophy, and science. In 1921, Voynich’s idea appeared to win support from the American professor of philosophy William Newbold, who claimed to have found the key to the cipher system used by Bacon. According to Newbold, the manuscript proved that Bacon had access to telescopes and microscopes centuries before they were thought to have been invented. The claim that living cells and even a spiral galaxy of stars had been observed in the 13th century created a sensation. It soon became clear, however, that Newbold had fallen victim to wishful thinking, as other scholars showed that his “decoding” methods could equally well produce a host of other possible interpretations. Just as fancifully, in 1943, an American lawyer named James Feely claimed the manuscript had been written in Latin, encoded by Bacon to disguise supposed revelations of secret knowledge."
+    },
+    {
+      "label": "C",
+      "text": "The following year, a team of codebreakers, led by William Friedman, set about the most basic codebreaking task: analyzing the relative frequencies of the characters making up the text, to look for signs of an underlying structure. For instance, in standard English, certain letters – such as the vowels ‘e’ and ‘a’ – appear far more often than others. Friedman’s team soon found that the precise size of the ‘alphabet’ of the Voynich manuscript was unclear: it is possible to make out more than 70 distinct symbols among the 170,000-character text. Some words and phrases clearly appeared more often than expected in natural languages, casting doubt on claims that the manuscript concealed a real language. Meanwhile, one of the experts consulted by Friedman, the British codebreaker John Titman, found hints of rules governing the construction of ‘Voynichese’ words, with some symbols apparently playing the role of prefixes and suffixes. The work of Friedman and his colleagues simply deepened the mystery. The text looked like nonsense yet seemed to follow rules. Its message remained unintelligible and did not seem to be a coded version of a real language. Friedman concluded that Voynichese is some sort of specially created artificial language, preceding one dating from 1657 that Titman had found."
+    },
+    {
+      "label": "D",
+      "text": "Even though Friedman was working in the very early days of computers, he suspected that they would prove valuable, and in fact, the computer is now the key tool for uncovering clues about the manuscript’s language. However, the insights so far have been perplexing. For example, in 2001, Gabriel Landini published the results of his study of the manuscript using a pattern-detecting method called spectral analysis revealed evidence that the manuscript contains genuine words rather than random nonsense, suggesting the existence of some underlying natural language. Yet the following year, René Zandbergen showed that the text was consistent with an artificial language being used."
+    },
+    {
+      "label": "E",
+      "text": "Many people believe the complexity of the data produced by such computer analysis shows that the manuscript must be meaningful, even though we can’t understand it. I could be in a coded version of English, or another natural language; or it could use an artificial language. An alternative view is that the manuscript is a hoax – nonsense intended to fool people into believing it makes sense. This view is supported by new research by Gordon Rugg, who wondered if a known coding method had been used to create the manuscript. In 1550, the Italian mathematician Girolamo Cardano published a coding technique that used a specially constructed ‘grille’ – a card with windows cut into it. When this was placed over a table of syllables, those appearing in the windows could be used to create new words. Rugg applied Cardano’s method to the manuscript, and the results suggested that its language is just sophisticated nonsense created by a hoaxer using that method."
+    },
+    {
+      "label": "F",
+      "text": "Rugg has even identified a potential culprit. The Holy Roman Emperor probably bought the manuscript for a sizeable sum in 1586, and there is circumstantial evidence that it was sold to him by the English scholar John Dee and his disreputable associate Edward Kelley. Kelley was familiar with the subjects illustrated in the Voynich manuscript, had a reputation as a forger, and most significantly, also knew about Cardano’s grille technique. Rugg stresses that this isn’t proof, but believes that if it is a hoax, it was probably carried out by Kelley. Inevitably, some disagree with Zandbergen, and others still suspect the text has genuine meaning."
+    },
+    {
+      "label": "G",
+      "text": "One obvious test for the authenticity of the manuscript would be to have its sheets and ink scientifically dated, but Yale seems unwilling to allow such tests. One reason may be that they would involve the use of a sample of material and thus cause damage to the manuscript. In any event, the results may not resolve the mystery: a medieval date for the manuscript vellum may mean simply that a later hoaxer used old materials. Clearly, the manuscript is likely to continue to be a source of great controversy."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 32 Look at the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "He had identified an artificial language from the 17th century."
+        },
+        {
+          "n": 28,
+          "prompt": "He used a simple method for interpreting codes."
+        },
+        {
+          "n": 29,
+          "prompt": "He used a 16th-century method of code-creation in an attempt to decipher the manuscript."
+        },
+        {
+          "n": 30,
+          "prompt": "He identified some patterns in the structure of words in the manuscript."
+        },
+        {
+          "n": 31,
+          "prompt": "He believed the manuscript was created in the 13th century."
+        },
+        {
+          "n": 32,
+          "prompt": "He introduced a system for making a code."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "William Newbold"
+        },
+        {
+          "value": "B",
+          "text": "William Friedman"
+        },
+        {
+          "value": "C",
+          "text": "John Titman"
+        },
+        {
+          "value": "D",
+          "text": "Gordon Rugg"
+        },
+        {
+          "value": "E",
+          "text": "Girolamo Cardano"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 33 – 35 Choose THREE letters, A-G. Write the correct letters in boxes 33-35 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "selectionCount": 3,
+      "numbers": [
+        33,
+        34,
+        35
+      ],
+      "prompt": "Which THREE of the following beliefs about the Voynich manuscript are mentioned by the writer of the text?",
+      "options": [
+        {
+          "value": "A",
+          "text": "It is the work of someone with psychological problems."
+        },
+        {
+          "value": "B",
+          "text": "It provides early evidence of scientific work."
+        },
+        {
+          "value": "C",
+          "text": "It is written in a coded version of a natural language."
+        },
+        {
+          "value": "D",
+          "text": "It was produced on a device resembling a computer."
+        },
+        {
+          "value": "E",
+          "text": "It is meaningless."
+        },
+        {
+          "value": "F",
+          "text": "It was written in Italy."
+        },
+        {
+          "value": "G",
+          "text": "It was created in the 20th century."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 36 – 40 Reading Passage 3 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 36-40 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 36,
+          "prompt": "an example of how a code reflects the language it is intended to hide"
+        },
+        {
+          "n": 37,
+          "prompt": "why no effort has been made to determine the age of the manuscript"
+        },
+        {
+          "n": 38,
+          "prompt": "a summary of the contents of the manuscript"
+        },
+        {
+          "n": 39,
+          "prompt": "why the Voynich manuscript has that name"
+        },
+        {
+          "n": 40,
+          "prompt": "reasons to believe that a purchaser of the manuscript was tricked"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "1WRIhsNX8d012dP8BF91KHXIod78xGwpT",
+      "role": "passage-and-questions",
+      "sha256": "6da5b7c8b234fdf9ab910e4f1dd8513f1b78c36ed9d76a02db283bfdb9b7ab5d",
+      "name": "The Voynich Manuscript.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-the-voynich-manuscript"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-14-2026-10-13",
+    "checks": [
+      "all source title subtitle and question pages inspected",
+      "source paragraph question option and completion text compared",
+      "source-selected answer count and paragraph scopes preserved",
+      "source note bullets/indents and reading subheadings checked",
+      "original Mungo folder renamed to actual full source title Controversies in Australian Prehistory"
+    ]
+  }
+}

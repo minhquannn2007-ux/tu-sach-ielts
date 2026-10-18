@@ -1,0 +1,17 @@
+{
+  "job": "p1-bondi-chua-go",
+  "title": "Bondi(CHƯA GÕ)",
+  "part": 1,
+  "fingerprint": "32494949deb6ba2a6da8150aca34c7778384a34574be9d4530cce7b7db32d08c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "19eaUkXDsWJFBMobFyEiz6scwt3ymSl5q",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-no-title-the-ecological-importance-of-bees",
+  "title": "No title - The Ecological Importance of Bees",
+  "part": 2,
+  "fingerprint": "94418de6ad0c9c740ec9f2cda5bc7ab02139b2642d598d66f972c77b11352295",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "14xJ0CMwQHNek9FYTh74qKFc1lEh0QFLg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-playing-with-science",
+  "title": "Playing with science",
+  "part": 2,
+  "fingerprint": "10cb8cf0baf22fac9d4ffc17762c33b60cd15bebb8168eb6746294eeb8f8b1b1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1UhGtZGmkQsvYCS7l3BX-AFjkfJIbWqVA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

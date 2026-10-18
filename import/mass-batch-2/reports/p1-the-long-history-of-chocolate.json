@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-long-history-of-chocolate",
+  "title": "The Long History of Chocolate",
+  "part": 1,
+  "fingerprint": "5b28e11472f202d46fd519532fba363706ea9d42526e6e78f351a6690ddf1190",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1Siq_gvsDZvor5P3mxuZFfMIZ6_X4B2vp",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-long-history-of-chocolate.json",
+  "lessonId": "p1-the-long-history-of-chocolate",
+  "sourceId": "1Siq_gvsDZvor5P3mxuZFfMIZ6_X4B2vp",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "8b20c717ce31e78447604d7cb74c7d0563660d29a93b1a39ffc193eb50ff45cc",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

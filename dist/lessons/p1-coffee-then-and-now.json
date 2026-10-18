@@ -1,0 +1,317 @@
+{
+  "id": "p1-coffee-then-and-now",
+  "part": 1,
+  "title": "Coffee then and now",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Coffee originated around the Red Sea, most probably in Ethiopia in Africa, and there are records of coffee cultivation in Yemen as early as the 6th century. By the 13th century, the growing, roasting and grinding of coffee to make a strong-flavoured infusion was widespread throughout the Arab world. News of the drink was brought to Europe by traders, but people there were at first wary of the new drink. However, Pope Clement the Eighth gave the drink his seal of approval after trying a cup for himself, and the trend quickly caught on. The 17th century saw the spread of coffee drinking throughout Europe. Coffee houses opened in Vienna, Paris and London, and they soon became the favourite meeting places of politicians, and were also known to attract artists of all kinds. By the 18th century, coffee production was well established in Java in Indonesia and also throughout the Caribbean. Coffee drinking continued to grow in popularity; one of the repercussions of the famous Boston Tea Party of 1773 was that the USA adopted coffee as its national beverage. Today, coffee is drunk around the world, though each nation has its own ways of preparing and serving it."
+    },
+    {
+      "text": "Coffee is now grown in more than 50 countries, although production is not at all straightforward. Because it is vulnerable to frost, coffee can only be grown successfully between the Tropics of Cancer and Capricorn. In addition, crop maintenance is labour intensive. The plants require constant care and attention, and in most areas the picking is carried out by hand."
+    },
+    {
+      "text": "The ripe berry-like fruits which are harvested are called ‘cherries’. These ripen over a period of six to eight months and turn a deep red when ripe, which explains their name. Inside there are two green beans that have to be separated from the pulp and the skin, and dried. This process is known as curing, and it can be done by one of two methods. For the traditional ‘dry method’ of curing, the cherries are laid out in the sun until completely dry, and then the dried skins and pulp are removed from the beans. The ‘wet method’ is a more recent development and it is employed for high-quality hand-picked cherries. The outer, fleshy layer is removed, then the cherries are soaked and fermented, followed by washing and drying. Finally, the skins are removed by a machine, revealing the green beans."
+    },
+    {
+      "text": "In both cases, the green beans are sorted, graded and packed for export. Roasting tends to be done in the country of import. The roasting process is necessary to reduce the acidity of the beans and to develop the aromatic oils, which give the coffee its aroma and flavour. Finally, grinding exposes a larger surface area to the water, ensuring optimum contact between the ground beans and the water, resulting in a more satisfying cup of coffee."
+    },
+    {
+      "text": "The flavour, character and quality of coffee varies tremendously – not only between countries, but also between estates within the same country. The soil, altitude and climate are all factors that contribute to the character of the bean, thereby affecting the final taste. There are four varieties of coffee plant, but only two are sold on any commercial scale. The most important of these is coffea arabica, which grows on steep mountain slopes at high altitudes. The arabica bean produces coffee that is rich, aromatic and full of flavour, and it accounts for 70% of world coffee production. Coffee experts agree that the arabica bean is far superior in flavour to other types. The other main variety, coffea canephora, produces the coffee bean known as robusta."
+    },
+    {
+      "text": "Grown on the lower slopes, where cultivation is easier, robusta beans have a higher caffeine content than arabica beans, and a rougher, almost earthy flavour that lacks delicacy and subtlety. It costs about half the price of arabica and is used in the cheaper blends of both fresh and instant coffee."
+    },
+    {
+      "text": "There are three types of instant coffee. The cheapest is made from robusta beans that have been brewed into a concentrate. This is sprayed into a stream of hot air that instantly evaporates all moisture, leaving a fine powder. Some of the spray-dried powders undergo further heating to produce granular coffees; the better ones include some arabica beans. The best instant coffees are freeze-dried. For these, an arabica coffee concentrate is frozen and processed in a vacuum to produce crisp, dry particles of coffee."
+    },
+    {
+      "text": "Caffeine is a stimulant that is present in coffee. It makes the nervous system more active, which is usually the desired effect. However, it can cause sleeplessness and therefore some consumers prefer to buy coffee without caffeine. Decaffeinated coffee is available in all the regular coffee forms: whole beans, ground or instant. Caffeine is removed by soaking the beans in water, or by the use of solvents or carbon dioxide. The latter is thought to be the best method as it does not affect the flavour and there is no residue. To qualify as decaffeinated, coffee must contain less than 0.9% caffeine."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 6 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-6 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Ripe coffee fruits are called cherries because of their colour."
+        },
+        {
+          "n": 2,
+          "prompt": "The modern 'wet method' of curing is more efficient than the old 'dry method'."
+        },
+        {
+          "n": 3,
+          "prompt": "Green beans are usually roasted before being exported."
+        },
+        {
+          "n": 4,
+          "prompt": "The roasting process improves both the smell and the taste of coffee."
+        },
+        {
+          "n": 5,
+          "prompt": "Arabica coffee is harder to grow than robusta coffee."
+        },
+        {
+          "n": 6,
+          "prompt": "The best instant coffee is a mix of arabica and robusta coffee."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 7 – 13 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 7-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "ONE WORD ONLY",
+      "noteLayout": {
+        "title": "The history of coffee",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "coffee originally came from the area around the Red Sea"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "early {{7}} suggest that coffee was grown in Yemen"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Europeans first heard about coffee from {{8}}"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "coffee drinking became a {{9}} in Europe only after Pope Clement VIII drank"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "some"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "of it"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "people such as painters and {{10}} began to get together in cafes in major"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "European cities"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "today coffee is grown only in tropical regions to avoid damage caused"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "by {{11}}"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "in coffee cultivation, the {{12}} is generally done manually"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Decaffeinated coffee",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 2.21,
+            "align": "center"
+          },
+          {
+            "runs": [
+              {
+                "text": "most people like the fact that coffee contains a stimulant, but this leads to problems for"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "others"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 1.04,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "using carbon dioxide is the ideal way of removing caffeine because it maintains"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "the {{13}} of the coffee"
+              }
+            ],
+            "indent": 1.502,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": "The history of coffee",
+      "content": [
+        "coffee originally came from the area around the Red Sea",
+        "early {{7}} suggest that coffee was grown in Yemen",
+        "Europeans first heard about coffee from {{8}}",
+        "coffee drinking became a {{9}} in Europe only after Pope Clement VIII drank some of it",
+        "people such as painters and {{10}} began to get together in cafes in major European cities",
+        "today coffee is grown only in tropical regions to avoid damage caused by {{11}}",
+        "in coffee cultivation, the {{12}} is generally done manually",
+        "Decaffeinated coffee",
+        "most people like the fact that coffee contains a stimulant, but this leads to problems for others",
+        "using carbon dioxide is the ideal way of removing caffeine because it maintains the {{13}} of the coffee"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1zuZaZaKOb2BDigDufClJW5CXurmqhuF3",
+      "role": "passage-and-questions",
+      "sha256": "9587a985e91cce724ccbae27b9ea30db7801f602799ffefa460dbfa0e41eb517",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.6",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-coffee-then-and-now"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch2-coffee-cover.jpg",
+    "alt": "Cốc cà phê",
+    "source": "https://unsplash.com/photos/a-cup-of-coffee-sitting-on-top-of-a-saucer-B0Cd563dbYs",
+    "credit": "Maria Kovalets",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-3-2026-10-12",
+    "checks": [
+      "native text comparison",
+      "title subtitle and first-paragraph visual review",
+      "source note layout review",
+      "source footnotes",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-green-roofs-blurred",
+  "title": "Green roofs(BLURRED)",
+  "part": 3,
+  "fingerprint": "335ff7672b79d954ccf51a1be48fabddfa7d38a30272c781e81b415c61798ecf",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1gDNADGAdGGn-lmM2Qg80BbNb8Ll5eN3-",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-look-at-the-history-of-poetry",
+  "title": "A look at the history of poetry",
+  "part": 1,
+  "fingerprint": "fab824a21726cfbdbe91a281b1006760ccea1fd125d39143a4e16cd559aa6c4c",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1kvIaj7dDAdrU6u-lg2kLCifeLA-9FKfZ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-look-at-the-history-of-poetry.json",
+  "lessonId": "p1-a-look-at-the-history-of-poetry",
+  "sourceId": "1kvIaj7dDAdrU6u-lg2kLCifeLA-9FKfZ",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "f7357946b33d39356dadb6e64fa46ec5862bc570dd72fb1a3c74487cb90d403d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.087
+}

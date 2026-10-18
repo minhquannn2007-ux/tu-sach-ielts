@@ -1,0 +1,22 @@
+{
+  "job": "p3-sign-baby-sign",
+  "title": "Sign, baby, sign!",
+  "part": 3,
+  "fingerprint": "4362ee613f6d4a56b759325cd57844311ac3acd6398656414113d16412a35ba9",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "14ciRB0d-b1ptEqGh4hTJkewTNdP9TE8z",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1gpb3KkvWtvAR4les4AHgUFGLgdt4qtg1",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

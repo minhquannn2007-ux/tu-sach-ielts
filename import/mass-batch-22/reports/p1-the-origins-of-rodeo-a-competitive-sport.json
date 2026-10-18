@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-origins-of-rodeo-a-competitive-sport",
+  "title": "The origins of rodeo - a competitive sport",
+  "part": 1,
+  "fingerprint": "eb84a7465fbfabfc42777321513326a77d91b89054427d926e5375247cdb7d90",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1sHJSrq-UuA4bu_eI6C2_m8gLEbgLHJqn",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-origins-of-rodeo-a-competitive-sport.json",
+  "lessonId": "p1-the-origins-of-rodeo-a-competitive-sport",
+  "sourceId": "1sHJSrq-UuA4bu_eI6C2_m8gLEbgLHJqn",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "300e0e1a32a107a907c03295784a6796e66a799c2a08be2bb44380d1733c3a5a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.168
+}

@@ -1,0 +1,644 @@
+{
+  "converterVersion": "3.21",
+  "selected": 25,
+  "cachedSources": 36,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 11,
+    "held": 14,
+    "error": 0
+  },
+  "seconds": 1.784,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p1-conquering-the-south-pole",
+      "title": "Conquering the South Pole",
+      "part": 1,
+      "fingerprint": "b8803d92ff79ef0ac6b57abc269ba3542523fc4b3dda04d95ce0742d432c46bc",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1zjxiBJgoRafWibF36esqWeFQU3IGumDo",
+          "code": "table-layout",
+          "message": "Merged table cells require reviewed layout"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Source-checked table boundaries or subtitle/paragraph labels"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.237,
+      "draft": "drafts/p1-conquering-the-south-pole.json",
+      "lessonId": "p1-conquering-the-south-pole",
+      "sourceId": "1zjxiBJgoRafWibF36esqWeFQU3IGumDo",
+      "sourceHash": "fb8b6d3dcaf3535a878df532eeeac641b661e3e3c8928aac794b5806bed9d882",
+      "types": [
+        "tfng",
+        "notes"
+      ]
+    },
+    {
+      "job": "p1-dust-and-the-american-west",
+      "title": "Dust and the American West",
+      "part": 1,
+      "fingerprint": "ea2537e2dd8186c794d092455876790d97c96fe7c2f17da80d60256955fb0772",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1g2DNWkmOd6yy4dRjY-NlH83454MFivam",
+          "code": "gap-numbering",
+          "message": "Expected one control per source gap [6, 7, 8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.289
+    },
+    {
+      "job": "p1-museums-and-family-visitors-in-australia-loi-cham-nho-table-subhead-ien-tu-13",
+      "title": "Museums and family visitors in Australia (lỗi chấm nhỏ table, subhead điền từ 13)",
+      "part": 1,
+      "fingerprint": "8103fc2706f250cce72deb60be49d792e44fddbc9788f4f0f2a15d86be3b0d38",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1pA5YjDfWg9qGEtfSD4MRfc3GHpUnzphz",
+          "code": "table-layout",
+          "message": "Merged table cells require reviewed layout"
+        },
+        {
+          "sourceId": "16xTDPSjOyCrR9zeuaQOtNrzEOak6yn6M",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 1.216
+    },
+    {
+      "job": "p1-research-into-elephant-sleeping-habits",
+      "title": "Research into elephant sleeping habits",
+      "part": 1,
+      "fingerprint": "bc2161d828619ee9bc9296afbecfa7cdb2bebf97780dc711ff887cf1d2738cf6",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1OcCzlFo4-cfoQOnJierjao31Xu0Udmvz",
+          "code": "question-headers",
+          "message": "No unambiguous question headers"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.073
+    },
+    {
+      "job": "p1-stagecoaching-in-australia",
+      "title": "Stagecoaching in Australia",
+      "part": 1,
+      "fingerprint": "4fac1d70435d7fc74f6ed8e6ea20a6dfa092f69e9825992a97716b10c62199d7",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1pnFrxd_sk4_Hj4GyEC6wphl2JOD6Gxr6",
+          "code": "source-layout",
+          "message": "Parallel note columns need source-specific layout review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 1.084
+    },
+    {
+      "job": "p1-the-blockbuster-phenomenon-a-new-museum-trend",
+      "title": "The Blockbuster Phenomenon - a new museum trend",
+      "part": 1,
+      "fingerprint": "7e7834bc0c58aa09c10a879f69015ac117ea22e6c7c52aebc7e41bae5be22a02",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1aUL9dgQxcaXxVsz3OeLbeSKvZACUPVzp",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F', 'G']; expected ['A', 'B', 'C', 'D', 'E']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.223
+    },
+    {
+      "job": "p1-the-future-of-news-coming-from-a-fun-circle",
+      "title": "The future of news – coming from a fun circle",
+      "part": 1,
+      "fingerprint": "b79260b4694b7eefc611ae2fe17c8913273dd892577a9521f2bb7d4ca557c9e9",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ",
+          "code": "gap-numbering",
+          "message": "Expected one control per source gap [1, 2, 3, 4, 5, 6, 7], found [1, 2, 3, 4, 5, 6]"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 1.089
+    },
+    {
+      "job": "p1-the-history-of-the-british-wool-industry",
+      "title": "The history of the British wool industry",
+      "part": 1,
+      "fingerprint": "cf731e0f2d40b422b1a072525dd88df78435e555ccfb05f5f1bc181120d97b9a",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+          "code": "source-layout",
+          "message": "Parallel note columns need source-specific layout review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.207
+    },
+    {
+      "job": "p1-the-history-of-the-guitar-chua-rep",
+      "title": "The history of the guitar (CHƯA REP)",
+      "part": 1,
+      "fingerprint": "9a945c449e1bbaf050b35b8e1a1da95b63a6ace8cc744795d8b25d036777ba10",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1vwUz30zGYBtM8ZwUErGc1pNCP-VMEwIA",
+          "code": "table-layout",
+          "message": "Merged table cells require reviewed layout"
+        },
+        {
+          "sourceId": "1iy_yvaB4RCtyFcPdGbRVixrWNM5oVC3H",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Source-checked table boundaries or subtitle/paragraph labels"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.51,
+      "draft": "drafts/p1-the-history-of-the-guitar-chua-rep.json",
+      "lessonId": "p1-the-history-of-the-guitar",
+      "sourceId": "1vwUz30zGYBtM8ZwUErGc1pNCP-VMEwIA",
+      "sourceHash": "62e819cf0d7062191328860b5cff8f1438ae15387566ed593669cbc13b7d0266",
+      "types": [
+        "tfng",
+        "notes"
+      ]
+    },
+    {
+      "job": "p1-the-new-zealand-national-archives",
+      "title": "The New Zealand National Archives",
+      "part": 1,
+      "fingerprint": "2eca4bcaf775d41563bb1ff6b0619ab3f3882b740c3d7684a3bcfacda47cdf40",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1xK0cvpbFEuiLAVv6zuW7Dr_v67XhVHaq",
+          "code": "gap-numbering",
+          "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 11, 12, 13]"
+        },
+        {
+          "sourceId": "1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.21
+    },
+    {
+      "job": "p1-the-olympic-torch-chua-rep",
+      "title": "The Olympic Torch(CHƯA REP)",
+      "part": 1,
+      "fingerprint": "b71c2a5f33ec0f425a2fc9cbc557a566c8f79156a71caf934d4d00299425c135",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1iuotk1qL0EtHH8r8EvqWW8di3OIDQ-Dv",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+        },
+        {
+          "sourceId": "1EknzSuQY-9hRWpSwwj9m4Zi-Da_aEeqq",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.556
+    },
+    {
+      "job": "p1-the-slow-food-organization",
+      "title": "The Slow Food Organization",
+      "part": 1,
+      "fingerprint": "7667dc1d4c5514d712ce7e330cafdbdecdbe5e0dc7c99cab29568050c16c9981",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1HdU-qqI1rTRWcDVQsM8ZDrNQIZgFyF_h",
+          "code": "table-layout",
+          "message": "Merged table cells require reviewed layout"
+        },
+        {
+          "sourceId": "17NXHaZe8WlO4F8SLWahNh_tbSrqif32g",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Source-checked table boundaries or subtitle/paragraph labels"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.615,
+      "draft": "drafts/p1-the-slow-food-organization.json",
+      "lessonId": "p1-the-slow-food-organization",
+      "sourceId": "1HdU-qqI1rTRWcDVQsM8ZDrNQIZgFyF_h",
+      "sourceHash": "46c2a8e83f504bb7febb1a1ed4f36a5ed6e725e94b0af337989d93d86982835e",
+      "types": [
+        "tfng",
+        "notes",
+        "short-answer"
+      ]
+    },
+    {
+      "job": "p1-the-story-of-the-railroad",
+      "title": "The story of the railroad",
+      "part": 1,
+      "fingerprint": "3f5a4a480c25b854386e71c4e8aca11ec77c7d2be16c7ea674290750692df069",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1NyE0nGAuH74lvP6lQTx5RTV3LLaSj1w_",
+          "code": "table-layout",
+          "message": "Merged table cells require reviewed layout"
+        },
+        {
+          "sourceId": "1WiF4SZ3JkFMHgMMJCkkP2pjS17XefVmR",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Source-checked table boundaries or subtitle/paragraph labels"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.533,
+      "draft": "drafts/p1-the-story-of-the-railroad.json",
+      "lessonId": "p1-the-story-of-the-railroad",
+      "sourceId": "1NyE0nGAuH74lvP6lQTx5RTV3LLaSj1w_",
+      "sourceHash": "d99a0a68ce8c9f666d6a91adabecd14f6e1e8730ad652bcc419e66ef2084ee65",
+      "types": [
+        "tfng",
+        "short-answer",
+        "notes"
+      ]
+    },
+    {
+      "job": "p1-walking-for-life",
+      "title": "Walking for Life",
+      "part": 1,
+      "fingerprint": "105c0defb9f29f984494bda1de9f3586d1f452db34d1e0c7af72d56c31f417a9",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1DRqz801oUhmTnLXlD0fiFLafo16DefDn",
+          "code": "gap-numbering",
+          "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.491
+    },
+    {
+      "job": "p2-buying-time",
+      "title": "Buying Time",
+      "part": 2,
+      "fingerprint": "9cc0123c2eb4103511f45e597948c0a5a337ecdf8f941b4bc6f3364bc9adeb4a",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "14EzkzEoux_aPJ9VIReVmICVwFqMR5HBN",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.124
+    },
+    {
+      "job": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+      "title": "Canal discovered at ancient quarry in Egypt",
+      "part": 2,
+      "fingerprint": "a4fdbd022974c67c02457ab497fe99112e39b95dc1c5dee36359bb2cc4f816ae",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1Q41wGQx_co85QFleSKQeO1zISQxqdeha",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.289
+    },
+    {
+      "job": "p2-coins-the-first-form-of-money",
+      "title": "Coins - the first form of money",
+      "part": 2,
+      "fingerprint": "f22af5e585ea6785c3d2ebd1d13cb1fbb9a957a6fde07e0759529e78135e78aa",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1ERFNjlevvguQeaTyiUqNgTlRHRVzL7Hu",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        },
+        {
+          "sourceId": "1re9wB2b5eo9q9pa_zxskKTo0hbO2wkxP",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.324
+    },
+    {
+      "job": "p2-how-dental-health-is-threatened",
+      "title": "How Dental Health Is Threatened",
+      "part": 2,
+      "fingerprint": "ebfd339239679862d3994f5993974cc1b3b99a5aa9450058ca095862e009caaa",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1XOvNTZpvecwY8_BhiHTnITu9pkrPpshu",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Source-checked table boundaries or subtitle/paragraph labels"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.04,
+      "draft": "drafts/p2-how-dental-health-is-threatened.json",
+      "lessonId": "p2-how-dental-health-is-threatened",
+      "sourceId": "1XOvNTZpvecwY8_BhiHTnITu9pkrPpshu",
+      "sourceHash": "256343f711de1c0c6da5fc417d340959504aba4f3bf8a89912cb5acfd1f15c34",
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ]
+    },
+    {
+      "job": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+      "title": "Japanese Bizen Art that Rose from the Ashes",
+      "part": 2,
+      "fingerprint": "02bd48d776e8327cdb8b2398aba0500f5b74499c84bdf9cdb50a72f3f5f670bb",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-japanese-bizen-art-that-rose-from-the-ashes.json",
+      "lessonId": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+      "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "dd3551b7771860931e5e5e9fd97b3269bca1514a3dcbc05d48a5e33c1855738c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.265
+    },
+    {
+      "job": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
+      "title": "The humble houseplant - an aid for health and cleanliness",
+      "part": 2,
+      "fingerprint": "97ad28110520714483c0c360893a63806a2240fa15afa863c309123881f81bf3",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "17SiTutSqftb9Uyufg5ERk6Wx4sAEbXIL",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        },
+        {
+          "code": "reviewed-adapter",
+          "message": "Source-checked table boundaries or subtitle/paragraph labels"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "seconds": 0.183,
+      "draft": "drafts/p2-the-humble-houseplant-an-aid-for-health-and-cleanliness.json",
+      "lessonId": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
+      "sourceId": "17SiTutSqftb9Uyufg5ERk6Wx4sAEbXIL",
+      "sourceHash": "f04a9729fc6d7037aafeadf356b7d84ace6c20c695bd03283480ad8ee6fe997b",
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ]
+    },
+    {
+      "job": "p2-the-importance-of-the-human-urge-to-move",
+      "title": "The importance of the human urge to move",
+      "part": 2,
+      "fingerprint": "2c7d794446f27070838ae51f4e4679cd25fe629c4cc7c2bd7492ca8b6eb07297",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1wOcUR85D1QjOmti6f43AzOoa_8xydVse",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        },
+        {
+          "sourceId": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        },
+        {
+          "sourceId": "1wyWLGGl_V8ND-8hvVoaYP94XNX5bi0sY",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.567
+    },
+    {
+      "job": "p2-the-origins-of-scottish-brochs",
+      "title": "The origins of Scottish brochs",
+      "part": 2,
+      "fingerprint": "da5e4594ad1cb693d37d72a2cce2b8ba0cfa39627530ae42dea2c5fb6159b0c7",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-origins-of-scottish-brochs.json",
+      "lessonId": "p2-the-origins-of-scottish-brochs",
+      "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "27e1062f7f96df804b63e4ab769b53ab46087de50150bfc6fe5340d85c9e9509",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.087
+    },
+    {
+      "job": "p3-a-digital-cinema-of-the-mind",
+      "title": "A Digital Cinema of the Mind",
+      "part": 3,
+      "fingerprint": "f38a811cf0f1e7ebca912ec02b2eb182a5268fecc3af46e7dd9e7b69f033fa84",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-a-digital-cinema-of-the-mind.json",
+      "lessonId": "p3-a-digital-cinema-of-the-mind",
+      "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "matching-endings",
+        "mc-one"
+      ],
+      "sourceHash": "713243ce5a24abb11c7151a9b3d4ce7f67232edde3bb6871eb649db1ca53e11b",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.21
+    },
+    {
+      "job": "p3-how-should-reading-be-taught",
+      "title": "How should reading be taught",
+      "part": 3,
+      "fingerprint": "5d496c26b6c72a4f9187384282fd187379462c4225adc3bcda1634e4c0e8e627",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-how-should-reading-be-taught.json",
+      "lessonId": "p3-how-should-reading-be-taught",
+      "sourceId": "1hAJVhQq3gSAbXYDIGyT2Zx2dZQOHp3YC",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "tfng",
+        "summary-drag"
+      ],
+      "sourceHash": "735b82c3de4ea788179e2ad562e0e8c14622b4fa5b63343776a0649d15e1e52a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.093
+    },
+    {
+      "job": "p3-the-accidental-scientist",
+      "title": "The Accidental Scientist",
+      "part": 3,
+      "fingerprint": "b26495635241dd3d00b819338334f65d098a666cd9d5c3a24878fb866a6636a1",
+      "converterVersion": "3.21",
+      "attempts": [
+        {
+          "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-accidental-scientist.json",
+      "lessonId": "p3-the-accidental-scientist",
+      "sourceId": "1k7iO2B2X0gkHwJlYgU79jt9SeJnZ-_UC",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "mc-one",
+        "summary-input"
+      ],
+      "sourceHash": "acfd4be1a4821aa3d884914e3f65ec0ed142fc220185f033a26ced4c62437603",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.119
+    }
+  ],
+  "published": 0
+}

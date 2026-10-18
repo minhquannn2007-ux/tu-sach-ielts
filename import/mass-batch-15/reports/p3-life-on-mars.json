@@ -1,0 +1,17 @@
+{
+  "job": "p3-life-on-mars",
+  "title": "LIFE ON MARS?",
+  "part": 3,
+  "fingerprint": "1664d5413aefbc7268c917b42ca679baeabc22d0fc7c3eba2004c83cee2f9f4c",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1fwhDNZ3RFp2wM8lnYUc0CHe1LeecJYxW",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

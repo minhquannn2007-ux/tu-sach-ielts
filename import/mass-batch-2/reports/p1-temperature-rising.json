@@ -1,0 +1,33 @@
+{
+  "job": "p1-temperature-rising",
+  "title": "TEMPERATURE RISING",
+  "part": 1,
+  "fingerprint": "0b3fe5a5525a1b55e29a32c0b977d61801225c776b7637a313b4917ae3a667b2",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1KcR8hdjiTFMguFrdvZWj77f1tc_XphTm",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-temperature-rising.json",
+  "lessonId": "p1-temperature-rising",
+  "sourceId": "1KcR8hdjiTFMguFrdvZWj77f1tc_XphTm",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "3ad2bc830c81d622d92e9c9c0ab4961ecaadf8ca4a8b555f0cdb2ad776f9fc65",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.063
+}

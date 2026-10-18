@@ -1,0 +1,32 @@
+{
+  "job": "p1-coffee-then-and-now",
+  "title": "Coffee then and now",
+  "part": 1,
+  "fingerprint": "4e3661a2a6b95e77b747f90dc0d623331e71dd4e264ea1fbb90df49f4f7ca268",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1zuZaZaKOb2BDigDufClJW5CXurmqhuF3",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-coffee-then-and-now.json",
+  "lessonId": "p1-coffee-then-and-now",
+  "sourceId": "1zuZaZaKOb2BDigDufClJW5CXurmqhuF3",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "9587a985e91cce724ccbae27b9ea30db7801f602799ffefa460dbfa0e41eb517",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.079
+}

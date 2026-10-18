@@ -1,0 +1,33 @@
+{
+  "job": "p3-changes-to-the-soviet-union-s-working-week",
+  "title": "Changes to the Soviet Union's working week",
+  "part": 3,
+  "fingerprint": "d2318518932b993ecc47b3388623f16eb6046d6ab9eb49da690580774174375d",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1P7RDXrxFVL6pMSlT1p_Zqj6ZFysZfVXc",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-changes-to-the-soviet-union-s-working-week.json",
+  "lessonId": "p3-changes-to-the-soviet-union-s-working-week",
+  "sourceId": "1P7RDXrxFVL6pMSlT1p_Zqj6ZFysZfVXc",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "mc-one",
+    "short-answer"
+  ],
+  "sourceHash": "d06d1b2db4de3f1f29eb3504bc4929c10300e7b2ab124f5e14c9836022e5f0e5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.08
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang",
+  "title": "Sweet Trouble",
+  "part": 1,
+  "fingerprint": "f0dbea3e77252e1395f7c04d93a5838849848a9fdaf472f33ccdb823477d6320",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "11wpJmVGf0pwcE4uDFL2HM13TrjO3ekWW",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-sweet-trouble-list-of-people-chua-center-so-cau-mcq-chua-thang-hang.json",
+  "lessonId": "p1-sweet-trouble",
+  "sourceId": "11wpJmVGf0pwcE4uDFL2HM13TrjO3ekWW",
+  "questionCount": 13,
+  "types": [
+    "matching-features",
+    "mc-one",
+    "tfng"
+  ],
+  "sourceHash": "3621f39d1dae358f0eafa23d1975d69d80a505c9777d33a1c4adc77adba80a86",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.109
+}

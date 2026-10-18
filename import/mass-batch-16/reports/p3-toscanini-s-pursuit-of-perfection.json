@@ -1,0 +1,33 @@
+{
+  "job": "p3-toscanini-s-pursuit-of-perfection",
+  "title": "Toscanini's pursuit of perfection",
+  "part": 3,
+  "fingerprint": "8a76c41dc122a05cea399e73af1e1c1c74202c50a5febd2cb0304b4742675e07",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1GtZlgJCLwIg7-DCSpsipUx1r2ACckZLj",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-toscanini-s-pursuit-of-perfection.json",
+  "lessonId": "p3-toscanini-s-pursuit-of-perfection",
+  "sourceId": "1GtZlgJCLwIg7-DCSpsipUx1r2ACckZLj",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "df4528a1b0614d1b3da307801c744c4c78df320b0910ed0fcc73c3fa6bbe5b5c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

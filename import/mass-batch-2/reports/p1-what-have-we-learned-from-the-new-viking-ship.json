@@ -1,0 +1,32 @@
+{
+  "job": "p1-what-have-we-learned-from-the-new-viking-ship",
+  "title": "What have we learned from the new Viking ship",
+  "part": 1,
+  "fingerprint": "c14ec1f42beb32520fa15eb7826b6cb78b432200e2e49ef71a4360f132993141",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1mcwqo30dx-GQKQYT3nS-Y4wLTjUYSmB9",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-what-have-we-learned-from-the-new-viking-ship.json",
+  "lessonId": "p1-what-have-we-learned-from-the-new-viking-ship",
+  "sourceId": "1mcwqo30dx-GQKQYT3nS-Y4wLTjUYSmB9",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "short-answer"
+  ],
+  "sourceHash": "6e46ebdb32afb0b7bbc0ae82448462abfb3ec2157e9371fbc1fb02fbd3230c88",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.047
+}

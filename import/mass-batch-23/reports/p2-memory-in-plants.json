@@ -1,0 +1,17 @@
+{
+  "job": "p2-memory-in-plants",
+  "title": "Memory in plants",
+  "part": 2,
+  "fingerprint": "cd06d351f99be88c3ff4aa8103d17a29ef79aff017252475ed34f01c9bde86e6",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "165jrLjy-2ivzTaBionBpIg9xGzp56t39",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

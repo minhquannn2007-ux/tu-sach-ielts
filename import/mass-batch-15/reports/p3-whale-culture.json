@@ -1,0 +1,17 @@
+{
+  "job": "p3-whale-culture",
+  "title": "WHALE CULTURE",
+  "part": 3,
+  "fingerprint": "093868b284ee7e9c0c878102eb4fe4b0e4bde44117b2a627b0357f36b4494319",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1IdvlWW-1cp-QKe3Suj5FcsCnSfUtE-u7",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-are-dreams-really-meaningful",
+  "title": "Are dreams really meaningful",
+  "part": 1,
+  "fingerprint": "936c0c885b46618a2d7038ea9b8574691401ccfb0208e3c9c8865e2f7a6b345f",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1OfUeLTrDOp4_2VMsSk7ayzbD_1__E9fw",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-are-dreams-really-meaningful.json",
+  "lessonId": "p1-are-dreams-really-meaningful",
+  "sourceId": "1OfUeLTrDOp4_2VMsSk7ayzbD_1__E9fw",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "21f56e1f9a261f9cee9758c119e826f3cd05cc9a68a5410d8cf6314e7257b30e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.071
+}

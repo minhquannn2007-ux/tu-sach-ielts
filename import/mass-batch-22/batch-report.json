@@ -1,0 +1,923 @@
+{
+  "converterVersion": "3.22",
+  "selected": 30,
+  "cachedSources": 30,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 24,
+    "held": 6,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "seconds": 0.371,
+  "cachedJobs": 15,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p1-hormones",
+      "title": "Hormones",
+      "part": 1,
+      "fingerprint": "f3e36b4980892843900830d08ff34564365bab0f845b20ff8e57c95ef0c91b05",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-hormones.json",
+      "lessonId": "p1-hormones",
+      "sourceId": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+      "questionCount": 13,
+      "types": [
+        "notes",
+        "tfng"
+      ],
+      "sourceHash": "4ecb4810e7c5fa8802156d55212e23e2205d00ea59346676e4510548f4f81cf1",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.2,
+      "cached": true
+    },
+    {
+      "job": "p1-mystery-drawing",
+      "title": "Mystery Drawing",
+      "part": 1,
+      "fingerprint": "c198482bc33f3fa63665cb025bd77a861a9471e9af50b72961802c6a970bc20c",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-mystery-drawing.json",
+      "lessonId": "p1-mystery-drawing",
+      "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+      "questionCount": 13,
+      "types": [
+        "notes",
+        "tfng"
+      ],
+      "sourceHash": "9c378b450d7b7ff744b23dd403421c1fa1e6376e71e0445d269777d8d389cf5e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.225,
+      "cached": true
+    },
+    {
+      "job": "p1-reef-life-on-the-yongala",
+      "title": "Reef life on the Yongala",
+      "part": 1,
+      "fingerprint": "481478782fb49e8e485a9a5ae6583b2e495d5a70ccbb5fa8969237aec3e49692",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1HmoU5-7m85RN9UTGb7DKa4g--3bMll11",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.031,
+      "cached": true
+    },
+    {
+      "job": "p1-the-origins-of-rodeo-a-competitive-sport",
+      "title": "The origins of rodeo - a competitive sport",
+      "part": 1,
+      "fingerprint": "eb84a7465fbfabfc42777321513326a77d91b89054427d926e5375247cdb7d90",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1sHJSrq-UuA4bu_eI6C2_m8gLEbgLHJqn",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-the-origins-of-rodeo-a-competitive-sport.json",
+      "lessonId": "p1-the-origins-of-rodeo-a-competitive-sport",
+      "sourceId": "1sHJSrq-UuA4bu_eI6C2_m8gLEbgLHJqn",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "300e0e1a32a107a907c03295784a6796e66a799c2a08be2bb44380d1733c3a5a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.168,
+      "cached": true
+    },
+    {
+      "job": "p1-the-tyne-bridge",
+      "title": "The Tyne Bridge",
+      "part": 1,
+      "fingerprint": "0d2033d01593ecb3c6991ff8bb50aecd2b77903322e25f101e3c111b1a4319dc",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1vXRiyEMeTkQ0UKNcRWvwZPh_7Vj8EpkY",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.145
+    },
+    {
+      "job": "p1-undergraduate-students-guidelines-to-students-on-literature-courses-check-em-dash-toan-bai",
+      "title": "Undergraduate students: Guidelines to students on literature courses (check em dash toàn bài)",
+      "part": 1,
+      "fingerprint": "73864a042be31d54496f8130ac48931e9850cca6d74b6aeef852a6a8d88b8123",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1_2CTiE41vfw71crr9vHtZR9mLiYizD9x",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.077
+    },
+    {
+      "job": "p2-capability-brown",
+      "title": "Capability Brown",
+      "part": 2,
+      "fingerprint": "158c8eb2499b3b4095cc4ef5f2b3a77798a179aef487c7b2fee613f68c09802e",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1TTzqBmQ7zWkfMPak_ujG_cotr7VTnjhN",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-capability-brown.json",
+      "lessonId": "p2-capability-brown",
+      "sourceId": "1TTzqBmQ7zWkfMPak_ujG_cotr7VTnjhN",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "02fac7643866fae3f7e1ba9c4ea4d0154f697449b8350b53afb2ef318acce40f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.102
+    },
+    {
+      "job": "p2-dominance-in-social-insects",
+      "title": "Dominance in Social Insects",
+      "part": 2,
+      "fingerprint": "5abdd0f18a7cf3ded7e459c3c24cb70ab60ca39cbadc1b4171431f3a5d86876e",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.027,
+      "cached": true
+    },
+    {
+      "job": "p2-multi-tasking-and-the-brain",
+      "title": "Multi-tasking and the brain",
+      "part": 2,
+      "fingerprint": "44b26d44c09754bdad59901ddf74e123edeb7e2a59830fb73705cd83cb760cd4",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1NTfx-3CooQp96CTIPNKJuZaIquDh9Gbj",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.013
+    },
+    {
+      "job": "p2-teamwork",
+      "title": "Teamwork",
+      "part": 2,
+      "fingerprint": "861c263c14a0daf1d680b4488a9a6adf93321172c92c652e7e9abfcc6bfa86d7",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "16my8G0aDQxAin-6C7_2bXi0xsPiI_zVv",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-teamwork.json",
+      "lessonId": "p2-teamwork",
+      "sourceId": "16my8G0aDQxAin-6C7_2bXi0xsPiI_zVv",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "bc831c7bcf4f90f2df5b431538809b55b4645a013e32ce3d2e71463cf1014677",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.125,
+      "cached": true
+    },
+    {
+      "job": "p2-the-impact-of-sports-tourism-on-urban-areas",
+      "title": "The Impact of Sports Tourism on Urban Areas",
+      "part": 2,
+      "fingerprint": "18a6ec0aa0c79fe703803786a36bd1b718e5845840dab041939ebeeb94f31192",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1yMcI80tkLe7lpvSUZLMFBgr04eCIl0Fl",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-impact-of-sports-tourism-on-urban-areas.json",
+      "lessonId": "p2-the-impact-of-sports-tourism-on-urban-areas",
+      "sourceId": "1yMcI80tkLe7lpvSUZLMFBgr04eCIl0Fl",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "1195bffb5518a61ea5f306c0f1e6da3dba0a1e5139efd7b8bed0856f244ac26b",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.12
+    },
+    {
+      "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+      "title": "What kind of structure will make living in space comfortable for us",
+      "part": 2,
+      "fingerprint": "8dc0cd3ecb39235f3432fc1837e1ae8a6f00bcb715bd3538104bb65cfe138781",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us.json",
+      "lessonId": "p2-what-kind-of-structure-will-make-living-in-space",
+      "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "060428217d543d7af9c361887d7929c4ac2b31daf6abfa3a789d1cff77a30417",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.111,
+      "cached": true
+    },
+    {
+      "job": "p3-animals-predicting-earthquakes-chua-rep",
+      "title": "Animals predicting earthquakes?(CHƯA REP)",
+      "part": 3,
+      "fingerprint": "3c904b210690a63414ebf249af87af2db3aa3b5c40d0d7fe1e90f9059c9b8a53",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-animals-predicting-earthquakes-chua-rep.json",
+      "lessonId": "p3-animals-predicting-earthquakes",
+      "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "matching-endings"
+      ],
+      "sourceHash": "f377d7a8fbbc21691b947691eae7406f87504589fbf9a1239bdb0a13366f4c9b",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.081
+    },
+    {
+      "job": "p3-architecture-in-britain",
+      "title": "Architecture in Britain",
+      "part": 3,
+      "fingerprint": "42b1f787bb7e1f5ccffce99368db1d25d0aa1b8fe159f8599e64ab8d3f6412cd",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-architecture-in-britain.json",
+      "lessonId": "p3-architecture-in-britain",
+      "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "summary-input"
+      ],
+      "sourceHash": "879210bd2c49fcba31c9583b94a2ed6c126c5f2a12c7fa4c77b86b911e477cdd",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.149,
+      "cached": true
+    },
+    {
+      "job": "p3-bright-sparks",
+      "title": "Bright sparks",
+      "part": 3,
+      "fingerprint": "5773a662682b4c74c4d9b0ff03282a6441f1eff59e2cac50bd33f40303c0e5ae",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-bright-sparks.json",
+      "lessonId": "p3-bright-sparks",
+      "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "matching-endings",
+        "ynng"
+      ],
+      "sourceHash": "efaec8e51935869c1a927635d5dafca44a8047faed1698a4bf5ec1cad113ae10",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.147,
+      "cached": true
+    },
+    {
+      "job": "p3-crossing-the-threshold",
+      "title": "Crossing the Threshold",
+      "part": 3,
+      "fingerprint": "0736f49bc3c15fecad6368c084a1d1de8aeac21f36cf7e610b54395f8d0a4e14",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-crossing-the-threshold.json",
+      "lessonId": "p3-crossing-the-threshold",
+      "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "matching-endings"
+      ],
+      "sourceHash": "459b50e51bec13b96660b7ccaab620ab6bd6eae23181cdda9c6311ce13e42ded",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.097,
+      "cached": true
+    },
+    {
+      "job": "p3-decisions-decisions",
+      "title": "Decisions, decisions!",
+      "part": 3,
+      "fingerprint": "b28f3803d7d9b7bbdcddf59c967ef851741996d1ba00450f4e29576145f50660",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-decisions-decisions.json",
+      "lessonId": "p3-decisions-decisions",
+      "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "summary-drag",
+        "ynng"
+      ],
+      "sourceHash": "1009987255108a0dd77512c9f43a735dc852ef43c47b48c1c0627861d687f86a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.066
+    },
+    {
+      "job": "p3-how-did-music-begin",
+      "title": "How did music begin",
+      "part": 3,
+      "fingerprint": "a429f914bf1be7e1dc361d9181cb14dc38bcece4bc6c2b7a368da12280f81202",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-how-did-music-begin.json",
+      "lessonId": "p3-how-did-music-begin",
+      "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "matching-endings",
+        "ynng"
+      ],
+      "sourceHash": "078cdffdaa7412738bebfff523812aa6eb651ebbda9d9386fb45a62c43fb0c59",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.088,
+      "cached": true
+    },
+    {
+      "job": "p3-lets-all-be-friends",
+      "title": "Let’s all be friends",
+      "part": 3,
+      "fingerprint": "51c94667817beb9fea4420ba708bfc5b4142e2ae1290ac12c1f645cc0fafbdb5",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-lets-all-be-friends.json",
+      "lessonId": "p3-lets-all-be-friends",
+      "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "summary-drag"
+      ],
+      "sourceHash": "76be39d7520006a7ef4f57d587a911f23292a218d9952725cb1d283b4e332a2c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.083,
+      "cached": true
+    },
+    {
+      "job": "p3-manage-your-energy-not-your-time",
+      "title": "Manage Your Energy, Not Your Time",
+      "part": 3,
+      "fingerprint": "230afe5c10bd8247a2fec4256bcc573859bdf84ee49c7aa9669c7f6f63bde49b",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-manage-your-energy-not-your-time.json",
+      "lessonId": "p3-manage-your-energy-not-your-time",
+      "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "matching-endings"
+      ],
+      "sourceHash": "16a87ca58535dbce51dbea066cb9c872d1bb2df69ff880c5ac6f1a3c4aac5c02",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.082
+    },
+    {
+      "job": "p3-multi-purpose-meeting-spaces",
+      "title": "Multi-purpose meeting spaces",
+      "part": 3,
+      "fingerprint": "80b961ce95aebf6c95c407bdcd0b4f84f7f0be13f96b0373c5cdadc7478b2122",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-multi-purpose-meeting-spaces.json",
+      "lessonId": "p3-multi-purpose-meeting-spaces",
+      "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "matching-endings"
+      ],
+      "sourceHash": "ed6ccc783abc37432d994cab518037144f43d76f4f28f125ba78751bf13ca2c8",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.111
+    },
+    {
+      "job": "p3-rebranding-art-museums",
+      "title": "Rebranding art museums",
+      "part": 3,
+      "fingerprint": "c5508c009b59f9822e761140abc6f40382f147647df27cceac2819b349ae514c",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-rebranding-art-museums.json",
+      "lessonId": "p3-rebranding-art-museums",
+      "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "matching-endings"
+      ],
+      "sourceHash": "232a0c62bdf9f22af548248f5f7ffb66d9f9d63bed788665741daa08af94615f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.09,
+      "cached": true
+    },
+    {
+      "job": "p3-the-animal-connection-chua-rep",
+      "title": "The Animal Connection(CHƯA REP)",
+      "part": 3,
+      "fingerprint": "c51603c2360be38b01063881950ce7320332587cfbe4e586b833a892b96db684",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-animal-connection-chua-rep.json",
+      "lessonId": "p3-the-animal-connection",
+      "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "summary-drag",
+        "mc-one"
+      ],
+      "sourceHash": "2aaa8c7889f0cf7b42b5f55ae690e16696ee9821a7486f5a3d0091d8b59d412a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.132
+    },
+    {
+      "job": "p3-the-costs-of-brand-loyalty",
+      "title": "The costs of brand loyalty",
+      "part": 3,
+      "fingerprint": "8f164a0038a24ea7b6f7da12f855d9352b2b3ec3262ff55a2fb3e4ff7df1f88b",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-costs-of-brand-loyalty.json",
+      "lessonId": "p3-the-costs-of-brand-loyalty",
+      "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "summary-drag"
+      ],
+      "sourceHash": "e773c40f79d5d5eced1228073791281e8bc73524d0a708c303a5e2e59722ecae",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.084,
+      "cached": true
+    },
+    {
+      "job": "p3-the-dark-side-of-the-technological-boom",
+      "title": "The dark side of the technological boom",
+      "part": 3,
+      "fingerprint": "dc9bd63d71a6d45f5351f61fcdf00412bff8c109e6bb738bc5c3c134f5b4ea80",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-dark-side-of-the-technological-boom.json",
+      "lessonId": "p3-the-dark-side-of-the-technological-boom",
+      "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+      "questionCount": 14,
+      "types": [
+        "matching-endings",
+        "matching-features",
+        "tfng"
+      ],
+      "sourceHash": "1ee2ea9065fd6dc68947314e52a40945daf5877ae92d44f8dad35e09201e0f8e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.103
+    },
+    {
+      "job": "p3-the-geography-of-taste-buds",
+      "title": "The geography of taste buds",
+      "part": 3,
+      "fingerprint": "4a30ab8776303c55ba31a3c11d077f2428893710d6dc47dc93de8e0adc9f92cb",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-geography-of-taste-buds.json",
+      "lessonId": "p3-the-geography-of-taste-buds",
+      "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+      "questionCount": 14,
+      "types": [
+        "summary-drag",
+        "ynng",
+        "mc-one"
+      ],
+      "sourceHash": "3cd63520f40b32fe0864cfecba405b70ae6897385e8134b253c0fc0158932502",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.138
+    },
+    {
+      "job": "p3-the-new-zealand-writer-margaret-mahy",
+      "title": "The New Zealand writer Margaret Mahy",
+      "part": 3,
+      "fingerprint": "33bab55a5554762a62a2ef8431c40eb6ae488bd02c5387b0f98322dc049d343c",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-new-zealand-writer-margaret-mahy.json",
+      "lessonId": "p3-the-new-zealand-writer-margaret-mahy",
+      "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "summary-drag",
+        "mc-one"
+      ],
+      "sourceHash": "836a50c1b4d3a0721d5c9d1fd123bace0b04d61fb71ca1d72dc55acad9a095c2",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.092
+    },
+    {
+      "job": "p3-the-strange-world-of-sight",
+      "title": "The strange world of sight",
+      "part": 3,
+      "fingerprint": "e28f5594ad3add7ccc6fa408b90cae142881b748b51c903b629066c002fc0456",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1JbZe-esAceyy3eSZv2_Uf8ABtejWY8mR",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-strange-world-of-sight.json",
+      "lessonId": "p3-the-strange-world-of-sight",
+      "sourceId": "1JbZe-esAceyy3eSZv2_Uf8ABtejWY8mR",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "summary-drag"
+      ],
+      "sourceHash": "e98b873dc82f2c6de8f64655ae18a777ebb350f7ebfdfa29f31f4a0e33106fb9",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.153,
+      "cached": true
+    },
+    {
+      "job": "p3-travelling-plants",
+      "title": "Travelling Plants",
+      "part": 3,
+      "fingerprint": "735a67ffd61051611b603eb74c06116cd983a6278bdd8cf3700a842e40f425d1",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "1ixA7GPGZvbbBYBLxZyrirOzw-9kTKeoC",
+          "code": "option-bank",
+          "message": "An option has no content"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.09
+    },
+    {
+      "job": "p3-what-is-social-history",
+      "title": "What is social history?",
+      "part": 3,
+      "fingerprint": "e9cb7a3ed494e0f5deab49f8b860625ab5d5a7194e031e07d2abd2a3b5fd0fa2",
+      "converterVersion": "3.22",
+      "attempts": [
+        {
+          "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-what-is-social-history.json",
+      "lessonId": "p3-what-is-social-history",
+      "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+      "questionCount": 14,
+      "types": [
+        "summary-drag",
+        "ynng",
+        "mc-one"
+      ],
+      "sourceHash": "d877c5a533ed3a413f4bf18c140208e103dc714c1f7a31b90b48e614ae529ac1",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.064
+    }
+  ],
+  "published": 0
+}

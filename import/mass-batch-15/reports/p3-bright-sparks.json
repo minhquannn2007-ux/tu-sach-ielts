@@ -1,0 +1,17 @@
+{
+  "job": "p3-bright-sparks",
+  "title": "Bright sparks",
+  "part": 3,
+  "fingerprint": "f0142e023ea4f21fe285a2e95727e53f1b31f87f19f8eef4a8a172f49e501ec7",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.058
+}

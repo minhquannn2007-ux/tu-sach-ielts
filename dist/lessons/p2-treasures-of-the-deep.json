@@ -1,0 +1,195 @@
+{
+  "id": "p2-treasures-of-the-deep",
+  "part": 2,
+  "title": "Treasures of the deep",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Deep-sea hydrothermal vents are present in all of the world’s oceans in areas associated with tectonic and volcanic activity. The first ones were discovered in 1977, but it is only recently that their biological and mineral potential has begun to be appreciated. Typically found at depths of around 2,500 metres, deep-sea vents were dubbed ‘black smokers’ after the plumes of sulphide compounds that billow out of them. This material can rise several hundred metres before eventually sinking back down to form distinctive ‘chimneys’ of 70–80 metres in height before they, in turn, buckle and collapse into crumpled, energy-rich mounds."
+    },
+    {
+      "label": "B",
+      "text": "Somewhat surprisingly, these hostile environments support thriving communities of species, including tubeworms, mussels, shrimps and snails. Typically, around 100 species will live around any volcanic chimney stack. At the base of the food chain are bacteria that use the sulphide compounds to provide the energy they need to produce sugars and proteins. Larger animals then feed on the bacteria and are themselves eaten by still larger animals. These ecosystems are the only known communities whose immediate energy source is not sunlight."
+    },
+    {
+      "label": "C",
+      "text": "The challenge to exist in such conditions is huge. ‘Oxygen levels are low or non-existent and the environment is toxic – high in sulphides, heavy metals and radiation,’ explains Professor Chuck Fisher of Penn State University. The variations in temperature are also extraordinary, even across just one centimetre. For example, the Pompeii worm lives with one end in cool, 2–20°C water while its other end is occasionally exposed to water as hot as 80–100°C. ‘Not surprisingly, such communities can be very ephemeral – they don’t last long,’ says Fisher."
+    },
+    {
+      "label": "D",
+      "text": "But the vents aren’t only energetically and biologically rich. In 2006, Canadian mining company Nautilus Minerals collected material from several deep-sea vents which was found to have high grades of many valuable minerals, including copper, gold, zinc and silver. The minerals’ abundance is the result of the same extreme conditions that have produced the vents’ rarefied life forms. Water enters cracks in the seabed in an area of high volcanic activity, becomes superheated, and draws out the minerals from the rock. When it re-emerges into the surrounding seawater, its temperature drops from 350°C to 2°C and the minerals are instantly crystallised."
+    },
+    {
+      "label": "E",
+      "text": "According to David Heydon, president of Nautilus, it is imperative that the mining industry seeks out these new deposits, in order to meet the growing demand for these minerals. ‘All of the easy material on land has gone. If it hadn’t been for oil and gas moving offshore, we wouldn’t be living as we do now. It was inevitable that we would get to the point where we must do the same with minerals.’"
+    },
+    {
+      "label": "F",
+      "text": "There are significant logistical advantages to mining underwater. ‘On land, a company can use 44 megawatts a year just keeping a mine cool,’ says Heydon. The potential yields of mining underwater are far greater, and excavation is also potentially far easier than for land-based mineral deposits. ‘Underwater, it’s all very surgical,’ says geologist Dr Steve Scott of the University of Toronto. ‘You recover the mound you want, and can effectively break the slurry apart with your fingers.’ He recognises that there will inevitably be environmental damage, but believes that it will be a vast improvement on underground or open-cast mining. The perception is that there will be fewer problems than there are on the surface, where you have acid damage, huge holes in the ground and piles of rock. You would have none of those problems in the water.’"
+    },
+    {
+      "label": "G",
+      "text": "However, Dr Paul Johnston of the Greenpeace Research Laboratories at Exeter University is sceptical of mining company assurances that any impact would be minimal. ‘As a marine scientist, I find it profoundly objectionable to set about mining when we haven’t even described all of the species down there. It’s wishful thinking to say that this kind of mining could be surgically targeted. You would only need to be a little off target with these ‘surgical’ procedures to inflict huge damage.’ Chuck Fisher is of the same opinion. ‘Until we know about the real distribution of species, you could potentially endanger a site by wiping out a vent with a mass excavation. It would be unfortunate to lose an entire site to mining, because of both the beauty inherent in the site and the abundance of animals that would be lost.’"
+    },
+    {
+      "label": "H",
+      "text": "But whatever the rights and wrongs, mining the vents could well be the beginning of the story, not the end. Mining may only be the beginning of man’s exploration and exploitation of these deep-sea ecosystems. ‘The potential for fundamental discoveries of biotechnical and perhaps medical importance is high in the fauna of these extreme environments,’ says Professor Colin Devey of the Leibniz Institute of Marine Sciences in Germany. Nii Odunton of the International Seabed Authority agrees: ‘It may be mining that takes us down to these vents, but I’m sure there will be potential for humanity down there that is truly tremendous.’"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 17 Reading Passage 2 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 14-17 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "reference to the need to begin mining deep-sea minerals"
+        },
+        {
+          "n": 15,
+          "prompt": "examples of the disadvantages of conventional mining practices"
+        },
+        {
+          "n": 16,
+          "prompt": "the process by which deep-sea mineral deposits are formed"
+        },
+        {
+          "n": 17,
+          "prompt": "reference to the need for further knowledge before starting to mine"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 18 – 22 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 18-22 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        }
+      ],
+      "title": "Life in the deep-sea vent: a hostile world",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "The lowest level of the food chain consists of {{18}} . These create both {{19}} and ………… out of the sulphide compounds in the environment. The organisms in the ecosystem all survive without any energy derived from {{20}} – a situation unique to hydrothermal vent communities. In these communities, there is a severe shortage of {{21}} , and there are large amounts of toxic compounds and minerals, and high levels of radiation. There are also extremes of {{22}} , even over very small areas."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Look at the following people (Questions 23-26) and the list of viewpoints below. Match each person with the correct viewpoint, A, B, or C. Write the correct letter, A, B, or C, in boxes 23-26 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "prompt": "Chuck Fisher"
+        },
+        {
+          "n": 24,
+          "prompt": "David Heydon"
+        },
+        {
+          "n": 25,
+          "prompt": "Steve Scott"
+        },
+        {
+          "n": 26,
+          "prompt": "Paul Johnston"
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "in favour of mining deep-sea vents"
+        },
+        {
+          "value": "B",
+          "text": "against the mining of deep-sea vents"
+        },
+        {
+          "value": "C",
+          "text": "aware of both the advantages and disadvantages of mining deep-sea vents"
+        }
+      ],
+      "targetName": "viewpoint",
+      "listTitle": "List of Viewpoints",
+      "reuse": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "12Ga7qlkhNuJEVhZrQaML1FytDCri0f9h",
+      "role": "passage-and-questions",
+      "sha256": "e96afe4608d0897e88723a03190a379dbdb900d90f7232b3cca2cad264d5a45f",
+      "name": "Treasures of the deep.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 8,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-treasures-of-the-deep"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Conflicting attitudes towards the biological and mineral wealth beneath our oceans",
+  "cover": {
+    "asset": "assets/batch3-seaweed-cover.jpg",
+    "alt": "Rong biển",
+    "credit": "Kristin Hoel",
+    "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-14-2026-10-13",
+    "checks": [
+      "all source title subtitle and question pages inspected",
+      "source paragraph question option and completion text compared",
+      "source-selected answer count and paragraph scopes preserved",
+      "source note bullets/indents and reading subheadings checked",
+      "original Mungo folder renamed to actual full source title Controversies in Australian Prehistory"
+    ]
+  }
+}

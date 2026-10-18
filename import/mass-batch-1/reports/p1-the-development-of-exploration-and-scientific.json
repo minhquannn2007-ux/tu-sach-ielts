@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-development-of-exploration-and-scientific",
+  "title": "The Development of Exploration and Scientific",
+  "part": 1,
+  "fingerprint": "1062b1b958ea3c3fa1c2c8e570d4721a2bfde1b1ddb14e5894727b67de527df8",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1H0RjncsmZnvLQnI2r_TlfocfDMKhYFJl",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-development-of-exploration-and-scientific.json",
+  "lessonId": "p1-the-development-of-exploration-and-scientific",
+  "sourceId": "1H0RjncsmZnvLQnI2r_TlfocfDMKhYFJl",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "133fdc8a128b367f1bcc494e72921bd5fa31f0b0402e9d3e2765db6ffb9a028a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.044
+}

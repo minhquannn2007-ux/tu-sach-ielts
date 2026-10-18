@@ -1,0 +1,17 @@
+{
+  "job": "p1-solving-an-arctic-mystery",
+  "title": "Solving an Arctic mystery",
+  "part": 1,
+  "fingerprint": "55e87ee5a88dccdaaca931e3cfe7b582feb142f4a2124a10b00528f97a7b75db",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1hiDEOeH11ctSVj8NhHXy9Xq83Rg-Ph3U",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-antikythera-mechanism",
+  "title": "The Antikythera Mechanism",
+  "part": 3,
+  "fingerprint": "97cbbfaa0144d289d912465efd3bea53b540af31f63d24b771c02750f3af07e3",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1uHLyFIo05UoL7-JQ-e14rKCwuTBMKvlo",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-antikythera-mechanism.json",
+  "lessonId": "p3-the-antikythera-mechanism",
+  "sourceId": "1uHLyFIo05UoL7-JQ-e14rKCwuTBMKvlo",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "summary-drag",
+    "mc-one"
+  ],
+  "sourceHash": "f3a8191c87ba20b783a94aafdd3b2619ca59dc3b2d57b9d1ba2390d33ca05e31",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.073
+}

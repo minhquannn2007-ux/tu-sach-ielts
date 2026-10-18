@@ -1,0 +1,22 @@
+{
+  "job": "p2-multi-tasking-and-the-brain",
+  "title": "Multi-tasking and the brain",
+  "part": 2,
+  "fingerprint": "0e005e027011625152a225b9982af51cd0a305f89f72fd2fdba121c38df24590",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1NTfx-3CooQp96CTIPNKJuZaIquDh9Gbj",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1XkfsqLWLojCxqQ8wuw30sY4YxiZOF0GT",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

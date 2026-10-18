@@ -1,0 +1,17 @@
+{
+  "job": "p1-building-a-new-future",
+  "title": "Building a New Future",
+  "part": 1,
+  "fingerprint": "276547f72c7f584cb6296c92e336bb364ae797f4ed456efacb02b8f8dc984865",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "11Afas3Mw1RNsyNqpKKbXA8I01miKJLHu",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

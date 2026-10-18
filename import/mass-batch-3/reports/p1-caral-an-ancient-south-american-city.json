@@ -1,0 +1,32 @@
+{
+  "job": "p1-caral-an-ancient-south-american-city",
+  "title": "Caral: an ancient South American city",
+  "part": 1,
+  "fingerprint": "66a33be0767d67085c650962632f0e40e0662c5a208b0a53668619fafa463cb8",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1dhbfwFp64zcV29mtSfaKRKitSx8zYzig",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-caral-an-ancient-south-american-city.json",
+  "lessonId": "p1-caral-an-ancient-south-american-city",
+  "sourceId": "1dhbfwFp64zcV29mtSfaKRKitSx8zYzig",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "10921a7fc6c3aafb3e3503699e1c9bfbb725d8d19bd6c804e37d072f9935b56b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.059
+}

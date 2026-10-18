@@ -1,0 +1,27 @@
+{
+  "job": "p3-200-years-of-australian-landscapes-at-the-royal-academy-in-london",
+  "title": "200 Years of Australian Landscapes at the Royal Academy in London",
+  "part": 3,
+  "fingerprint": "4665d777eb7a51659717ceed31d024a416948654445145eecff11c0a8186f6fa",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1a2kw03B9m8BQaLyOppIHJHE8oi7KHpDV",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1icIQNz9cQRzjg6VvEjWtJI9Q5IlYcwO6",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Om3-x9w6qZzYDwvuF6E_HgwwPDZBMFyz",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

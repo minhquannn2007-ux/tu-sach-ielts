@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-baobabs-of-madagascar",
+  "title": "The Baobabs of Madagascar",
+  "part": 1,
+  "fingerprint": "68c686a9534b6ab2a7bb96fb559b954cb5518c4fa4dd054e6dcd18a18da3714c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "14MVQ2FxXslmChtXNMi21gilEFpM0UKkU",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-baobabs-of-madagascar.json",
+  "lessonId": "p1-the-baobabs-of-madagascar",
+  "sourceId": "14MVQ2FxXslmChtXNMi21gilEFpM0UKkU",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "0cd89ee7b3004f863f70b34f199e10b7ce90db27cb426413d6b32d47603ce5e4",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.08
+}

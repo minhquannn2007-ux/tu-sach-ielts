@@ -1,0 +1,33 @@
+{
+  "job": "p3-tick-tock-body-clock",
+  "title": "Tick Tock Body Clock",
+  "part": 3,
+  "fingerprint": "92c750d9aa0d13d3a0797cc7033ebb5d51a14bda6a3cde2b9a29e3d02d53e660",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1sIKf6nnoQAJy_Bmo8vBAEtR6vftORKsI",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-tick-tock-body-clock.json",
+  "lessonId": "p3-tick-tock-body-clock",
+  "sourceId": "1sIKf6nnoQAJy_Bmo8vBAEtR6vftORKsI",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "75e203e0ffca20681891619e5693308c39cbc0962057e7757e81f0785121bbc2",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-travelling-stock-routes-and-reserves-of-new-south-wales",
+  "title": "The Travelling Stock Routes and Reserves of New South Wales",
+  "part": 1,
+  "fingerprint": "bd911caa72a236864efb67462667d18921ddc8d00f66d4fafd4a0bf5cd9403b4",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "17Qfu_dHyk4SazSjcEP2GyiX53DK75_d0",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-travelling-stock-routes-and-reserves-of-new-south-wales.json",
+  "lessonId": "p1-the-travelling-stock-routes-and-reserves-of-new-south-wales",
+  "sourceId": "17Qfu_dHyk4SazSjcEP2GyiX53DK75_d0",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "389658f4c0decd89d5fb5d45a93101a890377f32f812f497cad969b2440c14a5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.055
+}

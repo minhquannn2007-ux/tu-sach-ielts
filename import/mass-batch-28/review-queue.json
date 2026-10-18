@@ -1,0 +1,98 @@
+[
+  {
+    "job": "p3-a-new-voyage-round-the-world",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1_LKGjWGg4qPlCs73ykLrEGLQJAM7g8Jj",
+        "code": "detached-bank",
+        "message": "Word bank is separated from its task and cannot be assigned safely"
+      }
+    ]
+  },
+  {
+    "job": "p3-flower-power",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1UO1IyW98TW12FSFpD1GBhuHZ_mEWx_pE",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-green-fingers-and-green-thoughts",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-green-fingers-and-green-thoughts.json",
+    "reasons": [
+      {
+        "sourceId": "1E6inLpjEAXlQZzL2vyxBc_VXdCgVdGtS",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-no-title-charles-darwin",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1YMNvrPerQzeiiG7WndTeWyn854yM_oOO",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-psychological-responses-to-mirror-images",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1zD3JGOrNXZwkdshFbeHPqPql_7mJ9zN8",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-refraction",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1F9OCwBBr-3s_Fk7HIzIeU2N3IHiOrjp_",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [36, 37, 38, 39, 40], found [33, 34, 35, 36, 37, 38, 39, 40]"
+      }
+    ]
+  },
+  {
+    "job": "p3-rights-for-apes",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1gGCRaaxWBBvJ38CChJcSELuFmMPLGz9u",
+        "code": "detached-bank",
+        "message": "Word bank is separated from its task and cannot be assigned safely"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-lost-animals-of-australia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Wx7-So_wMdgra0BuDFU5AqojtZ6OD1Fi",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'A', 'B', 'C', 'D']; expected ['A', 'B', 'C', 'D']"
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "job": "p2-american-businesses-aim-to-support-employees-and-their-families",
+  "title": "American businesses aim to support employees and their families",
+  "part": 2,
+  "fingerprint": "f31c62e8d6dbd987f22a0a0afc5c9d4e50268bd9fba39cdbb1c875942e8608ac",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1acJdCZvO1ZS3Hix6EOnBEAjIXYcCgtCp",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-american-businesses-aim-to-support-employees-and-their-families.json",
+  "lessonId": "p2-american-businesses-aim-to-support-employees-and-their-families",
+  "sourceId": "1acJdCZvO1ZS3Hix6EOnBEAjIXYcCgtCp",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "fcf5af5c0b718e43b9673fdccc6887a12d50fdcc48cfc33abf708e2a80b7f61f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

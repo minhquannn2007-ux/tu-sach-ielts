@@ -1,0 +1,22 @@
+{
+  "job": "p3-marketing-and-the-information-age",
+  "title": "Marketing and the information age",
+  "part": 3,
+  "fingerprint": "7356a100a58e4b7a122efd9fa4c53c95bf982be25aa5966717000b9ca7f42faf",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "14zZqE0cHZxHok6pS3CT00Pz2d4B6QTg1",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    },
+    {
+      "sourceId": "1KZMltn_JvyKOqLNWevY9R8Qavw1XTUzh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.07
+}

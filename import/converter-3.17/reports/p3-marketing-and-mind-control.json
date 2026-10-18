@@ -1,0 +1,27 @@
+{
+  "job": "p3-marketing-and-mind-control",
+  "title": "Marketing and mind control",
+  "part": 3,
+  "fingerprint": "332c9b0e7d7d673d22ff7205af3af7e3785c2bc1838e95176046aa93861c571a",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1gx8es4PKBnIl5fEsAUrd_kAMxkQMaYFa",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1p7AqFX9HP9vepCkvN-z7SR22lB7CuygW",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1Hn9WEYPpeOEBNTRR0IQFZj7sdSvBHajO",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.009
+}

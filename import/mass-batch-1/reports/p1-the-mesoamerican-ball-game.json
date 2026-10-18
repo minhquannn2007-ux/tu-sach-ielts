@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-mesoamerican-ball-game",
+  "title": "The Mesoamerican Ball Game",
+  "part": 1,
+  "fingerprint": "9e1b196b14fa0485d3d528ece50b7a61e836d35214767f2ae64751563edb103f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1EVJUoaJ6dWF-HM-EL76B71mHS5Doauct",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-mesoamerican-ball-game.json",
+  "lessonId": "p1-the-mesoamerican-ball-game",
+  "sourceId": "1EVJUoaJ6dWF-HM-EL76B71mHS5Doauct",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "9c610697f85445ca10cd1bfbcb31543f69eea2c5d58a8a1f2d16c023714903f7",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.116
+}

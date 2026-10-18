@@ -1,0 +1,17 @@
+{
+  "job": "p3-mapping-the-mind",
+  "title": "Mapping the Mind",
+  "part": 3,
+  "fingerprint": "b760b12b2477d25bbac678e2faa64893e5e87ef07bc39d8a8eb7d68b7789ffa6",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1HnsvZM4HyFYLwG9WGnTaqFnYvjL0GCMn",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-saving-the-date-palm",
+  "title": "Saving the date palm",
+  "part": 1,
+  "fingerprint": "f0818386ea787c9ef53f07eb56b754592e4141df25d7dac7062f5cc83ce0ff05",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1mDJZHwi7fRxgtBjUWraHNNb9XqZo6EY6",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-saving-the-date-palm.json",
+  "lessonId": "p1-saving-the-date-palm",
+  "sourceId": "1mDJZHwi7fRxgtBjUWraHNNb9XqZo6EY6",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "23db1c847bafed117bb89b54560137d4b34964d8efd3eb463ac6dab843b76cdd",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

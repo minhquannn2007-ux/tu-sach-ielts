@@ -1,0 +1,27 @@
+{
+  "job": "p3-flower-power",
+  "title": "Flower Power",
+  "part": 3,
+  "fingerprint": "8592048400f4d6f9621c99f82dee25b3764f3cf9a90bf686e0ecefefb2b6cbd8",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1u59ItLgzRgxocGaxXGjt1ILfVWBovUdT",
+      "code": "heading-questions",
+      "message": "Heading paragraph mapping is ambiguous"
+    },
+    {
+      "sourceId": "1UO1IyW98TW12FSFpD1GBhuHZ_mEWx_pE",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1PXOtYSYQCkVeTwu8we3I0zTnaaddtwgF",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.115
+}

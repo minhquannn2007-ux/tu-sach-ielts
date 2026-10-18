@@ -1,0 +1,17 @@
+{
+  "job": "p2-growing-more-for-less",
+  "title": "Growing more for less",
+  "part": 2,
+  "fingerprint": "38c882544e012f75102246630c6473e89afdafbb48687058001dbe052935da2c",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1wIr8DPNo_kksREu0FjFhkml4GbeZk7GN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

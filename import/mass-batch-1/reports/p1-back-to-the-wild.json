@@ -1,0 +1,33 @@
+{
+  "job": "p1-back-to-the-wild",
+  "title": "Back to the wild",
+  "part": 1,
+  "fingerprint": "5aa17a67c6a80003fe8559c9ac49d5d8430f13ffbcb7d8bebd2cb5acc48de0f7",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1jVsd3V8gbxrjx8HkrT8lFgrFrDNnYShd",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-back-to-the-wild.json",
+  "lessonId": "p1-back-to-the-wild",
+  "sourceId": "1jVsd3V8gbxrjx8HkrT8lFgrFrDNnYShd",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes",
+    "short-answer"
+  ],
+  "sourceHash": "f892c4b739c40da532279e34e6820f75609863caf3c338d1f6d558fc56896f65",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.05
+}

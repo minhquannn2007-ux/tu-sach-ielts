@@ -1,0 +1,17 @@
+{
+  "job": "p3-look-who-was-talking",
+  "title": "Look who was talking",
+  "part": 3,
+  "fingerprint": "2122ee8859fa7c281962f0f58bbef7de06be556b4e946989da96834027238997",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1B4bkDyxnuTrMRi6I4vwdjyHjQcFjLFVa",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

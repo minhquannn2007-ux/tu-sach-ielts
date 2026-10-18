@@ -1,0 +1,32 @@
+{
+  "job": "p1-motivating-employees-who-work-with-customers",
+  "title": "Motivating employees who work with customers",
+  "part": 1,
+  "fingerprint": "3dbf8075f8a8eca6feb58adbcdfb2e5e406d4e45ac41cd579d4eec24beaf1e8c",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1L-IC1UAVACugKsi4ogEiVndbKZaxXznb",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-motivating-employees-who-work-with-customers.json",
+  "lessonId": "p1-motivating-employees-who-work-with-customers",
+  "sourceId": "1L-IC1UAVACugKsi4ogEiVndbKZaxXznb",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "20d6189d76408e092616a5b65b2c47b81ca406fc2f795a97aab35bed68dc3034",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.062
+}

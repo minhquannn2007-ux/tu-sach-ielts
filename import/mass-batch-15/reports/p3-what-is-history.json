@@ -1,0 +1,17 @@
+{
+  "job": "p3-what-is-history",
+  "title": "What is history?",
+  "part": 3,
+  "fingerprint": "ffffe18fcc2f985e8d41dbfb5f1cd72d3b57d0db83ba54906a96266a97163f3c",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p1-ancient-peoples-of-the-sahara",
+  "title": "Ancient Peoples of the Sahara",
+  "part": 1,
+  "fingerprint": "1d8afb2fa06fbcef7b6b62258bd35882d26c56a04b9fd7e3c9b0b13cfa5cd875",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "190H2Pzrgn4jxQnvO8tsNQX1GKvNR41DQ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-ancient-peoples-of-the-sahara.json",
+  "lessonId": "p1-ancient-peoples-of-the-sahara",
+  "sourceId": "190H2Pzrgn4jxQnvO8tsNQX1GKvNR41DQ",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "short-answer",
+    "notes"
+  ],
+  "sourceHash": "2e1aa707d66f35c1f0d115043c950da9f0b5a96f69cfea7a9c16ca69d6d83fe5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.09
+}

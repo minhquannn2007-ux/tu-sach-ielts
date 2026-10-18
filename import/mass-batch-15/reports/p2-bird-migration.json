@@ -1,0 +1,17 @@
+{
+  "job": "p2-bird-migration",
+  "title": "Bird Migration",
+  "part": 2,
+  "fingerprint": "1c949252e1e486cf8342ae8c58995fb2ca8250c97796c43b4fdfa45625b7156b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "14vjpz28tHVjkp4tmds8oIoQ1ZRUv7wwL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

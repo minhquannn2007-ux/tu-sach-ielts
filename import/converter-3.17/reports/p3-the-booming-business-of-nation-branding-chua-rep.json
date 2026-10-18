@@ -1,0 +1,34 @@
+{
+  "job": "p3-the-booming-business-of-nation-branding-chua-rep",
+  "title": "The booming business of nation-branding(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "ecb0ef8d224addc28843d048f3ba288bb2f3d1c1bf0545c25248af2783cdbac1",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1El-juHTWy7guFupjvCpx_EIMFYMf4u8r",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-booming-business-of-nation-branding-chua-rep.json",
+  "lessonId": "p3-the-booming-business-of-nation-branding",
+  "sourceId": "1El-juHTWy7guFupjvCpx_EIMFYMf4u8r",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "b76a3fa560ee383c34a0350a099229d6af15456bbac4030b12f2ef729ae0e23c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.072
+}

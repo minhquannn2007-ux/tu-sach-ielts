@@ -1,0 +1,33 @@
+{
+  "job": "p2-should-we-stop-eating-meat",
+  "title": "Should we stop eating meat",
+  "part": 2,
+  "fingerprint": "3452e40b52df604c12621dae553480d169081a9fed7509305ac7f9da23b9fa4c",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1LhIDr7AKt9BTpurbU0wLaRB5lfLoGjZh",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-should-we-stop-eating-meat.json",
+  "lessonId": "p2-should-we-stop-eating-meat",
+  "sourceId": "1LhIDr7AKt9BTpurbU0wLaRB5lfLoGjZh",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "27e86fa35d01e6ab87c48b2a6c2c5d0704d9500d7dc3a62858e732fb1881988f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-roll-cameras",
+  "title": "Roll Cameras!",
+  "part": 3,
+  "fingerprint": "77230e139d2581285f4b1bcebe959b24a47bb80ca11eb0383fedad6690c63f28",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1Ipxuq53EPtk8fQxdOjqYZCZJtAE0mX9T",
+      "code": "word-limit",
+      "message": "Missing or unsupported source word/number limit"
+    },
+    {
+      "sourceId": "1MRvc9tc1w7rZiN9lWKbMDYaUXUG-gehF",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.073
+}

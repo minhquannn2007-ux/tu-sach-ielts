@@ -1,0 +1,27 @@
+{
+  "job": "p2-the-importance-of-the-human-urge-to-move",
+  "title": "The importance of the human urge to move",
+  "part": 2,
+  "fingerprint": "2c7d794446f27070838ae51f4e4679cd25fe629c4cc7c2bd7492ca8b6eb07297",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1wOcUR85D1QjOmti6f43AzOoa_8xydVse",
+      "code": "heading-questions",
+      "message": "Heading paragraph mapping is ambiguous"
+    },
+    {
+      "sourceId": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1wyWLGGl_V8ND-8hvVoaYP94XNX5bi0sY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.567
+}

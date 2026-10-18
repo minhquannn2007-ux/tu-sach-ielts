@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-media-literacy-of-children-a-review-of-research-literature",
+  "title": "The media literacy of children: a review of research literature",
+  "part": 1,
+  "fingerprint": "08845c5e1af5d079ee654018c2a996647b226ae7a087b7cc75790a1ac5e1b619",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "16gOEpWyJCgbh3AtHXc4Qz78hXtL9_HGJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/16gOEpWyJCgbh3AtHXc4Qz78hXtL9_HGJ.json",
+      "ocrConfidence": [
+        87.5,
+        90.4,
+        88.5,
+        0.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.019
+}

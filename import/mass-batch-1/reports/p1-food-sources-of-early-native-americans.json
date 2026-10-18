@@ -1,0 +1,32 @@
+{
+  "job": "p1-food-sources-of-early-native-americans",
+  "title": "Food Sources of Early Native Americans",
+  "part": 1,
+  "fingerprint": "ff77ab3bcf568ce3aef5f29f7fcc7a42dbc55ec2ce43cb37a07f9b2815f09e29",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1zy368y0rftvcPi5zFfxzARhXKvVgoZ2O",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-food-sources-of-early-native-americans.json",
+  "lessonId": "p1-food-sources-of-early-native-americans",
+  "sourceId": "1zy368y0rftvcPi5zFfxzARhXKvVgoZ2O",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "9263348ec9334db664bfb83cee51b3535b213ebc8e4c50e5c617fdcea8f03b33",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

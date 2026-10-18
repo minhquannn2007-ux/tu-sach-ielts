@@ -1,0 +1,34 @@
+{
+  "job": "p3-mark-sumner-of-the-university-of-leeds-explains-the-challenges-facing-the-fashion-industry",
+  "title": "Mark Sumner of the University of Leeds explains the challenges facing the fashion industry",
+  "part": 3,
+  "fingerprint": "20c0241e62d07e6e36d96e110c935612e083b3f733ce253f8461b8c0e79496cb",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1sqc0_jzcDM6klasNR4XxuWTIfaxNiK4B",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-mark-sumner-of-the-university-of-leeds-explains-the-challenges-facing-the-fashion-industry.json",
+  "lessonId": "p3-mark-sumner-of-the-university-of-leeds-explains-the-challenges-facing-the-fashion-industry",
+  "sourceId": "1sqc0_jzcDM6klasNR4XxuWTIfaxNiK4B",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "821070ca47998ef408c2d7dc09177c5181d6753417c36c6b071dbab8938b2437",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.068
+}

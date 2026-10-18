@@ -1,0 +1,32 @@
+{
+  "job": "p1-preserving-the-gardens-of-the-past",
+  "title": "Preserving the Gardens of the Past",
+  "part": 1,
+  "fingerprint": "ea52d2fa80b279015762bc95082bd5fde99d53b2a73d604658c61c580b712d30",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1hdYLUj7g4RehpobGDq8N1P2EujdXpWmC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-preserving-the-gardens-of-the-past.json",
+  "lessonId": "p1-preserving-the-gardens-of-the-past",
+  "sourceId": "1hdYLUj7g4RehpobGDq8N1P2EujdXpWmC",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "effe0600eaab4f277f3caa0bd320804296c5d77b4fc477e97e6ee73c8b8dff83",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.121
+}

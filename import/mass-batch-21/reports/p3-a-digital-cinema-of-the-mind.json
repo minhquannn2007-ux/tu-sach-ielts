@@ -1,0 +1,33 @@
+{
+  "job": "p3-a-digital-cinema-of-the-mind",
+  "title": "A Digital Cinema of the Mind",
+  "part": 3,
+  "fingerprint": "f38a811cf0f1e7ebca912ec02b2eb182a5268fecc3af46e7dd9e7b69f033fa84",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-a-digital-cinema-of-the-mind.json",
+  "lessonId": "p3-a-digital-cinema-of-the-mind",
+  "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "matching-endings",
+    "mc-one"
+  ],
+  "sourceHash": "713243ce5a24abb11c7151a9b3d4ce7f67232edde3bb6871eb649db1ca53e11b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.21
+}

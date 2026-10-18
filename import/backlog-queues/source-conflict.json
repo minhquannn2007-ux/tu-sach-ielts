@@ -1,0 +1,257 @@
+[
+  {
+    "key": "177d30510d21008b-1",
+    "id": "p1-feeding-the-world",
+    "title": "Feeding the world",
+    "part": 1,
+    "category": "source-conflict",
+    "status": "text-prepared",
+    "holdReason": "Downloaded source differs from cached transcript hash and opens with zero pages; compare another source before conversion.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY",
+        "sha256": "7dde28a897d2a2406df143208235dce78959079645f443cafeae5328abdc80bf",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1z2frVoCv_l0ldN4BU4zDVnljahCdBwHY/view?usp=drivesdk",
+        "size": "2396662"
+      },
+      {
+        "id": "17hiherWmvqJl8JYTHIuooxQWa_-sZHP-",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/17hiherWmvqJl8JYTHIuooxQWa_-sZHP-/view?usp=drivesdk",
+        "size": "689468"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "1db6bb80fbbc0f9e-1",
+    "id": "p1-keeping-healthy-at-work",
+    "title": "Keeping Healthy at Work",
+    "part": 1,
+    "category": "source-conflict",
+    "status": "text-prepared",
+    "holdReason": "Downloaded source differs from cached transcript hash and opens with zero pages; compare another source before conversion.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA",
+        "sha256": "2d70ea23a831fb2ae572235ba34bdb24fd151971a3de95ed611f3fa5574c5aa3",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA/view?usp=drivesdk",
+        "size": "3064679"
+      },
+      {
+        "id": "1Hvj6sIgIgFYL5sYxq98on3hJ7nlH1olu",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Hvj6sIgIgFYL5sYxq98on3hJ7nlH1olu/view?usp=drivesdk",
+        "size": "871443"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "cb64696090f3bbf9-1",
+    "id": "p1-the-life-of-louis-braille",
+    "title": "The Life of Louis Braille",
+    "part": 1,
+    "category": "source-conflict",
+    "status": "queued",
+    "holdReason": "Source notes are headed The characteristics of the camel, unrelated to the Louis Braille content; requires corrected source title.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [],
+    "sources": [
+      {
+        "id": "1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5",
+        "title": "The Life of Louis Braille.pdf",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1MvmNoa1HqsLycg98EaeCz8IttrHWV1f5/view?usp=drivesdk",
+        "size": "255930"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "8d4e1ac707289969-1",
+    "id": "p2-digital-analysis-of-literature",
+    "title": "Digital analysis of literature",
+    "part": 2,
+    "category": "source-conflict",
+    "status": "text-prepared",
+    "holdReason": "source-content: Q20–23 discuss workplaces rather than the passage; compare another version",
+    "flags": [
+      "source-content: Q20–23 discuss workplaces rather than the passage; compare another version"
+    ],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1UfqUypvhItGSN63qosGMputuguzeyZ27",
+        "sha256": "54a6676b06ba9b96c1953550a9dcf26348e5d0cb049d1acafda229c6522a93b3",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "text": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1UfqUypvhItGSN63qosGMputuguzeyZ27",
+        "title": "Digital analysis of literature.pdf",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1UfqUypvhItGSN63qosGMputuguzeyZ27/view?usp=drivesdk",
+        "size": "276905"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "8e6551117db3f467-1",
+    "id": "p2-the-importance-of-the-human-urge-to-move",
+    "title": "The importance of the human urge to move",
+    "part": 2,
+    "category": "source-conflict",
+    "status": "queued",
+    "holdReason": "Missing or repeated paragraph labels; Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [],
+    "sources": [
+      {
+        "id": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh/view?usp=drivesdk",
+        "size": "1812968"
+      },
+      {
+        "id": "1wyWLGGl_V8ND-8hvVoaYP94XNX5bi0sY",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1wyWLGGl_V8ND-8hvVoaYP94XNX5bi0sY/view?usp=drivesdk",
+        "size": "347294"
+      },
+      {
+        "id": "1wOcUR85D1QjOmti6f43AzOoa_8xydVse",
+        "title": "The importance of the human urge to move.pdf",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1wOcUR85D1QjOmti6f43AzOoa_8xydVse/view?usp=drivesdk",
+        "size": "233717"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "d78aeb1c4474c291-1",
+    "id": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+    "title": "Canal discovered at ancient quarry in Egypt",
+    "part": 2,
+    "category": "source-conflict",
+    "status": "queued",
+    "holdReason": "Source paragraph range differs from extracted text",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [],
+    "sources": [
+      {
+        "id": "1Q41wGQx_co85QFleSKQeO1zISQxqdeha",
+        "title": "Canal discovered at ancient quarry in Egypt.pdf",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Q41wGQx_co85QFleSKQeO1zISQxqdeha/view?usp=drivesdk",
+        "size": "282466"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "0d5345dc0a6be5c7-1",
+    "id": "p2-public-art-programs-research-update",
+    "title": "Public art programs: research update",
+    "part": 2,
+    "category": "source-conflict",
+    "status": "queued",
+    "holdReason": "Source Q20–23 concern willpower/self-control experiments, unrelated to the art participation reading; compare alternate corrected source before publication.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [],
+    "sources": [
+      {
+        "id": "1StFVbaf5cS2igiFVByZDUKZ3wEnGj1xy",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1StFVbaf5cS2igiFVByZDUKZ3wEnGj1xy/view?usp=drivesdk",
+        "size": "283581"
+      },
+      {
+        "id": "12UZjaHyKJV9-RgQo8wR_Wt9nuEAmPSvu",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/12UZjaHyKJV9-RgQo8wR_Wt9nuEAmPSvu/view?usp=drivesdk",
+        "size": "79723"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "fcfeb8255bca1faf-1",
+    "id": "p3-the-beginnings-of-modern-cognition",
+    "title": "The beginnings of modern cognition",
+    "part": 3,
+    "category": "source-conflict",
+    "status": "text-prepared",
+    "holdReason": "source-content: damaged sentence around symbolic thinking; compare another version",
+    "flags": [
+      "source-content: damaged sentence around symbolic thinking; compare another version"
+    ],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "167p49pndXaa4FP8K5iwVlA4z7qzzIphh",
+        "sha256": "42f03dbe1c6cd3e1cec916cb1876c749de71ffc6fb83212b5bfedb2b5dea598d",
+        "pages": 5,
+        "shortTextPages": [],
+        "methods": {
+          "text": 5
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "167p49pndXaa4FP8K5iwVlA4z7qzzIphh",
+        "title": "The beginnings of modern cognition.pdf",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/167p49pndXaa4FP8K5iwVlA4z7qzzIphh/view?usp=drivesdk",
+        "size": "228575"
+      }
+    ],
+    "approved": false
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "job": "p1-preserving-the-gardens-of-the-past",
+  "title": "Preserving the Gardens of the Past",
+  "part": 1,
+  "fingerprint": "0b7d0da651a31355a701a94930ed8c17446219701fae45c9b74f5b4c63766566",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1is61ST3FfWcqLPtRIVB4ewLWWQdmjdYK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1is61ST3FfWcqLPtRIVB4ewLWWQdmjdYK.json",
+      "ocrConfidence": [
+        96.0,
+        95.9,
+        95.8,
+        90.8
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.038
+}

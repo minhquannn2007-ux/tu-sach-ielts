@@ -1,0 +1,2508 @@
+{
+  "p1-practical-action": {
+    "page": 4,
+    "crop": [
+      51,
+      173,
+      540,
+      486
+    ],
+    "questions": [
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "limit": "NO MORE THAN TWO WORDS",
+    "labels": [
+      {
+        "rect": [
+          303,
+          187,
+          460,
+          202
+        ],
+        "text": "Metal trailer with two wheels"
+      },
+      {
+        "rect": [
+          303,
+          234,
+          446,
+          249
+        ],
+        "text": "Tyres made of {{9}}"
+      },
+      {
+        "rect": [
+          303,
+          288,
+          428,
+          303
+        ],
+        "text": "Seat for a {{10}}"
+      },
+      {
+        "rect": [
+          304,
+          314,
+          484,
+          330
+        ],
+        "text": "Bed with {{11}} for comfort"
+      },
+      {
+        "rect": [
+          305,
+          353,
+          480,
+          369
+        ],
+        "text": "{{12}} to link up to bicycle"
+      },
+      {
+        "rect": [
+          305,
+          394,
+          539,
+          410
+        ],
+        "text": "Special {{13}} attached when raining"
+      }
+    ],
+    "art": "Three trailer views in one outlined rectangle; retain all five arrows and top bracket. Clean native PDF text can be removed/redacted independently from artwork.",
+    "blankRects": {
+      "9": [
+        385,
+        234,
+        443,
+        249
+      ],
+      "10": [
+        357,
+        288,
+        425,
+        303
+      ],
+      "11": [
+        354,
+        314,
+        422,
+        330
+      ],
+      "12": [
+        305,
+        353,
+        370,
+        369
+      ],
+      "13": [
+        345,
+        394,
+        414,
+        410
+      ]
+    },
+    "source": "18DjcKb1FkgLp8iWbOA-LY0Z4e_b5nkHE",
+    "title": null,
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "masks": [
+      [
+        303,
+        187,
+        460,
+        202
+      ],
+      [
+        303,
+        234,
+        446,
+        249
+      ],
+      [
+        303,
+        288,
+        428,
+        303
+      ],
+      [
+        304,
+        314,
+        484,
+        330
+      ],
+      [
+        305,
+        353,
+        480,
+        369
+      ],
+      [
+        305,
+        394,
+        539,
+        410
+      ]
+    ]
+  },
+  "p1-the-origins-of-cinema": {
+    "page": 3,
+    "crop": [
+      56,
+      207,
+      559,
+      558
+    ],
+    "caption": "The Zoetrope",
+    "questions": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "limit": "ONE WORD ONLY",
+    "labels": [
+      {
+        "rect": [
+          60,
+          216,
+          155,
+          273
+        ],
+        "text": "{{1}} which\nis turned by\na {{2}}"
+      },
+      {
+        "rect": [
+          329,
+          262,
+          536,
+          280
+        ],
+        "text": "series of pictures on a {{3}} strip"
+      },
+      {
+        "rect": [
+          254,
+          539,
+          555,
+          557
+        ],
+        "text": "{{4}} through which ‘moving’ images were viewed"
+      }
+    ],
+    "pitfall": "Diagram labels are raster; preserve the long slanted line beginning near x119,y227 and vertical line x114,y270, so mask only dotted blanks or carefully replace text around arrow. Title is native text outside crop.",
+    "blankRects": {
+      "1": [
+        60,
+        216,
+        117,
+        233
+      ],
+      "2": [
+        70,
+        258,
+        129,
+        273
+      ],
+      "3": [
+        447,
+        262,
+        507,
+        280
+      ],
+      "4": [
+        254,
+        539,
+        314,
+        557
+      ]
+    },
+    "source": "1UtVQ-IBzhIYO2RZrly2pwvl6O1QW6mkZ",
+    "title": "The Zoetrope",
+    "wordLimit": "ONE WORD ONLY",
+    "masks": [
+      [
+        60,
+        216,
+        155,
+        273
+      ],
+      [
+        329,
+        262,
+        536,
+        280
+      ],
+      [
+        254,
+        539,
+        555,
+        557
+      ]
+    ]
+  },
+  "p1-a-watchful-eye-on-bridges": {
+    "page": 4,
+    "crop": [
+      63,
+      140,
+      555,
+      333
+    ],
+    "questions": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "instruction": "Label the diagram with the list of words",
+    "wordBank": [
+      "shaker",
+      "span",
+      "girder",
+      "punch",
+      "flange",
+      "accelerometer",
+      "microwave dish"
+    ],
+    "labels": [
+      {
+        "rect": [
+          478,
+          304,
+          540,
+          320
+        ],
+        "text": "{{5}}"
+      },
+      {
+        "rect": [
+          498,
+          233,
+          554,
+          251
+        ],
+        "text": "{{6}}"
+      },
+      {
+        "rect": [
+          65,
+          299,
+          118,
+          315
+        ],
+        "text": "{{7}}"
+      },
+      {
+        "rect": [
+          420,
+          142,
+          475,
+          159
+        ],
+        "text": "{{8}}"
+      }
+    ],
+    "pitfall": "Drag/drop word bank not typing; remove visible A–G option letters. Arrow for q8 begins x414,y152 outside its label; q7 arrow begins x118,y309; preserve both.",
+    "blankRects": {
+      "5": [
+        478,
+        304,
+        540,
+        320
+      ],
+      "6": [
+        498,
+        233,
+        554,
+        251
+      ],
+      "7": [
+        65,
+        299,
+        118,
+        315
+      ],
+      "8": [
+        420,
+        142,
+        475,
+        159
+      ]
+    },
+    "source": "1KSGRUlIvekRr07QfY9pMF8_btdkSLr1q",
+    "title": null,
+    "wordLimit": null,
+    "masks": [
+      [
+        478,
+        304,
+        540,
+        320
+      ],
+      [
+        498,
+        233,
+        554,
+        251
+      ],
+      [
+        65,
+        299,
+        118,
+        315
+      ],
+      [
+        420,
+        142,
+        475,
+        159
+      ]
+    ]
+  },
+  "p1-tikopia": {
+    "page": 3,
+    "crop": [
+      80,
+      481,
+      550,
+      727
+    ],
+    "questions": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "limit": "NO MORE THAN TWO WORDS",
+    "caption": "Pigment production",
+    "labels": [
+      {
+        "rect": [
+          119,
+          518,
+          233,
+          545
+        ],
+        "text": "{{5}} is collected from here"
+      },
+      {
+        "rect": [
+          145,
+          564,
+          235,
+          592
+        ],
+        "text": "bowl made from a {{7}}"
+      },
+      {
+        "rect": [
+          421,
+          544,
+          543,
+          560
+        ],
+        "text": "hard {{6}} of sap"
+      },
+      {
+        "rect": [
+          398,
+          624,
+          550,
+          650
+        ],
+        "text": "lengths of bark taken from fau tree"
+      },
+      {
+        "rect": [
+          396,
+          660,
+          540,
+          689
+        ],
+        "text": "blade made from katoko’s {{8}}"
+      },
+      {
+        "rect": [
+          92,
+          699,
+          310,
+          718
+        ],
+        "text": "made from the {{9}} of a small tree"
+      },
+      {
+        "rect": [
+          300,
+          600,
+          390,
+          623
+        ],
+        "text": "Chisel"
+      }
+    ],
+    "pitfall": "Primary is photographed skewed scan; title Chisel above lower diagram. Alternate p1-tikopia-alt.pdf has cleaner artwork/native labels on page3 but changes fixed wording to ‘length of bark’, omits ‘Chisel’, and compresses two diagrams, so do not substitute alternate text blindly. Can use alternate artwork only if original wording restored.",
+    "blankRects": {
+      "5": [
+        100,
+        357,
+        191,
+        380
+      ],
+      "6": [
+        695,
+        421,
+        790,
+        445
+      ],
+      "7": [
+        112,
+        467,
+        201,
+        489
+      ],
+      "8": [
+        670,
+        795,
+        758,
+        819
+      ],
+      "9": [
+        201,
+        866,
+        292,
+        895
+      ]
+    },
+    "source": "1g0X26MDPKdqrZQNGeACeocPLm_vIFLZA",
+    "title": "Pigment production",
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "masks": [
+      [
+        119,
+        518,
+        233,
+        545
+      ],
+      [
+        145,
+        564,
+        235,
+        592
+      ],
+      [
+        421,
+        544,
+        543,
+        560
+      ],
+      [
+        398,
+        624,
+        550,
+        650
+      ],
+      [
+        396,
+        660,
+        540,
+        689
+      ],
+      [
+        92,
+        699,
+        310,
+        718
+      ],
+      [
+        300,
+        600,
+        390,
+        623
+      ]
+    ]
+  },
+  "p1-the-treadle-pump": {
+    "page": 3,
+    "crop": [
+      194,
+      1504,
+      1600,
+      2133
+    ],
+    "questions": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "limit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+    "labels": [
+      {
+        "rect": [
+          200,
+          1508,
+          525,
+          1627
+        ],
+        "text": "Operator able to work for {{7}} before stopping"
+      },
+      {
+        "rect": [
+          1281,
+          1508,
+          1596,
+          1587
+        ],
+        "text": "Support structures made of {{8}}"
+      },
+      {
+        "rect": [
+          1281,
+          1708,
+          1600,
+          1869
+        ],
+        "text": "Pump has {{9}} and pistons that are linked together"
+      },
+      {
+        "rect": [
+          1280,
+          1948,
+          1595,
+          2067
+        ],
+        "text": "Water is pumped from as far down as {{10}}"
+      },
+      {
+        "rect": [
+          200,
+          1943,
+          510,
+          2069
+        ],
+        "text": "Treadles are moved up and down by stepping motion"
+      }
+    ],
+    "pitfall": "Page dimensions1738x2411. Diagram is on source page3 with TFNG1–6 above; page4 is short-answer11–13. Preserve two branching arrows to treadles and arrow to operator.",
+    "blankRects": {
+      "7": [
+        248,
+        1552,
+        398,
+        1592
+      ],
+      "8": [
+        1424,
+        1550,
+        1580,
+        1590
+      ],
+      "9": [
+        1352,
+        1753,
+        1505,
+        1793
+      ],
+      "10": [
+        1326,
+        2024,
+        1510,
+        2067
+      ]
+    },
+    "source": "1RKRGE0k9mcfhxGbT2_Ol1Na6SM7RIuz7",
+    "title": null,
+    "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+    "masks": [
+      [
+        200,
+        1508,
+        525,
+        1627
+      ],
+      [
+        1281,
+        1508,
+        1596,
+        1587
+      ],
+      [
+        1281,
+        1708,
+        1600,
+        1869
+      ],
+      [
+        1280,
+        1948,
+        1595,
+        2067
+      ],
+      [
+        200,
+        1943,
+        510,
+        2069
+      ]
+    ]
+  },
+  "p1-barrels": {
+    "page": 3,
+    "crop": [
+      249,
+      1430,
+      1611,
+      2237
+    ],
+    "questions": [
+      4,
+      5,
+      6
+    ],
+    "limit": "ONE WORD ONLY",
+    "caption": "A half-constructed barrel",
+    "labels": [
+      {
+        "rect": [
+          1426,
+          1445,
+          1606,
+          1498
+        ],
+        "text": "{{4}}"
+      },
+      {
+        "rect": [
+          1410,
+          1812,
+          1603,
+          1898
+        ],
+        "text": "metal {{5}}"
+      },
+      {
+        "rect": [
+          259,
+          1930,
+          441,
+          2026
+        ],
+        "text": "curved {{6}}"
+      }
+    ],
+    "pitfall": "Page1744x2404 rendered0.7 for review. Preserve q4 arrow starts1419,1470 towards lid; q5 two arrows fork from1407,1866; q6 two arrows fork447,1989. Primary clean monochrome scan much better than alternate photo.",
+    "blankRects": {
+      "4": [
+        1426,
+        1445,
+        1606,
+        1498
+      ],
+      "5": [
+        1410,
+        1858,
+        1603,
+        1898
+      ],
+      "6": [
+        259,
+        1972,
+        441,
+        2026
+      ]
+    },
+    "source": "1T6fWm1s67Dwzr7edvonrVYiMQTzfM57Z",
+    "title": "A half-constructed barrel",
+    "wordLimit": "ONE WORD ONLY",
+    "masks": [
+      [
+        1426,
+        1445,
+        1606,
+        1498
+      ],
+      [
+        1410,
+        1812,
+        1603,
+        1898
+      ],
+      [
+        259,
+        1930,
+        441,
+        2026
+      ],
+      [
+        640,
+        1430,
+        1250,
+        1508
+      ]
+    ]
+  },
+  "p2-lake-bosumtwi-the-secrets-of-a-crater-lake": {
+    "job": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
+    "page": 4,
+    "title": "Data gathering at Lake Bosumtwi",
+    "crop": [
+      24,
+      208,
+      573,
+      491
+    ],
+    "limit": 2,
+    "blanks": {
+      "19": [
+        505,
+        209,
+        571,
+        225
+      ],
+      "20": [
+        25,
+        345,
+        91,
+        359
+      ],
+      "21": [
+        505,
+        408,
+        571,
+        423
+      ]
+    },
+    "captions": [
+      "created by pneumatic explosions",
+      "R/V KALINDI",
+      "CENTRAL UPLIFT"
+    ],
+    "pitfalls": "Retain all three leader arrows, seismic zigzags and boat streamer's line. Blank20 is left of basin above multiline caption. Crop does not include title.",
+    "labels": [
+      {
+        "rect": [
+          24,
+          345,
+          91,
+          398
+        ],
+        "text": "{{20}} created by pneumatic explosions"
+      },
+      {
+        "rect": [
+          263,
+          264,
+          334,
+          275
+        ],
+        "text": "R/V KALINDI"
+      },
+      {
+        "rect": [
+          247,
+          465,
+          369,
+          479
+        ],
+        "text": "CENTRAL UPLIFT"
+      },
+      {
+        "rect": [
+          505,
+          209,
+          571,
+          225
+        ],
+        "text": "{{19}}"
+      },
+      {
+        "rect": [
+          505,
+          408,
+          571,
+          423
+        ],
+        "text": "{{21}}"
+      }
+    ],
+    "source": "1qsScgycPZfu84W66MXihya2TUs52y4SP",
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "masks": [
+      [
+        24,
+        345,
+        91,
+        398
+      ],
+      [
+        263,
+        264,
+        334,
+        275
+      ],
+      [
+        247,
+        465,
+        369,
+        479
+      ],
+      [
+        505,
+        209,
+        571,
+        225
+      ],
+      [
+        25,
+        345,
+        91,
+        359
+      ],
+      [
+        505,
+        408,
+        571,
+        423
+      ]
+    ]
+  },
+  "p2-roller-coaster-the-great-fairground-attraction": {
+    "job": "p2-roller-coaster-the-great-fairground-attraction",
+    "page": 3,
+    "title": null,
+    "crop": [
+      48,
+      178,
+      454,
+      538
+    ],
+    "limit": 1,
+    "blanks": {
+      "14": [
+        391,
+        385,
+        448,
+        402
+      ],
+      "15": [
+        385,
+        466,
+        445,
+        482
+      ],
+      "16": [
+        81,
+        430,
+        135,
+        445
+      ]
+    },
+    "captions": [
+      "lift hill",
+      "tracks",
+      "START",
+      "lifting mechanism"
+    ],
+    "pitfalls": "Original raster itself soft. Keep closeup circle, its connectors, all arrows and train; do not redraw. Left16 arrow starts immediately after blank.",
+    "labels": [
+      {
+        "rect": [
+          74,
+          197,
+          101,
+          211
+        ],
+        "text": "lift hill"
+      },
+      {
+        "rect": [
+          237,
+          178,
+          267,
+          190
+        ],
+        "text": "tracks"
+      },
+      {
+        "rect": [
+          50,
+          300,
+          86,
+          317
+        ],
+        "text": "START"
+      },
+      {
+        "rect": [
+          100,
+          521,
+          180,
+          535
+        ],
+        "text": "lifting mechanism"
+      },
+      {
+        "rect": [
+          391,
+          385,
+          448,
+          402
+        ],
+        "text": "{{14}}"
+      },
+      {
+        "rect": [
+          385,
+          466,
+          445,
+          482
+        ],
+        "text": "{{15}}"
+      },
+      {
+        "rect": [
+          81,
+          430,
+          135,
+          445
+        ],
+        "text": "{{16}}"
+      }
+    ],
+    "source": "1kwNrfZWRZ6F2neOTTeU2QwwkL-LWRuc3",
+    "wordLimit": "ONE WORD ONLY",
+    "masks": [
+      [
+        74,
+        197,
+        101,
+        211
+      ],
+      [
+        237,
+        178,
+        267,
+        190
+      ],
+      [
+        50,
+        300,
+        86,
+        317
+      ],
+      [
+        100,
+        521,
+        180,
+        535
+      ],
+      [
+        391,
+        385,
+        448,
+        402
+      ],
+      [
+        385,
+        466,
+        445,
+        482
+      ],
+      [
+        81,
+        430,
+        135,
+        445
+      ]
+    ]
+  },
+  "p3-patterns-of-nature": {
+    "job": "p3-patterns-of-nature",
+    "page": 4,
+    "title": "Patterns of group movement",
+    "crop": [
+      151,
+      210,
+      526,
+      661
+    ],
+    "limit": 1,
+    "blanks": {
+      "34": [
+        214,
+        230,
+        282,
+        245
+      ],
+      "35": [
+        445,
+        499,
+        515,
+        514
+      ],
+      "36": [
+        415,
+        537,
+        481,
+        552
+      ],
+      "37": [
+        446,
+        552,
+        513,
+        567
+      ]
+    },
+    "captions": [
+      "Three-lane system as used by 34 …………",
+      "Group members going towards front of swarm",
+      "Group members going back to the 35 …………",
+      "Formation in shape called a 36 ………… ; has central 37 ………… around which group members circulate."
+    ],
+    "pitfalls": "Native text captions separable: mask all caption boxes and overlay HTML to allow font scaling; keep arrow lines/heads and dot groups untouched. Crop left must be <=151 because first ant column x159. Same page title is native text.",
+    "labels": [
+      {
+        "rect": [
+          165,
+          213,
+          286,
+          247
+        ],
+        "text": "Three-lane system as used by {{34}}"
+      },
+      {
+        "rect": [
+          375,
+          222,
+          504,
+          253
+        ],
+        "text": "Group members going towards front of swarm"
+      },
+      {
+        "rect": [
+          382,
+          481,
+          516,
+          514
+        ],
+        "text": "Group members going back to the {{35}}"
+      },
+      {
+        "rect": [
+          387,
+          520,
+          528,
+          596
+        ],
+        "text": "Formation in shape called a {{36}} ; has central {{37}} around which group members circulate."
+      }
+    ],
+    "source": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+    "wordLimit": "ONE WORD ONLY",
+    "masks": [
+      [
+        165,
+        213,
+        286,
+        247
+      ],
+      [
+        375,
+        222,
+        504,
+        253
+      ],
+      [
+        382,
+        481,
+        516,
+        514
+      ],
+      [
+        387,
+        520,
+        528,
+        596
+      ],
+      [
+        214,
+        230,
+        282,
+        245
+      ],
+      [
+        445,
+        499,
+        515,
+        514
+      ],
+      [
+        415,
+        537,
+        481,
+        552
+      ],
+      [
+        446,
+        552,
+        513,
+        567
+      ]
+    ]
+  },
+  "p3-movement-underwater": {
+    "job": "p3-movement-underwater",
+    "page": 4,
+    "title": "Mobility, stability and combating different types of drag resistance",
+    "crop": [
+      79,
+      227,
+      554,
+      617
+    ],
+    "limit": 3,
+    "blanks": {
+      "36": [
+        257,
+        245,
+        315,
+        261
+      ],
+      "37": [
+        312,
+        401,
+        373,
+        417
+      ],
+      "38": [
+        84,
+        418,
+        147,
+        433
+      ],
+      "39": [
+        109,
+        467,
+        174,
+        482
+      ],
+      "40": [
+        366,
+        595,
+        432,
+        610
+      ]
+    },
+    "captions": [
+      "streamlined shape narrowing towards rear to reduce 36 ………… drag",
+      "ideal tail fin shape for steady movement known as cruising",
+      "slime-covered scales to minimise surface friction",
+      "fins controlling 38 ………… movement",
+      "fin controlling 37 ………… movement",
+      "fins which are important for 39 ………… of fish",
+      "Minimal cross-sectional body area: to decrease 40 ………… drag"
+    ],
+    "pitfalls": "Diagram includes five answer positions, two fishes, large brace and several slanted arrows. Top caption36, left38 and brace39 not to be listed beneath illustration. Limit THREE WORDS, not two.",
+    "labels": [
+      {
+        "rect": [
+          219,
+          232,
+          443,
+          261
+        ],
+        "text": "streamlined shape narrowing towards rear to reduce {{36}} drag"
+      },
+      {
+        "rect": [
+          466,
+          278,
+          537,
+          348
+        ],
+        "text": "ideal tail fin shape for steady movement known as cruising"
+      },
+      {
+        "rect": [
+          468,
+          385,
+          549,
+          432
+        ],
+        "text": "slime-covered scales to minimise surface friction"
+      },
+      {
+        "rect": [
+          83,
+          405,
+          213,
+          434
+        ],
+        "text": "fins controlling {{38}} movement"
+      },
+      {
+        "rect": [
+          242,
+          400,
+          430,
+          418
+        ],
+        "text": "fin controlling {{37}} movement"
+      },
+      {
+        "rect": [
+          108,
+          454,
+          289,
+          482
+        ],
+        "text": "fins which are important for {{39}} of fish"
+      },
+      {
+        "rect": [
+          312,
+          582,
+          517,
+          611
+        ],
+        "text": "Minimal cross-sectional body area: to decrease {{40}} drag"
+      }
+    ],
+    "source": "1G4leBrFHGqSLoiRyK3Dw5JEY9DBaTpJ6",
+    "wordLimit": "NO MORE THAN THREE WORDS",
+    "masks": [
+      [
+        219,
+        232,
+        443,
+        261
+      ],
+      [
+        466,
+        278,
+        537,
+        348
+      ],
+      [
+        468,
+        385,
+        549,
+        432
+      ],
+      [
+        83,
+        405,
+        213,
+        434
+      ],
+      [
+        242,
+        400,
+        430,
+        418
+      ],
+      [
+        108,
+        454,
+        289,
+        482
+      ],
+      [
+        312,
+        582,
+        517,
+        611
+      ],
+      [
+        257,
+        245,
+        315,
+        261
+      ],
+      [
+        312,
+        401,
+        373,
+        417
+      ],
+      [
+        84,
+        418,
+        147,
+        433
+      ],
+      [
+        109,
+        467,
+        174,
+        482
+      ],
+      [
+        366,
+        595,
+        432,
+        610
+      ]
+    ]
+  },
+  "p3-termite-mounds": {
+    "job": "p3-termite-mounds-chua-rep",
+    "dedupeAlso": "p3-termite-mounds",
+    "page": 4,
+    "title": null,
+    "crop": [
+      91,
+      163,
+      476,
+      336
+    ],
+    "limit": 1,
+    "blanks": {
+      "34": [
+        377,
+        207,
+        433,
+        221
+      ],
+      "35": [
+        377,
+        236,
+        432,
+        250
+      ],
+      "36": [
+        94,
+        310,
+        150,
+        324
+      ],
+      "37": [
+        128,
+        174,
+        182,
+        188
+      ]
+    },
+    "captions": [
+      "Top of the mound permits 37 …………",
+      "Innermost chamber containing termites’ nest",
+      "Cellar to aid control of 36 ………… levels in mound",
+      "Network of 34 ………… helps to give the termites a constant 35 ………… supply and to maintain a limited temperature range"
+    ],
+    "pitfalls": "PAPER skewed caption on right; arrows remain at native angles. Same tasks as retype; choose PAPER for source text because retype has damaging reading OCR typos. Do not publish duplicate versions.",
+    "labels": [
+      {
+        "rect": [
+          94,
+          163,
+          181,
+          188
+        ],
+        "text": "Top of the mound permits {{37}}"
+      },
+      {
+        "rect": [
+          94,
+          225,
+          181,
+          259
+        ],
+        "text": "Innermost chamber containing termites’ nest"
+      },
+      {
+        "rect": [
+          93,
+          299,
+          187,
+          332
+        ],
+        "text": "Cellar to aid control of {{36}} levels in mound"
+      },
+      {
+        "rect": [
+          376,
+          192,
+          474,
+          279
+        ],
+        "text": "Network of {{34}} helps to give the termites a constant {{35}} supply and to maintain a limited temperature range"
+      }
+    ],
+    "source": "1-iQAexQHXof0A1JHHRBdPaAalewuRRUj",
+    "wordLimit": "ONE WORD ONLY",
+    "masks": [
+      [
+        94,
+        163,
+        181,
+        188
+      ],
+      [
+        94,
+        225,
+        181,
+        259
+      ],
+      [
+        93,
+        299,
+        187,
+        332
+      ],
+      [
+        376,
+        192,
+        474,
+        279
+      ],
+      [
+        377,
+        207,
+        433,
+        221
+      ],
+      [
+        377,
+        236,
+        432,
+        250
+      ],
+      [
+        94,
+        310,
+        150,
+        324
+      ],
+      [
+        128,
+        174,
+        182,
+        188
+      ]
+    ]
+  },
+  "p3-the-secret-sounds-of-elephants": {
+    "job": "p3-the-secret-sounds-of-elephants",
+    "page": 3,
+    "title": "What makes the elephant’s anatomy ideal for seismic communication?",
+    "crop": [
+      149,
+      701,
+      1649,
+      1811
+    ],
+    "limit": 2,
+    "blanks": {
+      "27": [
+        255,
+        704,
+        425,
+        744
+      ],
+      "28": [
+        1472,
+        1253,
+        1644,
+        1293
+      ],
+      "29": [
+        784,
+        1709,
+        959,
+        1750
+      ],
+      "30": [
+        192,
+        947,
+        364,
+        990
+      ]
+    },
+    "captions": [
+      "Large 27 ………… in inner ear",
+      "Inner ear with similar cochlear structure to that of reptiles",
+      "Extensive network of 30 ………… in front of skull",
+      "Extremely large 28 …………",
+      "A 29 ………… beneath toe bones"
+    ],
+    "pitfalls": "Source PDF unusually large 1788x2524pt; raster should render according desired final 700-1000px, not default 3x full PDF. Keep head leader arrows, body brace right, toe vertical arrow. Right28 blank next to body brace; 29 beneath toe bones is bottom caption, not loose list.",
+    "labels": [
+      {
+        "rect": [
+          155,
+          704,
+          610,
+          748
+        ],
+        "text": "Large {{27}} in inner ear"
+      },
+      {
+        "rect": [
+          1227,
+          704,
+          1631,
+          862
+        ],
+        "text": "Inner ear with similar cochlear structure to that of reptiles"
+      },
+      {
+        "rect": [
+          153,
+          882,
+          470,
+          1048
+        ],
+        "text": "Extensive network of {{30}} in front of skull"
+      },
+      {
+        "rect": [
+          1380,
+          1188,
+          1652,
+          1299
+        ],
+        "text": "Extremely large {{28}}"
+      },
+      {
+        "rect": [
+          752,
+          1704,
+          1161,
+          1811
+        ],
+        "text": "A {{29}} beneath toe bones"
+      }
+    ],
+    "source": "1ZW2AOGCoOV9BP9HOUZ5jL_ZfFII0-if-",
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "masks": [
+      [
+        155,
+        704,
+        610,
+        748
+      ],
+      [
+        1227,
+        704,
+        1631,
+        862
+      ],
+      [
+        153,
+        882,
+        400,
+        1048
+      ],
+      [
+        1380,
+        1188,
+        1652,
+        1299
+      ],
+      [
+        752,
+        1704,
+        1161,
+        1811
+      ],
+      [
+        255,
+        704,
+        425,
+        744
+      ],
+      [
+        1472,
+        1253,
+        1644,
+        1293
+      ],
+      [
+        784,
+        1709,
+        959,
+        1750
+      ],
+      [
+        192,
+        947,
+        364,
+        990
+      ],
+      [
+        149,
+        882,
+        470,
+        1048
+      ]
+    ]
+  },
+  "p1-ancient-greek-coins": {
+    "source": "1M5aU9jjdsFn-A19HsymivqlERG_jLtFk",
+    "page": 4,
+    "crop": [
+      60,
+      195,
+      551.45,
+      491.8
+    ],
+    "blanks": {
+      "7": [
+        464,
+        312,
+        526,
+        331
+      ],
+      "8": [
+        84,
+        322,
+        146,
+        341
+      ],
+      "9": [
+        464,
+        417,
+        526,
+        436
+      ],
+      "10": [
+        152,
+        456,
+        218,
+        476
+      ]
+    },
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "notes": [
+      "Diagram title The method used in ancient Greece for striking coins",
+      "Fixed labels Piece of metal known as; Obverse die",
+      "Reading four bold subheadings must be separate blocks: What is a coin?; How were coins manufactured in ancient Greece?; How did coinage spread throughout the ancient world?; Why do we study coins?",
+      "Q11–13 short answers limit NO MORE THAN TWO WORDS AND/OR A NUMBER. Q12 wording Persian signs in source; do not silently replace."
+    ],
+    "labels": [
+      {
+        "rect": [
+          69,
+          309,
+          200,
+          341
+        ],
+        "text": "Piece of metal known as {{8}}"
+      },
+      {
+        "rect": [
+          119,
+          404,
+          200,
+          422
+        ],
+        "text": "Obverse die"
+      },
+      {
+        "rect": [
+          464,
+          312,
+          526,
+          331
+        ],
+        "text": "{{7}}"
+      },
+      {
+        "rect": [
+          464,
+          417,
+          526,
+          436
+        ],
+        "text": "{{9}}"
+      },
+      {
+        "rect": [
+          152,
+          456,
+          218,
+          476
+        ],
+        "text": "{{10}}"
+      }
+    ],
+    "coordinateNote": "All coordinates PDF points absolute page coordinates. Blank masks include printed question number plus dots. Fixed-label rectangles are visually checked approximate tight masks; inspect at2x after whitening to avoid touching nearby arrows.",
+    "title": "The method used in ancient Greece for striking coins",
+    "blankCaptions": [
+      "7",
+      "9",
+      "10"
+    ],
+    "masks": [
+      [
+        128,
+        170,
+        508,
+        190
+      ],
+      [
+        69,
+        309,
+        184,
+        324
+      ],
+      [
+        69,
+        324,
+        84,
+        337
+      ],
+      [
+        119,
+        404,
+        188,
+        422
+      ],
+      [
+        464,
+        312,
+        526,
+        331
+      ],
+      [
+        84,
+        322,
+        146,
+        341
+      ],
+      [
+        464,
+        417,
+        526,
+        436
+      ],
+      [
+        152,
+        456,
+        218,
+        476
+      ]
+    ]
+  },
+  "p1-the-history-of-cakes-at-wedding": {
+    "source": "1EE7CJfXm6bqGRkVQJHvSv9PptXNmfott",
+    "page": 4,
+    "crop": [
+      50.4,
+      160.79,
+      561.6,
+      452.04
+    ],
+    "blanks": {
+      "10": [
+        297,
+        168,
+        356,
+        185
+      ],
+      "11": [
+        434,
+        310,
+        499,
+        329
+      ],
+      "12": [
+        334,
+        384,
+        393,
+        402
+      ],
+      "13": [
+        120,
+        399,
+        185,
+        417
+      ]
+    },
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "notes": [
+      "Source title is The history of cakes at weddings (plural weddings). No subtitle.",
+      "Q7–9 notes MUST be two-column bordered table. Centered bold Wedding cakes above table. Left header centered bold 17th century – Britain; right Now – United States. Left bold Bride Cake then 3 bullets; right bold Groom’s Cake then 2 bullets. See page3 PNG.",
+      "No paragraph labels. Source page1/page2 split white, smooth icing is continuation of paragraph beginning Groom’s cakes; parsed paragraph count7 consistent."
+    ],
+    "labels": [
+      {
+        "rect": [
+          74,
+          168,
+          360,
+          190
+        ],
+        "text": "Examples of wedding cakes with several {{10}}"
+      },
+      {
+        "rect": [
+          331,
+          310,
+          559,
+          345
+        ],
+        "text": "In the early 1900s {{11}} were used to keep individual cakes apart."
+      },
+      {
+        "rect": [
+          305,
+          370,
+          510,
+          408
+        ],
+        "text": "The size of these cakes as well as their {{12}} affects pricing."
+      },
+      {
+        "rect": [
+          56,
+          399,
+          300,
+          449
+        ],
+        "text": "Hardened {{13}} between cakes stopped higher cakes sinking into lower cakes."
+      }
+    ],
+    "coordinateNote": "All coordinates PDF points absolute page coordinates. Blank masks include printed question number plus dots. Fixed-label rectangles are visually checked approximate tight masks; inspect at2x after whitening to avoid touching nearby arrows.",
+    "blankCaptions": [],
+    "masks": [
+      [
+        74,
+        170,
+        295,
+        186
+      ],
+      [
+        331,
+        311,
+        433,
+        327
+      ],
+      [
+        497,
+        311,
+        558,
+        327
+      ],
+      [
+        331,
+        327,
+        502,
+        342
+      ],
+      [
+        305,
+        370,
+        501,
+        384
+      ],
+      [
+        305,
+        385,
+        333,
+        400
+      ],
+      [
+        397,
+        385,
+        482,
+        402
+      ],
+      [
+        57,
+        400,
+        118,
+        415
+      ],
+      [
+        187,
+        400,
+        280,
+        415
+      ],
+      [
+        56,
+        417,
+        296,
+        433
+      ],
+      [
+        57,
+        433,
+        98,
+        448
+      ],
+      [
+        297,
+        168,
+        356,
+        185
+      ],
+      [
+        434,
+        310,
+        499,
+        329
+      ],
+      [
+        334,
+        384,
+        393,
+        402
+      ],
+      [
+        120,
+        399,
+        185,
+        417
+      ]
+    ]
+  },
+  "p1-the-olympic-torch-chua-rep": {
+    "source": "1EknzSuQY-9hRWpSwwj9m4Zi-Da_aEeqq",
+    "page": 4,
+    "crop": [
+      90,
+      145,
+      480,
+      395
+    ],
+    "blanks": {
+      "10": [
+        92,
+        239,
+        156,
+        258
+      ],
+      "11": [
+        324,
+        272,
+        391,
+        291
+      ],
+      "12": [
+        351,
+        332,
+        418,
+        350
+      ],
+      "13a": [
+        324,
+        369,
+        387,
+        386
+      ],
+      "13b": [
+        324,
+        384,
+        376,
+        400
+      ]
+    },
+    "wordLimit": "NO MORE THAN TWO WORDS",
+    "notes": [
+      "Subtitle italic The evolution of an internationally recognised symbol",
+      "Q13 artwork reads Combination of [13...] and [second blank] stored as liquid. BOTH blank runs one question13, not extra14.",
+      "Typed PDF List of Olympic Games erroneously missing G. Original PAPER 1EknzSuQY-9hRWpSwwj9m4Zi-Da_aEeqq page3 confirms G Athens Olympics (2004), so restore using original.",
+      "Original PAPER source page1/page2 two columns reading; use typed reading with subtitle separate, 9 paragraphs."
+    ],
+    "labels": [
+      {
+        "rect": [
+          204,
+          198,
+          313,
+          220
+        ],
+        "text": "1996 Atlanta Olympics torch\n(final version)"
+      },
+      {
+        "rect": [
+          449,
+          189,
+          542,
+          224
+        ],
+        "text": "2000 Sydney Olympics torch"
+      },
+      {
+        "rect": [
+          323,
+          190,
+          414,
+          240
+        ],
+        "text": "Burner with a double flame to withstand windy conditions"
+      },
+      {
+        "rect": [
+          78,
+          239,
+          160,
+          260
+        ],
+        "text": "A {{10}}"
+      },
+      {
+        "rect": [
+          324,
+          260,
+          437,
+          295
+        ],
+        "text": "Fuel in the form of a {{11}}"
+      },
+      {
+        "rect": [
+          324,
+          320,
+          440,
+          353
+        ],
+        "text": "Brass valve with many small {{12}}"
+      },
+      {
+        "rect": [
+          324,
+          358,
+          440,
+          412
+        ],
+        "text": "Combination of {{13}} and {{13:1}} stored as liquid"
+      },
+      {
+        "rect": [
+          78,
+          401,
+          185,
+          430
+        ],
+        "text": "Propylene stored as liquid fuel"
+      }
+    ],
+    "coordinateNote": "All coordinates PDF points absolute page coordinates. Blank masks include printed question number plus dots. Fixed-label rectangles are visually checked approximate tight masks; inspect at2x after whitening to avoid touching nearby arrows.",
+    "blankCaptions": [],
+    "masks": [
+      [
+        90.0,
+        160.0,
+        386.6666666666667,
+        162.66666666666666
+      ],
+      [
+        103.0,
+        202.33333333333334,
+        169.0,
+        218.66666666666666
+      ],
+      [
+        290.0,
+        168.0,
+        379.0,
+        338.0
+      ],
+      [
+        92.66666666666667,
+        319.33333333333337,
+        178.33333333333331,
+        339.0
+      ],
+      [
+        90,
+        145,
+        380,
+        160
+      ]
+    ],
+    "rectification": {
+      "referenceSize": [
+        1170,
+        750
+      ],
+      "source": [
+        [
+          355,
+          106
+        ],
+        [
+          605,
+          98
+        ],
+        [
+          568,
+          734
+        ],
+        [
+          315,
+          740
+        ],
+        [
+          895,
+          59
+        ],
+        [
+          1161,
+          69
+        ],
+        [
+          1153,
+          731
+        ],
+        [
+          875,
+          723
+        ]
+      ],
+      "target": [
+        [
+          330,
+          105
+        ],
+        [
+          600,
+          105
+        ],
+        [
+          600,
+          740
+        ],
+        [
+          330,
+          740
+        ],
+        [
+          915,
+          59
+        ],
+        [
+          1160,
+          59
+        ],
+        [
+          1160,
+          730
+        ],
+        [
+          915,
+          730
+        ]
+      ],
+      "method": "Least-squares projective photo rectification through the eight source panel corners; original ink resampled, no linework synthesized",
+      "horizontalOffset": -0.025
+    },
+    "pixelArrowProtection": [
+      [
+        [
+          626,
+          107
+        ],
+        [
+          476,
+          208
+        ]
+      ],
+      [
+        [
+          775,
+          85
+        ],
+        [
+          1000,
+          190
+        ]
+      ],
+      [
+        [
+          614,
+          256
+        ],
+        [
+          478,
+          303
+        ]
+      ],
+      [
+        [
+          833,
+          230
+        ],
+        [
+          987,
+          220
+        ]
+      ],
+      [
+        [
+          611,
+          395
+        ],
+        [
+          470,
+          498
+        ]
+      ],
+      [
+        [
+          805,
+          490
+        ],
+        [
+          993,
+          480
+        ]
+      ]
+    ],
+    "retainedRasterCaptions": [
+      "1996 Atlanta Olympics torch (final version)",
+      "2000 Sydney Olympics torch"
+    ],
+    "displayArtWidth": 900
+  },
+  "p1-the-tyne-bridge": {
+    "source": "1vXRiyEMeTkQ0UKNcRWvwZPh_7Vj8EpkY",
+    "page": 4,
+    "crop": [
+      41.1,
+      190,
+      534.35,
+      513.4
+    ],
+    "blanks": {
+      "11": [
+        354,
+        195,
+        426,
+        214
+      ],
+      "12": [
+        232,
+        452,
+        309,
+        471
+      ],
+      "13": [
+        176,
+        496,
+        244,
+        514
+      ]
+    },
+    "wordLimit": "ONE WORD AND/OR A NUMBER",
+    "notes": [
+      "Diagram title The new bridge over the River Tyne at Newcastle",
+      "Fixed labels top of arch ... metres above high-water level; arch made of steel; Main arch; Pier (2); High water level; Newcastle Quay; Gateshead Quay; Each pier was originally designed to be used as a ...; One end of the arch to the other measures ... metres.",
+      "Q7–10 notes: centered bold The new Tyne Bridge; left bold Plans and construction with3bullets, then bold Opening with2bullets. ONE WORD ONLY.",
+      "No subtitle; reading8paragraphs."
+    ],
+    "labels": [
+      {
+        "rect": [
+          288,
+          197,
+          535,
+          229
+        ],
+        "text": "top of arch, {{11}} metres above high-water level"
+      },
+      {
+        "rect": [
+          46,
+          212,
+          160,
+          229
+        ],
+        "text": "arch made of steel"
+      },
+      {
+        "rect": [
+          356,
+          257,
+          410,
+          272
+        ],
+        "text": "Main arch"
+      },
+      {
+        "rect": [
+          159,
+          272,
+          185,
+          287
+        ],
+        "text": "Pier"
+      },
+      {
+        "rect": [
+          410,
+          272,
+          440,
+          287
+        ],
+        "text": "Pier"
+      },
+      {
+        "rect": [
+          255,
+          329,
+          340,
+          345
+        ],
+        "text": "High water level"
+      },
+      {
+        "rect": [
+          131,
+          348,
+          210,
+          363
+        ],
+        "text": "Newcastle Quay"
+      },
+      {
+        "rect": [
+          387,
+          347,
+          470,
+          363
+        ],
+        "text": "Gateshead Quay"
+      },
+      {
+        "rect": [
+          174,
+          438,
+          400,
+          475
+        ],
+        "text": "Each pier was originally designed to be used as a {{12}}."
+      },
+      {
+        "rect": [
+          174,
+          481,
+          420,
+          518
+        ],
+        "text": "One end of the arch to the other measures {{13}} metres."
+      }
+    ],
+    "coordinateNote": "All coordinates PDF points absolute page coordinates. Blank masks include printed question number plus dots. Fixed-label rectangles are visually checked approximate tight masks; inspect at2x after whitening to avoid touching nearby arrows.",
+    "title": "The new bridge over the River Tyne at Newcastle",
+    "blankCaptions": [],
+    "masks": [
+      [
+        118,
+        165,
+        495,
+        185
+      ],
+      [
+        288,
+        197,
+        353,
+        213
+      ],
+      [
+        426,
+        197,
+        535,
+        213
+      ],
+      [
+        288,
+        213,
+        350,
+        226
+      ],
+      [
+        46,
+        212,
+        152,
+        226
+      ],
+      [
+        356,
+        257,
+        398,
+        269
+      ],
+      [
+        159,
+        272,
+        178,
+        284
+      ],
+      [
+        410,
+        272,
+        429,
+        284
+      ],
+      [
+        255,
+        329,
+        326,
+        342
+      ],
+      [
+        131,
+        348,
+        201,
+        360
+      ],
+      [
+        387,
+        347,
+        460,
+        360
+      ],
+      [
+        174,
+        438,
+        395,
+        454
+      ],
+      [
+        174,
+        453,
+        232,
+        469
+      ],
+      [
+        174,
+        481,
+        414,
+        496
+      ],
+      [
+        248,
+        497,
+        293,
+        512
+      ],
+      [
+        354,
+        195,
+        426,
+        214
+      ],
+      [
+        232,
+        452,
+        309,
+        471
+      ],
+      [
+        176,
+        496,
+        244,
+        514
+      ]
+    ]
+  }
+}

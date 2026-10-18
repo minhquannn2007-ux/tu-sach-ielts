@@ -1,0 +1,17 @@
+{
+  "job": "p2-surviving-city-life",
+  "title": "Surviving city life",
+  "part": 2,
+  "fingerprint": "0199782f94a9ac614d3f0ac27627f2ed71a7da85f2b4c9c58ea80cb7687551fe",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1lqaKTO7yuuzkkeg-0miVGccN-PsuGxUL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

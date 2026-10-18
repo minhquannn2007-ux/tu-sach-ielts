@@ -1,0 +1,17 @@
+{
+  "job": "p2-john-ray-and-the-study-of-plants",
+  "title": "John Ray and the Study of Plants",
+  "part": 2,
+  "fingerprint": "25e7484f8e15dc1270fe61c218b191fd43bea9123d8840d4ca48d13454cb465e",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1gBVHATJ6-stg2DAqnWBUIV_j9Zy042ZL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.001
+}

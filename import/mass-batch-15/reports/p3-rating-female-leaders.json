@@ -1,0 +1,17 @@
+{
+  "job": "p3-rating-female-leaders",
+  "title": "Rating Female Leaders",
+  "part": 3,
+  "fingerprint": "e6d1bb6e4b35dc2438d5ed7100038a3eba83c85000988bb7f17dce17b7950ec2",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1tTv5UypJ0EP-dmBbYaDvnT5mET4eESOA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.007
+}

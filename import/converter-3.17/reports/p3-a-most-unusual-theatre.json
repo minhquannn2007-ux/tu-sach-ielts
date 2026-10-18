@@ -1,0 +1,33 @@
+{
+  "job": "p3-a-most-unusual-theatre",
+  "title": "A most unusual theatre",
+  "part": 3,
+  "fingerprint": "46d7cca6bee708aec7d2443df2c40919881e80407e1334c660393e58783e9f81",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "170r1Gt1jLmx8Qm03-0FqKGOItsANoAXD",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-a-most-unusual-theatre.json",
+  "lessonId": "p3-a-most-unusual-theatre",
+  "sourceId": "170r1Gt1jLmx8Qm03-0FqKGOItsANoAXD",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "451146962b0985ad0cca2a1a313ce03bbf7906690debae85f450e8abe1e1248f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.077
+}

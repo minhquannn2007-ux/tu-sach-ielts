@@ -1,0 +1,33 @@
+{
+  "job": "p2-how-do-plants-talk-to-each-other",
+  "title": "How do plants talk to each other",
+  "part": 2,
+  "fingerprint": "8d94542d83b3da3d29799dbacf8d429a98b8cc12a0da2856b9afa6fb9a4444d8",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1GA_ZCA5bRKk4_PByycaFsVZJdRvmNBU3",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-how-do-plants-talk-to-each-other.json",
+  "lessonId": "p2-how-do-plants-talk-to-each-other",
+  "sourceId": "1GA_ZCA5bRKk4_PByycaFsVZJdRvmNBU3",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "511a4b5f12ad969d14a122599edbab64884a008152230d8ee5375cc77b9ef158",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.065
+}

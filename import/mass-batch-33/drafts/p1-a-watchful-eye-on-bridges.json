@@ -1,0 +1,296 @@
+{
+  "id": "p1-a-watchful-eye-on-bridges",
+  "title": "A watchful eye on bridges",
+  "part": 1,
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "Most road and rail bridges are only inspected visually. Every few months, engineers have to clamber over the structure in an attempt to find problems before the bridge shows obvious signs of damage. Technologies developed at Los Alamos National Laboratory, New Mexico, and Texas A&M University may replace these surveys with microwave sensors that constantly monitor the condition of bridges.",
+      "label": "A"
+    },
+    {
+      "text": "‘The device uses microwaves to measure the distance between the sensor and the bridge, much like radar does,’ says Albert Migliori, a Los Alamos physicist. ‘Any load on the bridge — such as traffic — induces displacements, which change that distance as the bridge moves up and down.’ By monitoring these movements over several minutes, the researchers can find out how the bridge resonates. Changes in its behaviour can give an early warning of damage.",
+      "label": "B"
+    },
+    {
+      "text": "The Interstate 40 bridge over the Rio Grande river in Albuquerque provided the researchers with a rare opportunity to test their ideas. Chuck Farrar, an engineer at Los Alamos, explains: ‘The New Mexico authorities decided to dismantle this bridge and replace it. We were able to mount instruments on it, test it under various load conditions and even inflict damage just before it was demolished.’ In the 1960s and 1970s, 2,500 similar bridges were built in the US. They have two steel girders supporting the load in each section. Highway experts know that this design is ‘fracture critical’ because a failure in either girder would cause the bridge to fail.",
+      "label": "C"
+    },
+    {
+      "text": "After setting up the microwave dish on the ground below the bridge, the Los Alamos team installed conventional accelerometers at several points along the span to measure its motion. They then tested the bridge while traffic roared across it and while subjecting it to pounding from a ‘shaker’, which delivered precise punches to a specific point on the road.",
+      "label": "D"
+    },
+    {
+      "text": "‘We then introduced problems that we hoped would simulate fatigue cracks that can occur in steel girders,’ says Farrar. They first cut a slot about 60 centimetres long in the middle of one girder. They then extended the cut until it reached the bottom of the girder and finally they cut across the flange — the bottom of the girder’s ‘I’ shape.",
+      "label": "E"
+    },
+    {
+      "text": "The initial, crude analysis of the bridge’s behaviour, based on the frequency at which the bridge resonates, did not indicate that anything was wrong until the flange was damaged. But later the data were re-analysed with algorithms that took into account changes in the mode shapes of the structure — shapes that the structure takes on when excited at a particular frequency. These more sophisticated algorithms, which were developed by Norris Stubbs at Texas A&M University, successfully identified and located the damage caused by the initial cut.",
+      "label": "F"
+    },
+    {
+      "text": "‘When any structure vibrates, the energy is distributed throughout, with some points not moving, while others vibrate strongly at various frequencies,’ says Stubbs. ‘My algorithms use pattern recognition to detect changes in the distribution of this energy.’ NASA already uses Stubbs’ method to check the behaviour of the body flap that slows space shuttles down after they land.",
+      "label": "G"
+    },
+    {
+      "text": "A commercial system based on the Los Alamos hardware is now available, complete with the Stubbs algorithms, from the Quatro Corporation in Albuquerque for about $100,000.",
+      "label": "H"
+    },
+    {
+      "text": "Tim Darling, another Los Alamos physicist working on the microwave interferometer with Migliori, says that, as the electronics become cheaper, a microwave inspection system will eventually be applied to most large bridges in the US. ‘In a decade I would like to see a battery or solar-powered package mounted under each bridge, scanning it every day to detect changes,’ he says.",
+      "label": "I"
+    }
+  ],
+  "groups": [
+    {
+      "type": "mc-one",
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Currently the majority of bridges",
+          "options": [
+            {
+              "value": "A",
+              "text": "show clear signs of damage on inspection."
+            },
+            {
+              "value": "B",
+              "text": "are not inspected for signs of damage."
+            },
+            {
+              "value": "C",
+              "text": "are regularly monitored by microwave sensors."
+            },
+            {
+              "value": "D",
+              "text": "are regularly checked for early signs of damage."
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "prompt": "The device developed by research scientists at Los Alamos",
+          "options": [
+            {
+              "value": "A",
+              "text": "helps to induce displacement in bridges."
+            },
+            {
+              "value": "B",
+              "text": "measures the distance between two points."
+            },
+            {
+              "value": "C",
+              "text": "uses microwaves to estimate a load."
+            },
+            {
+              "value": "D",
+              "text": "monitors the movement of traffic."
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "prompt": "What happened to the Interstate 40 bridge?",
+          "options": [
+            {
+              "value": "A",
+              "text": "It collapsed because of a design fault."
+            },
+            {
+              "value": "B",
+              "text": "It was deliberately damaged by researchers."
+            },
+            {
+              "value": "C",
+              "text": "It had several faulty girders."
+            },
+            {
+              "value": "D",
+              "text": "It was demolished by researchers."
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "prompt": "A basic analysis of the Interstate 40 bridge’s behaviour only detected the damage done to",
+          "options": [
+            {
+              "value": "A",
+              "text": "the mid-point of the girder."
+            },
+            {
+              "value": "B",
+              "text": "the bottom half of the girder."
+            },
+            {
+              "value": "C",
+              "text": "the flange."
+            },
+            {
+              "value": "D",
+              "text": "the road surface."
+            }
+          ]
+        }
+      ],
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 1 – 4 Choose the correct letter, A, B, C or D. Write the correct letter on your answer sheet."
+    },
+    {
+      "type": "diagram",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 5
+        },
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        }
+      ],
+      "sourceInstructions": "Questions 5 – 8 Label the diagram below. Label the diagram with the list of words, A-G, below. Write the correct letter, A-G, in boxes 5-8 on your answer sheet.",
+      "diagram": {
+        "asset": "assets/diagram-p1-a-watchful-eye-on-bridges-reviewed.png",
+        "width": 669.12,
+        "height": 193.0,
+        "alt": "Original diagram for A watchful eye on bridges",
+        "captions": [
+          {
+            "x": 75.2571,
+            "y": 84.9741,
+            "width": 9.2659,
+            "text": "{{5}}"
+          },
+          {
+            "x": 78.2461,
+            "y": 48.1865,
+            "width": 8.3692,
+            "text": "{{6}}"
+          },
+          {
+            "x": 13.5342,
+            "y": 82.3834,
+            "width": 7.9209,
+            "text": "{{7}}"
+          },
+          {
+            "x": 66.589,
+            "y": 1.0363,
+            "width": 8.2198,
+            "text": "{{8}}"
+          }
+        ],
+        "sourceLayoutChecked": true,
+        "sourceId": "1KSGRUlIvekRr07QfY9pMF8_btdkSLr1q",
+        "sourceSHA256": "78a9dbb3f5b50577d0f2a5d43a8602e6f61dfd38636ac1912ef4884b0da615dd",
+        "sourcePage": 4,
+        "sourceCrop": [
+          63,
+          140,
+          555,
+          333
+        ],
+        "minWidth": 900
+      },
+      "bank": [
+        {
+          "value": "A",
+          "text": "shaker"
+        },
+        {
+          "value": "B",
+          "text": "span"
+        },
+        {
+          "value": "C",
+          "text": "girder"
+        },
+        {
+          "value": "D",
+          "text": "punch"
+        },
+        {
+          "value": "E",
+          "text": "flange"
+        },
+        {
+          "value": "F",
+          "text": "accelerometer"
+        },
+        {
+          "value": "G",
+          "text": "microwave dish"
+        }
+      ],
+      "reuse": false
+    },
+    {
+      "type": "matching-info",
+      "questions": [
+        {
+          "n": 9,
+          "prompt": "how pressure was applied"
+        },
+        {
+          "n": 10,
+          "prompt": "how the damage was created"
+        },
+        {
+          "n": 11,
+          "prompt": "reference to a wonderful chance for research"
+        },
+        {
+          "n": 12,
+          "prompt": "the situation ten years on"
+        },
+        {
+          "n": 13,
+          "prompt": "how the microwave sensor works"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "paragraphCount": 9,
+      "reuse": false,
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 9 – 13 Reading Passage 1 has nine paragraphs, A-I. Which paragraph contains the following information? Write the correct letter on your answer sheet."
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1KSGRUlIvekRr07QfY9pMF8_btdkSLr1q",
+      "role": "passage-and-questions",
+      "sha256": "78a9dbb3f5b50577d0f2a5d43a8602e6f61dfd38636ac1912ef4884b0da615dd"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "jobId": "p1-a-watchful-eye-on-bridges",
+    "method": "ocr-with-explicit-source-reviewed-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 9
+  }
+}

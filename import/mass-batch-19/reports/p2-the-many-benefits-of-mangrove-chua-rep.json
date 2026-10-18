@@ -1,0 +1,22 @@
+{
+  "job": "p2-the-many-benefits-of-mangrove-chua-rep",
+  "title": "The many benefits of mangrove(CHƯA REP)",
+  "part": 2,
+  "fingerprint": "42e47e6d6dbed7faaa12a5641cc2c052d8b9a57def1f41bfe7f24abe3e68003b",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1KxbS3T_cHGeTz92RYKx9i9-wjhOUUFTp",
+      "code": "instructions",
+      "message": "Answer-sheet boundary is unclear"
+    },
+    {
+      "sourceId": "1WCTlfjD5MolpxYGT1iiVNULv7QYi4dnR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.045
+}

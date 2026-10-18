@@ -1,0 +1,33 @@
+{
+  "job": "p3-what-is-social-history",
+  "title": "What is social history?",
+  "part": 3,
+  "fingerprint": "e9cb7a3ed494e0f5deab49f8b860625ab5d5a7194e031e07d2abd2a3b5fd0fa2",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-what-is-social-history.json",
+  "lessonId": "p3-what-is-social-history",
+  "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "d877c5a533ed3a413f4bf18c140208e103dc714c1f7a31b90b48e614ae529ac1",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

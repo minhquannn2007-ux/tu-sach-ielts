@@ -1,0 +1,17 @@
+{
+  "job": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+  "title": "Canal discovered at ancient quarry in Egypt",
+  "part": 2,
+  "fingerprint": "a4fdbd022974c67c02457ab497fe99112e39b95dc1c5dee36359bb2cc4f816ae",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1Q41wGQx_co85QFleSKQeO1zISQxqdeha",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.289
+}

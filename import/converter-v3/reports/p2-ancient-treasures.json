@@ -1,0 +1,36 @@
+{
+  "job": "p2-ancient-treasures",
+  "title": "Ancient Treasures",
+  "part": 2,
+  "fingerprint": "d8565f6ab0ec8146daef43e2f9fecde437270e5f06810b2fb8333e2d020761d0",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH.json",
+      "ocrConfidence": [
+        92.5,
+        77.3,
+        84.3,
+        87.9
+      ]
+    },
+    {
+      "sourceId": "16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83.json",
+      "ocrConfidence": [
+        86.2,
+        0.0,
+        79.9,
+        0.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.011
+}

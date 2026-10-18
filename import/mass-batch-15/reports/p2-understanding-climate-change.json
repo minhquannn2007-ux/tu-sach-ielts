@@ -1,0 +1,17 @@
+{
+  "job": "p2-understanding-climate-change",
+  "title": "Understanding climate change",
+  "part": 2,
+  "fingerprint": "33cb8c1ed82317e29c42aa52b8c3c10e7bd1540ab9a097ebb1031ad9de7ceb04",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1ObFvB5oC1Hb5ucjpcE2bs75HJ_18GV-r",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

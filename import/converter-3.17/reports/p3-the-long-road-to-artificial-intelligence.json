@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-long-road-to-artificial-intelligence",
+  "title": "The Long Road to Artificial Intelligence",
+  "part": 3,
+  "fingerprint": "4cbc6503a05cd5b758689d4941b7b81bd5767c9ba6fb7bd40bbef40f79eaa395",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1xaeTnRA4DjpcXi85WP_Wyp4TWOV_hOBK",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-long-road-to-artificial-intelligence.json",
+  "lessonId": "p3-the-long-road-to-artificial-intelligence",
+  "sourceId": "1xaeTnRA4DjpcXi85WP_Wyp4TWOV_hOBK",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "summary-drag",
+    "ynng"
+  ],
+  "sourceHash": "56d34ece4b668e363a42802f261c763b8187b7af9f54bdd3ed71320a373ee9f5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.076
+}

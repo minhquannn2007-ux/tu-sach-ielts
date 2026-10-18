@@ -1,0 +1,22 @@
+{
+  "job": "p3-how-have-humans-changed",
+  "title": "How have humans changed?",
+  "part": 3,
+  "fingerprint": "0359151ae75935a4c6f70ffc924699607c04946b851134ab6369630238c6139e",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1q8b86O1c4xMNoAeWz3EVw57nLdQhjaQ0",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1xsUnLh3QWVuQesTr8vujP9rooK0x1YR6",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

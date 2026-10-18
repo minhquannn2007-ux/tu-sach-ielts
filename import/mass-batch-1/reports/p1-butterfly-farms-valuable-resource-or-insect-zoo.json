@@ -1,0 +1,24 @@
+{
+  "job": "p1-butterfly-farms-valuable-resource-or-insect-zoo",
+  "title": "Butterfly Farms: valuable resource or insect zoo?",
+  "part": 1,
+  "fingerprint": "0033c9ff5ada30730ae0a25c2e4c77556d4b979c3f20c7ca8b10615eef54730f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1j_yRxFEU5fSsXY8V53rdi-aOedY2CnTw",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1j_yRxFEU5fSsXY8V53rdi-aOedY2CnTw.json",
+      "ocrConfidence": [
+        78.7,
+        83.0,
+        88.7,
+        91.4
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.033
+}

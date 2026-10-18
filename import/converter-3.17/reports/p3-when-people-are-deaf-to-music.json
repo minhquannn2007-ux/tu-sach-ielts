@@ -1,0 +1,17 @@
+{
+  "job": "p3-when-people-are-deaf-to-music",
+  "title": "When people are 'deaf' to music",
+  "part": 3,
+  "fingerprint": "b7ccf44d56815362ab8e780eeebac2b6cce9df731b4005b4f66390bc8081dfb6",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1JKVJB1_Pc1BuH6t87ViaBwQqrcg0SEZQ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

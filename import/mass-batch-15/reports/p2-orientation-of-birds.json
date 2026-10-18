@@ -1,0 +1,17 @@
+{
+  "job": "p2-orientation-of-birds",
+  "title": "Orientation of birds",
+  "part": 2,
+  "fingerprint": "8bfce490f178ec9887c54622f21f841090b9e6b0be5e9001f5fc1fec4cd4f098",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1iODWef0n86JhbTHM_LAmh8G_-aQTwvAa",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

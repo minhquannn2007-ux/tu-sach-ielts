@@ -1,0 +1,17 @@
+{
+  "job": "p1-conquering-the-south-pole",
+  "title": "Conquering the South Pole",
+  "part": 1,
+  "fingerprint": "b8803d92ff79ef0ac6b57abc269ba3542523fc4b3dda04d95ce0742d432c46bc",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1zjxiBJgoRafWibF36esqWeFQU3IGumDo",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.237
+}

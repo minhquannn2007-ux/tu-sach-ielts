@@ -1,0 +1,24 @@
+{
+  "job": "p1-keeping-healthy-at-work",
+  "title": "Keeping Healthy at Work",
+  "part": 1,
+  "fingerprint": "5ddceb6b451b68e6944cb49eb2f45286beba01a3d8b4e60bbb2991cb48d4e161",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA.json",
+      "ocrConfidence": [
+        96.6,
+        95.7,
+        95.9,
+        91.4
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.021
+}

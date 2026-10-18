@@ -1,0 +1,3277 @@
+[
+  {
+    "key": "111a18e0057f8db1-1",
+    "id": "p1-scented-plants",
+    "title": "Scented Plants",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc",
+        "sha256": "814c5cf9569abfeffb652f64a3a578b52b78f1271402c1302f7fd01343f54d10",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc/view?usp=drivesdk",
+        "size": "2115666"
+      },
+      {
+        "id": "1BfyS-BAoz_jtBfVw6iXd3Ty6hKxg6_lB",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1BfyS-BAoz_jtBfVw6iXd3Ty6hKxg6_lB/view?usp=drivesdk",
+        "size": "664389"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "a8062f91f9220f58-1",
+    "id": "p1-answers-underground",
+    "title": "Answers Underground",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ",
+        "sha256": "23567e70c9fc1edc22f37a4eb593d8d44944a6baaab1236dd5b882d0560d5fbd",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ",
+        "title": "PAPER 2019",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1PyABePNKozdD3mz_sv3xzSsSlwfDzRMZ/view?usp=drivesdk",
+        "size": "725360"
+      },
+      {
+        "id": "1NKLNnLWAmYu5RW1zC16gAItFkGetNCBW",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1NKLNnLWAmYu5RW1zC16gAItFkGetNCBW/view?usp=drivesdk",
+        "size": "1930453"
+      },
+      {
+        "id": "1IaODhgrtsWD6T-Qffh3NM7eItEFOm5JS",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1IaODhgrtsWD6T-Qffh3NM7eItEFOm5JS/view?usp=drivesdk",
+        "size": "810916"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "5b1209f4b2a394b6-1",
+    "id": "p1-why-good-ideas-fail",
+    "title": "Why good ideas fail",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa",
+        "sha256": "1d078bcdb477f05e2641533c089815f131d067e0cd321919de507ed16840bced",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa/view?usp=drivesdk",
+        "size": "1975596"
+      },
+      {
+        "id": "11wINcTVhOSAliK8PNjNRn_nYiU4BeUwd",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/11wINcTVhOSAliK8PNjNRn_nYiU4BeUwd/view?usp=drivesdk",
+        "size": "1429985"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "f0a1aad3399c1f09-1",
+    "id": "p1-minds-of-their-own",
+    "title": "Minds of their own",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH",
+        "sha256": "7282bb5035933ea729568dc4dbd9b32b84820fa3429a56b957b109ffe57b9759",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      },
+      {
+        "sourceId": "165TFc59Ot57e9ESgQf4AuTp8_VKVsCli",
+        "sha256": "4b3dd855342577bc25140adfe527e553d2435b86b4f6bbe5eed7d8c18f52c84e",
+        "pages": 4,
+        "shortTextPages": [
+          4
+        ],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH",
+        "title": "PAPER EU 2024",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH/view?usp=drivesdk",
+        "size": "599298"
+      },
+      {
+        "id": "165TFc59Ot57e9ESgQf4AuTp8_VKVsCli",
+        "title": "PAPER ASIA 2019",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/165TFc59Ot57e9ESgQf4AuTp8_VKVsCli/view?usp=drivesdk",
+        "size": "372664"
+      },
+      {
+        "id": "1JlzNrcyBKLszFulDkcTLV9Lsy6B8a_IR",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1JlzNrcyBKLszFulDkcTLV9Lsy6B8a_IR/view?usp=drivesdk",
+        "size": "1874216"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "6b4747b37f2f7c2e-1",
+    "id": "p1-the-changing-nature-of-selling",
+    "title": "The Changing Nature of Selling",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1egA6zO0YQ_X31B02nmdHWqHtm2BNQCaU",
+        "sha256": "499cd870751de1a71d8f50dd1fefc32191e472384bb8d7f444e801834cf962e3",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1egA6zO0YQ_X31B02nmdHWqHtm2BNQCaU",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1egA6zO0YQ_X31B02nmdHWqHtm2BNQCaU/view?usp=drivesdk",
+        "size": "1841919"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b14327a62f9f33d1-1",
+    "id": "p1-what-lucy-taught-us",
+    "title": "What Lucy Taught Us",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "11a7w0G4ypV8VAKCWESOuOUDs6GoBZV4m",
+        "sha256": "1b6d17413d46dcfbd1df91d2fde76a6ecb8450b7fac048a3adfc3ac91e40bcb0",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "11a7w0G4ypV8VAKCWESOuOUDs6GoBZV4m",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/11a7w0G4ypV8VAKCWESOuOUDs6GoBZV4m/view?usp=drivesdk",
+        "size": "2179769"
+      },
+      {
+        "id": "13Hnjhz9zPDXpNT4QpT_cMQrIjEqh9SI7",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/13Hnjhz9zPDXpNT4QpT_cMQrIjEqh9SI7/view?usp=drivesdk",
+        "size": "2038785"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b7030ed8674e785e-1",
+    "id": "p1-chocolate-for-the-masses",
+    "title": "Chocolate for the masses",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1Qm4HyFQs-JuGoM3f_ZjLnwxZja3SZSit",
+        "sha256": "dbf2f617e0094f35946aeb5db424ebe59391e0f5bb437d943152452bffd93b96",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1DdERHL6hnHOIs4oWWvlf_O2H0dicYMlE",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1DdERHL6hnHOIs4oWWvlf_O2H0dicYMlE/view?usp=drivesdk",
+        "size": "1920079"
+      },
+      {
+        "id": "1Qm4HyFQs-JuGoM3f_ZjLnwxZja3SZSit",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Qm4HyFQs-JuGoM3f_ZjLnwxZja3SZSit/view?usp=drivesdk",
+        "size": "474983"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "a8418c271fb90e6d-1",
+    "id": "p1-the-iditarod",
+    "title": "The Iditarod",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e",
+        "sha256": "27148c129dd7a53f89e5ab404c9b602aa53d19d9f26d2c329a8b9115252484fc",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1td68lPilOq0wwqpyAJdT75Xyg3bT8U9D",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1td68lPilOq0wwqpyAJdT75Xyg3bT8U9D/view?usp=drivesdk",
+        "size": "1336172"
+      },
+      {
+        "id": "1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e/view?usp=drivesdk",
+        "size": "1255958"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "d07d5698c60cae57-1",
+    "id": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+    "title": "The development of art appreciation in Melbourne, Australia",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U",
+        "sha256": "8159384a68e3aaa61a13251085e18a467407f2fb7c3082a334abef44e2cf68d4",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U/view?usp=drivesdk",
+        "size": "1907923"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "f574d004bd70ca21-1",
+    "id": "p1-solving-an-arctic-mystery",
+    "title": "Solving an Arctic mystery",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1hiDEOeH11ctSVj8NhHXy9Xq83Rg-Ph3U",
+        "sha256": "f7e3c88b06e4292f0ca297dfd7019b02a9b9eabc0559852b4ca76ca34e4e37d5",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1hiDEOeH11ctSVj8NhHXy9Xq83Rg-Ph3U",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1hiDEOeH11ctSVj8NhHXy9Xq83Rg-Ph3U/view?usp=drivesdk",
+        "size": "1802271"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "1e79c31058b452f5-1",
+    "id": "p1-listening-to-the-ocean",
+    "title": "Listening to the Ocean",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1oa0HtDkMcogLDvaH086mYI0ZlvTWUYxv",
+        "sha256": "5eb2ce10b9bfffe5bec05ebb904c902b0c7c8bc1b0d3b679eabb213596dadeba",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "16x-T6EpjmVZGbBi4zENlazGpsQgTZ5uC",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/16x-T6EpjmVZGbBi4zENlazGpsQgTZ5uC/view?usp=drivesdk",
+        "size": "2066174"
+      },
+      {
+        "id": "1oa0HtDkMcogLDvaH086mYI0ZlvTWUYxv",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1oa0HtDkMcogLDvaH086mYI0ZlvTWUYxv/view?usp=drivesdk",
+        "size": "471536"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "91d30ad3d93b33de-1",
+    "id": "p1-the-emergence-of-communications-media-in-the-usa",
+    "title": "The emergence of communications media in the USA",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1XjpdXD0zW-K0AeJi0AojgAdXLre5I_Im",
+        "sha256": "54707fcb0f8714d4f638d4b6af43ff679b7afe191f794e8db813978557bd9ca8",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1XjpdXD0zW-K0AeJi0AojgAdXLre5I_Im",
+        "title": "PAPER ",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1XjpdXD0zW-K0AeJi0AojgAdXLre5I_Im/view?usp=drivesdk",
+        "size": "1102546"
+      },
+      {
+        "id": "1WNvxxGA_fN5kJRCQWIUbEuh7s7WNZt2x",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1WNvxxGA_fN5kJRCQWIUbEuh7s7WNZt2x/view?usp=drivesdk",
+        "size": "1982196"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "f1090079601d8d02-1",
+    "id": "p1-what-are-black-holes",
+    "title": "What are Black Holes?",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1HGMZFIo-cqn9xwfpSOkzrB20qdl7wLcP",
+        "sha256": "6b47541e1938bcc24739a91dd49233ff993ba1723d93a008ed9e05ee6545b894",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1HGMZFIo-cqn9xwfpSOkzrB20qdl7wLcP",
+        "title": "PAPER ",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1HGMZFIo-cqn9xwfpSOkzrB20qdl7wLcP/view?usp=drivesdk",
+        "size": "985857"
+      },
+      {
+        "id": "15PouBeBTptKXScyu0poSrT6j1_zBhf_6",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/15PouBeBTptKXScyu0poSrT6j1_zBhf_6/view?usp=drivesdk",
+        "size": "1804674"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b5504812078593b9-1",
+    "id": "p1-fishbourne-roman-palace",
+    "title": "Fishbourne Roman Palace",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1gPBoIQPZ-SqWvTPC7kn71YNfPQu8Xnro",
+        "sha256": "47164b656645d49698a214fb489ea51e1e219c8297099017b7f0c79033e888f9",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1gPBoIQPZ-SqWvTPC7kn71YNfPQu8Xnro",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1gPBoIQPZ-SqWvTPC7kn71YNfPQu8Xnro/view?usp=drivesdk",
+        "size": "1861968"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "96962ecb28177857-1",
+    "id": "p1-fungi-a-new-sustainable-alternative",
+    "title": "Fungi: a new sustainable alternative",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1Vf7aAQ_YD1_WdGhJ9kg8oR8xai9Ng-Cp",
+        "sha256": "d7bc633d4ea9c3432dec94194cf7b695a4deffe6a9910539d261afadce85e434",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1Vf7aAQ_YD1_WdGhJ9kg8oR8xai9Ng-Cp",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Vf7aAQ_YD1_WdGhJ9kg8oR8xai9Ng-Cp/view?usp=drivesdk",
+        "size": "1735239"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "4ed6e860deaf1d50-1",
+    "id": "p1-city-transport-uneven-progress",
+    "title": "CITY TRANSPORT: UNEVEN PROGRESS",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn",
+        "sha256": "4c974e7da299601ac76ed6f6eab95807009ae0d59daf5b8d5fb06830accd2ac8",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "14-GYMVNLSjwmz5cHyPDXAqcNY7yhpx9v",
+        "title": "PAPER ASIA",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/14-GYMVNLSjwmz5cHyPDXAqcNY7yhpx9v/view?usp=drivesdk",
+        "size": "526059"
+      },
+      {
+        "id": "1ArOb8SKlAyu52lTCV5yuu-L1glXSL1Bz",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ArOb8SKlAyu52lTCV5yuu-L1glXSL1Bz/view?usp=drivesdk",
+        "size": "1808357"
+      },
+      {
+        "id": "1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn",
+        "title": "PAPER EU",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn/view?usp=drivesdk",
+        "size": "1007628"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b149488bd1061e7c-1",
+    "id": "p1-making-copies",
+    "title": "Making copies",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1XDO3YZPb2mcB56xpBJHNzeQLcWU8pWP4",
+        "sha256": "ebd3a1e544906f2bf276f6c0683e40f64a0c0c6e92a9bec07c3af4a1f5a3efc0",
+        "pages": 3,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 3
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1XDO3YZPb2mcB56xpBJHNzeQLcWU8pWP4",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1XDO3YZPb2mcB56xpBJHNzeQLcWU8pWP4/view?usp=drivesdk",
+        "size": "1084577"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "0fbfb951423af65c-1",
+    "id": "p1-deep-sea-discovery",
+    "title": "Deep sea discovery",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1faS8THFFtPO9ke4F4s572FejAMHb0Baq",
+        "sha256": "fde47a79404678656929e3f3d30c808a27e1affc99b1d514f41ace604a8fa91b",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1w7OkZX_-WyXs3q9xF-3tS-Nd6nUPT9bN",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1w7OkZX_-WyXs3q9xF-3tS-Nd6nUPT9bN/view?usp=drivesdk",
+        "size": "1896081"
+      },
+      {
+        "id": "1faS8THFFtPO9ke4F4s572FejAMHb0Baq",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1faS8THFFtPO9ke4F4s572FejAMHb0Baq/view?usp=drivesdk",
+        "size": "24263624"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "4a2b3d7dd17ac807-1",
+    "id": "p1-couran-cove-resort",
+    "title": "Couran Cove Resort",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1DIyCdii92kum8Dxi4QAarQ4WcY8u6Gtt",
+        "sha256": "7ae54845820a9fae13fae13a57b0409fc83f4b64bae95f0ba5a50932d362e587",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1WNF9rTbrq1hPjdW4kN7_rhi0mcGh5i_j",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1WNF9rTbrq1hPjdW4kN7_rhi0mcGh5i_j/view?usp=drivesdk",
+        "size": "1927755"
+      },
+      {
+        "id": "1DIyCdii92kum8Dxi4QAarQ4WcY8u6Gtt",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1DIyCdii92kum8Dxi4QAarQ4WcY8u6Gtt/view?usp=drivesdk",
+        "size": "711650"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "badac4948bae1fed-1",
+    "id": "p1-the-great-tit",
+    "title": "The Great Tit",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1-kBeTQS_Muyn-MbnVrsLWhlzneKlkPlt",
+        "sha256": "e732bab198a2106f886f3b876b70fa966227a3c3647a5ed5da5a324232aa1ace",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1FOIttKRp177yQyQC8nEKeyiiljK6HbDK",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1FOIttKRp177yQyQC8nEKeyiiljK6HbDK/view?usp=drivesdk",
+        "size": "1025249"
+      },
+      {
+        "id": "1-kBeTQS_Muyn-MbnVrsLWhlzneKlkPlt",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1-kBeTQS_Muyn-MbnVrsLWhlzneKlkPlt/view?usp=drivesdk",
+        "size": "2050422"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "befc073086ab083c-1",
+    "id": "p1-dolls-through-the-ages",
+    "title": "Dolls through the ages",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1HGV7oyN7bgnVME-zDA4QWxBWkB7SXiY3",
+        "sha256": "989a82a89d7ecf41caa0866c8787ce5abf6f19d9bc80bc0db1620aec64e3105f",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1HGV7oyN7bgnVME-zDA4QWxBWkB7SXiY3",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1HGV7oyN7bgnVME-zDA4QWxBWkB7SXiY3/view?usp=drivesdk",
+        "size": "1951433"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "8ea40f3107c97138-1",
+    "id": "p1-classifying-societies",
+    "title": "Classifying societies",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1oV1IbAdNoWag9eHs8INIK1zHL5engvKH",
+        "sha256": "2a87038b6a27d074fc4de8a3dd0569fb2f3ae26501ef0b8ee790422a429392a6",
+        "pages": 3,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 3
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1oV1IbAdNoWag9eHs8INIK1zHL5engvKH",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1oV1IbAdNoWag9eHs8INIK1zHL5engvKH/view?usp=drivesdk",
+        "size": "906193"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "badbf9a3cd387991-1",
+    "id": "p1-carnivorous-plants",
+    "title": "Carnivorous Plants",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1-lKiqUldXTDru55KUKYuVcNLFLJ5YvNy",
+        "sha256": "12009fc09456048729d78b9ee76001a33171f7267a5c92b8e718179f52ac015b",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "13H4vMNOqtmRJEVZjYcxdmhhbAXSAkkH5",
+        "title": "PAPER ASIA",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/13H4vMNOqtmRJEVZjYcxdmhhbAXSAkkH5/view?usp=drivesdk",
+        "size": "509697"
+      },
+      {
+        "id": "1-lKiqUldXTDru55KUKYuVcNLFLJ5YvNy",
+        "title": "PAPER CANADA",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1-lKiqUldXTDru55KUKYuVcNLFLJ5YvNy/view?usp=drivesdk",
+        "size": "1784855"
+      },
+      {
+        "id": "1ZC_YqCK1by_r7q1zhjXibs9NGVYVk9p1",
+        "title": "ANSWER KEY.docx",
+        "type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "url": "https://docs.google.com/document/d/1ZC_YqCK1by_r7q1zhjXibs9NGVYVk9p1/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "size": "6902"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "077c977e8fc91c01-1",
+    "id": "p1-book-review-triumph-of-the-city",
+    "title": "Book review: Triumph of the City",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "17NTX79PGK0v6Ny0oeEt5STfavp-g1WPi",
+        "sha256": "03daf196255e49b40ee825ae4862d691eadfcc29bc5342cdabc6f6de7024af59",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "17NTX79PGK0v6Ny0oeEt5STfavp-g1WPi",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/17NTX79PGK0v6Ny0oeEt5STfavp-g1WPi/view?usp=drivesdk",
+        "size": "6137151"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "32999838492a1216-1",
+    "id": "p1-deserts-and-desert-life",
+    "title": "Deserts and desert life",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU",
+        "sha256": "79e5da9416becd60df072573e031b7fd7faf7ea3636fad691376f68f730e2b65",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1qATj_H48NS5TwlWV8_NGvmClm24be5CQ",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1qATj_H48NS5TwlWV8_NGvmClm24be5CQ/view?usp=drivesdk",
+        "size": "1845550"
+      },
+      {
+        "id": "1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU/view?usp=drivesdk",
+        "size": "630422"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "dc75219b37c076e2-1",
+    "id": "p1-chilli-peppers",
+    "title": "Chilli Peppers",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "queued",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1tmap82OCsZvH7HTfCHHx6vsvRvNwz1Ic",
+        "sha256": "477c87516f9ca5cffc7f1c0aa919b70ada5560e672671214f104906506fa1a31",
+        "pages": 1,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 1
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1h1777cTnZ4yTfy60GeofPUVQYpnVbHF8",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1h1777cTnZ4yTfy60GeofPUVQYpnVbHF8/view?usp=drivesdk",
+        "size": "2005433"
+      },
+      {
+        "id": "1tmap82OCsZvH7HTfCHHx6vsvRvNwz1Ic",
+        "title": "PAPER INDIA",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1tmap82OCsZvH7HTfCHHx6vsvRvNwz1Ic/view?usp=drivesdk",
+        "size": "371635"
+      },
+      {
+        "id": "1FTv3Adk2HUYko6RXFj4xtpbHuXFxGQhO",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1FTv3Adk2HUYko6RXFj4xtpbHuXFxGQhO/view?usp=drivesdk",
+        "size": "515057"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "a6f2ae033c4f0a99-1",
+    "id": "p1-antonio-stradivari-violin-maker-supreme",
+    "title": "Antonio Stradivari - violin maker supreme",
+    "part": 1,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1MUbrfQ4qJYYcgG-Wsvm4JCIKCts7fw6b",
+        "sha256": "cf88e21bc4989c8f4b8b886742489cfa3c6da6b6ea39734662aad9316668170e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1ElGc38ihfGRfetZlGmxOAfh47BGv8m_P",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ElGc38ihfGRfetZlGmxOAfh47BGv8m_P/view?usp=drivesdk",
+        "size": "1922095"
+      },
+      {
+        "id": "1MUbrfQ4qJYYcgG-Wsvm4JCIKCts7fw6b",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1MUbrfQ4qJYYcgG-Wsvm4JCIKCts7fw6b/view?usp=drivesdk",
+        "size": "2578073"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "3d7f4b9ad8d43cba-1",
+    "id": "p2-the-problem-with-aiming-for-average",
+    "title": "The problem with aiming for average",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1FHS96PoqxTeRddI9B5jsje61bl-_PHZ9",
+        "sha256": "b78f4b8205e41377114ca422cb030e644abd9726f59bed5f41562bdbb6005d6a",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1VJADLqe2tg8LhTmd-x_RSTbVv1BL3wcK",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1VJADLqe2tg8LhTmd-x_RSTbVv1BL3wcK/view?usp=drivesdk",
+        "size": "2133627"
+      },
+      {
+        "id": "1FHS96PoqxTeRddI9B5jsje61bl-_PHZ9",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1FHS96PoqxTeRddI9B5jsje61bl-_PHZ9/view?usp=drivesdk",
+        "size": "748170"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "2e4a8cbcc7fef49e-1",
+    "id": "p2-dominance-in-social-insects",
+    "title": "Dominance in Social Insects",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+        "sha256": "abd84c3513231c8c8132dc635e3f465567903003dc317ad773719f85374e829c",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+        "title": "Dominance in Social Insects.pdf",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1h_dWYi87gUolwABKQI-gCsJalfs72-yg/view?usp=drivesdk",
+        "size": "2089964"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "15cce202f9373d78-1",
+    "id": "p2-bristlecone-pines",
+    "title": "Bristlecone Pines",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi",
+        "sha256": "21127c4ba4e62aa038d1aabb3a5bd1dc64a931152a111c763d1ce11328e1f2eb",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1CgGsgpoBWkzH07f0emUirYNE_aYc8c3v",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1CgGsgpoBWkzH07f0emUirYNE_aYc8c3v/view?usp=drivesdk",
+        "size": "1962340"
+      },
+      {
+        "id": "1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi/view?usp=drivesdk",
+        "size": "818144"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "d4fb3a7a3da1147b-1",
+    "id": "p2-the-alps-2-ocean-cycle-trail",
+    "title": "The Alps 2 Ocean Cycle Trail",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq",
+        "sha256": "48703c7cc997f558ac6ffe2b1493c0aa345a6e1150475e8e18196f6243c22397",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1QD1CopZd1D_2MRyRoLlq_soXFTleqNyL",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1QD1CopZd1D_2MRyRoLlq_soXFTleqNyL/view?usp=drivesdk",
+        "size": "1854162"
+      },
+      {
+        "id": "1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq/view?usp=drivesdk",
+        "size": "571516"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "2de534fb6b5aafeb-1",
+    "id": "p2-the-aerofoil",
+    "title": "The aerofoil",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1f0MBRJyXLh3loIsXk4CVIBg_c97-w90W",
+        "sha256": "5dc9c879252d6305ca448a761637962af65f6f1e9b4e7f783633c8ee72f7945a",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1f0MBRJyXLh3loIsXk4CVIBg_c97-w90W",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1f0MBRJyXLh3loIsXk4CVIBg_c97-w90W/view?usp=drivesdk",
+        "size": "6442676"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "02827092c97c711e-1",
+    "id": "p2-paternity-leave",
+    "title": "Paternity Leave",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB",
+        "sha256": "7afa19bfeac9f63b324e1246a7ee9eaef6ab8c3922aa06656e869e31015b71d2",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "11PmWDdJ3QnZeXvfa64-EcWgPMuVjHxb-",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/11PmWDdJ3QnZeXvfa64-EcWgPMuVjHxb-/view?usp=drivesdk",
+        "size": "3727099"
+      },
+      {
+        "id": "1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB/view?usp=drivesdk",
+        "size": "1397052"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "bd2d49b6e61e228f-1",
+    "id": "p2-growing-more-for-less",
+    "title": "Growing more for less",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1SBJEO5gNI65Kg4nWzaYz3KQwT7NPkc_n",
+        "sha256": "bb578c56f07a41b0113218bc95489ff49e8e116f6f0dccc6e774e1a05143e985",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1wIr8DPNo_kksREu0FjFhkml4GbeZk7GN",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1wIr8DPNo_kksREu0FjFhkml4GbeZk7GN/view?usp=drivesdk",
+        "size": "2051311"
+      },
+      {
+        "id": "1SBJEO5gNI65Kg4nWzaYz3KQwT7NPkc_n",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1SBJEO5gNI65Kg4nWzaYz3KQwT7NPkc_n/view?usp=drivesdk",
+        "size": "461275"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "074360945aa44b73-1",
+    "id": "p2-a-great-leap-forward",
+    "title": "A great leap forward",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY",
+        "sha256": "61e33d4866661e4977cce9df402e9495afa37f09380cf9d07d4c86340bd8e602",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1RwO1RbtfJPhY-72S-UFLhzztiG4qPQ1-",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1RwO1RbtfJPhY-72S-UFLhzztiG4qPQ1-/view?usp=drivesdk",
+        "size": "3960525"
+      },
+      {
+        "id": "1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY/view?usp=drivesdk",
+        "size": "559762"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "7cbf942d4597d8eb-1",
+    "id": "p2-mammoth-kill",
+    "title": "MAMMOTH KILL",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1tDgzGETDOnjdm_CAsOYHNQt96aOM81gK",
+        "sha256": "b544352342bcbf6a1a28710b64d9a75e0b90aedda9ac042c5949b1e637a62d48",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1tDgzGETDOnjdm_CAsOYHNQt96aOM81gK",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1tDgzGETDOnjdm_CAsOYHNQt96aOM81gK/view?usp=drivesdk",
+        "size": "534756"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "1efe5ae22e7a73f9-1",
+    "id": "p2-icebergs-as-a-water-source-chua-go",
+    "title": "Icebergs as a Water Source(CHƯA GÕ)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1TG8H4n02dZoP61PHIGDnIbjN9uHo3X8q",
+        "sha256": "21fae06d97462efa305b65060bbd194024426c5727ea728aee95367aaee597a5",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1TG8H4n02dZoP61PHIGDnIbjN9uHo3X8q",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1TG8H4n02dZoP61PHIGDnIbjN9uHo3X8q/view?usp=drivesdk",
+        "size": "1096756"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "a7e24534708a1eab-1",
+    "id": "p2-boring-buildings",
+    "title": "Boring buildings",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1xQF48IBE1pKqBXcwZZxFU-TS6wN-Eo6p",
+        "sha256": "389b8b3062d67c5e03a36f0ccd4e1d3f9a142adc8ceced4d8da4a9f014f4d2e7",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1ZOVjJNYvyDm3SRtBpTw2vwt0zFsrL9nK",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ZOVjJNYvyDm3SRtBpTw2vwt0zFsrL9nK/view?usp=drivesdk",
+        "size": "2260014"
+      },
+      {
+        "id": "1xQF48IBE1pKqBXcwZZxFU-TS6wN-Eo6p",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1xQF48IBE1pKqBXcwZZxFU-TS6wN-Eo6p/view?usp=drivesdk",
+        "size": "2959844"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "1b358f5db6eebcfe-1",
+    "id": "p2-sir-gawain-and-the-green-knight",
+    "title": "Sir Gawain and the Green Knight",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "17_JqmzAnlm1wpR9xpEbxJ1wj9oSQCkAL",
+        "sha256": "8302bf0222969f87ab1568189b931792a6a436cf90cc98f24af6a83872c42c7e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "17_JqmzAnlm1wpR9xpEbxJ1wj9oSQCkAL",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/17_JqmzAnlm1wpR9xpEbxJ1wj9oSQCkAL/view?usp=drivesdk",
+        "size": "715252"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b5ea1a2988b34f7d-1",
+    "id": "p2-the-discovery-of-a-baby-mammoth",
+    "title": "The discovery of a baby mammoth",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1C_yq5le9FALXnAmdvE1Px1xTG3PywTPt",
+        "sha256": "b6ff36af331c1b38f6d863edb187c9262bcbc8c43e5bca896306af1bbdc36870",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1C_yq5le9FALXnAmdvE1Px1xTG3PywTPt",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1C_yq5le9FALXnAmdvE1Px1xTG3PywTPt/view?usp=drivesdk",
+        "size": "1911732"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "0b198d19f90f213d-1",
+    "id": "p2-the-study-of-film",
+    "title": "The study of film",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1vhu0ra7KVFXYIRtJwJS1EK93GBY1k7Lz",
+        "sha256": "2785e8536e054b42c66b313255235ac052bda3a0f1ab18e5f05246bdcb56e43f",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1NJuEWpdNqOMfMw3JSg1awPaHM2fqGk8b",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1NJuEWpdNqOMfMw3JSg1awPaHM2fqGk8b/view?usp=drivesdk",
+        "size": "1901692"
+      },
+      {
+        "id": "1vhu0ra7KVFXYIRtJwJS1EK93GBY1k7Lz",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1vhu0ra7KVFXYIRtJwJS1EK93GBY1k7Lz/view?usp=drivesdk",
+        "size": "652127"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "3e015ab2dbe4e203-1",
+    "id": "p2-nanotechnology-the-science-of-the-very-small",
+    "title": "Nanotechnology: the science of the very small",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1pDxH4LxYl0cJiIsmKEGeKN3Ptu4sPP17",
+        "sha256": "b9a03fc7a1e72219abe0967df5b83d23c3d9f4a7b73b55878d8890e9cb40029b",
+        "pages": 5,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 5
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1BQV99tHmK_Wv4M-Zs59vX6r8zIz_BU78",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1BQV99tHmK_Wv4M-Zs59vX6r8zIz_BU78/view?usp=drivesdk",
+        "size": "2126226"
+      },
+      {
+        "id": "1pDxH4LxYl0cJiIsmKEGeKN3Ptu4sPP17",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1pDxH4LxYl0cJiIsmKEGeKN3Ptu4sPP17/view?usp=drivesdk",
+        "size": "825716"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "bb56b29cc35e25e4-1",
+    "id": "p2-the-coastal-archaeology-of-britain",
+    "title": "The Coastal Archaeology of Britain",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "105nlftGkQHdYeSny-Ec-AdO1AM9SQDcb",
+        "sha256": "ca6d3ac97064890dd087ff096790bca8183ca273309b1e89a6af5d8ce7bee68d",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1ry1wM2jak0LguKMuqKwsiiA-Ax3-Kcom",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ry1wM2jak0LguKMuqKwsiiA-Ax3-Kcom/view?usp=drivesdk",
+        "size": "2084816"
+      },
+      {
+        "id": "105nlftGkQHdYeSny-Ec-AdO1AM9SQDcb",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/105nlftGkQHdYeSny-Ec-AdO1AM9SQDcb/view?usp=drivesdk",
+        "size": "682767"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "f7c6c1d8de887352-1",
+    "id": "p2-are-artists-liars",
+    "title": "Are artists liars?",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP",
+        "sha256": "1e7da8393969f60643a610c7188ff5082016957e844c170e61c3e1640a596fba",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1BjqT2v3sooENw_YW8Qy062olwCjk_Tlz",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1BjqT2v3sooENw_YW8Qy062olwCjk_Tlz/view?usp=drivesdk",
+        "size": "1982831"
+      },
+      {
+        "id": "1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP/view?usp=drivesdk",
+        "size": "659542"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "6fbb61312496d034-1",
+    "id": "p2-the-development-of-television-and-its-introduction-in-britain",
+    "title": "The development of television and its introduction in Britain",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1amKd7jQ_p-1uCe2FI6rPpkpgccTxG9VU",
+        "sha256": "9dfd6c2673a183b5021fd9aaea33bcd709a7e715692a4eadd0a16bfe6deba15f",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1o_U5D6jSwueHCiSO1FEY-gHwLpo8Pmac",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1o_U5D6jSwueHCiSO1FEY-gHwLpo8Pmac/view?usp=drivesdk",
+        "size": "1904860"
+      },
+      {
+        "id": "1amKd7jQ_p-1uCe2FI6rPpkpgccTxG9VU",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1amKd7jQ_p-1uCe2FI6rPpkpgccTxG9VU/view?usp=drivesdk",
+        "size": "1000116"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "6d3f033d0f770d23-1",
+    "id": "p2-the-lost-city",
+    "title": "THE LOST CITY",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1NpdKzd3PiLv6Ks8Drf9SCCX3Gwd6vAup",
+        "sha256": "e38862c490012b55ca810b9b288253bb1ddb5881cb2b4328e734c0237eea99ae",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1NpdKzd3PiLv6Ks8Drf9SCCX3Gwd6vAup",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1NpdKzd3PiLv6Ks8Drf9SCCX3Gwd6vAup/view?usp=drivesdk",
+        "size": "1822955"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "3aa88838f05215f9-1",
+    "id": "p2-the-beginning-of-the-consumer-age",
+    "title": "The beginning of the consumer age",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "15s4goP4fApBFv0ja2Jw5-p85_uh9x39i",
+        "sha256": "6f0e7b2e703329d7ceb8a5e5644dcb0bdbfafee303caba2ba691a15c64527d8e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1b-FBGEJHXzhCG_jbspFBvu2NegCy8ffI",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1b-FBGEJHXzhCG_jbspFBvu2NegCy8ffI/view?usp=drivesdk",
+        "size": "1986080"
+      },
+      {
+        "id": "15s4goP4fApBFv0ja2Jw5-p85_uh9x39i",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/15s4goP4fApBFv0ja2Jw5-p85_uh9x39i/view?usp=drivesdk",
+        "size": "457992"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "01867c859f2d8ffb-1",
+    "id": "p2-will-eating-less-make-you-live-longer",
+    "title": "Will Eating Less Make You Live Longer?",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1naGQma3yOMO1dcdDgfmIzkmWZGFOj5ef",
+        "sha256": "3c6b22fea3dc143583fa914504af826396f443914208ae9041b6d1509fa0b14a",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1D9Lf2HiSIUDPuv3D8lukUemfrFMV8arT",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1D9Lf2HiSIUDPuv3D8lukUemfrFMV8arT/view?usp=drivesdk",
+        "size": "2067692"
+      },
+      {
+        "id": "1naGQma3yOMO1dcdDgfmIzkmWZGFOj5ef",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1naGQma3yOMO1dcdDgfmIzkmWZGFOj5ef/view?usp=drivesdk",
+        "size": "1138371"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "26f8930d15d2d78e-1",
+    "id": "p2-why-do-singers-lose-their-voices",
+    "title": "Why do singers lose their voices",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1P80wk8jUMFbIUK8jAMTNUzj1zhDD6HeD",
+        "sha256": "e5729a8e2dc21cbf3b6b0586bcd668022ec17680a045ee9016508dcc4ba9bfba",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1P80wk8jUMFbIUK8jAMTNUzj1zhDD6HeD",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1P80wk8jUMFbIUK8jAMTNUzj1zhDD6HeD/view?usp=drivesdk",
+        "size": "1954039"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "7db315a95c2a78f8-1",
+    "id": "p2-early-approaches-to-organisational-design",
+    "title": "Early approaches to organisational design",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9",
+        "sha256": "fe3024ee45b97cc95fe005aec668066690941961582b63f14ed36035b1d7506e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9/view?usp=drivesdk",
+        "size": "1135705"
+      },
+      {
+        "id": "1XwU_NJOP-0h7zO8OWORgHizFnJMkCUmt",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1XwU_NJOP-0h7zO8OWORgHizFnJMkCUmt/view?usp=drivesdk",
+        "size": "2454948"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "5fbed14bb80c5891-1",
+    "id": "p2-flood-control-in-the-usa",
+    "title": "Flood control in the USA",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5",
+        "sha256": "df783f6e1c802e8a70e4cd469673e4c83b2cefa2bdea988ef0ee356aade47ba4",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5/view?usp=drivesdk",
+        "size": "2179554"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "ede585cc589e9c08-1",
+    "id": "p2-nature-s-numbers",
+    "title": "Nature's numbers",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "19aUG1joSz_4JAJWnU33a6q8i8ixQMi-S",
+        "sha256": "f49d2790e1887a69da35db938f005bc0d977091bca649aa32d0363ec2ec966e3",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "19aUG1joSz_4JAJWnU33a6q8i8ixQMi-S",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/19aUG1joSz_4JAJWnU33a6q8i8ixQMi-S/view?usp=drivesdk",
+        "size": "1901989"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "8e63bc0f8325ab39-1",
+    "id": "p2-investment-in-shares-versus-investment-in-other-assets-which-gives-the-greater-gain",
+    "title": "Investment in shares versus investment in other assets - which gives the greater gain?",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1H1GdPdPzXojzf8qsmbpGiIydbzh3jcCU",
+        "sha256": "838bb03a5e256b07994d28ffceae1ccefb442928c49c5a8408c07ec1ef69bdbf",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1ZkOAiCoGPgQvTkwDzTthN-nHC2P-YGQp",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ZkOAiCoGPgQvTkwDzTthN-nHC2P-YGQp/view?usp=drivesdk",
+        "size": "2223655"
+      },
+      {
+        "id": "1H1GdPdPzXojzf8qsmbpGiIydbzh3jcCU",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1H1GdPdPzXojzf8qsmbpGiIydbzh3jcCU/view?usp=drivesdk",
+        "size": "516008"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "4e920c8add2c967c-1",
+    "id": "p2-biomimicry",
+    "title": "Biomimicry",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1UbnCjHUAHlz3X-pTcVaKHYhuGudgbt2R",
+        "sha256": "121eb177342140b5652aeba0225def62d15f5c55db252b413324297cee4b454b",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1uBHIUo4iaryopWSxoP1hSP2EE2FLlAC3",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1uBHIUo4iaryopWSxoP1hSP2EE2FLlAC3/view?usp=drivesdk",
+        "size": "1957735"
+      },
+      {
+        "id": "1UbnCjHUAHlz3X-pTcVaKHYhuGudgbt2R",
+        "title": "PAPER EU",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1UbnCjHUAHlz3X-pTcVaKHYhuGudgbt2R/view?usp=drivesdk",
+        "size": "790822"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "c7cea76ee38b2a2e-1",
+    "id": "p2-management-brains",
+    "title": "Management Brains",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1N0D297-3PBd16aOXCOHLPBkHF09wBLF-",
+        "sha256": "c4b3cf51ed902750d5e5c4077409d985d4fa53a8242f18c5fe39ec20fd6d0a76",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1N0D297-3PBd16aOXCOHLPBkHF09wBLF-",
+        "title": "PAPER EU 2024",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1N0D297-3PBd16aOXCOHLPBkHF09wBLF-/view?usp=drivesdk",
+        "size": "992856"
+      },
+      {
+        "id": "1foMPfSfVKYEU61uv2-6MtEYgPTdJhjEb",
+        "title": "PAPER INDIA",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1foMPfSfVKYEU61uv2-6MtEYgPTdJhjEb/view?usp=drivesdk",
+        "size": "463984"
+      },
+      {
+        "id": "1wgbG8xjFVB0ONNour9RL95seUAdXdRhA",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1wgbG8xjFVB0ONNour9RL95seUAdXdRhA/view?usp=drivesdk",
+        "size": "1778673"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "c7d024058b18a600-1",
+    "id": "p2-do-animals-really-remember",
+    "title": "Do animals really remember?",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1tiEIbc3hnHRtG5wFC33_kiLClESIhGMd",
+        "sha256": "529f15b1b8f81013d4f679ae3c6a2eeff30d1ec7d765f7de7f1eb0009fd439cd",
+        "pages": 5,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 5
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1tiEIbc3hnHRtG5wFC33_kiLClESIhGMd",
+        "title": "PAPER EU 2024",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1tiEIbc3hnHRtG5wFC33_kiLClESIhGMd/view?usp=drivesdk",
+        "size": "1192871"
+      },
+      {
+        "id": "18kolXqjYY5cycQDQjLmk3-Jnwh8NOPLN",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/18kolXqjYY5cycQDQjLmk3-Jnwh8NOPLN/view?usp=drivesdk",
+        "size": "2154489"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b9375b4d99f319ca-1",
+    "id": "p2-the-restoration-of-baja-california-s-fishing-communities",
+    "title": "The restoration of Baja California's fishing communities",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1GcnbGq5ZArC6PHfXazP4g_xh5xpSu3Mw",
+        "sha256": "fba3107cbe8cf89c769f34212ba4e5e0a5329a7e69ff2183a74f793dab51d8d7",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "17xFnDcWyq8rv7fj53gG80vXkylNE5rzU",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/17xFnDcWyq8rv7fj53gG80vXkylNE5rzU/view?usp=drivesdk",
+        "size": "823907"
+      },
+      {
+        "id": "1GcnbGq5ZArC6PHfXazP4g_xh5xpSu3Mw",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1GcnbGq5ZArC6PHfXazP4g_xh5xpSu3Mw/view?usp=drivesdk",
+        "size": "613430"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "c2ef44e646dab64d-1",
+    "id": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+    "title": "Can a global database of fossils help us predict the future of biodiversity on Earth?",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB",
+        "sha256": "fccc7b671c660c2961e42d2f9d6d3b7daa49414979468a19700ba14724e101ec",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB/view?usp=drivesdk",
+        "size": "1086862"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "5451c87bab9e919b-1",
+    "id": "p2-the-importance-of-diet-chua-rep",
+    "title": "The importance of diet(CHƯA REP)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD",
+        "sha256": "1bc7464989c06279705a798923576d7e63411d1b0b22602fb4d2112df3778193",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD/view?usp=drivesdk",
+        "size": "1224722"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "16f541b478fe80ab-1",
+    "id": "p2-the-elnino-effect-no-pdf",
+    "title": "The Elnino effect (no pdf)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1pEtKZ0ZmQoVcLPqhbRrifGLIgYjnoJJD",
+        "sha256": "1469a78d110e7d7b61276c4bc9e179496eb867098d8af3009ee5cfd196ebde2e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1pEtKZ0ZmQoVcLPqhbRrifGLIgYjnoJJD",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1pEtKZ0ZmQoVcLPqhbRrifGLIgYjnoJJD/view?usp=drivesdk",
+        "size": "371973"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "84213c5d98251c5e-1",
+    "id": "p2-the-economic-effect-of-climate-no-pdf",
+    "title": "The economic effect of climate (no pdf)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1IfWkGcQG3cpbLGq02TU-SUrisXfHWHzg",
+        "sha256": "f5287ec7dae83b6c346ce4a862c71963fb40f4afaabd4646325bda91ed68c1f6",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1IfWkGcQG3cpbLGq02TU-SUrisXfHWHzg",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1IfWkGcQG3cpbLGq02TU-SUrisXfHWHzg/view?usp=drivesdk",
+        "size": "357180"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "b43d8ab1e608cd81-1",
+    "id": "p2-the-2003-heat-wave-chua-go-no-pdf",
+    "title": "The 2003 Heat Wave (chưa gõ/no pdf)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1SLrJiEPN_wVH1M_pI4qiukI634JBZNmD",
+        "sha256": "dd58a21aa931520cf91fd922ae3da5bc6e2e6054d5e38f6c60a5fa51e39cfa2f",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1SLrJiEPN_wVH1M_pI4qiukI634JBZNmD",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1SLrJiEPN_wVH1M_pI4qiukI634JBZNmD/view?usp=drivesdk",
+        "size": "515767"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "05ec9b29e28887cd-1",
+    "id": "p2-children-s-comprehension-of-television-advertising-toan-bo-et-al-chua-italic",
+    "title": "Children's comprehension of television advertising (toàn bộ et al chưa italic)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL",
+        "sha256": "7392e57823ff5da16ca4d606af450e18cc48ddb9071b4b31645f27c51225a1be",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1rP1R7BfJVCS5a9vDLTlR848yfJpSwxpU",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1rP1R7BfJVCS5a9vDLTlR848yfJpSwxpU/view?usp=drivesdk",
+        "size": "3964696"
+      },
+      {
+        "id": "1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL",
+        "title": "PAPER ASIA 2019",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL/view?usp=drivesdk",
+        "size": "3117494"
+      },
+      {
+        "id": "1Ni_X5zQq5qvuZPde75_RYGim_iiOyAcS",
+        "title": "PAPER ASIA 2022",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Ni_X5zQq5qvuZPde75_RYGim_iiOyAcS/view?usp=drivesdk",
+        "size": "716170"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "58dd8d869addb9f1-1",
+    "id": "p2-the-legacy-of-stanislavsky",
+    "title": "The Legacy of Stanislavsky",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg",
+        "sha256": "fe9f6079f4255d9f6fcdf66e3e4c4f6cb242825c9504a3d7dcc1939040bc5e1c",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg/view?usp=drivesdk",
+        "size": "1932870"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "dd0cb4f97ebb8163-1",
+    "id": "p2-urban-regeneration-an-award-winning-redevelopment-project-in-berlin-chua-rep",
+    "title": "Urban Regeneration: an award-winning redevelopment project in Berlin(CHƯA REP)",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF",
+        "sha256": "d55cb8eeb87f3a616c3e426fae0479de279536044136e3dd623bb9ced3977614",
+        "pages": 2,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 2
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1NzkEM0Hlmd0h4ekLl3YsCHwbQfmfKDTz",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1NzkEM0Hlmd0h4ekLl3YsCHwbQfmfKDTz/view?usp=drivesdk",
+        "size": "1750045"
+      },
+      {
+        "id": "1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF/view?usp=drivesdk",
+        "size": "2299266"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "c7f38023d9a62693-1",
+    "id": "p2-follow-your-nose",
+    "title": "Follow your nose",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC",
+        "sha256": "2358b0e420344332a836fe11c810a29862b84ae297d10906883bb98cec270191",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC/view?usp=drivesdk",
+        "size": "2150415"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "6429107e741af056-1",
+    "id": "p2-dark-chocolate-s-health-giving-benefits",
+    "title": "Dark Chocolate's Health-giving Benefits",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1dwkmSWVnYZccCo0dxFaNS2FJNz4b26Pm",
+        "sha256": "fcc5e8e879e92db087ab0dbc6e109fe1fd5f263e5a0065b35eee3c18367e5e8a",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1dwkmSWVnYZccCo0dxFaNS2FJNz4b26Pm",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1dwkmSWVnYZccCo0dxFaNS2FJNz4b26Pm/view?usp=drivesdk",
+        "size": "1908409"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "7959206f8121abb1-1",
+    "id": "p2-australian-parrots",
+    "title": "Australian parrots",
+    "part": 2,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d",
+        "sha256": "e283bd8ae43e84525a87841177d8d438d3cda6e0d157df448fcece65a7c9779e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1LDa6UIEsCp8aX-vfkqmWi-FFestF16r8",
+        "title": "PAPER ASIA 2019",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1LDa6UIEsCp8aX-vfkqmWi-FFestF16r8/view?usp=drivesdk",
+        "size": "1389177"
+      },
+      {
+        "id": "1QiGe5kvFlj5J876DvneH1wLwxMvTghax",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1QiGe5kvFlj5J876DvneH1wLwxMvTghax/view?usp=drivesdk",
+        "size": "1446539"
+      },
+      {
+        "id": "1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d/view?usp=drivesdk",
+        "size": "1471438"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "075de9cf67f21bf8-1",
+    "id": "p3-music-soothes-and-awes-and-may-help-us-heal",
+    "title": "Music soothes and awes - and may help us heal",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1gaad97vg2GtxoAMMETnSY4X_C8rvl_ZN",
+        "sha256": "450b9d1b804868be3fe3fc4a05aa86667de62ee2da30280e77e419fac1fb57ac",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "17xYOeLl9pnZu5Y3reKliK9iWmMfriCVt",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/17xYOeLl9pnZu5Y3reKliK9iWmMfriCVt/view?usp=drivesdk",
+        "size": "3368307"
+      },
+      {
+        "id": "1gaad97vg2GtxoAMMETnSY4X_C8rvl_ZN",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1gaad97vg2GtxoAMMETnSY4X_C8rvl_ZN/view?usp=drivesdk",
+        "size": "550487"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "cf95c41b2ea36e5c-1",
+    "id": "p3-conformity-chua-rep",
+    "title": "Conformity(CHƯA REP)",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1bJUW9ygEAkaKRhYx-rqocIBXCw48dffb",
+        "sha256": "5b750e907290280e6fc455dc9f4114bc84289ee1cf5d90a403941e7d17fa35e4",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1bJUW9ygEAkaKRhYx-rqocIBXCw48dffb",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1bJUW9ygEAkaKRhYx-rqocIBXCw48dffb/view?usp=drivesdk",
+        "size": "311654"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "68353bac4f9ded39-1",
+    "id": "p3-inside-the-mind-of-a-fan",
+    "title": "Inside the mind of a fan",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1nCEfopT3M4EVyHVTRfegUgIjUex_FBN8",
+        "sha256": "91be09c65765ac4b33f29f3365d74a30fe0776c506dedded8991cf317ad0a6dd",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1A2OfDq9CF5NdkpgS1qUUOG8R6Q9-H2tq",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1A2OfDq9CF5NdkpgS1qUUOG8R6Q9-H2tq/view?usp=drivesdk",
+        "size": "1942969"
+      },
+      {
+        "id": "1nCEfopT3M4EVyHVTRfegUgIjUex_FBN8",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1nCEfopT3M4EVyHVTRfegUgIjUex_FBN8/view?usp=drivesdk",
+        "size": "687992"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "45cf4f5023b4eb0a-1",
+    "id": "p3-how-have-humans-changed",
+    "title": "How have humans changed?",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1xsUnLh3QWVuQesTr8vujP9rooK0x1YR6",
+        "sha256": "0b49214e2ff921897d951cb841ef6bfea899203659472a518940e66a7dca4027",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1q8b86O1c4xMNoAeWz3EVw57nLdQhjaQ0",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1q8b86O1c4xMNoAeWz3EVw57nLdQhjaQ0/view?usp=drivesdk",
+        "size": "2338616"
+      },
+      {
+        "id": "1xsUnLh3QWVuQesTr8vujP9rooK0x1YR6",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1xsUnLh3QWVuQesTr8vujP9rooK0x1YR6/view?usp=drivesdk",
+        "size": "743587"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "e955fd9a460d8580-1",
+    "id": "p3-when-people-are-deaf-to-music",
+    "title": "When people are 'deaf' to music",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1JKVJB1_Pc1BuH6t87ViaBwQqrcg0SEZQ",
+        "sha256": "c0aa1c20ca27d0a2fb5363ea1230ff4bfdf5989f91e1ef1ea36595027219d09b",
+        "pages": 2,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 2
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1JKVJB1_Pc1BuH6t87ViaBwQqrcg0SEZQ",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1JKVJB1_Pc1BuH6t87ViaBwQqrcg0SEZQ/view?usp=drivesdk",
+        "size": "1253140"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "a53cd33fa6bce7d0-1",
+    "id": "p3-a-new-stage-in-the-study-and-teaching-of-history",
+    "title": "A new stage in the study and teaching of history",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "12j3nlCAorZf0YAbvvZFNmpVqMrfBcIZC",
+        "sha256": "a31caba333f71472c641b20cc6c59ea948532154fc1ed5d02047a0cae278f1c9",
+        "pages": 3,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 3
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1T8dj8h9bcIrL27FbPDPtni5C3EzFz1IW",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1T8dj8h9bcIrL27FbPDPtni5C3EzFz1IW/view?usp=drivesdk",
+        "size": "1665236"
+      },
+      {
+        "id": "12j3nlCAorZf0YAbvvZFNmpVqMrfBcIZC",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/12j3nlCAorZf0YAbvvZFNmpVqMrfBcIZC/view?usp=drivesdk",
+        "size": "1709425"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "3e3fb4cfa84c27ad-1",
+    "id": "p3-honeybees-in-trouble-can-native-pollinators-fill-the-gap-chua-go",
+    "title": "Honeybees in trouble - can native pollinators fill the gap?(CHƯA GÕ)",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "queued",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1qapaBxAcU9SffHF1juNe858ccns4cOAC",
+        "sha256": "8fa4c722a1d86b66a9be15668b32d6f4769f632ae9a5be07f506eccb1fd8f99e",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1qapaBxAcU9SffHF1juNe858ccns4cOAC",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1qapaBxAcU9SffHF1juNe858ccns4cOAC/view?usp=drivesdk",
+        "size": "433889"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "20d2b5ab2ae65fda-1",
+    "id": "p3-managing-the-language-barrier-in-international-business",
+    "title": "Managing the language barrier in international business",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1C4w_HC89AVGoapQ_QWHXZD9RoL4MGGbW",
+        "sha256": "e8c560e663b8c8eb918bad95ddcc90d2e3e1bbc6528ee79b8bda4ed1af6dc531",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1C4w_HC89AVGoapQ_QWHXZD9RoL4MGGbW",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1C4w_HC89AVGoapQ_QWHXZD9RoL4MGGbW/view?usp=drivesdk",
+        "size": "2117373"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "07be70e8d6b31d98-1",
+    "id": "p3-no-title-about-sea",
+    "title": "No title - about sea",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1nXXhz2fRDMwvn2oHTwf-ManGSmf7DKmK",
+        "sha256": "53a2dce490b3d2a7348f9d624bd2168d5e8e4901e39224319a46198d3b8e1827",
+        "pages": 5,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 5
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1nXXhz2fRDMwvn2oHTwf-ManGSmf7DKmK",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1nXXhz2fRDMwvn2oHTwf-ManGSmf7DKmK/view?usp=drivesdk",
+        "size": "1867559"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "e61478321ba81cbe-1",
+    "id": "p3-the-tuatara-past-and-future",
+    "title": "The tuatara - past and future",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1VdbGHTHs0LCcE-l5XQtxVvX7V3sv2-NQ",
+        "sha256": "0760cd304c0200f2b7b52b745c3e8332f8f8c6812dae369034c85d6b727f4f25",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1uSpapvNqVYxxM1cibQX8m9hqy8ZmDn5n",
+        "title": "PAPER EU 2024",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1uSpapvNqVYxxM1cibQX8m9hqy8ZmDn5n/view?usp=drivesdk",
+        "size": "2102822"
+      },
+      {
+        "id": "1VdbGHTHs0LCcE-l5XQtxVvX7V3sv2-NQ",
+        "title": "PAPER ASIA 2023",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1VdbGHTHs0LCcE-l5XQtxVvX7V3sv2-NQ/view?usp=drivesdk",
+        "size": "2273630"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "48fa027df711580c-1",
+    "id": "p3-what-makes-organisations-successful",
+    "title": "What makes organisations successful?",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1FALDyyxUnvsTw_8DGbMBSz7cf4h7IfXx",
+        "sha256": "0268bacf0adf2aea0b5ed0d20b749963cd746ef74a3026a9f54882e1972117aa",
+        "pages": 5,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 5
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1FALDyyxUnvsTw_8DGbMBSz7cf4h7IfXx",
+        "title": "PAPER EU 2024",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1FALDyyxUnvsTw_8DGbMBSz7cf4h7IfXx/view?usp=drivesdk",
+        "size": "1229625"
+      },
+      {
+        "id": "1C6KOjRP45COrjC30vbrW0KwB8Ly9AuG5",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1C6KOjRP45COrjC30vbrW0KwB8Ly9AuG5/view?usp=drivesdk",
+        "size": "2171222"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "829b8931c04adcd4-1",
+    "id": "p3-how-did-music-begin-chua-rep",
+    "title": "How did music begin(CHƯA REP)",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1g8qIl8Q8kUm9lLY_1-Cv85e8msLdBmya",
+        "sha256": "dec5df5527ecf44ae1ce63239c7e33b0bb1d13904cadb00fe725665e1181925e",
+        "pages": 2,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 2
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1g8qIl8Q8kUm9lLY_1-Cv85e8msLdBmya",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1g8qIl8Q8kUm9lLY_1-Cv85e8msLdBmya/view?usp=drivesdk",
+        "size": "1130262"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "d9d1f026ff707cc7-1",
+    "id": "p3-business-innovation",
+    "title": "BUSINESS INNOVATION",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1AqELDoqjGzyFpeCdbREpCORFOBMPLTs9",
+        "sha256": "ed752954595149e968a8b3f0c9545104dd8bcc89e8eaef4d46958cb3ee12d958",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1uLPTHzuqyaCss6dRZIjWjZwDwhBUAk4j",
+        "title": "PAPER 2019",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1uLPTHzuqyaCss6dRZIjWjZwDwhBUAk4j/view?usp=drivesdk",
+        "size": "765359"
+      },
+      {
+        "id": "1w8zll-ptMi9MSxOJmhOww25aGnLjGjFe",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1w8zll-ptMi9MSxOJmhOww25aGnLjGjFe/view?usp=drivesdk",
+        "size": "2140921"
+      },
+      {
+        "id": "1AqELDoqjGzyFpeCdbREpCORFOBMPLTs9",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1AqELDoqjGzyFpeCdbREpCORFOBMPLTs9/view?usp=drivesdk",
+        "size": "855400"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "1b835a34d3db19e0-1",
+    "id": "p3-saving-the-skink",
+    "title": "Saving the Skink",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "11eQPK_jePQetvsMUVyvQ-95MwdKfCdry",
+        "sha256": "b1353be117bf26279a0fed4b1992ff097e4fd8c16d0b0e8f45e7ef4610348e99",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1eSGP-CzyWTkkSITMWT9Rgx0Jsubhecna",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1eSGP-CzyWTkkSITMWT9Rgx0Jsubhecna/view?usp=drivesdk",
+        "size": "2212258"
+      },
+      {
+        "id": "11eQPK_jePQetvsMUVyvQ-95MwdKfCdry",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/11eQPK_jePQetvsMUVyvQ-95MwdKfCdry/view?usp=drivesdk",
+        "size": "933894"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "ff5d4aa7c04d8ccc-1",
+    "id": "p3-book-review-the-discovery-of-slowness",
+    "title": "Book Review: The discovery of Slowness",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1Le7JE7-ldF3q051EVdsR-AH_4qRNoJ4w",
+        "sha256": "849927efb9825d3301d5e36cbcefd3ba62deb7b8ab7a98d03a954448a05c8470",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1vUxWxCzHrw3-s1LeW8ljEbeXHne-d52M",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1vUxWxCzHrw3-s1LeW8ljEbeXHne-d52M/view?usp=drivesdk",
+        "size": "4354869"
+      },
+      {
+        "id": "1Le7JE7-ldF3q051EVdsR-AH_4qRNoJ4w",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Le7JE7-ldF3q051EVdsR-AH_4qRNoJ4w/view?usp=drivesdk",
+        "size": "1424546"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "136587ec0afce21f-1",
+    "id": "p3-what-is-history",
+    "title": "What is history?",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+        "sha256": "82e872a961ca769a165bf7e44b7596242a156dfd4031bb2d74f3ca6e19d62f55",
+        "pages": 5,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 5
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN/view?usp=drivesdk",
+        "size": "5774363"
+      },
+      {
+        "id": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88/view?usp=drivesdk",
+        "size": "5298550"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "c366a85d1e0b9344-1",
+    "id": "p3-rating-female-leaders",
+    "title": "Rating Female Leaders",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX",
+        "sha256": "f4c7b1a8d2e068afd6d08beb700d6aff06eb08cced24282d34d0c1780645ead5",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1tTv5UypJ0EP-dmBbYaDvnT5mET4eESOA",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1tTv5UypJ0EP-dmBbYaDvnT5mET4eESOA/view?usp=drivesdk",
+        "size": "4345861"
+      },
+      {
+        "id": "1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX/view?usp=drivesdk",
+        "size": "1079229"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "dedf90a565ebf1b4-1",
+    "id": "p3-risk-taking",
+    "title": "Risk taking",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+        "sha256": "11fac28c6591a34247429a9dfe5368da21ee9de68280b213eb9f1322dd555ccd",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-",
+        "title": "PAPER + PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1lWy2wiCC6UG8DvWqwdbGpwKjocUWHhc-/view?usp=drivesdk",
+        "size": "986025"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "e9503f66f5e1ab35-1",
+    "id": "p3-the-peopling-of-patagonia",
+    "title": "The peopling of Patagonia",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1HIYg-V2yHwnEWfXD7o9stxwEPOR_mbVY",
+        "sha256": "d4ec59de37ecf15aa7aeb873d63d46a1fb8dbdd7fc71419c282a31a82ef3ff40",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1f56Zz9Puy7jngNkeEUiVHizEZGQdXDHj",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1f56Zz9Puy7jngNkeEUiVHizEZGQdXDHj/view?usp=drivesdk",
+        "size": "2432425"
+      },
+      {
+        "id": "1OLzsOSjk3TD5eelfUGH9kGn4gGocltnN",
+        "title": "PAPER EU",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1OLzsOSjk3TD5eelfUGH9kGn4gGocltnN/view?usp=drivesdk",
+        "size": "840633"
+      },
+      {
+        "id": "1HIYg-V2yHwnEWfXD7o9stxwEPOR_mbVY",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1HIYg-V2yHwnEWfXD7o9stxwEPOR_mbVY/view?usp=drivesdk",
+        "size": "26165929"
+      }
+    ],
+    "approved": false
+  },
+  {
+    "key": "bb2665d1b4d7de01-1",
+    "id": "p3-the-flouridation-controversy",
+    "title": "The flouridation controversy",
+    "part": 3,
+    "category": "transcript-review-candidates",
+    "status": "text-prepared",
+    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "flags": [],
+    "publishedMatches": [],
+    "preparedEvidence": [
+      {
+        "sourceId": "1h5wynQ8QHlMSIN68n3x1IStNaTQbm0Qh",
+        "sha256": "6fc1af3fce7e1e57cad0a8baa8f9d824bdbf62664c5a0ccaa3d5833c2e342cd5",
+        "pages": 4,
+        "shortTextPages": [],
+        "methods": {
+          "ocr": 4
+        }
+      }
+    ],
+    "sources": [
+      {
+        "id": "1hMJPuCxJLg07OtZfDflsjmzI5LRSfT2H",
+        "title": "PDF",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1hMJPuCxJLg07OtZfDflsjmzI5LRSfT2H/view?usp=drivesdk",
+        "size": "2202899"
+      },
+      {
+        "id": "1h5wynQ8QHlMSIN68n3x1IStNaTQbm0Qh",
+        "title": "PAPER",
+        "type": "application/pdf",
+        "url": "https://drive.google.com/file/d/1h5wynQ8QHlMSIN68n3x1IStNaTQbm0Qh/view?usp=drivesdk",
+        "size": "505883"
+      }
+    ],
+    "approved": false
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-pixar-story",
+  "title": "The Pixar Story",
+  "part": 1,
+  "fingerprint": "8d49256cc9630975a055d3438980ad0c5bb1efc83a7b95d971e8d8d6623f2b4f",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1HOZ5iqeF1FN0xedEH1hvpqZkIPR56L2M",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-pixar-story.json",
+  "lessonId": "p1-the-pixar-story",
+  "sourceId": "1HOZ5iqeF1FN0xedEH1hvpqZkIPR56L2M",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "35a7402ea3aee8bff3e4784f0b7a79c1fc9177495d3f4b6583f904f062c08e75",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.098
+}

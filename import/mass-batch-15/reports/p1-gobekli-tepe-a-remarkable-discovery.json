@@ -1,0 +1,22 @@
+{
+  "job": "p1-gobekli-tepe-a-remarkable-discovery",
+  "title": "Gobekli Tepe: a remarkable discovery",
+  "part": 1,
+  "fingerprint": "c8fc121637071d32d53b1fee203a3bcb61953f9dbe3eefcf89a8eb91e9a21af2",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "15CQnHzgCREeMC66GRBEpJeFsbW6IvlD4",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1riN5aZoU5pYgkxzlDeKc0btVIX0i1GEy",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

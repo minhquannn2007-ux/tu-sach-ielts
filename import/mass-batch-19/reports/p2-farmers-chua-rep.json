@@ -1,0 +1,22 @@
+{
+  "job": "p2-farmers-chua-rep",
+  "title": "Farmers(CHƯA REP)",
+  "part": 2,
+  "fingerprint": "8bffa1400a0daf3467899ed41a4b492102cf6c3a7becc85980782234e761cbae",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1KLZo1dyCiENh7uTGKmxALmJkh62Wqaf_",
+      "code": "question-numbering",
+      "message": "Missing, duplicate or unordered numbered prompts"
+    },
+    {
+      "sourceId": "1v-GAXdYC2-T5LGcEZ91Lqbw-xyCAZZ_M",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.051
+}

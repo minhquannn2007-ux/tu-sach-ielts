@@ -1,0 +1,32 @@
+{
+  "job": "p1-mystery-drawing",
+  "title": "Mystery Drawing",
+  "part": 1,
+  "fingerprint": "c198482bc33f3fa63665cb025bd77a861a9471e9af50b72961802c6a970bc20c",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-mystery-drawing.json",
+  "lessonId": "p1-mystery-drawing",
+  "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "9c378b450d7b7ff744b23dd403421c1fa1e6376e71e0445d269777d8d389cf5e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.225
+}

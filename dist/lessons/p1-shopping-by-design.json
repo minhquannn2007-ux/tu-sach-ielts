@@ -1,0 +1,232 @@
+{
+  "id": "p1-shopping-by-design",
+  "part": 1,
+  "title": "Shopping by design",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "A century or so ago, long before there were computers, shopping was done quite differently than it is today. In a corner grocery store, the customer would approach the counter and place an order, either verbally or in the form of a note or list. While the customer waited, the clerk (shop assistant) would move behind the counter and throughout the store, select the items on the list- some from shelves so high that long-handled grasping devices had to be used and bring them back to the counter to be tallied and packed in bags or boxes. This process, which was time consuming, could be speeded up by the customer calling or sending the order beforehand, or by the order being brought by a delivery boy on a bike, but otherwise it did not vary greatly."
+    },
+    {
+      "label": "B",
+      "text": "The self-service supermarket may have provided an alternative shopping experience by the mid-20th century, but that was not the case just decades earlier. Like all things and systems that do not exist in nature, it had first to be invented and designed, then developed, and finally promoted. Inventions that are successfully adopted into our everyday lives earn the name ‘innovations’. The innovation of the self-service store was inspired and driven. by the limitations and frustrations of shopping the old way. Just about everyone could articulate the shortcomings, or at least instantly recognise them as soon as they were pointed out, but it took an inventor to do something about them."
+    },
+    {
+      "label": "C",
+      "text": "Clarence Saunders, who left school at age 14 to work as a clerk in a general store, was to be such an inventor. He eventually became a wholesale grocery salesman in Memphis, Tennessee, and decried the lack of efficiency and economy that he observed in retail grocery stores, much of it having to do with high overheads and large credit losses. Among the principal inefficiencies was the employment of clerks to retrieve items for the customer, so Saunders. devised a system in which the customer would do that directly. Saunders’s concept was to divide the store’s floor plan into three distinct areas: (1) a front ‘lobby’ that today we might call the checkout area, where only a relatively few clerks were needed to operate the cash registers and pack orders; (2) a ‘sales department’, which was entered through one gate and exited through another, and through which customers had to move on a prescribed path and were thus required to review the entire stock which was displayed on shelves and in appropriate cabinets, including a glass-doored refrigerator for perishables; and (3) a rear ‘stock room’, to which only the staff had access. Above the shelving and cabinets of the sales department was a gallery, from which an employee could direct and instruct customers in the new method of shopping, monitor the shelves and cabinets for need of replenishment, and generally supervise the activity below – all without interfering with those negotiating the maze and selecting and purchasing goods."
+    },
+    {
+      "label": "D",
+      "text": "In 1916, Saunders opened his first store operating under the new principle and filed a patent application shortly thereafter to register his ownership of the idea. With the experience gained in just a short time of operation of the store he discovered that the self-service store system could operate with lower prices, which in turn would provide a higher overall profit. Although Saunders’s justification for his invention was largely its economic advantage to the store owner, the self- service concept also offered advantages to the customer, even though they had to move about the sales department in a highly orchestrated way. By being exposed to all the store’s offerings, the customer might be reminded of an item inadvertently left off the shopping list for the evening’s dinner, thus saving a return trip."
+    },
+    {
+      "label": "E",
+      "text": "Saunders expanded his concept into a chain of stores he called ‘Piggly Wiggly’, a name he copyrighted and trademarked, and about whose origins there are many theories. Saunders sold franchises (i.e. other stores were authorised to use the same name and concept), and the Piggly Wiggly chain grew to 1,200 stores by 1922. After a year’s operation of his first store, Saunders incorporated improvements that addressed some difficulties that had been encountered in operating the earliest self-service stores. Among these was the confusion in the lobby area where incoming shoppers had to fight through the congestion of customers at the checking and settlement counter. This he solved by designing a dedicated ‘checking and paying station’, with a second aisle and cash register that could be opened up when customers backed up at the first one. He introduced such practices as price tagging items on shelves as well as convenient pre-packaged quantities of popular food items like flour, but really demonstrated his sense of sales and marketing by featuring a ‘bargain rack’ for damaged items that used to be discarded."
+    },
+    {
+      "label": "F",
+      "text": "Saunders’s final effort was an automatic store that he christened ‘Food-electric’. He filed a patent for this system that included a device that would print the name and price of an item and at the same time punch holes or print dots on a strip of paper that could be fed into dispensing machines, thereby assembling the order automatically."
+    },
+    {
+      "label": "G",
+      "text": "When Saunders died in 1953, his legacy included the concept of franchised grocers, the use of refrigerated cases for produce, individual item price tagging, printed receipt tapes and checkout lanes. However, it is his Piggly Wiggly stores for which he is remembered, even if this is more for the oddity of the title than the concept."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 5 Reading Passage 1 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-5 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "a description of how new ideas become reality"
+        },
+        {
+          "n": 2,
+          "prompt": "a problem arising from the original design of Saunders's checkout"
+        },
+        {
+          "n": 3,
+          "prompt": "a description of the layout of Saunders's new style of grocery store"
+        },
+        {
+          "n": 4,
+          "prompt": "an account of how people used to shop before supermarkets"
+        },
+        {
+          "n": 5,
+          "prompt": "an example of how Saunders profitably sold items that would otherwise be thrown away"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 6 – 10 Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 6-10 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 6,
+          "slots": 1
+        },
+        {
+          "n": 7,
+          "slots": 1
+        },
+        {
+          "n": 8,
+          "slots": 1
+        },
+        {
+          "n": 9,
+          "slots": 1
+        },
+        {
+          "n": 10,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "Clarence Saunders's first job was in a {{6}} .",
+        "In Saunders's design for a store, much of the clerks' work was done by the {{7}} .",
+        "Saunders called the area where people paid for goods a {{8}} .",
+        "Behind the public area in Saunders's store, there was a {{9}} room.",
+        "In Saunders's store, supervisors observed the action from a {{10}} so that they did not get in customers' way."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 11 – 13 Choose the correct letter, A, B, C or D. Write the correct letter in boxes 11-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 11,
+          "prompt": "Saunders's motive for inventing the self-service store system was to",
+          "options": [
+            {
+              "value": "A",
+              "text": "transfer principles from other businesses to retailing."
+            },
+            {
+              "value": "B",
+              "text": "make grocery retailing more profitable."
+            },
+            {
+              "value": "C",
+              "text": "satisfy customers by making shopping easier."
+            },
+            {
+              "value": "D",
+              "text": "introduce a more uniform way of shopping."
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "prompt": "The first Piggly Wiggly store was",
+          "options": [
+            {
+              "value": "A",
+              "text": "located in Memphis, Tennessee."
+            },
+            {
+              "value": "B",
+              "text": "updated after 12 months."
+            },
+            {
+              "value": "C",
+              "text": "initially very unpopular with customers."
+            },
+            {
+              "value": "D",
+              "text": "sold by Saunders in 1922."
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "prompt": "According to the writer, the main thing directly associated with Saunders today is",
+          "options": [
+            {
+              "value": "A",
+              "text": "the Piggly Wiggly name."
+            },
+            {
+              "value": "B",
+              "text": "the 'Food-electric' stores."
+            },
+            {
+              "value": "C",
+              "text": "checkout lanes in supermarkets."
+            },
+            {
+              "value": "D",
+              "text": "the concept of franchising."
+            }
+          ]
+        }
+      ],
+      "type": "mc-one"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1-Bq0ICroUnt1sn7wIQ2-J7OoeRc1RVQ0",
+      "role": "passage-and-questions",
+      "sha256": "7073fdda941e636e22cffe17826fff74f887896dfa8b905b9e9f076722b841fc",
+      "name": "Shopping by design.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.0",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-shopping-by-design"
+  },
+  "cover": {
+    "asset": "assets/batch-canned-cover.jpg",
+    "alt": "Thực phẩm đóng hộp",
+    "credit": "CHUTTERSNAP",
+    "source": "https://unsplash.com/photos/KCSR5QzSUH8",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-2026-10-12",
+    "checks": [
+      "native-text comparison",
+      "source typography and question-layout review",
+      "shared schema",
+      "functional controls"
+    ]
+  },
+  "subtitle": "How one man’s vision had a lasting effect on retailing"
+}

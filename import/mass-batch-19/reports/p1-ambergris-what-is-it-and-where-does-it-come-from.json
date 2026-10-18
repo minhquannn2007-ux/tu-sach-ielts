@@ -1,0 +1,22 @@
+{
+  "job": "p1-ambergris-what-is-it-and-where-does-it-come-from",
+  "title": "Ambergris – what is it and where does it come from?",
+  "part": 1,
+  "fingerprint": "44b7fdbaea5a8567da072c0e8f4cf0c526d7a4d3892026fcbadbba54e9020754",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1FInV5CyDofra30JIYvf8YOM5sfojp0hx",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    },
+    {
+      "sourceId": "1rFVLjO_CiuaIPDHCX62Z7Lh2XjCmYYfJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.052
+}

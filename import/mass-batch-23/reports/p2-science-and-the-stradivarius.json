@@ -1,0 +1,17 @@
+{
+  "job": "p2-science-and-the-stradivarius",
+  "title": "Science and the Stradivarius",
+  "part": 2,
+  "fingerprint": "2008724a972d8cd4bb3bcef69807bd5b190affd621e3b37e0fc60ab5d9f179fa",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1oSbAY9NbYjPvEvqcdHnV54PsWqkksLQ5",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

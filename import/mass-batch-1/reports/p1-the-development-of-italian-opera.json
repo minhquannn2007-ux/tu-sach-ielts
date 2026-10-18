@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-development-of-italian-opera",
+  "title": "The Development of Italian Opera",
+  "part": 1,
+  "fingerprint": "5a1b1f0dbc683ad525b0cb0c79f8a080b69647d8aee5384d1e3d587497157d01",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1qusTh7_OWF1ecKyUvp6qEsDwF8m2R8dk",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-development-of-italian-opera.json",
+  "lessonId": "p1-the-development-of-italian-opera",
+  "sourceId": "1qusTh7_OWF1ecKyUvp6qEsDwF8m2R8dk",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "4c9849f1a76cc44ff10de6390ef367c24b51ec5a8dbe6207b14f5a3483d8651f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

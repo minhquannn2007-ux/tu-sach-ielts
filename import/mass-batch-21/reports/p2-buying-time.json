@@ -1,0 +1,17 @@
+{
+  "job": "p2-buying-time",
+  "title": "Buying Time",
+  "part": 2,
+  "fingerprint": "9cc0123c2eb4103511f45e597948c0a5a337ecdf8f941b4bc6f3364bc9adeb4a",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "14EzkzEoux_aPJ9VIReVmICVwFqMR5HBN",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.124
+}

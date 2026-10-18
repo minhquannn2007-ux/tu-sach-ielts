@@ -1,0 +1,33 @@
+{
+  "job": "p3-animals-predicting-earthquakes-chua-rep",
+  "title": "Animals predicting earthquakes?(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "3c904b210690a63414ebf249af87af2db3aa3b5c40d0d7fe1e90f9059c9b8a53",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-animals-predicting-earthquakes-chua-rep.json",
+  "lessonId": "p3-animals-predicting-earthquakes",
+  "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "matching-endings"
+  ],
+  "sourceHash": "f377d7a8fbbc21691b947691eae7406f87504589fbf9a1239bdb0a13366f4c9b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.081
+}

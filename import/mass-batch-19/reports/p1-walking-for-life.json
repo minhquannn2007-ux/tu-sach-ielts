@@ -1,0 +1,17 @@
+{
+  "job": "p1-walking-for-life",
+  "title": "Walking for Life",
+  "part": 1,
+  "fingerprint": "fb96ed7af0feb13c87e3e75aaa4c49e88e4ece943550b73e6da8d38af7b88362",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1DRqz801oUhmTnLXlD0fiFLafo16DefDn",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.079
+}

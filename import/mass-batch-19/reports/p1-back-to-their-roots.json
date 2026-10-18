@@ -1,0 +1,33 @@
+{
+  "job": "p1-back-to-their-roots",
+  "title": "Back to their roots",
+  "part": 1,
+  "fingerprint": "3bdb4de725e2448301cc5b0f2fbb5d22a7e2d2672311b420b6102ef4c8cfce8f",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1IczNABJJQy4KIaHzpGtOJerR2kIvDVTl",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-back-to-their-roots.json",
+  "lessonId": "p1-back-to-their-roots",
+  "sourceId": "1IczNABJJQy4KIaHzpGtOJerR2kIvDVTl",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes",
+    "mc-one"
+  ],
+  "sourceHash": "9140851a8627cbe6a206f7e40785a2418d9aa3436804c8ecffd9cb327a21e1a5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.09
+}

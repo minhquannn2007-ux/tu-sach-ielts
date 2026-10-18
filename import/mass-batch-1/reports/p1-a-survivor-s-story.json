@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-survivor-s-story",
+  "title": "A survivor's story",
+  "part": 1,
+  "fingerprint": "e501a509c68d55300d108accb1a94de87aecf07a4f6bd94aebd2c10b5cea56fb",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1wvNNuZORIJlAyF8h6GCfsIIIN0L5J0rh",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-survivor-s-story.json",
+  "lessonId": "p1-a-survivor-s-story",
+  "sourceId": "1wvNNuZORIJlAyF8h6GCfsIIIN0L5J0rh",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "ceeabf3c80bc15e41d6d2ef9ec704ca5e14d012293fcb2588048d136e07c7a1d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.048
+}

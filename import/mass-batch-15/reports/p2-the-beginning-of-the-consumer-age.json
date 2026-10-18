@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-beginning-of-the-consumer-age",
+  "title": "The beginning of the consumer age",
+  "part": 2,
+  "fingerprint": "91752cff8cfbde96da1f268db5a32d3860dc8ebe4a95f0a3158d8a1a78fb8887",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1b-FBGEJHXzhCG_jbspFBvu2NegCy8ffI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

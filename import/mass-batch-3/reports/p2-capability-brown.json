@@ -1,0 +1,17 @@
+{
+  "job": "p2-capability-brown",
+  "title": "Capability Brown",
+  "part": 2,
+  "fingerprint": "f73d90c81d5306f4813c3031c799d075362a85e02cbbd51d544869a29a1db2b0",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1TTzqBmQ7zWkfMPak_ujG_cotr7VTnjhN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.054
+}

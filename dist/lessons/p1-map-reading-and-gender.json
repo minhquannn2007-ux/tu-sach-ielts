@@ -1,0 +1,329 @@
+{
+  "id": "p1-map-reading-and-gender",
+  "part": 1,
+  "title": "Map-reading and Gender",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "During the 1970s, a trend emerged in which academics began publishing gender-related research, specifically within the subject of map-reading. Their approaches and findings varied, but most psychological studies felt that when it came to spatial skills, navigation and maps, men did seem to have the advantage. It was thought likely that this would explain why the number of men doing PhDs in geography at the time outnumbered women 4 to 1. It may also explain why, in 1973, the Cartographic Journal published a report by a man called Peter Stringer that stated he had recruited only women in his research into different background colours on maps. This was because he expected that women would have greater difficulty than men in reading them."
+    },
+    {
+      "text": "But what if there was a very simple explanation to all of this, beyond simple prejudice? In 1999, a project was carried out by academics at the University of California at the Santa Barbara campus. This included an extensive review of the existing literature on spatial abilities and map-reading, well over a hundred papers by then, and also a new series of experiments involving 79 residents of Santa Barbara (43 women and 36 men). The strongest conclusions in the literature – that men were better than women at judging the relative speeds of two moving images on a computer screen, and at judging the mental rotation of two- and three-dimensional figures – were thought to be not overly practical in real-world situations. So the new experiments involved a range of tasks. In one, the participants were presented with a map of a fictional theme park, which featured landmarks with names such as Python Pit and Elephant Sculpture. Having been given some moments to study it before it was taken away, participants then had to sketch the map with as many landmarks as possible. They performed a different task with another fictional map entitled Grand Forks, actually a rotated map of the city of Santa Barbara. And for another task, they were also led on a tour around a part of the university campus, before being given a map of the area and asked to write in the route just taken. The academic team conceded that women could read maps just as well as men, only they read them slightly differently. Men were better at some tasks (estimating distances and defining directional compass points), whereas women were better at others (noting landmarks, and some verbal description tests)."
+    },
+    {
+      "text": "And there was growing evidence that they knew it. Twenty-two years earlier, the Journal of Experimental Psychology published an experiment that found that 20 of 28 male participants but only 8 of 17 females regarded themselves as having a ‘good sense of direction’. But by 1999, out of ten categories (including ‘I don’t confuse left and right much’, and ‘I am good at giving directions’) there was no statistically significant difference, and high self-belief among both sexes at the Santa Barbara campus. Men appeared to be more self-assured when in the category of ‘I am good at judging distances’, but on the big issue of ‘I am very good at reading maps’, there was again no discernible difference."
+    },
+    {
+      "text": "What, then, is the perceived problem? In December 1997, in an early British edition of Conde Nast Traveller, a writer called Timothy Nation wrote an essay wondering why it is far easier to get around London by looking out for well-known landmarks when we wander the streets in search of our destination than it is to rigidly follow a compass. He then examined a famous experiment conducted at Columbia University in New York City in 1990, involving mazes and rats. This found that, when searching for food, male rats navigated differently to female counterparts. When the geometry of their testing area was altered—walls were created that weren’t there before – the performance of the male rats slowed down, while there was little effect on females. But the opposite was observed when furniture in the testing room – tables or chairs – was taken out. Now the females became confused."
+    },
+    {
+      "text": "Similar experiments have continued with men and women, with comparable results. One such experiment, conducted by social psychologist James Dabbs at Georgia State University, found that when it comes to recognising countries on a world map purely through their outline, men do seem to have the advantage. Dabbs also found that the strategy differences of the sexes extend to verbal communication: when men give directions they tend to calculate the approximate distance to the place in question, whereas women focus on buildings, and use ‘left’ and ‘right’. He also observed that descriptions became more abstract, and this was the case in both genders, as the age of his test subjects increased."
+    },
+    {
+      "text": "Few psychologists would now argue against these navigational differences. What is less certain is how these changes came about. One plausible theory is that men’s and women’s brains both developed through their navigational skills, but in different ways. Our male ancestors would have needed to provide food, so a broad overview of the region would have been vital to successful hunting. Meanwhile women were foraging for the roots and berries; these foraging skills were aided by memory, which in turn was aided and guided by landmarks. This may explain why some women find it difficult to read 2D flat plane maps."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 5 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-5 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "In the 1970s, most psychological research on spatial skills concluded that men had better skills than women."
+        },
+        {
+          "n": 2,
+          "prompt": "During the 1970s, women often found that their applications to study geography were turned down."
+        },
+        {
+          "n": 3,
+          "prompt": "The Cartographic Journal was a publication with a wide circulation."
+        },
+        {
+          "n": 4,
+          "prompt": "One of the aims of the University of California team was to reassess the findings of over 100 earlier papers."
+        },
+        {
+          "n": 5,
+          "prompt": "For the theme park task, the Santa Barbara test subjects were asked to provide spoken directions."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 6 – 13 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 6-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "ONE WORD ONLY",
+      "noteLayout": {
+        "title": "Findings from research on map reading",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Timothy Nation",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Using a {{6}} to navigate around London was more challenging than using"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "landmarks."
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.39,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "Columbia University",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.71
+          },
+          {
+            "runs": [
+              {
+                "text": "In the maze experiment, confusion occurred for:"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.39,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "male rats when {{7}} were added."
+              }
+            ],
+            "indent": 3.002,
+            "spaceBefore": 0.01,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "females when {{8}} was removed."
+              }
+            ],
+            "indent": 3.002,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Georgia State University",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.97
+          },
+          {
+            "runs": [
+              {
+                "text": "Experimental findings included:"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.41,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "men are generally better at identifying {{9}} on maps by their shape."
+              }
+            ],
+            "indent": 3.002,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "men like to estimate the {{10}} to a destination."
+              }
+            ],
+            "indent": 3.002,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "for both sexes, {{11}} is a factor when describing places in a more abstract way."
+              }
+            ],
+            "indent": 3.002,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Possible reasons for different skills in men and women",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.97
+          },
+          {
+            "runs": [
+              {
+                "text": "Men developed their navigational skills from {{12}} activities."
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "So that they could revisit food sources, women relied on their {{13}} of geographical"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "features."
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": "Findings from research on map reading",
+      "content": [
+        "Timothy Nation",
+        "Using a {{6}} to navigate around London was more challenging than using landmarks.",
+        "Columbia University",
+        "In the maze experiment, confusion occurred for:",
+        "male rats when {{7}} were added.",
+        "females when {{8}} was removed.",
+        "Georgia State University",
+        "Experimental findings included:",
+        "men are generally better at identifying {{9}} on maps by their shape.",
+        "men like to estimate the {{10}} to a destination.",
+        "for both sexes, {{11}} is a factor when describing places in a more abstract way.",
+        "Possible reasons for different skills in men and women",
+        "Men developed their navigational skills from {{12}} activities.",
+        "So that they could revisit food sources, women relied on their {{13}} of geographical features."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1ngIAK_Snk0nAs08Ib1mK1iNk9-79qBYh",
+      "role": "passage-and-questions",
+      "sha256": "01b1ac2b4f2645ef32667a99efd0a1005879b5a014b0d9dd87cf9b5e0d0e2239",
+      "name": "Map-reading and Gender.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.0",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-map-reading-and-gender"
+  },
+  "subtitle": "Do the male brain and female brain look at maps differently?",
+  "cover": {
+    "asset": "assets/batch-map-cover.jpg",
+    "alt": "Bản đồ cổ",
+    "credit": "The New York Public Library",
+    "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-2026-10-12",
+    "checks": [
+      "native-text comparison",
+      "source typography and question-layout review",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

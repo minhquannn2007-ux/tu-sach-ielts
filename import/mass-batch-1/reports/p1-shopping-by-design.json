@@ -1,0 +1,33 @@
+{
+  "job": "p1-shopping-by-design",
+  "title": "Shopping by design",
+  "part": 1,
+  "fingerprint": "639775491a638bd67ab185885aecea5680a17a749fbea5ad6cbca3d8a0329cf6",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1-Bq0ICroUnt1sn7wIQ2-J7OoeRc1RVQ0",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-shopping-by-design.json",
+  "lessonId": "p1-shopping-by-design",
+  "sourceId": "1-Bq0ICroUnt1sn7wIQ2-J7OoeRc1RVQ0",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "summary-input",
+    "mc-one"
+  ],
+  "sourceHash": "7073fdda941e636e22cffe17826fff74f887896dfa8b905b9e9f076722b841fc",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.088
+}

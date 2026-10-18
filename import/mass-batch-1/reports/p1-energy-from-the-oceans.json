@@ -1,0 +1,17 @@
+{
+  "job": "p1-energy-from-the-oceans",
+  "title": "Energy from the oceans",
+  "part": 1,
+  "fingerprint": "57ec36e29c9904f1a93e167d7f126663ec34656ad7ceb5184b7a74e73b208aff",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1jgt7eRIq-E6zmZ1WlsF1qeCyHN54jwDR",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.058
+}

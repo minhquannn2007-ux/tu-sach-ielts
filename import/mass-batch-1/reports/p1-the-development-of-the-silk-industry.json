@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-development-of-the-silk-industry",
+  "title": "The development of the silk industry",
+  "part": 1,
+  "fingerprint": "9e003b79f7b2cf0d1e2fc432d7fe565638af2e7b5faf4ed4f3cf8a595af42494",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1dOmuCOszyU_AtfBOa0d27QamYbeF5cut",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1dOmuCOszyU_AtfBOa0d27QamYbeF5cut.json",
+      "ocrConfidence": [
+        96.0,
+        96.2,
+        90.5,
+        95.4
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.013
+}

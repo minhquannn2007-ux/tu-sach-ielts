@@ -1,0 +1,204 @@
+{
+  "id": "p2-who-wrote-shakespeare-s-plays",
+  "part": 2,
+  "title": "Who wrote Shakespeare's plays?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Even today, almost 400 years after his death, the works of the famous English dramatist William Shakespeare have lost none of their appeal, nor have questions about the source of his genius. For is it really credible that an ordinary actor from the small town of Stratford-upon-Avon should metamorphose into so extraordinary a dramatist? For some, the answer is Obvious: Shakespeare was a genius whose gift is no more suspicious than that of the physicist Albert Einstein, the German salesman's son who devised the theory of relativity. But others have insisted that a mere school leaver simply could not have penned such sophisticated works. They believe that Shakespeare was a pseudonym for someone with far more impressive qualifications who wrote the plays that still play to packed theatres today. But after long and largely fruitless debate, researchers are now turning to scientific methods to resolve the controversies surrounding Shakespeare. Ways of identifying the literary fingerprint of writers are currently being developed using computers. This analysis of features of literary style is known as 'stylometry' and with it researchers can recognise the work of Shakespeare and his contemporaries with impressive reliability."
+    },
+    {
+      "label": "B",
+      "text": "The idea of using these basic scientific techniques to probe questions of authorship dates back to 1851, when the Victorian mathematician Augustus de Morgan suggested that different authors might be identified through the frequency with which they used words of different lengths. His idea attracted the attention of Thomas Mendenhall, an American physicist who decided to use word length to investigate one of the oldest controversies about the works of Shakespeare: were they actually written by someone else?"
+    },
+    {
+      "label": "C",
+      "text": "As long ago as 1785, the Elizabethan writer and philosopher Sir Francis Bacon was identified as a possible contender for having written Shakespeare's works. Bacon's possible motivation for not wanting to be known as the author of such masterpieces is far from clear, but Mendenhall believed his methods might at least reveal telltale signs of Bacon's hand in the plays. However, his results, published in 1901, revealed Bacon's writing style to be quite unlike that of Shakespeare. But Mendenhall's methods also revealed some key concerns. Recognising the need to include large samples of writing from both authors, Mendenhall lumped all their works together, despite the fact that literary style can vary enormously between plays, poetry and philosophy, for example. His focus on word length as the sole 'fingerprint of writing style was also questionable - for how could he be sure that some other characteristics would not give different results? But Mendenhall's biggest fault was perhaps simply that he was too far ahead of his time - he was attempting a task that cried out for the kind of computers not even conceivable over 100 years ago. More recently with their development scholars have been able to look for subtle peculiarities among the complete works of authors, which, in Shakespeare's case, amount to over 800,000 words."
+    },
+    {
+      "label": "D",
+      "text": "One of the key controversies now being probed is Shakespeare's relationship with other dramatists. Was he a lone genius or was his work the result of collaboration? Traditional methods of investigating such questions have relied on traits like the use of metaphor, but these may be shared by different authors simply on cultural grounds. In contrast, modern stylometry focuses on far more fundamental characteristics which are less likely to be shared by others. The text-crunching power of computers allows researchers to pinpoint phrases, words or even individual letters by their frequency in the work of different authors. Pattern recognition techniques are then used to develop a 'fingerprint' for each author."
+    },
+    {
+      "label": "E",
+      "text": "Stylometry has come up with little to encourage the continual number of experts who insist Shakespeare was simply too uneducated to create works of enduring brilliance. In 1996, literary scholar Ward Elliott and mathematician Robert Valenza of Claremont McKenna College, California, published the results of a stvlometric comparison of the works of Shakespeare with those of over 30 of the proposed 'real' authors. Elliott and Valenza applied a battery of 51 tests to computerised texts and found that none of the claimants had a stylometric 'fingerprint similar to that of Shakespeare. 'I think these claims were driven initially by a sense that Shakespeare is too \"important\" to be an ordinary person', says Professor Kate Mcluskie, director of the Shakespeare Institute at the University of Birmingham."
+    },
+    {
+      "label": "F",
+      "text": "Elliott and Valenza's research found something else too. Some of the earliest plays, notably Henry VI and the notoriously violent Titus Andronicus, seem to be a combination of Shakespeare and his brilliant contemporary the playwright Christopher Marlowe, who was born in the same year as Shakespeare. 'Traditional scholars accept that Marlowe influenced Shakespeare's early work,' says Dr Thomas Merriam, one of Britain's leading stylometry experts. He explains that, provisionally at least, stylometric studies suggest some of Marlowe's actual text exists within the early plays of Shakespeare."
+    },
+    {
+      "label": "G",
+      "text": "Some scholars remain cautious about basing new views of Shakespeare's career on stylometric analysis of centuries-old texts: If they have been edited, amended or shortened, then the data from them is highly compromised,' says Dr Markus Dahl of London University. Even so the results to date are in line with the growing view of Shakespeare as a hardworking professional who perfected his skills throughout his career."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-19 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "uncertainty why an author would wish to remain anonymous"
+        },
+        {
+          "n": 15,
+          "prompt": "a reference to the continuing popularity of Shakespeare's work"
+        },
+        {
+          "n": 16,
+          "prompt": "the reasons why a particular researcher's approach proved unsatisfactory"
+        },
+        {
+          "n": 17,
+          "prompt": "mention of the time when the use of stylometry was first proposed"
+        },
+        {
+          "n": 18,
+          "prompt": "support for the opinion that Shakespeare became more skilful as he grew older"
+        },
+        {
+          "n": 19,
+          "prompt": "a similarity between Shakespeare and a scientist with exceptional ability"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 20 – 22 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 20-22 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        }
+      ],
+      "title": "Stylometry",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "A key controversy is Shakespeare's relationships with other writers. It has always been uncertain whether he worked in {{20}} with others or not. To investigate this issue, literary experts traditionally looked at stylistic features such as the writer's choice of metaphor, although it was recognised that this choice may have been influenced by cultural factors.",
+        "Current stylometric analysis has been made possible by the invention of {{21}} These can identify different features of writing such as the frequency with which particular letters, words or phrases are used by different writers. By using stylometric analysis of particular characteristics and pattern recognition systems, a so-called {{22}} of a writer can be identified."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Look at the following statements (Questions 23-26) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E, in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "prompt": "People search for a more distinguished author because they cannot accept that a normal individual could write such brilliant plays"
+        },
+        {
+          "n": 24,
+          "prompt": "It should be possible to recognise writers by examining the number of letters in the words they use."
+        },
+        {
+          "n": 25,
+          "prompt": "The fact that Shakespeare's works are likely to have been altered over the years raises doubts about any stylometric analysis."
+        },
+        {
+          "n": 26,
+          "prompt": "Analysis proves that Shakespeare's style differs from those of writers who have been suggested as the authors of the plays."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Thomas Mendenhall"
+        },
+        {
+          "value": "B",
+          "text": "Ward Elliott and Robert Valenza"
+        },
+        {
+          "value": "C",
+          "text": "Professor Kate Mcluskie"
+        },
+        {
+          "value": "D",
+          "text": "Dr Thomas Merriam"
+        },
+        {
+          "value": "E",
+          "text": "Dr Markus Dahl"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1S7HAhqy9cMWxvMf5SPvpwCd56kASD44V",
+      "role": "passage-and-questions",
+      "sha256": "ce4cfd8de91eadb8c31f2b2848c15a15edeaf81c684c5562d008e57567bdd487",
+      "name": "Who wrote Shakespeare's plays?.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-who-wrote-shakespear-s-plays"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Experts suggest 'Shakespeare' may have been a pseudonym – a pen- name – for another writer. Robert Matthews investigates",
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

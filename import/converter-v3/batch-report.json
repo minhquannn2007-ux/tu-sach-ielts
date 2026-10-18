@@ -1,0 +1,829 @@
+{
+  "converterVersion": "3.0",
+  "selected": 27,
+  "cachedSources": 30,
+  "remainingUncachedJobs": 752,
+  "counts": {
+    "ready-for-review": 17,
+    "held": 10,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "seconds": 0.122,
+  "cachedJobs": 27,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+      "title": "An experiment to investigate the nature of language ability",
+      "part": 1,
+      "fingerprint": "46019c92e9ff35d870c0a48f3c13bd59fee8b5a41f31ae32e4cadeee8704607f",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1BQW5oUMU2hvVxpMVWyTDRdV9Ct2nApzY",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-an-experiment-to-investigate-the-nature-of-language-ability.json",
+      "lessonId": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+      "sourceId": "1BQW5oUMU2hvVxpMVWyTDRdV9Ct2nApzY",
+      "questionCount": 13,
+      "types": [
+        "notes",
+        "tfng"
+      ],
+      "sourceHash": "110a83bcb6f48c813680c0f4de811390590443a05caf538efa3adbf18c3dfc29",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.101,
+      "cached": true
+    },
+    {
+      "job": "p1-development-of-libraries-in-australia",
+      "title": "Development of libraries in Australia",
+      "part": 1,
+      "fingerprint": "c57d46874847fe0699da56a7ac7d7e1a7a5a2374e2864651fa911a14368f0a68",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1g9ihGt255Y8Nqel7GT4OtrbhEWlR30b0",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-development-of-libraries-in-australia.json",
+      "lessonId": "p1-development-of-libraries-in-australia",
+      "sourceId": "1g9ihGt255Y8Nqel7GT4OtrbhEWlR30b0",
+      "questionCount": 13,
+      "types": [
+        "notes",
+        "tfng"
+      ],
+      "sourceHash": "04b1eb190be07e717fdca971315edb24152cde6531fc375edc426c4e6f9c898d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.202,
+      "cached": true
+    },
+    {
+      "job": "p1-discovering-ancient-cities",
+      "title": "Discovering ancient cities",
+      "part": 1,
+      "fingerprint": "79da43dd2321113277e2a8f1c4b64523c192e577d2f9ba9d15bfde988a049519",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1TW6fXYSCd2XVz3OdOiaT2Vs-atSd-a0P",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-discovering-ancient-cities.json",
+      "lessonId": "p1-discovering-ancient-cities",
+      "sourceId": "1TW6fXYSCd2XVz3OdOiaT2Vs-atSd-a0P",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "39fdc32d16fce7d46864b972f1718235e0d7df2fa4f9bc94762e63335776166c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.089,
+      "cached": true
+    },
+    {
+      "job": "p1-how-deserts-grow",
+      "title": "How deserts grow",
+      "part": 1,
+      "fingerprint": "341d0347223d788106d068f3e0e96b3202c2af9667f5f4f6bc5867bbaec649b3",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1pLaZxLfcZKm0Axcb6oxx1O4MJvmzoF9j",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.053,
+      "cached": true
+    },
+    {
+      "job": "p1-learning-about-the-moa",
+      "title": "Learning about the Moa",
+      "part": 1,
+      "fingerprint": "6284662109497365c538746cdd27b7b6f8b8610a0b26e54c1356ab73ff90677a",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+          "transcript": "transcripts/1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK.json",
+          "ocrConfidence": [
+            80.1,
+            84.4,
+            81.7,
+            86.4
+          ]
+        },
+        {
+          "sourceId": "1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+          "transcript": "transcripts/1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm.json",
+          "ocrConfidence": [
+            68.2,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.01,
+      "cached": true
+    },
+    {
+      "job": "p1-new-understanding-of-giraffes-in-the-wild",
+      "title": "New Understanding of Giraffes in the Wild",
+      "part": 1,
+      "fingerprint": "d3cf073fe35842d588bf69da7b803d49f7c08a545477bd85a12ef388e7bdba3f",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1ARBxA04iQq4GQF2gSSNl_WZmJ0tYscG0",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-new-understanding-of-giraffes-in-the-wild.json",
+      "lessonId": "p1-new-understanding-of-giraffes-in-the-wild",
+      "sourceId": "1ARBxA04iQq4GQF2gSSNl_WZmJ0tYscG0",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "91a533bd0e429fc03e041e39876ca111b40b030af1a619a47aa511f6e4b59ef4",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.128,
+      "cached": true
+    },
+    {
+      "job": "p1-the-chemical-element-phosphorus",
+      "title": "The chemical element phosphorus",
+      "part": 1,
+      "fingerprint": "5af497a0c27c5dcf2b01d278afc9e94f209747b3d02a056943bb624808d6e855",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1aFtiJedvzgbrI8u-Vj5T6XplfmP9NIam",
+          "code": "table-layout",
+          "message": "Merged table cells require reviewed layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.099,
+      "cached": true
+    },
+    {
+      "job": "p1-the-development-of-the-advertising-industry-in-new-zealand",
+      "title": "The Development of the Advertising Industry in New Zealand",
+      "part": 1,
+      "fingerprint": "27547bb3957f477ded6d69a3ba880ce693b88bd2f8f51fffa9b9fd25f38945af",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1eVZ95Oktcu6FHyfPS9_dqATGBDflD9gf",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-the-development-of-the-advertising-industry-in-new-zealand.json",
+      "lessonId": "p1-the-development-of-the-advertising-industry-in-new-zealand",
+      "sourceId": "1eVZ95Oktcu6FHyfPS9_dqATGBDflD9gf",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "2f804f1594ca978d995912eeb55d66fa4c09701713ed00308f77ec6534ca6d21",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.092,
+      "cached": true
+    },
+    {
+      "job": "p1-the-secret-of-a-long-life",
+      "title": "The secret of a long life",
+      "part": 1,
+      "fingerprint": "81205db8b79f34509c4e98b0d97e8c241d2cee5e3f0c2e19dac382c8c7ca8cc2",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "14UV-ZkGPfaxqWQwqL5B1ZW6zcpvhkljc",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-the-secret-of-a-long-life.json",
+      "lessonId": "p1-the-secret-of-a-long-life",
+      "sourceId": "14UV-ZkGPfaxqWQwqL5B1ZW6zcpvhkljc",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "87ffcd275f0b69f8ef9fde875c2fa1e117353b5fa7f517eaa5578070ec55d7f7",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.098,
+      "cached": true
+    },
+    {
+      "job": "p2-an-australian-tree-abroad",
+      "title": "An Australian Tree Abroad",
+      "part": 2,
+      "fingerprint": "0838c5f115e670bc5deb94b74cde5021c506eda279bd209e9ad75bd1614161b0",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "18DeR_BdoYo4TRplUNwu8kbi9rB5QCWgr",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-an-australian-tree-abroad.json",
+      "lessonId": "p2-an-australian-tree-abroad",
+      "sourceId": "18DeR_BdoYo4TRplUNwu8kbi9rB5QCWgr",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "439fac1e9573b7250341aa42262ac291ec23b67c54954aad4117a707ea2b59a2",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.064,
+      "cached": true
+    },
+    {
+      "job": "p2-ancient-treasures",
+      "title": "Ancient Treasures",
+      "part": 2,
+      "fingerprint": "d8565f6ab0ec8146daef43e2f9fecde437270e5f06810b2fb8333e2d020761d0",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+          "transcript": "transcripts/1G9Qrbo4IQ5EGp3_shnRpXK0Q5JXnQQgH.json",
+          "ocrConfidence": [
+            92.5,
+            77.3,
+            84.3,
+            87.9
+          ]
+        },
+        {
+          "sourceId": "16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+          "transcript": "transcripts/16hwPPHfeOImXrWzmH-XG1kq6TKZNkK83.json",
+          "ocrConfidence": [
+            86.2,
+            0.0,
+            79.9,
+            0.0
+          ]
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.011,
+      "cached": true
+    },
+    {
+      "job": "p2-birds-in-the-city",
+      "title": "Birds in the City",
+      "part": 2,
+      "fingerprint": "5c45c389f93bd4085e13575b3631ecfc88388d194c8532b373bf21712cd53753",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1lwa7FKpp9zZ5tDqW5WUSgiO0SDoT9CVS",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-birds-in-the-city.json",
+      "lessonId": "p2-birds-in-the-city",
+      "sourceId": "1lwa7FKpp9zZ5tDqW5WUSgiO0SDoT9CVS",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "a681cc9ab94931397f838b29c3a2fd5618e457e3fadb240384fd89de8d121a9c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.066,
+      "cached": true
+    },
+    {
+      "job": "p2-catch-of-the-day",
+      "title": "Catch of the Day",
+      "part": 2,
+      "fingerprint": "34a043f6ab388b695f7592424c736df887a8448bf4f45945365f1b8eeb8871af",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1Xev7BB-nQ0vSEAvJhMBSxE_Na0Sfm1jE",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-catch-of-the-day.json",
+      "lessonId": "p2-catch-of-the-day",
+      "sourceId": "1Xev7BB-nQ0vSEAvJhMBSxE_Na0Sfm1jE",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "6976ea8d161f17347d210adeb7cdeb8af607608e07ac64a366e13c8e53bc93c4",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.062,
+      "cached": true
+    },
+    {
+      "job": "p2-conserving-plastic",
+      "title": "Conserving plastic",
+      "part": 2,
+      "fingerprint": "237c30728494f6fa68a5bee52e177769b2bb05ba222ab5c2f77ce359a75a314a",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1BxIauxdbo64oqFVJwnu_e8FvOH11xkN6",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-conserving-plastic.json",
+      "lessonId": "p2-conserving-plastic",
+      "sourceId": "1BxIauxdbo64oqFVJwnu_e8FvOH11xkN6",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "ae042c617e9021c67e4fe039bd4b5b8f114146c2ec8fd091956a9382f6da4301",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.045,
+      "cached": true
+    },
+    {
+      "job": "p2-digital-analysis-of-literature",
+      "title": "Digital analysis of literature",
+      "part": 2,
+      "fingerprint": "686d910d28d68165d07e11fa7e6bae8c5ca8278f07c66bbe0bc2b420b6919756",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "code": "source-flag",
+          "message": "source-content: Q20–23 discuss workplaces rather than the passage; compare another version"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.0,
+      "cached": true
+    },
+    {
+      "job": "p2-influences-on-child-development",
+      "title": "Influences on Child Development",
+      "part": 2,
+      "fingerprint": "c2d1b7e29717d2dfb5e054f72191c9fa911b43ebe96e05b1a21abcbcb5eddfd2",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1qL903OIO9wcM6XI3D83D3K8n8CW18yLS",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.047,
+      "cached": true
+    },
+    {
+      "job": "p2-the-collective-evolution-of-tangle-web-spiders",
+      "title": "The collective evolution of tangle-web spiders",
+      "part": 2,
+      "fingerprint": "a3a23f56f1ee19fb14d349bbae9b4ba4b8c9a0b23df0640b30b862b56af77086",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1hw2ljvyqFxAewSDHoqiqVzZKkJ7I3b_S",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-collective-evolution-of-tangle-web-spiders.json",
+      "lessonId": "p2-the-collective-evolution-of-tangle-web-spiders",
+      "sourceId": "1hw2ljvyqFxAewSDHoqiqVzZKkJ7I3b_S",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "3362d6e94a1dfafc7569fa456e69ac771d79207855d440bd8fad88aa9abeb30f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.062,
+      "cached": true
+    },
+    {
+      "job": "p2-the-use-of-dietary-supplements",
+      "title": "The Use of Dietary Supplements",
+      "part": 2,
+      "fingerprint": "8daa06f83f4999b30c7b235838f8a91c640774081710821ccca32c422c549d7e",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1jTMDqIaIUmQuBIYrRTNxmujIjngbOg06",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-use-of-dietary-supplements.json",
+      "lessonId": "p2-the-use-of-dietary-supplements",
+      "sourceId": "1jTMDqIaIUmQuBIYrRTNxmujIjngbOg06",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "d1b43b903f013767d29b06893bd270f7a85688ea382f348a03573872a69abff6",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.051,
+      "cached": true
+    },
+    {
+      "job": "p3-book-review-architecture-in-the-united-states",
+      "title": "Book Review Architecture in the United States",
+      "part": 3,
+      "fingerprint": "d5bca96780bd3ced79076ff612dc3ad48387fbe4d9ba799dffaf2ff9c64f7adc",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1cLpoxkqyiiBwhm8eKAI-LXGVuRzDxG5A",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-book-review-architecture-in-the-united-states.json",
+      "lessonId": "p3-book-review-architecture-in-the-united-states",
+      "sourceId": "1cLpoxkqyiiBwhm8eKAI-LXGVuRzDxG5A",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "summary-drag",
+        "ynng"
+      ],
+      "sourceHash": "4e389b83d9548facb0e350807c4dc7393e281f9a5be7b4d37bfee6f443484e80",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.049,
+      "cached": true
+    },
+    {
+      "job": "p3-design-in-the-modern-world",
+      "title": "Design in the modern world",
+      "part": 3,
+      "fingerprint": "190539f385123122b7146e91be25242e870e7c825769ba30f21abea405fedaaa",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1p3scRq777TTep3EGcgT4-VBN8bvUsAM2",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-design-in-the-modern-world.json",
+      "lessonId": "p3-design-in-the-modern-world",
+      "sourceId": "1p3scRq777TTep3EGcgT4-VBN8bvUsAM2",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "summary-drag"
+      ],
+      "sourceHash": "36a3ce405856cfcd5007664d7c940d41b667abab5d8317b43ad4c22330649192",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.075,
+      "cached": true
+    },
+    {
+      "job": "p3-expansion-of-the-worlds-deserts",
+      "title": "Expansion of the world’s deserts",
+      "part": 3,
+      "fingerprint": "cc01731ebe51a63f826a3ec7b53d5d7fbe203cb4ca5799f77e52e786d4c3ffe9",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.072,
+      "cached": true
+    },
+    {
+      "job": "p3-patterns-of-nature",
+      "title": "Patterns of Nature",
+      "part": 3,
+      "fingerprint": "75a0ac3821fb9513847d17229aba3b7e2b79df56700878c4b2defcf488b27f61",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+          "code": "diagram-review",
+          "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.049,
+      "cached": true
+    },
+    {
+      "job": "p3-songs-of-ourselves",
+      "title": "Songs of ourselves",
+      "part": 3,
+      "fingerprint": "d80e4bf0c5077d4893b315523e8d22389ad7a2b66f76fb1af972338339e84e46",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1uRKqEx2r5d0sy_ixovO5wQ_Mj2bCA9ZM",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-songs-of-ourselves.json",
+      "lessonId": "p3-songs-of-ourselves",
+      "sourceId": "1uRKqEx2r5d0sy_ixovO5wQ_Mj2bCA9ZM",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "mc-one"
+      ],
+      "sourceHash": "a657ea85c5fb66eabc2f3eabdd7ff967797a3b2bb818ca35f38db1b5d8695126",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.046,
+      "cached": true
+    },
+    {
+      "job": "p3-the-beginnings-of-modern-cognition",
+      "title": "The beginnings of modern cognition",
+      "part": 3,
+      "fingerprint": "5d58f3a7764bd5cf5a39ef7c460a41493a4b6a78f3a5a1e903b5635ff2a381c6",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "code": "source-flag",
+          "message": "source-content: damaged sentence around symbolic thinking; compare another version"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.0,
+      "cached": true
+    },
+    {
+      "job": "p3-the-contentious-role-of-public-art",
+      "title": "The contentious role of public art",
+      "part": 3,
+      "fingerprint": "b96a41dfbab6505b8bda04be5e6bb535d03e86860c9366d882b2067637383178",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1mC0v-za4JdQMY8DuMrZEgviOc3K4zaKe",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-contentious-role-of-public-art.json",
+      "lessonId": "p3-the-contentious-role-of-public-art",
+      "sourceId": "1mC0v-za4JdQMY8DuMrZEgviOc3K4zaKe",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "matching-endings"
+      ],
+      "sourceHash": "270a75f7ef0d531fc6a182bf04f4140fd67f5a8d05ef0f698a857c9a34f22cec",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.049,
+      "cached": true
+    },
+    {
+      "job": "p3-the-future-of-work",
+      "title": "The future of work",
+      "part": 3,
+      "fingerprint": "a09eb465dd05baa9227d0e9afd2673608272c0b63fecb8cfdfde1587124cbfb8",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "1egnRt7SVse41407gRWIBgT0tXJ9c6tWk",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-future-of-work.json",
+      "lessonId": "p3-the-future-of-work",
+      "sourceId": "1egnRt7SVse41407gRWIBgT0tXJ9c6tWk",
+      "questionCount": 14,
+      "types": [
+        "summary-drag",
+        "mc-one",
+        "ynng"
+      ],
+      "sourceHash": "dc5d6e6f4d71f0e29bc44082b87f021b5bab83dcc69fe057bfe075d806ca0468",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.054,
+      "cached": true
+    },
+    {
+      "job": "p3-traffic-congestion-possible-solutions-to-an-increasing-problem",
+      "title": "Traffic congestion: possible solutions to an increasing problem",
+      "part": 3,
+      "fingerprint": "4ef278927b9026d7257e7774ef839e2d9853432b86317847a1ea334cffbffd92",
+      "converterVersion": "3.0",
+      "attempts": [
+        {
+          "sourceId": "19SLwcY26ma_rM65fzcfukkXzV364d_E5",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+          "transcript": "transcripts/19SLwcY26ma_rM65fzcfukkXzV364d_E5.json",
+          "ocrConfidence": [
+            95.6,
+            94.4,
+            94.2,
+            87.0,
+            94.8
+          ]
+        },
+        {
+          "sourceId": "1MSi7UciIvrBTgq3YAkcmWBbvO979xsol",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+          "transcript": "transcripts/1MSi7UciIvrBTgq3YAkcmWBbvO979xsol.json",
+          "ocrConfidence": [
+            81.1,
+            95.2,
+            88.8,
+            91.3,
+            92.4
+          ]
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.01,
+      "cached": true
+    }
+  ],
+  "published": 0
+}

@@ -1,0 +1,1136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IELTS Reading – Part 2 – Australia's Camouflaged Creatures</title>
+<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html, body {
+  height: 100%; overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px; color: #111; background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+/* TOP NAV */
+.top-nav {
+  height: 48px; background: #fff;
+  border-bottom: 1px solid #d8d8d8;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 0 18px; flex-shrink: 0;
+}
+.nav-left { display: flex; align-items: flex-start; gap: 14px; }
+.ielts-logo { height: 26px; display: block; align-self: center; }
+.nav-taker { font-size: 15px; font-weight: 700; color: #111; align-self: flex-start; padding-top: 0; margin-top: -2px; }
+.nav-icons { display: flex; align-items: center; gap: 20px; }
+.nav-icons svg { width: 22px; height: 22px; stroke: #000; fill: none; stroke-width: 2.5; cursor: pointer; }
+/* PART INFO BOX — matches sectionRubricBlock */
+.part-box-wrap {
+  padding: 18px 18px 20px;
+  flex-shrink: 0;
+  background: #fff;
+}
+.part-box {
+  background: #efefef;
+  border: 1px solid #d0d0d0;   /* thin border */
+  border-radius: 4px;
+  padding: 7px 14px 15px;
+  line-height: 1.7;
+}
+.part-box h2 {
+  font-weight: 700;
+  font-size: 16px;             /* matches summary completion text */
+  color: #111;
+  margin: 0;
+  line-height: 1.7;
+}
+.part-box p {
+  font-weight: 400;
+  font-size: 16px;             /* matches summary completion text */
+  color: #222;
+  margin: 0;
+  line-height: 1.7;
+}
+/* MAIN */
+.main { display: flex; flex: 1; overflow: hidden; min-height: 0; }
+/* PASSAGE */
+.passage {
+  flex: 1 1 0;
+  min-width: 0; overflow-y: scroll;
+  padding: 6px 24px 30px 22px;
+  font-size: 16px; line-height: 1.5; color: #111;
+}
+.passage::-webkit-scrollbar { width: 15px; }
+.passage::-webkit-scrollbar-track { background: transparent; }
+.passage::-webkit-scrollbar-thumb { background: #b8b8b8; border-radius: 0; }
+.passage::-webkit-scrollbar-button { display: none; }
+.passage-title { font-weight: 700; font-size: 23px; margin-top: 24px; margin-bottom: 16px; }
+.passage-sub   { font-style: italic; font-size: 18px; margin-bottom: 23px; color: #222; line-height: 1.35; }
+.passage-para  { margin-bottom: 25px; }
+.para-lbl      { font-weight: 700; margin-right: 10px; }
+/* ── DIVIDER ── */
+.divider {
+  width: 2px;
+  flex-shrink: 0;
+  position: relative;
+  cursor: col-resize;
+  touch-action: none;
+}
+.resize-bar {
+  width: 100%;
+  height: 100%;
+  background: #9e9e9e;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: visible;
+}
+.resize-btn {
+  width: 30px;
+  height: 30px;
+  background: #ffffff;
+  border: 2px solid #000000;
+  border-radius: 1px;            /* essentially square, barely rounded */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: col-resize;
+  outline: none;
+  flex-shrink: 0;
+  box-shadow: none;
+}
+.resize-btn:focus { border-color: #2979c8; }
+.resize-btn .fa {
+  pointer-events: none;
+  font-size: 13px;
+  color: #555555;
+  line-height: 1;
+}
+/* QUESTIONS PANEL */
+.qpanel {
+  flex: 0 1 42%;
+  min-width: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding: 6px 16px 30px;
+  font-size: 16px;
+}
+.qpanel::-webkit-scrollbar { width: 15px; }
+.qpanel::-webkit-scrollbar-track { background: transparent; }
+.qpanel::-webkit-scrollbar-thumb { background: #b8b8b8; border-radius: 0; }
+.qpanel::-webkit-scrollbar-button { display: none; }
+.sec-hdr  { font-weight: 700; font-size: 16px; margin-bottom: 10px; margin-top: 16px; color: #000; }
+.sec-hdr:first-child { margin-top: 24px; }
+.sec-inst { font-size: 16px; line-height: 1.5; color: #222; margin-bottom: 10px; }
+/* ── MATCHING GRID ─────────────────────────────────────────────────
+   Outer rectangle: thin border + inner padding so grid never touches border
+   ──────────────────────────────────────────────────────────────────── */
+.grid-outer {
+  position: relative;
+  border: 1px solid #000;
+  padding: 40px 12px 40px 12px;
+  margin-bottom: 6px;
+  margin-right: 0;
+  background: #fff;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+/* The table itself — NO outer border (grid-outer already provides it) */
+.grid-tbl {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ── HEADER ROW ── */
+.grid-tbl thead th {
+  font-weight: 700;
+  font-size: 16px;
+  color: #111;
+  text-align: center;
+  padding: 15px 0;
+  background: #fff;
+  border-bottom: 2.5px solid #000;
+  border-right: 1px solid #000;
+}
+.grid-tbl thead th:last-child { border-right: none; }
+
+/* Left header cell — thick separator between question area and answers */
+.th-q {
+  border-right: 2px solid #000 !important;
+  text-align: left;
+}
+
+/* ── BODY ROWS — all 1px black, every-other row 1.5px ── */
+.grid-tbl tbody tr { background: #fff; }
+.grid-tbl tbody tr td {
+  border-bottom: 1px solid #000;
+  background: #fff;
+}
+/* Between Q15–Q16 (2nd row) and Q17–Q18 (4th row): 1.5px */
+.grid-tbl tbody tr:nth-child(2) td,
+.grid-tbl tbody tr:nth-child(4) td {
+  border-bottom: 1.5px solid #000;
+}
+.grid-tbl tbody tr:last-child td { border-bottom: none; }
+
+/* ── QUESTION CELL ── */
+.td-q {
+  padding: 20px 14px 20px 10px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #111;
+  vertical-align: top;
+  text-align: left;
+  border-right: 2px solid #000;
+}
+
+/* Inner layout: number and text baseline-aligned */
+.td-q-inner {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+/* Question number — bold, left, no right border */
+.qnum {
+  font-weight: 700;
+  font-size: 16px;
+  color: #111;
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+  line-height: 1.5;
+  min-width: 22px;
+  /* Use padding always so size never changes on hover */
+  padding: 2px 5px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  /* Reserve space for outline so it never shifts layout */
+  outline: 2px solid transparent;
+  outline-offset: 1px;
+  border-radius: 2px;
+}
+.qnum.active,
+.qnum.hover {
+  outline: 2px solid #2979c8;
+  outline-offset: 1px;
+  border-radius: 2px;
+}
+
+/* Question text — left-aligned, wraps */
+.q-text-inner {
+  flex: 1;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  cursor: default;
+}
+
+/* ── ANSWER CELLS — radio near top, centred horizontally, explicit white ── */
+.td-r {
+  width: 42px;
+  text-align: center;
+  vertical-align: top;
+  border-right: 1px solid #000;
+  padding: 0;
+  background: #fff;
+}
+.td-r:last-child { border-right: none; }
+
+.radio-lbl {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;          /* push radio to top */
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 100%;
+  cursor: pointer;
+}
+.radio-lbl input[type=radio] { display: none; }
+
+/* Radio button — standard size 14px, not oversized */
+.radio-circ {
+  width: 14px;
+  height: 14px;
+  border: 1.5px solid #999;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: all .12s;
+  background: #fff;
+}
+.radio-lbl input[type=radio]:checked ~ .radio-circ {
+  border-color: #1565c0;
+  background: #1565c0;
+}
+.radio-lbl input[type=radio]:checked ~ .radio-circ::after {
+  content: '';
+  width: 5px; height: 5px;
+  background: #fff;
+  border-radius: 50%;
+}
+/* ── SUMMARY COMPLETION ────────────────────────────────────────────── */
+.summ-sec-hdr  { font-weight: 700; font-size: 16px; color: #000; margin-bottom: 10px; margin-top: 16px; }
+.summ-instruction { font-size: 16px; line-height: 1.5; color: #222; font-weight: 400; margin-bottom: 14px; }
+.summ-title    { font-weight: 700; font-size: 16px; text-align: center; color: #000; margin-top: 20px; margin-bottom: 22px; }
+
+/* Body paragraph: 16px, tighter line-height so inline inputs don't create huge gaps */
+.summ-body {
+  font-size: 16px;
+  line-height: 1.5;          /* tight enough to look natural, enough room for inputs */
+  color: #111;
+  text-align: left;
+  padding-right: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Wrapper: inline so it sits in the text flow */
+.ans-wrap {
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  margin: 0 1px;
+}
+
+/* Shadow span: invisible clone for width measurement */
+.ans-shadow {
+  position: absolute;
+  visibility: hidden;
+  white-space: pre;
+  /* Must exactly match input font so measurement is accurate */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;       /* same as paragraph */
+  font-weight: 400;
+  padding: 0 8px;
+  pointer-events: none;
+  top: 0; left: 0;
+}
+
+/* Input: inherits 16px from paragraph, min-width responsive */
+.ans-wrap label { display: inline; }
+.ans-wrap input {
+  display: inline-block;
+  width: 170px;
+  min-width: 170px;
+  max-width: 100%;
+  height: auto;
+  padding: 1px 8px;
+  border: 1px solid #888;
+  border-radius: 4px;
+  background: #fff;
+  font-family: inherit;
+  font-size: inherit;
+  color: #111;
+  outline: none;
+  vertical-align: middle;
+  text-align: center;
+  box-sizing: border-box;
+}
+.ans-wrap input::placeholder {
+  color: #000;
+  font-size: inherit;
+  font-weight: 700;
+  text-align: center;
+}
+.ans-wrap input:focus,
+.ans-wrap input.active {
+  border-color: #1565c0;
+  box-shadow: 0 0 0 1px rgba(21,101,192,0.2);
+}
+/* RESEARCHERS */
+.researchers { border: 1.1px solid #000; margin-top: 12px; font-size: 16px; display: inline-block; min-width: 175px; background: #fff; }
+.researchers-hdr { font-weight: 700; padding: 8px 10px 30px 10px; border-bottom: 1.1px solid #000; background: #fff; text-align: left; }
+.res-row { display: flex; align-items: stretch; border-bottom: 1.1px solid #000; background: #fff; }
+.res-row:last-child { border-bottom: none; }
+.res-ltr { width: 28px; font-weight: 700; border-right: 1.1px solid #000; display: flex; align-items: center; justify-content: flex-start; padding: 8px 6px; background: #fff; }
+.res-name { padding: 8px 10px; background: #fff; text-align: left; }
+.sep { border: none; margin: 36px 0; }
+/* ── BOTTOM BAR ── */
+.bottom-bar {
+  flex-shrink: 0; border-top: 1px solid #d0d0d0;
+  background: #f5f5f5; display: flex; flex-direction: column;
+}
+.bb-top-row { display: flex; align-items: stretch; border-bottom: 1px solid #d8d8d8; flex: 1; min-height: 44px; overflow: hidden; }
+.bb-bottom-row {
+  display: flex; align-items: center;
+  justify-content: space-between; padding: 6px 16px; gap: 10px;
+  background: #ebebeb; flex: 1; min-height: 44px;
+}
+
+/* Each part: equal thirds, no divider */
+.bb-part {
+  flex: 1; display: flex; flex-direction: column; align-items: center;
+  justify-content: center;
+  min-width: 0; overflow: visible; cursor: pointer;
+  transition: background .15s;
+}
+.bb-part:not(.bb-active-part):hover { background: #e8e8e8; }
+
+/* Numbers row: flex row, each item is a column (dash + number) */
+.bb-numbers-row {
+  display: flex; align-items: flex-end; justify-content: center;
+  padding: 0; width: 100%; overflow-x: auto; overflow-y: visible;
+  scrollbar-width: none;
+}
+.bb-numbers-row::-webkit-scrollbar { display: none; }
+
+/* Part label button */
+.footer__questionNo {
+  display: inline-flex; flex-direction: column; align-items: flex-start;
+  background: none; border: none; cursor: default;
+  font-family: Arial, sans-serif; font-size: 13px; font-weight: 700;
+  color: #222; padding: 0; flex-shrink: 0;
+  position: relative;
+}
+/* Part dash via ::before — hidden by default, shown when active */
+.footer__questionNo::before {
+  content: '';
+  display: none;
+  height: 3px; width: 100%;
+  background: #cccccc; border-radius: 1px;
+  margin-bottom: 5px;
+}
+.bb-active-part .footer__questionNo::before { display: block; }
+.footer__questionNo.complete::before { background: #388e3c; }
+
+/* Part label inner content */
+.footer__questionNo > span {
+  display: flex; align-items: center; gap: 4px;
+  padding: 0 8px 0 0;  /* right gap between Part label and first question */
+}
+.section-prefix { /* "Part " */ }
+.sectionNr       { /* "2" */ }
+
+/* Tick before Part label when complete */
+.bb-part-tick { color: #388e3c; font-size: 12px; display: none; }
+.bb-part-tick.show { display: inline; }
+
+/* subQuestion wrapper */
+.footer__subquestionWrapper {
+  display: flex; align-items: flex-end; gap: 6px;
+}
+
+/* Individual question button — flex-column: dash on top, number below */
+.subQuestion.scorable-item {
+  display: inline-flex; flex-direction: column; align-items: center;
+  background: none; border: none; cursor: pointer;
+  font-family: Arial, sans-serif; padding: 0;
+  flex-shrink: 0;
+}
+/* Dash via ::before — always visible (gray), turns green when answered */
+.subQuestion.scorable-item::before {
+  content: '';
+  display: block;
+  height: 3px; width: 100%; min-width: 14px;
+  background: #cccccc; border-radius: 1px;
+  margin-bottom: 5px;
+  transition: background .15s;
+}
+.subQuestion.scorable-item.answered::before { background: #4CAF50; }
+.subQuestion.scorable-item.complete::before { background: #388e3c; }
+
+/* Number text */
+.bb-q-num {
+  font-size: 13px; color: #444; font-weight: 500;
+  padding: 0 3px;
+  outline: 2px solid transparent; outline-offset: 1px;
+  border-radius: 2px; line-height: 1; white-space: nowrap;
+  transition: outline-color .1s;
+}
+.subQuestion.scorable-item:hover .bb-q-num,
+.subQuestion.scorable-item.active .bb-q-num {
+  outline: 2px solid #2979c8; outline-offset: 1px;
+  border-radius: 2px; color: #111;
+}
+.subQuestion.scorable-item.active .bb-q-num  { font-weight: 700; }
+.subQuestion.scorable-item.answered .bb-q-num { color: #1a1a1a; }
+}
+.bb-q:hover .bb-q-num,
+.bb-q.active .bb-q-num {
+  outline: 2px solid #2979c8; outline-offset: 1px;
+  border-radius: 2px; color: #111;
+}
+.bb-q.active .bb-q-num  { font-weight: 700; }
+.bb-q.answered .bb-q-num { color: #1a1a1a; }
+
+/* Progress text for INACTIVE parts */
+.bb-inactive-progress { font-size: 13px; color: #555; margin-left: 4px; }
+
+/* Inactive part: only Part label visible, no question numbers */
+.bb-part:not(.bb-active-part) .bb-q { display: none; }
+
+/* ── Row 2: Inspera + system icons ── */
+.bb-inspera {
+  display: flex; align-items: center; gap: 5px;
+  font-size: 13px; color: #444; font-weight: 400;
+}
+.bb-inspera-icon {
+  width: 16px; height: 16px; background: #555; border-radius: 2px; flex-shrink: 0;
+}
+.bb-inspera strong { font-weight: 700; color: #333; }
+.bb-sys-icons { display: flex; align-items: center; gap: 6px; }
+#timer { font-size: 18px; font-weight: 700; color: #2d2d2d; letter-spacing: 1px; margin-right: 5px; background: none; border: none; font-family: "Times New Roman", "TimesNewRomanPS-BoldCondensedMT", Times, serif; font-stretch: condensed; font-variant-numeric: lining-nums tabular-nums; font-feature-settings: "lnum" 1, "tnum" 1; transform: scaleX(0.72) scaleY(1.1); transform-origin: right center; display: inline-block; vertical-align: middle; }
+#battery-icon { display: inline-flex; align-items: center; margin-right: 2px; }
+#battery-icon svg { width: 24px; height: 16px; }
+.bb-icon-box {
+  display: flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px;                  /* 80% of 50px */
+  background: #e0e0e0; border: 1px solid #b8b8b8;
+  border-radius: 0; cursor: pointer; flex-shrink: 0;
+}
+.bb-icon-box svg { width: 22px; height: 22px; stroke: #111; fill: none; stroke-width: 2; }
+.bb-icon-box.bb-exit-box {
+  font-size: 13px; font-weight: 700; color: #111;
+  min-width: 56px; width: auto; padding: 0 11px; height: 40px;
+}
+/* ── HIGHLIGHT & NOTE SYSTEM ─────────────────────────────────── */
+/* Highlight colors */
+.hl { cursor: pointer; border-radius: 2px; }
+.hl[data-hl-level="0"] { background: #E91E8C; }
+.hl[data-hl-level="1"] { background: #8A4F7D; }
+
+/* Note anchor */
+.note-anchor { cursor: pointer; border-bottom: 2px dashed #888; }
+
+/* Note icon (small, inline, at end of noted text) */
+.note-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 14px; height: 14px; cursor: pointer;
+  position: relative; top: -4px;
+  margin-left: 1px;
+}
+.note-icon svg { display: block; }
+
+/* Selection popup (appears after text selection) */
+#selection-popup {
+  display: none;
+  position: fixed; z-index: 9999;
+  background: #222; color: #fff;
+  border-radius: 6px;
+  padding: 6px 4px;
+  gap: 2px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.35);
+  font-family: Arial, sans-serif;
+  font-size: 12px;
+  flex-direction: row;
+  align-items: center;
+}
+.sel-btn {
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 3px; padding: 6px 10px; cursor: pointer; border-radius: 4px;
+  color: #fff; border: none; background: transparent;
+  font-family: Arial, sans-serif; font-size: 11px;
+  min-width: 50px;
+}
+.sel-btn:hover { background: rgba(255,255,255,0.15); }
+.sel-btn svg { display: block; }
+.sel-divider { width: 1px; height: 32px; background: rgba(255,255,255,0.25); margin: 0 2px; }
+
+/* Context menu */
+#context-menu {
+  display: none;
+  position: fixed; z-index: 9999;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.2);
+  overflow: hidden;
+  min-width: 180px;
+}
+.ctx-btn {
+  display: block; width: 100%;
+  padding: 10px 16px; text-align: left;
+  border: none; background: transparent;
+  font-family: Arial, sans-serif; font-size: 13px; color: #111;
+  cursor: pointer; border-bottom: 1px solid #eee;
+}
+.ctx-btn:last-child { border-bottom: none; }
+.ctx-btn:hover { background: #f0f0f0; }
+
+/* Note panel (yellow notepad) */
+#note-panel {
+  display: none;
+  position: fixed; z-index: 9999;
+  width: 200px;
+  background: #FFE566;
+  border: 1px solid #d4b800;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.2);
+  font-family: Arial, sans-serif;
+}
+.note-panel-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 4px 8px;
+  background: #f0d200;
+  border-bottom: 1px solid #d4b800;
+  font-size: 12px; font-weight: 700; color: #333;
+}
+.note-close-btn {
+  width: 16px; height: 16px; cursor: pointer;
+  background: #cc0000; color: white; border: none;
+  font-size: 10px; font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  border-radius: 2px;
+}
+#note-panel textarea {
+  width: 100%; height: 120px;
+  background: #FFE566; border: none; outline: none; resize: none;
+  padding: 8px; font-family: Arial, sans-serif; font-size: 13px;
+  color: #222; line-height: 1.5;
+}
+.note-save-btn {
+  display: block; width: 100%; padding: 5px;
+  background: #f0d200; border: none; border-top: 1px solid #d4b800;
+  font-size: 12px; font-weight: 700; cursor: pointer; color: #333;
+}
+.note-save-btn:hover { background: #e6c800; }
+
+
+
+/* Screen-reader only */
+.sr-only {
+  position: absolute; width: 1px; height: 1px;
+  padding: 0; margin: -1px; overflow: hidden;
+  clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}
+/* Platform subQuestion button reset */
+.footer__questionNo {
+  background: none; border: none; cursor: default;
+  font-family: Arial, sans-serif; padding: 0;
+}
+.subQuestion.scorable-item {
+  background: none; border: none; cursor: pointer;
+  padding: 0; font-family: Arial, sans-serif;
+  display: flex; align-items: center; justify-content: center;
+}
+.nav-arrows {
+  position: fixed;
+  /* bottom = height of bottom-bar (~88px) + 24px gap */
+  bottom: calc(88px + 24px);
+  right: 16px;
+  display: flex; gap: 6px; z-index: 100;
+}
+.nav-btn { width: 42px; height: 42px; border: none; cursor: pointer; border-radius: 5px; display: flex; align-items: center; justify-content: center; }
+.nav-btn svg { width: 26px; height: 26px; }
+.nav-prev { background: #111111; }
+.nav-prev svg { stroke: #fff; fill: none; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+.nav-prev:disabled { background: #111111; cursor: default; opacity: 0.4; }
+.nav-next { background: #111111; }
+.nav-next svg { stroke: #fff; fill: none; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+.nav-next:hover { opacity: 0.88; }
+.nav-next:disabled { background: #111111; cursor: default; opacity: 0.4; }
+
+/* Highlight row on selection */
+.tfng-opt-lbl:has(input:checked),
+.mc-opt-lbl:has(input:checked),
+.ync-opt-lbl:has(input:checked) {
+  background: #d6eaf8;
+  border-radius: 3px;
+  padding-left: 4px;
+  margin-left: -4px;
+}
+</style>
+<link rel="stylesheet" href="../exam-behavior.css">
+<link rel="stylesheet" href="../zoom-layout.css">
+<link rel="stylesheet" href="../question-template.css">
+<link rel="stylesheet" href="../exam-progress.css"></head>
+<body>
+
+<!-- TOP NAV -->
+<nav class="top-nav">
+  <div class="nav-left">
+    <img class="ielts-logo" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB2ZXJzaW9uPSIxLjEiCglpZD0ic3ZnMzg2MSIKCWlua3NjYXBlOnZlcnNpb249IjAuNDguNCByOTkzOSIKCXNvZGlwb2RpOmRvY25hbWU9ImZqb3JkLnN2ZyIKCXhtbG5zOmNjPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9ucyMiCgl4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCgl4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKCXhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyIKCXhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKCXhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCgl4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCgl4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKCXg9IjBweCIKCXk9IjBweCIKCXZpZXdCb3g9IjAgMCA3NzcuOCAyMjguNiIKCXN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDc3Ny44IDIyOC42OyIKCXhtbDpzcGFjZT0icHJlc2VydmUiPgoJPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCQkuc3Qwe2ZpbGw6I0UzMTgzNzt9Cgk8L3N0eWxlPgoKCTxzb2RpcG9kaTpuYW1lZHZpZXcgIGJvcmRlcmNvbG9yPSIjNjY2NjY2IiBib3JkZXJvcGFjaXR5PSIxLjAiIGZpdC1tYXJnaW4tYm90dG9tPSIwIiBmaXQtbWFyZ2luLWxlZnQ9IjAiIGZpdC1tYXJnaW4tcmlnaHQ9IjAiIGZpdC1tYXJnaW4tdG9wPSIwIiBpZD0iYmFzZSIgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ibGF5ZXIxIiBpbmtzY2FwZTpjeD0iMzU4LjM2NDI2IiBpbmtzY2FwZTpjeT0iMjguNDY3OTg4IiBpbmtzY2FwZTpkb2N1bWVudC11bml0cz0icHgiIGlua3NjYXBlOmd1aWRlLWJib3g9InRydWUiIGlua3NjYXBlOnBhZ2VvcGFjaXR5PSIwLjAiIGlua3NjYXBlOnBhZ2VzaGFkb3c9IjIiIGlua3NjYXBlOndpbmRvdy1oZWlnaHQ9Ijk3NSIgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxNjgwIiBpbmtzY2FwZTp3aW5kb3cteD0iLTkiIGlua3NjYXBlOndpbmRvdy15PSItOSIgaW5rc2NhcGU6em9vbT0iMC43IiBwYWdlY29sb3I9IiNmZmZmZmYiIHNob3dncmlkPSJmYWxzZSIgc2hvd2d1aWRlcz0idHJ1ZSI+PC9zb2RpcG9kaTpuYW1lZHZpZXc+Cgk8ZyBpZD0ibGF5ZXIxIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxMDcuMTQyODYsLTIyOS4zNzI5MykiIGlua3NjYXBlOmdyb3VwbW9kZT0ibGF5ZXIiIGlua3NjYXBlOmxhYmVsPSJMYXllciAxIj4KCQk8cGF0aCBpZD0icGF0aDM5MTYiIGlua3NjYXBlOmNvbm5lY3Rvci1jdXJ2YXR1cmU9IjAiIHNvZGlwb2RpOm5vZGV0eXBlcz0iY3NjY2NjY2NjY2NjY2NjY2MiIGNsYXNzPSJzdDAiIGQ9Ik01NTUuNiw0NTgKCQljLTM4LjIsMC4zLTUxLjItNS4yLTY3LjctMThjLTE2LjUtMTIuOC0yNC4yLTMzLjMtMjUuNi01OS40aDUyLjJjMi4zLDI2LjgsMTcuMiwzNy4zLDQyLjIsMzcuMWMxOS40LTAuMSwzNi44LTQuNywzNC44LTI0LjIKCQljLTEuNC0yMC4zLTMyLjItMTctNzIuMi0zMy45Yy0yOC04LjMtNTQuOS0zMC42LTUyLjYtNjUuNGMzLjUtNDcuMiw0Ni02NC43LDg1LjgtNjQuOWM0Ny42LDAsODMuOSwyMy4zLDg0LjUsNzJsLTUxLjQtMC43CgkJYy0wLjItMjguNy0zMi0yOC44LTM2LTI4LjljLTIwLjctMC43LTMwLjksMTAuNS0zMC40LDE5LjVjMC4yLDE3LDIxLjEsMjEuNiw0MS42LDI4LjJjMzguNCwxMi4yLDgzLjUsMTkuNSw4My44LDcwLjkKCQljLTAuNCwyMC41LTYuMSwzNS43LTIzLjIsNDkuNEM2MDguMiw0NTAuMSw1ODUuNyw0NTcuOCw1NTUuNiw0NThMNTU1LjYsNDU4eiIvPgoJCTxwYXRoIGlkPSJwYXRoMzk1MiIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgY2xhc3M9InN0MCIgZD0iTS0xMDcuMSwyMzguN2g1NS43djIxNS45aC01NS43VjIzOC43eiIvPgoJCTxwYXRoIGlkPSJwYXRoMzk1NCIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgY2xhc3M9InN0MCIgZD0iTS0yNy45LDIzOC43aDE2Ni40djQzLjlIMjYuM3Y0MC41aDExMi4zdjQyLjlIMjYuM3Y0NC4zCgkJaDExMi4zdjQ0LjRILTI3LjlMLTI3LjksMjM4Ljd6Ii8+CgkJPHBhdGggaWQ9InBhdGgzOTU2IiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBzb2RpcG9kaTpub2RldHlwZXM9ImNjY2NjY2MiIGNsYXNzPSJzdDAiIGQ9Ik0xNjAsMjM4LjdoNTV2MTY5LjVoMTAxLjR2NDYuNAoJCUgxNjBMMTYwLDIzOC43eiIvPgoJCTxwYXRoIGlkPSJwYXRoMzk1OCIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgY2xhc3M9InN0MCIgZD0iTTI3NiwyMzguN2gxNzkuM3Y0My45aC02Mi4xdjE3MmgtNTQuOHYtMTcySDI3NkwyNzYsMjM4Ljd6IgoJCS8+CgkJPHBhdGggaWQ9InBhdGg0NTc2IiBpbmtzY2FwZTpjb25uZWN0b3ItY3VydmF0dXJlPSIwIiBjbGFzcz0ic3QwIiBkPSJNNjMxLjcsMjYzLjh2LTIxLjRoLTcuM1YyMzhoMTkuNHY0LjRoLTcuMnYyMS40SDYzMS43eiIvPgoJCTxwYXRoIGlkPSJwYXRoNDU3OCIgaW5rc2NhcGU6Y29ubmVjdG9yLWN1cnZhdHVyZT0iMCIgY2xhc3M9InN0MCIgZD0iTTY0NywyNjMuOFYyMzhoNy40bDQuNCwxNy42bDQuNC0xNy42aDcuNHYyNS44aC00LjZ2LTIwLjNsLTQuOSwyMC4zaC00LjgKCQlsLTQuOC0yMC4zdjIwLjNINjQ3eiIvPgoJPC9nPgo8L3N2Zz4K" alt="IELTS">
+    <span class="nav-taker">Test taker ID</span>
+  </div>
+  <div class="nav-icons">
+    <svg viewBox="0 0 24 24"><path d="M5 12.55a11 11 0 0114.08 0M1.42 9a16 16 0 0121.16 0M8.53 16.11a6 6 0 016.95 0M12 20h.01" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <!-- bell -->
+    <img src="data:image/jpeg;base64,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" alt="bell" style="width:30px;height:30px;object-fit:contain;cursor:pointer;">
+    <svg viewBox="0 0 24 24"><line x1="3" y1="6" x2="21" y2="6" stroke-linecap="round"/><line x1="3" y1="12" x2="21" y2="12" stroke-linecap="round"/><line x1="3" y1="18" x2="21" y2="18" stroke-linecap="round"/></svg>
+    <!-- chat: 2 speech bubbles filled black, 3 dots pure white -->
+    <svg viewBox="0 0 24 24" fill="#000" stroke="none" style="width:22px;height:22px;">
+      <path d="M20 2H8a2 2 0 00-2 2v3H4a2 2 0 00-2 2v7a2 2 0 002 2h1v3l3.5-3H14a2 2 0 002-2v-1h4a2 2 0 002-2V4a2 2 0 00-2-2z" opacity="0.3"/>
+      <path d="M16 6H4a2 2 0 00-2 2v7a2 2 0 002 2h1v3l3.5-3H16a2 2 0 002-2V8a2 2 0 00-2-2z"/>
+      <circle cx="8"  cy="11.5" r="1" fill="#ffffff"/>
+      <circle cx="11" cy="11.5" r="1" fill="#ffffff"/>
+      <circle cx="14" cy="11.5" r="1" fill="#ffffff"/>
+    </svg>
+    <!-- note/pencil -->
+    <svg viewBox="0 0 24 24" fill="none" stroke="#444" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" style="width:21px;height:21px;">
+      <path d="M11 4H4a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2v-7"/>
+      <path d="M18.5 2.5a2.121 2.121 0 013 3L12 15l-4 1 1-4 9.5-9.5z"/>
+    </svg>
+  </div>
+</nav>
+
+<!-- PART INFO BOX -->
+<div class="part-box-wrap">
+  <section class="part-box" tabindex="0" id="sectionRubric"
+           aria-labelledby="sectionRubricTitle-part2 sectionRubricInstructions-part2">
+    <h2 id="sectionRubricTitle-part2">Part 2</h2>
+    <p id="sectionRubricInstructions-part2">Read the text and answer questions 14–26.</p>
+  </section>
+</div>
+
+<!-- MAIN -->
+<div class="main">
+
+  <!-- PASSAGE -->
+  <div class="passage" id="passage">
+    <div class="passage-title">Australia's Camouflaged Creatures</div>
+    <div class="passage-sub">Many species of animal in Australia protect themselves by using camouflage — a way of 'hiding' by blending into the surroundings</div>
+
+    <p class="passage-para"><span class="para-lbl">A</span>Most species use camouflage to some extent. If they are convincing, they survive to pass their genes on to future generations. After generations of natural selection, animals can develop astonishingly complex camouflage techniques, manipulating shape, colour and movement. 'The principle of camouflage is to make it economically unviable for a predator to pursue a particular species of prey,' explains Professor Mark Elgar of the University of Melbourne. 'Camouflage increases the search time and, as a consequence, the predator will simply target another species, either because it doesn't see the camouflaged individual or it just finds something more obvious to do.'</p>
+
+    <p class="passage-para"><span class="para-lbl">B</span>The easiest way for an animal to disguise itself is to be invisible in its surroundings. To that end, stick and leaf insects have evolved complex camouflage to hide themselves from predators. Many have the texture of sticks or dry leaves, while others imitate living foliage, even the veins in a leaf. Some insects develop blemishes to match the spots caused by disease. A convincing appearance only works if its owner also acts the part, so during the day the creature using this type of camouflage keeps motionless, or sways like a dead leaf in the breeze. If disturbed, it falls to the ground and stays still. Entomologist Paul Zborowski, who has spent decades photographing inconspicuous creatures, rates the desert insects of Central Australia as the most convincingly disguised creatures he's seen. 'It's an incredibly old habitat, so the creatures have had a long time to adapt,' Zborowski explains. Most of them behave like stones and don't move all day, feeding only at night.</p>
+
+    <p class="passage-para"><span class="para-lbl">C</span>A tawny frogmouth sitting motionless on a stump also illustrates the importance of pairing a persuasive costume with behaviour. Professor Gisela Kaplan of the University of New England in Australia says the frogmouth's skill at camouflaging is learned behaviour. While adopting a pose may be a reflex of the bird, and can be observed in a hatchling's first week, the ability to choose a backdrop which matches its colouration does not develop for 4–6 months. When the chicks land, they are usually highly conspicuous, and their parents try to signal to them to move to a safe location.</p>
+
+    <p class="passage-para"><span class="para-lbl">D</span>Fixed camouflage is only good against a relatively unchanging environment, so some animals, such as the cuttlefish, have evolved an adaptable disguise. The cuttlefish can almost instantly change its colour, pattern and texture to match its surroundings, using specialised cells and muscles. On Queensland's reefs, scientists have been studying another ocean dweller that uses colour change, although not to blend into the surroundings. Dr Karen Cheney, from the University of Queensland, says the bluestriped fangblenny alters its colouration to mimic other species of fish, allowing it to travel with them and benefit from safety in numbers.<br><br>Its most impressive impersonation is of the black-with-neon-blue-striped cleaner wrasse, which eats the parasites on larger fish. Not only does the fangblenny benefit from the reduced predation that comes with the wrasse's beneficial relationships with other fish, but the disguise also lets it get closer to prey. It darts out from the safety of the wrasse's cleaning station to nip at unsuspecting fish passing by, but it doesn't attack those coming to be cleaned.</p>
+
+    <p class="passage-para"><span class="para-lbl">E</span>The most famous form of mimicry, however, is for defence, not attack. Batesian mimicry refers to animals that gain protection from predators by imitating a dangerous organism, often using conspicuous colours. The nineteenth-century naturalist Henry Bates first suggested this camouflage technique after noticing that several Amazonian butterfly species looked the same. The technique was later called after him.<br><br>In Australian waters, the harmless harlequin snake eel sports the same black and white bandings as the highly toxic yellow-lipped sea krait, ensuring no predator will attack. However, the success of Batesian mimicry depends on the ratio of mimics to originals. If a predator encounters too many that are edible, it will just assume none of the animals with those markings are dangerous, explains Martyn Robinson, an educational naturalist with the Australian Museum.</p>
+
+    <p class="passage-para"><span class="para-lbl">F</span>An imitation of a more dangerous creature needn't be exact, just enough to make potential predators hesitate. The hawk moth caterpillar has markings resembling a snake's eyes on its abdomen. When confronted, the caterpillar pulls its head in and the 'eyes' flash open. Whether the potential predator thinks it has seen a snake, or is simply startled, is unclear, but the outcome is that the caterpillar lives to see another day.</p>
+
+    <p class="passage-para"><span class="para-lbl">G</span>In Queensland's tablelands, the chameleon gecko has another way of making predators hesitate. Its body is brown, but its tail is banded in black and white. Robinson explains that if attacked, the chameleon gecko will drop off its tail, which will wriggle around on the ground. Many lizards do this, but in the case of the chameleon gecko the tail bones actually rub against one another, so it squeaks. 'The predator is, of course, thoroughly absorbed by this black-and-white-striped, wriggling, squeaking thing on the ground, and the gecko can sneak away,' Robinson says. It's a one-time-only trick: the regrown tail is brown, the same as the gecko's body.<br><br>Such precise disguise and elaborate trickery illustrate the limitless possibilities of nature. But, as Robinson points out, only the most successful illusionists are here to tell the tale.</p>
+  </div>
+
+  <!-- DIVIDER -->
+  <div class="divider" id="divider" style="touch-action:none;transform:translate(0px,0px);">
+    <div class="resize-bar">
+      <div class="resize-btn" tabindex="0" role="separator" aria-orientation="vertical">
+        <svg width="16" height="10" viewBox="0 0 20 10" fill="none">
+          <polygon points="0,5 3,2 3,8" fill="#000"/>
+          <line x1="3" y1="5" x2="17" y2="5" stroke="#000" stroke-width="1.5" stroke-linecap="round"/>
+          <polygon points="20,5 17,2 17,8" fill="#000"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+
+  <!-- QUESTIONS PANEL -->
+  <div class="qpanel" id="qpanel">
+
+    <!-- Q14–18 Matching Information -->
+    <div class="sec-hdr">Questions 14–18</div>
+    <div class="sec-inst">The text has seven paragraphs, <strong>A–G</strong>. Which paragraph contains the following information?</div>
+    <div class="grid-outer">
+      <table class="grid-tbl">
+        <colgroup><col><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"></colgroup>
+        <thead><tr><th class="th-q"></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th><th>G</th></tr></thead>
+        <tbody id="body1418"></tbody>
+      </table>
+    </div>
+
+    <hr class="sep">
+
+    <!-- Q19–23 Matching Names -->
+    <div class="sec-hdr">Questions 19–23</div>
+    <div class="sec-inst">Choose the correct person. You may choose any person more than once.</div>
+    <div class="grid-outer">
+      <table class="grid-tbl">
+        <colgroup><col><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"><col style="width:42px"></colgroup>
+        <thead><tr><th class="th-q"></th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th><th>F</th></tr></thead>
+        <tbody id="body1923"></tbody>
+      </table>
+    </div>
+    <div class="researchers">
+      <div class="researchers-hdr">List of People</div>
+      <div class="res-row"><div class="res-ltr">A</div><div class="res-name">Professor Mark Elgar</div></div>
+      <div class="res-row"><div class="res-ltr">B</div><div class="res-name">Paul Zborowski</div></div>
+      <div class="res-row"><div class="res-ltr">C</div><div class="res-name">Professor Gisela Kaplan</div></div>
+      <div class="res-row"><div class="res-ltr">D</div><div class="res-name">Dr Karen Cheney</div></div>
+      <div class="res-row"><div class="res-ltr">E</div><div class="res-name">Henry Bates</div></div>
+      <div class="res-row"><div class="res-ltr">F</div><div class="res-name">Martyn Robinson</div></div>
+    </div>
+
+    <hr class="sep">
+
+    <!-- Q24–26 Summary Completion -->
+    <p class="summ-sec-hdr">Questions 24–26</p>
+    <p class="summ-instruction">Complete the summary. Write <strong>ONE WORD ONLY</strong> from the text for each answer.</p>
+    <p class="summ-title">The bluestriped fangblenny</p>
+    <p class="summ-body">
+      Dr Karen Cheney studies the bluestriped fangblenny on
+      <span class="ans-wrap"><span class="ans-shadow" id="shadow24" aria-hidden="true"></span><label for="i24"><input id="i24" autocomplete="off" maxlength="500" spellcheck="false" size="15" type="text" placeholder="24" aria-label="Insert answer" tabindex="0" value="" style="max-width:100%;width:170px;"></label></span>
+      off Queensland's coast. She found that the fangblenny was able to make itself resemble other fish by adjusting its colouration. The fangblenny impersonates the striped cleaner wrasse, a fish that is welcomed by other species as it gets rid of their
+      <span class="ans-wrap"><span class="ans-shadow" id="shadow25" aria-hidden="true"></span><label for="i25"><input id="i25" autocomplete="off" maxlength="500" spellcheck="false" size="15" type="text" placeholder="25" aria-label="Insert answer" tabindex="0" value="" style="max-width:100%;width:170px;"></label></span>.
+      The fangblenny can approach its
+      <span class="ans-wrap"><span class="ans-shadow" id="shadow26" aria-hidden="true"></span><label for="i26"><input id="i26" autocomplete="off" maxlength="500" spellcheck="false" size="15" type="text" placeholder="26" aria-label="Insert answer" tabindex="0" value="" style="max-width:100%;width:170px;"></label></span>
+      without drawing the attention of predators or disturbing the work of the striped cleaner wrasse.
+    </p>
+
+  </div><!-- /qpanel -->
+</div><!-- /main -->
+
+<!-- POPUPS -->
+<div id="selection-popup">
+  <button class="sel-btn" id="sel-note-btn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>Note</button>
+  <div class="sel-divider"></div>
+  <button class="sel-btn" id="sel-highlight-btn"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"><line x1="12" y1="3" x2="12" y2="15"/><path d="M5 7l7-4 7 4"/><line x1="5" y1="19" x2="19" y2="19"/></svg>Highlight</button>
+  <div class="sel-divider" id="sel-div-extra" style="display:none;"></div>
+  <button class="sel-btn" id="sel-clear-hl-btn" style="display:none;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Clear</button>
+  <button class="sel-btn" id="sel-clear-all-btn" style="display:none;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"><polyline points="3 6 5 6 21 6"/><path d="M19 6l-1 14H6L5 6"/></svg>Clear All</button>
+  <button class="sel-btn" id="sel-clear-note-btn" style="display:none;"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>Clear Note</button>
+</div>
+<div id="context-menu"></div>
+<div id="note-panel">
+  <div class="note-panel-header"><span>Ans</span><button class="note-close-btn" id="note-close-btn">✕</button></div>
+  <textarea id="note-textarea" placeholder="Type your note here..."></textarea>
+  <button class="note-save-btn" id="note-save-btn">Save</button>
+</div>
+
+<!-- BOTTOM BAR -->
+<div class="bottom-bar">
+  <div class="bb-top-row">
+
+    <!-- Part 1: inactive -->
+    <div class="bb-part" id="bbpart1">
+      <div class="bb-numbers-row">
+        <button role="tab" class="footer__questionNo" id="bb-partbtn-1" tabindex="-1">
+          <span><span class="bb-part-tick" id="tick1">✓ </span><span class="section-prefix">Part </span><span class="sectionNr">1</span></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Part 2: active -->
+    <div class="bb-part bb-active-part" id="bbpart2">
+      <div class="bb-numbers-row" id="bb-numbers-2">
+        <button role="tab" class="footer__questionNo" id="bb-partbtn-2" tabindex="-1">
+          <span><span class="bb-part-tick" id="tick2">✓ </span><span class="section-prefix">Part </span><span class="sectionNr">2</span></span>
+        </button>
+        <div class="footer__subquestionWrapper" id="bb-dots"></div>
+      </div>
+    </div>
+
+    <!-- Part 3: inactive -->
+    <div class="bb-part" id="bbpart3">
+      <div class="bb-numbers-row">
+        <button role="tab" class="footer__questionNo" id="bb-partbtn-3" tabindex="-1">
+          <span><span class="bb-part-tick" id="tick3">✓ </span><span class="section-prefix">Part </span><span class="sectionNr">3</span></span>
+        </button>
+      </div>
+    </div>
+
+  </div><!-- /bb-top-row -->
+
+  <!-- Row 2: Inspera + system icons -->
+  <div class="bb-bottom-row">
+    <div class="bb-inspera">
+      <div class="bb-inspera-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+            <circle cx="1.5"  cy="8.7" r="1.0"  fill="white"/>
+            <circle cx="6.7"  cy="5.9" r="1.25" fill="white"/>
+            <circle cx="13.9" cy="2.1" r="1.6"  fill="white"/>
+          </svg>
+        </div>
+      <span><strong>Inspera</strong> assessment</span>
+    </div>
+    <div class="bb-sys-icons">
+      <span id="timer">--:--</span>
+      <span id="battery-icon">
+        <svg viewBox="0 0 30 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect x="1" y="2" width="24" height="14" rx="2" stroke="#111" stroke-width="1.8" fill="none"/>
+          <path d="M25 7v4" stroke="#111" stroke-width="2" stroke-linecap="round"/>
+          <rect id="bat-fill" x="3" y="4" width="18" height="10" rx="1" fill="#4CAF50"/>
+          <path id="bat-bolt" d="M14 3 L10 9.5 L14 9.5 L10 15" stroke="#fff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" display="none"/>
+        </svg>
+      </span>
+      <div class="bb-icon-box">
+        <svg viewBox="0 0 24 24" stroke="#111" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M1.42 9a16 16 0 0121.16 0"/><path d="M5 12.55a11 11 0 0114.08 0"/>
+          <path d="M8.53 16.11a6 6 0 016.95 0"/><circle cx="12" cy="20" r="1" fill="#111" stroke="none"/>
+        </svg>
+      </div>
+      <div class="bb-icon-box">
+        <svg viewBox="0 0 24 24" stroke="#111" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" fill="#111" stroke="none"/>
+          <path d="M15.54 8.46a5 5 0 010 7.07"/><path d="M19.07 4.93a10 10 0 010 14.14"/>
+        </svg>
+      </div>
+      <div class="bb-icon-box bb-exit-box">Exit</div>
+    </div>
+  </div>
+</div>
+
+<!-- NAV ARROWS -->
+<div class="nav-arrows">
+  <button class="nav-btn nav-prev" disabled>
+    <svg viewBox="0 0 24 24"><line x1="19" y1="12" x2="6" y2="12"/><polyline points="11 7 6 12 11 17"/></svg>
+  </button>
+  <button class="nav-btn nav-next">
+    <svg viewBox="0 0 24 24"><line x1="5" y1="12" x2="18" y2="12"/><polyline points="13 7 18 12 13 17"/></svg>
+  </button>
+</div>
+
+<script>
+const Q1418=[
+  {n:14,t:"a species that indicates to its young to move to a place where they are less visible"},
+  {n:15,t:"an instance where sound is used to help an animal escape"},
+  {n:16,t:"a creature that can use camouflage to match a range of different backgrounds"},
+  {n:17,t:"a claim that the majority of animals disguise themselves in some way"},
+  {n:18,t:"examples of animals that use camouflage to look like plants"},
+];
+const Q1923=[
+  {n:19,t:"one species has a camouflage tactic that is not present from birth."},
+  {n:20,t:"species that live in an ancient environment have become very effective at camouflaging themselves."},
+  {n:21,t:"part of an animal is left behind to distract predators."},
+  {n:22,t:"if it takes too long to find one kind of prey, animals will look for an alternative source of food."},
+  {n:23,t:"camouflage can involve copying a threatening type of animal."},
+];
+const ALL_Q=[14,15,16,17,18,19,20,21,22,23,24,25,26];
+let activeQ=null;
+const answered=new Set();
+
+// ── Build question rows ──────────────────────────────────────────
+function makeRow(q,letters){
+  const tr=document.createElement('tr');
+  const tdQ=document.createElement('td');tdQ.className='td-q';
+  const inner=document.createElement('div');inner.className='td-q-inner';
+  const sp=document.createElement('span');sp.className='qnum';sp.id='qbox'+q.n;sp.textContent=q.n;
+  sp.addEventListener('click',()=>setActive(q.n));
+  const txt=document.createElement('span');txt.className='q-text-inner';txt.textContent=q.t;
+  inner.appendChild(sp);inner.appendChild(txt);tdQ.appendChild(inner);tr.appendChild(tdQ);
+  tr.addEventListener('mouseenter',()=>{
+    if(!sp.classList.contains('active')&&!answered.has(q.n))sp.classList.add('hover');
+    // sync bottom bar hover
+    const dot=document.getElementById('dot'+q.n);
+    if(dot&&!answered.has(q.n))dot.classList.add('active');
+  });
+  tr.addEventListener('mouseleave',()=>{
+    sp.classList.remove('hover');
+    const dot=document.getElementById('dot'+q.n);
+    if(dot&&activeQ!==q.n)dot.classList.remove('active');
+  });
+  letters.forEach(l=>{
+    const td=document.createElement('td');td.className='td-r';
+    const lbl=document.createElement('label');lbl.className='radio-lbl';
+    const r=document.createElement('input');r.type='radio';r.name='q'+q.n;r.value=l;
+    r.addEventListener('click',function(){
+      document.querySelectorAll(`input[name="q${q.n}"]`).forEach(rb=>rb.dataset.wasChecked='false');
+      this.dataset.wasChecked='true'; onAnswer(q.n);
+    });
+    const c=document.createElement('span');c.className='radio-circ';
+    lbl.appendChild(r);lbl.appendChild(c);td.appendChild(lbl);tr.appendChild(td);
+  });
+  return tr;
+}
+document.getElementById('body1418').append(...Q1418.map(q=>makeRow(q,['A','B','C','D','E','F','G'])));
+document.getElementById('body1923').append(...Q1923.map(q=>makeRow(q,['A','B','C','D','E','F'])));
+
+// ── Build bottom bar question items for Part 2 ──────────────────
+const dotsEl = document.getElementById('bb-dots');
+
+ALL_Q.forEach(n => {
+  const btn = document.createElement('button');
+  btn.className = 'subQuestion scorable-item';
+  btn.id = 'dot' + n;
+  btn.dataset.ordernumber = n;
+  btn.tabIndex = 0;
+
+  const sr = document.createElement('span'); sr.className = 'sr-only'; sr.textContent = 'Question ' + n;
+  const numEl = document.createElement('div'); numEl.className = 'bb-q-num'; numEl.textContent = n;
+  const statusSr = document.createElement('span'); statusSr.className = 'sr-only'; statusSr.textContent = 'Not attempted';
+
+  btn.appendChild(sr);
+  btn.appendChild(numEl);
+  btn.appendChild(statusSr);
+  btn.addEventListener('click', () => setActive(n));
+  dotsEl.appendChild(btn);
+});
+
+// ── setActive / onAnswer ─────────────────────────────────────────
+function setActive(n) {
+  if (activeQ !== null) {
+    document.getElementById('qbox' + activeQ)?.classList.remove('active');
+    const od = document.getElementById('dot' + activeQ);
+    if (od && !answered.has(activeQ)) od.classList.remove('active');
+  }
+  activeQ = n;
+  document.getElementById('qbox' + n)?.classList.add('active');
+  const nd = document.getElementById('dot' + n);
+  if (nd && !answered.has(n)) nd.classList.add('active');
+  // Sync bottom bar dot active state
+  document.querySelectorAll('.subQuestion.scorable-item').forEach(b => b.classList.remove('active'));
+  const dotEl = document.getElementById('dot' + n);
+  if (dotEl) dotEl.classList.add('active');
+}
+
+function onAnswer(n) {
+  answered.add(n);
+  document.getElementById('qbox' + n)?.classList.remove('active');
+  const dot = document.getElementById('dot' + n);
+  if (dot) { dot.classList.remove('active'); dot.classList.add('answered'); }
+  if (activeQ === n) { activeQ = null; const next = ALL_Q.find(x => !answered.has(x)); if (next) setActive(next); }
+  checkPartComplete();
+}
+
+function checkPartComplete() {
+  const allDone = ALL_Q.every(n => answered.has(n));
+  const partBtn = document.getElementById('bb-partbtn-2');
+  const tick = document.getElementById('tick2');
+  if (allDone) {
+    if (partBtn) partBtn.classList.add('complete');
+    ALL_Q.forEach(n => document.getElementById('dot' + n)?.classList.add('complete'));
+    if (tick) tick.classList.add('show');
+  } else {
+    if (partBtn) partBtn.classList.remove('complete');
+    ALL_Q.forEach(n => document.getElementById('dot' + n)?.classList.remove('complete'));
+    if (tick) tick.classList.remove('show');
+  }
+}
+
+// ── Summary inputs ───────────────────────────────────────────────
+[24,25,26].forEach(n=>{
+  const input=document.getElementById('i'+n);
+  const shadow=document.getElementById('shadow'+n);
+  function syncWidth(){
+    const cs=window.getComputedStyle(input);
+    shadow.style.fontFamily=cs.fontFamily;shadow.style.fontSize=cs.fontSize;
+    shadow.style.fontWeight=cs.fontWeight;shadow.style.paddingLeft=cs.paddingLeft;shadow.style.paddingRight=cs.paddingRight;
+    shadow.textContent=input.value||input.placeholder;
+    const minW=parseFloat(cs.minWidth)||120;
+    input.style.width=Math.max(minW,shadow.offsetWidth+4)+'px';
+  }
+  syncWidth();
+  input.addEventListener('input',function(){
+    syncWidth();
+    if(this.value.trim())onAnswer(n);
+    else{answered.delete(n);const dot=document.getElementById('dot'+n);if(dot){dot.classList.remove('answered');dot.classList.remove('complete');}checkPartComplete();}
+  });
+  input.addEventListener('focus',()=>input.classList.add('active'));
+  input.addEventListener('blur',()=>input.classList.remove('active'));
+  window.addEventListener('resize',syncWidth);
+});
+
+// ── Battery Status API ───────────────────────────────────────────
+function updateBattery(battery) {
+  const fill = document.getElementById('bat-fill');
+  const bolt = document.getElementById('bat-bolt');
+  if (!fill) return;
+  const pct = battery.level; // 0.0 – 1.0
+  const maxW = 18;
+  fill.setAttribute('width', Math.max(1, Math.round(pct * maxW)));
+  // Color: green >50%, orange 20-50%, red <20%
+  fill.setAttribute('fill', pct > 0.5 ? '#4CAF50' : pct > 0.2 ? '#FF9800' : '#f44336');
+  // Show bolt when charging
+  bolt.setAttribute('display', battery.charging ? 'inline' : 'none');
+}
+if ('getBattery' in navigator) {
+  navigator.getBattery().then(battery => {
+    updateBattery(battery);
+    battery.addEventListener('chargingchange',  () => updateBattery(battery));
+    battery.addEventListener('levelchange',      () => updateBattery(battery));
+  }).catch(() => {});
+}
+
+// ── Arrow navigation (prev/next question) ───────────────────────
+const prevBtn = document.querySelector('.nav-prev');
+const nextBtn = document.querySelector('.nav-next');
+
+function updateNavButtons() {
+  const idx = activeQ !== null ? ALL_Q.indexOf(activeQ) : -1;
+  prevBtn.disabled = (idx <= 0);
+  nextBtn.disabled = (idx >= ALL_Q.length - 1);
+}
+
+function navigateTo(n) {
+  setActive(n);
+  // Scroll question into view in qpanel
+  const qbox = document.getElementById('qbox' + n);
+  if (qbox) qbox.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  updateNavButtons();
+}
+
+prevBtn.addEventListener('click', () => {
+  const idx = activeQ !== null ? ALL_Q.indexOf(activeQ) : ALL_Q.length;
+  if (idx > 0) navigateTo(ALL_Q[idx - 1]);
+});
+
+nextBtn.addEventListener('click', () => {
+  const idx = activeQ !== null ? ALL_Q.indexOf(activeQ) : -1;
+  if (idx < ALL_Q.length - 1) navigateTo(ALL_Q[idx + 1]);
+});
+
+// Initialize: go to first question
+navigateTo(ALL_Q[0]);
+
+// ── Real-time clock ──────────────────────────────────────────────
+const te=document.getElementById('timer');
+function updateClock(){const now=new Date();te.textContent=String(now.getHours()).padStart(2,'0')+':'+String(now.getMinutes()).padStart(2,'0');}
+updateClock();setInterval(updateClock,1000);
+
+// ── Responsive divider ───────────────────────────────────────────
+const divEl=document.getElementById('divider'),passEl=document.getElementById('passage'),qpEl=document.getElementById('qpanel');
+let drag=false,splitRatio=null;
+function applyPercent(r){passEl.style.flex=r*100+' 1 0';passEl.style.width='';qpEl.style.flexBasis=(1-r)*100+'%';qpEl.style.flexShrink='1';qpEl.style.flexGrow='0';qpEl.style.width='';}
+divEl.addEventListener('mousedown',()=>{drag=true;document.body.style.cursor='col-resize';document.body.style.userSelect='none';});
+document.addEventListener('mousemove',e=>{if(!drag)return;const r=passEl.parentElement.getBoundingClientRect();const avail=r.width-divEl.offsetWidth;const ratio=Math.min(Math.max((e.clientX-r.left)/avail,0.15),0.85);splitRatio=ratio;applyPercent(ratio);});
+document.addEventListener('mouseup',()=>{drag=false;document.body.style.cursor='';document.body.style.userSelect='';});
+window.addEventListener('resize',()=>{if(splitRatio===null){passEl.style.flex='';passEl.style.width='';qpEl.style.flexBasis='';qpEl.style.flexShrink='';qpEl.style.flexGrow='';qpEl.style.width='';}});
+
+// ── Highlight & Note ─────────────────────────────────────────────
+const HL_COLORS=['#E91E8C','#8A4F7D'];
+const noteStore=new Map();let noteIdCounter=0,savedRange=null;
+function inAllowedArea(node){let el=node.nodeType===3?node.parentElement:node;while(el){if(el.classList&&el.classList.contains('qnum'))return false;if(el.id==='selection-popup'||el.id==='context-menu'||el.id==='note-panel')return false;if(el.classList&&(el.classList.contains('passage')||el.classList.contains('qpanel')))return true;el=el.parentElement;}return false;}
+function restoreSelection(){if(savedRange){const sel=window.getSelection();sel.removeAllRanges();sel.addRange(savedRange);}}
+document.addEventListener('mouseup',function(e){const inPopup=e.target.closest('#selection-popup,#context-menu,#note-panel');if(inPopup)return;const sel=window.getSelection();if(!sel||sel.isCollapsed||sel.toString().trim()===''){handleClickOnMarkup(e);return;}const range=sel.getRangeAt(0);if(!inAllowedArea(range.commonAncestorContainer)){hideAllPopups();return;}savedRange=range.cloneRange();showSelectionPopup(e.clientX,e.clientY,range);});
+function showSelectionPopup(x,y,range){hideAllPopups();const popup=document.getElementById('selection-popup');const frag=range.cloneContents();const hasHl=!!frag.querySelector('.hl');const hasNote=!!frag.querySelector('.note-anchor');document.getElementById('sel-clear-hl-btn').style.display=hasHl?'flex':'none';document.getElementById('sel-clear-all-btn').style.display=hasHl?'flex':'none';document.getElementById('sel-clear-note-btn').style.display=hasNote?'flex':'none';document.getElementById('sel-div-extra').style.display=(hasHl||hasNote)?'flex':'none';popup.style.left=Math.min(x,window.innerWidth-260)+'px';popup.style.top=Math.max(y-70,10)+'px';popup.style.display='flex';}
+function applyHighlight(){restoreSelection();const sel=window.getSelection();if(!sel||sel.isCollapsed)return;const range=sel.getRangeAt(0);const frag=range.cloneContents();const existing=frag.querySelectorAll('.hl');let maxLevel=-1;existing.forEach(el=>{const lvl=parseInt(el.dataset.hlLevel??'-1');if(lvl>maxLevel)maxLevel=lvl;});const nextLevel=Math.min(maxLevel+1,HL_COLORS.length-1);try{const span=document.createElement('span');span.className='hl hl-active-part';span.dataset.hlLevel=nextLevel;span.style.backgroundColor=HL_COLORS[nextLevel];range.surroundContents(span);}catch(err){try{const extracted=range.extractContents();const span=document.createElement('span');span.className='hl hl-active-part';span.dataset.hlLevel=nextLevel;span.style.backgroundColor=HL_COLORS[nextLevel];span.appendChild(extracted);range.insertNode(span);}catch(e2){}}sel.removeAllRanges();hideAllPopups();}
+function openNotePanel(x,y){hideAllPopups();const panel=document.getElementById('note-panel');panel.style.left=Math.min(x,window.innerWidth-210)+'px';panel.style.top=Math.min(y+10,window.innerHeight-180)+'px';panel.style.display='block';panel.dataset.editingNoteId='';document.getElementById('note-textarea').value='';document.getElementById('note-textarea').focus();}
+function saveNote(){const panel=document.getElementById('note-panel');const text=document.getElementById('note-textarea').value.trim();const editingId=panel.dataset.editingNoteId;if(editingId){noteStore.set(editingId,text);const icon=document.querySelector(`.note-icon[data-note-id="${editingId}"]`);if(icon)icon.title=text;if(!text)clearNoteById(editingId);panel.style.display='none';return;}if(!text||!savedRange){panel.style.display='none';return;}restoreSelection();const sel=window.getSelection();if(!sel||sel.isCollapsed){panel.style.display='none';return;}const range=sel.getRangeAt(0);const noteId='note-'+(++noteIdCounter);noteStore.set(noteId,text);try{const anchor=document.createElement('span');anchor.className='note-anchor hl-active-part';anchor.dataset.noteId=noteId;range.surroundContents(anchor);const icon=document.createElement('span');icon.className='note-icon';icon.dataset.noteId=noteId;icon.title=text;icon.innerHTML=`<svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>`;icon.addEventListener('click',e=>{e.stopPropagation();editNote(noteId,e.clientX,e.clientY);});anchor.appendChild(icon);}catch(err){}sel.removeAllRanges();panel.style.display='none';}
+function editNote(noteId,x,y){const panel=document.getElementById('note-panel');panel.style.left=Math.min(x,window.innerWidth-210)+'px';panel.style.top=Math.min(y+10,window.innerHeight-180)+'px';panel.style.display='block';panel.dataset.editingNoteId=noteId;document.getElementById('note-textarea').value=noteStore.get(noteId)||'';document.getElementById('note-textarea').focus();}
+function handleClickOnMarkup(e){const hlEl=e.target.closest('.hl');const noteEl=e.target.closest('.note-anchor');const iconEl=e.target.closest('.note-icon');if(!hlEl&&!noteEl&&!iconEl){hideAllPopups();return;}const options=[];if(hlEl){options.push({label:'Clear Highlight',fn:()=>clearHighlight(hlEl)});options.push({label:'Clear all Highlights',fn:()=>clearAllHighlights()});}const noteAnchor=noteEl||(iconEl?iconEl.closest('.note-anchor'):null);if(noteAnchor){const nid=noteAnchor.dataset.noteId;options.push({label:'Clear Note',fn:()=>clearNoteById(nid)});}if(options.length)showContextMenu(e.clientX,e.clientY,options);}
+function clearHighlight(span){const p=span.parentNode;while(span.firstChild)p.insertBefore(span.firstChild,span);p.removeChild(span);p.normalize();hideAllPopups();}
+function clearAllHighlights(){document.querySelectorAll('.hl-active-part').forEach(span=>{if(span.classList.contains('note-anchor')){span.classList.remove('hl-active-part');return;}const p=span.parentNode;while(span.firstChild)p.insertBefore(span.firstChild,span);p.removeChild(span);p.normalize();});hideAllPopups();}
+function clearNoteById(noteId){noteStore.delete(noteId);const icon=document.querySelector(`.note-icon[data-note-id="${noteId}"]`);if(icon)icon.remove();const anchor=document.querySelector(`.note-anchor[data-note-id="${noteId}"]`);if(anchor){const p=anchor.parentNode;while(anchor.firstChild)p.insertBefore(anchor.firstChild,anchor);p.removeChild(anchor);p.normalize();}hideAllPopups();}
+function showContextMenu(x,y,options){hideAllPopups();const menu=document.getElementById('context-menu');menu.innerHTML='';options.forEach(opt=>{const btn=document.createElement('button');btn.className='ctx-btn';btn.textContent=opt.label;btn.addEventListener('click',()=>opt.fn());menu.appendChild(btn);});menu.style.left=Math.min(x,window.innerWidth-190)+'px';menu.style.top=Math.min(y+5,window.innerHeight-160)+'px';menu.style.display='block';}
+function hideAllPopups(){document.getElementById('selection-popup').style.display='none';document.getElementById('context-menu').style.display='none';}
+document.getElementById('sel-highlight-btn').addEventListener('click',()=>applyHighlight());
+document.getElementById('sel-note-btn').addEventListener('click',()=>{const popup=document.getElementById('selection-popup');popup.style.display='none';openNotePanel(parseFloat(popup.style.left),parseFloat(popup.style.top)+80);});
+document.getElementById('sel-clear-hl-btn').addEventListener('click',()=>{restoreSelection();const sel=window.getSelection();if(sel&&!sel.isCollapsed){const range=sel.getRangeAt(0);const container=range.commonAncestorContainer.nodeType===3?range.commonAncestorContainer.parentElement:range.commonAncestorContainer;container.querySelectorAll('.hl').forEach(hl=>{if(range.intersectsNode(hl))clearHighlight(hl);});}hideAllPopups();});
+document.getElementById('sel-clear-all-btn').addEventListener('click',()=>clearAllHighlights());
+document.getElementById('sel-clear-note-btn').addEventListener('click',()=>{restoreSelection();const sel=window.getSelection();if(sel&&!sel.isCollapsed){const range=sel.getRangeAt(0);const container=range.commonAncestorContainer.nodeType===3?range.commonAncestorContainer.parentElement:range.commonAncestorContainer;container.querySelectorAll('.note-anchor').forEach(a=>{if(range.intersectsNode(a))clearNoteById(a.dataset.noteId);});}hideAllPopups();});
+document.getElementById('note-save-btn').addEventListener('click',saveNote);
+document.getElementById('note-close-btn').addEventListener('click',()=>{document.getElementById('note-panel').style.display='none';});
+document.addEventListener('mousedown',function(e){const inAny=e.target.closest('#selection-popup,#context-menu,#note-panel');if(!inAny){document.getElementById('selection-popup').style.display='none';document.getElementById('context-menu').style.display='none';}});
+</script>
+<script id="site-footer-behavior">
+(()=>{
+const part=document.querySelector('.bb-active-part'),row=part.parentElement;
+part.dataset.part='2';
+row.querySelectorAll('.bb-part:not(.bb-active-part)').forEach(p=>{const n=p.id.endsWith('3')?3:1;p.innerHTML='<div class="bb-inactive-view"><span class="bb-inactive-label">Part '+n+'</span><span class="bb-inactive-progress">0 of '+(n===3?14:13)+'</span></div>'});
+part.querySelector('.footer__questionNo').classList.add('exam-part-label');
+const strip=document.createElement('div');strip.className='exam-part-progress';strip.setAttribute('aria-hidden','true');
+ALL_Q.forEach(n=>{const seg=document.createElement('span');seg.dataset.progressQ=n;strip.append(seg)});part.prepend(strip);
+function paintFooter(){strip.querySelectorAll('span').forEach(s=>s.classList.toggle('done',answered.has(Number(s.dataset.progressQ))));ALL_Q.forEach(n=>{const d=document.getElementById('dot'+n);if(d.classList.contains('video-current')!==(n===activeQ))d.classList.toggle('video-current',n===activeQ)})}
+new MutationObserver(paintFooter).observe(document.getElementById('bb-dots'),{subtree:true,attributes:true,attributeFilter:['class']});
+const submit=document.createElement('button');submit.className='exam-submit';submit.type='button';submit.textContent='✓';submit.setAttribute('aria-label','Kết thúc bài');submit.onclick=()=>window.finishCamouflage();row.append(submit);paintFooter();
+})();
+</script>
+<a href="../index.html" style="position:fixed;top:8px;right:16px;z-index:99999;background:white;color:#7451b8;padding:8px 12px;border:1px solid #ddd;border-radius:6px;font:14px Arial;text-decoration:none">Tủ Sách IELTS</a>
+<script id="camouflage-practice">
+(()=>{
+ const key='reading-p2-australias-camouflaged-creatures',panel=document.getElementById('qpanel');let finished=false;
+ function values(){return ALL_Q.map(n=>n<24?(document.querySelector('input[name=q'+n+']:checked')?.value||''):(document.getElementById('i'+n)?.value.trim()||''))}
+ function save(){if(finished)return;const v=values();answered.clear();v.forEach((value,i)=>{if(value)answered.add(ALL_Q[i]);document.getElementById('dot'+ALL_Q[i])?.classList.toggle('answered',!!value)});localStorage.setItem(key+'-draft',JSON.stringify(v))}
+ panel.addEventListener('input',save);panel.addEventListener('change',save);
+ document.querySelectorAll('input[type=radio]').forEach(input=>input.addEventListener('click',save));
+ let draft;try{draft=JSON.parse(localStorage.getItem(key+'-draft')||'null')}catch{}
+ if(draft?.some(Boolean)&&confirm('Bạn có bài đang làm dở. Tiếp tục bài này?')){draft.forEach((value,i)=>{const n=ALL_Q[i];if(n<24){const input=[...document.querySelectorAll('input[name=q'+n+']')].find(x=>x.value===value);if(input)input.checked=true}else if(document.getElementById('i'+n))document.getElementById('i'+n).value=value});save()}
+ window.finishCamouflage=()=>{if(finished||!confirm('Kết thúc bài để xem lại các câu đã trả lời?'))return;const v=values();finished=true;document.querySelectorAll('#qpanel input').forEach(i=>i.disabled=true);const result=document.createElement('div');result.id='camouflage-result';result.style.cssText='padding:18px 0;font:16px/1.6 Arial';const header=document.createElement('p');header.textContent='Đã kết thúc bài. Đã trả lời '+v.filter(Boolean).length+'/13 câu.';result.append(header);const people=[...document.querySelectorAll('.res-row')].map(row=>({letter:row.querySelector('.res-ltr').textContent.trim(),name:row.querySelector('.res-name').textContent}));v.forEach((value,i)=>{const n=ALL_Q[i],row=document.createElement('p');row.textContent=n+': '+(n>=19&&n<=23?people.find(p=>p.letter===value)?.name||'Chưa trả lời':value||'Chưa trả lời');result.append(row)});panel.append(result);let h=[];try{h=JSON.parse(localStorage.getItem(key+'-history')||'[]')}catch{}h.push({at:new Date().toISOString(),values:v,completed:v.filter(Boolean).length>5,mode:'practice'});localStorage.setItem(key+'-history',JSON.stringify(h));localStorage.removeItem(key+'-draft');document.querySelector('.exam-submit').disabled=true;result.scrollIntoView({block:'start'})};
+})();
+</script>
+<script src="../zoom-layout.js"></script>
+<script src="../question-template.js"></script>
+<script src="../exam-progress.js"></script></body>
+</html>

@@ -1,0 +1,1210 @@
+[
+  {
+    "job": "p3-200-years-of-australian-landscapes-at-the-royal-academy-in-london",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1a2kw03B9m8BQaLyOppIHJHE8oi7KHpDV",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages-chua-rep",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages-chua-rep.json",
+    "reasons": [
+      {
+        "sourceId": "18wR46ZRVIjbeeyPVSBI2D_XvpJlgz4h-",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-digital-cinema-of-the-mind",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vkIFyNJyr7jCEvUev6KpkthUr7oNT_bY",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-history-of-pirates",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "124ryZBuHyMJly3KutVw8J1Ipx2cNyHWW",
+        "code": "paragraph-labels",
+        "message": "Missing or repeated paragraph labels"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-most-unusual-theatre",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "170r1Gt1jLmx8Qm03-0FqKGOItsANoAXD",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yOyUTMs6OmW3b8sB9inMZeiXclH6HEWa",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+      }
+    ]
+  },
+  {
+    "job": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ebEPnSLyckB_iOKhtn2Odd9W3_vcq-vC",
+        "code": "word-limit",
+        "message": "Missing or unsupported source word/number limit"
+      }
+    ]
+  },
+  {
+    "job": "p3-ancient-rome-archaeologists-are-trying-to-understand-more-about-the-early-history-of-the-city",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-ancient-rome-archaeologists-are-trying-to-understand-more-about-the-early-history-of-the-city.json",
+    "reasons": [
+      {
+        "sourceId": "1gn1seup4DeJFbO1WGeu4y7ylE5efTFBp",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-animals-predicting-earthquakes-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-anthropology",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "duplicate-title: compare the source versions before choosing a lesson"
+      }
+    ]
+  },
+  {
+    "job": "p3-anthropology",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "duplicate-title: compare the source versions before choosing a lesson"
+      }
+    ]
+  },
+  {
+    "job": "p3-architecture-in-britain",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-art-based-training-for-engineers",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Q3dfDbGAMvltHoP8lKkRPXinYwtyATPV",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+      }
+    ]
+  },
+  {
+    "job": "p3-bright-sparks",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-brutalist-architecture",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1D14Vx8HJXXXQgA69mCKQYB0cX4-HXNDd",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-business-innovation",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1uLPTHzuqyaCss6dRZIjWjZwDwhBUAk4j",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-can-business-learn-from-computer-games",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1f7tCzDdN3bNEWTgFWEuaDavkScx0T7Da",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+      }
+    ]
+  },
+  {
+    "job": "p3-can-hurricanes-be-moderated-or-diverted",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-can-hurricanes-be-moderated-or-diverted.json",
+    "reasons": [
+      {
+        "sourceId": "1e1Vc2rHOUyr0RYEVbtttAkizqenNlcDO",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-case-study-cargill-dow-llc",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1VhbMxYR6RiW1VD9aO1jPuF-xSAdM_3Pv",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-disappearing-languages",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1X1XMmT2KoI69G1RpUsCL7bW2yOvy5pnH",
+        "code": "word-limit",
+        "message": "Missing or unsupported source word/number limit"
+      }
+    ]
+  },
+  {
+    "job": "p3-does-class-size-matter",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1T_3ZNL3DvaElZrId9egdkFHumtxHIhEP",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-global-warming-in-new-zealand",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-global-warming-in-new-zealand.json",
+    "reasons": [
+      {
+        "sourceId": "1MXxodvujXi8LtX5IJSPJLqiaGRV8hwy4",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-graffiti-in-new-york-city-chua-rep",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-graffiti-in-new-york-city-chua-rep.json",
+    "reasons": [
+      {
+        "sourceId": "1GPynUp-Zzmgty7vSLbX75_Ub8BfxdnFJ",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-green-roofs-blurred",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1gDNADGAdGGn-lmM2Qg80BbNb8Ll5eN3-",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-grimm-s-fairy-tales",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "duplicate-title: compare the source versions before choosing a lesson"
+      }
+    ]
+  },
+  {
+    "job": "p3-grimm-s-fairy-tales",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "code": "source-flag",
+        "message": "duplicate-title: compare the source versions before choosing a lesson"
+      }
+    ]
+  },
+  {
+    "job": "p3-group-behaviour",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "15Pb3QzntLNlXsNJdbzcnXayES2LeAM_E",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-can-we-make-good-decisions",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-how-can-we-make-good-decisions.json",
+    "reasons": [
+      {
+        "sourceId": "1Dx_MsmAMyXi-oVym7vLv3LK97RqNn0i8",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-did-music-begin",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-did-music-begin-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1g8qIl8Q8kUm9lLY_1-Cv85e8msLdBmya",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-scientists-see-science",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Si4JQtOwXAhtuX-jMwVMxe1fBq4Ym3pA",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-improving-nutrition-at-a-national-and-international-level-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1yJm50af3o3cllmYrV8-GrUl97Qu8Td94",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-improving-patient-safety",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Kmq-uOLaZWq9ihguoKFNjAAfrT2tzGLG",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-intelligence",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-intelligence.json",
+    "reasons": [
+      {
+        "sourceId": "1c-kiPQPU8v7uri46taai92rdxvnzSmI6",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-is-teleworking-sustainable",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1XSq15UVibeT0Xdogp_nAVJIB3wnjvNQM",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-learning-to-be-bilingual",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1kmgQnx99g4Idptu-jtWBoa8ucQ6rdZ_p",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-leatherback-turtles",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-leatherback-turtles.json",
+    "reasons": [
+      {
+        "sourceId": "1TggKvxNraRYaudATX2a6LZckwwTu1GLJ",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-let-s-all-be-friends-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1iBvDy0wg2iUm4nWtVqAifrxCEfKZm3yJ",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-linguistic-diversity",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1G_wpy6oN-ApBKbW8516jMAojRXcyWtRk",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+      }
+    ]
+  },
+  {
+    "job": "p3-literacy-and-rural-communities-in-australia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1puQJEa1YyROkJ-4ipVRb7Ld6bVAgN_M3",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-living-outside-the-box",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-living-outside-the-box.json",
+    "reasons": [
+      {
+        "sourceId": "1dCVF6UoF0j2F1NGf1zlG8SIQbXxC1s1j",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-making-your-mind-up",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-making-your-mind-up.json",
+    "reasons": [
+      {
+        "sourceId": "11I1agsOwzGQwcnKgvBjzgLggVM58Zoit",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-mark-strizic-the-career-of-an-australian-photographer",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1lp0ggZqLDqU4FfLWxn6kDl1IsooGFxEP",
+        "code": "word-limit",
+        "message": "Missing or unsupported source word/number limit"
+      }
+    ]
+  },
+  {
+    "job": "p3-mark-sumner-of-the-university-of-leeds-explains-the-challenges-facing-the-fashion-industry",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1sqc0_jzcDM6klasNR4XxuWTIfaxNiK4B",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-marketing-and-the-information-age",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "14zZqE0cHZxHok6pS3CT00Pz2d4B6QTg1",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p3-mercator-the-map-maker",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-mercator-the-map-maker.json",
+    "reasons": [
+      {
+        "sourceId": "1Sg36VGZGbjHQALQvF5ojxvCvR-dlb4sw",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-multitasking",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1HkYliPug_vb3TtZlHRnwQhIEKeMn1a_n",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-new-zealand-short-stories",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "12Z2ma1NkOIE4pNQuKqIZ5qKQO8-8XqND",
+        "code": "paragraph-labels",
+        "message": "Missing or repeated paragraph labels"
+      }
+    ]
+  },
+  {
+    "job": "p3-no-title-charles-darwin",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1YMNvrPerQzeiiG7WndTeWyn854yM_oOO",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-no-title-charles-darwin-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1dzXZRnA30hmj9YjcG_eYjysp3prwfZv4",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-personality-and-appearance",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-personality-and-appearance.json",
+    "reasons": [
+      {
+        "sourceId": "1IBggSVZWd-v1ZwBv7_3AlTreiB4zsqFO",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-planets-without-suns",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1XOtrU5FqCe0bHPte0FMxJEeavANQLoYP",
+        "code": "paragraph-labels",
+        "message": "Source paragraph range differs from extracted text"
+      }
+    ]
+  },
+  {
+    "job": "p3-psychological-responses-to-mirror-images",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1zD3JGOrNXZwkdshFbeHPqPql_7mJ9zN8",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-refraction",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1F9OCwBBr-3s_Fk7HIzIeU2N3IHiOrjp_",
+        "code": "gap-numbering",
+        "message": "Expected one control per source gap [36, 37, 38, 39, 40], found [33, 34, 35, 36, 37, 38, 39, 40]"
+      }
+    ]
+  },
+  {
+    "job": "p3-relish-the-flavour",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1baiEAjF9717DHMh73T3RYXEXIfvMDRPn",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-research-into-the-effects-of-different-teaching-styles",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1uvWuoXUD6xyZFxFibug5wFicetQXGkfd",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['C', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']"
+      }
+    ]
+  },
+  {
+    "job": "p3-san-francisco-museum-of-modern-art",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-san-francisco-museum-of-modern-art.json",
+    "reasons": [
+      {
+        "sourceId": "19ejmyjaG0ASFf42zBvGvXQGWqHxyHFWd",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-saving-languages",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+        "code": "heading-questions",
+        "message": "Heading paragraph mapping is ambiguous"
+      }
+    ]
+  },
+  {
+    "job": "p3-saving-the-skink",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1eSGP-CzyWTkkSITMWT9Rgx0Jsubhecna",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-science-and-filmmaking",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1PeJKgewRRKMFjRPVQszKklAo74EXmm-x",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+      }
+    ]
+  },
+  {
+    "job": "p3-science-and-knowledge",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'H', 'I', 'J', 'K']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+      }
+    ]
+  },
+  {
+    "job": "p3-science-in-the-kitchen",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1N2mF1b4FAc4sJG8uVx-mZTrax4lfgmEx",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-sir-francis-ronalds-1788-1873",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "10YwRvx5gJDX_aHiZnDzfjSrS8v33iGHW",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-speech-acts-and-philosophy",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-speech-acts-and-philosophy.json",
+    "reasons": [
+      {
+        "sourceId": "1mAe3IKF5uqrchhxyD-CUvHL_1s4JHRM3",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-take-back-your-time",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-take-back-your-time.json",
+    "reasons": [
+      {
+        "sourceId": "1kTekaPgGbwwj0j7cjqikJjsfLR3SgDcw",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-termite-mounds-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1-iQAexQHXof0A1JHHRBdPaAalewuRRUj",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-animal-connection-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-antikythera-mechanism",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1uHLyFIo05UoL7-JQ-e14rKCwuTBMKvlo",
+        "code": "word-limit",
+        "message": "Missing or unsupported source word/number limit"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-benefits-of-learning-an-instrument",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1VXPrYIMfv5T5yiBSdLTX6jZG1DjBMaE7",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-booming-business-of-nation-branding-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1El-juHTWy7guFupjvCpx_EIMFYMf4u8r",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-contradiction-of-tourism",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-costs-of-brand-loyalty",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-dark-side-of-the-technological-boom",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-digital-revolution-in-studying-history",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1kwIrvTPuX49uFr5kQ2_UxNIMGdRE5YrJ",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['C', 'E', 'F', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-effectiveness-of-an-online-course",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-effectiveness-of-an-online-course.json",
+    "reasons": [
+      {
+        "sourceId": "1fOGuwg5094arDonz3IGsLOXinpN4r5sM",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-geography-of-taste-buds",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-hazards-of-multitasking",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1EPte8MBlC-Y9tqb7uQle0M4k7D0TFKjI",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-intuitive-geologists",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-intuitive-geologists.json",
+    "reasons": [
+      {
+        "sourceId": "1JKCXpGc0nH0cJazj7eocR-ulxevMCpFy",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-irish-elk",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1DRYgtcChdLIzR1K9pLukkW7jRhR7ra4K",
+        "code": "diagram-review",
+        "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-lost-animals-of-australia",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Wx7-So_wMdgra0BuDFU5AqojtZ6OD1Fi",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'A', 'B', 'C', 'D']; expected ['A', 'B', 'C', 'D']"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-mystery-of-easter-island",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-mystery-of-easter-island.json",
+    "reasons": [
+      {
+        "sourceId": "1_hPtpzvlglJN6kMqKY0Rp48BdrAC_QqW",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-process-of-invention",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-process-of-invention.json",
+    "reasons": [
+      {
+        "sourceId": "1qJXfcngF0zMw1u71_t35fX3VkXXwc5Tk",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-psychology-of-new-product-adoption",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-psychology-of-new-product-adoption.json",
+    "reasons": [
+      {
+        "sourceId": "1ZrZsMZrURozpVcjh9R926j92QgJpn5a8",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-watercraft-of-the-world",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-watercraft-of-the-world.json",
+    "reasons": [
+      {
+        "sourceId": "1tMxt5kEbsfSFD_Jrv0C-ePygdJxHRSRS",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-wooden-huts-of-antarctica",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1mAOdxqZYjdsEUBITObg0jm7tylMr7BbD",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-theory-or-practice",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-theory-or-practice.json",
+    "reasons": [
+      {
+        "sourceId": "1OZMvUGNUGVHEA4oEoSTLBzeu3ENqj7uM",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-there-s-no-place-like-home",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1fyxNTy1uN3-5O-H12VWWGj_FikKUq9AC",
+        "code": "question-numbering",
+        "message": "Passage 3 requires 14 unique source questions"
+      }
+    ]
+  },
+  {
+    "job": "p3-thinking-small-globalization-and-the-choice-of-technology",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1Wu5ejKHVG8bJmFbJfIRNTF6XhtHdWPTg",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-tick-tock-body-clock",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ok6Y2RMocJqSEXuBbeLcqvmzQushLxuz",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-toscanini-s-pursuit-of-perfection",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1GtZlgJCLwIg7-DCSpsipUx1r2ACckZLj",
+        "code": "word-limit",
+        "message": "Missing or unsupported source word/number limit"
+      }
+    ]
+  },
+  {
+    "job": "p3-translating-a-key-to-international-understanding",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1-tqH48ZSVvfNpetzfa9WqC7qASdzvch3",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p3-travel-writing",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-travel-writing.json",
+    "reasons": [
+      {
+        "sourceId": "13Tk35HxDsD5nW6Jg4-gNTpwjhttfHjUn",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-understanding-symbols",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-understanding-symbols.json",
+    "reasons": [
+      {
+        "sourceId": "1XYV4sLKmWi0UZ-Wk-1DlhTFzYdEmIfYk",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-count-as-knowledge",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1m4Ba57M5di09uIBzPmUbRCDMXSvACT81",
+        "code": "table-layout",
+        "message": "Merged table cells require reviewed layout"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-makes-you-happy",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-what-makes-you-happy.json",
+    "reasons": [
+      {
+        "sourceId": "11mSI4Ob6ISgemoCMYnI0yYAKDgQf38-a",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-who-looks-after-the-children-in-todays-britain",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-who-looks-after-the-children-in-todays-britain.json",
+    "reasons": [
+      {
+        "sourceId": "1bJ-0zDH7F3c5lm1qGBJxZRF9yz8hMvjq",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-why-good-food-tastes-good",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-why-good-food-tastes-good.json",
+    "reasons": [
+      {
+        "sourceId": "1uxMW5CAPtWkPftoil__T-Lh1DkcDhVEl",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-why-good-food-tastes-good-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1-PpC1iE-4MkgwIG8th3z22sbma61UUmP",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p3-why-societies-collapse",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-why-societies-collapse.json",
+    "reasons": [
+      {
+        "sourceId": "1SoouuM9oHOmIAp_qpCdBCOuzsubUy5Z4",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-yawning-chua-rep",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "13nrRbGxxHd1oLPP85uqujWAD3OPMUqZg",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p3-youth-homelessness",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "14QcHTJq9xbU5cKrMjPeCH5sL-EisHeMt",
+        "code": "option-bank",
+        "message": "Missing, duplicate or out-of-order option codes: ['C', 'E', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']"
+      }
+    ]
+  }
+]

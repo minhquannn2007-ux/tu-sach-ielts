@@ -1,0 +1,17 @@
+{
+  "job": "p2-australian-parrots",
+  "title": "Australian parrots",
+  "part": 2,
+  "fingerprint": "ac45ca11e2f117753597ec3989751634f7017c8eac9fe6b3ed7f0dbb6e3dff59",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1QiGe5kvFlj5J876DvneH1wLwxMvTghax",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

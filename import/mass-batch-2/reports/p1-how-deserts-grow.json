@@ -1,0 +1,17 @@
+{
+  "job": "p1-how-deserts-grow",
+  "title": "How deserts grow",
+  "part": 1,
+  "fingerprint": "9c16fb8e9dd51c4658252e21f1e9f222bf7891110353eb4602d63411cf68c843",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1pLaZxLfcZKm0Axcb6oxx1O4MJvmzoF9j",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.057
+}

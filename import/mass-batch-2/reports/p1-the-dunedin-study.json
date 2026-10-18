@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-dunedin-study",
+  "title": "The Dunedin Study",
+  "part": 1,
+  "fingerprint": "9e321c08e55c1eb383834a8d1506892cb1435103311f130d0569302b1c90c1cd",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1my-LjRBwm8fyvNuVkX5jKyCk_Fv92LfR",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-dunedin-study.json",
+  "lessonId": "p1-the-dunedin-study",
+  "sourceId": "1my-LjRBwm8fyvNuVkX5jKyCk_Fv92LfR",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "ff37658b1430aa1bf46f49bf6e5210b1ed776e7920df9d47a4ae7d4dd33d3f04",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.057
+}

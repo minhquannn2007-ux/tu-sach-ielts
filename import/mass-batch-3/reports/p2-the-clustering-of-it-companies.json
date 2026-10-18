@@ -1,0 +1,34 @@
+{
+  "job": "p2-the-clustering-of-it-companies",
+  "title": "The clustering of IT companies",
+  "part": 2,
+  "fingerprint": "c697c43be1ba218f0afad82f682b0cce8758bf6be499454f7adaab605086409f",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1cRPjwZ3TJGYhFhfSTeqjdAivKpEiWPT_",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-clustering-of-it-companies.json",
+  "lessonId": "p2-the-clustering-of-it-companies",
+  "sourceId": "1cRPjwZ3TJGYhFhfSTeqjdAivKpEiWPT_",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "b572324466cf9db676943594457e3039215fe08f11ddbe77afb397770e7a83ba",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.046
+}

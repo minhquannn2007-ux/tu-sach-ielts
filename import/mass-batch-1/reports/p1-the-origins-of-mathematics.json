@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-origins-of-mathematics",
+  "title": "The origins of mathematics",
+  "part": 1,
+  "fingerprint": "07715f08382a19594636691c92d1e483a1fe2ece45935d246fce9b0f47666e9e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "178JJ0-hhzbrr3PZgCBEAp88R10hvJx7R",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-origins-of-mathematics.json",
+  "lessonId": "p1-the-origins-of-mathematics",
+  "sourceId": "178JJ0-hhzbrr3PZgCBEAp88R10hvJx7R",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "439b8e4b3ff625b0a6a2b5fc8e3bba94031b073c3f23ac64a98a807fd5e8383a",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.073
+}

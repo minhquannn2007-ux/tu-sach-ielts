@@ -1,0 +1,34 @@
+{
+  "job": "p3-the-hazards-of-multitasking",
+  "title": "The hazards of multitasking",
+  "part": 3,
+  "fingerprint": "5d6de9ced94fa8dd00187cbac4ce0cc6671a9122ad15f279cd9ad8f26707328a",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1EPte8MBlC-Y9tqb7uQle0M4k7D0TFKjI",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-hazards-of-multitasking.json",
+  "lessonId": "p3-the-hazards-of-multitasking",
+  "sourceId": "1EPte8MBlC-Y9tqb7uQle0M4k7D0TFKjI",
+  "questionCount": 14,
+  "types": [
+    "matching-features",
+    "mc-one",
+    "summary-input",
+    "mc-one"
+  ],
+  "sourceHash": "59de8b92efc5a58bcfe21eb7b1e97c09059436f6f51265c59fe26e23bf41999d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-brief-history-of-canned-food",
+  "title": "A brief history of canned food",
+  "part": 1,
+  "fingerprint": "de9130f83bcae60ed559f5798bdce3b6b8150d8c4c667eca2488fcbcc88cf72e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1-rxVx8fzFh-XEf6lfCuKMCLwH4zXPSQr",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-brief-history-of-canned-food.json",
+  "lessonId": "p1-a-brief-history-of-canned-food",
+  "sourceId": "1-rxVx8fzFh-XEf6lfCuKMCLwH4zXPSQr",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "2121d66c7a136caca5dacad7fceed5fa15ef31cf9416ba4153590bb3a9515cb8",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.099
+}

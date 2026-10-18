@@ -1,0 +1,32 @@
+{
+  "job": "p1-review-of-research-on-the-effects-of-food-promotion-to-children",
+  "title": "Review of research on the effects of food promotion to children",
+  "part": 1,
+  "fingerprint": "44f4a23de543c8b970c0f055342251999a1fc0d4c5f00422ae73e2af3eb04d6a",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1KPm1OodFgo86geDBWymXEUeYDshmfU0V",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-review-of-research-on-the-effects-of-food-promotion-to-children.json",
+  "lessonId": "p1-review-of-research-on-the-effects-of-food-promotion-to-children",
+  "sourceId": "1KPm1OodFgo86geDBWymXEUeYDshmfU0V",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "ynng"
+  ],
+  "sourceHash": "27716811c4f7c97e36326b79d44f303e32fbfe5ac09bd038566911304584059b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.076
+}

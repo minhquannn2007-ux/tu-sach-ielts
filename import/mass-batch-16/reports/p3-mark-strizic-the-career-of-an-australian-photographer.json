@@ -1,0 +1,33 @@
+{
+  "job": "p3-mark-strizic-the-career-of-an-australian-photographer",
+  "title": "Mark Strizic - The career of an Australian photographer",
+  "part": 3,
+  "fingerprint": "66cec59e60583c83b48657f960b624c9350d7ac486c790d26b03d49d4c551027",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1lp0ggZqLDqU4FfLWxn6kDl1IsooGFxEP",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-mark-strizic-the-career-of-an-australian-photographer.json",
+  "lessonId": "p3-mark-strizic-the-career-of-an-australian-photographer",
+  "sourceId": "1lp0ggZqLDqU4FfLWxn6kDl1IsooGFxEP",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "35b53aa209b155c4fec099584a36b033592603a47d7569ff14bfa909ae4a2f05",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

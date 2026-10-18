@@ -1,0 +1,209 @@
+{
+  "id": "p2-why-we-cant-trust-maps",
+  "part": 2,
+  "title": "Why We Can’t Trust Maps?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The 18th-century Anglo-Irish writer Jonathan Swift once wrote a poem in which he made comments about cartographers – the people who make maps. Swift detailed some of the shortcomings of the maps produced by European explorers at that time. He wrote that in maps of Africa, for example, cartographers would ‘place elephants for want of towns’. His point being that European explorers only knew the coastal edges of Africa, and its interior could only be guessed. However, rather than just leave the middle of the continent blank, cartographers would instead draw things, such as elephants, that they thought might be found in what they considered exotic corners of the world."
+    },
+    {
+      "label": "B",
+      "text": "Present-day mapmaking does not seem to be influenced by the subjective views of individual nations, but is instead far more technical, and access to maps is no longer confined to members of the European elite. Maps like the one of Africa, that were drawn up by a small group of cartographers, symbolically reinforced European colonial powers’ sense of control over their mapped territories, but they didn’t convey much information. They would have been seen as factual and impartial at the time, but in retrospect, it is clear how ideologically driven they were. Today it may seem as if mapmaking is completely different."
+    },
+    {
+      "label": "C",
+      "text": "However, things may not have changed as much as one might assume. The world, in reality, may not look like we think it does. From as far back as Ptolemy, in the 2nd century Roman Empire, cartographers have known that drawing an accurate map of the world is basically impossible. The world is spherical, a map is flat, and there is no obvious way to get around this. Anyone who has tried flattening out the hollow peel of an orange will know that there are an infinite number of ways to do this. None of these ways is particularly satisfactory, and none of them results in a neat rectangle, which is the way the world is represented in maps."
+    },
+    {
+      "label": "D",
+      "text": "After many different shapes of world maps had been tried, one particular model gradually surpassed all the others to become the world map that is now ubiquitous on classroom walls, in books and even in online maps. For many people today, that projection – invented by the Flemish cartographer Gerardus Mercator in 1569 – is the world map. The main reason Mercator’s projection became so popular was because of its usefulness to navigators; in his map, straight lines represent lines of constant compass direction. However, in manipulating the world map to ensure this feature, the sizes of countries and continents become distorted. In particular, the whole southern hemisphere appears much smaller than it is in reality. For instance, in Mercator’s projection North America looks at least as big, if not slightly larger, than Africa, and Greenland also looks to be of a similar size to Africa. In reality North America can fit into Africa with a great deal of space left over. Greenland, meanwhile, is one-fourteenth the size of Africa."
+    },
+    {
+      "label": "E",
+      "text": "Now, thanks to new technologies and the vast amounts of data they allow us to access, it could be argued that we have entered a new era of cartography. At the heart of this optimism is the rise of global online search engines. However, Jerry Brotton, a historian who recently published a book on cartography, points out that all maps are of their time and serve certain purposes: Mercator wanted to make things easier for navigators, and colonialists wanted to plot the extents of their empires. Brotton believes that present-day online cartographers are driven by the interests of multinational organisations’ profitability. The revenue generated from selling publicity more than pays for the costs of producing the maps; it also dictates the amount of detail that will be shown on the maps. Brotton gives the example that some townships in developing countries are just blank spaces on some online maps, whereas the mapping of developed countries clearly shows where to buy a coffee or find a department store."
+    },
+    {
+      "label": "F",
+      "text": "What if the online data and programming ability was put in the hands of an agriculturist, or a nomadic goat herder from a developing country; the maps they would produce could well be completely different from the online maps we are used to today. They might well rank soil types over coffee outlets, water wells over department stores, and the state of land degradation over panoramic street views of Western cities. This theory can never be tried however, because it seems that, as has always been the case, it is still just a small group of individuals with specific views of the world who have the resources to map it."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-vii, in boxes 14-19 on your answer sheet.",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "paragraph": 0
+        },
+        {
+          "n": 15,
+          "paragraph": 1
+        },
+        {
+          "n": 16,
+          "paragraph": 2
+        },
+        {
+          "n": 17,
+          "paragraph": 3
+        },
+        {
+          "n": 18,
+          "paragraph": 4
+        },
+        {
+          "n": 19,
+          "paragraph": 5
+        }
+      ],
+      "type": "matching-headings",
+      "bank": [
+        {
+          "value": "i",
+          "text": "An inaccurately proportioned world map"
+        },
+        {
+          "value": "ii",
+          "text": "The northern hemisphere is mapped first"
+        },
+        {
+          "value": "iii",
+          "text": "A problem cartographers have always faced"
+        },
+        {
+          "value": "iv",
+          "text": "Commercial concerns are changing mapmaking"
+        },
+        {
+          "value": "v",
+          "text": "An apparent shift towards more objective and scientific maps"
+        },
+        {
+          "value": "vi",
+          "text": "An imaginary situation which would result in different online maps"
+        },
+        {
+          "value": "vii",
+          "text": "The limitations of mapmaking highlighted by a literary figure"
+        }
+      ],
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 20 and 21 Choose TWO letters, A-E Write the correct letters in boxes 20 and 21 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "numbers": [
+        20,
+        21
+      ],
+      "prompt": "Which TWO of the following statements reflect Jerry Brotton’s claims about maps?",
+      "options": [
+        {
+          "value": "A",
+          "text": "Traditional maps are better than online maps."
+        },
+        {
+          "value": "B",
+          "text": "Richer nations are better represented in online maps."
+        },
+        {
+          "value": "C",
+          "text": "Maps today contain too much detail."
+        },
+        {
+          "value": "D",
+          "text": "Maps should be adapted to meet the needs of individual users."
+        },
+        {
+          "value": "E",
+          "text": "Organisations that produce online maps make money from advertising."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 22 – 26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "Mapping the world",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Since the time of Ptolemy in the 2nd century AD, cartographers have always faced the difficulty of how to map the world, as it is impossible to represent accurately the {{22}} world as a flat map, which is normally in the shape of a {{23}} . Eventually, the projection of the world made by Gerardus Mercator became the accepted version. Its use of straight lines helped {{24}} , as they were assured of an unchanging compass reading along these lines. However, the lines actually made this map {{25}} . For example, the continent of Africa is actually much bigger than both North America and {{26}} , but in this map these each look to be more or less the same size as Africa."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1R3Z4o-lJ7y8AzwehVwIjgdZK_4wjYHYW",
+      "role": "passage-and-questions",
+      "sha256": "4a7f4d0a8a9a54393fd20208b3c8b6922c99bf7e2dd62595e5c528a429292214",
+      "name": "Why We Can’t Trust Maps.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-why-we-cant-trust-maps"
+  },
+  "displayParagraphLabels": false,
+  "subtitle": "Do maps show the world as it really is?",
+  "cover": {
+    "asset": "assets/batch-map-cover.jpg",
+    "alt": "Bản đồ cổ",
+    "credit": "The New York Public Library",
+    "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-4-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

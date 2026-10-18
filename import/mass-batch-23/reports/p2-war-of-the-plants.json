@@ -1,0 +1,17 @@
+{
+  "job": "p2-war-of-the-plants",
+  "title": "War of the Plants",
+  "part": 2,
+  "fingerprint": "263ab3d7b0a3b4611568835de756fbe03efe5e907e54724d61769b52393215e3",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1ATrLYNJqhmD-waVtG1A4xRB7zokxShZJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

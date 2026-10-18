@@ -1,0 +1,17 @@
+{
+  "job": "p2-biophilic-design",
+  "title": "Biophilic Design",
+  "part": 2,
+  "fingerprint": "78fd5536870caaff81c0a55091fdc601ed845eb59b2adad08c54a2bd5800b7d5",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1s31JHaCvxVhP6RFCdSBSanDAfkl1ucD7",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

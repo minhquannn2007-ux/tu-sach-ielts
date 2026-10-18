@@ -1,0 +1,199 @@
+{
+  "id": "p3-marine-diversity",
+  "part": 3,
+  "title": "Marine diversity",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "There is plenty of data to prove the importance of diversity on dry land. Until recently, however, there was little evidence that the same was the case in the oceans, which make up 90% of the biosphere, and on which a billion people rely for their livelihoods. In order to establish whether diversity matters in the sea, as well as on land, 11 marine biologists and three economists have spent the past three years crunching all the numbers they could lay their hands on. These ranged from the current United Nations Food and Agriculture Organization's database, to information hundreds of years old, gleaned from kitchen records and archaeology. The results of their comprehensive analysis have been published in a report in the journal Science."
+    },
+    {
+      "label": "B",
+      "text": "According to this report, marine biodiversity matters because it is variety per se that delivers services – such as maintaining water quality and processing nutrients – to humans, as well as the goods people reap from the sea. It also ensures these goods and services recover relatively rapidly after an accident or natural disturbance. The report is silent on exactly how biodiversity protects these things – merely showing that it does. Earlier work, though, has shown some possible mechanisms. One example from a study in Jamaica showed that continually removing algae-grazers from a reef allowed the algae to overwhelm the coral."
+    },
+    {
+      "label": "C",
+      "text": "The most recent study which is referred to in the report was led by Dr Boris Worm of Dalhousie University, in Halifax, Canada. Dr Worm divided the available material into four separate sets. He and his team of marine ecologists found the same results from different sets of data, in different types of marine ecosystems and at different scales. In the first set, the team re-examined 32 small-scale experiments in which researchers had altered the variety of sea life and recorded what happened. Overall, each of the six ecosystem processes examined – which included the maintenance of stability and the improvement of water quality – worked better when there were more species than when there were fewer. This is not as obvious as it may seem. Until now, some scientists have thought that many individuals of the same species with certain talents could perform specific tasks better than the same number of individuals from different species. For example, one type of seagrass may process nutrients more effectively than other types, so a bed devoted entirely to the talented seagrass might be expected to conduct the processing better than a mixed area. Dr Worm's research suggests this is not so."
+    },
+    {
+      "label": "D",
+      "text": "Secondly, Dr Worm considered a set of data about estuaries, areas where rivers meet the sea. Although marine extinctions are uncovered slowly on a global scale, local disappearances in estuaries are much more readily apparent. In the study, they collected long-term records from the last 2000 years from 12 coastal areas in Europe and North America, including information on the Roman elimination of the Dalmatian pelican from the Wadden Sea and the removal of the Atlantic sturgeon from Chesapeake Bay and Delaware Bay. Analysing this data revealed, for example, that estuaries and coastlines are less able to maintain water quality as the number of species falls. People desert the beaches, coastlines become more liable to flooding and blooms of algae are more likely to gain a footing."
+    },
+    {
+      "label": "E",
+      "text": "This theory regarding water quality was tested on a third set of data – records kept by the United Nations from 1950 to 2003 of the fish and invertebrates caught in large expanses of the ocean all around the world. This data makes up 83% of all records of all catches of fish over the past half-century. Dr Worm and his colleagues discovered that the more species an ocean region has, the more robustly it seems to cope with over-exploitation."
+    },
+    {
+      "label": "F",
+      "text": "The findings suggest that governments should rethink the way they try to control fisheries. Marine reserves are common in the tropics, but policymakers in temperate countries tend to focus on one species at a time to control numbers of that species caught. They might do better to spend more time thinking about ecosystems and less haggling over fishing quotas. Some governments claim to have already come round to the idea. In America, Britain and Canada, officials are considering how to redraft fisheries policy. Scientists hope that the move will push the inevitable compromise between their proposals and fishermen's aspirations closer to their view."
+    },
+    {
+      "label": "G",
+      "text": "Dr Worm's fourth analysis showed that the damage could be reversed. In it, he pooled data from areas where fishing had been banned, either because stocks had collapsed or because the space had been designated as a marine reserve. These included Georges Bank off the east coast of America and Canada, where disastrous overfishing for cod threatened to cause the collapse of stocks. On average, the number of species in the 44 sites increased by 23% after the ban. In the areas around the protected regions fishermen reported catching, on average, four times as many fish per trip as previously. The researchers also examined whether the recovery was sufficient to make the protected areas more resilient to storms and changes in temperature, but the results were not statistically significant. Dr Worm concludes that unless urgent measures are taken, commercial fish stocks will collapse completely by 2048. The date may be spuriously precise, but the danger is there."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 31 Reading Passage 3 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "mention of the area of the world covered by seas"
+        },
+        {
+          "n": 28,
+          "prompt": "a recommendation regarding future planning of an industry that is reliant on the sea"
+        },
+        {
+          "n": 29,
+          "prompt": "findings that contradict existing beliefs about marine life diversity"
+        },
+        {
+          "n": 30,
+          "prompt": "a reference to something that has not been stated in the new research"
+        },
+        {
+          "n": 31,
+          "prompt": "an effect of changes in marine life on human use of seaside areas"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 32 – 34 Choose THREE letters, A-G Write the correct letters in boxes 32-34 on your answer sheet",
+      "sourcePages": [
+        3
+      ],
+      "type": "mc-two",
+      "selectionCount": 3,
+      "numbers": [
+        32,
+        33,
+        34
+      ],
+      "prompt": "Which THREE of the following statements are true of the research led by Dr Worm?",
+      "options": [
+        {
+          "value": "A",
+          "text": "It relied on data produced specifically for the study."
+        },
+        {
+          "value": "B",
+          "text": "It produced consistent results from all sets of data that were analysed."
+        },
+        {
+          "value": "C",
+          "text": "The availability of research personnel limited the areas that could be studied."
+        },
+        {
+          "value": "D",
+          "text": "It found that the greater the number of species, the better it is for the marine ecology."
+        },
+        {
+          "value": "E",
+          "text": "It took into account historical data."
+        },
+        {
+          "value": "F",
+          "text": "It took considerable time for the researchers to obtain fish from all over the Globe for the study."
+        },
+        {
+          "value": "G",
+          "text": "Marine reserves were established in the tropics as a result."
+        }
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 35 – 40 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 35-40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "title": "The findings of Dr Worm's research",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Dr Worm's research has implications for governments who have the responsibility to manage {{35}} . More attention should be paid to {{36}} and biodiversity rather than to protecting particular species. In fact any agreement between fishermen and marine scientists is likely to be a {{37}} . Worm's fourth analysis demonstrated that restricting fishing in an area can allow any negative impacts from species loss to be {{38}} . But it is not clear whether an area that has been {{39}} is then less at risk from climate and weather alterations. If no action is taken, Dr Worm predicts that within 50 years there will be a total {{40}} of fish stocks."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "15Oh7N9LhYGVoKvU_yjFnKtXEbh4I9Yp8",
+      "role": "passage-and-questions",
+      "sha256": "8ec95c3ecf92b5a9bcd2142f01c71d07b3ac3740de7c1a983c840e02d292e434",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-marine-diversity"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Everybody knows that global fish stocks are heading for collapse. That is why governments try to limit the amount of fish taken out of the sea. But recent research suggests that the world is going about it in the wrong way – that fish stocks would fare better if efforts were made to protect entire ecosystems rather than individual species",
+  "cover": {
+    "asset": "assets/batch3-seaweed-cover.jpg",
+    "alt": "Rong biển",
+    "credit": "Kristin Hoel",
+    "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-14-2026-10-13",
+    "checks": [
+      "all source title subtitle and question pages inspected",
+      "source paragraph question option and completion text compared",
+      "source-selected answer count and paragraph scopes preserved",
+      "source note bullets/indents and reading subheadings checked",
+      "original Mungo folder renamed to actual full source title Controversies in Australian Prehistory"
+    ]
+  }
+}

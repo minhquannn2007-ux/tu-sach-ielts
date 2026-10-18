@@ -1,0 +1,17 @@
+{
+  "job": "p2-boring-buildings",
+  "title": "Boring buildings",
+  "part": 2,
+  "fingerprint": "0fa86417be0f56a90c1ca1278fa96d75d8b8490a1e57c9bc0644e8525b484729",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1ZOVjJNYvyDm3SRtBpTw2vwt0zFsrL9nK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

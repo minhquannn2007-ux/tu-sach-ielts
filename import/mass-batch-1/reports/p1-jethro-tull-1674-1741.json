@@ -1,0 +1,23 @@
+{
+  "job": "p1-jethro-tull-1674-1741",
+  "title": "Jethro Tull(1674-1741)",
+  "part": 1,
+  "fingerprint": "7f70e24670ca66ea1a541a03af42456f57988859792748d1f3af2dbc8bd62938",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1Lr5m4KNiTR4s27rICfKWmf3QzdJolLJ9",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1Lr5m4KNiTR4s27rICfKWmf3QzdJolLJ9.json",
+      "ocrConfidence": [
+        96.1,
+        94.2,
+        94.9
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.018
+}

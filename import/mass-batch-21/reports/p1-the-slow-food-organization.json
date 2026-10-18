@@ -1,0 +1,22 @@
+{
+  "job": "p1-the-slow-food-organization",
+  "title": "The Slow Food Organization",
+  "part": 1,
+  "fingerprint": "7667dc1d4c5514d712ce7e330cafdbdecdbe5e0dc7c99cab29568050c16c9981",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1HdU-qqI1rTRWcDVQsM8ZDrNQIZgFyF_h",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    },
+    {
+      "sourceId": "17NXHaZe8WlO4F8SLWahNh_tbSrqif32g",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.615
+}

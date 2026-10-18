@@ -1,0 +1,17 @@
+{
+  "job": "p1-forgotten-forests",
+  "title": "Forgotten forests",
+  "part": 1,
+  "fingerprint": "4c45940a66bddddc57df944f1ec76ff9495aba638e65d0b86a2f10aa11cd75ca",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1js_oi60gzAhCJt3o3kLy0z4zz9Tj_1av",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

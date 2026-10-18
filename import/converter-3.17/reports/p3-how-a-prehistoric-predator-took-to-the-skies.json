@@ -1,0 +1,22 @@
+{
+  "job": "p3-how-a-prehistoric-predator-took-to-the-skies",
+  "title": "How a prehistoric predator took to the skies",
+  "part": 3,
+  "fingerprint": "023cb21844e7760e4b697d003629fc81af04f0233bd30841fa0cbdfa063ef817",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "13sKLZV8rK-RkL498vmSDObpUfSCxeLkr",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1DU5wJyVnu0vRCGB-CamINl63XndDzSHG",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p2-how-well-do-people-concentrate",
+  "title": "How well do people concentrate?",
+  "part": 2,
+  "fingerprint": "29f60ce4aff99e6f26402470db0eea2cb3dd7554d669304c6e27d9fd11d881cc",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1jF2HSRjy1h_Wu79XlC6G4bX4o6WQ_8XC",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['E']; expected ['A', 'B', 'C', 'D', 'E']"
+    },
+    {
+      "sourceId": "1OM64LfJUk4xhGfPXdKjfnwhqmEPtHpVe",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.056
+}

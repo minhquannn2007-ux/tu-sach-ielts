@@ -1,0 +1,23 @@
+{
+  "job": "p1-the-last-man-who-knew-everything",
+  "title": "The last man who knew everything",
+  "part": 1,
+  "fingerprint": "dca562b5ff9a7ab4d04c9bf0199c19c7ce8e3c07d36bb6b7815169bb47644951",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1iGY22xfNJTGO0GZ18kQaYgJJME3_tAjl",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1iGY22xfNJTGO0GZ18kQaYgJJME3_tAjl.json",
+      "ocrConfidence": [
+        94.9,
+        95.8,
+        95.5
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.023
+}

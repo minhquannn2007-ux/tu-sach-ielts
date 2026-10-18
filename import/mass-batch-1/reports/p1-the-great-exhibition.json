@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-great-exhibition",
+  "title": "The Great Exhibition",
+  "part": 1,
+  "fingerprint": "6fc71acabeecb039499413a2f1cdda6a6589c961a82652c9a057e272fe03fe9e",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1sRFXLw2OsKPpJ06Ju8OMQnNG9kKCIWqp",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-great-exhibition.json",
+  "lessonId": "p1-the-great-exhibition",
+  "sourceId": "1sRFXLw2OsKPpJ06Ju8OMQnNG9kKCIWqp",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "66650d54e4ea9f8d3fc9616b6df1c1eafbe952a0525616c7e7a8f74ab1201ace",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

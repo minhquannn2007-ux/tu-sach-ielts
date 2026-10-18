@@ -1,0 +1,246 @@
+{
+  "id": "p3-patterns-of-nature",
+  "title": "Patterns of Nature",
+  "part": 3,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "A recent study led by Dr. Iain Couzin at Princeton University may help us explain what has been a mystery to scientists for centuries: how is it possible for fish, birds, or insects within a group of tens of thousands of individuals, to co-ordinate their behaviour so closely? With the aid of computer simulations and digital tracking video, the team has revealed the basic rules behind some of the extraordinary collective behaviour exhibited by the animal world."
+    },
+    {
+      "label": "B",
+      "text": "So remarkable is the coherence among the members of some animal groups that, in the 1930s, it was suggested that organisms within such groups must be capable of instantly transferring thoughts to one another. By the 1970s, it was commonly thought that flocking birds required a leader to do this. It was hypothesised that there might be as yet undetected electromagnetic fields generated in the wing muscles or brain of the leader that could be perceived by other group members. It seems plausible – just as an orchestra needs a conductor, so it may seem that a shoal of fish or flock of birds requires one too. However, Couzin’s study suggests there is a much simpler and more democratic navigation system that allows flocks, shoals, and herds to travel in unison."
+    },
+    {
+      "label": "C",
+      "text": "Couzin believes that group behaviour may be co-ordinated by relatively simple interactions among the members of the group, a process termed ‘self-organisation’. It has been known for some time that ants pass on directions mainly through pheromones, chemical secretions which influence the behaviour of other group members. His studies of army ants in the forests of Panama revealed that ants travelling to and from their nests spontaneously form a three-lane system, with returning ants along the centre of the trail and those moving to the front of the swarm flanking either side. When ants moving in opposite directions meet, they can detect each other by physical contact, usually with their antennae, and turn to avoid collisions. Ants on the homeward trail to the nest avoid one another at a slower rate than those on their way to the swarm front and cut through a centre path between the two outgoing lanes."
+    },
+    {
+      "label": "D",
+      "text": "The close relatedness of these insects means they have evolved habits that benefit the colony. However, such ‘public-spirited’ behaviour is not generally found on our own crowded city streets. Individuals meeting each other head-on usually slow down and step to one side, but people that find themselves behind others moving in the same direction are less likely to perform such avoidance manoeuvres. Humans, like ants, form lanes. But each lane tends to be relatively ephemeral and will be only one or a few individuals in width, resulting in a variable number of lanes depending on the environment and the pedestrian density."
+    },
+    {
+      "label": "E",
+      "text": "Shoals of fish also form lanes and dodge fellow group members, avoiding collisions by turning away from others that are too close. If not performing this avoidance manoeuvre, they tend to align their bodies with those of neighbours to prevent themselves from becoming isolated from the group, which is the best form of defence from predators. If the ability of individuals to align with one another is removed, a dense, seemingly formless mass occurs, like the swarms of tiny flying insects that gather in warm, damp environments. Couzin’s computer simulation also showed patterns in which virtual fish aligned themselves with others, then started to turn and rotate perpetually around an empty core forming a doughnut-like shape known as a ‘torus.’ The torus is found frequently in nature, particularly in fish species such as tuna, jack and barracuda."
+    },
+    {
+      "label": "F",
+      "text": "Couzin’s team found that group co-ordination arises from two factors: the requirement for a group to stick together and the desire of some individuals to make their own minds up about where to go. The researchers first programmed their virtual animals with a basic urge to stick as close together as possible without actually colliding. This caused the virtual animals to form close-knit, evenly spaced groups, as seen in real mammal herds and fish shoals. Some animals were then programmed to have a preferred direction in mind while retaining their urge to stay with the group. During these simulations, the researchers found that it needed only a few individuals to set off together in a certain direction for hundreds of others to also go the same way. The study suggested that just a handful of animals were as effective in leading a large group as a small one. And as the group size increased, the number of individuals needed to guide it accurately reduced dramatically. The study also suggested that the will of the majority won out when deciding which way to turn next. When subgroups of virtual animals with different ideas on where they were headed were introduced to the simulations, the overall group went with the majority consensus, even if it outnumbered the minority by just a single vote."
+    },
+    {
+      "label": "G",
+      "text": "‘When you see apparently complex behaviours, the mechanisms that co-ordinate these behaviours may be surprisingly simple,’ says Couzin. He claims the information revealed by his computer models may also lead to a new breed of exploratory robots. ‘They could select collectively the direction associated with the best-quality information or select collectively the majority direction,’ he adds. Such robots could be designed to work collaboratively, exploring deep-sea regions or even distant planets."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 33 Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-viii, in boxes 27-33 on your answer sheet.",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "paragraph": 0
+        },
+        {
+          "n": 28,
+          "paragraph": 1
+        },
+        {
+          "n": 29,
+          "paragraph": 2
+        },
+        {
+          "n": 30,
+          "paragraph": 3
+        },
+        {
+          "n": 31,
+          "paragraph": 4
+        },
+        {
+          "n": 32,
+          "paragraph": 5
+        },
+        {
+          "n": 33,
+          "paragraph": 6
+        }
+      ],
+      "type": "matching-headings",
+      "bank": [
+        {
+          "value": "i",
+          "text": "A two-way traffic scheme"
+        },
+        {
+          "value": "ii",
+          "text": "Potential applications for new knowledge"
+        },
+        {
+          "value": "iii",
+          "text": "Qualities needed to be a group leader"
+        },
+        {
+          "value": "iv",
+          "text": "Keeping going, keeping safe"
+        },
+        {
+          "value": "v",
+          "text": "Some unproven theories"
+        },
+        {
+          "value": "vi",
+          "text": "New technology to solve an old puzzle"
+        },
+        {
+          "value": "vii",
+          "text": "Deciding which group to follow"
+        },
+        {
+          "value": "viii",
+          "text": "A selfish species on the move"
+        }
+      ],
+      "reuse": false
+    },
+    {
+      "type": "diagram",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        }
+      ],
+      "sourceInstructions": "Questions 34 – 37 Label the diagram below. Choose ONE WORD ONLY from the passage for each answer. Write your answers on your answer sheet.",
+      "diagram": {
+        "asset": "assets/diagram-p3-patterns-of-nature-source-v2.png",
+        "width": 984,
+        "height": 979,
+        "alt": "Original diagram for Patterns of Nature",
+        "captions": [
+          {
+            "x": 4.25474,
+            "y": 1.47089,
+            "width": 24.89837,
+            "text": "Three-lane system as\nused by {{34}}",
+            "lineCount": 2
+          },
+          {
+            "x": 49.7832,
+            "y": 3.43207,
+            "width": 16.76829,
+            "text": "Group members going\ntowards front of swarm",
+            "lineCount": 2
+          },
+          {
+            "x": 51.30081,
+            "y": 59.87062,
+            "width": 23.27236,
+            "text": "Group members going back\nto the {{35}}",
+            "lineCount": 2
+          },
+          {
+            "x": 52.38482,
+            "y": 68.36908,
+            "width": 46.34146,
+            "text": "Formation in shape called a\n{{36}}; has central {{37}}\naround which group members\ncirculate.",
+            "lineCount": 4
+          }
+        ],
+        "sourceLayoutChecked": true,
+        "sourceId": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+        "sourceSHA256": "3daadb1cfa651dae49bef84f881aa1dc28fe159cf4ce54df0ba6a56099116b88",
+        "sourcePage": 4,
+        "sourceCrop": [
+          151,
+          210,
+          526,
+          661
+        ],
+        "minWidth": 984,
+        "image": {
+          "x": 1.219512,
+          "y": 0.81716,
+          "width": 81.300813,
+          "height": 98.277154
+        },
+        "layoutVersion": 2,
+        "lineHeight": 30,
+        "inputWidth": 180,
+        "backgroundRemoved": true,
+        "artworkVersion": "source-raster-v2",
+        "artworkReview": "Original source pixels; illumination normalization, reviewed caption masks, sharpening and paper removal. No redrawn components.",
+        "artworkSHA256": "70b8274b18f5b20c51a68968780f18c9ae6c475e35478b631212f0f6343699a3"
+      },
+      "title": "Patterns of group movement",
+      "wordLimit": "ONE WORD ONLY"
+    },
+    {
+      "sourceInstructions": "Questions 38 – 40 Do the following statements agree with the views of the writer in Reading Passage 3? In boxes 38-40 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "n": 38,
+          "prompt": "People who walk quickly tend to be at the front of lanes in a human crowd."
+        },
+        {
+          "n": 39,
+          "prompt": "The number of lanes in a human crowd is determined by how many people there are in the immediate area."
+        },
+        {
+          "n": 40,
+          "prompt": "Couzin observed that the larger an animal group becomes, the more leaders it will need."
+        }
+      ],
+      "type": "tfng"
+    }
+  ],
+  "displayParagraphLabels": false,
+  "sources": [
+    {
+      "id": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+      "role": "passage-and-questions",
+      "sha256": "3daadb1cfa651dae49bef84f881aa1dc28fe159cf4ce54df0ba6a56099116b88"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "jobId": "p3-patterns-of-nature",
+    "method": "ocr-with-explicit-source-reviewed-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 7,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "ocrCorrections": true,
+      "footnotes": true,
+      "date": "2026-10-15"
+    }
+  },
+  "cover": {
+    "asset": "assets/batch2-ants-cover.jpg",
+    "alt": "Kiến trên lá",
+    "source": "https://unsplash.com/photos/a-close-up-of-a-group-of-ants-on-a-leaf-Cvx1BDQM15o",
+    "credit": "Dibakar Roy",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-back-to-the-future-of-skyscraper-design",
+  "title": "Back to the future of skyscraper design",
+  "part": 3,
+  "fingerprint": "bfe9fc1e28d268f72e415e02ae6690a048635ccf0859cdb03b87f75ea400a98b",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1Oq3Y5YVgbaJh9IUNUxfHQpKtUQeU118C",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    },
+    {
+      "sourceId": "18PfDfDQGSgRbsajQD1xTDpXSLfsdnzEV",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.08
+}

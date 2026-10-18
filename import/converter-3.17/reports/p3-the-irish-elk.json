@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-irish-elk",
+  "title": "The Irish Elk",
+  "part": 3,
+  "fingerprint": "ebb8636e2aeea4f5905fc09d0606de3de93915e23971a5c7428f662d2e6887d9",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1DRYgtcChdLIzR1K9pLukkW7jRhR7ra4K",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.063
+}

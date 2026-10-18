@@ -1,0 +1,33 @@
+{
+  "job": "p1-how-to-be-happy",
+  "title": "How to be happy",
+  "part": 1,
+  "fingerprint": "15e513c96bb9c921b321d1123e81f1d7363909baf70ee66679b39ecfc8baae45",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "106J-F1JopxK-4sxoDMBHBWq_wV7Pkwwb",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-how-to-be-happy.json",
+  "lessonId": "p1-how-to-be-happy",
+  "sourceId": "106J-F1JopxK-4sxoDMBHBWq_wV7Pkwwb",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-one",
+    "matching-endings"
+  ],
+  "sourceHash": "7947c4b5dd2bb02fe877bf56fcb6d58d6527a22ccad3669f382ee22280f57a44",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.065
+}

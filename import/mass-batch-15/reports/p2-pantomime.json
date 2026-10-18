@@ -1,0 +1,17 @@
+{
+  "job": "p2-pantomime",
+  "title": "Pantomime",
+  "part": 2,
+  "fingerprint": "3cfcf1d292ebd94fdfaa2f5f4df809f548ad7de2caa8f152df90c914439a1770",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1aPfA9jbHfSuNYZ-6z9n1N-QV5xAMQzns",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

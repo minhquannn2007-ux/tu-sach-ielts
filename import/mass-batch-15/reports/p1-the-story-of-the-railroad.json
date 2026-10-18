@@ -1,0 +1,22 @@
+{
+  "job": "p1-the-story-of-the-railroad",
+  "title": "The story of the railroad",
+  "part": 1,
+  "fingerprint": "70d0808b0c6521bb127c58997b17e2f8535c8164dfef1c2a2dac5b445fce7f3b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1NyE0nGAuH74lvP6lQTx5RTV3LLaSj1w_",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    },
+    {
+      "sourceId": "1WiF4SZ3JkFMHgMMJCkkP2pjS17XefVmR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.102
+}

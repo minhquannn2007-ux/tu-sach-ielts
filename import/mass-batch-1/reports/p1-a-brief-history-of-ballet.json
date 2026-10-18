@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-brief-history-of-ballet",
+  "title": "A brief history of ballet",
+  "part": 1,
+  "fingerprint": "19a05f59c0b602cb0fa39e37be3ef54133283d56d096953aa2da76915d0f9928",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1wXCemlHf_CZJSfBLkQ-5JGbQDPgqu7aj",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-brief-history-of-ballet.json",
+  "lessonId": "p1-a-brief-history-of-ballet",
+  "sourceId": "1wXCemlHf_CZJSfBLkQ-5JGbQDPgqu7aj",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "f03fc95f5056cd5b9e96afb16217670904d1979b57e550ecc87f452c9ac313c0",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

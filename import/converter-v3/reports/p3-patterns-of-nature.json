@@ -1,0 +1,17 @@
+{
+  "job": "p3-patterns-of-nature",
+  "title": "Patterns of Nature",
+  "part": 3,
+  "fingerprint": "75a0ac3821fb9513847d17229aba3b7e2b79df56700878c4b2defcf488b27f61",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.049
+}

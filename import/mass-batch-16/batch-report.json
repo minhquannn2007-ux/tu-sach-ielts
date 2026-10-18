@@ -1,0 +1,476 @@
+{
+  "converterVersion": "3.16",
+  "selected": 14,
+  "counts": {
+    "ready-for-review": 14,
+    "held": 0,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "results": [
+    {
+      "job": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+      "title": "A review of Mimi Sheraton's book, 1,000 Foods To Eat Before you Die",
+      "part": 3,
+      "fingerprint": "db0c79c5554287203f08adad84d6d79e4bd17574ef194c7f9521bfd034984604",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1ebEPnSLyckB_iOKhtn2Odd9W3_vcq-vC",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die.json",
+      "lessonId": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+      "sourceId": "1ebEPnSLyckB_iOKhtn2Odd9W3_vcq-vC",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "summary-drag"
+      ],
+      "sourceHash": "da8b80b2942203eea17833d82a164f0ee22ce96044ac3dcae5cad179a5da5f8a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.072
+    },
+    {
+      "job": "p3-being-unique",
+      "title": "Being Unique",
+      "part": 3,
+      "fingerprint": "ea0b44ca1fcef79c5e9d04a7cd1865423aef5e8cd6abec60458f288d4cfe4559",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1sRC5bFjr3bfS_A55fRUv_TMG5Nl5XgBZ",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-being-unique.json",
+      "lessonId": "p3-being-unique",
+      "sourceId": "1sRC5bFjr3bfS_A55fRUv_TMG5Nl5XgBZ",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "summary-drag"
+      ],
+      "sourceHash": "9c01633b342f2f956b606f5d49878673b111479f985230387ffe9de8f95255e9",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.13
+    },
+    {
+      "job": "p3-disappearing-languages",
+      "title": "Disappearing Languages",
+      "part": 3,
+      "fingerprint": "6728bfe11bcc1f0bb804a363113dc072f072b095f9ab47d1c7c04455bd862995",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1X1XMmT2KoI69G1RpUsCL7bW2yOvy5pnH",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-disappearing-languages.json",
+      "lessonId": "p3-disappearing-languages",
+      "sourceId": "1X1XMmT2KoI69G1RpUsCL7bW2yOvy5pnH",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "summary-drag",
+        "ynng"
+      ],
+      "sourceHash": "5fa63fdb22dd52d5f1f598672b551d7ebedad428a68ec9957bf3dad1c006cefd",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.081
+    },
+    {
+      "job": "p3-expansion-of-the-worlds-deserts",
+      "title": "Expansion of the world’s deserts",
+      "part": 3,
+      "fingerprint": "9cf0f84021f41fb3e68fe46e617d8ec753e183c7bac796565efd265fdcc9b8a1",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-expansion-of-the-worlds-deserts.json",
+      "lessonId": "p3-expansion-of-the-worlds-deserts",
+      "sourceId": "1zN19e2DUyXJywNg2SoKTrGLaJnNfE8UX",
+      "questionCount": 14,
+      "types": [
+        "notes",
+        "matching-features",
+        "matching-info"
+      ],
+      "sourceHash": "87178d48c3ada120a95f49f168fec22c899f9a19289f30def7cfb5ec69814b60",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.081
+    },
+    {
+      "job": "p3-is-there-such-a-thing-as-too-much-information",
+      "title": "Is there such a thing as too much information?",
+      "part": 3,
+      "fingerprint": "002f53d2aee2390b88f34ecbdf59d1509f0c3ccd17de96c8150c63c3d7aa470e",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1NZKxzpndfyV2lLTfEjp-3SalY4xAGiyn",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-is-there-such-a-thing-as-too-much-information.json",
+      "lessonId": "p3-is-there-such-a-thing-as-too-much-information",
+      "sourceId": "1NZKxzpndfyV2lLTfEjp-3SalY4xAGiyn",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "summary-drag"
+      ],
+      "sourceHash": "edf5ad5ce9ed381f0dd66a02a9b7d0ef1fa1a0c05e3e8e38ba89f00df4ad1670",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.07
+    },
+    {
+      "job": "p3-mark-strizic-the-career-of-an-australian-photographer",
+      "title": "Mark Strizic: the career of an Australian photographer",
+      "part": 3,
+      "fingerprint": "66cec59e60583c83b48657f960b624c9350d7ac486c790d26b03d49d4c551027",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1lp0ggZqLDqU4FfLWxn6kDl1IsooGFxEP",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-mark-strizic-the-career-of-an-australian-photographer.json",
+      "lessonId": "p3-mark-strizic-the-career-of-an-australian-photographer",
+      "sourceId": "1lp0ggZqLDqU4FfLWxn6kDl1IsooGFxEP",
+      "questionCount": 14,
+      "types": [
+        "summary-drag",
+        "ynng",
+        "mc-one"
+      ],
+      "sourceHash": "35b53aa209b155c4fec099584a36b033592603a47d7569ff14bfa909ae4a2f05",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.069
+    },
+    {
+      "job": "p3-multitasking",
+      "title": "Multitasking",
+      "part": 3,
+      "fingerprint": "b899a3f915090eae42e5b40e44242a532dba7ad7a653367a86bf4bce55d52747",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1HkYliPug_vb3TtZlHRnwQhIEKeMn1a_n",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-multitasking.json",
+      "lessonId": "p3-multitasking",
+      "sourceId": "1HkYliPug_vb3TtZlHRnwQhIEKeMn1a_n",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "matching-endings",
+        "ynng"
+      ],
+      "sourceHash": "13fa35f7bf916d2115c28448649f9f7f37099247c75dbb304d4f194ca195da83",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.065
+    },
+    {
+      "job": "p3-petrol-power-an-eco-revolution",
+      "title": "Petrol power: an eco-revolution?",
+      "part": 3,
+      "fingerprint": "c4b37ef0d5670f3494f508e19fc1f81ec5ed2e9fb993fdffa84d24431cb82100",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1Ey_L4wmO2sgx9j5rEfCVIZItBAS0CFIo",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-petrol-power-an-eco-revolution.json",
+      "lessonId": "p3-petrol-power-an-eco-revolution",
+      "sourceId": "1Ey_L4wmO2sgx9j5rEfCVIZItBAS0CFIo",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "summary-drag",
+        "ynng"
+      ],
+      "sourceHash": "6a16577aa748f3206b9a613843da1b0f2fb79b16f71fa6803e8e2b25cec23069",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.071
+    },
+    {
+      "job": "p3-putting-the-parts-together-muskets-and-mass-production",
+      "title": "Putting the parts together: muskets and mass production",
+      "part": 3,
+      "fingerprint": "8968c14cb8e7541014369083e674446805c377bb23c7df5beb5384553e6ea0bd",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1IZYe2S_SX2kcWfsgrsj7gLEvEyQk7HGy",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-putting-the-parts-together-muskets-and-mass-production.json",
+      "lessonId": "p3-putting-the-parts-together-muskets-and-mass-production",
+      "sourceId": "1IZYe2S_SX2kcWfsgrsj7gLEvEyQk7HGy",
+      "questionCount": 14,
+      "types": [
+        "matching-headings",
+        "mc-one",
+        "summary-drag",
+        "mc-one"
+      ],
+      "sourceHash": "a736311d95ef3a47cdf13f4b25bd1d3a54e9f97140990caf1d0a3a0280eafd9a",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.067
+    },
+    {
+      "job": "p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries",
+      "title": "Reducing exposure to indoor air pollution in developing countries",
+      "part": 3,
+      "fingerprint": "33fc0539c9c08fb7db84807c27384bf29cfd62200401e1b2907672c68eff2045",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1yLiMx1dqT652E53zlRwHfoy8tZMDitHq",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries.json",
+      "lessonId": "p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries",
+      "sourceId": "1yLiMx1dqT652E53zlRwHfoy8tZMDitHq",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "ynng",
+        "matching-endings"
+      ],
+      "sourceHash": "09268cefaa8a078ffcc582a60b2a9c8de6ce5c8d2a21ab79654400072da8df6c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.073
+    },
+    {
+      "job": "p3-relish-the-flavour",
+      "title": "Relish the flavour",
+      "part": 3,
+      "fingerprint": "c4e224f529d40db669fdf6ec4f573d7a315c1b43698003d6243b74d4566454f4",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1baiEAjF9717DHMh73T3RYXEXIfvMDRPn",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-relish-the-flavour.json",
+      "lessonId": "p3-relish-the-flavour",
+      "sourceId": "1baiEAjF9717DHMh73T3RYXEXIfvMDRPn",
+      "questionCount": 14,
+      "types": [
+        "matching-info",
+        "tfng",
+        "matching-features"
+      ],
+      "sourceHash": "7ba9f403574c34b46a6bae45186bce733461c1c5b7880be8c4e7b4ec24b9135f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.069
+    },
+    {
+      "job": "p3-roll-cameras",
+      "title": "Roll Cameras!",
+      "part": 3,
+      "fingerprint": "a17096ce3c0160d520944de819c2f8bb8a88f01b12154a834a3521f27228110d",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1Ipxuq53EPtk8fQxdOjqYZCZJtAE0mX9T",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-roll-cameras.json",
+      "lessonId": "p3-roll-cameras",
+      "sourceId": "1Ipxuq53EPtk8fQxdOjqYZCZJtAE0mX9T",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "mc-one",
+        "summary-drag"
+      ],
+      "sourceHash": "2c0461ce2b1e666b8d7bbf89234d5b181c46339dd5e624fd969b62878061d140",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.077
+    },
+    {
+      "job": "p3-the-antikythera-mechanism",
+      "title": "The Antikythera Mechanism",
+      "part": 3,
+      "fingerprint": "97cbbfaa0144d289d912465efd3bea53b540af31f63d24b771c02750f3af07e3",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1uHLyFIo05UoL7-JQ-e14rKCwuTBMKvlo",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-the-antikythera-mechanism.json",
+      "lessonId": "p3-the-antikythera-mechanism",
+      "sourceId": "1uHLyFIo05UoL7-JQ-e14rKCwuTBMKvlo",
+      "questionCount": 14,
+      "types": [
+        "ynng",
+        "summary-drag",
+        "mc-one"
+      ],
+      "sourceHash": "f3a8191c87ba20b783a94aafdd3b2619ca59dc3b2d57b9d1ba2390d33ca05e31",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.073
+    },
+    {
+      "job": "p3-toscanini-s-pursuit-of-perfection",
+      "title": "Toscanini's pursuit of perfection",
+      "part": 3,
+      "fingerprint": "8a76c41dc122a05cea399e73af1e1c1c74202c50a5febd2cb0304b4742675e07",
+      "converterVersion": "3.16",
+      "attempts": [
+        {
+          "sourceId": "1GtZlgJCLwIg7-DCSpsipUx1r2ACckZLj",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p3-toscanini-s-pursuit-of-perfection.json",
+      "lessonId": "p3-toscanini-s-pursuit-of-perfection",
+      "sourceId": "1GtZlgJCLwIg7-DCSpsipUx1r2ACckZLj",
+      "questionCount": 14,
+      "types": [
+        "mc-one",
+        "summary-drag",
+        "ynng"
+      ],
+      "sourceHash": "df4528a1b0614d1b3da307801c744c4c78df320b0910ed0fcc73c3fa6bbe5b5c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.054
+    }
+  ],
+  "published": 14
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-beauty",
+  "title": "Beauty",
+  "part": 3,
+  "fingerprint": "bc04cdb38a06484f621c686b45d4d6996a68a0ae097687f1167d36b4195e8581",
+  "converterVersion": "3.18",
+  "attempts": [
+    {
+      "sourceId": "1xlJ6nIE7vezbtKr1lt-JGX7dGCValUiA",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-beauty.json",
+  "lessonId": "p3-beauty",
+  "sourceId": "1xlJ6nIE7vezbtKr1lt-JGX7dGCValUiA",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "e96e6b441d1d439baf87aab08fb9b87475de6d833ad6a259b17a0912758ebf1b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.068
+}

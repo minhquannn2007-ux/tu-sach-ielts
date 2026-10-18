@@ -1,0 +1,17 @@
+{
+  "job": "p1-new-zealand-pottery",
+  "title": "New Zealand Pottery",
+  "part": 1,
+  "fingerprint": "9f1a7cf7b21af2932ff1aaa9d4764b6796f270f9a4478ae43b99164827bab4bc",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1B2Z2GpKZ5lCO1UxbrYv9a6vIuD6txhlb",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.074
+}

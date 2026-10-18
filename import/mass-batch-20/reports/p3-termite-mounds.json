@@ -1,0 +1,17 @@
+{
+  "job": "p3-termite-mounds",
+  "title": "Termite Mounds",
+  "part": 3,
+  "fingerprint": "81c409a2e2ca75d144cdfe7a07debdaa14c20166b51a10b16565368432cff452",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1j7RzKzBoMDj0zOCABsGQTMhGKMfJ8vyU",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.054
+}

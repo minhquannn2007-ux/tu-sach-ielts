@@ -1,0 +1,33 @@
+{
+  "job": "p2-growing-food-in-cities",
+  "title": "Growing food in cities",
+  "part": 2,
+  "fingerprint": "a5e5018ee758ac9f12a4622cafeca02e9109041295d8d577774e75356506cd78",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "169EJbtGw_GLe22Ir6fD-APDfZBksAaQt",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-growing-food-in-cities.json",
+  "lessonId": "p2-growing-food-in-cities",
+  "sourceId": "169EJbtGw_GLe22Ir6fD-APDfZBksAaQt",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "0f4695410d6ca150946c3b21b0af91e4820e9e01166dc5d44f341eab22913795",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.047
+}

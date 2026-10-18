@@ -1,0 +1,348 @@
+{
+  "id": "p2-libraries",
+  "part": 2,
+  "title": "Libraries",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Libraries are collections of materials containing information, ideas and works of imagination that are organised for public use and staffed by people trained to provide a service. They take many physical forms ranging from large purpose-built buildings to rooms in parent institutions and small temporary structures. They are a vital resource in an age in which people and communities desperately need to consider alternative points of view and information in order to challenge the mass media and make up their own minds."
+    },
+    {
+      "text": "Despite a popular misconception, libraries have never confined themselves to the collection of books. Traditionally, they have acquired a range of print-based materials, including newspapers, maps. pamphlets, illustrations and many other Hems. Indeed, libraries pre-dated the invention of the book. For example, the original library in Alexandria, the capital of ancient Egypt, collected papyrus scrolls, and mediaeval monasteries collected manuscripts. It was therefore widely regarded as a logical step for libraries to collect every new medium that contained information as it emerged. All forms of sound and visual recording (for example, gramophone records, cassettes, videos, CDs, and DVDs) joined the collections in many libraries as they became available. Digital formats were also quickly added to collections and there are now countless libraries around the world which have substantial collections of material in an electronic form. Many publications, such as journals, are now ‘born digital’, and a good proportion never appear in print form. Given the growth of conversion to electronic data, there are some libraries today which, to the first-time visitor, do not look like the conventional idea of a ‘library’ at all."
+    },
+    {
+      "text": "Although the content of the media is more important than the medium itself, an advantage of digital formats is that they allow for differential pricing, which favours libraries in the developing world. However, there is substantial cause for concern in the growing concentration of media ownership into fewer, larger corporations. It is increasingly important that libraries collect and make available the output of specialist publishers The services that a library provides vary according to the kind of library it is and the client groups it serves. National libraries, for example, are usually required to collect and preserve the national publishing output of the countries they serve, ensuring that it is available not only for current users, but also for future generations. Typically, they also compile a national bibliography of publications, and act as the library of last resort for items that other libraries cannot provide. They are usually assisted in their task of collecting the nation's published output by a system called legal deposit, whereby publishers have to make copies of their publications available to the national library free of charge. Although national libraries frequently have sophisticated preservation and conservation programmes, the growth of electronic publishing has brought new challenges to this task."
+    },
+    {
+      "text": "Despite the fact that the services offered by libraries vary, all libraries, whether large or small, have a long tradition of working together both within countries and across national boundaries. For example, most countries have inter-library lending. whereby books and other documents not in stock at a particular library may be borrowed from another to satisfy the needs of a local user. Libraries also collaborate in areas such as collection development, so as to avoid the duplication of expensive publications and material, and to ensure comprehensive collections in a region. Digital formats have revolutionised the processes required to deliver services. and have made it easier for libraries to collaborate on a number of projects. Examples include shared electronic cataloguing, whereby many libraries share the task of preparing electronic catalogue records so that duplication of effort is avoided."
+    },
+    {
+      "text": "An important service that all libraries offer is access to skilled staff. Although a great deal of information is available to anyone via the internet, it can be time-consuming to locate and may also be unreliable. Much of the information that comes from an authoritative source is available only to subscribers. Library staff are able to help people identify reliable sites and can provide them with free access to paid-for sources through a licence the library holds for the site."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Do the following statements agree with the information given in Reading Passage 2? In boxes 14-18 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "Libraries are essential if people today are to make informed decisions."
+        },
+        {
+          "n": 15,
+          "prompt": "Before books were invented, only the wealthy used libraries."
+        },
+        {
+          "n": 16,
+          "prompt": "People entering a modern library for the first time may be surprised by what they see."
+        },
+        {
+          "n": 17,
+          "prompt": "Many libraries receive complaints about the inter-library lending service."
+        },
+        {
+          "n": 18,
+          "prompt": "Digital formats have made it more difficult for libraries to collaborate on cataloguing."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 19 – 26 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 19-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "ONE WORD ONLY",
+      "noteLayout": {
+        "title": "The role of libraries",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Library collections",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Libraries have always collected a range of materials:"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "{{19}} were kept at the library in Alexandria"
+              }
+            ],
+            "indent": 4.502,
+            "spaceBefore": 0.09,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "{{20}} were held at monasteries"
+              }
+            ],
+            "indent": 4.502,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "sound and visual material was added to collections as it became available"
+              }
+            ],
+            "indent": 4.502,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "material is now held in digital form – {{21}} are an example of a ‘born digital’"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "publication"
+              }
+            ],
+            "indent": 4.502,
+            "spaceBefore": 0,
+            "marker": "˗",
+            "hanging": 1.5,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "Growth of global multi-media corporations",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.69
+          },
+          {
+            "runs": [
+              {
+                "text": "conversion to digital formats makes it easier to offer {{22}} to help developing"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "countries"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "it is important for libraries to collect material from {{23}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "National libraries",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.97
+          },
+          {
+            "runs": [
+              {
+                "text": "their role is to collect a nation's publishing output for future generations"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.09,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "they are helped in their role by the process known as {{24}} – this means that no"
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": "{{25}} is made for publications received"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.05,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0.0
+          },
+          {
+            "runs": [
+              {
+                "text": "Services offered by all libraries",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.69
+          },
+          {
+            "runs": [
+              {
+                "text": "books are shared between libraries through inter-library lending"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.11,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "staff provide access to paid-for internet sites that the library has a {{26}} for"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.03,
+            "marker": "•",
+            "hanging": 1.502,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "title": "The role of libraries",
+      "content": [
+        "Library collections",
+        "Libraries have always collected a range of materials:",
+        "{{19}} were kept at the library in Alexandria",
+        "{{20}} were held at monasteries",
+        "sound and visual material was added to collections as it became available",
+        "material is now held in digital form – {{21}} are an example of a ‘born digital’ publication",
+        "Growth of global multi-media corporations",
+        "conversion to digital formats makes it easier to offer {{22}} to help developing countries",
+        "it is important for libraries to collect material from {{23}}",
+        "National libraries",
+        "their role is to collect a nation's publishing output for future generations",
+        "they are helped in their role by the process known as {{24}} – this means that no {{25}} is made for publications received",
+        "Services offered by all libraries",
+        "books are shared between libraries through inter-library lending",
+        "staff provide access to paid-for internet sites that the library has a {{26}} for"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1Xo12GvaDa1AJgK8AtxXWEyjtEx-N_6rf",
+      "role": "passage-and-questions",
+      "sha256": "914eaa993619b65e507cd87c492db3e5ea3d89399bc4c2ec7951bf54fe3329e5",
+      "name": "Libraries.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.6",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-libraries"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Libraries have been in existence for thousands of years, but what is their role in today's world of mass media and the internet?",
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-3-2026-10-12",
+    "checks": [
+      "native text comparison",
+      "title subtitle and first-paragraph visual review",
+      "source note layout review",
+      "source footnotes",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

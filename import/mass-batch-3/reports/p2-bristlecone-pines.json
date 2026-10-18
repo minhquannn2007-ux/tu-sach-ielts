@@ -1,0 +1,17 @@
+{
+  "job": "p2-bristlecone-pines",
+  "title": "Bristlecone Pines",
+  "part": 2,
+  "fingerprint": "1232f1b01176db7735a0ca8de60ad68a5083a7fb1d179b15d403bc8869378e5e",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1CgGsgpoBWkzH07f0emUirYNE_aYc8c3v",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p1-an-art-exhibition-inspired-by-the-age-of-spices",
+  "title": "An art exhibition inspired by the age of spices",
+  "part": 1,
+  "fingerprint": "2cfeca792ade7cee2aa777c3468769ce2e6d8734e4b80d906fca192422bb0df9",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "138kUnj3psJlqXp9veP0ATRJe6m07DSNk",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-an-art-exhibition-inspired-by-the-age-of-spices.json",
+  "lessonId": "p1-an-art-exhibition-inspired-by-the-age-of-spices",
+  "sourceId": "138kUnj3psJlqXp9veP0ATRJe6m07DSNk",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "3c8cf8b9f4a83504cfa110a5fc3174159cbc7af8bde6655da7e635b6a235844e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

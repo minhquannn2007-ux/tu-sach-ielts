@@ -1,0 +1,17 @@
+{
+  "job": "p3-language-change",
+  "title": "Language change",
+  "part": 3,
+  "fingerprint": "7ea8bd3c8f480d882f7c03e8666befd5b26166c0160db6d75056baf548414e5c",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1nqKu1zDjNSpAdjUyfBX7L8mppGjG1Apy",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

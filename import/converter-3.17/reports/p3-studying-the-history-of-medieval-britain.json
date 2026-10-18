@@ -1,0 +1,17 @@
+{
+  "job": "p3-studying-the-history-of-medieval-britain",
+  "title": "Studying the history of medieval Britain",
+  "part": 3,
+  "fingerprint": "8ed9138eee0a1a1ef731c4f705995876b93fe2b923b374cef535df72f2d41342",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1XRXzy0DVT6YywAPqqhn43YqJ5-MRI4hh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-alps-2-ocean-cycle-trail",
+  "title": "The Alps 2 Ocean Cycle Trail",
+  "part": 2,
+  "fingerprint": "68b8626c89d86d87f5963062dba5f3d7a226dc6ff039182381edb783cc5768b6",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1QD1CopZd1D_2MRyRoLlq_soXFTleqNyL",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

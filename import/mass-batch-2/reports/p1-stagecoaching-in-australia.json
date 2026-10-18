@@ -1,0 +1,17 @@
+{
+  "job": "p1-stagecoaching-in-australia",
+  "title": "Stagecoaching in Australia",
+  "part": 1,
+  "fingerprint": "aeba42bba11c53621267eca38b0f351b3b7e25147f231d529f4240b8bf900df9",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1pnFrxd_sk4_Hj4GyEC6wphl2JOD6Gxr6",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [9, 10, 11, 12, 13], found [9, 10, 12, 13]"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.078
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-history-of-the-british-wool-industry",
+  "title": "The history of the British wool industry",
+  "part": 1,
+  "fingerprint": "55d7e13935ef2f26df441dd5deb57ae5d5f202f7d8f56c633edfa6e2b4dd5b9b",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+      "code": "source-layout",
+      "message": "Parallel note columns need source-specific layout review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.102
+}

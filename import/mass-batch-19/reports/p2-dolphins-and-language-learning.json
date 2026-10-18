@@ -1,0 +1,17 @@
+{
+  "job": "p2-dolphins-and-language-learning",
+  "title": "Dolphins and Language Learning",
+  "part": 2,
+  "fingerprint": "1d223b0688420f016947587646d1bdd3ef361b6cea31890d0d3e7b0d6941a13c",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.048
+}

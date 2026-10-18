@@ -1,0 +1,17 @@
+{
+  "job": "p2-classical-music-over-the-centuries",
+  "title": "Classical music over the centuries",
+  "part": 2,
+  "fingerprint": "aba6ec846045a614f36653d4f70ecf30f03536be330f604f415d6d7ed8b030f1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1dBlXL74p1ZiO1qfPQXBcvseYnLx5PGV3",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

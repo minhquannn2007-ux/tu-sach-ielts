@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-history-of-the-celtic-language",
+  "title": "The history of the Celtic language",
+  "part": 2,
+  "fingerprint": "bb36c112996f6d232599a5b9ce964e9d5b4fbc7ef789d5ba69f11a1dd3ac070e",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1Ymk89POWW89RjuwCjGk0vu4JcUYqp70G",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

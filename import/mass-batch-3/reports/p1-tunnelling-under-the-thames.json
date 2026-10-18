@@ -1,0 +1,32 @@
+{
+  "job": "p1-tunnelling-under-the-thames",
+  "title": "Tunnelling under the Thames",
+  "part": 1,
+  "fingerprint": "5c2e1c070a9d9d91cb2f9f3b32305f03531bd9a1a789cf45e1ba847919ca2696",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "10ME6PjNquNyO1COR-QiV5Gx1k9GbM3CA",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-tunnelling-under-the-thames.json",
+  "lessonId": "p1-tunnelling-under-the-thames",
+  "sourceId": "10ME6PjNquNyO1COR-QiV5Gx1k9GbM3CA",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "59fc493ba5cfd3d43cbcfbbd7edec04d6cff98406df3ca8fd50bd196d9e870ec",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.071
+}

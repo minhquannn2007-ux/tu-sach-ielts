@@ -1,0 +1,17 @@
+{
+  "job": "p1-couran-cove-resort",
+  "title": "Couran Cove Resort",
+  "part": 1,
+  "fingerprint": "1839e886d901421076f3f3a5990c8c731b683689d1bd6c1c2a5024c7f88620e9",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1WNF9rTbrq1hPjdW4kN7_rhi0mcGh5i_j",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

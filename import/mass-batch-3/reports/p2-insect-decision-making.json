@@ -1,0 +1,33 @@
+{
+  "job": "p2-insect-decision-making",
+  "title": "Insect decision-making",
+  "part": 2,
+  "fingerprint": "be871b34383a9cb8740c337e9c754f7b61b3ff3602daeda05729173a60fe8f0e",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1h0bKR_HBgjElw23oLNtQINnm7668uPdK",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-insect-decision-making.json",
+  "lessonId": "p2-insect-decision-making",
+  "sourceId": "1h0bKR_HBgjElw23oLNtQINnm7668uPdK",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "e622004e2f70c5327539beac2db140a8663feba3c70b192e174a239f76567fa3",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.075
+}

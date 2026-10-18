@@ -1,0 +1,2073 @@
+{
+  "converterVersion": "3.9",
+  "selected": 100,
+  "cachedSources": 100,
+  "remainingUncachedJobs": 0,
+  "counts": {
+    "ready-for-review": 22,
+    "held": 78,
+    "error": 0,
+    "waiting-for-download": 0
+  },
+  "seconds": 1.074,
+  "cachedJobs": 0,
+  "duplicateSources": [],
+  "results": [
+    {
+      "job": "p1-the-origins-of-weather-forecasting",
+      "title": "The Origins of Weather Forecasting",
+      "part": 1,
+      "fingerprint": "8686713c787033cbcef02136dd71838c00da8c1b3d02e4de5beefbd6b7ace948",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Ps9orOsBAU5CgsVANgjzkw96qG3Cm-xt",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p1-the-origins-of-weather-forecasting.json",
+      "lessonId": "p1-the-origins-of-weather-forecasting",
+      "sourceId": "1Ps9orOsBAU5CgsVANgjzkw96qG3Cm-xt",
+      "questionCount": 13,
+      "types": [
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "cc9735593d9f88525c9a39f8201fa4d0d6cf84e25eb6cd8bf0b2013e1f796ba6",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.133
+    },
+    {
+      "job": "p2-a-great-leap-forward",
+      "title": "A great leap forward",
+      "part": 2,
+      "fingerprint": "ec66d08af2b966ae705145826b8733cbe4211f7f31f3cb71d7e82e931c8f29b8",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1RwO1RbtfJPhY-72S-UFLhzztiG4qPQ1-",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.01
+    },
+    {
+      "job": "p2-a-new-way-of-reading",
+      "title": "A new way of reading",
+      "part": 2,
+      "fingerprint": "8fe45a5918860f1d0bbef054b14cbd7303db4aecd045a5af5a75a9805100bee1",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1_XOI8otcC2fu__m9dNsulB9yQzdh-d9V",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-a-new-way-of-reading.json",
+      "lessonId": "p2-a-new-way-of-reading",
+      "sourceId": "1_XOI8otcC2fu__m9dNsulB9yQzdh-d9V",
+      "questionCount": 13,
+      "types": [
+        "summary-input",
+        "matching-info",
+        "mc-two"
+      ],
+      "sourceHash": "209ed0e3d10b1bc4a00a058c371cd392d6705da18a76ef1643be4c5fc261b849",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.107
+    },
+    {
+      "job": "p2-a-report-on-the-state-of-the-music-market-2007",
+      "title": "A report on the state of the music market – 2007",
+      "part": 2,
+      "fingerprint": "ce9f53f8e41f2109dc7aa8c44c04ade73cd8fd882a4ce542ba4f98da44c458ec",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "14B-YOgILrR55VMHKQVEp_yqFarA6QAuQ",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-a-report-on-the-state-of-the-music-market-2007.json",
+      "lessonId": "p2-a-report-on-the-state-of-the-music-market-2007",
+      "sourceId": "14B-YOgILrR55VMHKQVEp_yqFarA6QAuQ",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "b71e4325ae69073a3b9579430d99b4775345e57f2674317bf19f9a05b47f2f21",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.122
+    },
+    {
+      "job": "p2-a-unique-golden-textile",
+      "title": "A unique golden textile",
+      "part": 2,
+      "fingerprint": "f180619bd2f72e2071117a9ecac66c3718e915d555136f8ca96f60f20d464969",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "19TiuxCVHSQxcC-G-cY9Ht1C_QXZ3Hfd9",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.156
+    },
+    {
+      "job": "p2-arctic-foxes",
+      "title": "Arctic foxes",
+      "part": 2,
+      "fingerprint": "103026ea6ff2a6a87801464c2b5690da0c52e7805466f50bd85787d3b329c9e6",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1skQqjuTnlntrajezNLoaOE-hsB8SrH2W",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-are-artists-liars",
+      "title": "Are artists liars?",
+      "part": 2,
+      "fingerprint": "518c979c1d57b1f79a3c11936666240e39c278bdd500b3f8b043189c4bd5391b",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1BjqT2v3sooENw_YW8Qy062olwCjk_Tlz",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.163
+    },
+    {
+      "job": "p2-australian-sports-guidelines",
+      "title": "Australian Sports Guidelines",
+      "part": 2,
+      "fingerprint": "3f35560ed595e4e1880eb6a2df3aeca5b0fc7a4e2a4d435d957af4170e4e8def",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1clbO86Y1-EuAbWdy9rDbLGl_TeuYTVjI",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-biomimicry",
+      "title": "Biomimicry",
+      "part": 2,
+      "fingerprint": "63ab977c61fd3c93689e36b3e9324bc4df6754b611ad0674f29b2819f5d673ad",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1uBHIUo4iaryopWSxoP1hSP2EE2FLlAC3",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p2-biophilic-design",
+      "title": "Biophilic Design",
+      "part": 2,
+      "fingerprint": "f6041c05539cfd13874b65281549297e8c31cf994b1f43a4e7e5fceb548ea585",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1s31JHaCvxVhP6RFCdSBSanDAfkl1ucD7",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-bird-migration",
+      "title": "Bird Migration",
+      "part": 2,
+      "fingerprint": "c4ed3bf34e68cd441d6a9bc392e89550ca22c089c802c2489275f15d94795c10",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "14vjpz28tHVjkp4tmds8oIoQ1ZRUv7wwL",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-book-review",
+      "title": "Book Review",
+      "part": 2,
+      "fingerprint": "0a70fd6040698421ded0927191d6a9b6d7a2c93f80eaef2f6d4a39da5aba69d8",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1nJtofbWj5xKqucx_Tit5vLxpXVa_vDRo",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-book-review.json",
+      "lessonId": "p2-book-review",
+      "sourceId": "1nJtofbWj5xKqucx_Tit5vLxpXVa_vDRo",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "4d5a201ef58f664535639ef72cd58409be1be634fc84ada86ceaf24f9e726f3f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.091
+    },
+    {
+      "job": "p2-books-and-buildings",
+      "title": "Books and Buildings",
+      "part": 2,
+      "fingerprint": "e4b9bc5d3c088aca6407f8b2bf2affa53afd66d8e095d82508a8e24e0e8c61c2",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1oxpwMTnxKRTpeTuD-dxp-5XyRikxrpc2",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.084
+    },
+    {
+      "job": "p2-boring-buildings",
+      "title": "Boring buildings",
+      "part": 2,
+      "fingerprint": "d5f986b33a4a1cc6924df475d851b6e1ce98a2340579601b36928252b837a169",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ZOVjJNYvyDm3SRtBpTw2vwt0zFsrL9nK",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p2-brains-trust-learning-about-ourselves",
+      "title": "Brains trust: learning about ourselves",
+      "part": 2,
+      "fingerprint": "a8ef3b74726e12b0ed60b1cf3ac4522212deeaf7c3e759dfc011dabb89525f4f",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1y72bDVh6e0Sd5IQf6oD9UThUOKd_AHqL",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.086
+    },
+    {
+      "job": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+      "title": "Can a global database of fossils help us predict the future of biodiversity on Earth?",
+      "part": 2,
+      "fingerprint": "2713beb853c25c52b653b20003ec17d68cc9fbece138e1822dcfcbc3861e54d0",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-classical-music-over-the-centuries",
+      "title": "Classical music over the centuries",
+      "part": 2,
+      "fingerprint": "d80e585974fb5d8a49b9f7cdc0579cbc960c94958d16e3ab5221e5ec9fd06c46",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1dBlXL74p1ZiO1qfPQXBcvseYnLx5PGV3",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-coins-the-first-form-of-money",
+      "title": "Coins - the first form of money",
+      "part": 2,
+      "fingerprint": "9bc1f52750789d4737c349aa577e9e11f20da7bcddc2e24e5a6c66ee03b47a68",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ERFNjlevvguQeaTyiUqNgTlRHRVzL7Hu",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.063
+    },
+    {
+      "job": "p2-creative-problem-solving",
+      "title": "Creative Problem-Solving",
+      "part": 2,
+      "fingerprint": "93dd594cea5533a25dcc4cbabaaf3f5f37c3ee8a3af1d5bdf36edd5677b9a239",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1yyQXZI087hGYx7HE_C3_xMxdvchKG47L",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-creative-problem-solving.json",
+      "lessonId": "p2-creative-problem-solving",
+      "sourceId": "1yyQXZI087hGYx7HE_C3_xMxdvchKG47L",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "dcc7d81c1dba503a2395a4cf855eabd9298a385b8dc8d1e2c1c4837299656f81",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.071
+    },
+    {
+      "job": "p2-defining-street-art-chua-rep",
+      "title": "Defining street art(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "80e52f41158a394d10ce3a776928c72a0b0afb6c7e71defa1278072502963c49",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1VVOyijnsB_hcl0V8raEVJAFcOGvs8SWA",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.047
+    },
+    {
+      "job": "p2-do-animals-really-remember",
+      "title": "Do animals really remember?",
+      "part": 2,
+      "fingerprint": "f2f14c899e9aec9a623394c49af65ef0e342ac104c1c7e3401d95ba84010b3a7",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1tiEIbc3hnHRtG5wFC33_kiLClESIhGMd",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-early-approaches-to-organisational-design",
+      "title": "Early approaches to organisational design",
+      "part": 2,
+      "fingerprint": "ae32d3762e477eb6a26bca4492c016d13067a29f7d8a816fa5e59711578dcb4d",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1XwU_NJOP-0h7zO8OWORgHizFnJMkCUmt",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p2-europes-earliest-artists",
+      "title": "Europe’s earliest artists",
+      "part": 2,
+      "fingerprint": "30b7424db15cbd8d877d1c96cf9a0acccba1272d63a8f34db5e0651d8476d04c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1rzVaMJuYJSz3DgDcBcPZbYAFA1yO7L2w",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-europes-earliest-artists.json",
+      "lessonId": "p2-europes-earliest-artists",
+      "sourceId": "1rzVaMJuYJSz3DgDcBcPZbYAFA1yO7L2w",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "37dc777d275ed6fcded27ed93d6623bb7c71a7fea9bbe0d6f7c4f482b0273914",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.113
+    },
+    {
+      "job": "p2-flood-control-in-the-usa",
+      "title": "Flood control in the USA",
+      "part": 2,
+      "fingerprint": "91ab3496a21c583ef556d1fb7698654a264c51ecb76cb532db3fa7e42a5456ec",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-fragrant-memories",
+      "title": "Fragrant memories",
+      "part": 2,
+      "fingerprint": "e4f50996938b57c2a13b3d9edce8a56b72a4342944eec206eb0a11423f3aed91",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1i8iz0broCXLUnAdBM4Waz5jYFD9D5HmA",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-growing-more-for-less",
+      "title": "Growing more for less",
+      "part": 2,
+      "fingerprint": "81f31ed32e13f5f3d75c8217268cfc654bdcf2b000196969cba6013a6333b850",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1wIr8DPNo_kksREu0FjFhkml4GbeZk7GN",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-how-deserts-are-formed",
+      "title": "How deserts are formed",
+      "part": 2,
+      "fingerprint": "5e83088a78d535adaa597ff459a3e5f4614389cd4e9c35937fdeffe2c6411219",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1X8dW_IEJTvgVhAJMNajFxIuKfL6yOW1I",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-how-the-petri-dish-supports-scientific-advances",
+      "title": "How the Petri dish supports scientific advances",
+      "part": 2,
+      "fingerprint": "3022468987a0d59dcc47a80d0c5296f4808d91757f3aaf15ec4db489bddaad13",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1sEj1Kc5iPyzkF_YWNLHDSFZjDwcW8o1_",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-how-the-petri-dish-supports-scientific-advances.json",
+      "lessonId": "p2-how-the-petri-dish-supports-scientific-advances",
+      "sourceId": "1sEj1Kc5iPyzkF_YWNLHDSFZjDwcW8o1_",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "6c4cf98b1c4585e265dc664d7cb6643f60d08508273f78bcaaeaba4c990638f5",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.062
+    },
+    {
+      "job": "p2-how-to-be-happy",
+      "title": "How to be Happy",
+      "part": 2,
+      "fingerprint": "9b7c0656bf2562f1aa6a26121cf8d48e2c6dd1aaf23f6ad35752a94c11443bd0",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ib479MZk_Bp9PUA-VAz5-v1RIzEl9q4m",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-how-well-do-people-concentrate",
+      "title": "How well do people concentrate?",
+      "part": 2,
+      "fingerprint": "be8c2733c69feb75bb4e821b3f358489354fcdbad1e7fe768153db4fd0b364a0",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1OM64LfJUk4xhGfPXdKjfnwhqmEPtHpVe",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.011
+    },
+    {
+      "job": "p2-icebergs-as-a-water-source-chua-go",
+      "title": "Icebergs as a Water Source(CHƯA GÕ)",
+      "part": 2,
+      "fingerprint": "30d3a287dd59b25ea0a34084b9bef2d8a948f28b377a386e83b0e7cb41a2b27a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1TG8H4n02dZoP61PHIGDnIbjN9uHo3X8q",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-intelligent-behavior-in-birds",
+      "title": "Intelligent behavior in birds",
+      "part": 2,
+      "fingerprint": "43c3c63a03af573a5d8d9eca48fe440fe12430932f62bf0c2e7fcb79e1d450f8",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1WVDutM0ZFDyRPal_kETm9gCY6Jpz__4K",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p2-investment-in-shares-versus-investment-in-other-assets-which-gives-the-greater-gain",
+      "title": "Investment in shares versus investment in other assets - which gives the greater gain?",
+      "part": 2,
+      "fingerprint": "41b166aabad91f47ae8da06187cf3226bf6c3b555c6dbda3fd307c817da4e428",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ZkOAiCoGPgQvTkwDzTthN-nHC2P-YGQp",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-keeping-the-water-away",
+      "title": "Keeping the water away",
+      "part": 2,
+      "fingerprint": "58af6126516c8f4934a77a2f45bb34d74b147cd0495295aa28fd09335995aa37",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "13qVYCvIhOwKMzEwBCTzlsV60G314kP7X",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.217
+    },
+    {
+      "job": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
+      "title": "Lake Bosumtwi - the secrets of a crater lake",
+      "part": 2,
+      "fingerprint": "55b072f4ae6cb8051c99a5e7636ce8b39d96fdfb920c0e8ce4d3e409b3b85b23",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1qsScgycPZfu84W66MXihya2TUs52y4SP",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.01
+    },
+    {
+      "job": "p2-learning-from-the-romans",
+      "title": "Learning from the Romans",
+      "part": 2,
+      "fingerprint": "57714596dcb7020a7c50fd1c1d3b4b645e541e9e9eb62b20c780929d0017e895",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1xiJ8lWeTHvvey4uWwa__0Bobr1TONWot",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-learning-from-the-romans.json",
+      "lessonId": "p2-learning-from-the-romans",
+      "sourceId": "1xiJ8lWeTHvvey4uWwa__0Bobr1TONWot",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "38459def22c1437c9b9e250ba3d54238332b013af6d3bb8d59ddcc17cef90f98",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.105
+    },
+    {
+      "job": "p2-learning-to-sing",
+      "title": "Learning to sing",
+      "part": 2,
+      "fingerprint": "c3d6b39b437894dd2b3a390a6e341ef950d1e7dccf5377a9f0abbeea6989bc60",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1VqxRH7VQdvXa3DepWjnEMzsZscRonIoF",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.067
+    },
+    {
+      "job": "p2-magnificent-money-making-mantas",
+      "title": "Magnificent money-making mantas",
+      "part": 2,
+      "fingerprint": "ed315b01adbb6fe37b0ea1685f912d39e8d618dcecfbba195e195ab0656b378a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1zcppjBNIIRI1VFXZqxOm9LVhaHBS5O6V",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-magnificent-money-making-mantas.json",
+      "lessonId": "p2-magnificent-money-making-mantas",
+      "sourceId": "1zcppjBNIIRI1VFXZqxOm9LVhaHBS5O6V",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "mc-two",
+        "mc-two"
+      ],
+      "sourceHash": "e1904ff63fc189369ec95e9b40d553d0aa4b99814717578ae5514bb053a74114",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.14
+    },
+    {
+      "job": "p2-making-images-from-space-more-accessible",
+      "title": "Making images from space more accessible",
+      "part": 2,
+      "fingerprint": "a2e74fcf9eba86438ba7b6308068cf1e338b71cb749a80fd0cb5d9e99069bbbd",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1wJGvhAmZe6KRKJ9HhL3zR95VDd_9qtWc",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-making-images-from-space-more-accessible.json",
+      "lessonId": "p2-making-images-from-space-more-accessible",
+      "sourceId": "1wJGvhAmZe6KRKJ9HhL3zR95VDd_9qtWc",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "8286d931506f582e9436818aebee2412ef1fbfd63921aa5f5ec1e9b4bc5b5f97",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.061
+    },
+    {
+      "job": "p2-mammoth-kill",
+      "title": "MAMMOTH KILL",
+      "part": 2,
+      "fingerprint": "109bb48a446729628dad9e6b96683d7d90b07de8d1e803b8df0204e0b1d8f5a5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1tDgzGETDOnjdm_CAsOYHNQt96aOM81gK",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-management-brains",
+      "title": "Management Brains",
+      "part": 2,
+      "fingerprint": "2f4f8fbe6424e9fcff6302f740ad74733c0b38dd43b8f9a24b0d1deebef928dc",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1N0D297-3PBd16aOXCOHLPBkHF09wBLF-",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-mimicry-and-parenting",
+      "title": "Mimicry and parenting",
+      "part": 2,
+      "fingerprint": "9a15a0fcb95ee9730f7fe2d40a3a9cce6d78980787280e3ed980085ca0d4f68b",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1-uaj3ARr-kt034A4-cl7cMKzL1YICkHN",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-moon-search",
+      "title": "Moon Search",
+      "part": 2,
+      "fingerprint": "58ea29630a0af7186c1929e3928c67a092ef84e6c4c211732e0eed1181702855",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ZayZ665DY1mjA-gQI6fviVmwHwzd7Zaf",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-moon-search.json",
+      "lessonId": "p2-moon-search",
+      "sourceId": "1ZayZ665DY1mjA-gQI6fviVmwHwzd7Zaf",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "7885c0f7c63a07a460cb01780e7c785feee8aa116fa7394486b872d7b89d6ebf",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.085
+    },
+    {
+      "job": "p2-multi-tasking-and-the-brain",
+      "title": "Multi-tasking and the brain",
+      "part": 2,
+      "fingerprint": "21d3b482cf5ba36b02b068205dbec1be57ef3b3e6bef9a428aa461912bde8741",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1NTfx-3CooQp96CTIPNKJuZaIquDh9Gbj",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-muscle-wasting",
+      "title": "Muscle Wasting",
+      "part": 2,
+      "fingerprint": "662e37784875d6f6f182a5bc22c3134df8e4f400f403f0aee9334ed800642d90",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1L3zamPgBmAAJuwgWrmA8V0usnrPecIm7",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-muscle-wasting.json",
+      "lessonId": "p2-muscle-wasting",
+      "sourceId": "1L3zamPgBmAAJuwgWrmA8V0usnrPecIm7",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "45f8b3ad76a6f3b2c2a6fb186919cffa813dc8d63e2b97a505fbc5daa835cc1d",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.082
+    },
+    {
+      "job": "p2-nanotechnology-the-science-of-the-very-small",
+      "title": "Nanotechnology: the science of the very small",
+      "part": 2,
+      "fingerprint": "e385dee512e6b6eaafd3b3fe7773831145dae1aab5c378016613a88185c0bfad",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1BQV99tHmK_Wv4M-Zs59vX6r8zIz_BU78",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-nature-s-numbers",
+      "title": "Nature's numbers",
+      "part": 2,
+      "fingerprint": "7b73ce86d640d6a0b78ae43ed50f99ae0a9eaa86f13a9941b98a9359ad7493e3",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "19aUG1joSz_4JAJWnU33a6q8i8ixQMi-S",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-new-businesses-in-new-zealand",
+      "title": "New Businesses in New Zealand",
+      "part": 2,
+      "fingerprint": "b7adee493728b3736f6ea77b4cbff4f69ef63fa8713ed6816710b7e5083fb7fc",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1JDvqt4AMGTT9EbPHTFDMFGqTniHudwt6",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['E']; expected ['A', 'B', 'C', 'D', 'E']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.06
+    },
+    {
+      "job": "p2-new-technology-in-new-zealand-s-health-service",
+      "title": "New Technology in New Zealand's Health Service",
+      "part": 2,
+      "fingerprint": "d25fafc6dbb8db22505eb3d307c1e50728c8416bdac4ea581b7247b797f71117",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1xEnclg1t6tR2AW5YSdi9Ovu6euAwQAU4",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-no-title-the-ecological-importance-of-bees",
+      "title": "No title - The Ecological Importance of Bees",
+      "part": 2,
+      "fingerprint": "23e4bc597eabd12a388785fe572fefb0d16e24df76dafe2df1927ac1809d8c9a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "14xJ0CMwQHNek9FYTh74qKFc1lEh0QFLg",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-office-design",
+      "title": "Office Design",
+      "part": 2,
+      "fingerprint": "1fa41ed79cfe3fa424956a8c3ac598b20f1a913ae7ecffc912bcd05efb85d558",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "14VJn-qV_kIjBDyFEBhKA8A6YUbUDGsYI",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-office-design.json",
+      "lessonId": "p2-office-design",
+      "sourceId": "14VJn-qV_kIjBDyFEBhKA8A6YUbUDGsYI",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "bc08e3605a3e47ee2b69aa09db8a9d60a886719a05599986a8d742404a8614bc",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.077
+    },
+    {
+      "job": "p2-orchids",
+      "title": "Orchids",
+      "part": 2,
+      "fingerprint": "a29d8a10c3e14af8a02cb91cb4270301d92cb34d2bbb2410fab765b3b688faf4",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1bNCS-5EN_xKc0xXCQqHH0rWx3eWY-44O",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-orchids.json",
+      "lessonId": "p2-orchids",
+      "sourceId": "1bNCS-5EN_xKc0xXCQqHH0rWx3eWY-44O",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "1a9ffb98a23a530930ac260cec7f55abc8fb65724b08300579583d5847eb24d4",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.093
+    },
+    {
+      "job": "p2-orientation-of-birds",
+      "title": "Orientation of birds",
+      "part": 2,
+      "fingerprint": "3ff0fc102aa944ce000b9f24ccf970e6fc8eb062973c557aa2fa3c553fe7169a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1iODWef0n86JhbTHM_LAmh8G_-aQTwvAa",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p2-our-sense-of-smell",
+      "title": "Our Sense of Smell",
+      "part": 2,
+      "fingerprint": "0a29c40ad11303aa3b7dc4a332c2738abd671022c7e77cca8f4fdba4e9d99f08",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB",
+          "code": "heading-questions",
+          "message": "Heading paragraph mapping is ambiguous"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.09
+    },
+    {
+      "job": "p2-pantomime",
+      "title": "Pantomime",
+      "part": 2,
+      "fingerprint": "5a26bd97d1ff034eccfe4d7482d010c5a9695a8a4cea3aafb1e52bcb7a1db2b6",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1aPfA9jbHfSuNYZ-6z9n1N-QV5xAMQzns",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-paternity-leave",
+      "title": "Paternity Leave",
+      "part": 2,
+      "fingerprint": "0dcea4b540b86b7a9151e382eecbc5f8f8706ba08dc56861212e9fd1c1510e5c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "11PmWDdJ3QnZeXvfa64-EcWgPMuVjHxb-",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.009
+    },
+    {
+      "job": "p2-patterns-of-settlement-in-the-english-countryside-chua-go",
+      "title": "Patterns of settlement in the English countryside(CHƯA GÕ)",
+      "part": 2,
+      "fingerprint": "9e613f3e81871cfbe99bc902f494ef622d2b6345eb3f60c1a303d9fdd8e75456",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Zbgh_OOvF3Lcu9m98AA5LwItGTx7yABK",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-playing-soccer",
+      "title": "Playing soccer",
+      "part": 2,
+      "fingerprint": "8e78a7ace3013b8534ea20a61f201693b9e8d6edb6f35036df990d63a4840595",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1oMbU9537IM9vW5XpNc7HIepGalmq2gMz",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.09
+    },
+    {
+      "job": "p2-playing-with-science",
+      "title": "Playing with science",
+      "part": 2,
+      "fingerprint": "cd95b44aeb350924a0f5a6b55e999ac208c3c3b198e1cfa89d38dab9ae7ecd7c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1cxVFXFlU6XHxSj7AO62kfln78ZkRLCV7",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-preserving-antarctic-history",
+      "title": "Preserving Antarctic History",
+      "part": 2,
+      "fingerprint": "490753326095639706e9becfc55015c5fde70109d96b730793e18dddcd493a15",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1b4Q8kaJHEYzKyY9WkEYkaGHNesp05jWw",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.012
+    },
+    {
+      "job": "p2-public-art-programs-research-update",
+      "title": "Public art programs: research update",
+      "part": 2,
+      "fingerprint": "9afc7089287ad09de8b80a7c427be12d61b05d84fe4fe818ae8c069e66f1c6f7",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1StFVbaf5cS2igiFVByZDUKZ3wEnGj1xy",
+          "code": "option-bank",
+          "message": "Missing, duplicate or out-of-order option codes: ['E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F']"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.095
+    },
+    {
+      "job": "p2-reading-in-different-media",
+      "title": "Reading in different media",
+      "part": 2,
+      "fingerprint": "9b59fce0e553860122351cb9a2661aa2afc76aa2ef1dd007293883335d5b0f7a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1xIskISO1Z-GlYyjJ275hRUJ2K4iLfjTs",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-reading-in-different-media.json",
+      "lessonId": "p2-reading-in-different-media",
+      "sourceId": "1xIskISO1Z-GlYyjJ275hRUJ2K4iLfjTs",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "929a241c79a20a0db8e26a7f4eefe43be334c32d6f714a8f1c3fa581b5ca2b76",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.079
+    },
+    {
+      "job": "p2-science-and-the-stradivarius",
+      "title": "Science and the Stradivarius",
+      "part": 2,
+      "fingerprint": "43702f14fb03134269a2c94e3b7802686d117ab70efbff4ab0cdfdd20d452304",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1dOO70W4Eg2yC4-vW2nMoNZAkx4mIBwHd",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-sir-gawain-and-the-green-knight",
+      "title": "Sir Gawain and the Green Knight",
+      "part": 2,
+      "fingerprint": "1a9f404e6cc6fee06296da56b31494e53785675593a192e833ec328f01a573c5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "17_JqmzAnlm1wpR9xpEbxJ1wj9oSQCkAL",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-storytelling-from-prehistoric-caves-to-modern-cinemas",
+      "title": "Storytelling, from prehistoric caves to modern cinemas",
+      "part": 2,
+      "fingerprint": "afb2e31312a04ff6f9e0f30212b3a10f71b7fbea639696c98a2c365f54a136ce",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1iN-jJf0hSlvMRIoib6fYX82KhX6_KtQw",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-storytelling-from-prehistoric-caves-to-modern-cinemas.json",
+      "lessonId": "p2-storytelling-from-prehistoric-caves-to-modern-cinemas",
+      "sourceId": "1iN-jJf0hSlvMRIoib6fYX82KhX6_KtQw",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "matching-features",
+        "summary-input"
+      ],
+      "sourceHash": "7c4b634eca538c7152276bcfcb779880fd88b11665e2a5b7fb5ffc8e744b1b57",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.057
+    },
+    {
+      "job": "p2-stress-less",
+      "title": "Stress Less",
+      "part": 2,
+      "fingerprint": "e5824eaadff68a81b4d3b0dd932b008537aaee88260dc96c55290c93128510a9",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Z4XDzkgHHChRNh_CZdQ082NlTzez5mSY",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-surviving-city-life",
+      "title": "Surviving city life",
+      "part": 2,
+      "fingerprint": "df8f81c35a5a70b6805865d5487220734daf15cda65e52f63951a999d9c046f8",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1lqaKTO7yuuzkkeg-0miVGccN-PsuGxUL",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+      "title": "Surviving the winter: hibernation and other resting states",
+      "part": 2,
+      "fingerprint": "accead52bceae61cb23e94077667105abd602785f39c7f4314fc5c0ffc28828e",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1slb5IKXWCFuYmDEZphdwQ51t73RtzfUo",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.115
+    },
+    {
+      "job": "p2-sydneys-road-stories",
+      "title": "Sydney’s Road Stories",
+      "part": 2,
+      "fingerprint": "bac56f7e6830c681dfe86387b14dfc348073a09816c1796b0666c69c804b1c2a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1SgSVB6DOI8IWZK-eEMTT8l2X2hr8gtVi",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-sydneys-road-stories.json",
+      "lessonId": "p2-sydneys-road-stories",
+      "sourceId": "1SgSVB6DOI8IWZK-eEMTT8l2X2hr8gtVi",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "summary-input",
+        "mc-two"
+      ],
+      "sourceHash": "f82efac4336c7ad88d87915bd75a77db6788bcf03496b0e9983adf42341cfe0e",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.077
+    },
+    {
+      "job": "p2-the-aerofoil",
+      "title": "The aerofoil",
+      "part": 2,
+      "fingerprint": "bf98b9c1682610921dd194fd1e9f8fd3d967ceaa887a0bc2c83535cd853f3710",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1f0MBRJyXLh3loIsXk4CVIBg_c97-w90W",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.015
+    },
+    {
+      "job": "p2-the-alps-2-ocean-cycle-trail",
+      "title": "The Alps 2 Ocean Cycle Trail",
+      "part": 2,
+      "fingerprint": "3e76c48cb994200cb4d2d47753e84836b3046004df9eeb919aa00c8920ad45aa",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1QD1CopZd1D_2MRyRoLlq_soXFTleqNyL",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-the-beginning-of-the-consumer-age",
+      "title": "The beginning of the consumer age",
+      "part": 2,
+      "fingerprint": "fe2ea1cb4d79aa5f37a0ca697b40f011ffe344f4f978f0ef50bd8ed967362eba",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1b-FBGEJHXzhCG_jbspFBvu2NegCy8ffI",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p2-the-coastal-archaeology-of-britain",
+      "title": "The Coastal Archaeology of Britain",
+      "part": 2,
+      "fingerprint": "df75a673f5ce563174ecc6984e437258342278760235f8c74e43cb6fe5f0ef9a",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ry1wM2jak0LguKMuqKwsiiA-Ax3-Kcom",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.163
+    },
+    {
+      "job": "p2-the-conquest-of-malaria-in-italy",
+      "title": "The conquest of malaria in Italy",
+      "part": 2,
+      "fingerprint": "03dddee08c35ba4c62a1deb9564d08ef3483da8cc29c61239a6b18a87527542d",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1pYwm7QgjHiiWXImJWC45PvPPyG_9n_0b",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-the-development-of-television-and-its-introduction-in-britain",
+      "title": "The development of television and its introduction in Britain",
+      "part": 2,
+      "fingerprint": "6f0dc63d5ba42a4df7eb222df5cdfc04477ece5ccec9b375b9c3689b4eb3d70f",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1o_U5D6jSwueHCiSO1FEY-gHwLpo8Pmac",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.158
+    },
+    {
+      "job": "p2-the-discovery-of-a-baby-mammoth",
+      "title": "The discovery of a baby mammoth",
+      "part": 2,
+      "fingerprint": "beb085fcd41acbe087e688a8a2a5ea5e82cbc8e78e94cca0433c202f26403035",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1C_yq5le9FALXnAmdvE1Px1xTG3PywTPt",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-future-of-fabrics-and-fibres",
+      "title": "The Future of Fabrics and Fibres",
+      "part": 2,
+      "fingerprint": "151c0e68d0cf989e79823fbe91d432a68b36923ad1e6a3656376d33fc394108c",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1H7KwukVz1PsCYk5N4xjcSWNq72avFPqb",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-future-of-fabrics-and-fibres.json",
+      "lessonId": "p2-the-future-of-fabrics-and-fibres",
+      "sourceId": "1H7KwukVz1PsCYk5N4xjcSWNq72avFPqb",
+      "questionCount": 13,
+      "types": [
+        "summary-input",
+        "tfng",
+        "notes"
+      ],
+      "sourceHash": "7e3fcfd13cc6bf4832a5740af1184bef641bd75457d5760a004c659bead06e43",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.127
+    },
+    {
+      "job": "p2-the-gender-gap-in-new-zealand-s-high-school-examination-results",
+      "title": "The gender gap in New Zealand's high school examination results",
+      "part": 2,
+      "fingerprint": "3a760aa1352ae91505e49c0dda922267ac195bf3a4f0f82b0c2bbfd84efa8a04",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1S13fPWb_igA5GxdLroMMT7ll6xk0GNtc",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.008
+    },
+    {
+      "job": "p2-the-history-of-the-celtic-language",
+      "title": "The history of the Celtic language",
+      "part": 2,
+      "fingerprint": "3ebb111e48240ec1922b7e51c6b7ee1ce5e59cb7a38ec7d37a87b451805b8138",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Ig2Tt-4Fz2_rpWA2NFAWC_iVA3-6dZY-",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    },
+    {
+      "job": "p2-the-impact-of-sports-tourism-on-urban-areas",
+      "title": "The Impact of Sports Tourism on Urban Areas",
+      "part": 2,
+      "fingerprint": "a7b5ef8dacf663ad3e8f67eed8861485454e3f50a3b25198c2b83d727a9d3bcc",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1y6O8X7rzUBDigeMi3Xog4iDT5gY3SN64",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.003
+    },
+    {
+      "job": "p2-the-importance-of-diet-chua-rep",
+      "title": "The importance of diet(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "d0d3f18d52822289fe93eb8c768e78dd1bab0eca717eaad6222c827cc5fb62a5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.012
+    },
+    {
+      "job": "p2-the-longest-conservation-fence-in-the-world-chua-rep",
+      "title": "The longest conservation fence in the world(CHƯA REP)",
+      "part": 2,
+      "fingerprint": "aa6f4f616e484db3c38981bf8da7f78b4e59e9b54d98cbfd9f9d329bfa7eb5e7",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1eMWdXKad7kBsrK_qzx6s3a6s84t8hyzG",
+          "code": "passage-title",
+          "message": "Actual source title/passage boundary requires review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.076
+    },
+    {
+      "job": "p2-the-lost-city",
+      "title": "THE LOST CITY",
+      "part": 2,
+      "fingerprint": "b10ddf1118b5e296b552942a1447b98576f288ea65d0c3708f46ff9df7f74401",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1NpdKzd3PiLv6Ks8Drf9SCCX3Gwd6vAup",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-nature-of-yawning",
+      "title": "The nature of yawning",
+      "part": 2,
+      "fingerprint": "763abcb46b94714a69560494da75d1880ef6177fc350a3ff72a15c4fa08895cb",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "17P3jqAK_s3PEr0QpczditMTu_qxy2M4Z",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p2-the-power-of-music",
+      "title": "The power of music",
+      "part": 2,
+      "fingerprint": "96d38aed5f8c12a4670c9b74413a3a8a43ceb8f6360cbcc2cc6a259dfb8d535d",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1Ww8os6MqXqnNXqzlyfa5irpk152CQpJ0",
+          "code": "paragraph-labels",
+          "message": "Source paragraph range differs from extracted text"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.058
+    },
+    {
+      "job": "p2-the-problem-of-graffiti",
+      "title": "The problem of graffiti",
+      "part": 2,
+      "fingerprint": "a6874bde0f271888872c1ebb02727cd958c60123336887f51e387e89eb0b42f1",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "17oUuCI6-aH-T66WlWvg067CEI8KchFmb",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-problem-of-graffiti.json",
+      "lessonId": "p2-the-problem-of-graffiti",
+      "sourceId": "17oUuCI6-aH-T66WlWvg067CEI8KchFmb",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "1d4839624da57ceb0dd36665c6b1a1ac04f1cf2b938178325b11cb5df996ef14",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.087
+    },
+    {
+      "job": "p2-the-rebirth-of-the-circus",
+      "title": "The Rebirth of the Circus",
+      "part": 2,
+      "fingerprint": "5537e6049dd44275b0af56afd2b4ddbaa303ecf2a6e5a8a7db73756b55dfad32",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1hBlBT7iVCZiKQh6y_YeIPIWXRlYMyA54",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-the-rebirth-of-the-circus.json",
+      "lessonId": "p2-the-rebirth-of-the-circus",
+      "sourceId": "1hBlBT7iVCZiKQh6y_YeIPIWXRlYMyA54",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "summary-input",
+        "matching-features"
+      ],
+      "sourceHash": "736e063356011cecabc7725c315a4a2820fd77b8bceb2c5ae34f6b48b909162c",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.058
+    },
+    {
+      "job": "p2-the-restoration-of-baja-california-s-fishing-communities",
+      "title": "The restoration of Baja California's fishing communities",
+      "part": 2,
+      "fingerprint": "a7935c48ffbce1f1899300c800df4653cb935864ca81ab5cdd7b89ad7a115c46",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "17xFnDcWyq8rv7fj53gG80vXkylNE5rzU",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-role-of-error-in-the-learning-process",
+      "title": "The role of error in the learning process",
+      "part": 2,
+      "fingerprint": "90d7486f99e62ebeaf8e93fad3069e5f580d0ea5f7380e6346c91fbd7438c257",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1gtH5ZtdoyzVx9n0q1chb4wxpvDiOgMBa",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p2-the-story-of-the-ocean",
+      "title": "The story of the ocean",
+      "part": 2,
+      "fingerprint": "9ed487aeb77da1399a699608d47f0740cb8f55596bab9ecf1489061245970c36",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ot8cORGlGpgzS6k9q2_ZKE9kaJxcqIXn",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p2-the-study-of-film",
+      "title": "The study of film",
+      "part": 2,
+      "fingerprint": "160a9e678c0e612031f1591907d4d53af0f6b86b7fa57b7bf3282a6cd18a9e63",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1NJuEWpdNqOMfMw3JSg1awPaHM2fqGk8b",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-the-tasmanian-tiger",
+      "title": "The Tasmanian Tiger",
+      "part": 2,
+      "fingerprint": "42b310201b666b5eacef9c2699a9fb38327f6016927901083e7fcdf5606205f5",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1OtyXz-kVvjRrna6_JjRRcZHT-UMZXHNR",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p2-understanding-climate-change",
+      "title": "Understanding climate change",
+      "part": 2,
+      "fingerprint": "40dc7a93372aa363a0f455842034025a2026d8a7ab0f4bf094bead7db5ef79d0",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1ObFvB5oC1Hb5ucjpcE2bs75HJ_18GV-r",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.007
+    },
+    {
+      "job": "p2-viking-ireland",
+      "title": "Viking Ireland",
+      "part": 2,
+      "fingerprint": "c043f601defab9b8b11db3a6970b79720ab527f439fee93badd1504155d8a114",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "190jx3Yr8K5GEioKIZU33oL0aOUOiLalE",
+          "code": "option-bank",
+          "message": "No unambiguous option markers"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.116
+    },
+    {
+      "job": "p2-walking-and-shoes-in-eighteenth-century-london",
+      "title": "Walking and Shoes in Eighteenth-Century London",
+      "part": 2,
+      "fingerprint": "c2922d89089c5203ca8bf374445b459e4ca9115ceff73a89421878d8fd0a65e7",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1qZAcXQrauiUALxvmJ3M9hEuv6j1GwGaB",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-walking-and-shoes-in-eighteenth-century-london.json",
+      "lessonId": "p2-walking-and-shoes-in-eighteenth-century-london",
+      "sourceId": "1qZAcXQrauiUALxvmJ3M9hEuv6j1GwGaB",
+      "questionCount": 13,
+      "types": [
+        "matching-info",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "c1347fb438e09255f1c6daed02969fe7f65f38b4fa04830eb19d7669381ac27f",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.072
+    },
+    {
+      "job": "p2-war-of-the-plants",
+      "title": "War of the Plants",
+      "part": 2,
+      "fingerprint": "a4f7be3ec8287517fa78785bae518466b460356f180b7963fe25d36e618ef955",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1weRhRznJ_qCSadrNuq9elVhPVOJTH7hD",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.006
+    },
+    {
+      "job": "p2-when-our-immune-system-works-against-us",
+      "title": "When our immune system works against us",
+      "part": 2,
+      "fingerprint": "12a17fe1cab7036b39b2203b3db0ddcb0bb71dc20a13acdd4aacaeb90d33d00f",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1uCJgojcmsVIMRHLoW-m5eQlqFqdLi6Es",
+          "code": "unsupported-task",
+          "message": "Unknown source task wording; needs reviewed adapter"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.083
+    },
+    {
+      "job": "p2-why-do-singers-lose-their-voices",
+      "title": "Why do singers lose their voices",
+      "part": 2,
+      "fingerprint": "5e3ae24b3929df9d80b759c43abb7a14c0ea3ec13ec096100132fee323c0024e",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1P80wk8jUMFbIUK8jAMTNUzj1zhDD6HeD",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.004
+    },
+    {
+      "job": "p2-why-we-cant-trust-maps",
+      "title": "Why We Can’t Trust Maps",
+      "part": 2,
+      "fingerprint": "b6c0917afb67a8b800f4ba55cfd8e88d5e44bfeb757fda835e4e16eb61c0c4ad",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1R3Z4o-lJ7y8AzwehVwIjgdZK_4wjYHYW",
+          "code": "converted",
+          "message": "Structural checks passed; passage/layout still require review"
+        }
+      ],
+      "status": "ready-for-review",
+      "requiresReview": true,
+      "draft": "drafts/p2-why-we-cant-trust-maps.json",
+      "lessonId": "p2-why-we-cant-trust-maps",
+      "sourceId": "1R3Z4o-lJ7y8AzwehVwIjgdZK_4wjYHYW",
+      "questionCount": 13,
+      "types": [
+        "matching-headings",
+        "mc-two",
+        "summary-input"
+      ],
+      "sourceHash": "4a7f4d0a8a9a54393fd20208b3c8b6922c99bf7e2dd62595e5c528a429292214",
+      "checks": [
+        "numbering",
+        "option-codes",
+        "gap-count",
+        "source-rules"
+      ],
+      "seconds": 0.245
+    },
+    {
+      "job": "p2-will-eating-less-make-you-live-longer",
+      "title": "Will Eating Less Make You Live Longer?",
+      "part": 2,
+      "fingerprint": "42a72aabce438471e4d4f480c0c213d944943bb1325c795b8227413e71e84fad",
+      "converterVersion": "3.9",
+      "attempts": [
+        {
+          "sourceId": "1D9Lf2HiSIUDPuv3D8lukUemfrFMV8arT",
+          "code": "scan-review",
+          "message": "Image/scan pages need OCR and visual source review"
+        }
+      ],
+      "status": "held",
+      "requiresReview": true,
+      "seconds": 0.005
+    }
+  ],
+  "published": 0
+}

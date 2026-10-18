@@ -1,0 +1,22 @@
+{
+  "job": "p3-all-in-the-family",
+  "title": "All in the family",
+  "part": 3,
+  "fingerprint": "132c6cd213595e208489119cb7c3623b58e869cd9fcba29d27ab6389d11f9efb",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "12-X5PS-vxaXH3V3x6_O8OVywdDOB2f0g",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "19UpsDrY0NBQAD9nYgZYiOlrLb0AyS8th",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

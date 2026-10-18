@@ -1,0 +1,202 @@
+{
+  "id": "p2-a-new-way-of-reading",
+  "part": 2,
+  "title": "A new way of reading",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Reading and writing, like all technologies, are dynamic. In ancient times, authors often spoke their ideas and sentences aloud. As this dictation sounded like an uninterrupted series of letters, scribes wrote them down in one long continuous string. Text was produced without spaces up until the 11th century, and this made continuous script hard to read. Only a few people were accomplished at reading aloud to others, and even fewer people could read silently. Writing was an even rarer skill. In 15th-century Europe, it was restricted to males exclusively, and even then, only one in 20 of them were proficient."
+    },
+    {
+      "label": "B",
+      "text": "After Gutenberg’s printing press came along in the mid-15th century, mass-produced books had a great effect on literacy, The technology of printing meant that the vocabulary of the average person expanded. More word choices enlarged what could be communicated. Authors did not have to compose scholarly books, but could enjoy the new-found freedom of writing inexpensive books of love stories, or publish memoirs. People could write texts to oppose the prevailing consensus, and with cheap printing those unorthodox ideas could gain enough influence to overthrow a king. In time, the power of authors bred a culture of expertise and authority. Laws were compiled into official publications and nothing was valid unless put into words. Painting, music, architecture, dance were all important, but the heartbeat of Western culture was books. By 1910, there was a library in three quarters of all small towns in America."
+    },
+    {
+      "label": "C",
+      "text": "Today, words have migrated from paper to pixels on devices such as computers, phoned laptops and tablets. Letters are no longer fixed in black ink on paper, but flitter on a glass surface in a rainbow of colors as fast as our eyes can blink. Screens fill our living room walls, the sides of buildings, and even pockets, briefcases and dashboards, meaning we have access to them wherever we go. A screen can reveal hidden information about things. Waving the camera eye of a smartphone over the barcode of a manufactured product reveals its price, origins and even relevant comments by other purchasers. And of course, these newly ubiquitous screens have changed how we read and write."
+    },
+    {
+      "label": "D",
+      "text": "The first screens that overtook culture several decades ago — televisions — reduced the time we spent reading to such an extent that it seemed as if it was the end of reading and writing. Educators were worried that the TV generation would be unable to write. But the interconnected displays of the second wave of screens — computers — launched an epidemic of writing that continues to swell. The amount of time people spend reading has almost tripled since 1980. By 2008 more than a trillion pages were added to the World Wide Web, and that total grows by several billion a day. Right now, ordinary citizens compose 1.5 million blog posts per day. Using their thumbs instead of pens, people around the world collectively write 12 billion comments per day from their phones. More screens continue to swell the volume of reading and writing."
+    },
+    {
+      "label": "E",
+      "text": "However, this is screen reading. It is not book reading. Screen are always on, and, unlike with books, we can’t escape them. This new platform is gradually merging words with moving images: words zip around, they float over images, serving footnotes or annotations. You might think of this new platform as books we watch or television we read. Screens are also intensely data-driven. Visualizing data is a new art, and reading graphs is a new type of literacy. Screens culture demands fluency in all kinds of symbols, not just letters. And it demands more than our eyes. Screens engage our bodies. Touch screens respond to our fingertips. We interact with that we see. Just as it was unusual five centuries ago to see someone read silently, in years to come it will seem out of place to read without moving your body."
+    },
+    {
+      "label": "F",
+      "text": "Reading printed books was good at developing a number of human attributes and behaviors. Book reading strengthened our analytical skills, encouraging us to pursue an argument all the way down to the end of a relevant piece of text without losing the logic of what had been written. Screen reading encourages quick pattern-making, associating one idea with another, equipping us to deal with the thousands of new thoughts expressed every day. The screen physically and mentally reacts to what we are reading as we are reading it. Screens provoke action instead of persuasion. They encourage you to research a term, to query your screen ‘friends’ for their opinions, to find alternative views, to create a bookmark, to interact with the thing rather than simply contemplate it. The circulation of information that might not be correct is less effective in a world of screens than in a world of books, because while incorrect facts travel fast, corrections do, too. In books we find a revealed truth; on the screen we assemble our own truth from pieces."
+    },
+    {
+      "label": "G",
+      "text": "We live on screens of all sizes. Soon enough, screens will routinely follow our eyes to perceive where we gaze. A screen will know what we are paying attention to and for how long. Screens will be the first plate we will look for answers, for friends, for news, for meaning and for our sense of who we are."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 14-19 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "slots": 1
+        },
+        {
+          "n": 15,
+          "slots": 1
+        },
+        {
+          "n": 16,
+          "slots": 1
+        },
+        {
+          "n": 17,
+          "slots": 1
+        },
+        {
+          "n": 18,
+          "slots": 1
+        },
+        {
+          "n": 19,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "In ancient times, author used {{14}} , and scribes wrote down the letters they heard.",
+        "Until the 11th century, written documents contained no {{15}} .",
+        "It was only {{16}} who could write in 15th-century Europe.",
+        "In the mid-15th century, people’s {{17}}increased as a result of new technology.",
+        "As the printed word gained importance, {{18}} were written down in government books.",
+        "A {{19}} was a common facility in many American communities in the 20th century."
+      ]
+    },
+    {
+      "sourceInstructions": "Question 20 – 24 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 20-24 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 20,
+          "prompt": "examples of the way in which today’s small screens are conveniently transportable"
+        },
+        {
+          "n": 21,
+          "prompt": "a reference to the capabilities of screens in the future"
+        },
+        {
+          "n": 22,
+          "prompt": "a reference to teachers’ concerns about the effects of new technology"
+        },
+        {
+          "n": 23,
+          "prompt": "an example of the value of new technology for shoppers"
+        },
+        {
+          "n": 24,
+          "prompt": "a description of the influence of screens on writing"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 25 and 26 Choose TWO letters, A-E Write the correct letters in boxes 25 and 26 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "numbers": [
+        25,
+        26
+      ],
+      "prompt": "According to the writer, which TWO of the following statements are true of screen reading?",
+      "options": [
+        {
+          "value": "A",
+          "text": "It is less intellectually challenging than book reading."
+        },
+        {
+          "value": "B",
+          "text": "It demands less attention than television viewing."
+        },
+        {
+          "value": "C",
+          "text": "It requires the ability to read more than just the alphabet."
+        },
+        {
+          "value": "D",
+          "text": "It is an experience that required physical activity."
+        },
+        {
+          "value": "E",
+          "text": "It sometimes simplifies graphic data."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1_XOI8otcC2fu__m9dNsulB9yQzdh-d9V",
+      "role": "passage-and-questions",
+      "sha256": "209ed0e3d10b1bc4a00a058c371cd392d6705da18a76ef1643be4c5fc261b849",
+      "name": "A new way of reading.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-a-new-way-of-reading"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "As digital screens become more widely used and people move from print to pixel how will the act of reading change?",
+  "cover": {
+    "asset": "assets/batch3-code-cover.jpg",
+    "alt": "Mã lập trình",
+    "credit": "Markus Spiske",
+    "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-4-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

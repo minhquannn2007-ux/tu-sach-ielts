@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-the-british-wool-industry",
+  "title": "The history of the British wool industry",
+  "part": 1,
+  "fingerprint": "33a07da7910f0977def5647ee16bfe77eb4ea5780e35eaef83bac98eeb9aae59",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-the-british-wool-industry.json",
+  "lessonId": "p1-the-history-of-the-british-wool-industry",
+  "sourceId": "1_PgZAO72JLILWECIb7JcmKltOvnvAEUF",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "30cce6352b9438a5952e9cee804b15b1f719afffc0adf4ffa712da1ab1bf7026",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.061
+}

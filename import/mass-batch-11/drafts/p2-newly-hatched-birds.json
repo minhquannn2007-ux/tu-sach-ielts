@@ -1,0 +1,170 @@
+{
+  "id": "p2-newly-hatched-birds",
+  "part": 2,
+  "title": "Newly hatched birds",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Sometimes, an egg speaks to another egg. That of a ground-living bird such as a quail, lying snugly in its nest beneath a bush, begins to make clicking noises as it approaches hatching. The little chick within has poked its beak into the air-filled space between the shell and the internal membrane at the blunt end of the egg and is taking its first breaths. The clicks it makes are very rapid – over a hundred per second – and they can be heard by the chicks within the dozen or so eggs lying alongside it. Those that are more advanced and on the verge of hatching will now slow down. They themselves are also clicking but much less rapidly – 60 times per second or less – and these noises have the effect of encouraging other chicks to speed up their development. As such messages circulate among the clutch, so the eggs adjust their development to one another and eventually, although the female quail laid her eggs at 24-hour intervals over a period of two weeks, they all approach the moment of emergence simultaneously."
+    },
+    {
+      "label": "B",
+      "text": "That is important for their survival, as the nest in which they lie may have become increasingly conspicuous. The visits back and forth by the female may have worn a faint path through the surrounding vegetation. The activities of hatching and the white newly exposed insides of the vacated broken shells, even though the assiduous parent will have removed them as soon as possible, will inevitably cause a certain amount of commotion and that could have caught the attention of a sharp-eyed predator. If the hatching process were to be extended over many days, the whole clutch would be imperilled. It is much better that they should all hatch together so that the parents can lead the whole family away as soon as possible from the tell-tale nest."
+    },
+    {
+      "label": "C",
+      "text": "Quail eggs, like those of all ground-nesting birds, contain very generous quantities of yolk, and this nutrient enables the chicks to develop very fully while they are still in the shell. To give time for that to happen, the adults have incubated the eggs for a particularly long period. As a result, the infants that now stagger to their feet are far from helpless. Their eyes are open, they have downy coats which, as soon as they are dry, will keep them warm, and they soon develop the ability to control their own body temperature. They do not yet have either the breast muscles to beat their wings, nor blade-like feathers that will sustain them in the air. So they are flightless. But their legs are strong and sufficiently well-muscled to enable them to run. Their tiny stomachs still contain a considerable quantity of yolk, and this will sustain them for a day or so. Quail chicks, within an hour or so of the first eggs hatching, are ready to move, and their mother leads the whole brood away from the nest."
+    },
+    {
+      "label": "D",
+      "text": "The mother quail helps her young to find food, scratching away with her feet and, when she finds an edible particle, putting it down in front of one of her chicks and pointing at it with her beak. Baby cranes are marginally less able to look after themselves and have to be fed, their mothers offering morsels to them directly. Newly hatched kiwis and many shore birds, however, can find their food without any help of any kind. One way or another, all chicks of ground-nesting birds soon learn to feed themselves."
+    },
+    {
+      "label": "E",
+      "text": "Water-birds also vacate their nests with their families as soon as they can. Jacanas pick up their newly-hatched youngsters from the floating leaves on which they nest, tuck them beneath their wings and march away across the floating leaves to find a place where there are lots of insects for the young to eat. Grebes, which make similar floating nests, provide a more dignified ferry service. The chicks climb up onto the back of one of their parents. Once they are on board, the adult raises its wings slightly to prevent them falling off and sails away across the lake with the youngsters peering inquisitively over the sides. The sungrebe, which is not a grebe at all but occupies a family entirely of its own, has the most extraordinary of any method used by birds to transport their infants. The male has pouches in his skin like saddle-bags, one on either side of his body beneath the wing. His two young are so underdeveloped when they hatch that, unlike those of any other water-birds, they are blind and virtually naked. Somehow or other – no one is sure exactly how – these tiny helpless young arrive in the male's pouches, one on each side. The male is even able to take to the air with them on board. No other bird has been seen carrying its young with it on flights."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Do the following statements agree with the information given in Reading Passage 2? In boxes 14-18 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "A click rate of up to 60 per second indicates that a quail chick is ready to hatch."
+        },
+        {
+          "n": 15,
+          "prompt": "Quails attempt to fight off any predators which attack their chicks."
+        },
+        {
+          "n": 16,
+          "prompt": "Quails take the longest time to hatch of all ground-nesting birds."
+        },
+        {
+          "n": 17,
+          "prompt": "Quail chicks are able to travel on land the same day that they hatch."
+        },
+        {
+          "n": 18,
+          "prompt": "Quail chicks need to be fed as soon as they hatch."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 19 – 22 Look at the following behaviours (Questions 19-22) and the list of birds below. Match each behaviour with the correct bird, A-F. Write the correct letter, A-F, in boxes 19-22 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 19,
+          "prompt": "The mother indicates food to the chicks."
+        },
+        {
+          "n": 20,
+          "prompt": "The parent propels itself through water, carrying the chicks."
+        },
+        {
+          "n": 21,
+          "prompt": "The parent flies away from the nest, carrying the chicks."
+        },
+        {
+          "n": 22,
+          "prompt": "The parent feeds the chicks."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "cranes"
+        },
+        {
+          "value": "B",
+          "text": "grebes"
+        },
+        {
+          "value": "C",
+          "text": "jacanas"
+        },
+        {
+          "value": "D",
+          "text": "kiwis"
+        },
+        {
+          "value": "E",
+          "text": "quails"
+        },
+        {
+          "value": "F",
+          "text": "sungrebes"
+        }
+      ],
+      "targetName": "bird",
+      "listTitle": "List of Birds",
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Reading Passage 2 has five paragraphs, A-E. Which paragraph contains the following information? Write the correct letter, A-E, in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "prompt": "an illustration of the effect on a baby bird of the considerable time it spent in the egg"
+        },
+        {
+          "n": 24,
+          "prompt": "an activity that is unknown among other birds"
+        },
+        {
+          "n": 25,
+          "prompt": "an explanation of the benefit of all eggs in a clutch hatching at the same time"
+        },
+        {
+          "n": 26,
+          "prompt": "an example of communication between birds before they hatch"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "paragraphCount": 5,
+      "reuse": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "1hc3_OGqV978ULgq_uV5aogZaKIfUaMnf",
+      "role": "passage-and-questions",
+      "sha256": "396fc37f998ca0d84dbcf106b3cebea2daa7931b199906769fbb3dd7d5227b6f",
+      "name": "Newly hatched birds.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.11",
+    "sourceParagraphCount": 5,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-newly-hatched-birds"
+  },
+  "displayParagraphLabels": true
+}

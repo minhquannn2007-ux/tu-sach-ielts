@@ -1,0 +1,33 @@
+{
+  "job": "p2-corporate-social-responsibility",
+  "title": "Corporate Social Responsibility",
+  "part": 2,
+  "fingerprint": "6329d6a25cfb13b3e0bfb2b1f17353948000a861303f59923056172aeb683074",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1tqejMSsax6TAvMhHktJ7edmp87pZk4Yn",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-corporate-social-responsibility.json",
+  "lessonId": "p2-corporate-social-responsibility",
+  "sourceId": "1tqejMSsax6TAvMhHktJ7edmp87pZk4Yn",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "5dd3a6ab8dd4d21767547c7a0ac66f2608ad4c3ce40f8355495e1c349c77fd56",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.067
+}

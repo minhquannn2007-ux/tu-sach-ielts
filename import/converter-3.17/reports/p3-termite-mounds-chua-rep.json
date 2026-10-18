@@ -1,0 +1,17 @@
+{
+  "job": "p3-termite-mounds-chua-rep",
+  "title": "Termite Mounds(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "34218c2ccf8fc275937015d5c66ac00248f842eb153b34c54409f8ba0b4e6229",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1-iQAexQHXof0A1JHHRBdPaAalewuRRUj",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

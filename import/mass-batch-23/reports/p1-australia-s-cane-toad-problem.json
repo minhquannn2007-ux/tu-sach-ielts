@@ -1,0 +1,22 @@
+{
+  "job": "p1-australia-s-cane-toad-problem",
+  "title": "Australia's cane toad problem",
+  "part": 1,
+  "fingerprint": "428b38084633cb2b732c92c249adc9fde2fd704893dfff8f070db0c8eb929a59",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1UefYbSx5yIqc5N3HNJzSzIBfUnpc-P8K",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1AzHYljKrGUgWrpbBZdD5cV_xbBmbAzFF",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

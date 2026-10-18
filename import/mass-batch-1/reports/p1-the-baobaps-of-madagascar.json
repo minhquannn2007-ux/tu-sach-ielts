@@ -1,0 +1,24 @@
+{
+  "job": "p1-the-baobaps-of-madagascar",
+  "title": "The Baobaps of Madagascar",
+  "part": 1,
+  "fingerprint": "88ede9acadd4776b2ea0f436c00f2e15ae819092b025fe2fd86b528c52f8fa48",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1nn_3XnvZuoutYnG8O9rTy5_2ArGdcUAE",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1nn_3XnvZuoutYnG8O9rTy5_2ArGdcUAE.json",
+      "ocrConfidence": [
+        91.5,
+        92.0,
+        95.2,
+        87.8
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.012
+}

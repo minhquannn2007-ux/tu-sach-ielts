@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-restoration-of-baja-california-s-fishing-communities",
+  "title": "The restoration of Baja California's fishing communities",
+  "part": 2,
+  "fingerprint": "6429e51d84157c9aa486ebc7b4d79d6be47ccf4124b4010fb19cb871715db74a",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "17xFnDcWyq8rv7fj53gG80vXkylNE5rzU",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

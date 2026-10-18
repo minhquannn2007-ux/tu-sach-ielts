@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-role-of-accidents-in-business",
+  "title": "The role of accidents in business",
+  "part": 3,
+  "fingerprint": "8cf7d0fff56a6f2cfdbb6da5474d87e1193c68f79af3679e9ea9796ca6e4a588",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1UaAS5CvpHfORzFT1-NvVwU3vDuzRE_U_",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

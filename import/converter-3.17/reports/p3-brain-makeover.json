@@ -1,0 +1,34 @@
+{
+  "job": "p3-brain-makeover",
+  "title": "Brain Makeover",
+  "part": 3,
+  "fingerprint": "db0a70b3024580fc0247b654b319448c3f89e612688904b0e5f2d0ecb3c5dd5d",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1lTtFrMitsJT_riTx1FxI9GNVxYk43mKz",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-brain-makeover.json",
+  "lessonId": "p3-brain-makeover",
+  "sourceId": "1lTtFrMitsJT_riTx1FxI9GNVxYk43mKz",
+  "questionCount": 14,
+  "types": [
+    "matching-info",
+    "ynng",
+    "summary-input",
+    "mc-one"
+  ],
+  "sourceHash": "be0ebd9ec9c11f1e0cc7682248b41b5a42166a226632c523ddc8b031a9a13cb1",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.075
+}

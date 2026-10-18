@@ -1,0 +1,22 @@
+{
+  "job": "p1-the-olympic-torch-chua-rep",
+  "title": "The Olympic Torch(CHƯA REP)",
+  "part": 1,
+  "fingerprint": "db0fded849988d39de65ab3134e67b1b36d2c5a170455e44c18d48168ca98e63",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1iuotk1qL0EtHH8r8EvqWW8di3OIDQ-Dv",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+    },
+    {
+      "sourceId": "1EknzSuQY-9hRWpSwwj9m4Zi-Da_aEeqq",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.058
+}

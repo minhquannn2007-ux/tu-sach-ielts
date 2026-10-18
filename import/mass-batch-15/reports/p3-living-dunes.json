@@ -1,0 +1,17 @@
+{
+  "job": "p3-living-dunes",
+  "title": "Living dunes",
+  "part": 3,
+  "fingerprint": "0d901b4837624e93495a25d72337a5967f40bcad29bfd81214b0f626932ed120",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1cUMRetOaL8AGAGYvZKkyHFJuAY0B2McQ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

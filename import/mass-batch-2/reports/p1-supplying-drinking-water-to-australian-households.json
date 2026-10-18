@@ -1,0 +1,32 @@
+{
+  "job": "p1-supplying-drinking-water-to-australian-households",
+  "title": "Supplying drinking water to Australian households",
+  "part": 1,
+  "fingerprint": "7f9a3832b21c908cf9c24a3305c5c72430e5577ee703837034e76638145ff230",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1KED-RH60fyVEUoRkiqSePQe76_QBdmRO",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-supplying-drinking-water-to-australian-households.json",
+  "lessonId": "p1-supplying-drinking-water-to-australian-households",
+  "sourceId": "1KED-RH60fyVEUoRkiqSePQe76_QBdmRO",
+  "questionCount": 13,
+  "types": [
+    "notes",
+    "tfng"
+  ],
+  "sourceHash": "a491aa7870fddca61cb22b31862970add856e5230d5d5158ed372c92e0bf3f26",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.082
+}

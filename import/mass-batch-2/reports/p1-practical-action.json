@@ -1,0 +1,17 @@
+{
+  "job": "p1-practical-action",
+  "title": "Practical Action",
+  "part": 1,
+  "fingerprint": "2fa96b5e617aabfe286bb546addbbc67fb8c8424b6f1930971860318e5a5fc61",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "18DjcKb1FkgLp8iWbOA-LY0Z4e_b5nkHE",
+      "code": "diagram-review",
+      "message": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.07
+}

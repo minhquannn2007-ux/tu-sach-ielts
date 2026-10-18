@@ -1,0 +1,32 @@
+{
+  "job": "p1-the-history-of-the-picnic",
+  "title": "The history of the picnic",
+  "part": 1,
+  "fingerprint": "9da693d1a2628cbf7af7aaa9390626443205c44deb878c9476e041bb0da708b9",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1Humrg_Stgwms349C5la_7NSlJDiG57GI",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-history-of-the-picnic.json",
+  "lessonId": "p1-the-history-of-the-picnic",
+  "sourceId": "1Humrg_Stgwms349C5la_7NSlJDiG57GI",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "c0688dde7c83401f2bf4047e9bc7554b852eb182a4531fca1075721574e0e85c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.062
+}

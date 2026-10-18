@@ -1,0 +1,33 @@
+{
+  "job": "p3-saving-languages",
+  "title": "Saving languages",
+  "part": 3,
+  "fingerprint": "5350f0034fa86d5306493c31abfd458fbe00ef978babd5979859307d816f8f2f",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-saving-languages.json",
+  "lessonId": "p3-saving-languages",
+  "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+  "questionCount": 14,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "mc-one"
+  ],
+  "sourceHash": "ca04f568817ebdbd7d8e4ee49cfae712ea8be5bdc3a02d8ca451644eb5ea3e9d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

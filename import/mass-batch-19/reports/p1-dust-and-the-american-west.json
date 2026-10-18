@@ -1,0 +1,17 @@
+{
+  "job": "p1-dust-and-the-american-west",
+  "title": "Dust and the American West",
+  "part": 1,
+  "fingerprint": "7542ab98c1989c8a0a1fda8dfdd880b6020705e878053f092456d5e49754e94b",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1g2DNWkmOd6yy4dRjY-NlH83454MFivam",
+      "code": "gap-numbering",
+      "message": "Expected one control per source gap [6, 7, 8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.072
+}

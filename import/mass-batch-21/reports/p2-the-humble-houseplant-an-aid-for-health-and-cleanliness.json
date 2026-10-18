@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
+  "title": "The humble houseplant - an aid for health and cleanliness",
+  "part": 2,
+  "fingerprint": "97ad28110520714483c0c360893a63806a2240fa15afa863c309123881f81bf3",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "17SiTutSqftb9Uyufg5ERk6Wx4sAEbXIL",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.183
+}

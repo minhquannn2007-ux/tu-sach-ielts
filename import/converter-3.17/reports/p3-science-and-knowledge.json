@@ -1,0 +1,22 @@
+{
+  "job": "p3-science-and-knowledge",
+  "title": "Science and knowledge",
+  "part": 3,
+  "fingerprint": "65de326f67f5f2edff3e98c3fdcab3f3539eb7cd3f1f56aee6524f025bd45f22",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'H', 'I', 'J', 'K']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+    },
+    {
+      "sourceId": "1GB538sFZHh_K0D6AoRX7Jr3AFSqSIVvY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.078
+}

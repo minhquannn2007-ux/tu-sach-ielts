@@ -1,0 +1,22 @@
+{
+  "job": "p1-radiocarbon-dating-chua-rep",
+  "title": "Radiocarbon dating(CHƯA REP)",
+  "part": 1,
+  "fingerprint": "da71736883050c309687dea42ca6cca89394f8c74185f968d45e3b44890f1bd4",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1Id7BU52IAIAeL2WjPQwA2Zt0QbRB2FdV",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1HGKd1aHzwHWkrF4vrf7UMHFjn8-zkmHO",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.084
+}

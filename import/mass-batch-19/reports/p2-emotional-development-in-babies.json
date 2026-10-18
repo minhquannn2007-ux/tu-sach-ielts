@@ -1,0 +1,33 @@
+{
+  "job": "p2-emotional-development-in-babies",
+  "title": "Emotional development in babies",
+  "part": 2,
+  "fingerprint": "0627a9a939fc72898f5715fac46adfcb2f7fa33897cead6b245731039f8da7c2",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1RekJ84esARnqb5twgAejcVj4qzLsCe1n",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-emotional-development-in-babies.json",
+  "lessonId": "p2-emotional-development-in-babies",
+  "sourceId": "1RekJ84esARnqb5twgAejcVj4qzLsCe1n",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-one",
+    "tfng"
+  ],
+  "sourceHash": "d742cd761f9d7673b9db2270e2956b66c34d824adb0cd3ec97e107934e1e8bc8",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

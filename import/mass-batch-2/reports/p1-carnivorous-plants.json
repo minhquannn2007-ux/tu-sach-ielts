@@ -1,0 +1,17 @@
+{
+  "job": "p1-carnivorous-plants",
+  "title": "Carnivorous Plants",
+  "part": 1,
+  "fingerprint": "780de7f04767f635c79f005713da83921fac67fd627735acf11553490241b01f",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "13H4vMNOqtmRJEVZjYcxdmhhbAXSAkkH5",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

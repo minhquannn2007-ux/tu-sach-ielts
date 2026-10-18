@@ -1,0 +1,32 @@
+{
+  "job": "p1-saving-the-kiwi",
+  "title": "Saving the kiwi",
+  "part": 1,
+  "fingerprint": "0a7664cce44d104185394d423498e95a8f80c6fc54c8b1d9e9f21163dce821dc",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1dF7J8Mf0nD5pnHN9kXy30tYsXZ1FlsVs",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-saving-the-kiwi.json",
+  "lessonId": "p1-saving-the-kiwi",
+  "sourceId": "1dF7J8Mf0nD5pnHN9kXy30tYsXZ1FlsVs",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "54c776d5c10bf0e88382a47a029314b51320c19a7cf6640bb11c439c0aafd120",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.102
+}

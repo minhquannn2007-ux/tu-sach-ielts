@@ -1,0 +1,34 @@
+{
+  "job": "p2-playing-soccer",
+  "title": "Playing soccer",
+  "part": 2,
+  "fingerprint": "9fa859d8798052c82413cb196f69f78ce93d31633ff34025ed6027fe1917434f",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1oMbU9537IM9vW5XpNc7HIepGalmq2gMz",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-playing-soccer.json",
+  "lessonId": "p2-playing-soccer",
+  "sourceId": "1oMbU9537IM9vW5XpNc7HIepGalmq2gMz",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "6f646f3b608d71afa13bfca1d4d6847f23028649b2ba1f5fd251531700d1bc37",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.056
+}

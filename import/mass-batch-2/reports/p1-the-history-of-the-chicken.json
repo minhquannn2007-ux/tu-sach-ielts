@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-history-of-the-chicken",
+  "title": "The History of the Chicken",
+  "part": 1,
+  "fingerprint": "85bec67dd677fe1495155e0eff1337141c0c2747099734d70ce8a5c9fadf401c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "14zf7Z6Hk-speYCjobmLZrDpxPo-fgiNb",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

@@ -1,0 +1,32 @@
+{
+  "job": "p3-does-class-size-matter",
+  "title": "Does class size matter?",
+  "part": 3,
+  "fingerprint": "44590ed0ba9a7109dfc89087867145eb2c1469b90c23e4a552715ce6e274e10f",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1T_3ZNL3DvaElZrId9egdkFHumtxHIhEP",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-does-class-size-matter.json",
+  "lessonId": "p3-does-class-size-matter",
+  "sourceId": "1T_3ZNL3DvaElZrId9egdkFHumtxHIhEP",
+  "questionCount": 14,
+  "types": [
+    "matching-info",
+    "matching-features"
+  ],
+  "sourceHash": "cfb732137b62d2c07729f9dd0dd88995ba60c8a9602ffefcefe4bc223f50a98d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.063
+}

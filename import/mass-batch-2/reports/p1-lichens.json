@@ -1,0 +1,17 @@
+{
+  "job": "p1-lichens",
+  "title": "Lichens",
+  "part": 1,
+  "fingerprint": "1b2a68f50cf145784f56e3576a237faf2cdb934fd3e9a6af169603fc4cebc531",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1N4oVggeUnJCov8yzOTtHrxdWQASNTv_1",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

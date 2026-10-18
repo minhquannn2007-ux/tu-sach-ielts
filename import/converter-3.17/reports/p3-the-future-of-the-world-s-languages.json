@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-future-of-the-world-s-languages",
+  "title": "The future of the world's languages",
+  "part": 3,
+  "fingerprint": "502cb3904d2a6649ee122896e2c737be90574477fd3e31762d552bb1848227fe",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1DNhXCmo2Tvsk_XF1opwO7Sdtho3NIbTC",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1o62NYiZ9kUsmwoj5ifE66U_eDm7clNPh",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

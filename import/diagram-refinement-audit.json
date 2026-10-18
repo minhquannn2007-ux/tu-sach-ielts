@@ -1,0 +1,492 @@
+{
+  "version": 2,
+  "count": 16,
+  "diagrams": [
+    {
+      "job": "p1-practical-action",
+      "asset": "assets/diagram-p1-practical-action-source-v2.png",
+      "sourceId": "18DjcKb1FkgLp8iWbOA-LY0Z4e_b5nkHE",
+      "sourceSHA256": "5f03c118048a6db7b4c456cd3112348741463a13ac4219c15e18e11f62f725d0",
+      "sourcePage": 4,
+      "sourceCrop": [
+        51,
+        173,
+        540,
+        486
+      ],
+      "width": 1801,
+      "height": 1153,
+      "padding": 0,
+      "masksApplied": 6,
+      "paperTransparent": true,
+      "transparentPixels": 1877763,
+      "opaquePixels": 35687,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "81267983cdab22110cbc5f33415efdd65351f6646860aa028962e5380b3aac00",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p1-the-origins-of-cinema",
+      "asset": "assets/diagram-p1-the-origins-of-cinema-source-v2.png",
+      "sourceId": "1UtVQ-IBzhIYO2RZrly2pwvl6O1QW6mkZ",
+      "sourceSHA256": "adfa89f7197150d83b508ac0d777d150a43a7e650341acc81da75c9dca86d67a",
+      "sourcePage": 3,
+      "sourceCrop": [
+        56,
+        207,
+        559,
+        558
+      ],
+      "width": 1801,
+      "height": 1257,
+      "padding": 0,
+      "masksApplied": 6,
+      "paperTransparent": true,
+      "transparentPixels": 2064641,
+      "opaquePixels": 3941,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "0e31101d9914910376180bcefb9bdce59a129522c9c2c0e36c6bed364a5d3a26",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p1-a-watchful-eye-on-bridges",
+      "asset": "assets/diagram-p1-a-watchful-eye-on-bridges-source-v2.png",
+      "sourceId": "1KSGRUlIvekRr07QfY9pMF8_btdkSLr1q",
+      "sourceSHA256": "78a9dbb3f5b50577d0f2a5d43a8602e6f61dfd38636ac1912ef4884b0da615dd",
+      "sourcePage": 4,
+      "sourceCrop": [
+        63,
+        140,
+        555,
+        333
+      ],
+      "width": 1801,
+      "height": 707,
+      "padding": 0,
+      "masksApplied": 4,
+      "paperTransparent": true,
+      "transparentPixels": 1169274,
+      "opaquePixels": 80071,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "5e871ca0566f7efe4c3cf29a5950c3613b53c39841e5a2262bf5b27e85e843de",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p1-tikopia",
+      "asset": "assets/diagram-p1-tikopia-uploaded-v1.png",
+      "sourceId": "file_00000000c6a48209bc89a3e42d741130",
+      "sourceSHA256": "9131f89b14df95daa3730d3e82bc9503c4a2f384ec774a12daf072a9d4fafdd4",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        100,
+        1536,
+        1265
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 1165,
+      "padding": 0,
+      "masksApplied": 9,
+      "paperTransparent": true,
+      "transparentPixels": 1652846,
+      "opaquePixels": 279,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "58c054bba7013ee3f525161cae978f02dff69d18cfc8b5d73dddb38b5561983f",
+      "method": "User-supplied image; native pixel positions retained; photographed paper normalized before caption masks; paper converted to alpha. No redrawing, spatial resampling or sharpening.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "paperNormalization": "local-paper",
+      "paperCutoff": 48,
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p1-the-treadle-pump",
+      "asset": "assets/diagram-p1-the-treadle-pump-uploaded-v1.png",
+      "sourceId": "file_0000000044e8820bac788dd724447320",
+      "sourceSHA256": "b26899fa36a27b9568bd93a5d0f1a94ea74b77153179b1347cb2c1cd34311898",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        0,
+        1536,
+        705
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 705,
+      "padding": 0,
+      "masksApplied": 5,
+      "paperTransparent": true,
+      "transparentPixels": 993878,
+      "opaquePixels": 658,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "a3719b2bcf563a58e119395eb9916aafff00962a606a01d08401f497fa8180ce",
+      "method": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p1-barrels",
+      "asset": "assets/diagram-p1-barrels-source-v2.png",
+      "sourceId": "1T6fWm1s67Dwzr7edvonrVYiMQTzfM57Z",
+      "sourceSHA256": "ca4a348b374aad6436a4ada67f12ff65625dae788684d5d214ce92dcdb1ac64c",
+      "sourcePage": 3,
+      "sourceCrop": [
+        249,
+        1430,
+        1611,
+        2237
+      ],
+      "width": 1801,
+      "height": 1068,
+      "padding": 0,
+      "masksApplied": 4,
+      "paperTransparent": true,
+      "transparentPixels": 1798018,
+      "opaquePixels": 62076,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "9a350f90cabd2bdf824481b5511bff57ba2456f34d2d2f6461ded027c560645c",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
+      "asset": "assets/diagram-p2-lake-bosumtwi-the-secrets-of-a-crater-lake-source-v2.png",
+      "sourceId": "1qsScgycPZfu84W66MXihya2TUs52y4SP",
+      "sourceSHA256": "5b6c233399c47c6ca5574a5a60d3ad8cfee5c6529970e84e6500f38e851b6ba9",
+      "sourcePage": 4,
+      "sourceCrop": [
+        24,
+        208,
+        573,
+        491
+      ],
+      "width": 1801,
+      "height": 929,
+      "padding": 0,
+      "masksApplied": 4,
+      "paperTransparent": true,
+      "transparentPixels": 1285952,
+      "opaquePixels": 122124,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "2d56032eaf47ac811f0cd9ddf73c9cc4ecf211c79a00efb8c8a997899c5c2277",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [
+        "R/V KALINDI",
+        "CENTRAL UPLIFT"
+      ],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p2-roller-coaster-the-great-fairground-attraction",
+      "asset": "assets/diagram-p2-roller-coaster-the-great-fairground-attraction-uploaded-v1.png",
+      "sourceId": "file_000000009a9081f4bb1d6b9b3312fd0a",
+      "sourceSHA256": "938a9925968548cee5352654ee86fa2b546b6fc42a0869a35bc49db2eda3c192",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 1024,
+      "padding": 0,
+      "masksApplied": 7,
+      "paperTransparent": true,
+      "transparentPixels": 1365459,
+      "opaquePixels": 18577,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "ddd98bb49d15afa2cc47cdb1c5c008778543a921d38f8718641cf50e553f7ad1",
+      "method": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p3-patterns-of-nature",
+      "asset": "assets/diagram-p3-patterns-of-nature-source-v2.png",
+      "sourceId": "1yuO_2mvbvQoeOPM6J9MJdJzpd2TMb8fE",
+      "sourceSHA256": "3daadb1cfa651dae49bef84f881aa1dc28fe159cf4ce54df0ba6a56099116b88",
+      "sourcePage": 4,
+      "sourceCrop": [
+        151,
+        210,
+        526,
+        661
+      ],
+      "width": 1801,
+      "height": 2165,
+      "padding": 0,
+      "masksApplied": 8,
+      "paperTransparent": true,
+      "transparentPixels": 3762593,
+      "opaquePixels": 85436,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "70b8274b18f5b20c51a68968780f18c9ae6c475e35478b631212f0f6343699a3",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p3-movement-underwater",
+      "asset": "assets/diagram-p3-movement-underwater-uploaded-v1.png",
+      "sourceId": "file_00000000a25c82068af2cbb5214c892d",
+      "sourceSHA256": "80f74314813ff9b79a9f99c6b0a9c378cf59da812c0d0a58299313d9085b0934",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        0,
+        1536,
+        1108
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 1108,
+      "padding": 0,
+      "masksApplied": 8,
+      "paperTransparent": true,
+      "transparentPixels": 1644667,
+      "opaquePixels": 5649,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "dcf02b4069f237e5c3c71c8632ab78bd95d540693cf144f32e1b6da5d315e1a2",
+      "method": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p3-termite-mounds",
+      "asset": "assets/diagram-p3-termite-mounds-uploaded-v1.png",
+      "sourceId": "file_00000000a20881fdb8a455d45c070af4",
+      "sourceSHA256": "086107aedd1e9c48c07982f1bd79359c0946b117abaf668d087f466bfafeed6e",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        0,
+        1536,
+        768
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 768,
+      "padding": 0,
+      "masksApplied": 4,
+      "paperTransparent": true,
+      "transparentPixels": 1095738,
+      "opaquePixels": 809,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "0b1a088824a9d6fd5747476a8928146374e6c8908006c06e1a23a1103121ec29",
+      "method": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p3-the-secret-sounds-of-elephants",
+      "asset": "assets/diagram-p3-the-secret-sounds-of-elephants-source-v2.png",
+      "sourceId": "1ZW2AOGCoOV9BP9HOUZ5jL_ZfFII0-if-",
+      "sourceSHA256": "24ae8b2851427cf9ffdcfcdb8ad23a1dd22c268c5bcbab250efcfb764196b2e3",
+      "sourcePage": 3,
+      "sourceCrop": [
+        149,
+        701,
+        1649,
+        1811
+      ],
+      "width": 1801,
+      "height": 1333,
+      "padding": 0,
+      "masksApplied": 10,
+      "paperTransparent": true,
+      "transparentPixels": 1976303,
+      "opaquePixels": 67954,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "2d21415288f1e764024c983338b051b5a272835dbc1be9adb2a45226e380537f",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p1-ancient-greek-coins",
+      "asset": "assets/diagram-p1-ancient-greek-coins-uploaded-v1.png",
+      "sourceId": "file_00000000930c820ebec37b233742ff69",
+      "sourceSHA256": "653bbfdd9b62a98c6954901e8aa43c4713034d047fac4922037f0543998340d1",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        110,
+        1536,
+        1024
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 914,
+      "padding": 0,
+      "masksApplied": 6,
+      "paperTransparent": true,
+      "transparentPixels": 1322780,
+      "opaquePixels": 6819,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "c63dfa8e3a28843bfe7ed9eb1b063f1d9fbf40487c23cc5609e6e705c5b585a9",
+      "method": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p1-the-history-of-cakes-at-wedding",
+      "asset": "assets/diagram-p1-the-history-of-cakes-at-wedding-source-v2.png",
+      "sourceId": "1EE7CJfXm6bqGRkVQJHvSv9PptXNmfott",
+      "sourceSHA256": "277cb581a92e1d2efed4defc805249b5421a60987bdb4d331b5c8034dc0d7045",
+      "sourcePage": 4,
+      "sourceCrop": [
+        50.4,
+        160.79,
+        561.6,
+        452.04
+      ],
+      "width": 1801,
+      "height": 1026,
+      "padding": 0,
+      "masksApplied": 15,
+      "paperTransparent": true,
+      "transparentPixels": 1805225,
+      "opaquePixels": 20662,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "e44626928df0deed4b6d4217d0e0e442e2fdabf7dc49660bf96a90e85d61330e",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    },
+    {
+      "job": "p1-the-olympic-torch-chua-rep",
+      "asset": "assets/diagram-p1-the-olympic-torch-chua-rep-uploaded-v1.png",
+      "sourceId": "file_0000000079b4820ba8aeb15d3445b90d",
+      "sourceSHA256": "83ea77569bdb480cc2b7cce7ae8a4bc8e5cbefecf62289c06b383a8074bc565e",
+      "sourcePage": null,
+      "sourceCrop": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "sourceCoordinateSpace": "native image pixels",
+      "width": 1536,
+      "height": 1024,
+      "padding": 0,
+      "masksApplied": 6,
+      "paperTransparent": true,
+      "transparentPixels": 1421214,
+      "opaquePixels": 3739,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "69a2346ad766af15b510bcfc27a74a6c8080914a2dd1614e6d48bd6fd033ca38",
+      "method": "User-supplied high-resolution image; native resolution retained; reviewed caption masks and near-white paper removal only. No redrawing, warping or sharpening.",
+      "retainedRasterCaptions": [
+        "1996 Atlanta Olympics torch (final version)",
+        "2000 Sydney Olympics torch"
+      ],
+      "rectification": null,
+      "artworkVersion": "uploaded-raster-v1",
+      "limitation": "Uses the supplied image as-is; no independent reconstruction of its content."
+    },
+    {
+      "job": "p1-the-tyne-bridge",
+      "asset": "assets/diagram-p1-the-tyne-bridge-source-v2.png",
+      "sourceId": "1vXRiyEMeTkQ0UKNcRWvwZPh_7Vj8EpkY",
+      "sourceSHA256": "dcdba829a1d175273f4b0ce4f313e8f4aec041507b6b668e2c80c3c78c291534",
+      "sourcePage": 4,
+      "sourceCrop": [
+        41.1,
+        190,
+        534.35,
+        513.4
+      ],
+      "width": 1801,
+      "height": 1181,
+      "padding": 0,
+      "masksApplied": 18,
+      "paperTransparent": true,
+      "transparentPixels": 1997688,
+      "opaquePixels": 31503,
+      "alphaRange": [
+        0,
+        255
+      ],
+      "imageSHA256": "501491034edd99c69879a02e5a80d92a2865d597f8b420ded2036ec8bc715977",
+      "method": "Source raster rendering; row/column paper-reference normalization; tonal contrast; unsharp mask; reviewed caption masks; grayscale ink alpha. Original arrows and linework retained; no generated details.",
+      "retainedRasterCaptions": [],
+      "rectification": null,
+      "limitation": "Sharpening improves contrast; low-resolution original raster details cannot be reconstructed reliably."
+    }
+  ]
+}

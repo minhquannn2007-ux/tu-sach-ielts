@@ -1,0 +1,32 @@
+{
+  "job": "p1-maori-buildings-in-new-zealand",
+  "title": "Māori buildings in New Zealand",
+  "part": 1,
+  "fingerprint": "0f5b269c214e0e1cdadbe4cadb5d29e5a0e7f360543b3ada9d5b3233fdd1464d",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1_Uqi5_nznR9B9WJWYDMT4DwY-vr_6GTl",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-maori-buildings-in-new-zealand.json",
+  "lessonId": "p1-maori-buildings-in-new-zealand",
+  "sourceId": "1_Uqi5_nznR9B9WJWYDMT4DwY-vr_6GTl",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "69f9d8ec075a153ee3b8d1f484546e588599f32d3a245d25dba6724cabcefb7f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

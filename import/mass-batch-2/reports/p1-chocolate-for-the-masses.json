@@ -1,0 +1,17 @@
+{
+  "job": "p1-chocolate-for-the-masses",
+  "title": "Chocolate for the masses",
+  "part": 1,
+  "fingerprint": "6875f22b2507fe2bd86206fbdb84e3885965021cc3d218644d089f3ec00a36a4",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1DdERHL6hnHOIs4oWWvlf_O2H0dicYMlE",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

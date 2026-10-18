@@ -1,0 +1,204 @@
+{
+  "id": "p1-health-in-the-wild",
+  "part": 1,
+  "title": "HEALTH IN THE WILD",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "For the past decade, Dr Cindy Engel, a lecturer in Environmental Sciences at Britain’s Open University, has been collating examples of self-medicating behaviour in wild animals. In a recent talk, she explained that the idea that animals can treat themselves has been generally regarded with some skepticism by other animal behaviourists. But a growing number of them now think that wild animals can and do deal with their own medical needs."
+    },
+    {
+      "text": "Dr William Karesh of the Wildlife Conservation Society in New York, for example, has studied the health of a wide range of wild animals, including anaconda, snakes, macaws, penguins, impala and buffalo. The animals were mostly in good physical condition, which is not surprising since the weak quickly die in the wild. But blood tests showed that many had encountered unpleasant viral and bacterial diseases in the past – including diseases that are often fatal in captive animals, even when treated by vets. Moreover, if healthy wild animals are brought into captivity, their health often deteriorates unless great care is taken over their living conditions. Such observations suggest that wild animals can do something to keep themselves healthy that captive animals cannot."
+    },
+    {
+      "text": "One example of self-medication was discovered in 1987. Dr Michael Huffman and Mohamedi Seifu, working in the Mahale Mountains National Park in Tanzania, noticed that local chimpanzees suffering from intestinal worms would dose themselves with the pith (the white substance between the skin and the flesh) of a plant called Veronia. This plant produces poisonous chemicals called terpenes. Its pith contains a strong enough concentration to kill gut parasites, but not so strong as to kill chimps (nor people, for that matter; locals use the pith for the same purpose)."
+    },
+    {
+      "text": "Since the Veronia-eating chimps were discovered, more evidence has emerged suggesting that animals often eat things for medical rather than nutritional reasons. Many species, for example, consume dirt – a behaviour known as geophagy. Historically, the preferred explanation was that soil supplies minerals such as salt. But geophagy occurs in areas where the earth is not a useful source of minerals, and also in places where minerals can be more easily obtained from certain plants that are known to be rich in them. Clearly, the animals must be getting something else out of eating earth."
+    },
+    {
+      "text": "The current belief is that soil – and particularly the clay in it – helps to detoxify the defensive poisons that some plants produce in an attempt to prevent themselves from being eaten. Evidence for the detoxifying nature of clay came in 1999, from an experiment carried out on macaws by James Gilardi and his colleagues at the University of California, Davis."
+    },
+    {
+      "text": "Macaws eat seeds containing alkaloids, a group of chemicals that has some notoriously toxic members, such as strychnine. In the wild, the birds are frequently seen perched on eroding riverbanks eating clay. Dr Gilardi fed one group of macaws a mixture of harmless alkaloid and clay, and a second group just the alkaloid. Several hours later, the macaws that had eaten the clay had 60% less alkaloid in their bloodstreams than those that had not, suggesting that the current hypothesis is correct."
+    },
+    {
+      "text": "A third instance of animal self-medication is the use of mechanical scours to get rid of gut parasites. In 1972, Dr Richard Wrangham, a researcher at the Gombe Stream Reserve in Tanzania, noticed that chimpanzees were eating the leaves of a tree called Aspilia. The chimps chose the leaves carefully by testing them in their mouths. Having chosen a leaf, a chimp would fold it into a fan and swallow it. Some of the chimps were noticed wrinkling their noses as they swallowed these leaves, suggesting the experience was unpleasant. Later, undigested leaves were found on the forest floor."
+    },
+    {
+      "text": "Dr Wrangham rightly guessed that the leaves had a medicinal purpose – this was, indeed, one of the earliest interpretations of a behaviour pattern known as self-medication. However, he guessed wrong about what the mechanism was. His (and everybody else's) assumption was that Aspilia released a drug, and this sparked more than two decades of phytochemical research to try to find out what chemical the chimps were after. But by the 1990s, chimps across Africa had been seen swallowing the leaves of 19 different Aspilia species that seemed to have few suitable chemicals in common. The drug hypothesis was looking more and more dubious."
+    },
+    {
+      "text": "It was Dr Huffman who got to the root of the problem. He did so by watching what came out of the chimps, rather than concentrating on what went in. He found that the egested leaves were full of intestinal worms. The factor common to all 19 species of leaves swallowed by the chimps was that they were covered with microscopic hooks. These caught the worms and dragged them from their lodgings."
+    },
+    {
+      "text": "Dr Engel is now particularly excited about how knowledge of the way that animals look after themselves could be used to improve the health of livestock. People might also be able to learn a thing or two – and may, indeed, already have done so. Geophagy, for example, is a common behaviour in many parts of the world. The medical stalls in African markets frequently sell tablets made of different sorts of clays, appropriate to different medical conditions."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 4 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-4 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Dr. Engel has spent ten years gathering evidence for the notion that animals treat their own diseases."
+        },
+        {
+          "n": 2,
+          "prompt": "Animal behaviourists have always believed that animals know how to heal themselves."
+        },
+        {
+          "n": 3,
+          "prompt": "Dr Karesh enlisted the help of a medical team during his research."
+        },
+        {
+          "n": 4,
+          "prompt": "Wild animals taken into captivity tend to experience a decline in health."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 5 – 9 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 5-9 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 5
+        },
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "ONE WORD ONLY",
+      "title": "Overview of Research",
+      "table": [
+        [
+          "Researcher (s)",
+          "Subjects",
+          "Self-treatment",
+          "Findings",
+          "Other observations"
+        ],
+        [
+          "Michael Huffman and Mohamedi Seifu",
+          "Chimps with worms",
+          "Eat {{5}} of Veronia plant",
+          "Plant contains toxins known as {{6}} that kill parasites",
+          "Remedy also used by people"
+        ],
+        [
+          "James Gilardi and colleauges",
+          "Macaws that consume poison-bearing seeds",
+          "Eat clay",
+          "Clays leads to reduction in level of {{7}} in blood",
+          ""
+        ],
+        [
+          "Richard Wrangham and Michael Huffman",
+          "Chimps with gut parasites",
+          "Eat Aspilia leaves",
+          "Undigested leaves wrongly believed to contain a {{8}}",
+          "Chimps indicate leaves have an {{9}} taste"
+        ]
+      ],
+      "tableHeader": true,
+      "tableHeaderAlign": [
+        "center",
+        "center",
+        "center",
+        "center",
+        "center"
+      ],
+      "columnWidths": [
+        19.06,
+        18.5,
+        18.59,
+        21.48,
+        22.37
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 10 – 13 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 10-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "title": "Soil as medication",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "The consumption of soil for medicinal reasons is called {{10}} . Initially, people believed that animals ate dirt to get {{11}} and other minerals. They then realised that the soil eaten in some areas did not contain a lot of minerals, and that in other areas plants were a better mineral source. Many people believe that the clay in soil can {{12}} poisons. Indeed, clay-based {{13}} are sold in African markets to treat a range of illnesses."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1nnskT2ToXFMY21uSFdJ-bf_Yu9wJe4fE",
+      "role": "passage-and-questions",
+      "sha256": "9ad6ae6ad379ff498e00a6799e01fb1d5402e463e9d65685d24fd1528b570f7b",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.0",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-health-in-the-wild"
+  },
+  "subtitle": "Many animals seem able to treat their illnesses themselves. Humans may have a thing or two to learn from them",
+  "cover": {
+    "asset": "assets/chimp-cover.jpg",
+    "alt": "Tinh tinh",
+    "credit": "Valentin",
+    "source": "https://unsplash.com/photos/a-chimpanzee-poses-thoughtfully-while-holding-a-rope-IrenS7v8P2o",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-2026-10-12",
+    "checks": [
+      "native-text comparison",
+      "source typography and question-layout review",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

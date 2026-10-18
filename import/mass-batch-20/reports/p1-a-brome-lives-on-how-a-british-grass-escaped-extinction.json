@@ -1,0 +1,32 @@
+{
+  "job": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+  "title": "A brome lives on - how a British grass escaped extinction",
+  "part": 1,
+  "fingerprint": "bc6744e9978acc0db4ddaf103b6e556b065e02966a1ad49124822349ce9ee561",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1VBFTYdi9Kr9R9S9f2DAILQ8HDuHUZpJ4",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-a-brome-lives-on-how-a-british-grass-escaped-extinction.json",
+  "lessonId": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+  "sourceId": "1VBFTYdi9Kr9R9S9f2DAILQ8HDuHUZpJ4",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "matching-features"
+  ],
+  "sourceHash": "80a2cdc8b0585afed328b26c5a93130368d038546c8bee460f88c90add2e905d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.141
+}

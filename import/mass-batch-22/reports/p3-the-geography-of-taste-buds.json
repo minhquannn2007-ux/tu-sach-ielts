@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-geography-of-taste-buds",
+  "title": "The geography of taste buds",
+  "part": 3,
+  "fingerprint": "4a30ab8776303c55ba31a3c11d077f2428893710d6dc47dc93de8e0adc9f92cb",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-geography-of-taste-buds.json",
+  "lessonId": "p3-the-geography-of-taste-buds",
+  "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "3cd63520f40b32fe0864cfecba405b70ae6897385e8134b253c0fc0158932502",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.138
+}

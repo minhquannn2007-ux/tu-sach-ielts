@@ -1,0 +1,33 @@
+{
+  "job": "p3-what-makes-us-human",
+  "title": "What makes us human?",
+  "part": 3,
+  "fingerprint": "ae254c5dd3251f5e17272e8a8f907e33a7da16f4275c8301decf939332462c71",
+  "converterVersion": "3.18",
+  "attempts": [
+    {
+      "sourceId": "1KT6QYEfkrxzEjIdu5lSmEdTjKDBQkDfk",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-what-makes-us-human.json",
+  "lessonId": "p3-what-makes-us-human",
+  "sourceId": "1KT6QYEfkrxzEjIdu5lSmEdTjKDBQkDfk",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "matching-endings"
+  ],
+  "sourceHash": "9a3ed8f1e6e8a70dcbeebc6886f0b9b7207339356f478d76795032589c0966c6",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.049
+}

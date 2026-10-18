@@ -1,0 +1,199 @@
+{
+  "id": "p3-the-intuitive-geologists",
+  "part": 3,
+  "title": "The Intuitive Geologists",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "In the early 19th century, geology was barely a science. But in 1803, when US President Thomas Jefferson ordered an expedition to explore the vast Louisiana Territory, he could not have picked better geologists to lead it than Meriwether Lewis and William Clark. From March 1804 to September 1806, the two men took meticulous notes on what they saw and drew conclusions that often required a great deal of insight. It is only now, two centuries after they set out, that geologists are beginning to recognise their accomplishments. For generations, the explorers were maligned by historians, who gave them credit for their descriptions of botany and geography but dismissed their geological observations as worthless."
+    },
+    {
+      "label": "B",
+      "text": "One of the expedition's more interesting discoveries was finding the source of pumice, a particular kind of light grey stone that earlier explorers had seen floating down the Missouri River in the spring of 1805. Lewis and Clark traced the stones to outcrops in the river bluffs of western North Dakota. Then, in one of those intuitive flashes that typified the explorers' geological acumen, Lewis realised that the pumice was found only in coal seams and this meant its origins had nothing to do with volcanism, as previously believed. Lewis observed that the pumice occurred only where there should have been coal, and that where there was pumice there was no coal. He correctly concluded that the pumice-like rocks were formed when coal seams caught fire and cooked the overlying rock into something known now as clinker."
+    },
+    {
+      "label": "C",
+      "text": "Lewis showed similar insight when he penned one of the earliest known descriptions of petrified wood ancient wood that has become stone. 'I met with several stones today that had the appearance of wood first carbonated and then petrified by the water of the river,' he wrote. Not only is this description perfect — the petrified wood of the western Dakotas is made of coal beneath a surface that looks so much like wood that it is possible to mistake it for weathered timber — but Lewis was also close to the mark in describing the process that formed it. The only thing he missed was that the wood was petrified not by river water but by the slow action of percolating ground water."
+    },
+    {
+      "label": "D",
+      "text": "Elsewhere in their journals, Lewis and Clark correctly inferred that muddy tributaries of the Missouri River had their sources on the Great Plains, while the Missouri's clear water came from the mountains. When they reached the mountains, they reported 'shattered, confounded, and broken masses of stone' and hillsides 'that appeared to be broken by some convulsion' — not a bad description of the processes now understood to have formed them."
+    },
+    {
+      "label": "E",
+      "text": "Another major observation came on the Columbia River, slightly upstream of the present Bonneville dam. Here the explorers found a pool of water in which dead fir trees rose out of water six metres deep. Aware the trees couldn't have grown in water, Clark figured that something must have dammed the river and flooded the forest that once grew on its banks. He also noted that the current was unusually slow — a sure sign to Clark that there were large rapids to be found downstream. When their boats finally reached the boulders that had blocked the river and created the rapids, Clark speculated that they were there as a result of a gigantic landslide. Generations of subsequent geologists were to stare at the rapids and offer conflicting explanations. No agreement was reached until 1916, when it was confirmed that Clark's off-the-cuff answer had been the right one."
+    },
+    {
+      "label": "F",
+      "text": "Present-day researchers have also begun to realise that the explorers' journals provide a unique, enormously detailed snapshot of the land before America's westward expansion. Specialists in many fields are now using that information to determine exactly how the land has changed. Some of their findings are surprising. Conventional wisdom has it, for example, that 20th century flood control projects on the Missouri River increased its current by channelling water more swiftly downstream. Not so, says Dale Blevins of the US Geological Survey in Lee's Summit, Missouri. Clark measured the current by taking a boat to the middle of the river, throwing overboard a heavy log tied to a rope, and timing how long it took for the rope to become taut and the boat to stop moving. Presuming that the rope was the standard 31-metre line generally used for this purpose, Blevins calculates that the currents Clark measured flowed at speeds of between 9 and 16 kilometres per hour. That is slightly faster, rather than slower, than those seen at the same location today. This finding is important to conservationists attempting to save endangered species of fish in this river because it reveals the speed of the current which these fish had been used to."
+    },
+    {
+      "label": "G",
+      "text": "Even the plant specimens Lewis and Clark brought back provide useful clues. These specimens still exist, and researchers have begun to analyse isotopes in their tissues to determine growing conditions in the regions where they were collected. This type of data may be Lewis's and Clark's greatest contribution to science."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 31 Reading Passage 3 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 27-31 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "a reference to a type of stone, whose source had been previously wrongly identified"
+        },
+        {
+          "n": 28,
+          "prompt": "an explanation for a particular river having water of varying quality"
+        },
+        {
+          "n": 29,
+          "prompt": "a reference to the time it has taken for Lewis's and Clark's work to be appreciated"
+        },
+        {
+          "n": 30,
+          "prompt": "the mention of a conclusion that was not completely correct"
+        },
+        {
+          "n": 31,
+          "prompt": "a mention of some samples which are still of scientific interest today"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 32 – 37 Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 32-37 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 32
+        },
+        {
+          "n": 33
+        },
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "title": "Discovery in the Columbia River",
+      "task": "table",
+      "tableHeader": true,
+      "columnWidths": [
+        50,
+        50
+      ],
+      "table": [
+        [
+          "Observation",
+          "Clark's Conclusion"
+        ],
+        [
+          "Dead firs seen standing in a {{32}} measuring six metres in depth",
+          "Forest must have {{33}} because of an obstruction"
+        ],
+        [
+          "Slow current",
+          "Existence of big {{34}} which were located {{35}}"
+        ],
+        [
+          "Obstruction caused by number of {{36}} in river",
+          "Brought about by an enormous {{37}}"
+        ]
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 38 – 40 Do the following statements agree with the information given in Reading Passage 3? In boxes 38-40 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 38,
+          "prompt": "The two geologists had been on many similar expeditions before 1803."
+        },
+        {
+          "n": 39,
+          "prompt": "Lewis was the first to discover how pumice was created."
+        },
+        {
+          "n": 40,
+          "prompt": "Lewis's description of how petrified wood was formed was totally inaccurate."
+        }
+      ],
+      "type": "tfng"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1JKCXpGc0nH0cJazj7eocR-ulxevMCpFy",
+      "role": "passage-and-questions",
+      "sha256": "1c14c9bdd2c980b0a39aa96c71fc1e3f349047a693dfcb7ef43bb40cae46c8d9",
+      "name": "The Intuitive Geologists.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 7,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-the-intuitive-geologists"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "200 years ago, two American geologists set out on an expedition that was to result in several discoveries. It took many years before the importance of these was fully recognised",
+  "cover": {
+    "asset": "assets/batch3-canyon-cover.jpg",
+    "alt": "Grand Canyon",
+    "credit": "David Vives",
+    "source": "https://unsplash.com/es/fotos/paisaje-de-canon-vasto-bajo-un-cielo-azul-nublado-aF_K_4WI0LM",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-7-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

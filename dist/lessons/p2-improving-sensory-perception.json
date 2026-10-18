@@ -1,0 +1,195 @@
+{
+  "id": "p2-improving-sensory-perception",
+  "part": 2,
+  "title": "Improving sensory perception",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "People differ dramatically in their perceptual abilities — what they are able to see, hear, feel, taste and smell. It's fairly noticeable when someone's sight, for example, is superior or inferior to that of others, but some people have enhanced abilities in other, more frequently ignored faculties. There are 'supertasters' among us who perceive stronger tastes from various sweet and bitter substances (a trait linked with a greater number of taste receptors on the tip of the tongue). It's not all good news for the supertasters though — they also perceive more burn from spices such as chilli. In studies, women have been shown to have superior abilities to men in relation to the perception of touch. Interestingly, this turns out not to really be a gender thing at all, but rather down to the size of your fingers. Having smaller fingers results in touch receptors that are more closely packed together, and therefore leads to perception at a finer resolution."
+    },
+    {
+      "label": "B",
+      "text": "There are lots of things to see and explore along the way including wetlands and clay cliffs. The views from the trail are dramatic: beech forests, stretches of open plain, deep blue lakes and all the shades of golden brown from the hills, mountains and grasses. There are eight sections on the trail, and it can take from four days to just over a week to get through all eight of them. It really depends on the rider's fitness levels and how much they want to do around the trail."
+    },
+    {
+      "label": "C",
+      "text": "It was long thought that you could only improve your perception by such explicit training, but it is now known that it is also possible to boost your sensory perception when you're not actively doing anything or are even aware that the training is happening. In one incredible experiment, scientists trained participants to generate activity in the posterior part of their brain while being observed in a brain scanner. By the later stage of the experiment, the participants were able to generate brain activity that matched what would occur if they were looking at a particular visual stimulus (which wasn't actually there). The scientists let the participants know how well they were doing at reproducing the brain activity, in order to help them improve, but didn't actually tell them that they were being trained. At the end of the experiment, participants were asked to identify various visual stimuli, including the one they had worked on. It turned out that, in comparison to other visual stimuli, they were faster and more accurate in identifying the stimulus from the training, despite not having viewed it previously."
+    },
+    {
+      "label": "D",
+      "text": "But how much better can someone expect their sensory perception to get? That largely depends on how long and hard they train, and how effective the training is. The improvement can be substantial; in some studies, touch training has produced enhancements of up to 42% of participants' original acuity, after just two hours of training. More surprising are the studies into visual acuity that report enhancements of perception into a range beyond what the sensory receptors should allow — into the range known as hyperacuity. Usually when people are looking at a photograph, the more pixels there are, the sharper the picture appears. However, in the case of hyperacuity, people can actually see better than the pixel resolution should permit."
+    },
+    {
+      "label": "E",
+      "text": "Such high degrees of visual sensory perception are due to clever processing in the brain: when we look at a photograph, our brains assess across the whole grid of receptors to determine where the 'centre of gravity' falls — revealing position and shape by the spatial clustering of information on the grid. In fact, a surprising amount of perception turns out to be determined less by the receptor organ than by the brain. For instance, training which aims to help you see better does not actually do anything to alter the photoreceptors in your eye. While the same sensory information is getting into the neurological system through these receptors, the training allows the brain to filter out noise and more effectively tune into the sensory signal."
+    },
+    {
+      "label": "F",
+      "text": "The fact that we can train our brains to improve the way we extract sensory information from the world is a very positive development, and concepts of perceptual learning have been used to create brain training apps. While these apps cannot entirely overcome the problems of sensory degradation caused by ageing receptors, they can, if designed correctly, give you a significant boost. With technological progress in this area, we move towards fantastic opportunities to maximise our sensory perception, and to aid rehabilitation for people who have experienced sensory degradation."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 14-19 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reference to enhancing perceptual ability without a person's knowledge"
+        },
+        {
+          "n": 15,
+          "prompt": "an explanation of how high levels of sensory perception occur naturally"
+        },
+        {
+          "n": 16,
+          "prompt": "a comparison between sensory training and other types of learning"
+        },
+        {
+          "n": 17,
+          "prompt": "a mention of a negative consequence of having an exceptional perceptual ability"
+        },
+        {
+          "n": 18,
+          "prompt": "an explanation of how the brain perceives a high level of detail in an image"
+        },
+        {
+          "n": 19,
+          "prompt": "a reference to a situation in which sensory damage could be reversed"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 20 – 24 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20-24 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 20,
+          "slots": 1
+        },
+        {
+          "n": 21,
+          "slots": 1
+        },
+        {
+          "n": 22,
+          "slots": 1
+        },
+        {
+          "n": 23,
+          "slots": 1
+        },
+        {
+          "n": 24,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Differences in perceptual ability are more obvious when they occur with the sense of {{20}} than of taste.",
+        "The end of a supertaster's {{21}} has more receptors than that of other people.",
+        "Supertasters may suffer more than others when they eat foods like {{22}} .",
+        "A greater sensitivity of touch is more dependent on finger {{23}} than on gender.",
+        "Stimuli such as {{24}} of different speeds may be used to help someone improve their sense of touch."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 25 and 26 Choose TWO letters, A-E Write the correct letters in boxes 20 and 21 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "type": "mc-two",
+      "numbers": [
+        25,
+        26
+      ],
+      "prompt": "Which TWO of these statements does the writer make about brain training apps?",
+      "options": [
+        {
+          "value": "A",
+          "text": "They have made learning more enjoyable."
+        },
+        {
+          "value": "B",
+          "text": "They hold great promise for the future."
+        },
+        {
+          "value": "C",
+          "text": "They encourage people to ignore irrelevant information."
+        },
+        {
+          "value": "D",
+          "text": "They are not widely regarded as a positive development."
+        },
+        {
+          "value": "E",
+          "text": "They can reduce the impact of the sensory degradation that occurs as people get older."
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1U9LRwY4sLIpD6dqA1Nkl413tQFntXcUd",
+      "role": "passage-and-questions",
+      "sha256": "a036d49a1c1b22084d310fede59296232bc3a0f9aab492f03671b7b990d12178",
+      "name": "Improving sensory perception.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 6,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-improving-sensory-perception"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

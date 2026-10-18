@@ -1,0 +1,33 @@
+{
+  "job": "p3-insect-inspired-robots",
+  "title": "Insect-inspired robots",
+  "part": 3,
+  "fingerprint": "a2db0c83a81e2ad1a8893581026975b9da283c1d4d698b923b70f9a48c9be4b2",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1lKqdkaDy-pQFEUWpIrOQcQU5iQydqEFQ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-insect-inspired-robots.json",
+  "lessonId": "p3-insect-inspired-robots",
+  "sourceId": "1lKqdkaDy-pQFEUWpIrOQcQU5iQydqEFQ",
+  "questionCount": 14,
+  "types": [
+    "matching-info",
+    "short-answer",
+    "matching-features"
+  ],
+  "sourceHash": "cb924bfd06c346034897340c49c6a8652f98829505d72e602a41f6828315bdce",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.073
+}

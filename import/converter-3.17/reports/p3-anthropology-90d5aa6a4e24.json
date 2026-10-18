@@ -1,0 +1,16 @@
+{
+  "job": "p3-anthropology",
+  "title": "Anthropology",
+  "part": 3,
+  "fingerprint": "435a3dd20a190f45ba17584d49fb4e19ea235cc35ab4287f204fd136341f7632",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "code": "source-flag",
+      "message": "duplicate-title: compare the source versions before choosing a lesson"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.0
+}

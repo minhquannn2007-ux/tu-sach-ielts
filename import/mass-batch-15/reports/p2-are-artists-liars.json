@@ -1,0 +1,17 @@
+{
+  "job": "p2-are-artists-liars",
+  "title": "Are artists liars?",
+  "part": 2,
+  "fingerprint": "0ac0c605766f33c5940851e9f84df90f9414a44b15ea150498bc2f7e24fbedf0",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1BjqT2v3sooENw_YW8Qy062olwCjk_Tlz",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

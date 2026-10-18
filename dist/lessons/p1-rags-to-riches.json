@@ -1,0 +1,188 @@
+{
+  "id": "p1-rags-to-riches",
+  "part": 1,
+  "title": "Rags to Riches",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "When it comes to prospecting for advanced materials, the animal kingdom rarely comes to mind. Engineers sometimes find that the forge of evolution produces more impressive substances than those devised by the human brain. Spider-silk, for example, is stronger than steel and is now finding its way into bullet-proof jackets. And the ridges and furrows of spider’s fiber have inspired a glueless adhesive tape."
+    },
+    {
+      "text": "The newest candidate for translation from the animal to the human world, though, looks even more unlikely. Chris Broomell and Herbert Waite, of the University of California, Santa Barbara, have been studying the jaws of ragworms — which, as careless fishermen who have used them for bait can attest, can give a nasty nip. Dr. Broomell and Dr. Waite were curious about the composition of the only hard parts of an otherwise squishy animal. In finding out, they may have blundered across the starting point for a new material that is both strong and light."
+    },
+    {
+      "text": "Ragworms will be familiar to anyone with a childhood interest in sea-shore life. They crawl around beaches and mudflats using tiny structures along the sides of their bodies that work like limbs but are in fact gills. At the front of their bulbous blue heads, they have curved fangs that act like jaws. They use these to capture and tear apart their crustacean prey."
+    },
+    {
+      "text": "In the 1980s ecologists looking for organisms that could be used as indicators of oceanic pollution took a keen interest in ragworms. These ecologists found that the worms’ jaws contained much zinc, a metal that is toxic in large doses. Their initial suggestion was that the worms were dumping excess zinc into their jaws, where it could do no harm, as a way of keeping their bodies free of poison. Measuring the zinc in ragworm jaws was thus thought of as a way of monitoring zinc pollution. That suggestion, however, fell apart when it became clear that the jaws of worms from clean water, too, were stuffed with zinc. The ecologists lost interest. However, the engineers were intrigued. Eventually, Dr. Broomell and Dr. Waite decided to have a look at what was going on."
+    },
+    {
+      "text": "First, they checked the strength and durability of the jaws by pressing them with microscopic diamond probes. This revealed that the material from which they are made is as strong as aluminum and impressively light. It is also quite unusual. Most strong biological structures of this sort — bones, teeth, shells and so on — are highly mineralized. That is, they incorporate crystals of insoluble inorganic salts, most often calcium carbonate or calcium phosphate, in a matrix of protein. This creates a composite material akin to glass-fiber or carbon-fiber. These composites are of interest to engineers in their own right, but when Dr. Broomell and Dr. Waite stuck ragworm jaws in X-ray spectroscopy, they found no sign of mineral conversion at all."
+    },
+    {
+      "text": "That confused them, and they have spent several years trying to find out what is going on. What they have discovered, as they report in Bio-macromolecules, is that the zinc is far from being a pollutant. It is crucial."
+    },
+    {
+      "text": "Ragworm jaws are made of a mixture of protein and zinc ions. The protein in question contains a lot of an amino acid called histidine. Indeed, it has ten times more histidine than the average protein. Histidine likes to bind tightly to zinc ions. The consequence is that a material composed of histidine-rich proteins and zinc is solid. However, lacking the dense calcium-salt of mineralized biological structures, it is also quite light."
+    },
+    {
+      "text": "Strong and light is a desirable combination in an engineering material — and particularly so in those materials used in aircraft. Dr. Broomell and Dr. Waite have thus passed their discovery on to a group of scientists at NASA, America’s aerospace agency, in order that they can try to take the next steps. These are to see whether worm-jaw protein, or something similar, can be made in bulk, and to try forming it into useful shapes. If both of those prove possible, then an intriguing alternative to traditional composite materials may become available — and worms, in a sense, will fly."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 6 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-6 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "We seldom think about animals when people talk about engineering materials."
+        },
+        {
+          "n": 2,
+          "prompt": "Spider-silk is now used in advanced technology."
+        },
+        {
+          "n": 3,
+          "prompt": "Fishers are using ragworms more frequent than before."
+        },
+        {
+          "n": 4,
+          "prompt": "There will not be any zinc in the jaws of ragworms which live in the clean water."
+        },
+        {
+          "n": 5,
+          "prompt": "Materials suited to aviation engineering are both durable and light."
+        },
+        {
+          "n": 6,
+          "prompt": "Scientists believe that ragworms may evolve into flying species in the future."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 7 – 10 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 7-10 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 7,
+          "slots": 1
+        },
+        {
+          "n": 8,
+          "slots": 1
+        },
+        {
+          "n": 9,
+          "slots": 1
+        },
+        {
+          "n": 10,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Ragworm has only one hard part in its body, the rest are {{7}} .",
+        "Scientists study the jaws with professional tools and find they are as strong as {{8}} .",
+        "The ragworm jaws are light because they do not contain much {{9}} .",
+        "NASA experts are expected to see if the worm-jaw protein can be created in {{10}} ."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 11 – 13 Complete the summary using the list of words and phrases, A-F, below Write the correct letter, A-F, in boxes 11-13 on your answer sheet",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "summary-drag",
+      "bank": [
+        {
+          "value": "A",
+          "text": "sharp teeth"
+        },
+        {
+          "value": "B",
+          "text": "gills"
+        },
+        {
+          "value": "C",
+          "text": "metal"
+        },
+        {
+          "value": "D",
+          "text": "mineralisation"
+        },
+        {
+          "value": "E",
+          "text": "protein"
+        },
+        {
+          "value": "F",
+          "text": "legs"
+        }
+      ],
+      "reuse": false,
+      "title": null,
+      "content": [
+        "Ragworms live in beaches and sandbed, using small {{11}} along their bodies to swim. They use {{12}} to capture foods. Scientists believe they are the hardest part of their body. What scientists already known is that the worms’ jaws have much toxicity such as zinc. What they do not know, however, is why the jaws are intensively light and strong. When Dr. Broomell and Dr. Waite stuck ragworm jaws in an X-ray spectroscope they found none of {{13}} at all."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1aqTUa644iun_uvnpSffSY1T-gwPlOBco",
+      "role": "passage-and-questions",
+      "sha256": "87d9ad80bcb1f3ac49cdd4544ac1793d12e86da9f6f675b188eb68bd3ea9db3b",
+      "name": "Rags to Riches.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.19",
+    "sourceParagraphCount": 8,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p1-rags-to-riches",
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "noteLayout": true,
+      "date": "2026-10-15"
+    }
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "The jaws of ragworms may yield a valuable new material",
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

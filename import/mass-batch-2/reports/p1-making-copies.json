@@ -1,0 +1,17 @@
+{
+  "job": "p1-making-copies",
+  "title": "Making copies",
+  "part": 1,
+  "fingerprint": "fccc520fe4da103987862a328a6499af58cc88dfa18ad7f74d891f9b7ba982e3",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1XDO3YZPb2mcB56xpBJHNzeQLcWU8pWP4",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

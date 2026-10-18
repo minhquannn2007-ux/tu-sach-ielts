@@ -1,0 +1,11 @@
+# Reviewed scan batch 32
+
+Nine practice lessons: four P2 (Fragrant memories; Arctic foxes; Mimicry and parenting; A unique golden textile) and five P3 (Children and Symbols; All in the family; The sound recording industry in the USA before 1950; How to win the World Memory Championship; Humanities and the health professional). Total 122 questions, no inferred answers or scores.
+
+All original reading and task pages visually inspected. Source IDs, hashes, paragraph counts and correction records are in source-review.json. Original OCR remains in import/prepared. Reproduce exact drafts with scripts/repair-batch32.py --cache ORIGINAL_PDF_CACHE --output DRAFT_DIRECTORY; the publisher uses a nine-job allowlist and schema/hash/duplicate gates. The shared catalog gate also keeps all 14 recorded source-content holds unpublished.
+
+Important cases: Fragrant memories keeps eight paragraphs, two summary paragraphs and the article before gap 23. Arctic foxes preserves paragraph E across pages and restores heading ix/question 20. Mimicry uses reuse only for researcher matching, not information matching. Golden textile retains six paragraphs and all nine headings, with E continuing across the page. Children and Symbols moves a first line mistakenly merged with A back into C, retains seven paragraphs and the long number/word limit. Family keeps eleven bank options in source A–K order and restores printed gap 35. Sound recording preserves all eight paragraph labels, E continuation, and the full title ending 1950. Memory restores two damaged OCR blocks directly from scan, retains seven paragraphs, separate MRI footnote and seven choose-THREE options. Humanities restores five omitted reading fragments and ten original paragraph boundaries.
+
+Validation: source hashes, schema, duplicates, complete numbering and hold gate; all nine lessons exercised through submission in the exam DOM; global CBT instruction checks and three-frame full-test controls/persistence/submission. Existing shared UI was unchanged. Source pages visually inspected; browser visual QA unavailable.
+
+After publication: 500 total lessons including 11 legacy pages: P1 169, P2 175, P3 156. The 14 blocked PDF-content cases remain unpublished.

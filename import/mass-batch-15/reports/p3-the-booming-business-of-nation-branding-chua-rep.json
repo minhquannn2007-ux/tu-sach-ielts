@@ -1,0 +1,22 @@
+{
+  "job": "p3-the-booming-business-of-nation-branding-chua-rep",
+  "title": "The booming business of nation-branding(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "d8f8eefc29a97eaf4d2b502e05fa02837a090381f027b68b13b0e6046e5b91cc",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1El-juHTWy7guFupjvCpx_EIMFYMf4u8r",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    },
+    {
+      "sourceId": "1IzAwxgEGgU9WM51SIjCN3u8aj_6uYCia",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.079
+}

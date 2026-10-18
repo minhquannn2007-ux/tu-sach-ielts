@@ -1,0 +1,22 @@
+{
+  "job": "p3-can-business-learn-from-computer-games",
+  "title": "Can business learn from computer games",
+  "part": 3,
+  "fingerprint": "ad456258d1e22e85628f652d79d82f816f31a4fbe9147ce25450d15718fefca6",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1f7tCzDdN3bNEWTgFWEuaDavkScx0T7Da",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+    },
+    {
+      "sourceId": "1_M-Jxdy-AgwrE6wd0h9qF_GnM52-kOuI",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.065
+}

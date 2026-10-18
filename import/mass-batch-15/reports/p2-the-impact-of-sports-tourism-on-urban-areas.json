@@ -1,0 +1,22 @@
+{
+  "job": "p2-the-impact-of-sports-tourism-on-urban-areas",
+  "title": "The Impact of Sports Tourism on Urban Areas",
+  "part": 2,
+  "fingerprint": "032ae901906a0029037dd059ba9e864a53624a7f6c0393253ff5f29651dc0496",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1yMcI80tkLe7lpvSUZLMFBgr04eCIl0Fl",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1y6O8X7rzUBDigeMi3Xog4iDT5gY3SN64",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.065
+}

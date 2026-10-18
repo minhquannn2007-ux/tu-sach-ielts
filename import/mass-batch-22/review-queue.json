@@ -1,0 +1,362 @@
+[
+  {
+    "job": "p1-hormones",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-hormones.json",
+    "reasons": [
+      {
+        "sourceId": "1Kg3kNagbmycqPjqjxOScnmghs4l9mGnY",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-mystery-drawing",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-mystery-drawing.json",
+    "reasons": [
+      {
+        "sourceId": "1SSNoda2EgSoqT5gESQpJm1aWANrNUrcE",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-reef-life-on-the-yongala",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1HmoU5-7m85RN9UTGb7DKa4g--3bMll11",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-origins-of-rodeo-a-competitive-sport",
+    "status": "ready-for-review",
+    "draft": "drafts/p1-the-origins-of-rodeo-a-competitive-sport.json",
+    "reasons": [
+      {
+        "sourceId": "1sHJSrq-UuA4bu_eI6C2_m8gLEbgLHJqn",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p1-the-tyne-bridge",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1vXRiyEMeTkQ0UKNcRWvwZPh_7Vj8EpkY",
+        "code": "unsupported-task",
+        "message": "Unknown source task wording; needs reviewed adapter"
+      }
+    ]
+  },
+  {
+    "job": "p1-undergraduate-students-guidelines-to-students-on-literature-courses-check-em-dash-toan-bai",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1_2CTiE41vfw71crr9vHtZR9mLiYizD9x",
+        "code": "passage-title",
+        "message": "Actual source title/passage boundary requires review"
+      }
+    ]
+  },
+  {
+    "job": "p2-capability-brown",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-capability-brown.json",
+    "reasons": [
+      {
+        "sourceId": "1TTzqBmQ7zWkfMPak_ujG_cotr7VTnjhN",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-dominance-in-social-insects",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-multi-tasking-and-the-brain",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1NTfx-3CooQp96CTIPNKJuZaIquDh9Gbj",
+        "code": "scan-review",
+        "message": "Image/scan pages need OCR and visual source review"
+      }
+    ]
+  },
+  {
+    "job": "p2-teamwork",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-teamwork.json",
+    "reasons": [
+      {
+        "sourceId": "16my8G0aDQxAin-6C7_2bXi0xsPiI_zVv",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-the-impact-of-sports-tourism-on-urban-areas",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-the-impact-of-sports-tourism-on-urban-areas.json",
+    "reasons": [
+      {
+        "sourceId": "1yMcI80tkLe7lpvSUZLMFBgr04eCIl0Fl",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+    "status": "ready-for-review",
+    "draft": "drafts/p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us.json",
+    "reasons": [
+      {
+        "sourceId": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-animals-predicting-earthquakes-chua-rep",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-animals-predicting-earthquakes-chua-rep.json",
+    "reasons": [
+      {
+        "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-architecture-in-britain",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-architecture-in-britain.json",
+    "reasons": [
+      {
+        "sourceId": "1qWwGflQHwIHPp6vYJZ4Pi87HfPVquN-o",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-bright-sparks",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-bright-sparks.json",
+    "reasons": [
+      {
+        "sourceId": "1WuADZe51NzDY2__-4YU2pQoUkQlrRDso",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-crossing-the-threshold",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-crossing-the-threshold.json",
+    "reasons": [
+      {
+        "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-decisions-decisions",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-decisions-decisions.json",
+    "reasons": [
+      {
+        "sourceId": "1MJ54laumaFYafCLgsMg3xsR53K0wYxDV",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-how-did-music-begin",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-how-did-music-begin.json",
+    "reasons": [
+      {
+        "sourceId": "1W4SNr4dZT88vAVofThM1QWEgZXdU9-8j",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-lets-all-be-friends",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-lets-all-be-friends.json",
+    "reasons": [
+      {
+        "sourceId": "1FlvklErug_tWhkIO7HjpfSbiWuF-lJij",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-manage-your-energy-not-your-time",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-manage-your-energy-not-your-time.json",
+    "reasons": [
+      {
+        "sourceId": "1o9xzW5vZTQT9DaAUX-0GidTESwboqEKy",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-multi-purpose-meeting-spaces",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-multi-purpose-meeting-spaces.json",
+    "reasons": [
+      {
+        "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-rebranding-art-museums",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-rebranding-art-museums.json",
+    "reasons": [
+      {
+        "sourceId": "1ungO1h9Z6it_KjnkgMpSv6jdrbZ5Y8Jp",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-animal-connection-chua-rep",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-animal-connection-chua-rep.json",
+    "reasons": [
+      {
+        "sourceId": "1TngLXiXPvWuc6QzBiKHfJ67lCYn0yrfJ",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-costs-of-brand-loyalty",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-costs-of-brand-loyalty.json",
+    "reasons": [
+      {
+        "sourceId": "1bBNzPqCJwBIaxlKHC6eSXL2nzmXNq-kK",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-dark-side-of-the-technological-boom",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-dark-side-of-the-technological-boom.json",
+    "reasons": [
+      {
+        "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-geography-of-taste-buds",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-geography-of-taste-buds.json",
+    "reasons": [
+      {
+        "sourceId": "1KmZ596qRYlQbson9evM2oNieKjL1RIiI",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-new-zealand-writer-margaret-mahy",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-new-zealand-writer-margaret-mahy.json",
+    "reasons": [
+      {
+        "sourceId": "1jqqXoq6DiS_fuBYw013sv2s79HyhAP0f",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-the-strange-world-of-sight",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-the-strange-world-of-sight.json",
+    "reasons": [
+      {
+        "sourceId": "1JbZe-esAceyy3eSZv2_Uf8ABtejWY8mR",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  },
+  {
+    "job": "p3-travelling-plants",
+    "status": "held",
+    "draft": null,
+    "reasons": [
+      {
+        "sourceId": "1ixA7GPGZvbbBYBLxZyrirOzw-9kTKeoC",
+        "code": "option-bank",
+        "message": "An option has no content"
+      }
+    ]
+  },
+  {
+    "job": "p3-what-is-social-history",
+    "status": "ready-for-review",
+    "draft": "drafts/p3-what-is-social-history.json",
+    "reasons": [
+      {
+        "sourceId": "12JlEDsxKsmd48nq642qpRELdGVBqYq5K",
+        "code": "converted",
+        "message": "Structural checks passed; passage/layout still require review"
+      }
+    ]
+  }
+]

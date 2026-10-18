@@ -1,0 +1,202 @@
+{
+  "id": "p2-london-smog",
+  "part": 2,
+  "title": "London Smog",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "When a latter-day smog enveloped London in 1991, the number of deaths shot up by 10 per cent, according to an unpublished report. The figures suggest that the smog killed about 160 people. The episode presented the first direct evidence of deaths from air pollution in Britain for more than 30 years, and forced the government to order a review of its air quality guidelines."
+    },
+    {
+      "text": "The smog, which built up from traffic fumes during four windless days in December 1991, was the worst in Britain for many years. Many of those who died had probably been suffering from heart disease and respiratory problems."
+    },
+    {
+      "text": "Evidence of the deaths was compiled by Ross Anderson, an epidemiologist at St. George's Hospital in South London. He presented a summary of his results to a meeting of the British Thoracic Society. Anderson's results convinced the Department of Health to act. Under air quality guidelines which it set, no public warning would be given if the 1991 smog was repeated today, because the level of pollutants would not be high enough."
+    },
+    {
+      "text": "The smog blanketed London from the morning of Thursday 12th December until winds cleared the air the following Sunday evening. Two pollutants reached exceptionally high concentrations: nitrogen dioxide levels peaked at 423 parts per billion (ppb), the highest level ever recorded in Britain; and particulates, measured as the amount of black smoke in the air, reached 228 micrograms per cubic metre."
+    },
+    {
+      "text": "By looking at the number of people in London who died the week before the smog and the number who died in the same week in previous years, Anderson calculated the expected number of deaths for the seven days starting on 12th December. He then compared this figure with the number of people who actually died. Anderson found that 10 per cent more people than expected died during the smog. He declined to say how many deaths made up the 10 per cent or to comment on his findings."
+    },
+    {
+      "text": "But government figures show that about 1,700 people were registered dead during the fateful week, suggesting that about 160 extra people died during the smog. Anderson found the number of people who died from diseases including asthma and severe lung disease, was 22 per cent higher than expected during the week of the smog. The number of people who died from cardiovascular disease was 14 per cent higher."
+    },
+    {
+      "text": "An epidemiological study such as Anderson's cannot prove that air pollution caused the extra deaths. But the abstract of Anderson's paper concluded: 'The results suggest an increase in mortality occurred during the episode week. This is consistent with an effect of air pollution.'"
+    },
+    {
+      "text": "Stephen Holgate, Professor of Immuno-pharmacology at the University of Southampton, says it is difficult to be sure that the effect Anderson found was not caused by weather or another unexpected factor. But the findings do point to pollution. 'It is an important result. It reflects the findings coming out of other countries,' he says. It is not clear whether nitrogen dioxide or particulates were to blame. The nitrogen dioxide levels were more extreme. But a report on the pollutant by the government's Advisory Group on the Medical Aspects of Air Pollution Episodes found evidence of only weak effects on breathing at concentrations up to 600 ppb."
+    },
+    {
+      "text": "There is growing concern about particulates: Joel Schwartz, an epidemiologist from Harvard University, calculated that they kill 10,000 people a year in England and Wales ('Dying from too much dust'). Douglas Dockery, another epidemiologist at Harvard, says Anderson's results fit the pattern he has seen in other cities. 'It is just what we would have expected from the particulate concentrations,' says Dockery."
+    },
+    {
+      "text": "According to John Bower of the National Environmental Technology Centre near Culham, Oxfordshire, episodes as bad as the 1991 smog are rare. But they remain possible, despite new regulations intended to reduce vehicle emissions. 'If the same weather happens again, it would re-occur,' he says."
+    },
+    {
+      "text": "Previously, the Department of Health's Advisory Group had set a limit of 600 ppb for nitrogen dioxide before the government issued a public health warning. At the department's request, the advisory group is to meet to review the limit."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 18 Look at the following statements (Questions 14-18) and the list of people and groups below. Match each statement with the correct person or group, A-G. Write the correct letter, A-G, in boxes 14-18 on your answer sheet. NB You may use any letter more than once",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "1,700 people died between the 12th and the 18th of December 1991."
+        },
+        {
+          "n": 15,
+          "prompt": "The London findings are similar to those occurring in other urban areas."
+        },
+        {
+          "n": 16,
+          "prompt": "Smog episodes like those of December 1991 are rare."
+        },
+        {
+          "n": 17,
+          "prompt": "A 1991 smog could happen again."
+        },
+        {
+          "n": 18,
+          "prompt": "A public health warning should be issued if nitrogen dioxide levels exceed 600 ppb."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "The government"
+        },
+        {
+          "value": "B",
+          "text": "Ross Anderson"
+        },
+        {
+          "value": "C",
+          "text": "Advisory Group on the Medical Aspects of Air Pollution Episodes"
+        },
+        {
+          "value": "D",
+          "text": "Joel Schwartz"
+        },
+        {
+          "value": "E",
+          "text": "Douglas Dockery"
+        },
+        {
+          "value": "F",
+          "text": "John Bower"
+        },
+        {
+          "value": "G",
+          "text": "Department of Health Advisory Group"
+        }
+      ],
+      "targetName": "person or group",
+      "listTitle": "List of Names",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 19 – 22 Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 19-22 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        }
+      ],
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "The smog of December 1991 was the result of two factors. One was the {{19}} during the period; they built up because there were no winds and the air was only cleared after {{20}} days. It has not been established, however, what the exact cause of the increase in deaths was. Extremely high levels were found for particulates and for nitrogen dioxide. But at least as far as the latter is concerned, the effects it has on {{21}} have been found to be weak even at very high concentrations. It was mostly patients suffering from respiratory and {{22}} diseases that were affected."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 23 – 26 Do the following statements agree with the information given in Reading Passage 2? In boxes 23-26 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23,
+          "prompt": "Anderson's study is conclusive proof of the fatal damage of pollution."
+        },
+        {
+          "n": 24,
+          "prompt": "The ten per cent rise in deaths may be the result of various unexpected factors."
+        },
+        {
+          "n": 25,
+          "prompt": "The rise in nitrogen dioxide was probably more significant in causing deaths than the rise in particulates."
+        },
+        {
+          "n": 26,
+          "prompt": "The government failed to set upper limits for the particulate concentration."
+        }
+      ],
+      "type": "tfng"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1s-0Q4ZCLwPo6Pr5-OzFzkQ3ar71lUijc",
+      "role": "passage-and-questions",
+      "sha256": "f4ce22c33fe53ef785fc0e5a93293ddbc4c6550a42ef7ac8a03559aeadac8c08",
+      "name": "London Smog.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "sourceParagraphCount": 11,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-london-smog"
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch2-concrete-cover.jpg",
+    "alt": "Kiến trúc bê tông",
+    "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+    "credit": "Jonas Gerlach",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-5-2026-10-13",
+    "checks": [
+      "native paragraph question option and completion text comparison",
+      "source title subtitle visual review",
+      "rendered source task pages inspected",
+      "note typography and hanging indent checked",
+      "word limit and reuse instructions checked",
+      "footnotes retained",
+      "shared schema and functional controls"
+    ],
+    "sourceWarnings": []
+  }
+}

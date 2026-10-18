@@ -1,0 +1,324 @@
+{
+  "id": "p1-an-important-language-development",
+  "title": "An important language development",
+  "part": 1,
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "Cuneiform, the world’s first known system of handwriting, originated some 6,000 years ago in Sumer in what is now southern Iraq. It was most often inscribed on palm-sized, rectangular clay tablets measuring several centimetres across, although occasionally, larger tablets or cylinders were used. Clay was an excellent medium for writing. Other surfaces which have been employed — for example, parchment, papyrus and paper — are not long-lasting and are easily destroyed by fire and water. But clay has proved to be resistant to those particular kinds of damage."
+    },
+    {
+      "text": "The word ‘cuneiform’ actually refers to the marks or signs inscribed in the clay. The original cuneiform signs consisted of a series of lines — triangular, vertical, diagonal and horizontal. Sumerian writers would impress these lines into the wet clay with a stylus — a long, thin, pointed instrument which looked somewhat like a pen. Oddly, the signs were often almost too small to see with the naked eye. Cuneiform signs were used for the writing of at least a dozen languages. This is similar to how the Latin alphabet is used today for writing English, French, Spanish and German for example."
+    },
+    {
+      "text": "Before the development of cuneiform, tokens were used by the Sumerians to record certain information. For example, they might take small stones and use them as tokens or representations of something else, like a goat. A number of tokens, then, might mean a herd of goats. These tokens might then be placed in a cloth container and provided to a buyer as a receipt for a transaction, perhaps five tokens for five animals. It was not that different from what we do today when we buy some bread and the clerk gives us back a piece of paper with numbers on it to confirm the exchange."
+    },
+    {
+      "text": "By the 4th century BCE, the Sumerians had adapted this system to a form of writing. They began putting tokens in a container resembling an envelope, and now made of clay instead of cloth. They then stamped the outside to indicate the number and type of tokens inside. A person could then ‘read’ what was stamped on the container and know what was inside."
+    },
+    {
+      "text": "Gradually, Sumerians developed symbols for words. When first developed, each symbol looked like the concrete thing it represented. For example, an image which resembled the drawing of a sheep meant just that. Then another level of abstraction was introduced when symbols were developed for intangible ideas such as ‘female’ or ‘hot’ or ‘God’. Cuneiform, in other words, evolved from a way used primarily to track and store information into a way to represent the world symbolically. Over the centuries, the marks became ever more abstract, finally evolving into signs that looked nothing like what they referred to, just as the letters ‘h-o-u-s-e’ have no visual connection to the place we live in. At this last stage in the evolution of cuneiform, the signs took the form of triangles, which became common cuneiform signs."
+    },
+    {
+      "text": "As the marks became more abstract, the system became more efficient because there were fewer marks a ‘reader’ needed to learn. But cuneiform also became more complex because society itself was becoming more complex, so there were more ideas and concepts that needed to be expressed. However, most linguists and historians agree cuneiform developed primarily as a tool for accounting. Of the cuneiform tablets that have been discovered, excavated and translated, about 75 percent contain this type of practical information, rather than artistic or imaginative work."
+    },
+    {
+      "text": "Cuneiform writing was used for thousands of years, but it eventually ceased to be used in everyday life. In fact, it died out and remained unintelligible for almost 2,000 years. In the late 19th century, a British army officer, Henry Rawlinson, discovered cuneiform inscriptions which had been carved in the surface of rocks in the Behistun mountains in what is present-day Iran. Rawlinson made impressions of the marks on large pieces of paper, as he balanced dangerously on the surrounding rocks."
+    },
+    {
+      "text": "Rawlinson took his copies home to Britain and studied them for years to determine what each line stood for, and what each group of symbols meant. He found that in the writing on those particular rocks every word was repeated three times in three languages: Old Persian, Elamite and Babylonian. Since the meanings in these languages were already known to linguists, he could thus translate the cuneiform. Eventually, he fully decoded the cuneiform marks and he discovered that they described the life of Darius, a king of the Persian Empire in the 5th century BCE."
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "sourceInstructions": "Questions 1 – 5 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-5 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Cuneiform tablets were produced in different shapes and sizes."
+        },
+        {
+          "n": 2,
+          "prompt": "When Sumerian writers marked on the clay tablets, the tablets were dry."
+        },
+        {
+          "n": 3,
+          "prompt": "Cuneiform was often difficult to read because of its size."
+        },
+        {
+          "n": 4,
+          "prompt": "A number of languages adopted cuneiform."
+        },
+        {
+          "n": 5,
+          "prompt": "Cuneiform signs can be found in some modern alphabets."
+        }
+      ]
+    },
+    {
+      "type": "notes",
+      "sourceInstructions": "Questions 6 – 13 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 6-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "title": "The development and translation of cuneiform",
+      "noteLayout": {
+        "title": "The development and translation of cuneiform",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Before cuneiform",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.3
+          },
+          {
+            "runs": [
+              {
+                "text": "tokens, for example, {{6}}, were often used"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "the first tokens were kept in containers made of {{7}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "tokens were used as a {{8}} to give when selling something"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "By 4th century BCE",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "tokens were put in a container that looked like a clay {{9}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Complex, abstract symbols developed",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "at first, signs looked like what they indicated, e.g. a {{10}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "then signs became more abstract"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "eventually, cuneiform signs shaped like {{11}} were developed"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "according to experts, cuneiform was mainly used for {{12}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "19th-century translation of cuneiform inscriptions by Henry Rawlinson",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.4
+          },
+          {
+            "runs": [
+              {
+                "text": "Rawlinson found cuneiform inscriptions in the Behistun mountains"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Rawlinson copied inscriptions onto {{13}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Rawlinson realised that each word of the inscriptions appeared in different languages"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "when translated, Rawlinson found the writings were about a 5th-century BCE king"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.3,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "content": [
+        "Before cuneiform",
+        "tokens, for example, {{6}}, were often used",
+        "the first tokens were kept in containers made of {{7}}",
+        "tokens were used as a {{8}} to give when selling something",
+        "By 4th century BCE",
+        "tokens were put in a container that looked like a clay {{9}}",
+        "Complex, abstract symbols developed",
+        "at first, signs looked like what they indicated, e.g. a {{10}}",
+        "then signs became more abstract",
+        "eventually, cuneiform signs shaped like {{11}} were developed",
+        "according to experts, cuneiform was mainly used for {{12}}",
+        "19th-century translation of cuneiform inscriptions by Henry Rawlinson",
+        "Rawlinson found cuneiform inscriptions in the Behistun mountains",
+        "Rawlinson copied inscriptions onto {{13}}",
+        "Rawlinson realised that each word of the inscriptions appeared in different languages",
+        "when translated, Rawlinson found the writings were about a 5th-century BCE king"
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1RoB_l7gAdmaD-gBGl6fFLFNFEBcgAcMY",
+      "role": "passage-and-questions",
+      "sha256": "6c84168a814b4a17d4b2ae0ce077e1a7cdf583e2109164b12d1668a68985b7c6"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "jobId": "p1-an-important-language-development",
+    "method": "ocr-with-explicit-source-reviewed-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 8
+  }
+}

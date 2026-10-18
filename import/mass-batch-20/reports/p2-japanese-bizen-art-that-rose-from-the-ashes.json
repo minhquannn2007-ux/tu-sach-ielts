@@ -1,0 +1,37 @@
+{
+  "job": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+  "title": "Japanese Bizen Art that Rose from the Ashes",
+  "part": 2,
+  "fingerprint": "cdfd2ee4a6a14111b99726e3c040955067efab18983e7ba20c409d4b311505f9",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    },
+    {
+      "code": "schema",
+      "message": "Missing or empty passage paragraph"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "draft": "drafts/p2-japanese-bizen-art-that-rose-from-the-ashes.json",
+  "lessonId": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+  "sourceId": "1SGmpa5jRwD-m4ezM_DZ5qSP5cLT0HQBG",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "summary-input",
+    "mc-two"
+  ],
+  "sourceHash": "dd3551b7771860931e5e5e9fd97b3269bca1514a3dcbc05d48a5e33c1855738c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.083
+}

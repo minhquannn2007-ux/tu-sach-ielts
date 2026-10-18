@@ -1,0 +1,17 @@
+{
+  "job": "p3-motivating-employees",
+  "title": "Motivating employees",
+  "part": 3,
+  "fingerprint": "76a5226a4eb03d0e91040b6f15be8aafa0d00abdf87f4ab560544cea2977074c",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1bEJdTIynOKoYyEruJqxC83F_gnC0Un5w",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p1-health-in-the-wild",
+  "title": "HEALTH IN THE WILD",
+  "part": 1,
+  "fingerprint": "7912c1e72d7b7069af3a4ab7804b086b22e1a4e8a092240a0f7102cb38cf4265",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1nnskT2ToXFMY21uSFdJ-bf_Yu9wJe4fE",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-health-in-the-wild.json",
+  "lessonId": "p1-health-in-the-wild",
+  "sourceId": "1nnskT2ToXFMY21uSFdJ-bf_Yu9wJe4fE",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes",
+    "summary-input"
+  ],
+  "sourceHash": "9ad6ae6ad379ff498e00a6799e01fb1d5402e463e9d65685d24fd1528b570f7b",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.055
+}

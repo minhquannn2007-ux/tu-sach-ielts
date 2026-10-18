@@ -1,0 +1,32 @@
+{
+  "job": "p1-climate-change-and-new-diseases",
+  "title": "Climate Change and New Diseases",
+  "part": 1,
+  "fingerprint": "603c1fcb54f6a166f972a531958cb1cd4c04e51448c06e2a21be79093ceabeb4",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1LqroH6e0JfOy0H7_XlNFJTMet8QUii2c",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-climate-change-and-new-diseases.json",
+  "lessonId": "p1-climate-change-and-new-diseases",
+  "sourceId": "1LqroH6e0JfOy0H7_XlNFJTMet8QUii2c",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "19ca60aabe870a4b882f395eedfb914c75fdf943c967e56cf61762e5ae0e8239",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.087
+}

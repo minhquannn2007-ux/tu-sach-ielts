@@ -1,0 +1,34 @@
+{
+  "job": "p2-an-australian-tree-abroad",
+  "title": "An Australian Tree Abroad",
+  "part": 2,
+  "fingerprint": "0838c5f115e670bc5deb94b74cde5021c506eda279bd209e9ad75bd1614161b0",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "18DeR_BdoYo4TRplUNwu8kbi9rB5QCWgr",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-an-australian-tree-abroad.json",
+  "lessonId": "p2-an-australian-tree-abroad",
+  "sourceId": "18DeR_BdoYo4TRplUNwu8kbi9rB5QCWgr",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "439fac1e9573b7250341aa42262ac291ec23b67c54954aad4117a707ea2b59a2",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.064
+}

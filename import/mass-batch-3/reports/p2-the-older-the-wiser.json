@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-older-the-wiser",
+  "title": "The older, the wiser",
+  "part": 2,
+  "fingerprint": "4759d613e0ba43793b9e1be9ea930ecb2462b6ae61ef605c74b203cb9cf8cd90",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1ZEelrSp2PilsvYNISMZH-mzKuVGS_Jku",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-older-the-wiser.json",
+  "lessonId": "p2-the-older-the-wiser",
+  "sourceId": "1ZEelrSp2PilsvYNISMZH-mzKuVGS_Jku",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "358192c118deebf6dca3be39c9798dd4b56ce9fd9427d652624118676bd5e1cb",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.052
+}

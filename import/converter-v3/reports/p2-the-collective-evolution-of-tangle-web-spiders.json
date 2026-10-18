@@ -1,0 +1,33 @@
+{
+  "job": "p2-the-collective-evolution-of-tangle-web-spiders",
+  "title": "The collective evolution of tangle-web spiders",
+  "part": 2,
+  "fingerprint": "a3a23f56f1ee19fb14d349bbae9b4ba4b8c9a0b23df0640b30b862b56af77086",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1hw2ljvyqFxAewSDHoqiqVzZKkJ7I3b_S",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-collective-evolution-of-tangle-web-spiders.json",
+  "lessonId": "p2-the-collective-evolution-of-tangle-web-spiders",
+  "sourceId": "1hw2ljvyqFxAewSDHoqiqVzZKkJ7I3b_S",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "summary-input",
+    "matching-features"
+  ],
+  "sourceHash": "3362d6e94a1dfafc7569fa456e69ac771d79207855d440bd8fad88aa9abeb30f",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.062
+}

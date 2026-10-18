@@ -1,0 +1,211 @@
+{
+  "id": "p2-insect-decision-making",
+  "part": 2,
+  "title": "Insect Decision-Making",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "It has long been held that decision made collectively by large groups of people are more likely to turn out to be accurate than decisions made by individuals. The idea goes back to the ‘jury theorem’ of Nicolas de Condorcet, an 18th-century French philosopher who was one of the first to apply mathematics to the social sciences. Condorcet’s theory describes collective decisions, outlining how democratic decisions tend to outperform dictatorial ones. If, for example, each member of a jury has only partial information, the majority decision is more likely to be correct than a decision arrived at by a single juror. Moreover, the probability of a correct decision increases with the size of the jury."
+    },
+    {
+      "label": "B",
+      "text": "Now it is becoming clear that group decisions are also extremely valuable for the success of social animals, such as ants, bees, birds, and dolphins. Bees make collective decisions, and they do it rather well, according to Christian List of the London School of Economics, who has studied group decision-making in humans and animals. Researchers led by Dr List looked at colonies once the original colony reaches a certain size. The queen goes off with about two-thirds of the worker bees to live in a new home or nest, leaving a daughter queen in the old nest with the remaining workers. Among the bees that depart are some that have searched for and found some new nest sites, and reported back using a characteristic body movement known as a 'waggle dance' to indicate to the other bees the suitable places they have located. The longer the dance, the better the site. After a while, other bees start to visit the sites signaled by their companions to see for themselves and, on their return, also perform more waggle dances. The process eventually leads to a consensus on the best site and the breakaway swarm migrates. The decision is remarkably reliable, with the bees choosing the best site even when there are only small differences between alternative sites."
+    },
+    {
+      "label": "C",
+      "text": "But exactly how do bees reach such a robust consensus? To find out, Dr List and his colleagues used a computer-generated model of the decision-making process. By experimenting with it they found that, when bees in the model were very good at finding nesting sites but did not share their information, this dramatically slowed down the migration, leaving the swarm homelss and vulnerable. Conversely, bees in the model blindly following the waggle dances of others without first checking. The researchers concluded that the ability of bees to identify successfully and quickly the best site depends on both the bees’ interdependence in communicating the whereabouts of the bees’ site, and their independence in confirming this information for themselves."
+    },
+    {
+      "label": "D",
+      "text": "Another situation in which collective decisions are taken occurs when animals are either isolated from crucial sources of information or dominated by other members of the group. José Halloy of the Free University of Brussels in Belgium used robotic cockroaches to subvert the behaviour of living cockroaches and control their decision-making process. In his experiment, the artificial bugs were introduced to the live ones and soon became sufficiently socially integrated that they were perceived by the real cockroaches as equals. By manipulating the robots, which were in the minority, Halloy was able to persuade the living cockroaches to choose an inappropriate shelter-even one which they had rejected before being infiltrated by the robots."
+    },
+    {
+      "label": "E",
+      "text": "The way insects put into effect collective decisions can be complex and as important as the decisions themselves. At the University of Bristol, in the UK, Nigel Franks and his colleagues studied how a species of ant establishes a new nest. Franks and his associates reported how the insects reduce the problems associated with making a necessarily swift choice. If the ants’ existing nest becomes suddenly threatened, the insects choose certain ants to act as scouts to find a new nest. How quickly they accomplish the transfer to a new home depends not only on how soon the best available site is found, but also on how quickly the migration there can be achieved."
+    },
+    {
+      "label": "F",
+      "text": "Once the suitable new nest is identified, the chosen ants begin to lead others, which have made it to the new site or which may simply be in the vicinity, back to the original threatened nest. In this way, those ants which are familiar with the route can help transport, for example, the queen and young ants to the new site, and simultaneously show the way to those ants which have been left behind to guard the old nest. In this way moving processes are accomplished faster and more efficiently. Thus, the dynamics of collective decision-making are closely related to the efficient implementation of those decisions. How this might apply to choices that humans make is, as yet, unclear. But it does suggest, even for humans, the importance of recruiting dynamic leaders to a cause, because the most important thing about collective decision-making, as shown by these insect experiments, is to get others to follow."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Reading Passage 2 has six paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-vii, in boxes 14-19 on your answer sheet.",
+      "sourcePages": [
+        1
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "paragraph": 0
+        },
+        {
+          "n": 15,
+          "paragraph": 1
+        },
+        {
+          "n": 16,
+          "paragraph": 2
+        },
+        {
+          "n": 17,
+          "paragraph": 3
+        },
+        {
+          "n": 18,
+          "paragraph": 4
+        },
+        {
+          "n": 19,
+          "paragraph": 5
+        }
+      ],
+      "type": "matching-headings",
+      "bank": [
+        {
+          "value": "i",
+          "text": "The effect of man-made imitations on insects"
+        },
+        {
+          "value": "ii",
+          "text": "The need to instruct additional insect guides"
+        },
+        {
+          "value": "iii",
+          "text": "Signals used by certain insects to indicate a discovery"
+        },
+        {
+          "value": "iv",
+          "text": "How urgency can affect the process of finding a new home"
+        },
+        {
+          "value": "v",
+          "text": "The use of trained insects in testing scientific theories"
+        },
+        {
+          "value": "vi",
+          "text": "The use of virtual scenarios in the study of insect behaviour"
+        },
+        {
+          "value": "vii",
+          "text": "How the number of decision-makers affects the decision"
+        }
+      ],
+      "reuse": false
+    },
+    {
+      "sourceInstructions": "Questions 20 – 23 Look at the following statements (Questions 20-23) and the list of academics below. Match each statement with the correct academic, A-D. Write the correct letter, A-D, in boxes 20-23 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 20,
+          "prompt": "Certain members can influence the rest of the group to alter a previous decision."
+        },
+        {
+          "n": 21,
+          "prompt": "Individual verification of a proposed choice is important for successful decision outcome."
+        },
+        {
+          "n": 22,
+          "prompt": "The more individuals taking part in a decision, the better the decision will be."
+        },
+        {
+          "n": 23,
+          "prompt": "The decision-making process of certain insects produces excellent results even when fine distinctions are required."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "Nicolas de Condorcet"
+        },
+        {
+          "value": "B",
+          "text": "Christian List and colleagues"
+        },
+        {
+          "value": "C",
+          "text": "José Halloy"
+        },
+        {
+          "value": "D",
+          "text": "Nigel Franks and colleagues"
+        }
+      ],
+      "targetName": "academic",
+      "listTitle": "List of Academics",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "A study of insect decision-making",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "A Bristol University study looked at how insects make decisions when their home has been {{24}} . The ants in the experiment relied on the use of individuals called {{25}} new nest and efficiently direct the others to go there. The study concluded that the effective implementation of the ants' decision meant that the insects could change homes quickly. The study emphasized the necessity, for people well as insects, of having active {{26}} in order to execute decisions successfully."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1h0bKR_HBgjElw23oLNtQINnm7668uPdK",
+      "role": "passage-and-questions",
+      "sha256": "e622004e2f70c5327539beac2db140a8663feba3c70b192e174a239f76567fa3",
+      "name": "Insect Decision-Making.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.6",
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-insect-decision-making"
+  },
+  "displayParagraphLabels": false,
+  "cover": {
+    "asset": "assets/batch2-ants-cover.jpg",
+    "alt": "Kiến trên lá",
+    "source": "https://unsplash.com/photos/a-close-up-of-a-group-of-ants-on-a-leaf-Cvx1BDQM15o",
+    "credit": "Dibakar Roy",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-3-2026-10-12",
+    "checks": [
+      "native text comparison",
+      "title subtitle and first-paragraph visual review",
+      "source note layout review",
+      "source footnotes",
+      "shared schema",
+      "functional controls"
+    ]
+  }
+}

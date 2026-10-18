@@ -1,0 +1,33 @@
+{
+  "job": "p1-koalas",
+  "title": "Koalas",
+  "part": 1,
+  "fingerprint": "7ad2de5174e9cb800f377a682cfcc28bdf90347d3d54ab533c64509ab2767eb6",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1UiF6k1xGYn_e23Zuz9Sc3qqmrsI3yYhB",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-koalas.json",
+  "lessonId": "p1-koalas",
+  "sourceId": "1UiF6k1xGYn_e23Zuz9Sc3qqmrsI3yYhB",
+  "questionCount": 13,
+  "types": [
+    "mc-one",
+    "tfng",
+    "mc-one"
+  ],
+  "sourceHash": "5b110440224f72d8cf73f7c077e306696fad449cad723d47adba1f84bce082d5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

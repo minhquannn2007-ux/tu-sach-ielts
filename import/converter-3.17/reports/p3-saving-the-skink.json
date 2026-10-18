@@ -1,0 +1,22 @@
+{
+  "job": "p3-saving-the-skink",
+  "title": "Saving the Skink",
+  "part": 3,
+  "fingerprint": "16f1f32dba03e873f421d538906ffe72e7fd71fec8153582415a73af916bfc28",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1eSGP-CzyWTkkSITMWT9Rgx0Jsubhecna",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "11eQPK_jePQetvsMUVyvQ-95MwdKfCdry",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

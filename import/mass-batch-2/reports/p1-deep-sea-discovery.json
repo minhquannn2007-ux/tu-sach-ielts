@@ -1,0 +1,17 @@
+{
+  "job": "p1-deep-sea-discovery",
+  "title": "Deep sea discovery",
+  "part": 1,
+  "fingerprint": "1093c37611b949d5bb424a27504572c4b75cfa998db028df847b20afd9010f6a",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1w7OkZX_-WyXs3q9xF-3tS-Nd6nUPT9bN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

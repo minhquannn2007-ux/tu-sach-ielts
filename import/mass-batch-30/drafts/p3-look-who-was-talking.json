@@ -1,0 +1,175 @@
+{
+  "id": "p3-look-who-was-talking",
+  "title": "Look who was talking",
+  "part": 3,
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "When did we start talking to each other and how long did it take us to become so good at it? One view of language development, held by linguists such as Noam Chomsky and anthropologists such as Richard Klein, is that language, specifically the spoken word, appeared suddenly among modern humans a mere 35,000 to 50,000 years ago and that the ability to speak words and use syntax was recently genetically hard-wired into our brains in a kind of language organ. This view of language is associated with the old idea that logical thought is dependent on words, a concept originating with Plato and much in vogue in the 19th century — that is, animals do not speak because they do not think. However, the abstract thought demonstrated in 20th-century experiments with chimpanzees and bonobos put this theory in doubt."
+    },
+    {
+      "text": "An alternative to the Chomskian theory is that language developed as a series of inventions. This was first suggested by the 18th-century philosopher Etienne Bonnot de Condillac. He argued that spoken language had developed out of gesture language (langage d'action) and that both were inventions arising initially from the simple association between action and object. The theory sees gesture language as arising originally among apes as sounds accompanying gestures, with these sounds gradually becoming coded into ‘words’ as the new skill drove its own evolution. Subsequently, coded words developed into deliberate, complex communication. Evolutionary pressures promoted the development of an anatomy geared to speech — the larynx, vocal muscles and a specific part of the brain immediately next to the part responsible for gestures."
+    },
+    {
+      "text": "The view that spoken language was ultimately a cultural invention like tool-making, which then drove the biological evolution of the brain and vocal apparatus, seems obvious when you think of the development of different languages. The unique features of a language such as French clearly do not result from any physiological aspect of being French, but are the cultural possessions of the French-speaking community. Each language evolves from one generation to the next, constantly adapting itself to cope with the learning biases of each new set of young, immature minds."
+    },
+    {
+      "text": "Those anthropologists and fossil experts who accept that speech started early still tend to think of language evolution as a gradual 2-million-year process, with our own modern human species (homo sapiens) way out at the top. A major reason for this is the perception that brain growth among humans was gradual over a similar period. Several recent changes in the fossil evidence though, bring this into doubt."
+    },
+    {
+      "text": "The first of these is a re-dating of soil layers from the famous Olduvai Gorge in East Africa, where many key fossil remains have been found. A number of big-brained human species appear to be much older than previously thought, with several specimens dating from over a million years ago. When brain sizes for all available skulls are plotted against time using the revised dates, the result is startling: the bulk of increases in brain size was over by around 1.2 million years ago, with some African human species having brain volumes easily within the modern human range by that time."
+    },
+    {
+      "text": "So, we have the paradox that over the period when our brain was growing most rapidly, our material cultural development, as measured by stone tools, advanced only marginally; then, over a million years later, when the development of anatomically modern humans finally started to accelerate, artistically and technologically, our brains were actually getting smaller."
+    },
+    {
+      "text": "The additional piece of evidence that makes this paradox all the more significant is that brain size did not just leap between human species in a direct line of ascent towards ourselves. Over the period from 2.5 to 1.5 million years ago, brains were growing more rapidly than at any time since, within all the different human species. The logical conclusion is that there must have been a unique new behaviour driving brain growth, shared between all species of humans."
+    },
+    {
+      "text": "So, what was driving rapid brain growth right at the beginning, 2.5 million years ago? The answer may have been staring us in the face. Namely, that not only early humans, but their ancestors, had started the trend in the very useful skill of verbal communication. Around 2.5 million years ago, the weather took a decided turn for the worse, becoming more variable and colder and drier. The search for food became more taxing, and there would have been a real need to communicate more effectively and cope with the worsening environment in a co-operative way. The near maximum in brain size achieved by 1.2 million years ago indicates that those early ancestors could already have been talking perfectly well. Our brain, which had developed to manipulate and organise complex symbolic aspects of speech internally, could now be turned to a variety of other tasks."
+    },
+    {
+      "text": "So what happened in the million-year gap after that? Why did we take so long to get to the moon? Cultural evolution aided by communication and teaching is a cumulative interactive process. If each new generation invented just one new skill or idea and passed it on with the rest to their children and cousins, you could predict exactly the same curve of cultural advance as we see from the archaeological and historical record — first very slow, then faster and faster."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Questions 27 – 32 Look at the following statements (Questions 27-32) and the list of people below. Match each statement with the correct person, A-C. Write the correct letter, A-C, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "The development of human speech can be traced back to apes."
+        },
+        {
+          "n": 28,
+          "prompt": "Animal research is essential for understanding the development of human speech."
+        },
+        {
+          "n": 29,
+          "prompt": "Language emerged relatively late in human evolution."
+        },
+        {
+          "n": 30,
+          "prompt": "Non-verbal language was essential in the development of verbal language."
+        },
+        {
+          "n": 31,
+          "prompt": "The development of different languages is related more to environmental than biological factors."
+        },
+        {
+          "n": 32,
+          "prompt": "The ability to think rationally is linked to the ability to speak."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "Chomsky"
+        },
+        {
+          "value": "B",
+          "text": "Condillac"
+        },
+        {
+          "value": "C",
+          "text": "neither Chomsky nor Condillac"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": true
+    },
+    {
+      "type": "ynng",
+      "sourceInstructions": "Questions 33 – 37 Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes on your answer sheet, write YES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 33,
+          "prompt": "Anthropologists now agree on the point in time when speech began."
+        },
+        {
+          "n": 34,
+          "prompt": "The rate of human technological development in ancient times was directly related to brain size."
+        },
+        {
+          "n": 35,
+          "prompt": "The period when the brain was growing most quickly has now been identified."
+        },
+        {
+          "n": 36,
+          "prompt": "The development of agriculture influenced language development."
+        },
+        {
+          "n": 37,
+          "prompt": "Cultural development has been seen to follow a particular pattern throughout human history."
+        }
+      ]
+    },
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Questions 38 – 40 Look at the following statements (Questions 38-40) and the list of dates below. Match each statement with the correct date, A-D. Write the correct letter, A-D, in boxes 38-40 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 38,
+          "prompt": "Revised fossil evidence indicates most brain growth was complete."
+        },
+        {
+          "n": 39,
+          "prompt": "The writer suggests that language development was complete."
+        },
+        {
+          "n": 40,
+          "prompt": "An external change may have influenced language development."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "2.5 million years ago"
+        },
+        {
+          "value": "B",
+          "text": "1.5 million years ago"
+        },
+        {
+          "value": "C",
+          "text": "1.2 million years ago"
+        },
+        {
+          "value": "D",
+          "text": "0.5 million years ago"
+        }
+      ],
+      "targetName": "date",
+      "listTitle": "List of Dates",
+      "reuse": true
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "1B4bkDyxnuTrMRi6I4vwdjyHjQcFjLFVa",
+      "role": "passage-and-questions",
+      "sha256": "cba2428b1dcbbdd96415d096a493c15ef4bb118631270d9513f5af7bebf3f4d6"
+    }
+  ],
+  "conversion": {
+    "version": "3.22",
+    "jobId": "p3-look-who-was-talking",
+    "method": "ocr-with-explicit-source-reviewed-adapter",
+    "requiresReview": true,
+    "sourceParagraphCount": 9
+  },
+  "subtitle": "Stephen Oppenheimer explores the origins of human speech"
+}

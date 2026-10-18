@@ -1,0 +1,103 @@
+{
+  "policy": "Keep these sources unpublished until a corrected source is explicitly reviewed and its hold released.",
+  "lessons": [
+    {
+      "job": "p1-william-gilbert-and-magnetism",
+      "title": "William Gilbert and magnetism",
+      "part": 1,
+      "reason": "Source paragraph A is copied from Crowding and Density, not William Gilbert; needs corrected source",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p1-the-life-of-louis-braille",
+      "title": "The Life of Louis Braille",
+      "part": 1,
+      "reason": "Source notes are headed The characteristics of the camel, unrelated to the Louis Braille content; requires corrected source title.",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-digital-analysis-of-literature",
+      "title": "Digital analysis of literature",
+      "part": 2,
+      "reason": "source-content: Q20–23 discuss workplaces rather than the passage; compare another version",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-the-power-of-music",
+      "title": "The power of music",
+      "part": 2,
+      "reason": "Questions 23–26 concern multitasking and do not match the music passage",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-moon-search",
+      "title": "Moon Search",
+      "part": 2,
+      "reason": "Source Questions 21–23 duplicate amateur-astronomer statements from a different passage rather than the Moon Search content; compare an alternate source before publication.",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-our-sense-of-smell",
+      "title": "Our Sense of Smell",
+      "part": 2,
+      "reason": "Heading paragraph mapping is ambiguous",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-coins-the-first-form-of-money",
+      "title": "Coins - the first form of money",
+      "part": 2,
+      "reason": "Heading paragraph mapping is ambiguous",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-public-art-programs-research-update",
+      "title": "Public art programs: research update",
+      "part": 2,
+      "reason": "Source Q20–23 concern willpower/self-control experiments, unrelated to the art participation reading; compare alternate corrected source before publication.",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p2-of-horses-teeth-and-regulation",
+      "title": "Of horses' teeth and regulation",
+      "part": 2,
+      "reason": "Source Q20 and Q21 have identical prompts; held for source content review",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p3-the-beginnings-of-modern-cognition",
+      "title": "The beginnings of modern cognition",
+      "part": 3,
+      "reason": "source-content: damaged sentence around symbolic thinking; compare another version",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p3-flower-power",
+      "title": "Flower Power",
+      "part": 3,
+      "reason": "Printed heading range says 27–32 but lists 27–33; hold for source instruction review.",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p3-the-lost-animals-of-australia",
+      "title": "The lost animals of Australia",
+      "part": 3,
+      "reason": "Printed MCQ range says 27–31 but includes question 32; hold for source instruction review.",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p3-refraction",
+      "title": "REFRACTION",
+      "part": 3,
+      "reason": "Printed completion range says 36–40 but actual blanks are 33–40; hold for source instruction review.",
+      "publicationBlocked": true
+    },
+    {
+      "job": "p3-sea-change-for-salinity",
+      "title": "Sea Change for Salinity",
+      "part": 3,
+      "reason": "Source Matching Uses Q35 and Q36 both say Radiometric analysis with no distinction; needs source correction, not published",
+      "publicationBlocked": true
+    }
+  ]
+}

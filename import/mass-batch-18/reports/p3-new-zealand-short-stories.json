@@ -1,0 +1,33 @@
+{
+  "job": "p3-new-zealand-short-stories",
+  "title": "New Zealand Short Stories",
+  "part": 3,
+  "fingerprint": "6b39006a1c72912edfc865874465d93123fc5af6b644c566fd04c870d4afea3c",
+  "converterVersion": "3.18",
+  "attempts": [
+    {
+      "sourceId": "12Z2ma1NkOIE4pNQuKqIZ5qKQO8-8XqND",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-new-zealand-short-stories.json",
+  "lessonId": "p3-new-zealand-short-stories",
+  "sourceId": "12Z2ma1NkOIE4pNQuKqIZ5qKQO8-8XqND",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "86c4f50b5a8ec3b345342b634f0d74631f20b5f8191cd5e3ea17a90c0de78a9d",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.071
+}

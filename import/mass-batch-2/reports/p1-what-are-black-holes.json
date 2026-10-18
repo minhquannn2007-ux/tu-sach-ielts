@@ -1,0 +1,17 @@
+{
+  "job": "p1-what-are-black-holes",
+  "title": "What are Black Holes?",
+  "part": 1,
+  "fingerprint": "1c73066f946f9c7d2cc1c99c80082ec25bd224d7981e0e57fdbedb1281e6a93d",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1HGMZFIo-cqn9xwfpSOkzrB20qdl7wLcP",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.002
+}

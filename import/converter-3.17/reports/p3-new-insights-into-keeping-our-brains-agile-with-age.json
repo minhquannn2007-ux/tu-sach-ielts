@@ -1,0 +1,34 @@
+{
+  "job": "p3-new-insights-into-keeping-our-brains-agile-with-age",
+  "title": "New Insights into Keeping Our Brains Agile with Age",
+  "part": 3,
+  "fingerprint": "47b9e8da51aa4186db0967e4bd54d6e9a0a4e5ee9f278b8fdfa5993897ab99f0",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1KajGNufqJaxrrIlk0MjFit6-Krd2SX49",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-new-insights-into-keeping-our-brains-agile-with-age.json",
+  "lessonId": "p3-new-insights-into-keeping-our-brains-agile-with-age",
+  "sourceId": "1KajGNufqJaxrrIlk0MjFit6-Krd2SX49",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "mc-two",
+    "matching-features",
+    "mc-one"
+  ],
+  "sourceHash": "39abd4355ca737a2ebc9e66732d8cb279018e9047ced50e3030572dd10a09fbf",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.069
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-the-little-ice-age",
+  "title": "The Little Ice Age",
+  "part": 2,
+  "fingerprint": "6e7df570d6fc3c5701f755094ba1b293e9aa558b88685cdfeaf45231850b8007",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1tPv5OaPWEu5qijOmW0OmVdhPQQKJgb5g",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-robbers-cave-study",
+  "title": "The Robbers Cave Study",
+  "part": 3,
+  "fingerprint": "4a272ca85a0fac09b923f2106d9e88e7d7f378ee4e3d372cba158a4d939d7cc7",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1jtShNSS7A68uY-S0OCEEO7vbI4Y8pFbY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

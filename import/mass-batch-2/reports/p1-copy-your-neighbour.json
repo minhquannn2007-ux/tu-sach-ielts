@@ -1,0 +1,17 @@
+{
+  "job": "p1-copy-your-neighbour",
+  "title": "Copy Your Neighbour",
+  "part": 1,
+  "fingerprint": "ca2deb18b6086fa0bb890f1e0d189ac5f6c5e136de70ad52c6c9ba125aef951c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1F5dM2Mj4zv_2lPywNQ7Wew4zuYTjY5Rt",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.097
+}

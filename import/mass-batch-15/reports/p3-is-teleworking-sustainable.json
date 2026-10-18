@@ -1,0 +1,17 @@
+{
+  "job": "p3-is-teleworking-sustainable",
+  "title": "Is teleworking sustainable?",
+  "part": 3,
+  "fingerprint": "3321e9e20a0a3c5a30d801435a0db73e84d70197f9c09211ca33a93351a68d3d",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1XSq15UVibeT0Xdogp_nAVJIB3wnjvNQM",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

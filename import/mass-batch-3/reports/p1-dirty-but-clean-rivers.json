@@ -1,0 +1,32 @@
+{
+  "job": "p1-dirty-but-clean-rivers",
+  "title": "Dirty but Clean Rivers",
+  "part": 1,
+  "fingerprint": "09f4f27f38f94f10bca71fd8d7226bf00a1dae84895fc9671f6089e33f07e70c",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1AeooWBgHCHPaqsI7iWC2hg8jeyqGtucH",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-dirty-but-clean-rivers.json",
+  "lessonId": "p1-dirty-but-clean-rivers",
+  "sourceId": "1AeooWBgHCHPaqsI7iWC2hg8jeyqGtucH",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "d64bec0bdc03f62b34295964061365385185528a4a4535d950ced1665b52cbec",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.082
+}

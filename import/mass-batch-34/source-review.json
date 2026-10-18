@@ -1,0 +1,90 @@
+[
+  {
+    "job": "p3-learning-to-be-bilingual",
+    "sourceId": "1pmUoxE4LrzF6QHxPzBNkTatgdlY8EOzG",
+    "sourceHash": "b4f6d56bcc4326d71fbf83b1e54e6d45f9fe9c0a27787ef0fa9d4a8c636f77a7",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Nine original paragraphs; first paragraph includes OPOL explanation with no false split",
+      "Fourth paragraph joined across page break; subtitle joined as one line",
+      "Summary gaps 32,33 and 35 recovered from printed page; ten options in source order"
+    ],
+    "reviewed": true,
+    "paragraphs": 9,
+    "questionCount": 14
+  },
+  {
+    "job": "p3-game-theory",
+    "sourceId": "1MC26oTgvrDy4HaYTQCNmhZ-N64JVjxKt",
+    "sourceHash": "274d572abb4ea8a455b59785390ff67d6be1868f266c3c477e01cff83a410af7",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Six paragraphs transcribed against source images; fourth spans the two reading pages",
+      "Recovered missing Milgrom/PA Consulting blocks and questions 30,31,40 plus all six endings",
+      "Subtitle kept separate; no footnotes in original"
+    ],
+    "reviewed": true,
+    "paragraphs": 6,
+    "questionCount": 14
+  },
+  {
+    "job": "p3-australias-megafauna-controversy",
+    "sourceId": "1FbasxQXlWb91ncguFHpTVxNBt6yJqurF",
+    "sourceHash": "90f15f3cca9e6b04301677a3bc7a458356adc9bf9ca628e84f77723527b61956",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Seven paragraphs; fourth joins reading page break and sixth joins columns",
+      "Removed stray running header/page number in sixth paragraph; restored ages",
+      "Two summary paragraphs retained, all nine bank options and question order verified"
+    ],
+    "reviewed": true,
+    "paragraphs": 7,
+    "questionCount": 14
+  },
+  {
+    "job": "p3-is-teleworking-sustainable",
+    "sourceId": "1gkSdMh0D1VbizgK0ueAXlyu6ARsFjEH5",
+    "sourceHash": "18312cb7f2f56968c59cc7859b005d8ad06c4efca4e04741e653f85379494517",
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "corrections": [
+      "Full eight prose paragraphs transcribed from photographed two-column source; three bold section headings retained as heading blocks",
+      "Recovered missing introduction, column continuations, social-impact section and conclusion",
+      "Seven matching-ending stems and ten options; two summary paragraphs with NO MORE THAN TWO WORDS; all question wording checked"
+    ],
+    "reviewed": true,
+    "paragraphs": 11,
+    "questionCount": 14
+  }
+]

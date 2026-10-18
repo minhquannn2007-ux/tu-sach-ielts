@@ -1,0 +1,32 @@
+{
+  "job": "p1-cooked-food",
+  "title": "Cooked Food",
+  "part": 1,
+  "fingerprint": "e5a61afc7fa5bd1c2e22b66b2e8081112384856b8e0020b2bcfd4d726dac404f",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "17GDPcOIAgA2nPljI3Fljw_Os2kGwRaMk",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-cooked-food.json",
+  "lessonId": "p1-cooked-food",
+  "sourceId": "17GDPcOIAgA2nPljI3Fljw_Os2kGwRaMk",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "174e545767329fbe07db84e6bb0f8d14c9c7ae5ae797431d7890095bea6ee3ad",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.05
+}

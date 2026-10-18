@@ -1,0 +1,33 @@
+{
+  "job": "p3-linguistic-diversity",
+  "title": "Linguistic Diversity",
+  "part": 3,
+  "fingerprint": "44c140635958eb58e57728b3dfe6e4303afd5c33d29d4d9657f32f7ffde8da91",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1G_wpy6oN-ApBKbW8516jMAojRXcyWtRk",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-linguistic-diversity.json",
+  "lessonId": "p3-linguistic-diversity",
+  "sourceId": "1G_wpy6oN-ApBKbW8516jMAojRXcyWtRk",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "summary-drag",
+    "mc-one"
+  ],
+  "sourceHash": "205df6f555c789716fe30baf1154963476ff0f3ca51f018f77736f298cec6564",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.077
+}

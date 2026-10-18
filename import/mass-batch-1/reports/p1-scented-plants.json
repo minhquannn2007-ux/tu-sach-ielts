@@ -1,0 +1,24 @@
+{
+  "job": "p1-scented-plants",
+  "title": "Scented Plants",
+  "part": 1,
+  "fingerprint": "ab92bec091b74d26bab4c356b6ff8ec38ecfa50fb26ad1ba284e1c660b495008",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc.json",
+      "ocrConfidence": [
+        96.3,
+        95.9,
+        94.7,
+        95.7
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.034
+}

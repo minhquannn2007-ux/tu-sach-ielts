@@ -1,0 +1,36 @@
+{
+  "job": "p1-learning-about-the-moa",
+  "title": "Learning about the Moa",
+  "part": 1,
+  "fingerprint": "6284662109497365c538746cdd27b7b6f8b8610a0b26e54c1356ab73ff90677a",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1OtTf9P9QpULrcHS0kl-pmoAp_4jU_iAK.json",
+      "ocrConfidence": [
+        80.1,
+        84.4,
+        81.7,
+        86.4
+      ]
+    },
+    {
+      "sourceId": "1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1kiqAyR1Efw1o8_p0uA4_tTaJD7mZOZwm.json",
+      "ocrConfidence": [
+        68.2,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

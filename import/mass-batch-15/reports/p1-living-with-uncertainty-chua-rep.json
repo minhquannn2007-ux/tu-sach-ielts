@@ -1,0 +1,32 @@
+{
+  "job": "p1-living-with-uncertainty-chua-rep",
+  "title": "Living with uncertainty (CHƯA REP)",
+  "part": 1,
+  "fingerprint": "209b998ce69c4e399f26222a640f03f0c9f2beb8baeef027663bb05341a0a19d",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1_j5QJc9L8XQiHey-aoyKJFWtEWlYkTF7",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-living-with-uncertainty-chua-rep.json",
+  "lessonId": "p1-living-with-uncertainty",
+  "sourceId": "1_j5QJc9L8XQiHey-aoyKJFWtEWlYkTF7",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "short-answer"
+  ],
+  "sourceHash": "e701fb5c1396b7bb32aa667f80c0425122baaeb577e57431da9be9860174a1d5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.053
+}

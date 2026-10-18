@@ -1,0 +1,22 @@
+{
+  "job": "p3-tick-tock-body-clock",
+  "title": "Tick Tock Body Clock",
+  "part": 3,
+  "fingerprint": "767fee26eafc111571017923bfe5fa0a6e5a5112c6d0e323d5b2db5303dba841",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1sIKf6nnoQAJy_Bmo8vBAEtR6vftORKsI",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']"
+    },
+    {
+      "sourceId": "1ok6Y2RMocJqSEXuBbeLcqvmzQushLxuz",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.061
+}

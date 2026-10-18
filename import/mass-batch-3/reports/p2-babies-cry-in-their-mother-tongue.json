@@ -1,0 +1,17 @@
+{
+  "job": "p2-babies-cry-in-their-mother-tongue",
+  "title": "Babies cry in their mother tongue",
+  "part": 2,
+  "fingerprint": "c70d9abdc4b38da092c78ae6502652c93e449899a2b557be54cba316fd8081ff",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1Dh2lmcflNMaqsHcfgzwGJdyyuw6ls3Vy",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.047
+}

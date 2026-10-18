@@ -1,0 +1,17 @@
+{
+  "job": "p3-the-dark-side-of-the-technological-boom",
+  "title": "The dark side of the technological boom",
+  "part": 3,
+  "fingerprint": "701ea63b95db20b65d5a56c3092932ea8f65a1459adb8a47c34cbfeeb64f351d",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1j1G8yJmjLak-ZgP2RvfgR11HcBRB4kwg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.057
+}

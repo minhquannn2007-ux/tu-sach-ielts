@@ -1,0 +1,33 @@
+{
+  "job": "p3-the-digital-revolution-in-studying-history",
+  "title": "The Digital Revolution in Studying History",
+  "part": 3,
+  "fingerprint": "cc9adba42a1d770e5d9ef164f42bde7fb0300fbc10be0b48c3b1a67052854cdc",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1kwIrvTPuX49uFr5kQ2_UxNIMGdRE5YrJ",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-the-digital-revolution-in-studying-history.json",
+  "lessonId": "p3-the-digital-revolution-in-studying-history",
+  "sourceId": "1kwIrvTPuX49uFr5kQ2_UxNIMGdRE5YrJ",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "ynng",
+    "summary-drag"
+  ],
+  "sourceHash": "43488e518b43266501afd23dd573cfe7d2969c02203c2a69c25a51df35ad2a54",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.078
+}

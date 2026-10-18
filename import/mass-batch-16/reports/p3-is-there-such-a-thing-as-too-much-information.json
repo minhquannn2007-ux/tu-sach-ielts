@@ -1,0 +1,33 @@
+{
+  "job": "p3-is-there-such-a-thing-as-too-much-information",
+  "title": "Is there such a thing as too much information",
+  "part": 3,
+  "fingerprint": "002f53d2aee2390b88f34ecbdf59d1509f0c3ccd17de96c8150c63c3d7aa470e",
+  "converterVersion": "3.16",
+  "attempts": [
+    {
+      "sourceId": "1NZKxzpndfyV2lLTfEjp-3SalY4xAGiyn",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-is-there-such-a-thing-as-too-much-information.json",
+  "lessonId": "p3-is-there-such-a-thing-as-too-much-information",
+  "sourceId": "1NZKxzpndfyV2lLTfEjp-3SalY4xAGiyn",
+  "questionCount": 14,
+  "types": [
+    "ynng",
+    "mc-one",
+    "summary-drag"
+  ],
+  "sourceHash": "edf5ad5ce9ed381f0dd66a02a9b7d0ef1fa1a0c05e3e8e38ba89f00df4ad1670",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

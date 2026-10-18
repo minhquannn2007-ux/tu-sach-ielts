@@ -1,0 +1,33 @@
+{
+  "job": "p1-the-english-canal-system-chua-rep",
+  "title": "The English canal system (CHUA REP)",
+  "part": 1,
+  "fingerprint": "57c5cf5e1b230be9dde0758c6dfdec1964f3698121e93980739f6b4162eced64",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1gm3AJgGgBDaJv2eXsmx6X0TEzDLgpa7X",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-the-english-canal-system-chua-rep.json",
+  "lessonId": "p1-the-english-canal-system",
+  "sourceId": "1gm3AJgGgBDaJv2eXsmx6X0TEzDLgpa7X",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes",
+    "short-answer"
+  ],
+  "sourceHash": "1bbceb0a66156b8133bc0e9d48ab13edcd031a7fe28b03e8992a87fc99ae5b2e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.084
+}

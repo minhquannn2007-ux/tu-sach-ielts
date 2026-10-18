@@ -1,0 +1,34 @@
+{
+  "job": "p3-how-scientists-see-science",
+  "title": "How scientists see science",
+  "part": 3,
+  "fingerprint": "4bc54d75151d37faa4f94d5ba8d30277f7040ed4e78bb84b70867efee748b4dd",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1Si4JQtOwXAhtuX-jMwVMxe1fBq4Ym3pA",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-how-scientists-see-science.json",
+  "lessonId": "p3-how-scientists-see-science",
+  "sourceId": "1Si4JQtOwXAhtuX-jMwVMxe1fBq4Ym3pA",
+  "questionCount": 14,
+  "types": [
+    "mc-one",
+    "matching-endings",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "4466fdad563549caeaaa94b7007dd75aac726b3300592a3d5ef9062e8af562b6",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.07
+}

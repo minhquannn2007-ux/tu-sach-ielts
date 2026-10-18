@@ -1,0 +1,17 @@
+{
+  "job": "p3-multi-purpose-meeting-spaces",
+  "title": "Multi-purpose meeting spaces",
+  "part": 3,
+  "fingerprint": "733355eab9cb7c9703c2f39a120d6ed065d763dca22b6f2923063ca4e305a74d",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "10-YeXZ9DHJda7Z2ILs3uNUB65KOli46j",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.073
+}

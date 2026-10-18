@@ -1,0 +1,22 @@
+{
+  "job": "p2-the-perfume-hunters",
+  "title": "THE PERFUME HUNTERS",
+  "part": 2,
+  "fingerprint": "2ac03b740cea4ce9a2bdaa7984619a7cf91bb1ef656e75bee96ca19aaab867ec",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1XYNOdoXLpAnGkbxwWBuv78kubje6BgdX",
+      "code": "paragraph-labels",
+      "message": "Source paragraph range differs from extracted text"
+    },
+    {
+      "sourceId": "1059dnpnow0bwAQKITw9T3Gu-XExoL87x",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+  "title": "Surviving the winter: hibernation and other resting states",
+  "part": 2,
+  "fingerprint": "64f403c02ddbe93d9c0ed068884ffa514e8f35848b361cca236ccccf9e0b9298",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1slb5IKXWCFuYmDEZphdwQ51t73RtzfUo",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-surviving-the-winter-hibernation-and-other-resting-states.json",
+  "lessonId": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+  "sourceId": "1slb5IKXWCFuYmDEZphdwQ51t73RtzfUo",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "c5f53d4d2a941a56e1793551f10f30fcbdeec7238949dbbaf92c959854014b92",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.051
+}

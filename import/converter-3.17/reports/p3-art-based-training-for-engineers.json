@@ -1,0 +1,33 @@
+{
+  "job": "p3-art-based-training-for-engineers",
+  "title": "Art-based training for engineers",
+  "part": 3,
+  "fingerprint": "e3001d366f955d9cfc4487af6d071ccdcab2b209f4d018238c290588984884e7",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1Q3dfDbGAMvltHoP8lKkRPXinYwtyATPV",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-art-based-training-for-engineers.json",
+  "lessonId": "p3-art-based-training-for-engineers",
+  "sourceId": "1Q3dfDbGAMvltHoP8lKkRPXinYwtyATPV",
+  "questionCount": 14,
+  "types": [
+    "summary-drag",
+    "ynng",
+    "mc-one"
+  ],
+  "sourceHash": "748bb1b4e11112fc548f20b8a8a86b931b23d69d54544ac01c9852606a9804b3",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.077
+}

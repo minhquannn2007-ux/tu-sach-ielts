@@ -1,0 +1,33 @@
+{
+  "job": "p2-how-well-do-people-concentrate",
+  "title": "How well do people concentrate?",
+  "part": 2,
+  "fingerprint": "2dacb70c325d225ada7e7e9be2604dd42beb767e9c83c879f015893533cd3663",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1jF2HSRjy1h_Wu79XlC6G4bX4o6WQ_8XC",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-how-well-do-people-concentrate.json",
+  "lessonId": "p2-how-well-do-people-concentrate",
+  "sourceId": "1jF2HSRjy1h_Wu79XlC6G4bX4o6WQ_8XC",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "b16ce1d27ea33dfff52d89e0a3af87a6528206a73e27d3afea22aeb79a1b67f3",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.08
+}

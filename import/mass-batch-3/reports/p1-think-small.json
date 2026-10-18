@@ -1,0 +1,32 @@
+{
+  "job": "p1-think-small",
+  "title": "Think Small",
+  "part": 1,
+  "fingerprint": "0c38368d63cfe62994182c93c7b2396b87d6db7c27f81e774afcb61d3aae9b5f",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "1dpAzlChM4GtgVSo2V_X99HAW4BzNJWpn",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-think-small.json",
+  "lessonId": "p1-think-small",
+  "sourceId": "1dpAzlChM4GtgVSo2V_X99HAW4BzNJWpn",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "64e1183faa466267228f525e04146a84cba1e7e4f075cabced0f0b3e43e59177",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.068
+}

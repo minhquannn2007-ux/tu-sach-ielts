@@ -1,0 +1,32 @@
+{
+  "job": "p1-under-the-skin-of-a-great-violin",
+  "title": "Under the skin of a great violin*",
+  "part": 1,
+  "fingerprint": "2b6787d1c6a47b02c5be2e1d5bf5b6340b144bdd91f575921fce1dee5d3e0706",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1rUJwV84CSsaquLZfj9XHKS7mX5NiYwpY",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-under-the-skin-of-a-great-violin.json",
+  "lessonId": "p1-under-the-skin-of-a-great-violin",
+  "sourceId": "1rUJwV84CSsaquLZfj9XHKS7mX5NiYwpY",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "66a642d1ba8d84d0bc4a9a49f5d23df6b67a25186c11bd3fa4757099bdbd734c",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.134
+}

@@ -1,0 +1,37 @@
+{
+  "job": "p2-buying-time",
+  "title": "Buying Time",
+  "part": 2,
+  "fingerprint": "a6d09d942d21ffcbb8d4d8657512b99c7ce662de09009930fb788008a2f7ef43",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "14EzkzEoux_aPJ9VIReVmICVwFqMR5HBN",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    },
+    {
+      "code": "schema",
+      "message": "Option bank differs from source range"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "draft": "drafts/p2-buying-time.json",
+  "lessonId": "p2-buying-time",
+  "sourceId": "14EzkzEoux_aPJ9VIReVmICVwFqMR5HBN",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "18cb6b6fdad889b4f558b3a299a935981c555fb4ab3993ee32dc6e93964b4d7e",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.057
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-public-art-programs-research-update",
+  "title": "Public art programs: research update",
+  "part": 2,
+  "fingerprint": "b091f5dde989b01486f54b8b5d1f0eb349593f4c2b9e6c9cf8c3658713144fbd",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1StFVbaf5cS2igiFVByZDUKZ3wEnGj1xy",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-public-art-programs-research-update.json",
+  "lessonId": "p2-public-art-programs-research-update",
+  "sourceId": "1StFVbaf5cS2igiFVByZDUKZ3wEnGj1xy",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "250dfc67f999ba890468df10108a6e40f1345ca560f637d518e576597520b3de",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.06
+}

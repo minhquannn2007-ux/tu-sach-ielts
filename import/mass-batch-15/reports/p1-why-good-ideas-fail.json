@@ -1,0 +1,22 @@
+{
+  "job": "p1-why-good-ideas-fail",
+  "title": "Why good ideas fail",
+  "part": 1,
+  "fingerprint": "3cb920fb1f53ebe6206e2ed73ef39128fd41f09450ef65b8277735ebbd75acc1",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "11wINcTVhOSAliK8PNjNRn_nYiU4BeUwd",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

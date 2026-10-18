@@ -1,0 +1,32 @@
+{
+  "job": "p1-using-up-our-oceans-resources",
+  "title": "Using Up Our Oceans' Resources",
+  "part": 1,
+  "fingerprint": "a1ae2e23b739bd6148bcc1ea46677b4893da236750180dcaa719e1605a61e7f5",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1hEXDzH4PF-6S4P3nOCnyhMaCTiS0dX_P",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-using-up-our-oceans-resources.json",
+  "lessonId": "p1-using-up-our-oceans-resources",
+  "sourceId": "1hEXDzH4PF-6S4P3nOCnyhMaCTiS0dX_P",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "eb9fa0c5cee677c3c99e74f6af4f8b36692a4a0f8f62d60bc7e97abe62836655",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.061
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-impact-of-refrigeration",
+  "title": "The Impact of Refrigeration",
+  "part": 1,
+  "fingerprint": "83d54292d470cc442610b7e4f070c50af8eb933d194f2aadb72fa233c9a392c0",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1SClQvI3yPTuAdkJzX4LazpOtxIR1UUBD",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.038
+}

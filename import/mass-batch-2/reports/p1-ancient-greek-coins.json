@@ -1,0 +1,17 @@
+{
+  "job": "p1-ancient-greek-coins",
+  "title": "Ancient Greek Coins",
+  "part": 1,
+  "fingerprint": "bd99acb1af7f22321c3e035bef7e254dff689f1068847f3c3891d64f3fefb99c",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1M5aU9jjdsFn-A19HsymivqlERG_jLtFk",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.039
+}

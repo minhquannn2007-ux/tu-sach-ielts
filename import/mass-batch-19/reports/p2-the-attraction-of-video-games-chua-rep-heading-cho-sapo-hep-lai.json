@@ -1,0 +1,22 @@
+{
+  "job": "p2-the-attraction-of-video-games-chua-rep-heading-cho-sapo-hep-lai",
+  "title": "The attraction of video games (chưa rep heading, cho sapo hẹp lại)",
+  "part": 2,
+  "fingerprint": "41933b2667ca5d7e04f974e7448fc95658b3bc458e4fbb5f61a538f3f8004bcc",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1WgrrK4rnIXPXj16Y8u1GHc8MvHh1Sk9w",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    },
+    {
+      "sourceId": "1QzxWZNs-uOxu8d0XZ-GU5L7yzfEAYh0x",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.056
+}

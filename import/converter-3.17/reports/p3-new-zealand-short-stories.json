@@ -1,0 +1,17 @@
+{
+  "job": "p3-new-zealand-short-stories",
+  "title": "New Zealand Short Stories",
+  "part": 3,
+  "fingerprint": "a4a848878e0ce44d64651f520e160e58c5bbbf4d4d78612ea0597118c4e5779f",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "12Z2ma1NkOIE4pNQuKqIZ5qKQO8-8XqND",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.071
+}

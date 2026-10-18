@@ -1,0 +1,17 @@
+{
+  "job": "p3-a-new-voyage-round-the-world",
+  "title": "A New Voyage Round The World",
+  "part": 3,
+  "fingerprint": "1a4642c6ad24380f571ccc1bb590d6c5375e6f6b451d2be82a0f34963493e974",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1_LKGjWGg4qPlCs73ykLrEGLQJAM7g8Jj",
+      "code": "detached-bank",
+      "message": "Word bank is separated from its task and cannot be assigned safely"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.109
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p3-an-introduction-to-a-new-collection-of-ted-hughes-s-poem",
+  "title": "An introduction to a new collection of Ted Hughes's poem",
+  "part": 3,
+  "fingerprint": "b029c98cdae8b43617ec465ae0b8a807c247a87a8098392c561d2c1b2377ffdb",
+  "converterVersion": "3.18",
+  "attempts": [
+    {
+      "sourceId": "1f3i5RaZmtxi5DA19osjV-qldz4LbkWnK",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p3-an-introduction-to-a-new-collection-of-ted-hughes-s-poem.json",
+  "lessonId": "p3-an-introduction-to-a-new-collection-of",
+  "sourceId": "1f3i5RaZmtxi5DA19osjV-qldz4LbkWnK",
+  "questionCount": 14,
+  "types": [
+    "matching-endings",
+    "mc-one",
+    "ynng"
+  ],
+  "sourceHash": "ca6b99227b5a0e0f7812395650a4d7c454a5ef9006bf5c7666537cfb788e53d5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.057
+}

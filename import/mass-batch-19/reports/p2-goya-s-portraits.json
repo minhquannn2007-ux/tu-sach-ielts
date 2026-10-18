@@ -1,0 +1,22 @@
+{
+  "job": "p2-goya-s-portraits",
+  "title": "Goya's portraits",
+  "part": 2,
+  "fingerprint": "3e485ff9ab13be9459281800aaad3f76be2b3e86c9f9710f7a9c28aad6e09e19",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1rLj2OF6ugpSYRBbVjdBFa7Qnrq0uxMLA",
+      "code": "paragraph-labels",
+      "message": "Missing or repeated paragraph labels"
+    },
+    {
+      "sourceId": "1sZfbEV7ZXzA4HaIEIVM5t3Wmqi4vhc48",
+      "code": "passage-title",
+      "message": "Actual source title/passage boundary requires review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.045
+}

@@ -1,0 +1,33 @@
+{
+  "job": "p2-catch-of-the-day",
+  "title": "Catch of the Day",
+  "part": 2,
+  "fingerprint": "34a043f6ab388b695f7592424c736df887a8448bf4f45945365f1b8eeb8871af",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1Xev7BB-nQ0vSEAvJhMBSxE_Na0Sfm1jE",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-catch-of-the-day.json",
+  "lessonId": "p2-catch-of-the-day",
+  "sourceId": "1Xev7BB-nQ0vSEAvJhMBSxE_Na0Sfm1jE",
+  "questionCount": 13,
+  "types": [
+    "matching-info",
+    "matching-features",
+    "summary-input"
+  ],
+  "sourceHash": "6976ea8d161f17347d210adeb7cdeb8af607608e07ac64a366e13c8e53bc93c4",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.062
+}

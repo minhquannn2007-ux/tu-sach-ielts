@@ -1,0 +1,32 @@
+{
+  "job": "p1-map-reading-and-gender",
+  "title": "Map-reading and Gender",
+  "part": 1,
+  "fingerprint": "ed7c91df9fb99f837e105abc941b38fc216c949be22f0de29136979badfbbc52",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1ngIAK_Snk0nAs08Ib1mK1iNk9-79qBYh",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-map-reading-and-gender.json",
+  "lessonId": "p1-map-reading-and-gender",
+  "sourceId": "1ngIAK_Snk0nAs08Ib1mK1iNk9-79qBYh",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "01b1ac2b4f2645ef32667a99efd0a1005879b5a014b0d9dd87cf9b5e0d0e2239",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.081
+}

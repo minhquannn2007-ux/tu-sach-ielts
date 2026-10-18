@@ -1,0 +1,32 @@
+{
+  "job": "p1-buried-cities-of-the-amazon-rainforest-chua-rep",
+  "title": "Buried cities of the Amazon Rainforest(CHƯA REP)",
+  "part": 1,
+  "fingerprint": "bcbc55037614ab75bc75a68957c2fb3a434c50d60d4be1d00e6b61d3a3b8b44c",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1_gXznjf9E3er02TzR1fa46jhOBjWAVN2",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-buried-cities-of-the-amazon-rainforest-chua-rep.json",
+  "lessonId": "p1-buried-cities-of-the-amazon-rainforest",
+  "sourceId": "1_gXznjf9E3er02TzR1fa46jhOBjWAVN2",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "a51965a6124dedb6b470004368d26bb5c15cdab07188c485fd480115853f05f3",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.125
+}

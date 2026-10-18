@@ -1,0 +1,22 @@
+{
+  "job": "p1-the-extinction-of-the-cave-bear",
+  "title": "The extinction of the cave bear",
+  "part": 1,
+  "fingerprint": "e7222ff75f80d5744b486ead94f5eb2800a8e7c64ed0034893549d9cf51a02f8",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1lzc8LA25DdOdkCIHDZBL8PSc0PhyqL08",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1LXVQMJLu7dpRZ0HvFTNCzeHWM4kXd3cJ",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

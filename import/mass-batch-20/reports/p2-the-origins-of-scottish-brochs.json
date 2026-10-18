@@ -1,0 +1,38 @@
+{
+  "job": "p2-the-origins-of-scottish-brochs",
+  "title": "The origins of Scottish brochs",
+  "part": 2,
+  "fingerprint": "999a4953dd05bd384dedcb67fad990d07b277f753af7665041d1f5c7d3bb94dd",
+  "converterVersion": "3.20",
+  "attempts": [
+    {
+      "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    },
+    {
+      "code": "schema",
+      "message": "Missing or empty passage paragraph"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "draft": "drafts/p2-the-origins-of-scottish-brochs.json",
+  "lessonId": "p2-the-origins-of-scottish-brochs",
+  "sourceId": "1JntYXgje04dpznyNZsxoGWvzIYtPbEM7",
+  "questionCount": 13,
+  "types": [
+    "matching-headings",
+    "mc-two",
+    "mc-two",
+    "summary-input"
+  ],
+  "sourceHash": "27e1062f7f96df804b63e4ab769b53ab46087de50150bfc6fe5340d85c9e9509",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.084
+}

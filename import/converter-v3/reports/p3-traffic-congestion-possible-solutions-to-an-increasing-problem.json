@@ -1,0 +1,38 @@
+{
+  "job": "p3-traffic-congestion-possible-solutions-to-an-increasing-problem",
+  "title": "Traffic congestion: possible solutions to an increasing problem",
+  "part": 3,
+  "fingerprint": "4ef278927b9026d7257e7774ef839e2d9853432b86317847a1ea334cffbffd92",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "19SLwcY26ma_rM65fzcfukkXzV364d_E5",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/19SLwcY26ma_rM65fzcfukkXzV364d_E5.json",
+      "ocrConfidence": [
+        95.6,
+        94.4,
+        94.2,
+        87.0,
+        94.8
+      ]
+    },
+    {
+      "sourceId": "1MSi7UciIvrBTgq3YAkcmWBbvO979xsol",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review",
+      "transcript": "transcripts/1MSi7UciIvrBTgq3YAkcmWBbvO979xsol.json",
+      "ocrConfidence": [
+        81.1,
+        95.2,
+        88.8,
+        91.3,
+        92.4
+      ]
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.01
+}

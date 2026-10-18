@@ -1,0 +1,17 @@
+{
+  "job": "p1-james-hargreaves-and-the-spinning-jenny-chua-rep",
+  "title": "James Hargreaves and the Spinning Jenny(CHƯA REP)",
+  "part": 1,
+  "fingerprint": "4ba0af944dd0cda5e215c9641da603f01e436f33caabc4bcc5c28075e6ce1ae7",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1xD9CAug0k8WscGlJVoDYrULEQ4FrKTVj",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

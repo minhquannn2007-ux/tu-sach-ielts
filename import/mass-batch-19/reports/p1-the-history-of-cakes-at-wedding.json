@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-history-of-cakes-at-wedding",
+  "title": "The history of cakes at wedding",
+  "part": 1,
+  "fingerprint": "3aa8134337618f5ac790d50de42b6c11a7670601739ffd89b6bc45382755c825",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "1EE7CJfXm6bqGRkVQJHvSv9PptXNmfott",
+      "code": "unsupported-task",
+      "message": "Unknown source task wording; needs reviewed adapter"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.069
+}

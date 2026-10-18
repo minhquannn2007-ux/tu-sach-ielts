@@ -1,0 +1,17 @@
+{
+  "job": "p3-crossing-the-threshold",
+  "title": "Crossing the Threshold",
+  "part": 3,
+  "fingerprint": "9ed316f1efd3950bd9da494742f9bb0a396f85a929a8b375e5101e8293138da3",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1B6bXTs0gGT_1gaMHnpkfsaVZFpg7VIwf",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.076
+}

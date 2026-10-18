@@ -1,0 +1,782 @@
+{
+  "p1-the-treadle-pump": {
+    "sourceAsset": "import/diagram-upload-sources/130634.png",
+    "sourceId": "file_0000000044e8820bac788dd724447320",
+    "uploadedName": "130634.png",
+    "sourceSHA256": "b26899fa36a27b9568bd93a5d0f1a94ea74b77153179b1347cb2c1cd34311898",
+    "nativeSize": [
+      1536,
+      705
+    ],
+    "crop": [
+      0,
+      0,
+      1536,
+      705
+    ],
+    "masks": [
+      [
+        15,
+        12,
+        379,
+        145
+      ],
+      [
+        1173,
+        15,
+        1518,
+        108
+      ],
+      [
+        1173,
+        230,
+        1526,
+        406
+      ],
+      [
+        1172,
+        480,
+        1526,
+        616
+      ],
+      [
+        20,
+        479,
+        360,
+        609
+      ]
+    ],
+    "labels": [
+      {
+        "text": "Operator able to work for\n{{7}} before stopping",
+        "sx": 375,
+        "sy": 27,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      },
+      {
+        "text": "Support structures\nmade of {{8}}",
+        "sx": 1180,
+        "sy": 30,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Pump has {{9}}\nand pistons that are\nlinked together",
+        "sx": 1215,
+        "sy": 240,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Water is pumped from\nas far down as {{10}}",
+        "sx": 1200,
+        "sy": 490,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Treadles are moved up and\ndown by stepping motion",
+        "sx": 327,
+        "sy": 490,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      }
+    ],
+    "displayArtWidth": 900,
+    "retainedRasterCaptions": []
+  },
+  "p1-the-olympic-torch-chua-rep": {
+    "sourceAsset": "import/diagram-upload-sources/130635.png",
+    "sourceId": "file_0000000079b4820ba8aeb15d3445b90d",
+    "uploadedName": "130635.png",
+    "sourceSHA256": "83ea77569bdb480cc2b7cce7ae8a4bc8e5cbefecf62289c06b383a8074bc565e",
+    "nativeSize": [
+      1536,
+      1024
+    ],
+    "crop": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "masks": [
+      [
+        33,
+        184,
+        283,
+        226
+      ],
+      [
+        830,
+        26,
+        1175,
+        181
+      ],
+      [
+        832,
+        263,
+        1135,
+        338
+      ],
+      [
+        832,
+        448,
+        1173,
+        526
+      ],
+      [
+        830,
+        574,
+        1175,
+        734
+      ],
+      [
+        34,
+        701,
+        343,
+        780
+      ]
+    ],
+    "labels": [
+      {
+        "text": "Burner with a\ndouble flame to\nwithstand windy\nconditions",
+        "sx": 835,
+        "sy": 35,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "A {{10}}",
+        "sx": 280,
+        "sy": 215,
+        "anchor": "end",
+        "dx": -12,
+        "dy": -15
+      },
+      {
+        "text": "Fuel in the form of a\n{{11}}",
+        "sx": 840,
+        "sy": 270,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Brass valve with many\nsmall {{12}}",
+        "sx": 840,
+        "sy": 454,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Combination of\n{{13}}\nand\n{{13:1}}\nstored as liquid",
+        "sx": 840,
+        "sy": 600,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Propylene stored as\nliquid fuel",
+        "sx": 340,
+        "sy": 709,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      }
+    ],
+    "displayArtWidth": 1000,
+    "retainedRasterCaptions": [
+      "1996 Atlanta Olympics torch (final version)",
+      "2000 Sydney Olympics torch"
+    ],
+    "protectLines": [
+      [
+        [
+          1047,
+          53
+        ],
+        [
+          1327,
+          240
+        ]
+      ],
+      [
+        [
+          1115,
+          641
+        ],
+        [
+          1338,
+          641
+        ]
+      ]
+    ]
+  },
+  "p3-termite-mounds": {
+    "sourceAsset": "import/diagram-upload-sources/130636.png",
+    "sourceId": "file_00000000a20881fdb8a455d45c070af4",
+    "uploadedName": "130636.png",
+    "sourceSHA256": "086107aedd1e9c48c07982f1bd79359c0946b117abaf668d087f466bfafeed6e",
+    "nativeSize": [
+      1536,
+      768
+    ],
+    "crop": [
+      0,
+      0,
+      1536,
+      768
+    ],
+    "masks": [
+      [
+        29,
+        22,
+        375,
+        110
+      ],
+      [
+        29,
+        267,
+        360,
+        386
+      ],
+      [
+        23,
+        570,
+        384,
+        696
+      ],
+      [
+        1161,
+        147,
+        1526,
+        500
+      ]
+    ],
+    "labels": [
+      {
+        "text": "Top of the mound permits\n{{37}}",
+        "sx": 375,
+        "sy": 30,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      },
+      {
+        "text": "Innermost chamber\ncontaining termites’ nest",
+        "sx": 365,
+        "sy": 275,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      },
+      {
+        "text": "Cellar to aid control of\n{{36}}\nlevels in mound",
+        "sx": 380,
+        "sy": 575,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      },
+      {
+        "text": "Network of\n{{34}}\nhelps to give the termites\na constant {{35}}\nsupply and to maintain a\nlimited temperature range",
+        "sx": 1170,
+        "sy": 154,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "displayArtWidth": 900,
+    "retainedRasterCaptions": []
+  },
+  "p1-ancient-greek-coins": {
+    "sourceAsset": "import/diagram-upload-sources/130637.png",
+    "sourceId": "file_00000000930c820ebec37b233742ff69",
+    "uploadedName": "130637.png",
+    "sourceSHA256": "653bbfdd9b62a98c6954901e8aa43c4713034d047fac4922037f0543998340d1",
+    "nativeSize": [
+      1536,
+      1024
+    ],
+    "crop": [
+      0,
+      110,
+      1536,
+      1024
+    ],
+    "masks": [
+      [
+        20,
+        466,
+        390,
+        504
+      ],
+      [
+        20,
+        507,
+        281,
+        547
+      ],
+      [
+        180,
+        762,
+        399,
+        806
+      ],
+      [
+        1267,
+        467,
+        1482,
+        520
+      ],
+      [
+        1268,
+        803,
+        1498,
+        854
+      ],
+      [
+        280,
+        918,
+        504,
+        964
+      ]
+    ],
+    "labels": [
+      {
+        "text": "Piece of metal known as\n{{8}}",
+        "sx": 360,
+        "sy": 470,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      },
+      {
+        "text": "Obverse die",
+        "sx": 405,
+        "sy": 779,
+        "anchor": "end",
+        "dx": -12,
+        "dy": -15
+      },
+      {
+        "text": "{{7}}",
+        "sx": 1275,
+        "sy": 490,
+        "anchor": "start",
+        "dx": 0,
+        "dy": -15
+      },
+      {
+        "text": "{{9}}",
+        "sx": 1275,
+        "sy": 817,
+        "anchor": "start",
+        "dx": 0,
+        "dy": -15
+      },
+      {
+        "text": "{{10}}",
+        "sx": 510,
+        "sy": 938,
+        "anchor": "end",
+        "dx": -12,
+        "dy": -15
+      }
+    ],
+    "displayArtWidth": 900,
+    "retainedRasterCaptions": []
+  },
+  "p3-movement-underwater": {
+    "sourceAsset": "import/diagram-upload-sources/130650.png",
+    "sourceId": "file_00000000a25c82068af2cbb5214c892d",
+    "uploadedName": "130650.png",
+    "sourceSHA256": "80f74314813ff9b79a9f99c6b0a9c378cf59da812c0d0a58299313d9085b0934",
+    "nativeSize": [
+      1536,
+      1108
+    ],
+    "crop": [
+      0,
+      0,
+      1536,
+      1108
+    ],
+    "masks": [
+      [
+        466,
+        20,
+        1175,
+        104
+      ],
+      [
+        1275,
+        150,
+        1528,
+        371
+      ],
+      [
+        1250,
+        475,
+        1528,
+        630
+      ],
+      [
+        548,
+        540,
+        1145,
+        579
+      ],
+      [
+        50,
+        526,
+        282,
+        566
+      ],
+      [
+        50,
+        568,
+        435,
+        610
+      ],
+      [
+        152,
+        671,
+        579,
+        753
+      ],
+      [
+        800,
+        996,
+        1400,
+        1078
+      ]
+    ],
+    "labels": [
+      {
+        "text": "streamlined shape narrowing towards rear to reduce\n{{36}} drag",
+        "sx": 472,
+        "sy": 30,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "ideal tail fin shape\nfor steady movement\nknown as cruising",
+        "sx": 1280,
+        "sy": 155,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "slime-covered scales\nto minimise surface\nfriction",
+        "sx": 1254,
+        "sy": 487,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "fin controlling {{37}}\nmovement",
+        "sx": 554,
+        "sy": 538,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "fins controlling\n{{38}} movement",
+        "sx": 57,
+        "sy": 525,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "fins which are important for\n{{39}} of fish",
+        "sx": 158,
+        "sy": 681,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Minimal cross-sectional body area:\nto decrease {{40}} drag",
+        "sx": 808,
+        "sy": 1006,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "displayArtWidth": 900,
+    "retainedRasterCaptions": []
+  },
+  "p2-roller-coaster-the-great-fairground-attraction": {
+    "sourceAsset": "import/diagram-upload-sources/130649.png",
+    "sourceId": "file_000000009a9081f4bb1d6b9b3312fd0a",
+    "uploadedName": "130649.png",
+    "sourceSHA256": "938a9925968548cee5352654ee86fa2b546b6fc42a0869a35bc49db2eda3c192",
+    "nativeSize": [
+      1536,
+      1024
+    ],
+    "crop": [
+      0,
+      0,
+      1536,
+      1024
+    ],
+    "masks": [
+      [
+        150,
+        80,
+        254,
+        116
+      ],
+      [
+        710,
+        20,
+        820,
+        60
+      ],
+      [
+        82,
+        370,
+        198,
+        412
+      ],
+      [
+        1236,
+        591,
+        1468,
+        634
+      ],
+      [
+        1195,
+        825,
+        1435,
+        866
+      ],
+      [
+        183,
+        716,
+        369,
+        758
+      ],
+      [
+        245,
+        970,
+        515,
+        1009
+      ]
+    ],
+    "labels": [
+      {
+        "text": "lift hill",
+        "sx": 156,
+        "sy": 87,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "tracks",
+        "sx": 760,
+        "sy": 26,
+        "anchor": "center",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "START",
+        "sx": 88,
+        "sy": 378,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "lifting mechanism",
+        "sx": 253,
+        "sy": 977,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "{{14}}",
+        "sx": 1240,
+        "sy": 615,
+        "anchor": "start",
+        "dx": 0,
+        "dy": -15
+      },
+      {
+        "text": "{{15}}",
+        "sx": 1205,
+        "sy": 844,
+        "anchor": "start",
+        "dx": 0,
+        "dy": -15
+      },
+      {
+        "text": "{{16}}",
+        "sx": 365,
+        "sy": 738,
+        "anchor": "end",
+        "dx": -12,
+        "dy": -15
+      }
+    ],
+    "displayArtWidth": 900,
+    "retainedRasterCaptions": []
+  },
+  "p1-tikopia": {
+    "sourceAsset": "import/diagram-upload-sources/130653.png",
+    "sourceId": "file_00000000c6a48209bc89a3e42d741130",
+    "uploadedName": "130653.png",
+    "sourceSHA256": "9131f89b14df95daa3730d3e82bc9503c4a2f384ec774a12daf072a9d4fafdd4",
+    "nativeSize": [
+      1536,
+      1399
+    ],
+    "crop": [
+      0,
+      100,
+      1536,
+      1265
+    ],
+    "masks": [
+      [
+        110,
+        184,
+        460,
+        225
+      ],
+      [
+        110,
+        225,
+        266,
+        266
+      ],
+      [
+        1136,
+        284,
+        1465,
+        362
+      ],
+      [
+        110,
+        350,
+        360,
+        388
+      ],
+      [
+        110,
+        390,
+        323,
+        433
+      ],
+      [
+        710,
+        638,
+        860,
+        690
+      ],
+      [
+        790,
+        720,
+        1435,
+        767
+      ],
+      [
+        800,
+        980,
+        1430,
+        1024
+      ],
+      [
+        100,
+        1200,
+        740,
+        1240
+      ]
+    ],
+    "labels": [
+      {
+        "text": "{{5}} is collected\nfrom here",
+        "sx": 115,
+        "sy": 190,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "bowl made from a\n{{7}}",
+        "sx": 315,
+        "sy": 350,
+        "anchor": "end",
+        "dx": -12,
+        "dy": 0
+      },
+      {
+        "text": "hard {{6}}\nof sap",
+        "sx": 1145,
+        "sy": 290,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "Chisel",
+        "sx": 780,
+        "sy": 647,
+        "anchor": "center",
+        "dx": 0,
+        "dy": 0,
+        "title": true
+      },
+      {
+        "text": "lengths of bark taken from fau tree",
+        "sx": 792,
+        "sy": 728,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "blade made from katoko’s\n{{8}}",
+        "sx": 805,
+        "sy": 989,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "text": "made from the {{9}} of a small tree",
+        "sx": 106,
+        "sy": 1205,
+        "anchor": "start",
+        "dx": 0,
+        "dy": 0
+      }
+    ],
+    "displayArtWidth": 900,
+    "retainedRasterCaptions": [],
+    "paperNormalization": "local-paper",
+    "paperCutoff": 48
+  }
+}

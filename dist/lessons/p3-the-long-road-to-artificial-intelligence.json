@@ -1,0 +1,271 @@
+{
+  "id": "p3-the-long-road-to-artificial-intelligence",
+  "part": 3,
+  "title": "The Long Road to Artificial Intelligence",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "In 1950, the computing pioneer Alan Turing published a paper in the journal Mind entitled 'Computing Machinery and Intelligence'. It was the first serious, scholarly treatment of the concept of Artificial Intelligence (AI). Turing predicted that by the year 2000 the majority of people would be able to speak of machines thinking without expecting to be contradicted, envisaging a world very different from the one he lived in."
+    },
+    {
+      "text": "Despite Turing's prediction, human-level artificial intelligence had not been achieved by the year 2000. Nevertheless, one significant milestone in artificial intelligence had recently been attained. In 1997 'Deep Blue', a computer developed by IBM, defeated the world chess champion Garry Kasparov. Kasparov had beaten previous computer chess programs, which to him seemed predictable and mechanical, but he allegedly said he sensed an 'alien intelligence' on the other side of the board when he played against Deep Blue."
+    },
+    {
+      "text": "It is instructive to stand back and ponder this moment in the history of AI. The field had accomplished something that half a century beforehand might have been considered its crowning achievement. Humanity had been outstripped by a machine. Of course, a car can move faster than the fastest human sprinter, and a crane can carry far more than a champion weight-lifter. But intellectual prowess is what sets human beings apart from the rest of the animals, and chess is a supremely intellectual pursuit."
+    },
+    {
+      "text": "Yet somehow we seemed no nearer to human-level AI than in Turing's time. How could this be? The problem with Deep Blue was that it was a specialist. All it could do was play chess. Contrast this with a typical human adult. Take the office worker who has just walked past the window of the café where I am sitting with my laptop. Her day has no doubt been a busy patchwork of activities — making a packed lunch, reviewing the children's homework, driving to work, composing emails, fixing the photocopier, and so on. Each of these activities requires the exercise of multiple sensorimotor skills. Consider the task of making a packed lunch. This involves retrieving utensils and ingredients from various places, opening packets, chopping, cutting, spreading, and so on."
+    },
+    {
+      "text": "In short, a human being is a generalist. A human chess champion can do a whole lot more than just play chess. Moreover, a human being is adaptive. Fixing photocopiers is not an innate capability. It is learned. Had the office worker been born in a different century or a different culture, she would have acquired a different set of skills. And if she has the misfortune to lose her present job, she can re-train for another one. The achievements of AI research in a variety of specialist domains (chess being just one among many success stories) contrast starkly with the field's failure to produce a machine with general purpose, adaptive intelligence. So our basic question is, how could we produce artificial general intelligence?"
+    },
+    {
+      "text": "An essential feature of biological intelligence is embodiment. Unlike Deep Blue, a human being is an animal with a body, and its brain is part of that body. The brain of an animal has evolved to prevent any harm from coming to that body and to perpetuate the genes that it carries. The body has muscles, enabling it to move, and senses, so that its actions can be made to react to the state of the environment, the better to achieve its goal. The brain shapes the animal's actions according to what it perceives. Human intelligence, for all its glorious achievements, is fundamentally an extension of animal intelligence, and the human capacities for language, reason, and creativity all rest on a sensorimotor foundation."
+    },
+    {
+      "text": "So while the endeavor to create artificial general intelligence might succeed without much that is essential to biological life, such as metabolism and reproduction, perhaps embodiment is a methodological necessity. Perhaps the need to engage with a messy, dynamic, physical environment full of complex and varied objects, both animate and inanimate, is at the root of intelligence. The only way to form a reliable judgment of the intelligence of an artifact is to observe its behavior in an environment like our own. And the only way to achieve human-level AI, according to this way of thinking, is through robotics. Our basic question can then be reformulated: How can we endow a robot with general intelligence?"
+    },
+    {
+      "text": "One possibility is that general intelligence is simply the sum of many specialist sensorimotor skills, and up to now, AI hasn't replicated enough of them. So when robots have been given a certain critical mass of skills, general intelligence will somehow emerge. But even if we gloss over the many engineering questions this proposal begs, it remains unconvincing. The products of such an approach might briefly give the appearance of general intelligence. But nobody would be fooled for very long. The multi-specialist robot is going to get stuck as soon as it has to face a problem that is outside its areas of expertise, an inevitable occurrence in an ever-changing world."
+    },
+    {
+      "text": "Perhaps the capacity to learn is enough to plug the gap here. In an unfamiliar situation, a new skill can be learned. Indeed, learning in its various forms is the backdrop to all intelligence. But learning is time-consuming and risky. The hallmark of general intelligence in a robot is therefore the ability to adapt an existing set of behaviors to new challenges, and to do so without recourse to trial and error or to training by a third party. Only when that can be achieved will artificial intelligence truly match human intelligence."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 30 Choose the correct letter, A, B, C or D. Write the correct letter in boxes 27-30 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "When playing chess against the computer Deep Blue, Kasparov felt that it",
+          "options": [
+            {
+              "value": "A",
+              "text": "had been programmed to predict his moves."
+            },
+            {
+              "value": "B",
+              "text": "was able to see into his own thought processes."
+            },
+            {
+              "value": "C",
+              "text": "used powers that were potentially dangerous to humans."
+            },
+            {
+              "value": "D",
+              "text": "was fundamentally different from others he had encountered."
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "prompt": "What is the writer's main idea in the third paragraph?",
+          "options": [
+            {
+              "value": "A",
+              "text": "In the last 50 years machines have advanced more quickly than expected."
+            },
+            {
+              "value": "B",
+              "text": "There are certain features of chess that machines cannot replicate."
+            },
+            {
+              "value": "C",
+              "text": "Skill at chess is more significant than other machine achievements."
+            },
+            {
+              "value": "D",
+              "text": "Machines will always be more successful at some tasks than at others"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "prompt": "The writer describes the case of an office worker to illustrate the point that",
+          "options": [
+            {
+              "value": "A",
+              "text": "everyday human actions involve a complex combination of skills."
+            },
+            {
+              "value": "B",
+              "text": "some types of mechanical activities require little conscious thought."
+            },
+            {
+              "value": "C",
+              "text": "some people are able to carry out multiple tasks at the same time."
+            },
+            {
+              "value": "D",
+              "text": "certain human tasks are more intellectually demanding than others."
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "prompt": "In the fifth paragraph, the writer claims that",
+          "options": [
+            {
+              "value": "A",
+              "text": "ideas of what success means vary across cultures."
+            },
+            {
+              "value": "B",
+              "text": "machines are most effective at game-like activities."
+            },
+            {
+              "value": "C",
+              "text": "machines are better at specialization than at adaptation."
+            },
+            {
+              "value": "D",
+              "text": "it may be impossible to isolate different skills involved in an activity."
+            }
+          ]
+        }
+      ],
+      "type": "mc-one"
+    },
+    {
+      "sourceInstructions": "Questions 31 – 36 Complete the summary using the list of words, A-J, below. Write the correct letter, A-J, in boxes 31-36 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 31
+        },
+        {
+          "n": 32
+        },
+        {
+          "n": 33
+        },
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        }
+      ],
+      "type": "summary-drag",
+      "bank": [
+        {
+          "value": "A",
+          "text": "results"
+        },
+        {
+          "value": "B",
+          "text": "nourishment"
+        },
+        {
+          "value": "C",
+          "text": "basis"
+        },
+        {
+          "value": "D",
+          "text": "qualities"
+        },
+        {
+          "value": "E",
+          "text": "protection"
+        },
+        {
+          "value": "F",
+          "text": "evolution"
+        },
+        {
+          "value": "G",
+          "text": "surroundings"
+        },
+        {
+          "value": "H",
+          "text": "values"
+        },
+        {
+          "value": "I",
+          "text": "perception"
+        },
+        {
+          "value": "J",
+          "text": "movement"
+        }
+      ],
+      "reuse": false,
+      "title": "Embodiment: an essential feature",
+      "content": [
+        "Unlike machines, animals (including humans) have a body, including a brain which has evolved to provide {{31}} for that body and allow its genes to be passed on. An animal's senses provide it with information about its {{32}} , and then it can react physically to what it {{33}} through senses. The interaction of the body and brain therefore allows the creation of a link between {{34}} and action. The {{35}} which make us human and which distinguish us from animals have their {{36}} in this link between the brain and the body, and have developed from it."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 37 – 40 Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 37-40 on your answer sheet, write YES if the statement agrees with the claims of the writer NO if the statement contradicts with the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 37,
+          "prompt": "Any sort of artificial general intelligence must have the capacity for metabolism and reproduction."
+        },
+        {
+          "n": 38,
+          "prompt": "Intelligence may depend on the ability to interact with a complex and unpredictable environment."
+        },
+        {
+          "n": 39,
+          "prompt": "It is dangerous to rely too much on multi-specialist robots which could develop unfixable faults."
+        },
+        {
+          "n": 40,
+          "prompt": "Training by experts is essential for acquiring certain types of skills."
+        }
+      ],
+      "type": "ynng"
+    }
+  ],
+  "sources": [
+    {
+      "id": "1xaeTnRA4DjpcXi85WP_Wyp4TWOV_hOBK",
+      "role": "passage-and-questions",
+      "sha256": "56d34ece4b668e363a42802f261c763b8187b7af9f54bdd3ed71320a373ee9f5",
+      "name": "PDF"
+    }
+  ],
+  "conversion": {
+    "version": "3.17",
+    "sourceParagraphCount": 9,
+    "method": "native-pdf",
+    "requiresReview": true,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p3-the-long-road-to-artificial-intelligence",
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "layout": true,
+      "date": "2026-10-14"
+    }
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/batch3-code-cover.jpg",
+    "alt": "Mã lập trình",
+    "credit": "Markus Spiske",
+    "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

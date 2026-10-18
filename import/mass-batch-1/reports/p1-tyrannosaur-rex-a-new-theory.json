@@ -1,0 +1,32 @@
+{
+  "job": "p1-tyrannosaur-rex-a-new-theory",
+  "title": "Tyrannosaur Rex - A New Theory",
+  "part": 1,
+  "fingerprint": "368ac74a51c34c66f695e8aa274a88c1f8a32ee8a4fb2b216314ac8abd236579",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1ePLXC6KFu_8cnVy3ss7m4JY5MBNAfyFK",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-tyrannosaur-rex-a-new-theory.json",
+  "lessonId": "p1-tyrannosaur-rex-a-new-theory",
+  "sourceId": "1ePLXC6KFu_8cnVy3ss7m4JY5MBNAfyFK",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "summary-input"
+  ],
+  "sourceHash": "b1aaf3f06da9cc997f036dfd302bca49864d61c2edb7d33fc9664faf16bba335",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.06
+}

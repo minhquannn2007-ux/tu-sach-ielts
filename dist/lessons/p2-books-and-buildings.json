@@ -1,0 +1,186 @@
+{
+  "id": "p2-books-and-buildings",
+  "part": 2,
+  "title": "Books and Buildings",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Public libraries are institutions that lend some, if not all, of their collections directly to the general public. Generally, a good library has an extensive range of resources available to borrowers, but the building that houses the collection also contributes to its success. What makes a library building successful? It is fair enough to say that a successful library building must make a statement, lest it be overlooked and ignored. A study of public library buildings in Chicago, San Francisco and New York examines this question and reveals three very interesting stories."
+    },
+    {
+      "label": "B",
+      "text": "The oldest public library in the USA is the New York Public Library. In 1884, John Jacob Astor, said to be the richest American of his time, left US$400,000 to establish the only privately endowed free public reference library in the United States at that time; the public lending branches followed. The building is on a site leased from the city, which, importantly, accepted responsibility for the building and its maintenance. Designed by architects John Merven Carrère and Thomas Hastings, both graduates of the Ecole des Beaux-Arts in Paris, it was formally opened in 1911, costing US$9 million. As might be expected, it was a Beaux-Arts masterpiece, clad in Vermont marble and embellished with ornate details. The third floor reading room, with a ceiling almost 16 metres high, provided seating for more than 700 users. It is hard to think of a more beautifully adorned library building or one which still serves its purpose as admirably, though increasing use and the growth of the collections have made decentralisation into other buildings a necessity."
+    },
+    {
+      "label": "C",
+      "text": "The San Francisco Public Library, on the other hand, had more humble beginnings. Its genesis was a citizens’ proclamation of 1877 calling for the establishment of a public library because the ‘dissemination of education among people is the only safeguard to republican liberty and government.’ The library opened in shared premises in 1879, and moved three times until funds, given by industrialist and philanthropist Andrew Carnegie in 1901 and supplemented by city money, finally resulted in a new purpose-designed library which was opened in 1917. Perhaps it was fortunate that the building took so long, since the earthquake and subsequent fire in 1906 might have destroyed the new building and its collection. By 1943, the main library, now known as the Old Main Library, had reached its capacity. A drawn-out campaign for a new library ensued, but a combination of a shortage of funds and disinclination of the San Francisco City authorities to proceed led to delay after delay until the new library, which finally cost in excess of US$109 million, was completed in 1996. It is cleverly integrated into the Old Main Library, which was partly damaged in the 1989 earthquake. The new building has been designed to withstand future earthquakes but is still considered by some as a work in progress. It has been referred to as a library of many visions that will only cohere into a world-class library if properly supported over time."
+    },
+    {
+      "label": "D",
+      "text": "Whereas San Francisco had to contend with earthquakes, Chicago suffered the devastation of fire. The fine new city on Lake Michigan, which grew up after the fire of 1871, became world famous for the quality of its architecture. It was almost inevitable that its new library building would be an important adornment to a part of the city which, by the late 1980s, was undergoing a phase of urban renewal. Chicago had long had a fine central library building (now preserved as an arts centre), but the central city library had outgrown it. After some 66 years of indecision, Chicago chose a design by post-modernist architect Thomas H Beeby, and now boasts the largest municipal library in the country. However, not everyone shares the view that it is a good building. There was predictable aversion to a building which was considered by some as old-fashioned, and this indeed in a city where the avant-garde seemed the norm. And the sheer immensity of the library, while catering to the apparent Chicago feeling that if it is the biggest it must be the best, did not necessarily mean that it worked well in practice."
+    },
+    {
+      "label": "E",
+      "text": "Former Mayor of Chicago Richard Daley is reported as saying, ‘A library is an innovator and should play an integral and active role in every community.’ Certainly, the three examples examined here meet these criteria. Experience suggests that buildings do matter. A great, even a good, building helps entice people to use its services and contents. The United States is fortunate to have many good library buildings; regrettably, lack of recurrent funding means, too often, that their true potential is not always achieved."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Reading Passage 2 has five sections, A-E. Which section contains the following information? Write the correct letter, A-E, in boxes 14-19 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a comment on a library’s function in society by a government official"
+        },
+        {
+          "n": 15,
+          "prompt": "an indication of the dominant architectural style of a city’s buildings"
+        },
+        {
+          "n": 16,
+          "prompt": "a reason why a lengthy planning and construction period was an advantage"
+        },
+        {
+          "n": 17,
+          "prompt": "a description of a library’s decorative features"
+        },
+        {
+          "n": 18,
+          "prompt": "details of a library that will hopefully survive natural disasters"
+        },
+        {
+          "n": 19,
+          "prompt": "details of the first individual financial donation for public library funding in the USA"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "paragraphCount": 5,
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 20 – 23 Look at the following statements (Questions 20-23) and the list of libraries below. Match each statement with the correct library, A, B, or C. Write the correct letter, A, B, or C, in boxes 20-23 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 20,
+          "prompt": "The new building successfully incorporates elements of the previous library."
+        },
+        {
+          "n": 21,
+          "prompt": "The original library building has continued to function efficiently."
+        },
+        {
+          "n": 22,
+          "prompt": "The building was designed at a time when the city was undergoing changes."
+        },
+        {
+          "n": 23,
+          "prompt": "Some believe this library is yet to become a top-class institution."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "New York Public Library"
+        },
+        {
+          "value": "B",
+          "text": "San Francisco Public Library"
+        },
+        {
+          "value": "C",
+          "text": "Chicago Public Library"
+        }
+      ],
+      "targetName": "library",
+      "listTitle": "List of Libraries",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 24 – 26 Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24,
+          "slots": 1
+        },
+        {
+          "n": 25,
+          "slots": 1
+        },
+        {
+          "n": 26,
+          "slots": 1
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "New York’s Public Library cost US$ {{24}} .",
+        "The people of San Francisco wanted a library to help spread {{25}} through the population.",
+        "Chicago’s new library has been criticised as being {{26}} ."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "1oxpwMTnxKRTpeTuD-dxp-5XyRikxrpc2",
+      "role": "passage-and-questions",
+      "sha256": "5b21f91eef32c488b7e44212225e0edeae6e8d027caadd413a54ce5a14683d9b",
+      "name": "Books and Buildings.pdf"
+    }
+  ],
+  "conversion": {
+    "version": "3.14",
+    "sourceParagraphCount": 5,
+    "method": "native-pdf",
+    "requiresReview": false,
+    "checks": [
+      "numbering",
+      "option-codes",
+      "gap-count",
+      "source-rules"
+    ],
+    "jobId": "p2-books-and-buildings"
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "Russel Doust looks at the histories of public library buildings in Chicago, San Francisco and New York",
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "mass-14-2026-10-13",
+    "checks": [
+      "all source title subtitle and question pages inspected",
+      "source paragraph question option and completion text compared",
+      "source-selected answer count and paragraph scopes preserved",
+      "source note bullets/indents and reading subheadings checked",
+      "original Mungo folder renamed to actual full source title Controversies in Australian Prehistory"
+    ]
+  }
+}

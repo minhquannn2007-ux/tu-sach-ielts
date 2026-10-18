@@ -1,0 +1,17 @@
+{
+  "job": "p3-science-in-the-kitchen",
+  "title": "Science in the kitchen",
+  "part": 3,
+  "fingerprint": "91deb8ac822c042e8fae9e483c21ce2c150d344a51883b8ca7121d42348e855c",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1N2mF1b4FAc4sJG8uVx-mZTrax4lfgmEx",
+      "code": "question-numbering",
+      "message": "Passage 3 requires 14 unique source questions"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.072
+}

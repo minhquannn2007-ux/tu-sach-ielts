@@ -1,0 +1,17 @@
+{
+  "job": "p1-back-to-their-roots",
+  "title": "Back to their roots",
+  "part": 1,
+  "fingerprint": "a552fc2d994840055dca67e68844f71804d4eeb8a9d1b3590aea15bb7057b29f",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1IczNABJJQy4KIaHzpGtOJerR2kIvDVTl",
+      "code": "question-numbering",
+      "message": "Passage 1 requires 13 unique source questions"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.064
+}

@@ -1,0 +1,22 @@
+{
+  "job": "p3-jean-piaget-1896-1980",
+  "title": "Jean Piaget 1896 – 1980",
+  "part": 3,
+  "fingerprint": "d524c702f010fde86c6ee53735b817d391f77d19a9603625b66615a9d4d22c2e",
+  "converterVersion": "3.17",
+  "attempts": [
+    {
+      "sourceId": "1fyL3eQr7wS6By47PmGv8uMdD3e5QFbuR",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1tFaLr0t_ubsU31MvFgWd-hp3-WkwRbAi",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

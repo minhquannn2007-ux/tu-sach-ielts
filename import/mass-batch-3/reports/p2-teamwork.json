@@ -1,0 +1,17 @@
+{
+  "job": "p2-teamwork",
+  "title": "Teamwork",
+  "part": 2,
+  "fingerprint": "2262f8736ebe37294651369d83fc63a04f3a130072d129b21d789680aec647f3",
+  "converterVersion": "3.6",
+  "attempts": [
+    {
+      "sourceId": "16my8G0aDQxAin-6C7_2bXi0xsPiI_zVv",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.055
+}

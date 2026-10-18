@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-chemical-element-phosphorus",
+  "title": "The chemical element phosphorus",
+  "part": 1,
+  "fingerprint": "5af497a0c27c5dcf2b01d278afc9e94f209747b3d02a056943bb624808d6e855",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1aFtiJedvzgbrI8u-Vj5T6XplfmP9NIam",
+      "code": "table-layout",
+      "message": "Merged table cells require reviewed layout"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.099
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p3-animals-predicting-earthquakes-chua-rep",
+  "title": "Animals predicting earthquakes?(CHƯA REP)",
+  "part": 3,
+  "fingerprint": "e375de266d7e60feafc9a004c7f1549b7151a51564fa05898fe1f418b59c3c10",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1H1mNZoAd2AjDQP62rVDcAom6g_xbJz-S",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.075
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-a-great-leap-forward",
+  "title": "A great leap forward",
+  "part": 2,
+  "fingerprint": "ae0e5d64b6e7cf6b6ef312a39b08de22ef32f791767e4c23668e38e6fbebff1e",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1RwO1RbtfJPhY-72S-UFLhzztiG4qPQ1-",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.006
+}

@@ -1,0 +1,17 @@
+{
+  "job": "p2-mimicry-and-parenting",
+  "title": "Mimicry and parenting",
+  "part": 2,
+  "fingerprint": "49e07c6d6f840c31cbc06d32d75693873c064dd1dbfbba564ef3cf5470b73c04",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1-uaj3ARr-kt034A4-cl7cMKzL1YICkHN",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

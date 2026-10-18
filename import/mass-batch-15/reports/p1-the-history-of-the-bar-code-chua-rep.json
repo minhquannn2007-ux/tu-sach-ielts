@@ -1,0 +1,22 @@
+{
+  "job": "p1-the-history-of-the-bar-code-chua-rep",
+  "title": "The history of the bar code(CHƯA REP)",
+  "part": 1,
+  "fingerprint": "54e4c7c7026a0bb0b2a3dd58fa7182430c8d5d39884a15551fb576ead9c14312",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1AKQMqhtFpAD-AIyDhwxcZ4-VS9JMOMgP",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    },
+    {
+      "sourceId": "1_KPt7z5eK_t2CjkwJokmr-vpODKfa6RY",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.005
+}

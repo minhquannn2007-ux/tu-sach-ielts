@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-blockbuster-phenomenon-a-new-museum-trend",
+  "title": "The Blockbuster Phenomenon - a new museum trend",
+  "part": 1,
+  "fingerprint": "7e7834bc0c58aa09c10a879f69015ac117ea22e6c7c52aebc7e41bae5be22a02",
+  "converterVersion": "3.21",
+  "attempts": [
+    {
+      "sourceId": "1aUL9dgQxcaXxVsz3OeLbeSKvZACUPVzp",
+      "code": "option-bank",
+      "message": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E', 'F', 'G']; expected ['A', 'B', 'C', 'D', 'E']"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.223
+}

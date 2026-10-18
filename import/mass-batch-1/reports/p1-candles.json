@@ -1,0 +1,32 @@
+{
+  "job": "p1-candles",
+  "title": "Candles",
+  "part": 1,
+  "fingerprint": "15c6d333a7ca88cb8858698a28b5aa0965542ae9d3d8fc4202d845b6f7362bb4",
+  "converterVersion": "3.0",
+  "attempts": [
+    {
+      "sourceId": "1eENLecHptg_goG-N5R-EbJore_LdJJRy",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p1-candles.json",
+  "lessonId": "p1-candles",
+  "sourceId": "1eENLecHptg_goG-N5R-EbJore_LdJJRy",
+  "questionCount": 13,
+  "types": [
+    "tfng",
+    "notes"
+  ],
+  "sourceHash": "e74f176cd9f0469090eb449109303a54a309ac8c6754fbadee505fac3da080f5",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.079
+}

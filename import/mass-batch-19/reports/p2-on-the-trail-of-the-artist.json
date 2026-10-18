@@ -1,0 +1,33 @@
+{
+  "job": "p2-on-the-trail-of-the-artist",
+  "title": "On the trail of the artist",
+  "part": 2,
+  "fingerprint": "f383d9ec6c9909bbc479906978fef66352b580b3f1a096e3fbeea3a8450a04da",
+  "converterVersion": "3.19",
+  "attempts": [
+    {
+      "sourceId": "186WzT3Yu8p1eswL6MJLaSPAvRQFH8MRK",
+      "code": "converted",
+      "message": "Structural checks passed; passage/layout still require review"
+    }
+  ],
+  "status": "ready-for-review",
+  "requiresReview": true,
+  "draft": "drafts/p2-on-the-trail-of-the-artist.json",
+  "lessonId": "p2-on-the-trail-of-the-artist",
+  "sourceId": "186WzT3Yu8p1eswL6MJLaSPAvRQFH8MRK",
+  "questionCount": 13,
+  "types": [
+    "matching-endings",
+    "mc-one",
+    "matching-info"
+  ],
+  "sourceHash": "2a974f348437d1d7d865d878b7235074d26992f75907de1d5ac9b6465d13cab6",
+  "checks": [
+    "numbering",
+    "option-codes",
+    "gap-count",
+    "source-rules"
+  ],
+  "seconds": 0.054
+}

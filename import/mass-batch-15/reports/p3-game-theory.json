@@ -1,0 +1,17 @@
+{
+  "job": "p3-game-theory",
+  "title": "Game theory",
+  "part": 3,
+  "fingerprint": "e1fa38c55bb90841a079ff3aaa78d52cb3319933c8711462842b7bb738a51c9b",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1SnHaKvvu14Pde3XMPd4v1KPrlHiwHQOg",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.004
+}

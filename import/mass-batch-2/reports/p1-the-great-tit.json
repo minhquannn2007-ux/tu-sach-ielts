@@ -1,0 +1,17 @@
+{
+  "job": "p1-the-great-tit",
+  "title": "The Great Tit",
+  "part": 1,
+  "fingerprint": "c7b34a2e822b94414e33e29a1c9058e6d38f675e547e8d19a6a6ba5702b16057",
+  "converterVersion": "3.4",
+  "attempts": [
+    {
+      "sourceId": "1FOIttKRp177yQyQC8nEKeyiiljK6HbDK",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.003
+}

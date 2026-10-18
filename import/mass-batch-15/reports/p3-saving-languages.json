@@ -1,0 +1,22 @@
+{
+  "job": "p3-saving-languages",
+  "title": "Saving languages",
+  "part": 3,
+  "fingerprint": "6a37e9a7c150911b83a8b6983fd5228228195a18f059886f60ad8e7d4eb0e1ea",
+  "converterVersion": "3.14",
+  "attempts": [
+    {
+      "sourceId": "1X3AzHy8UjUl825RGWb0cgqgJSdlyIx9Z",
+      "code": "heading-questions",
+      "message": "Heading paragraph mapping is ambiguous"
+    },
+    {
+      "sourceId": "1yT_9euiR0g3L4-20IFI2oh4ucEiyk349",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.059
+}

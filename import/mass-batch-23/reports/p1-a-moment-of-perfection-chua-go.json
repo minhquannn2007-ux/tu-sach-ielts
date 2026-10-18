@@ -1,0 +1,17 @@
+{
+  "job": "p1-a-moment-of-perfection-chua-go",
+  "title": "A Moment of Perfection(CHƯA GÕ)",
+  "part": 1,
+  "fingerprint": "cddd167a65306fcf317782fdf5142b65a0f648c59e986ed06fd99977a3336fc3",
+  "converterVersion": "3.22",
+  "attempts": [
+    {
+      "sourceId": "1GCOAu4UzOgYd1wVGHtGY_T1bnaqtEjzy",
+      "code": "scan-review",
+      "message": "Image/scan pages need OCR and visual source review"
+    }
+  ],
+  "status": "held",
+  "requiresReview": true,
+  "seconds": 0.008
+}

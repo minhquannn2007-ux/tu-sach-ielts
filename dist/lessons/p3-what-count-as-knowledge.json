@@ -1,0 +1,182 @@
+{
+  "id": "p3-what-count-as-knowledge",
+  "part": 3,
+  "title": "What count as knowledge?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "What do we mean when we say that we know something? What is the status of different kinds of knowledge? In order to explore these questions, we are going to focus on one particular area of knowledge-medicine."
+    },
+    {
+      "label": "B",
+      "text": "How do you know when you are ill? This may seem to be an absurd question. You know you are ill because you feel ill. You may know that you feel pain or discomfort, but knowing you are ill is a bit more complex. At times, people experience the symptoms of illness, but in fact, they are simply overworked. At other times, people may be suffering from a disease and fail to be aware of the illness until it has reached a late stage in its development. So how do we know we are ill, and what counts as knowledge?"
+    },
+    {
+      "label": "C",
+      "text": "Think about this example, showing different sources of knowledge. You feel unwell. You have a bad cough, and always you should give up smoking. You feel worse. You visit the doctor who listens to your chest and heart, takes your blood pressure, and then finally prescribes antibiotics for your cough."
+    },
+    {
+      "label": "D",
+      "text": "Things do not get any better, but you struggle on, thinking you should pull yourself together; perhaps things will ease off at work soon. A return visit to your doctor shocks you. This time, the doctor diagnoses pneumonia. This means that you will need bed rest and a considerable time off work. The scenario is transformed. Although you still have the same symptoms, you no longer think that these are caused by pressure at work. You now have proof that you are ill. This is the result of the combination of your own subjective experience and the diagnosis of someone who has the status of a medical expert. You have a medically authenticated diagnosis, and it appears that you are seriously ill; you know you are ill and have evidence upon which to base this knowledge."
+    },
+    {
+      "label": "E",
+      "text": "This example shows some of the different sources of knowledge we draw upon when seeking to know about health and illness, even to knowing whether or not we are ill. For example, you decide to consult the doctor in the first place because you feel unwell—this is personal knowledge about your own body. However, the doctor's expert diagnosis is based on experience and training, with sources of knowledge as diverse as other experts, laboratory reports, medical textbooks, and years of experience. But how is all this medical knowledge produced?"
+    },
+    {
+      "label": "F",
+      "text": "One source of knowledge is the experience of our own bodies: the personal knowledge we have of changes that might be significant, as well as the subjective experience of pain and physical distress. These experiences are mediated by other forms of knowledge such as the words we have available to describe our experience and concepts drawn from popular culture. Over the past decade, for example, Western culture has seen a significant emphasis in the media on illness related to stress. Mention of being 'stressed out' has become a common response in daily exchanges in the workplace and has become part of popular common-sense knowledge. It is thus not surprising that we might seek such an explanation of physical symptoms of discomfort. We might also rely on the observations and common sense of others who know us. Comments from friends and family such as 'you do look ill' or 'that's a bad cough' might be another source of knowledge. Complementary health practices, such as holistic medicine, produce their own sets of knowledge upon which we might also draw in deciding the nature and degree of our ill health and about possible treatments."
+    },
+    {
+      "label": "G",
+      "text": "Perhaps the most influential and authoritative source of knowledge is the medical knowledge provided by the general practitioner. We expect the doctor to have access to expert knowledge. This is socially sanctioned. It would not be acceptable to notify our employer that we simply felt too unwell to turn up for work or that our faith healer or astrologer thought it was not a good idea. We require an expert medical diagnosis in order to obtain the necessary certificate if we need to be off work for more than the statutory self-certification period. The knowledge of the medical sciences is privileged in this respect in contemporary Western culture. Medical practitioners are also seen as having the required expert knowledge that permits them to prescribe drugs legally and treatment to which patients would not otherwise have access. However, there is a range of different knowledges upon which we draw when making decisions about our own state of health."
+    },
+    {
+      "label": "H",
+      "text": "But there is more than existing knowledge in this little story; new knowledge is constructed within it. Given the medical training and background of doctors, they may formulate a hypothesis—'is this now pneumonia?'—that takes into account the symptoms that are presented, and then proceed to look for evidence of it. They will use observations and instruments to assess the evidence and—critically—create an interpretation of it in the light of their training and experience. This results in new knowledge and new experience both for you and for the doctor. This will then be added to the doctor's medical knowledge and may help in future diagnosis."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 32 Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 27-32 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27
+        },
+        {
+          "n": 28
+        },
+        {
+          "n": 29
+        },
+        {
+          "n": 30
+        },
+        {
+          "n": 31,
+          "slots": 2
+        },
+        {
+          "n": 32
+        }
+      ],
+      "type": "notes",
+      "task": "table",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "tableHeader": true,
+      "columnWidths": [
+        31,
+        69
+      ],
+      "title": null,
+      "table": [
+        [
+          "Argument",
+          "Examples/evidence"
+        ],
+        [
+          "Knowledge can come from various sources",
+          "These include:\n\n• personal experience (e.g. a {{27}} and continuous tiredness)\n\n• scientific evidence (e.g. measurement of {{28}})\n\n• doctor’s medical {{29}} coming from professional experience and training"
+        ],
+        [
+          "Knowledge is ‘socially produced’",
+          "Ideas about illness may depend on:\n\n• popular culture (e.g. illnesses connected with {{30}} )\n\n• common sense (e.g. remarks made by {{31}} and {{31:1}} )\n\n• alternative or complementary approaches to health care (e.g. {{32}} )"
+        ]
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 33 – 40 Reading Passage 3 has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 33-40 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 33,
+          "prompt": "how our medical interpretations may be influenced by non-specialists"
+        },
+        {
+          "n": 34,
+          "prompt": "a description of how doctors are regarded within society"
+        },
+        {
+          "n": 35,
+          "prompt": "a contrast between the nature of a patient's knowledge and the nature of a doctor's knowledge"
+        },
+        {
+          "n": 36,
+          "prompt": "a claim that a patient's condition may add something to a doctor's knowledge"
+        },
+        {
+          "n": 37,
+          "prompt": "a reference to the document a doctor provides for sick leave"
+        },
+        {
+          "n": 38,
+          "prompt": "a reference to the fact that a particular phrase is now frequently used in conversation"
+        },
+        {
+          "n": 39,
+          "prompt": "examples of explanations for absence from work that would not be considered satisfactory"
+        },
+        {
+          "n": 40,
+          "prompt": "a reference to being ill without realising it"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "reuse": true
+    }
+  ],
+  "sources": [
+    {
+      "id": "1m4Ba57M5di09uIBzPmUbRCDMXSvACT81",
+      "name": "What count as knowledge?.pdf",
+      "role": "passage-and-questions",
+      "sha256": "876092acd91b6b947c057d4804b31a2d5d53f5fdc27268e731f2f703d478cb62"
+    }
+  ],
+  "conversion": {
+    "version": "3.9",
+    "jobId": "p3-what-count-as-knowledge",
+    "sourceParagraphCount": 8,
+    "method": "native-pdf-with-reviewed-table-adapter",
+    "requiresReview": false
+  },
+  "displayParagraphLabels": true,
+  "cover": {
+    "asset": "assets/library-cover.jpg",
+    "alt": "Kệ sách trong thư viện",
+    "credit": "Daniel Forsman",
+    "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "repair-9-2026-10-13",
+    "checks": [
+      "source paragraph question option completion comparison",
+      "PDF title subtitle and all task pages inspected",
+      "table cells merges bullets and italic book title",
+      "note bold indentation and word limits",
+      "explicit reuse permission and paired blanks"
+    ]
+  }
+}
