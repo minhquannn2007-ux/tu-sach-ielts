@@ -35,18 +35,19 @@
     "Source note heading bullets restored; bold only for title, not heading rows",
     "Diagram misclassification replaced with linear flow-chart and correct CBT instructions",
     "Removed redraw SVG; HTML stage boxes with original raster arrow extracted from source page four",
-    "Eight source stages; four inline numbered text inputs, seven downward arrows"
+    "Eight source stages; four inline numbered text inputs, seven downward arrows",
+    "Arrow crop corrected using full-size page pixel coordinates; inspected complete shaft and downward arrowhead on white background. Versioned asset avoids stale cache."
   ],
   "arrow": {
-    "asset": "assets/flow-arrow-forgotten-forests-source.png",
+    "asset": "assets/flow-arrow-forgotten-forests-source-v2.png",
     "sourcePage": 4,
     "clipPoints": [
-      411.3333333333333,
-      368.6666666666667,
-      439.3333333333333,
-      398.0
+      828.0,
+      903.3333333333334,
+      880.0,
+      959.3333333333334
     ],
-    "sha256": "91cffc87d8f6589df2d4fd6c843489473139fbbb27fc489cdddd638cf82b4b9b"
+    "sha256": "b453545968356b7e5dabbbcad05e8e5cd0051481ef207ae136c3a1fca3a39071"
   },
   "browserVisualQA": false
 }
