@@ -119,7 +119,7 @@
       "reuse": true
     },
     {
-      "type": "short-answer",
+      "type": "summary-input",
       "sourceInstructions": "Questions 23-26 Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 23-26 on your answer sheet.",
       "sourcePages": [
         4
@@ -127,22 +127,29 @@
       "questions": [
         {
           "n": 23,
-          "prompt": "Even for young and healthy people, eating dark chocolate regularly and in moderation provides {{23}}."
+          "slots": 1
         },
         {
           "n": 24,
-          "prompt": "Dark chocolate is preferred as it is not as sweet and has fewer {{24}}."
+          "slots": 1
         },
         {
           "n": 25,
-          "prompt": "Certain brands of chocolate have only a limited amount of {{25}} in the cocoa."
+          "slots": 1
         },
         {
           "n": 26,
-          "prompt": "During digestion, microbes break down undigested {{26}}."
+          "slots": 1
         }
       ],
-      "wordLimit": "ONE WORD ONLY"
+      "wordLimit": "ONE WORD ONLY",
+      "task": "sentences",
+      "content": [
+        "Even for young and healthy people, eating dark chocolate regularly and in moderation provides {{23}}.",
+        "Dark chocolate is preferred as it is not as sweet and has fewer {{24}}.",
+        "Due to the way they are produced, certain brands of chocolate have only a limited amount of {{25}} in the cocoa.",
+        "During the digestion process, microbes break down {{26}} that has been undigested."
+      ]
     }
   ],
   "sources": [

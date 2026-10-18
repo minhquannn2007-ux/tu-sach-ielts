@@ -104,16 +104,15 @@
       ],
       "sourceLayoutChecked": true,
       "flow": {
-        "start": "Ambergris is formed in whales because of problems digesting the {{7}} of giant squid.",
-        "rows": [
-          {
-            "left": "Black liquid is produced and is {{8}} from time to time."
-          },
-          {
-            "left": "The liquid {{9}} on contact with the air."
-          }
-        ]
-      }
+        "layout": "linear",
+        "steps": [
+          "Ambergris is formed in whales because of problems digesting the {{7}} of giant squid.",
+          "Black liquid is produced and is {{8}} from time to time.",
+          "The liquid {{9}} on contact with the air."
+        ],
+        "arrow": "assets/flow-arrow-forgotten-forests-source-v2.png"
+      },
+      "title": "How ambergris is formed"
     },
     {
       "type": "tfng",
