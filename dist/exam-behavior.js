@@ -30,7 +30,7 @@ function paint(){
  document.querySelectorAll('.choice-number,.mc-num,.ync-num,.tfng-num,.qnum').forEach(e=>e.classList.toggle('video-current',Number(e.textContent)===shown));
  document.querySelectorAll('.choice-current').forEach(e=>e.classList.remove('choice-current'));
  const prev=document.getElementById('nav-prev'),next=document.getElementById('nav-next');const idx=navigationNums.indexOf(current);
- prev.disabled=idx<=0;next.disabled=idx>=navigationNums.length-1;next.style.visibility=idx>=navigationNums.length-1?'hidden':'visible';
+ prev.disabled=idx<=0;next.disabled=!!document.querySelector('.exam-submit')?.disabled;next.style.visibility='visible';
 }
 function select(n){if(!nums.includes(n))return;n=representative(n);current=n;activeQ=n;hovered=null;paint()}
 function navigate(n){
@@ -44,7 +44,7 @@ function navigate(n){
  if(isChoice&&submitted)explain(n);
 }
 // Replace arrow listeners so there is one navigation step for each click.
-for(const id of ['nav-prev','nav-next']){const old=document.getElementById(id);const b=old.cloneNode(true);old.replaceWith(b);b.onclick=()=>{const i=navigationNums.indexOf(current);navigate(navigationNums[Math.max(0,Math.min(navigationNums.length-1,i+(id==='nav-prev'?-1:1)))])}}
+for(const id of ['nav-prev','nav-next']){const old=document.getElementById(id);const b=old.cloneNode(true);old.replaceWith(b);b.onclick=()=>{const i=navigationNums.indexOf(current);if(id==='nav-next'&&i===navigationNums.length-1){document.querySelector('.exam-submit')?.click();return}navigate(navigationNums[Math.max(0,Math.min(navigationNums.length-1,i+(id==='nav-prev'?-1:1)))])}}
 dots.forEach(d=>d.addEventListener('click',e=>{e.stopImmediatePropagation();navigate(dotNumber(d))},true));
 panel.addEventListener('focusin',e=>{const n=questionNumber(e.target);if(n)select(n)});
 panel.addEventListener('click',e=>{const n=questionNumber(e.target)||questionNumber(e.target.closest('.tif-opt'));if(n)select(n);queueMicrotask(paint)});

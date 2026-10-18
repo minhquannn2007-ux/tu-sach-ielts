@@ -577,3 +577,11 @@ html body .hl{background:#7d4a5a!important;color:#fff!important}
 
 /* Submission is available only through the footer tick. */
 html body #submit-choice{display:none!important}
+
+/* Previous is dark grey; Next stays black, including at the final question. */
+html body .nav-arrows{gap:3px}
+html body .nav-btn{width:56px;height:55px;border-radius:2px;opacity:1!important}
+html body .nav-btn.nav-prev,html body .nav-btn.nav-prev:hover:not(:disabled){background:#4c4c4c!important}
+html body .nav-btn.nav-next,html body .nav-btn.nav-next:hover:not(:disabled){background:#000!important}
+html body .nav-btn.nav-prev:disabled,html body .nav-btn.nav-next:disabled{background:#ddd!important;cursor:default}
+html body .nav-btn svg{stroke:#fff;fill:none;stroke-linecap:round;stroke-linejoin:round}
