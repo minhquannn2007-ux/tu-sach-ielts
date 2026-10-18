@@ -7,6 +7,8 @@
  if(divider&&passage){
   const handle=divider.querySelector('.resize-btn')||divider;
   let pointer=null,ratio=null,oldSelect='',oldCursor='';
+  divider.addEventListener('pointermove',e=>{if(e.pointerType!=='mouse')return;divider.classList.toggle('splitter-right-hover',e.clientX>divider.getBoundingClientRect().right)});
+  divider.addEventListener('pointerleave',()=>divider.classList.remove('splitter-right-hover'));
   function apply(x){const bounds=main.getBoundingClientRect(),available=bounds.width-divider.offsetWidth;if(available<=0)return;
    ratio=Math.min(1,Math.max(0,(x-bounds.left)/available));if(ratio<.025)ratio=0;if(ratio>.975)ratio=1;
    main.classList.toggle('pane-passage-collapsed',ratio===0);main.classList.toggle('pane-questions-collapsed',ratio===1);
@@ -25,14 +27,14 @@
   divider.addEventListener('mousedown',e=>{e.preventDefault();e.stopImmediatePropagation()},true);
   divider.addEventListener('pointerdown',e=>{if(e.isPrimary===false||pointer!==null||(e.pointerType==='mouse'&&e.button!==undefined&&e.button!==0))return;
    e.preventDefault();pointer=e.pointerId;oldSelect=document.body.style.userSelect;oldCursor=document.body.style.cursor;
-   document.body.style.userSelect='none';document.body.style.cursor='col-resize';divider.classList.add('touch-resizing');
+   document.body.style.userSelect='none';document.body.classList.add('pane-resizing');document.body.style.cursor='var(--pane-resize-cursor, ew-resize)';divider.classList.add('touch-resizing');
    divider.setPointerCapture?.(pointer);
    apply(e.clientX);
   });
   divider.addEventListener('pointermove',e=>{if(e.pointerId!==pointer)return;e.preventDefault();apply(e.clientX)});
   function stop(e){if(pointer===null||e&&e.pointerId!==pointer)return;const id=pointer;pointer=null;
    if(divider.hasPointerCapture?.(id))divider.releasePointerCapture(id);
-   document.body.style.userSelect=oldSelect;document.body.style.cursor=oldCursor;divider.classList.remove('touch-resizing');
+   document.body.style.userSelect=oldSelect;document.body.style.cursor=oldCursor;document.body.classList.remove('pane-resizing');divider.classList.remove('touch-resizing');
   }
   divider.addEventListener('pointerup',stop);divider.addEventListener('pointercancel',stop);divider.addEventListener('lostpointercapture',stop);window.addEventListener('blur',()=>stop());
   window.addEventListener('resize',()=>{if(ratio!==null)queueMicrotask(()=>{const b=main.getBoundingClientRect();apply(b.left+(b.width-divider.offsetWidth)*ratio)})});

@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css?v=annotation-hover-v1">
+<link rel="stylesheet" href="question-template.css?v=splitter-reference-v1">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -1043,6 +1043,26 @@ html[data-exam-contrast] body :is(#selection-popup .sel-btn,#context-menu .annot
 html[data-exam-contrast] body #context-menu .annotation-delete svg{stroke:currentColor!important}
 html[data-exam-contrast] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete):hover{background:var(--tool-base)!important;color:var(--tool-hover)!important}
 html[data-exam-contrast] body #selection-popup:has(.sel-btn:hover) .sel-btn:not(:hover){background:var(--tool-sibling)!important}
+
+/* Use custom scrollbar tracks in every contrast; native colour overrides add arrows. */
+html[data-exam-dark] body :is(.passage,.qpanel){scrollbar-color:auto!important}
+html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar{width:17.5px;background:#000}
+html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar-thumb{background:#666;border-radius:0}
+html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar-track{background:#000}
+html[data-exam-contrast] body :is(.passage,.qpanel)::-webkit-scrollbar-button{display:none!important;width:0!important;height:0!important}
+/* Pane splitter: hover edge, right-side hit strip, pressed handle and arrow cursor. */
+html{--pane-resize-cursor:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2224%22%20height%3D%2218%22%20viewBox%3D%220%200%2024%2018%22%3E%3Cpath%20d%3D%22M1%209%208%202v5h8V2l7%207-7%207v-5H8v5Z%22%20fill%3D%22white%22%20stroke%3D%22black%22%20stroke-width%3D%221%22%20stroke-linejoin%3D%22round%22%2F%3E%3C%2Fsvg%3E") 12 9, ew-resize}
+html[data-exam-contrast="white-on-black"]{--splitter-edge:#d59369;--splitter-hover:#1e1e1e;--splitter-pressed-glyph:#000}
+html[data-exam-contrast="yellow-on-black"]{--splitter-edge:#2a6c96;--splitter-hover:#e1e1e1;--splitter-pressed-glyph:#fff}
+html body :is(#divider,.resize-bar,.resize-btn),html body .resize-btn *{cursor:var(--pane-resize-cursor)!important}
+html body.pane-resizing,html body.pane-resizing *{cursor:var(--pane-resize-cursor)!important}
+html[data-exam-dark] body #divider::after{content:'';position:absolute;left:100%;top:0;width:17px;height:100%;background:transparent;pointer-events:auto;z-index:-1}
+html[data-exam-dark] body #divider.splitter-right-hover::after{background:#1a1a1a}
+html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-bar{background:var(--splitter-edge)!important}
+html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-btn{border-color:var(--splitter-edge)!important;background:var(--splitter-hover)!important;color:var(--splitter-edge)!important;outline:none!important}
+html[data-exam-dark] body #divider.touch-resizing .resize-btn,html[data-exam-dark] body #divider .resize-btn:active{background:var(--splitter-edge)!important;color:var(--splitter-pressed-glyph)!important}
+html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-btn svg polygon{fill:currentColor!important}
+html[data-exam-dark] body #divider:is(:hover,.touch-resizing) .resize-btn svg line{stroke:currentColor!important}
 </style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=nav-motion-v1"><script src="exam-options.js?v=active-v1"></script><script src="exam-question-focus.js?v=active-v1"></script></head>
 <body>
 
@@ -1172,4 +1192,4 @@ html[data-exam-contrast] body #selection-popup:has(.sel-btn:hover) .sel-btn:not(
  divider.addEventListener('pointerdown',e=>{if(window.innerWidth<=760)return;resizing=true;divider.setPointerCapture?.(e.pointerId);e.preventDefault()});divider.addEventListener('pointermove',e=>{if(!resizing)return;const r=main.getBoundingClientRect();const pct=Math.max(25,Math.min(75,(e.clientX-r.left)/r.width*100));passage.style.flex='0 0 '+pct+'%';panel.style.flex='1 1 0';});divider.addEventListener('pointerup',()=>resizing=false);divider.addEventListener('pointercancel',()=>resizing=false);
  updateFooter();
 })();
-</script><script src="zoom-layout.js?v=nav-motion-v1"></script><script src="question-template.js"></script><script src="exam-progress.js"></script></body></html>
+</script><script src="zoom-layout.js?v=splitter-reference-v1"></script><script src="question-template.js"></script><script src="exam-progress.js"></script></body></html>
