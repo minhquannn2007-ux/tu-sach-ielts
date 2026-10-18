@@ -591,3 +591,32 @@ html body #qpanel :is(.ync-num,.tfng-num,.mc-num,.choice-number,.qnum){box-sizin
 html body #qpanel :is(.ync-num,.tfng-num,.mc-num,.choice-number,.qnum).video-current{border-color:#3592df!important;outline:none!important}
 /* List letters: old 41px outer column becomes 32.8px (20% narrower). */
 html body #qpanel .res-ltr{box-sizing:border-box;width:32.8px;min-width:32.8px;flex:0 0 32.8px;padding:8px 0;display:flex;align-items:center;justify-content:center;text-align:center}
+
+/* Selection tools and notes match the supplied Inspera annotation references. */
+html body #selection-popup,html body #context-menu{position:fixed;z-index:1000010;background:#fff!important;color:#777!important;border:1px solid #777!important;border-radius:2px!important;box-shadow:0 2px 5px #0003!important;box-sizing:border-box;padding:2px!important;overflow:visible}
+html body #selection-popup{width:114px;height:54px;gap:0!important;align-items:stretch}
+html body #context-menu{width:68px;min-width:68px;height:67px}
+html body #selection-popup::before,html body #context-menu::before{content:'';position:absolute;top:-5px;left:calc(50% - 5px);width:8px;height:8px;background:white;border-top:1px solid #777;border-left:1px solid #777;transform:rotate(45deg)}
+html body #selection-popup .sel-divider,html body #sel-clear-hl-btn,html body #sel-clear-all-btn,html body #sel-clear-note-btn{display:none!important}
+html body #selection-popup .sel-btn,html body #context-menu .annotation-delete{position:relative;display:flex;flex:1;flex-direction:column;align-items:center;justify-content:center;gap:3px;margin:0;padding:4px!important;border:0;background:#fff;color:#777!important;font:12px/13px Arial;min-width:0;cursor:pointer;border-radius:0;box-shadow:none}
+html body #selection-popup .sel-btn:hover,html body #context-menu .annotation-delete:hover{background:#eee!important}
+html body #selection-popup .sel-btn svg,html body #context-menu .annotation-delete svg{display:block;width:18px;height:18px;color:#777;stroke:#777;flex:none}
+html body #context-menu .annotation-delete{width:100%;height:100%;text-align:center}
+html body .exam-notes{width:300px;background:#e8e8e8;font:16px Arial}
+html body .exam-notes[hidden]{display:none!important}
+html body.exam-notes-open{padding-right:300px}
+html body.exam-notes-open .nav-arrows{right:331px}
+html body .exam-notes-head{box-sizing:border-box;height:55px;padding:0 16px;border-bottom:1px solid #c4c4c4}
+html body .exam-note-card{box-sizing:border-box;background:#1e46be;color:#fff;margin:2px 2px 8px;padding:20px 15px;border-radius:2px}
+html body .exam-note-card p{font:16px/1.5 Arial;margin:0 0 18px;display:flex;align-items:baseline;gap:12px}
+html body .exam-note-card p strong{white-space:nowrap}
+html body .exam-note-card p em{font-style:italic;overflow-wrap:anywhere}
+html body .exam-note-card textarea{box-sizing:border-box;width:100%;height:43px;min-height:43px;margin:0;background:white;color:#000;border:1px solid #888;border-radius:2px;padding:3px 6px;font:16px/1.4 Arial;resize:vertical}
+html body .exam-note-card textarea::placeholder{color:#000;opacity:1}
+html body .exam-note-card textarea:focus{border-color:#3592df;outline:1px solid #3592df}
+html body .exam-note-actions{margin-top:12px}
+html body .exam-note-actions button{font:16px Arial;padding:8px 0 0;color:#fff}
+html body [data-exam-note],html body [data-exam-note] .hl{background:#204ccf!important;color:white!important;cursor:pointer;border:0;text-decoration:none}
+html body .exam-chat-icon{display:none!important}
+html body.submission-review-open .submit-review-extra-icon{display:none!important}
+@media(max-width:599px){html body.exam-notes-open{padding-right:0}html body .exam-notes{width:min(300px,80vw)}}
