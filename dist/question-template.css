@@ -765,3 +765,10 @@ html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(button.
 html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-current,html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots .video-current :is(.bb-q-num,.tif-dot-label){background:#808000!important;color:#000!important;font-weight:700!important}
 /* Matching matrices and researcher/name lists use the contrast foreground for every rule. */
 html[data-exam-dark] body #qpanel :is(.grid-outer,.grid-tbl,.grid-tbl thead,.grid-tbl tbody,.grid-tbl tfoot,.grid-tbl tr,.grid-tbl th,.grid-tbl td,.researchers,.researchers-hdr,.res-row,.res-ltr,.res-name){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
+/* Navigation references: disabled Previous differs from enabled Previous. */
+html[data-exam-contrast="white-on-black"] body .nav-arrows .nav-btn.nav-prev{background:#999!important;color:#000!important}
+html[data-exam-contrast="white-on-black"] body .nav-arrows .nav-btn.nav-next{background:#f2f2f2!important;color:#000!important}
+html[data-exam-contrast="white-on-black"] body .nav-arrows:has(.nav-prev:disabled) .nav-btn.nav-next{background:#fff!important}
+html[data-exam-contrast="yellow-on-black"] body .nav-arrows .nav-btn.nav-prev{background:#666!important;color:#ff0!important}
+html[data-exam-contrast="yellow-on-black"] body .nav-arrows .nav-btn.nav-next{background:#ff0!important;color:#000!important}
+html[data-exam-dark] body .nav-arrows .nav-btn.nav-prev:disabled{background:#515151!important;color:#1b1b1b!important}
