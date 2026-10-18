@@ -74,12 +74,14 @@
           {
             "runs": [
               {
-                "text": "Regular fires in longleaf pine forests ensure that:",
-                "bold": true
+                "text": "Regular fires in longleaf pine forests ensure that:"
               }
             ],
             "indent": 0,
-            "spaceBefore": 0
+            "spaceBefore": 0,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
           },
           {
             "runs": [
@@ -120,12 +122,14 @@
           {
             "runs": [
               {
-                "text": "Lighting of fires in longleaf pine forests:",
-                "bold": true
+                "text": "Lighting of fires in longleaf pine forests:"
               }
             ],
             "indent": 0,
-            "spaceBefore": 1
+            "spaceBefore": 1,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0
           },
           {
             "runs": [
@@ -155,7 +159,7 @@
       }
     },
     {
-      "type": "diagram",
+      "type": "flow-chart",
       "sourceInstructions": "Questions 6 – 9 Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 6-9 on your answer sheet.",
       "sourcePages": [
         4
@@ -175,83 +179,22 @@
         }
       ],
       "wordLimit": "ONE WORD ONLY",
-      "diagram": {
-        "asset": "assets/diagram-p1-forgotten-forests-reviewed.svg",
-        "width": 1000,
-        "height": 1450,
-        "minWidth": 1000,
-        "alt": "Eight-step vertical flow chart showing how forest fires benefit red-cockaded woodpecker populations",
-        "captions": [
-          {
-            "x": 7,
-            "y": 4.275862068965517,
-            "width": 86,
-            "text": "Calcium stored in {{6}}",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 16,
-            "width": 86,
-            "text": "Burnt by fire",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 27.724137931034484,
-            "width": 86,
-            "text": "Calcium released into the {{7}}",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 39.44827586206897,
-            "width": 86,
-            "text": "Calcium travels up into longleaf pine",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 51.172413793103445,
-            "width": 86,
-            "text": "Calcium enters bodies of {{8}} living in longleaf pine",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 62.89655172413793,
-            "width": 86,
-            "text": "Eaten by woodpeckers",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 74.62068965517241,
-            "width": 86,
-            "text": "Number of {{9}} increases",
-            "lineCount": 1
-          },
-          {
-            "x": 7,
-            "y": 86.34482758620689,
-            "width": 86,
-            "text": "More young woodpeckers are born",
-            "lineCount": 1
-          }
+      "title": "How forest fires benefit red-cockaded woodpecker populations",
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "Calcium stored in {{6}}",
+          "Burnt by fire",
+          "Calcium released into the {{7}}",
+          "Calcium travels up into longleaf pine",
+          "Calcium enters bodies of {{8}} living in longleaf pine",
+          "Eaten by woodpeckers",
+          "Number of {{9}} increases",
+          "More young woodpeckers are born"
         ],
-        "sourceLayoutChecked": true,
-        "sourcePage": 4,
-        "layoutVersion": 2,
-        "lineHeight": 30,
-        "inputWidth": 180,
-        "image": {
-          "x": 0,
-          "y": 0,
-          "width": 100,
-          "height": 100
-        }
-      },
-      "title": "How forest fires benefit red-cockaded woodpecker populations"
+        "arrow": "assets/flow-arrow-forgotten-forests-source.png"
+      }
     },
     {
       "type": "tfng",
@@ -306,7 +249,8 @@
       "ocrCorrections": true,
       "diagramLayout": true,
       "date": "2026-10-18",
-      "notes": "Both scanned PDF variants checked page by page; text and 8-step flow-chart manually compared with source images."
+      "notes": "Rechecked all five original pages. Corrected linear flow-chart type and CBT instructions; restored source bullet headings without invented bold. Eight stages, seven original raster arrows and four inline gaps.",
+      "flowChartLayout": true
     }
   },
   "cover": {

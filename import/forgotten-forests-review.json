@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-18",
+  "lessonId": "p1-forgotten-forests",
+  "sourceId": "1js_oi60gzAhCJt3o3kLy0z4zz9Tj_1av",
+  "sourceSHA256": "3daf8738cfe697232bd37b95b0a97aabf43dbe75d00a545622792deaf150e699",
+  "reviewedPages": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "paragraphs": 11,
+  "questionNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "tasks": [
+    "notes",
+    "flow-chart",
+    "tfng"
+  ],
+  "corrections": [
+    "Source note heading bullets restored; bold only for title, not heading rows",
+    "Diagram misclassification replaced with linear flow-chart and correct CBT instructions",
+    "Removed redraw SVG; HTML stage boxes with original raster arrow extracted from source page four",
+    "Eight source stages; four inline numbered text inputs, seven downward arrows"
+  ],
+  "arrow": {
+    "asset": "assets/flow-arrow-forgotten-forests-source.png",
+    "sourcePage": 4,
+    "clipPoints": [
+      411.3333333333333,
+      368.6666666666667,
+      439.3333333333333,
+      398.0
+    ],
+    "sha256": "91cffc87d8f6589df2d4fd6c843489473139fbbb27fc489cdddd638cf82b4b9b"
+  },
+  "browserVisualQA": false
+}

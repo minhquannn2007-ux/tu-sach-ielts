@@ -38,6 +38,10 @@ function explain(n){return window.IELTSExam.explain(n)}
   if(g.type==='short-answer'){
    for(const q of g.questions){const r=element('div','me-sentence short-question');r.id='q'+q.n;r.innerHTML='<span class="me-text">'+esc(q.prompt)+'</span>'+inputMarkup(q.n);r.append(button(q.n));section.append(r)}return section;
   }
+  if(g.type==='flow-chart'&&g.flow.layout==='linear'){
+   if(g.title)section.append(element('h3','flow-chart-title',g.title));const chart=element('div','flow-chart flow-chart-linear');
+   g.flow.steps.forEach((text,i)=>{if(i){const connector=element('div','flow-chart-linear-arrow'),arrow=element('img');arrow.src=g.flow.arrow;arrow.alt='';connector.setAttribute('aria-hidden','true');connector.append(arrow);chart.append(connector)}const box=element('div','flow-chart-box');box.innerHTML=textSlots(text,g);chart.append(box)});section.append(chart);g.questions.forEach(q=>section.append(button(q.n)));return section;
+  }
   if(g.type==='flow-chart'){
    if(g.title)section.append(element('h3','flow-chart-title',g.title));const viewport=element('div','flow-chart-viewport');viewport.tabIndex=0;viewport.setAttribute('role','region');viewport.setAttribute('aria-label','Flow-chart — scroll horizontally if needed');const chart=element('div','flow-chart');const node=(text,cls='')=>{const box=element('div','flow-chart-box '+cls);box.innerHTML=textSlots(text,g);return box};chart.append(node(g.flow.start,'flow-chart-start'));
    const branches=element('div','flow-chart-branches'+(g.flow.arrows?.baseDirection==='down'?' flow-chart-shared-down':''));branches.innerHTML=g.flow.arrows?'<img class="flow-arrow-left" src="'+esc(g.flow.arrows.left)+'" alt=""><img class="flow-arrow-right" src="'+esc(g.flow.arrows.right)+'" alt="">':'<svg viewBox="0 0 550 32" preserveAspectRatio="none" aria-hidden="true"><path d="M220 3L142 26M330 3L408 26" fill="none" stroke="currentColor" stroke-width="3"/><path d="M144 15L142 26L153 26M397 26L408 26L406 15" fill="none" stroke="currentColor" stroke-width="3"/></svg>';chart.append(branches);

@@ -13,6 +13,7 @@ for(const c of catalog){
  assert(fs.existsSync(path.join(root,c.cover.asset)),'Missing cover '+c.id);
  for(const group of lesson.groups){
   if(group.diagram?.asset)assert(fs.existsSync(path.join(root,group.diagram.asset)),'Missing diagram '+c.id);
+  if(group.flow?.arrow)assert(fs.existsSync(path.join(root,group.flow.arrow)),'Missing linear flow arrow '+c.id);
   for(const arrow of Object.values(group.flow?.arrows||{}))if(typeof arrow==='string'&&arrow.startsWith('assets/'))assert(fs.existsSync(path.join(root,arrow)));
  }
 }
