@@ -772,3 +772,6 @@ html[data-exam-contrast="white-on-black"] body .nav-arrows:has(.nav-prev:disable
 html[data-exam-contrast="yellow-on-black"] body .nav-arrows .nav-btn.nav-prev{background:#666!important;color:#ff0!important}
 html[data-exam-contrast="yellow-on-black"] body .nav-arrows .nav-btn.nav-next{background:#ff0!important;color:#000!important}
 html[data-exam-dark] body .nav-arrows .nav-btn.nav-prev:disabled{background:#515151!important;color:#1b1b1b!important}
+/* Unanswered progress is visible and independent of the answered/current states. */
+html[data-exam-contrast="white-on-black"] body .bottom-bar .exam-part-progress span:not(.done){background:#3e3e3e!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-part-progress span:not(.done){background:#c1c1c1!important}

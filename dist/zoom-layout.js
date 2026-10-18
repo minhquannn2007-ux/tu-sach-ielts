@@ -54,7 +54,7 @@
  });
  // In the one-column view the document, rather than either pane, scrolls.
  // Existing answer/drag handlers and desktop split ratios remain unchanged.
- function scrollOnNarrow(el){if(window.innerWidth<600&&el)el.scrollIntoView({block:'center',behavior:'auto'});}
+ function scrollOnNarrow(el){if(window.innerWidth<600&&el)el.scrollIntoView({block:'center',behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});}
  function target(n){return document.querySelector('.mh-gap[data-q="'+n+'"]')||document.getElementById('q'+n)||document.getElementById('medrop'+n)||document.getElementById('mc-num-'+n)||document.getElementById('ync-num-'+n)||document.getElementById('tfng-num-'+n)||document.getElementById('qbox'+n)||document.getElementById('inp'+n)||document.getElementById('a'+n);}
  // Capture listeners also run on lessons whose footer listeners stop propagation.
  document.querySelectorAll('#bb-dots button,.tif-dot').forEach(dot=>dot.addEventListener('click',()=>{const n=Number(dot.dataset.examQ||dot.id.match(/\d+/)?.[0]||dot.textContent.match(/\d+/)?.[0]);queueMicrotask(()=>scrollOnNarrow(target(n)));},true));

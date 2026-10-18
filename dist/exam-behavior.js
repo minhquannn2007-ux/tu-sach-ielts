@@ -39,7 +39,7 @@ function navigate(n){
 
  // Scroll only the relevant pane; preserve the reader's location on the other side.
  const scroller=target.closest('.qpanel,.passage');
- if(scroller){const r=target.getBoundingClientRect(),v=scroller.getBoundingClientRect();if(r.top<v.top+8||r.bottom>v.bottom-70){const top=Math.max(0,scroller.scrollTop+r.top-v.top-24);scroller.scrollTo({top,behavior:'auto'})}}
+ if(scroller){const r=target.getBoundingClientRect(),v=scroller.getBoundingClientRect();if(r.top<v.top+8||r.bottom>v.bottom-70){const top=Math.max(0,scroller.scrollTop+r.top-v.top-24);scroller.scrollTo({top,behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}}
  const input=inputFor(n);if(input&&!input.disabled)input.focus({preventScroll:true});
  if(isChoice&&submitted)explain(n);
 }

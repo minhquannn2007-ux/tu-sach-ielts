@@ -159,7 +159,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
-<link rel="stylesheet" href="question-template.css?v=nav-contrast-v1">
+<link rel="stylesheet" href="question-template.css?v=nav-motion-v1">
 <style id="sample-diagram-geometry">
 .me-sentence{display:flex;align-items:baseline;flex-wrap:wrap;font-size:16px;color:#111;line-height:1.7;margin-bottom:22px;gap:6px}.me-text{flex-shrink:1}
 .short-question .choice-gap{flex-shrink:0;max-width:100%!important}
@@ -992,7 +992,10 @@ html[data-exam-contrast="white-on-black"] body .nav-arrows:has(.nav-prev:disable
 html[data-exam-contrast="yellow-on-black"] body .nav-arrows .nav-btn.nav-prev{background:#666!important;color:#ff0!important}
 html[data-exam-contrast="yellow-on-black"] body .nav-arrows .nav-btn.nav-next{background:#ff0!important;color:#000!important}
 html[data-exam-dark] body .nav-arrows .nav-btn.nav-prev:disabled{background:#515151!important;color:#1b1b1b!important}
-</style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=options-v3"><script src="exam-options.js?v=options-v3"></script></head>
+/* Unanswered progress is visible and independent of the answered/current states. */
+html[data-exam-contrast="white-on-black"] body .bottom-bar .exam-part-progress span:not(.done){background:#3e3e3e!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-part-progress span:not(.done){background:#c1c1c1!important}
+</style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=nav-motion-v1"><script src="exam-options.js?v=options-v3"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1088,7 +1091,7 @@ html[data-exam-dark] body .nav-arrows .nav-btn.nav-prev:disabled{background:#515
   const done=new Set();document.querySelectorAll('input[type=radio]:checked').forEach(i=>done.add(Number(i.name.slice(1))));document.querySelectorAll('input:not([type=radio]):not([type=checkbox])').forEach(i=>{if(i.value.trim())done.add(Number(i.name.slice(1)))});document.querySelectorAll('.sample-drop.filled').forEach(d=>done.add(Number(d.dataset.q)));document.querySelectorAll('#sample-two-container input:checked').forEach((o,i)=>done.add(4+i));
   document.querySelectorAll('[data-progress-q]').forEach(s=>s.classList.toggle('done',done.has(Number(s.dataset.progressQ))));document.querySelectorAll('#bb-dots button').forEach(b=>{b.classList.toggle('answered',done.has(Number(b.dataset.examQ)));b.classList.toggle('video-current',Number(b.dataset.examQ)===active)});document.querySelectorAll('.sample-drop').forEach(g=>g.classList.toggle('video-current',Number(g.dataset.q)===active));document.getElementById('nav-prev').disabled=active<=1;document.getElementById('nav-next').disabled=active>=23;
  }
- function navigate(n){sampleParagraphLabels(n===6||n===7?'#type-matching-info':'');if(n===5)n=4;active=n;const el=targetFor(n);el?.scrollIntoView({block:'center',behavior:'auto'});el?.querySelector('input')?.focus({preventScroll:true});if(el?.tagName==='INPUT')el.focus({preventScroll:true});updateFooter();}
+ function navigate(n){sampleParagraphLabels(n===6||n===7?'#type-matching-info':'');if(n===5)n=4;active=n;const el=targetFor(n);el?.scrollIntoView({block:'center',behavior:'smooth'});el?.querySelector('input')?.focus({preventScroll:true});if(el?.tagName==='INPUT')el.focus({preventScroll:true});updateFooter();}
  document.querySelectorAll('#bb-dots button').forEach(b=>b.addEventListener('click',()=>navigate(Number(b.dataset.examQ))));
  const navigationNumbers=[1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23];document.getElementById('nav-prev').onclick=()=>navigate(navigationNumbers[Math.max(0,navigationNumbers.indexOf(active)-1)]);document.getElementById('nav-next').onclick=()=>navigate(navigationNumbers[Math.min(navigationNumbers.length-1,navigationNumbers.indexOf(active)+1)]);
  document.getElementById('sample-type-select').onchange=e=>{sampleParagraphLabels(e.target.value);const section=document.querySelector(e.target.value);section?.scrollIntoView({block:'start'});if(e.target.value==='#type-matching-headings')document.querySelector('.mh-gap').scrollIntoView({block:'center'});};
@@ -1121,4 +1124,4 @@ html[data-exam-dark] body .nav-arrows .nav-btn.nav-prev:disabled{background:#515
  divider.addEventListener('pointerdown',e=>{if(window.innerWidth<=760)return;resizing=true;divider.setPointerCapture?.(e.pointerId);e.preventDefault()});divider.addEventListener('pointermove',e=>{if(!resizing)return;const r=main.getBoundingClientRect();const pct=Math.max(25,Math.min(75,(e.clientX-r.left)/r.width*100));passage.style.flex='0 0 '+pct+'%';panel.style.flex='1 1 0';});divider.addEventListener('pointerup',()=>resizing=false);divider.addEventListener('pointercancel',()=>resizing=false);
  updateFooter();
 })();
-</script><script src="zoom-layout.js?v=notes-icon-v325"></script><script src="question-template.js"></script><script src="exam-progress.js"></script></body></html>
+</script><script src="zoom-layout.js?v=nav-motion-v1"></script><script src="question-template.js"></script><script src="exam-progress.js"></script></body></html>

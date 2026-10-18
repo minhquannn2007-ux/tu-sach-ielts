@@ -88,3 +88,7 @@ html[data-exam-text-size] body .bottom-bar #bb-dots button[data-exam-questions*=
 @media(min-width:1251px){html[data-exam-text-size] body .bottom-bar .bb-active-part:has([data-exam-q="40"]){min-width:calc(626px * var(--exam-text-scale))!important}}
 
 .options-check svg{display:block;width:calc(20px * var(--options-scale));height:calc(20px * var(--options-scale));fill:none;stroke:currentColor;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter}
+
+/* Keep Test taker ID near the top; align the countdown's ink with the logo foot. */
+html[data-exam-text-size] body .top-nav .nav-taker-block{position:relative;height:100%}
+html[data-exam-text-size] body .top-nav .nav-timer{position:absolute;top:calc(24px * var(--exam-text-scale));line-height:1}
