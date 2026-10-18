@@ -865,8 +865,8 @@ html, body {
 </style>
 <link rel="stylesheet" href="../exam-behavior.css">
 <link rel="stylesheet" href="../zoom-layout.css">
-<link rel="stylesheet" href="../question-template.css?v=nav-motion-v1">
-<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=duration-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=options-v3"></script></head>
+<link rel="stylesheet" href="../question-template.css?v=active-v1">
+<link rel="stylesheet" href="../exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="../submit-review.css"><script src="../submit-review.js"></script><link rel="stylesheet" href="../exam-duration.css?v=duration-v1"><script src="../exam-duration.js?v=duration-v1"></script><link rel="stylesheet" href="../exam-options.css?v=nav-motion-v1"><script src="../exam-options.js?v=active-v1"></script><script src="../exam-question-focus.js?v=active-v1"></script></head>
 <body>
 
 <!-- TOP NAV -->
@@ -1462,7 +1462,7 @@ document.getElementById('note-save-btn').addEventListener('click',saveNote);
 document.getElementById('note-close-btn').addEventListener('click',()=>document.getElementById('note-panel').style.display='none');
 document.addEventListener('mousedown',function(e){if(!e.target.closest('#selection-popup,#context-menu,#note-panel')){document.getElementById('selection-popup').style.display='none';document.getElementById('context-menu').style.display='none';}});
 </script>
-<script src="../exam-behavior.js?v=nav-motion-v1"></script>
+<script src="../exam-behavior.js?v=active-v1"></script>
 <script src="../zoom-layout.js?v=nav-motion-v1"></script>
 <script src="../question-template.js"></script>
 <script src="../exam-progress.js"></script></body>

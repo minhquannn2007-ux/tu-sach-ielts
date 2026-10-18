@@ -3,7 +3,7 @@ const panel=document.getElementById('qpanel');
 const isChoice=!!document.getElementById('submit-choice');
 const startNumber=isChoice?(DATA.start||1):null;
 const nums=isChoice?Array.from({length:DATA.answers.length},(_,i)=>i+startNumber):ALL_Q;
-let current=nums[0],hovered=null;
+let current=nums[0];
 const paired=[];document.querySelectorAll('.tif-num,.order-number').forEach(e=>{const m=e.textContent.match(/(\d+)\s*[–−-]\s*(\d+)/);if(m)paired.push([Number(m[1]),Number(m[2]),e])});
 function representative(n){const pair=paired.find(([a,b])=>n>=a&&n<=b);return pair?pair[0]:n}
 const navigationNums=nums.filter(n=>representative(n)===n);
@@ -20,19 +20,20 @@ function questionNumber(el){
 }
 function dotNumber(el){const m=(el.id||'').match(/^dot(\d+)$/);if(m)return Number(m[1]);if(el.dataset.examQ)return Number(el.dataset.examQ);const t=el.textContent.match(/\d+/);return t?Number(t[0]):null}
 function targetFor(n){const heading=document.querySelector('.mh-gap[data-q="'+n+'"]');if(heading)return heading;const pair=paired.find(([a,b])=>n>=a&&n<=b);if(pair)return pair[2];return document.getElementById('q'+n)||document.getElementById('mc-num-'+n)||document.getElementById('ync-num-'+n)||document.getElementById('tfng-num-'+n)||document.getElementById('qbox'+n)||document.getElementById('inp'+n)||document.getElementById('a'+n)||document.getElementById('drop'+n)||document.getElementById('mhgap'+n)||document.getElementById('twoQ'+n)}
-function inputFor(n){return document.getElementById('inp'+n)||document.getElementById('a'+n)}
+function inputFor(n){return window.IELTSQuestionFocus?.input(n)||document.getElementById('inp'+n)||document.getElementById('a'+n)}
 const dots=[...document.querySelectorAll('#bb-dots button,.tif-dot')];
 if(isChoice)dots.forEach(b=>{b.classList.add('video-plain-dot');b.dataset.examQ=String(dotNumber(b)||Number(b.textContent.match(/\d+/)?.[0]))});
 function paint(){
- const shown=hovered??current;
+ const shown=current;
  dots.forEach(d=>{d.classList.toggle('video-current',dotNumber(d)===representative(current))});
  document.querySelectorAll('.mh-gap').forEach(g=>g.classList.toggle('video-current',Number(g.dataset.q)===shown));
  document.querySelectorAll('.choice-number,.mc-num,.ync-num,.tfng-num,.qnum').forEach(e=>e.classList.toggle('video-current',Number(e.textContent)===shown));
  document.querySelectorAll('.choice-current').forEach(e=>e.classList.remove('choice-current'));
+ window.IELTSQuestionFocus?.activate(current,{notify:false});
  const prev=document.getElementById('nav-prev'),next=document.getElementById('nav-next');const idx=navigationNums.indexOf(current);
  prev.disabled=idx<=0;next.disabled=!!document.querySelector('.exam-submit')?.disabled;next.style.visibility='visible';
 }
-function select(n){if(!nums.includes(n))return;n=representative(n);current=n;activeQ=n;hovered=null;paint()}
+function select(n){if(!nums.includes(n))return;n=representative(n);current=n;activeQ=n;paint()}
 function navigate(n){
  select(n);const target=targetFor(n);if(!target)return;
  const diagramScroll=target.closest('.perfume-diagram-scroll');if(diagramScroll){const r=target.getBoundingClientRect(),v=diagramScroll.getBoundingClientRect();if(r.left<v.left||r.right>v.right)diagramScroll.scrollLeft=Math.max(0,diagramScroll.scrollLeft+r.left-v.left-12);}
@@ -40,7 +41,7 @@ function navigate(n){
  // Scroll only the relevant pane; preserve the reader's location on the other side.
  const scroller=target.closest('.qpanel,.passage');
  if(scroller){const r=target.getBoundingClientRect(),v=scroller.getBoundingClientRect();if(r.top<v.top+8||r.bottom>v.bottom-70){const top=Math.max(0,scroller.scrollTop+r.top-v.top-24);scroller.scrollTo({top,behavior:window.matchMedia?.('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}}
- const input=inputFor(n);if(input&&!input.disabled)input.focus({preventScroll:true});
+ const input=inputFor(n);if(input&&!input.disabled)input.focus({preventScroll:true});window.IELTSQuestionFocus?.activate(current,{focus:true,notify:false});
  if(isChoice&&submitted)explain(n);
 }
 // Replace arrow listeners so there is one navigation step for each click.
@@ -49,11 +50,9 @@ dots.forEach(d=>d.addEventListener('click',e=>{e.stopImmediatePropagation();navi
 panel.addEventListener('focusin',e=>{const n=questionNumber(e.target);if(n)select(n)});
 panel.addEventListener('click',e=>{const n=questionNumber(e.target)||questionNumber(e.target.closest('.tif-opt'));if(n)select(n);queueMicrotask(paint)});
 panel.addEventListener('input',e=>{const n=questionNumber(e.target);if(n)select(n);queueMicrotask(paint)});
-document.querySelectorAll('.mh-gap').forEach(g=>{g.addEventListener('focus',()=>select(Number(g.dataset.q)));g.addEventListener('click',()=>select(Number(g.dataset.q)));g.addEventListener('mouseenter',()=>{hovered=Number(g.dataset.q);paint()});g.addEventListener('mouseleave',()=>{hovered=null;paint()})});
+document.querySelectorAll('.mh-gap,.sample-drop').forEach(g=>{g.addEventListener('focus',()=>select(Number(g.dataset.q)));g.addEventListener('click',()=>select(Number(g.dataset.q)))});
 panel.addEventListener('change',()=>queueMicrotask(()=>{refreshLimits();paint()}));
-const groups=[...panel.querySelectorAll('.choice-question,.mc-question,.ync-question,.tfng-question,.tif-question,.matching-question')];
-groups.forEach(group=>{group.addEventListener('mouseenter',()=>{const h=group.querySelector('.choice-number,.mc-num,.ync-num,.tfng-num,.tif-num,.qnum');const m=h?.textContent.match(/\d+/);if(m){hovered=Number(m[0]);paint()}});group.addEventListener('mouseleave',()=>{hovered=null;paint()})});
-panel.querySelectorAll('.ans-wrap input,.choice-gap').forEach(input=>{input.style.textAlign='left';input.addEventListener('mouseenter',()=>{hovered=questionNumber(input);paint()});input.addEventListener('mouseleave',()=>{hovered=null;paint()})});
+document.addEventListener('ielts-question-focus',e=>select(e.detail.n));
 function refreshLimits(){
  panel.querySelectorAll('.tif-options').forEach(g=>{const selected=g.querySelectorAll('.tif-opt.selected').length;g.querySelectorAll('.tif-opt').forEach(o=>{const disabled=selected>=2&&!o.classList.contains('selected');o.setAttribute('aria-disabled',String(disabled));o.style.opacity=disabled?'.38':'1';o.style.cursor=disabled?'default':'pointer';o.setAttribute('role','checkbox');o.setAttribute('aria-checked',String(o.classList.contains('selected')));o.tabIndex=disabled?-1:0})});
  panel.querySelectorAll('input[type=checkbox]').forEach(input=>{const peers=[...panel.querySelectorAll('input[type=checkbox]')].filter(p=>p.name===input.name);const range=input.closest('.tif-question,.two-question')?.querySelector('.order-number,.tif-num')?.textContent.match(/(\d+)\s*[–−-]\s*(\d+)/);const limit=range?Number(range[2])-Number(range[1])+1:2;input.disabled=peers.filter(p=>p.checked).length>=limit&&!input.checked;const li=input.closest('li');if(li)li.style.opacity=input.disabled?'.38':'1'});

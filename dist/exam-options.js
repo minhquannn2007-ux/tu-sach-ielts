@@ -1,13 +1,11 @@
 /* Exam-only display preferences, shared with Full Test frames. */
 (()=>{
- const key='ielts-exam-display-preferences',contrasts=['black-on-white','white-on-black','yellow-on-black'],sizes=['regular','large','extra-large'];
+ const contrasts=['black-on-white','white-on-black','yellow-on-black'],sizes=['regular','large','extra-large'];
  const embedded=parent!==window&&new URLSearchParams(location.search).get('full')==='1';
  const clean=value=>({contrast:contrasts.includes(value?.contrast)?value.contrast:contrasts[0],textSize:sizes.includes(value?.textSize)?value.textSize:sizes[0]});
- function read(){try{return clean(JSON.parse(localStorage.getItem(key)||'null'))}catch{return clean(null)}}
- let settings=clean(embedded&&parent.IELTSOptions?parent.IELTSOptions.settings:read()),screen=null,view='options',trigger=null,previousFocus=null,blocked=[],pointerOpen=false;
+ let settings=clean(embedded&&parent.IELTSOptions?parent.IELTSOptions.settings:null),screen=null,view='options',trigger=null,previousFocus=null,blocked=[],pointerOpen=false;
  function apply(next,{save=false,propagate=true}={}){
   settings=clean(next);const root=document.documentElement;root.dataset.examContrast=settings.contrast;root.dataset.examTextSize=settings.textSize;root.toggleAttribute('data-exam-dark',settings.contrast!==contrasts[0]);root.style.setProperty('--exam-text-scale',settings.textSize==='large'?'1.2':settings.textSize==='extra-large'?'1.4':'1');
-  if(save)try{localStorage.setItem(key,JSON.stringify(settings))}catch{}
   if(propagate)for(const frame of document.querySelectorAll('#full-frames iframe'))try{frame.contentWindow.IELTSOptions?.apply(settings,{propagate:false})}catch{}
   if(screen)paintChecks();window.dispatchEvent(new Event('resize'));
  }
@@ -41,7 +39,6 @@
   new MutationObserver(()=>{if(screen&&(document.querySelector('.full-summary')?.hidden===false||document.getElementById('full-summary')?.hidden===false||document.querySelector('.exam-submit')?.disabled))close()}).observe(document.body,{subtree:true,attributes:true,attributeFilter:['hidden','disabled']});
  }
  window.IELTSOptions={get settings(){return {...settings}},apply,open,close};apply(settings);
- window.addEventListener('storage',e=>{if(e.key===key)apply(read())});
  document.addEventListener('load',e=>{if(e.target.matches?.('#full-frames iframe'))try{e.target.contentWindow.IELTSOptions?.apply(settings,{propagate:false})}catch{}},true);
  if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
