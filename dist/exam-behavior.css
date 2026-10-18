@@ -52,7 +52,7 @@
 #selection-popup .sel-btn:hover{background:#e6e6e6}
 #selection-popup svg{stroke:#555!important}
 #selection-popup .sel-divider{background:#ddd!important}
-.hl{background:#8a4f7d!important;color:white}
+.hl{background:#7d4a5a!important;color:white}
 .exam-notes{display:none;position:fixed;right:0;top:0;bottom:0;width:260px;background:#e8e8e8;z-index:20000;font:14px Arial;overflow:auto}
 .exam-notes-head{height:48px;background:white;display:flex;justify-content:space-between;align-items:center;padding:0 12px;border-bottom:1px solid #ccc}
 .exam-notes-head button{border:0;background:transparent;font-size:20px;cursor:pointer;padding:8px}

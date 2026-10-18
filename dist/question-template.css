@@ -570,3 +570,7 @@ html body #qpanel :is(.radio-lbl,.mc-opt-lbl,.ync-opt-lbl,.tfng-opt-lbl) input[t
 html body #qpanel .choice-question label>input[type=radio]{width:13px;height:13px;flex:0 0 13px;accent-color:#0085ff;margin:calc((1.5em - 13px)/2) 0 0!important}
 html body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-lbl):has(input:checked){background:#bbd8f0!important}
 html body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-lbl){gap:6px;border-radius:2px}
+
+/* Start every reading pane pair at the screen centre; inline drag sizes override this. */
+@media(min-width:600px){html body .main>.passage,html body .main>.qpanel{box-sizing:border-box;flex:0 0 calc((100% - 2px)/2);width:auto}}
+html body .hl{background:#7d4a5a!important;color:#fff!important}
