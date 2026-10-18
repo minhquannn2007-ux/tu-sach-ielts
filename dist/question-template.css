@@ -650,3 +650,82 @@ html body #passage .passage-section>.passage-para{margin-top:0;margin-bottom:22p
  html body .main.pane-passage-collapsed>#qpanel{min-width:0}
  html body .main.pane-passage-collapsed>#qpanel>*{max-width:1210px}
 }
+/* Exam display preferences: rules shared by standalone pages and Full Test frames. */
+html[data-exam-dark] body :is(#passage,#qpanel),html[data-exam-dark] body :is(#passage,#qpanel) *{color:var(--exam-fg)!important}
+html[data-exam-dark] body #qpanel :is(.exam-group,.tfng-question,.ync-question,.mc-question,.tif-question,.choice-question,.choiceInteraction__choiceInteraction___QMm1T,.grid-outer,.grid-tbl,.grid-tbl th,.grid-tbl td,.import-table,.import-table td,.import-table th,.source-notes,.diagram-label,.diagram-glass-label,.diagram-fixed,.mh-bank,.me-endingbank,.dnd-wordbank,.sample-token,.sample-drop,.mh-gap,.me-drop,.dnd-drop){background:var(--exam-bg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body #qpanel :is(input:not([type=radio]):not([type=checkbox]),select,textarea){background:var(--exam-bg)!important;color:var(--exam-fg)!important;border-color:#888!important;caret-color:var(--exam-fg)}
+html[data-exam-dark] body #qpanel input::placeholder{color:var(--exam-fg)!important;opacity:1}
+html[data-exam-dark] body #qpanel :is(input,select,textarea):focus{border-color:var(--exam-focus)!important;outline-color:var(--exam-focus)!important}
+html[data-exam-dark] body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-lbl,.tif-opt):hover{background:#222!important}
+html[data-exam-dark] body #qpanel :is(.choice-question label,.ync-opt-lbl,.tfng-opt-lbl,.mc-opt-lbl):has(input:checked),html[data-exam-dark] body #qpanel .tif-opt.selected,html[data-exam-dark] body #qpanel .choice-correct{background:var(--exam-selected)!important}
+html[data-exam-dark] body #qpanel :is(.radio-circ,.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ){background:var(--exam-radio-bg)!important;border-color:#888!important}
+html[data-exam-dark] body #qpanel :is(.radio-lbl,.mc-opt-lbl,.ync-opt-lbl,.tfng-opt-lbl) input[type=radio]:checked ~ :is(.radio-circ,.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ){background:var(--exam-radio-bg)!important;border-color:var(--exam-accent)!important}
+html[data-exam-dark] body #qpanel :is(.radio-lbl,.mc-opt-lbl,.ync-opt-lbl,.tfng-opt-lbl) input[type=radio]:checked ~ :is(.radio-circ,.mc-radio-circ,.ync-radio-circ,.tfng-radio-circ)::after{background:var(--exam-accent)!important}
+html[data-exam-dark] body #qpanel input:is([type=radio],[type=checkbox]){accent-color:var(--exam-accent)}
+html[data-exam-dark] body #qpanel .choiceInteraction__choiceInteraction___QMm1T ul.vertical li label.text{background:var(--exam-bg)!important;color:var(--exam-fg)!important}
+html[data-exam-dark] body #qpanel .choiceInteraction__choiceInteraction___QMm1T ul.vertical li label.text::before{background:var(--exam-bg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body #qpanel .choiceInteraction__choiceInteraction___QMm1T ul.vertical li input[type=checkbox]:checked + label.text{background:var(--exam-selected)!important}
+html[data-exam-dark] body #qpanel .choiceInteraction__choiceInteraction___QMm1T ul.vertical li input[type=checkbox]:checked + label.text::before{background:var(--exam-accent)!important;border-color:var(--exam-accent)!important}
+html[data-exam-dark] body #qpanel .choiceInteraction__choiceInteraction___QMm1T ul.vertical li input[type=checkbox]:checked + label.text::after{border-color:var(--exam-bg)!important}
+html[data-exam-dark] body #qpanel :is(.ync-num,.tfng-num,.mc-num,.choice-number,.order-number,.mh-gap).video-current{border-color:var(--exam-focus)!important;outline-color:var(--exam-focus)!important}
+html[data-exam-dark] body :is(#passage,#qpanel) .hl,html[data-exam-dark] body :is(#passage,#qpanel) .hl *{color:#000!important}
+html[data-exam-dark] body :is(#passage,#qpanel) .hl{background:var(--exam-highlight)!important}
+html[data-exam-dark] body :is(#passage,#qpanel) [data-exam-note],html[data-exam-dark] body :is(#passage,#qpanel) [data-exam-note] *,html[data-exam-dark] body :is(#passage,#qpanel) .note-anchor{background:#3cffff!important;color:#000!important}
+html[data-exam-dark] body :is(#passage,#qpanel) ::selection{background:var(--exam-highlight);color:#000}
+html[data-exam-dark] body :is(.bottom-bar,.bottom-bar .bb-top-row,.bottom-bar .bb-part,.bottom-bar .bb-numbers-row,.bottom-bar .bb-inactive-view){background:var(--exam-footer)!important;color:var(--exam-fg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body .bottom-bar :is(.exam-part-label,.bb-inactive-label,.bb-inactive-progress,.footer__questionNo,.bb-q-num,.tif-dot-label,.video-plain-dot){color:var(--exam-fg)!important}
+html[data-exam-dark] body .bottom-bar :is(.exam-part-progress,.exam-part-progress span){background:#000!important}
+html[data-exam-dark] body .bottom-bar :is(.exam-part-progress span.done,.bb-part.exam-all-answered:not(.bb-active-part) .exam-part-progress){background:var(--exam-progress)!important}
+html[data-exam-dark] body .bottom-bar .exam-part-complete{color:var(--exam-progress)!important}
+html[data-exam-dark] body .bottom-bar :is(.video-current .bb-q-num,.video-current .tif-dot-label,.subQuestion:hover .bb-q-num,.tif-dot:hover .tif-dot-label),html[data-exam-dark] body .bottom-bar #bb-dots button.video-plain-dot:is(.video-current,:hover,:focus-visible){border-color:var(--exam-focus)!important;outline-color:var(--exam-focus)!important}
+html[data-exam-dark] body .bottom-bar .exam-submit{background:#101010!important;color:var(--exam-fg)!important}
+html[data-exam-dark] body .bottom-bar .exam-submit svg{color:inherit;stroke:currentColor}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-submit{background:#666!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar .exam-part-complete{color:#ff0!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:is(.answered,.video-current),html[data-exam-contrast="yellow-on-black"] body .bottom-bar :is(.answered .bb-q-num,.answered .tif-dot-label,.video-current .bb-q-num,.video-current .tif-dot-label){background:#808000!important;color:#000!important}
+html[data-exam-dark] body :is(#selection-popup,#context-menu){background:#000!important;color:var(--exam-fg)!important;border-color:#666!important}
+html[data-exam-dark] body :is(#selection-popup .sel-btn,#context-menu .annotation-delete),html[data-exam-dark] body :is(#selection-popup .sel-btn svg,#context-menu .annotation-delete svg){color:var(--exam-fg)!important;stroke:var(--exam-fg)!important}
+html[data-exam-dark] body :is(.exam-notes,#note-panel){background:var(--exam-note-panel)!important;color:var(--exam-fg)!important}
+html[data-exam-dark] body :is(.exam-notes-head,.exam-note-card){background:#000!important;color:var(--exam-fg)!important}
+html[data-exam-dark] body .exam-notes-head{box-shadow:0 2px 6px #aaa;border-color:#666}
+html[data-exam-dark] body :is(.exam-notes-head button,.exam-notes-empty,.exam-notes-empty p){color:var(--exam-fg)!important}
+html[data-exam-dark] body .exam-note-card textarea{background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-note-border)!important;outline:0!important}
+html[data-exam-dark] body .exam-note-card textarea::placeholder{color:var(--exam-fg)!important;opacity:1}
+html[data-exam-dark] body .exam-note-card .exam-note-actions button{color:var(--exam-note-delete)!important}
+html[data-exam-dark] body .exam-note-card.editing{background:#3cffff!important;color:#000!important}
+html[data-exam-dark] body .exam-note-card.editing :is(p,strong,em){color:#000!important}
+html[data-exam-dark] body .exam-note-card.editing textarea{background:#3cffff!important;color:#000!important;border-color:var(--exam-note-edit-border)!important;outline:0!important}
+html[data-exam-dark] body .exam-note-card.editing textarea::placeholder{color:#000!important}
+html[data-exam-dark] body .exam-note-card.editing .exam-note-actions button{color:#0000ff!important}
+html[data-exam-dark] body #note-panel textarea{background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-note-border)!important}
+html[data-exam-dark] body :is(.submission-review,.submission-review-stage,.submission-review-footer,.submission-review-part,#full-summary>div){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-line)!important}
+/* Keep toolbar/menu geometry fixed; enlarge the actual reading and question text. */
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body :is(.passage,.qpanel,.sec-hdr,.sec-inst,.tfng-stmt,.ync-stmt,.mc-stmt,.me-text,.summ-body,.summ-title,.choice-notes,.source-notes,.grid-tbl,.researchers,.res-name,.source-note-row,.choiceInteraction__choiceInteraction___QMm1T,.choiceInteraction__choiceInteraction___QMm1T label.text,.diagram-label,.diagram-fixed,.sample-token,.sample-drop,.part-box h2,.part-box p,.tfng-opt-lbl,.ync-opt-lbl,.mc-opt-lbl,.tif-opt,.tif-stmt,.tif-stem,.interaction-prompt,.interaction-prompt .text,.td-q,.q-text-inner,.grid-tbl th,.researchers-hdr,.res-ltr,.me-sentence,.me-ending,.mh-heading,.dnd-word,.sample-number,.sample-filled,.para-lbl){font-size:calc(16px * var(--exam-text-scale))!important;line-height:1.5}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #passage .passage-title{font-size:calc(20.8px * var(--exam-text-scale))!important}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #passage .passage-sub{font-size:calc(18px * var(--exam-text-scale))!important}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body .source-footnote{font-size:calc(14px * var(--exam-text-scale))!important}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #qpanel :is(.choice-gap,.ans-wrap input){font-size:calc(16px * var(--exam-text-scale))!important;height:calc(23px * var(--exam-text-scale))!important;line-height:calc(21px * var(--exam-text-scale))!important}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body :is(.tfng-num,.ync-num,.mc-num,.choice-number,.order-number,.qnum,.tif-num){font-size:calc(16px * var(--exam-text-scale))!important}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body .exam-note-card :is(p,textarea){font-size:calc(16px * var(--exam-text-scale))!important}
+/* Explicit IDs keep the sampled footer colours above the original footer rules. */
+html[data-exam-dark] body .bottom-bar #bb-dots button.video-plain-dot{color:var(--exam-fg)!important;background:transparent!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots button.video-plain-dot:is(.answered,.video-current){background:#808000!important;color:#000!important}
+html[data-exam-dark] body .nav-arrows .nav-btn:disabled{background:#666!important;color:var(--exam-fg)!important}
+html[data-exam-contrast="white-on-black"] body #divider .resize-btn{background:#000!important;color:#fff!important;border-color:#aaa!important}
+html[data-exam-contrast="yellow-on-black"] body #divider .resize-btn{background:#fff!important;color:#000!important;border-color:#aaa!important}
+html[data-exam-dark] body #divider .resize-btn .fa{color:inherit!important}
+html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar{width:14px;background:#000}
+html[data-exam-dark] body :is(.passage,.qpanel)::-webkit-scrollbar-thumb{background:#666}
+html[data-exam-text-size]:not([data-exam-text-size="regular"]) body #qpanel :is(.tfng-num,.ync-num,.mc-num,.choice-number,.order-number,.qnum,.tif-num){font-size:calc(16px * var(--exam-text-scale))!important}
+/* Complete all control variants, including the original HTML lessons. */
+html[data-exam-dark] body #qpanel :is(.flow-chart,.flow-chart-box,.flow-chart-title,.choice-notes,.note-comp-table,.summ-body,.summ-title,.dnd-summary-body,.order-number,.sample-number,.sample-filled,.tif-num,.me-num,.dnd-num,.gapOrderNumber){background:var(--exam-bg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body #qpanel .flow-chart :is(.flow-chart-linear-arrow img,.flow-arrow-left,.flow-arrow-right,.flow-chart-connector img){filter:invert(1)}
+html[data-exam-dark] body #qpanel .tif-opt .tif-cb{background:var(--exam-bg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body #qpanel .tif-opt.selected .tif-cb{background:var(--exam-accent)!important;border-color:var(--exam-accent)!important}
+html[data-exam-dark] body .sample-drag-ghost{background:var(--exam-bg)!important;color:var(--exam-fg)!important;border-color:var(--exam-line)!important}
+html[data-exam-dark] body .bottom-bar #bb-dots :is(.bb-q-num,.tif-dot-label){color:var(--exam-fg)!important}
+html[data-exam-contrast="yellow-on-black"] body .bottom-bar #bb-dots :is(.answered .bb-q-num,.answered .tif-dot-label,.video-current .bb-q-num,.video-current .tif-dot-label){background:#808000!important;color:#000!important}
+html[data-exam-dark] body #note-panel .note-header{background:#000!important;color:var(--exam-fg)!important}
+html[data-exam-dark] body #note-panel .note-close-btn{background:transparent!important;color:var(--exam-fg)!important}
+html[data-exam-dark] body #note-panel:focus-within,html[data-exam-dark] body #note-panel:focus-within textarea{background:#3cffff!important;color:#000!important;border-color:var(--exam-note-edit-border)!important}
+html[data-exam-dark] body #note-panel .note-save-btn{background:transparent!important;color:var(--exam-note-delete)!important}
