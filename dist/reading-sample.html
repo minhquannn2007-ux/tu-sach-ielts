@@ -805,7 +805,13 @@ html body .nav-btn.nav-prev,html body .nav-btn.nav-prev:hover:not(:disabled){bac
 html body .nav-btn.nav-next,html body .nav-btn.nav-next:hover:not(:disabled){background:#000!important}
 html body .nav-btn.nav-prev:disabled,html body .nav-btn.nav-next:disabled{background:#ddd!important;cursor:default}
 html body .nav-btn svg{stroke:#fff;fill:none;stroke-linecap:round;stroke-linejoin:round}
-</style><link rel="stylesheet" href="exam-progress.css"></head>
+
+/* Rounded question-number focus frame, measured from the 33 reference. */
+html body #qpanel :is(.ync-num,.tfng-num,.mc-num,.choice-number,.qnum){box-sizing:border-box;display:inline-flex;align-items:center;justify-content:center;min-width:29px;height:27px;padding:0 3px!important;border:2px solid transparent!important;border-radius:3px!important;outline:none!important;font:700 16px/23px Arial!important;flex-shrink:0}
+html body #qpanel :is(.ync-num,.tfng-num,.mc-num,.choice-number,.qnum).video-current{border-color:#3592df!important;outline:none!important}
+/* List letters: old 41px outer column becomes 32.8px (20% narrower). */
+html body #qpanel .res-ltr{box-sizing:border-box;width:32.8px;min-width:32.8px;flex:0 0 32.8px;padding:8px 0;display:flex;align-items:center;justify-content:center;text-align:center}
+</style><link rel="stylesheet" href="exam-progress.css"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script></head>
 <body>
 
 <!-- TOP NAV -->

@@ -1,0 +1,17 @@
+.submission-review{position:fixed;inset:48px 0 0;background:#fff;color:#000;z-index:100000;font:16px/1.5 Arial;display:flex;flex-direction:column}
+.submission-review-stage{height:193px;flex:none;border-bottom:1px solid #c4c4c4;box-sizing:border-box}
+.submission-review-row{width:min(808px,calc(100% - 48px));margin:32px auto 0;display:flex;align-items:center;justify-content:space-between;gap:24px}
+.submission-review-row p{margin:0}
+.submission-review-next{width:117px;height:42px;background:#000;color:#fff;border:0;border-radius:2px;font:16px Arial;display:flex;gap:18px;align-items:center;justify-content:center;cursor:pointer}
+.submission-review-next svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linejoin:round}
+.submission-review-arrows{position:absolute;right:31px;bottom:87px;display:flex;gap:3px}
+.submission-review-arrows .nav-btn{padding:0;border:0;display:flex;align-items:center;justify-content:center}
+.submission-review-arrows svg{width:28px;height:28px;stroke-width:4}
+.submission-review-footer{position:absolute;bottom:0;left:0;right:0;height:52px;display:flex;align-items:center;background:white}
+.submission-review-part{flex:1;min-width:0;display:flex;justify-content:center;align-items:center;gap:18px;color:#222}
+.submission-review-part span:last-child{color:#777}
+.submission-review-tick{width:77px;height:52px;flex:none;border:0;border-radius:0;background:#000;color:#fff;display:flex;align-items:center;justify-content:center;cursor:pointer}
+.submission-review-tick svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:4;stroke-linejoin:miter}
+body.submission-review-open>.main,body.submission-review-open>.part-box-wrap,body.submission-review-open>.bottom-bar,body.submission-review-open>.nav-arrows,body.submission-review-open>#full-frames{visibility:hidden!important}
+body.submission-review-open .full-clock{visibility:hidden}
+@media(max-width:600px){.submission-review-part{font-size:13px;gap:6px}.submission-review-row{width:calc(100% - 32px)}.submission-review-arrows{right:16px}.submission-review-tick{width:54px}}
