@@ -2,6 +2,15 @@ import importlib.util,json,pathlib,sys,tempfile,unittest
 ROOT=pathlib.Path(__file__).resolve().parents[2];sys.dont_write_bytecode=True
 spec=importlib.util.spec_from_file_location('converter_parser',ROOT/'scripts/parse-practice.py');m=importlib.util.module_from_spec(spec);spec.loader.exec_module(m)
 class ConverterTests(unittest.TestCase):
+ def test_labelled_section_preserves_internal_source_paragraphs(self):
+  import fitz
+  doc=fitz.open();page=doc.new_page();page.insert_text((40,60),'Section paragraph test',fontsize=18)
+  page.insert_textbox((40,100,550,160),'A  First source paragraph has several words and ends here.',fontsize=12)
+  page.insert_textbox((55,180,550,250),'Second source paragraph belongs to the same section and stays separate.',fontsize=12)
+  page.insert_textbox((40,280,550,350),'B  Another labelled section begins here and ends here.',fontsize=12)
+  page=doc.new_page();page.insert_textbox((40,60,550,600),'Questions 1-13\nComplete the notes below.\nChoose ONE WORD ONLY from the passage for each answer.\nWrite your answers in boxes 1-13 on your answer sheet.',fontsize=12)
+  _,paras,_,_,_=m.collect(doc,{'title':'Section paragraph test.pdf'})
+  self.assertEqual([p['label'] for p in paras],['A','B']);self.assertEqual(len(paras[0]['blocks']),2);self.assertEqual(' '.join(paras[0]['blocks']),paras[0]['text'])
  def test_blank_final_sheet_is_not_a_scanned_task(self):
   import fitz
   for label in ['','BLANK PAGE']:

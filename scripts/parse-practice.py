@@ -8,7 +8,7 @@ from pathlib import Path
 import fitz
 sys.dont_write_bytecode=True
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='3.23'
+VERSION='3.24'
 _spec=importlib.util.spec_from_file_location('source_notes',ROOT/'scripts/source-notes.py')
 notes_module=importlib.util.module_from_spec(_spec);_spec.loader.exec_module(notes_module)
 HEADER=re.compile(r'(?m)^[ \t]*Questions?[ \t]+(\d+)(?:[ \t]*(?:[–—-]|and|&)\s*(\d+))?[ \t]*[.:]?[ \t]*$')
@@ -300,7 +300,18 @@ def collect(doc,source):
  if len(markers)>1 and markers[0][1]=='A' and not joined[:markers[0].start()].strip():
   letters=[m[1] for m in markers]
   if letters!=[chr(65+i) for i in range(len(letters))]:raise Hold('paragraph-labels','Missing or repeated paragraph labels')
-  paras=[{'label':m[1],'text':clean(joined[m.end():markers[i+1].start() if i+1<len(markers) else len(joined)])} for i,m in enumerate(markers)]
+  paras=[]
+  for i,m in enumerate(markers):
+   raw=joined[m.end():markers[i+1].start() if i+1<len(markers) else len(joined)]
+   blocks=[]
+   for block in re.split(r'\n[ \t]*\n',raw):
+    t=clean(block)
+    if not t:continue
+    if blocks and (t[:1].islower() or not re.search(r'[.!?\u2019\u201d\'\"]$',blocks[-1])):blocks[-1]+=' '+t
+    else:blocks.append(t)
+   p={'label':m[1],'text':clean(raw)}
+   if len(blocks)>1 and ' '.join(blocks)==p['text']:p['blocks']=blocks
+   paras.append(p)
  else:
   paras=[]
   for p in passage:

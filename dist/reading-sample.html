@@ -843,6 +843,30 @@ html body.submission-review-open .submit-review-extra-icon{display:none!importan
 
 html body .exam-note-card .exam-note-delete-message{display:block;margin:20px 0 12px;font:16px/1.5 Arial}
 html body .exam-note-card:has(.exam-note-delete-message) .exam-note-actions{justify-content:flex-end;gap:32px;margin-top:0}
+
+/* Notes leave edit mode only on an outside pointer action; Enter remains a newline. */
+html body .exam-notes-list{height:calc(100% - 55px);overflow:auto;box-sizing:border-box}
+html body .exam-notes-list:has(>.exam-notes-empty){display:flex;align-items:center;justify-content:center}
+html body .exam-notes-empty{padding:20px 24px;text-align:center;font:22px/1.5 Arial;color:#111}
+html body .exam-notes-empty p{font:16px/1.5 Arial;margin-top:26px}
+html body .exam-note-card{background:#fff;color:#111}
+html body .exam-note-card .exam-note-actions button{color:#1744b4}
+html body .exam-note-card.editing{background:#1e46be;color:#fff}
+html body .exam-note-card.editing .exam-note-actions button{color:#fff}
+html body .nav-icons [aria-label="Notes"]{cursor:pointer;box-sizing:content-box;padding:15px 10px;margin:-15px -10px}
+html body .nav-icons [aria-label="Notes"]:hover{background:#dedede}
+html body .exam-part-complete{color:#358e14;margin-right:7px;font:700 23px/1 Arial}
+html body #passage>.passage-title{margin-bottom:16px}
+html body #passage.has-matching-headings>.passage-title,html body #passage:has(>.mh-gap-wrap)>.passage-title{margin-bottom:14px}
+html body #passage>.passage-title:has(+.passage-sub){margin-bottom:6px}
+html body #passage .mh-gap-wrap+.passage-para,html body #passage .mh-gap-wrap+.passage-section>.passage-para:first-child{margin-top:0!important}
+html body #passage .passage-section>.passage-para{margin-top:0;margin-bottom:22px}
+@media(min-width:600px){
+ html body .main.pane-passage-collapsed>#passage,html body .main.pane-questions-collapsed>#qpanel{padding:0!important;min-width:0!important;overflow:hidden!important;visibility:hidden}
+ html body .main.pane-questions-collapsed>#passage{min-width:0;padding-left:max(22px,calc((100% - 1000px)/2));padding-right:max(22px,calc((100% - 1000px)/2))}
+ html body .main.pane-passage-collapsed>#qpanel{min-width:0;padding-left:33px;padding-right:24px}
+ html body .main.pane-passage-collapsed>#qpanel>*{max-width:1210px}
+}
 </style><link rel="stylesheet" href="exam-progress.css"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script></head>
 <body>
 

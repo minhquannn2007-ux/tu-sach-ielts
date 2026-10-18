@@ -1,0 +1,1479 @@
+{
+  "sha256": "78a9dbb3f5b50577d0f2a5d43a8602e6f61dfd38636ac1912ef4884b0da615dd",
+  "method": "tesseract-layout-psm3",
+  "pages": [
+    {
+      "page": 1,
+      "text": "READING PASSAGE 1\n\nYou should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1\n\non pages 2 and 3.\n\nA watchful eye on bridges\n\nA Most road and rail bridges are only\ninspected visually. Every few months,\nengineers have to clamber over the\nstructure in an attempt to find\nproblems before the bridge shows\nobvious signs of damage.\nTechnologies developed at Los\nAlamos National Laboratory, New\nMexico, and Texas A&M University\nmay replace these surveys with\nmicrowave sensors that constantly\nmonitor the condition of bridges.\n\nB ‘The device uses microwaves to\nmeasure the distance between the\nsensor and the bridge, much like radar\ndoes,” says Albert Migliori, a Los\nAlamos physicist. ‘Any load on the\nbridge — such as traffic — induces\ndisplacements, which change that\ndistance as the bridge moves up and\ndown.’ By monitoring these\nmovements over several minutes, the\nresearchers can find out how the\nbridge resonates. Changes in its\nbehaviour can give an early warning of\ndamage.\n\nC The Interstate 40 bridge over the\nRio Grande river in Albuquerque\nprovided the researchers with a rare\nopportunity to test their ideas. Chuck\nFarrar, an engineer at Los Alamos,\nexplains: ‘The New Mexico authorities\ndecided to dismantle this bridge and\nreplace it. We were able to mount\ninstruments on it, test it under various\nload conditions and even inflict\ndamage just before it was demolished.’\nIn the 1960s and 1970s, 2,500 similar\n\ni\n\nbridges were built in the US. They have\ntwo steel girders supporting the load in\neach section. Highway experts know that\nthis design is ‘fracture critical’ because a\nfailure in either girder would cause the\n\nbridge to fail.\n\nD_ After setting up the microwave dish\non the ground below the bridge, the Los\nAlamos team installed conventional\naccelerometers at several points along the\nspan to measure its motion. They then\ntested the bridge while traffic roared\nacross it and while subjecting it to\npounding from a ‘shaker’, which\ndelivered precise punches to a specific\npoint on the road.\n\nE ‘We then introduced problems that\nwe hoped would simulate fatigue cracks\nthat can occur in steel girders,’ says\nFarrar. They first cut a slot about 60\ncentimetres long in the middle of one\ngirder. They then extended the cut until it\nreached the bottom of the girder and\nfinally they cut across the flange — the\nbottom of the girder’s ‘I’ shape.\n\nF The initial, crude analysis of the\nbridge’s behaviour, based on the\nfrequency at which the bridge resonates,\ndid not indicate that anything was wrong\nuntil the flange was damaged. But later\nthe data were re-analysed with algorithms\nthat took into account changes in the\nmode shapes of the structure — shapes that\nthe structure takes on when excited at a\nparticular frequency. These more\nsophisticated algorithms, which were\ndeveloped by Norris Stubbs at Texas\n",
+      "lines": [
+        {
+          "text": "READING PASSAGE 1",
+          "bbox": [
+            197,
+            144,
+            567,
+            172
+          ]
+        },
+        {
+          "text": "You should spend about 20 minutes on Questions 1-13, which are based on Reading Passage 1",
+          "bbox": [
+            197,
+            215,
+            1396,
+            245
+          ]
+        },
+        {
+          "text": "on pages 2 and 3.",
+          "bbox": [
+            195,
+            250,
+            422,
+            277
+          ]
+        },
+        {
+          "text": "A watchful eye on bridges",
+          "bbox": [
+            193,
+            375,
+            924,
+            443
+          ]
+        },
+        {
+          "text": "A Most road and rail bridges are only",
+          "bbox": [
+            191,
+            484,
+            664,
+            514
+          ]
+        },
+        {
+          "text": "inspected visually. Every few months,",
+          "bbox": [
+            191,
+            520,
+            665,
+            549
+          ]
+        },
+        {
+          "text": "engineers have to clamber over the",
+          "bbox": [
+            190,
+            554,
+            618,
+            581
+          ]
+        },
+        {
+          "text": "structure in an attempt to find",
+          "bbox": [
+            190,
+            588,
+            553,
+            618
+          ]
+        },
+        {
+          "text": "problems before the bridge shows",
+          "bbox": [
+            189,
+            624,
+            605,
+            652
+          ]
+        },
+        {
+          "text": "obvious signs of damage.",
+          "bbox": [
+            190,
+            659,
+            500,
+            688
+          ]
+        },
+        {
+          "text": "Technologies developed at Los",
+          "bbox": [
+            190,
+            694,
+            572,
+            723
+          ]
+        },
+        {
+          "text": "Alamos National Laboratory, New",
+          "bbox": [
+            189,
+            729,
+            616,
+            758
+          ]
+        },
+        {
+          "text": "Mexico, and Texas A&M University",
+          "bbox": [
+            189,
+            763,
+            642,
+            791
+          ]
+        },
+        {
+          "text": "may replace these surveys with",
+          "bbox": [
+            189,
+            800,
+            574,
+            829
+          ]
+        },
+        {
+          "text": "microwave sensors that constantly",
+          "bbox": [
+            189,
+            834,
+            611,
+            862
+          ]
+        },
+        {
+          "text": "monitor the condition of bridges.",
+          "bbox": [
+            189,
+            870,
+            593,
+            898
+          ]
+        },
+        {
+          "text": "B ‘The device uses microwaves to",
+          "bbox": [
+            189,
+            940,
+            634,
+            963
+          ]
+        },
+        {
+          "text": "measure the distance between the",
+          "bbox": [
+            187,
+            975,
+            601,
+            998
+          ]
+        },
+        {
+          "text": "sensor and the bridge, much like radar",
+          "bbox": [
+            188,
+            1009,
+            660,
+            1039
+          ]
+        },
+        {
+          "text": "does,” says Albert Migliori, a Los",
+          "bbox": [
+            187,
+            1045,
+            603,
+            1074
+          ]
+        },
+        {
+          "text": "Alamos physicist. ‘Any load on the",
+          "bbox": [
+            186,
+            1080,
+            632,
+            1109
+          ]
+        },
+        {
+          "text": "bridge — such as traffic — induces",
+          "bbox": [
+            186,
+            1115,
+            595,
+            1143
+          ]
+        },
+        {
+          "text": "displacements, which change that",
+          "bbox": [
+            186,
+            1150,
+            603,
+            1179
+          ]
+        },
+        {
+          "text": "distance as the bridge moves up and",
+          "bbox": [
+            186,
+            1185,
+            633,
+            1213
+          ]
+        },
+        {
+          "text": "down.’ By monitoring these",
+          "bbox": [
+            185,
+            1220,
+            542,
+            1249
+          ]
+        },
+        {
+          "text": "movements over several minutes, the",
+          "bbox": [
+            184,
+            1254,
+            646,
+            1281
+          ]
+        },
+        {
+          "text": "researchers can find out how the",
+          "bbox": [
+            184,
+            1290,
+            587,
+            1313
+          ]
+        },
+        {
+          "text": "bridge resonates. Changes in its",
+          "bbox": [
+            183,
+            1325,
+            587,
+            1354
+          ]
+        },
+        {
+          "text": "behaviour can give an early warning of",
+          "bbox": [
+            183,
+            1359,
+            674,
+            1388
+          ]
+        },
+        {
+          "text": "damage.",
+          "bbox": [
+            183,
+            1396,
+            286,
+            1424
+          ]
+        },
+        {
+          "text": "C The Interstate 40 bridge over the",
+          "bbox": [
+            183,
+            1465,
+            642,
+            1494
+          ]
+        },
+        {
+          "text": "Rio Grande river in Albuquerque",
+          "bbox": [
+            182,
+            1501,
+            596,
+            1531
+          ]
+        },
+        {
+          "text": "provided the researchers with a rare",
+          "bbox": [
+            181,
+            1537,
+            628,
+            1564
+          ]
+        },
+        {
+          "text": "opportunity to test their ideas. Chuck",
+          "bbox": [
+            182,
+            1573,
+            653,
+            1601
+          ]
+        },
+        {
+          "text": "Farrar, an engineer at Los Alamos,",
+          "bbox": [
+            182,
+            1608,
+            615,
+            1637
+          ]
+        },
+        {
+          "text": "explains: ‘The New Mexico authorities",
+          "bbox": [
+            182,
+            1644,
+            671,
+            1673
+          ]
+        },
+        {
+          "text": "decided to dismantle this bridge and",
+          "bbox": [
+            181,
+            1679,
+            634,
+            1707
+          ]
+        },
+        {
+          "text": "replace it. We were able to mount",
+          "bbox": [
+            180,
+            1715,
+            612,
+            1744
+          ]
+        },
+        {
+          "text": "instruments on it, test it under various",
+          "bbox": [
+            181,
+            1750,
+            654,
+            1777
+          ]
+        },
+        {
+          "text": "load conditions and even inflict",
+          "bbox": [
+            180,
+            1785,
+            576,
+            1809
+          ]
+        },
+        {
+          "text": "damage just before it was demolished.’",
+          "bbox": [
+            179,
+            1820,
+            669,
+            1851
+          ]
+        },
+        {
+          "text": "In the 1960s and 1970s, 2,500 similar",
+          "bbox": [
+            179,
+            1856,
+            661,
+            1883
+          ]
+        },
+        {
+          "text": "i",
+          "bbox": [
+            361,
+            2012,
+            403,
+            2054
+          ]
+        },
+        {
+          "text": "bridges were built in the US. They have",
+          "bbox": [
+            734,
+            486,
+            1217,
+            517
+          ]
+        },
+        {
+          "text": "two steel girders supporting the load in",
+          "bbox": [
+            734,
+            522,
+            1199,
+            553
+          ]
+        },
+        {
+          "text": "each section. Highway experts know that",
+          "bbox": [
+            734,
+            557,
+            1234,
+            587
+          ]
+        },
+        {
+          "text": "this design is ‘fracture critical’ because a",
+          "bbox": [
+            733,
+            592,
+            1224,
+            623
+          ]
+        },
+        {
+          "text": "failure in either girder would cause the",
+          "bbox": [
+            734,
+            627,
+            1195,
+            657
+          ]
+        },
+        {
+          "text": "bridge to fail.",
+          "bbox": [
+            734,
+            664,
+            895,
+            695
+          ]
+        },
+        {
+          "text": "D_ After setting up the microwave dish",
+          "bbox": [
+            735,
+            732,
+            1212,
+            762
+          ]
+        },
+        {
+          "text": "on the ground below the bridge, the Los",
+          "bbox": [
+            734,
+            767,
+            1211,
+            797
+          ]
+        },
+        {
+          "text": "Alamos team installed conventional",
+          "bbox": [
+            733,
+            802,
+            1160,
+            827
+          ]
+        },
+        {
+          "text": "accelerometers at several points along the",
+          "bbox": [
+            734,
+            836,
+            1232,
+            865
+          ]
+        },
+        {
+          "text": "span to measure its motion. They then",
+          "bbox": [
+            734,
+            871,
+            1195,
+            900
+          ]
+        },
+        {
+          "text": "tested the bridge while traffic roared",
+          "bbox": [
+            733,
+            907,
+            1166,
+            936
+          ]
+        },
+        {
+          "text": "across it and while subjecting it to",
+          "bbox": [
+            734,
+            941,
+            1138,
+            970
+          ]
+        },
+        {
+          "text": "pounding from a ‘shaker’, which",
+          "bbox": [
+            733,
+            972,
+            1123,
+            1009
+          ]
+        },
+        {
+          "text": "delivered precise punches to a specific",
+          "bbox": [
+            734,
+            1011,
+            1191,
+            1040
+          ]
+        },
+        {
+          "text": "point on the road.",
+          "bbox": [
+            734,
+            1046,
+            943,
+            1077
+          ]
+        },
+        {
+          "text": "E ‘We then introduced problems that",
+          "bbox": [
+            735,
+            1114,
+            1198,
+            1143
+          ]
+        },
+        {
+          "text": "we hoped would simulate fatigue cracks",
+          "bbox": [
+            734,
+            1150,
+            1214,
+            1178
+          ]
+        },
+        {
+          "text": "that can occur in steel girders,’ says",
+          "bbox": [
+            733,
+            1185,
+            1160,
+            1212
+          ]
+        },
+        {
+          "text": "Farrar. They first cut a slot about 60",
+          "bbox": [
+            734,
+            1219,
+            1172,
+            1247
+          ]
+        },
+        {
+          "text": "centimetres long in the middle of one",
+          "bbox": [
+            734,
+            1254,
+            1180,
+            1282
+          ]
+        },
+        {
+          "text": "girder. They then extended the cut until it",
+          "bbox": [
+            734,
+            1288,
+            1241,
+            1317
+          ]
+        },
+        {
+          "text": "reached the bottom of the girder and",
+          "bbox": [
+            734,
+            1323,
+            1170,
+            1352
+          ]
+        },
+        {
+          "text": "finally they cut across the flange — the",
+          "bbox": [
+            735,
+            1359,
+            1191,
+            1387
+          ]
+        },
+        {
+          "text": "bottom of the girder’s ‘I’ shape.",
+          "bbox": [
+            734,
+            1394,
+            1114,
+            1423
+          ]
+        },
+        {
+          "text": "F The initial, crude analysis of the",
+          "bbox": [
+            736,
+            1464,
+            1168,
+            1494
+          ]
+        },
+        {
+          "text": "bridge’s behaviour, based on the",
+          "bbox": [
+            734,
+            1500,
+            1124,
+            1528
+          ]
+        },
+        {
+          "text": "frequency at which the bridge resonates,",
+          "bbox": [
+            735,
+            1535,
+            1221,
+            1565
+          ]
+        },
+        {
+          "text": "did not indicate that anything was wrong",
+          "bbox": [
+            735,
+            1571,
+            1227,
+            1600
+          ]
+        },
+        {
+          "text": "until the flange was damaged. But later",
+          "bbox": [
+            735,
+            1606,
+            1217,
+            1636
+          ]
+        },
+        {
+          "text": "the data were re-analysed with algorithms",
+          "bbox": [
+            735,
+            1642,
+            1241,
+            1672
+          ]
+        },
+        {
+          "text": "that took into account changes in the",
+          "bbox": [
+            734,
+            1677,
+            1179,
+            1708
+          ]
+        },
+        {
+          "text": "mode shapes of the structure — shapes that",
+          "bbox": [
+            735,
+            1713,
+            1248,
+            1744
+          ]
+        },
+        {
+          "text": "the structure takes on when excited at a",
+          "bbox": [
+            735,
+            1749,
+            1214,
+            1774
+          ]
+        },
+        {
+          "text": "particular frequency. These more",
+          "bbox": [
+            735,
+            1784,
+            1146,
+            1815
+          ]
+        },
+        {
+          "text": "sophisticated algorithms, which were",
+          "bbox": [
+            737,
+            1820,
+            1189,
+            1849
+          ]
+        },
+        {
+          "text": "developed by Norris Stubbs at Texas",
+          "bbox": [
+            737,
+            1855,
+            1245,
+            1883
+          ]
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "text": "A&M University, successfully\nidentified and located the damage\ncaused by the initial cut.\n\nG ‘When any structure vibrates, the\nenergy is distributed throughout, with\nsome points not moving, while others\nvibrate strongly at various\nfrequencies,” says Stubbs. ‘My\nalgorithms use pattern recognition to\ndetect changes in the distribution of\nthis energy.” NASA already uses\nStubbs’ method to check the behaviour\nof the body flap that slows space\nshuttles down after they land.\n\nH Acommercial system based on\nthe Los Alamos hardware is now\navailable, complete with the Stubbs\nalgorithms, from the Quatro\nCorporation in Albuquerque for about\n$100,000.\n\n| Tim Darling, another Los Alamos\nphysicist working on the microwave\ninterferometer with Migliori, says that,\nas the electronics become cheaper, a\nmicrowave inspection system will\neventually be applied to most large\nbridges in the US. ‘In a decade I\nwould like to see a battery or solar-\npowered package mounted under each\nbridge, scanning it every day to detect\nchanges,’ he says.\n\nTurn over >\n",
+      "lines": [
+        {
+          "text": "A&M University, successfully",
+          "bbox": [
+            180,
+            229,
+            539,
+            257
+          ]
+        },
+        {
+          "text": "identified and located the damage",
+          "bbox": [
+            181,
+            263,
+            576,
+            291
+          ]
+        },
+        {
+          "text": "caused by the initial cut.",
+          "bbox": [
+            180,
+            297,
+            465,
+            325
+          ]
+        },
+        {
+          "text": "G ‘When any structure vibrates, the",
+          "bbox": [
+            181,
+            365,
+            620,
+            394
+          ]
+        },
+        {
+          "text": "energy is distributed throughout, with",
+          "bbox": [
+            181,
+            400,
+            622,
+            428
+          ]
+        },
+        {
+          "text": "some points not moving, while others",
+          "bbox": [
+            181,
+            434,
+            621,
+            463
+          ]
+        },
+        {
+          "text": "vibrate strongly at various",
+          "bbox": [
+            180,
+            467,
+            487,
+            496
+          ]
+        },
+        {
+          "text": "frequencies,” says Stubbs. ‘My",
+          "bbox": [
+            181,
+            502,
+            549,
+            532
+          ]
+        },
+        {
+          "text": "algorithms use pattern recognition to",
+          "bbox": [
+            182,
+            536,
+            611,
+            566
+          ]
+        },
+        {
+          "text": "detect changes in the distribution of",
+          "bbox": [
+            182,
+            569,
+            603,
+            598
+          ]
+        },
+        {
+          "text": "this energy.” NASA already uses",
+          "bbox": [
+            182,
+            604,
+            573,
+            633
+          ]
+        },
+        {
+          "text": "Stubbs’ method to check the behaviour",
+          "bbox": [
+            183,
+            638,
+            640,
+            662
+          ]
+        },
+        {
+          "text": "of the body flap that slows space",
+          "bbox": [
+            182,
+            673,
+            566,
+            701
+          ]
+        },
+        {
+          "text": "shuttles down after they land.",
+          "bbox": [
+            183,
+            707,
+            527,
+            734
+          ]
+        },
+        {
+          "text": "H Acommercial system based on",
+          "bbox": [
+            183,
+            775,
+            606,
+            803
+          ]
+        },
+        {
+          "text": "the Los Alamos hardware is now",
+          "bbox": [
+            182,
+            809,
+            571,
+            831
+          ]
+        },
+        {
+          "text": "available, complete with the Stubbs",
+          "bbox": [
+            182,
+            843,
+            602,
+            871
+          ]
+        },
+        {
+          "text": "algorithms, from the Quatro",
+          "bbox": [
+            182,
+            877,
+            513,
+            904
+          ]
+        },
+        {
+          "text": "Corporation in Albuquerque for about",
+          "bbox": [
+            182,
+            910,
+            632,
+            938
+          ]
+        },
+        {
+          "text": "$100,000.",
+          "bbox": [
+            182,
+            944,
+            298,
+            970
+          ]
+        },
+        {
+          "text": "| Tim Darling, another Los Alamos",
+          "bbox": [
+            182,
+            1009,
+            613,
+            1038
+          ]
+        },
+        {
+          "text": "physicist working on the microwave",
+          "bbox": [
+            181,
+            1044,
+            613,
+            1072
+          ]
+        },
+        {
+          "text": "interferometer with Migliori, says that,",
+          "bbox": [
+            181,
+            1077,
+            642,
+            1105
+          ]
+        },
+        {
+          "text": "as the electronics become cheaper, a",
+          "bbox": [
+            182,
+            1111,
+            614,
+            1138
+          ]
+        },
+        {
+          "text": "microwave inspection system will",
+          "bbox": [
+            181,
+            1144,
+            586,
+            1173
+          ]
+        },
+        {
+          "text": "eventually be applied to most large",
+          "bbox": [
+            182,
+            1178,
+            598,
+            1207
+          ]
+        },
+        {
+          "text": "bridges in the US. ‘In a decade I",
+          "bbox": [
+            181,
+            1212,
+            573,
+            1242
+          ]
+        },
+        {
+          "text": "would like to see a battery or solar-",
+          "bbox": [
+            181,
+            1247,
+            601,
+            1275
+          ]
+        },
+        {
+          "text": "powered package mounted under each",
+          "bbox": [
+            180,
+            1281,
+            637,
+            1312
+          ]
+        },
+        {
+          "text": "bridge, scanning it every day to detect",
+          "bbox": [
+            180,
+            1315,
+            635,
+            1345
+          ]
+        },
+        {
+          "text": "changes,’ he says.",
+          "bbox": [
+            181,
+            1351,
+            394,
+            1380
+          ]
+        },
+        {
+          "text": "Turn over >",
+          "bbox": [
+            1147,
+            1987,
+            1302,
+            2008
+          ]
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "text": "Questions 1- 4\n\nChoose the correct letter, A, B, C or D.\n\nWrite the correct letter in boxes 1-4 on your answer sheet.\n\n1 Currently the majority of bridges\n\nshow clear signs of damage on inspection.\nare not inspected for signs of damage.\n\nare regularly monitored by microwave sensors.\nare regularly checked for early signs of damage.\n\nook Bb\n\n2 The device developed by research scientists at Los Alamos\n\nhelps to induce displacement in bridges.\nmeasures the distance between two points.\nuses microwaves to estimate a load.\nmonitors the movement of traffic.\n\n0ON>Y\n\n3 What happened to the Interstate 40 bridge?\n\nA It collapsed because of a design fault.\nB It was deliberately damaged by researchers.\nc It had several faulty girders.\nD It was demolished by researchers.\n4 A basic analysis of the Interstate 40 bridge’s behaviour only detected the damage\ndone to\nA the mid-point of the girder.\nB the bottom half of the girder.\nCc the flange.\nD the road surface.\n",
+      "lines": [
+        {
+          "text": "Questions 1- 4",
+          "bbox": [
+            217,
+            197,
+            408,
+            220
+          ]
+        },
+        {
+          "text": "Choose the correct letter, A, B, C or D.",
+          "bbox": [
+            218,
+            260,
+            686,
+            287
+          ]
+        },
+        {
+          "text": "Write the correct letter in boxes 1-4 on your answer sheet.",
+          "bbox": [
+            219,
+            324,
+            912,
+            352
+          ]
+        },
+        {
+          "text": "1 Currently the majority of bridges",
+          "bbox": [
+            218,
+            387,
+            694,
+            414
+          ]
+        },
+        {
+          "text": "show clear signs of damage on inspection.",
+          "bbox": [
+            487,
+            450,
+            990,
+            479
+          ]
+        },
+        {
+          "text": "are not inspected for signs of damage.",
+          "bbox": [
+            487,
+            481,
+            943,
+            510
+          ]
+        },
+        {
+          "text": "are regularly monitored by microwave sensors.",
+          "bbox": [
+            487,
+            513,
+            1038,
+            542
+          ]
+        },
+        {
+          "text": "are regularly checked for early signs of damage.",
+          "bbox": [
+            487,
+            545,
+            1054,
+            575
+          ]
+        },
+        {
+          "text": "ook Bb",
+          "bbox": [
+            393,
+            451,
+            425,
+            566
+          ]
+        },
+        {
+          "text": "2 The device developed by research scientists at Los Alamos",
+          "bbox": [
+            219,
+            609,
+            1015,
+            636
+          ]
+        },
+        {
+          "text": "helps to induce displacement in bridges.",
+          "bbox": [
+            488,
+            673,
+            962,
+            702
+          ]
+        },
+        {
+          "text": "measures the distance between two points.",
+          "bbox": [
+            488,
+            706,
+            998,
+            734
+          ]
+        },
+        {
+          "text": "uses microwaves to estimate a load.",
+          "bbox": [
+            489,
+            737,
+            919,
+            761
+          ]
+        },
+        {
+          "text": "monitors the movement of traffic.",
+          "bbox": [
+            489,
+            769,
+            878,
+            792
+          ]
+        },
+        {
+          "text": "0ON>Y",
+          "bbox": [
+            397,
+            674,
+            417,
+            791
+          ]
+        },
+        {
+          "text": "3 What happened to the Interstate 40 bridge?",
+          "bbox": [
+            218,
+            833,
+            832,
+            861
+          ]
+        },
+        {
+          "text": "A It collapsed because of a design fault.",
+          "bbox": [
+            399,
+            897,
+            933,
+            923
+          ]
+        },
+        {
+          "text": "B It was deliberately damaged by researchers.",
+          "bbox": [
+            400,
+            928,
+            1007,
+            954
+          ]
+        },
+        {
+          "text": "c It had several faulty girders.",
+          "bbox": [
+            400,
+            959,
+            818,
+            986
+          ]
+        },
+        {
+          "text": "D It was demolished by researchers.",
+          "bbox": [
+            401,
+            991,
+            893,
+            1017
+          ]
+        },
+        {
+          "text": "4 A basic analysis of the Interstate 40 bridge’s behaviour only detected the damage",
+          "bbox": [
+            220,
+            1052,
+            1278,
+            1082
+          ]
+        },
+        {
+          "text": "done to",
+          "bbox": [
+            310,
+            1089,
+            400,
+            1110
+          ]
+        },
+        {
+          "text": "A the mid-point of the girder.",
+          "bbox": [
+            399,
+            1147,
+            801,
+            1173
+          ]
+        },
+        {
+          "text": "B the bottom half of the girder.",
+          "bbox": [
+            401,
+            1178,
+            823,
+            1204
+          ]
+        },
+        {
+          "text": "Cc the flange.",
+          "bbox": [
+            396,
+            1209,
+            612,
+            1244
+          ]
+        },
+        {
+          "text": "D the road surface.",
+          "bbox": [
+            401,
+            1241,
+            689,
+            1265
+          ]
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "text": "Questions 5-8\n\nLabel the diagram with the list of words, A-G, below.\n\nWrite the correct letter, A-G, in boxes 5-8 on your answer sheet.\n\nA shaker B span\nD punch E flange\nG microwave dish\n\nC girder\nF accelerometer\n\nQuestions 9 — 13\n\nReading Passage 1 has nine paragraphs, A-I.\n\nWhich paragraph contains the following information?\n\nWrite the correct letter, A-I, in boxes 9-13 on your answer sheet.\n\n9\n\n10\n\n11\n\n12\n\n13\n\nhow pressure was applied\n\nhow the damage was created\n\nreference to a wonderful chance for research\nthe situation ten years on\n\nhow the microwave sensor works\n\nTurn over >\n",
+      "lines": [
+        {
+          "text": "Questions 5-8",
+          "bbox": [
+            169,
+            190,
+            357,
+            214
+          ]
+        },
+        {
+          "text": "Label the diagram with the list of words, A-G, below.",
+          "bbox": [
+            168,
+            249,
+            796,
+            279
+          ]
+        },
+        {
+          "text": "Write the correct letter, A-G, in boxes 5-8 on your answer sheet.",
+          "bbox": [
+            169,
+            312,
+            942,
+            340
+          ]
+        },
+        {
+          "text": "A shaker B span",
+          "bbox": [
+            397,
+            944,
+            770,
+            969
+          ]
+        },
+        {
+          "text": "D punch E flange",
+          "bbox": [
+            398,
+            979,
+            785,
+            1005
+          ]
+        },
+        {
+          "text": "G microwave dish",
+          "bbox": [
+            398,
+            1014,
+            620,
+            1035
+          ]
+        },
+        {
+          "text": "C girder",
+          "bbox": [
+            847,
+            942,
+            953,
+            968
+          ]
+        },
+        {
+          "text": "F accelerometer",
+          "bbox": [
+            849,
+            976,
+            1056,
+            998
+          ]
+        },
+        {
+          "text": "Questions 9 — 13",
+          "bbox": [
+            169,
+            1145,
+            378,
+            1168
+          ]
+        },
+        {
+          "text": "Reading Passage 1 has nine paragraphs, A-I.",
+          "bbox": [
+            168,
+            1208,
+            724,
+            1234
+          ]
+        },
+        {
+          "text": "Which paragraph contains the following information?",
+          "bbox": [
+            166,
+            1270,
+            807,
+            1297
+          ]
+        },
+        {
+          "text": "Write the correct letter, A-I, in boxes 9-13 on your answer sheet.",
+          "bbox": [
+            169,
+            1333,
+            950,
+            1359
+          ]
+        },
+        {
+          "text": "9",
+          "bbox": [
+            167,
+            1398,
+            180,
+            1418
+          ]
+        },
+        {
+          "text": "10",
+          "bbox": [
+            167,
+            1461,
+            196,
+            1482
+          ]
+        },
+        {
+          "text": "11",
+          "bbox": [
+            167,
+            1524,
+            192,
+            1545
+          ]
+        },
+        {
+          "text": "12",
+          "bbox": [
+            167,
+            1588,
+            196,
+            1609
+          ]
+        },
+        {
+          "text": "13",
+          "bbox": [
+            167,
+            1651,
+            196,
+            1672
+          ]
+        },
+        {
+          "text": "how pressure was applied",
+          "bbox": [
+            259,
+            1396,
+            576,
+            1423
+          ]
+        },
+        {
+          "text": "how the damage was created",
+          "bbox": [
+            258,
+            1460,
+            617,
+            1487
+          ]
+        },
+        {
+          "text": "reference to a wonderful chance for research",
+          "bbox": [
+            258,
+            1523,
+            807,
+            1545
+          ]
+        },
+        {
+          "text": "the situation ten years on",
+          "bbox": [
+            257,
+            1588,
+            565,
+            1614
+          ]
+        },
+        {
+          "text": "how the microwave sensor works",
+          "bbox": [
+            259,
+            1651,
+            664,
+            1672
+          ]
+        },
+        {
+          "text": "Turn over >",
+          "bbox": [
+            1147,
+            1988,
+            1308,
+            2009
+          ]
+        }
+      ]
+    }
+  ]
+}

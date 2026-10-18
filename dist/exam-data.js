@@ -12,6 +12,7 @@
   if(d.footnotes!==undefined&&(!Array.isArray(d.footnotes)||d.footnotes.some(f=>typeof f!=='string'||!f.trim()||/\s+[*†‡]+\s*[A-Za-z]/.test(f))))errors.push('Each footnote must be a separate entry');
   if(d.subtitle!==undefined&&(typeof d.subtitle!=='string'||/[\r\n]/.test(d.subtitle)))errors.push('Subtitle must be a single paragraph without source line breaks');
   if(!Array.isArray(d.paragraphs)||d.paragraphs.some(p=>!p||typeof p.text!=='string'||!p.text.trim()))return [...errors,'Missing or empty passage paragraph'];
+  if(d.paragraphs.some(p=>p.blocks!==undefined&&(!Array.isArray(p.blocks)||p.blocks.length<2||p.blocks.some(t=>typeof t!=='string'||!t.trim())||p.blocks.join(' ')!==p.text)))errors.push('Invalid source paragraph blocks');
   const sourceParagraphCount=d.review?.sourceParagraphCount??d.conversion?.sourceParagraphCount;if(sourceParagraphCount!==undefined&&sourceParagraphCount!==d.paragraphs.length)errors.push('Passage paragraph count differs from source review');
   if(d.status!=='reviewed')errors.push('Lesson is awaiting review');
   if(!Array.isArray(d.groups)||!d.groups.length)return [...errors,'Missing questions'];
