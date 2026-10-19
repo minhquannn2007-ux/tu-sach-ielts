@@ -35,7 +35,9 @@ for x in selection:
   paras[3]['text']=paras[3]['text'].replace('Spring temperatures.','Spring comes to the bristlecone pines in early May with the melting of snow and rising temperatures.')
   foot=['* dendrochronology: the dating of past events, especially climatic changes, through study of tree ring growth','** chronologies: sequences of events'];fix+=['Restored missing spring sentence in D, unknown-age/known-sequences sentence in B, and Ferguson spelling','Restored both footnote markers and separate original definitions']
  elif id.startswith('p1-living-walls'):
-  nt,np,ch,st,ft=m.collect(doc,j['sources'][0]);assert len(np)==9;paras=np;title=nt;fix+=['Used original PDF paragraph text to correct Word punctuation and omissions; retained nine source paragraphs']
+  nt,np,ch,st,ft=m.collect(doc,j['sources'][0]);assert len(np)==9;paras=np;title=nt;
+  for para in paras:para['text']=para['text'].replace('living wails','living walls')
+  fix+=['Used original PDF paragraph text to correct Word punctuation and omissions; retained nine source paragraphs']
  elif id=='p1-carnivorous-plants':fix+=['Preserved all nine source paragraphs in original two-column reading order; note subheadings underlined, main headings bold']
  elif id=='p2-understanding-climate-change':fix+=['Retained nine source reading paragraphs and two separate summary paragraphs','Rebuilt two-column table with five source rows and Year header']
  elif id.startswith('p2-the-many-benefits'):fix+=['Matched plural mangroves title despite singular annotated original job name; seven source heading targets retained','Kept two Sato summary paragraphs']
