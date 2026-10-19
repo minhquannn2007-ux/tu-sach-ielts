@@ -1585,8 +1585,10 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Downloaded source differs from cached transcript hash and opens with zero pages; compare another source before conversion."
+    "status": "reviewed",
+    "lesson_id": "p1-keeping-healthy-at-work",
+    "mode": "practice",
+    "wordSourceId": "10gtvOagcTXO-hiFIH-wiYdv4itJRBYbg"
   },
   {
     "id": "p1-the-pyramid-of-cestius",
@@ -1717,8 +1719,10 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "lesson_id": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+    "mode": "practice",
+    "wordSourceId": "1Qyw1ffxjFTiYTIW9xUsrEE39CpKxODeW"
   },
   {
     "id": "p1-why-good-ideas-fail",
@@ -2533,11 +2537,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U"
-    ]
+    ],
+    "lesson_id": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+    "mode": "practice",
+    "wordSourceId": "1unEY-nVZ_0xJ_WBvhjFMKYVLC6gN8WNz"
   },
   {
     "id": "p1-solving-an-arctic-mystery",
@@ -3783,8 +3789,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Parallel note columns need source-specific layout review"
+    "status": "reviewed",
+    "lesson_id": "p1-stagecoaching-in-australia",
+    "mode": "practice",
+    "wordSourceId": "1XnUXpnZH74-69x7vFEGbwwv2W5Trw12p"
   },
   {
     "id": "p1-the-history-of-the-bar-code-chua-rep",
@@ -4843,8 +4851,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Question continuation has no preceding group"
+    "status": "reviewed",
+    "lesson_id": "p1-research-into-elephant-sleeping-habits",
+    "mode": "practice",
+    "wordSourceId": "18C6AuKC8tO2VvueYLGcNEW0_kHtu3VdX"
   },
   {
     "id": "p1-seaweed",
@@ -8207,11 +8217,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Cached PDF opens with zero pages; another source is required before OCR/content review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1SGeQRGcEtBBxHFyB8mHF3MVrFAw2rulK"
-    ]
+    ],
+    "lesson_id": "p2-orientation-of-birds",
+    "mode": "practice",
+    "wordSourceId": "1UXg3g370eaDpcRfVg60jyHW59tDIORUZ"
   },
   {
     "id": "p2-keeping-the-water-away",
@@ -9567,7 +9579,10 @@
     "flags": [
       "source-name-requires-comparison"
     ],
-    "status": "queued"
+    "status": "reviewed",
+    "lesson_id": "p2-redwoods",
+    "mode": "practice",
+    "wordSourceId": "1-DONvkPvBqKucd39HFNJ49mExX-pRBls"
   },
   {
     "id": "p2-lean-production-innovation-in-manufacturing-systems-e-g-rep-sai",
@@ -11271,11 +11286,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d"
-    ]
+    ],
+    "lesson_id": "p2-australian-parrots",
+    "mode": "practice",
+    "wordSourceId": "1lZT7XdYrPemz-WOMl2EJwf7J_BK-K82V"
   },
   {
     "id": "p2-the-constant-evolution-of-the-humble-tomato-chua-go",
@@ -14046,7 +14063,10 @@
     "flags": [
       "source-name-requires-comparison"
     ],
-    "status": "queued"
+    "status": "reviewed",
+    "lesson_id": "p3-blind-to-change",
+    "mode": "practice",
+    "wordSourceId": "1hjC5WfGT8whFHVqY_4LMWFL37GFV0mIl"
   },
   {
     "id": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages-chua-rep",

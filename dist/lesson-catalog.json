@@ -1083,6 +1083,25 @@
     }
   },
   {
+    "id": "p2-australian-parrots",
+    "title": "Australian parrots",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/birds-cover.jpg",
+      "alt": "Chim trong môi trường đô thị",
+      "credit": "Duyet Le",
+      "source": "https://unsplash.com/photos/a-bird-flying-in-the-sky-over-a-city-_Aq2JIpO1gk",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p1-australian-rock",
     "title": "Australian Rock",
     "part": 1,
@@ -1324,6 +1343,25 @@
       "alt": "Chim trong môi trường đô thị",
       "credit": "Duyet Le",
       "source": "https://unsplash.com/photos/a-bird-flying-in-the-sky-over-a-city-_Aq2JIpO1gk",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-blind-to-change",
+    "title": "Blind to Change",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Names",
+      "True / False / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -3891,6 +3929,24 @@
     }
   },
   {
+    "id": "p1-keeping-healthy-at-work",
+    "title": "Keeping Healthy at Work",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-concrete-cover.jpg",
+      "alt": "Kiến trúc bê tông",
+      "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+      "credit": "Jonas Gerlach",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p2-keeping-the-water-away",
     "title": "Keeping the water away",
     "part": 2,
@@ -5226,6 +5282,25 @@
     }
   },
   {
+    "id": "p2-orientation-of-birds",
+    "title": "Orientation of birds",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Summary Completion",
+      "Matching Information",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/birds-cover.jpg",
+      "alt": "Chim trong môi trường đô thị",
+      "credit": "Duyet Le",
+      "source": "https://unsplash.com/photos/a-bird-flying-in-the-sky-over-a-city-_Aq2JIpO1gk",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p1-otters",
     "title": "Otters",
     "part": 1,
@@ -5717,6 +5792,25 @@
     }
   },
   {
+    "id": "p2-redwoods",
+    "title": "Redwoods",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-trail-cover.jpg",
+      "alt": "Đường đi bộ trong rừng",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/photos/I-tGOPAq-1A",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p1-reef-life-on-the-yongala",
     "title": "Reef life on the Yongala",
     "part": 1,
@@ -5749,6 +5843,24 @@
       "alt": "Nấu ăn",
       "credit": "Esperanza Doronila",
       "source": "https://unsplash.com/photos/fe6Fbc3nDYo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-research-into-elephant-sleeping-habits",
+    "title": "Research into elephant sleeping habits",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/giraffe-cover.jpg",
+      "alt": "Hươu cao cổ ngoài tự nhiên",
+      "credit": "Mike Setchell",
+      "source": "https://unsplash.com/photos/giraffe-surrounded-by-brown-grass-pf97TYdQlWM",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -6367,6 +6479,24 @@
       "alt": "Kệ sách trong thư viện",
       "credit": "Daniel Forsman",
       "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-stagecoaching-in-australia",
+    "title": "Stagecoaching in Australia",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Table Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-horse-cover.jpg",
+      "alt": "Ngựa trên đồng cỏ",
+      "credit": "Shivansh Upadhyay",
+      "source": "https://unsplash.com/photos/RvVK2sg9NoU",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -7084,6 +7214,24 @@
     }
   },
   {
+    "id": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+    "title": "The Clipper Races: an era of competition between cargo ships",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-sail-cover.jpg",
+      "alt": "Thuyền buồm",
+      "credit": "Tim Gouw",
+      "source": "https://unsplash.com/photos/exxNNGUWOb0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p2-the-clustering-of-it-companies",
     "title": "The clustering of IT companies",
     "part": 2,
@@ -7287,6 +7435,24 @@
       "alt": "Mã lập trình",
       "credit": "Markus Spiske",
       "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+    "title": "The development of art appreciation in Melbourne, Australia",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ballet-cover.jpg",
+      "alt": "Ballet",
+      "credit": "Kazuo Ota",
+      "source": "https://unsplash.com/photos/ynDNHq842_s",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }

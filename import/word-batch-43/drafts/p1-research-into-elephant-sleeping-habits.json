@@ -1,0 +1,311 @@
+{
+  "id": "p1-research-into-elephant-sleeping-habits",
+  "part": 1,
+  "title": "Research into elephant sleeping habits",
+  "mode": "practice",
+  "status": "draft",
+  "paragraphs": [
+    {
+      "text": "The sleeping habits of large mammals are a controversial subject, says Paul Manger, a professor at the University of the Witwatersrand in Johannesburg, South Africa. Research suggests that in general, bigger mammals need less sleep. The pattern is strongest among plant-eaters. They may have evolved to need little sleep because their low-calorie diet forces them to spend more hours eating. The pattern is weaker when you include omnivores and carnivores - lions, for example, snooze up to nine hours a night."
+    },
+    {
+      "text": "An additional complicating factor is that most of the data on animal sleep comes from animals held in captivity. For example, elephants in zoos and circuses have been found to sleep up to six hours a night. But animals may sleep less in the wild. To better understand the relationship between size and sleep, scientists need data on animals living in the wild. Sleep patterns in humans can be analysed by asking them to sleep in laboratory conditions. Gathering sleep data on wild elephants is more challenging, but Manger and his team found a way to do it. They based their experiment on a simple observation by other researchers: elephants constantly move their trunks when they're awake. If its trunk is not moving, that's a sure sign that the animal is asleep."
+    },
+    {
+      "text": "Manger and his colleagues took a helicopter into Botswana's Chobe National Park and identified two elephants for their study. Each was a female, and the leader of her herd. They then tranquilized each elephant. Before the elephants regained consciousness, the researchers surgically implanted a tracker in the trunk of each one. They also gave the elephants GPS collars with built-in 3D accelerometers, which would reveal when the animals were lying down. The animals were then released and left to roam around for a month. After the experiment ended, the two elephants were tracked down once more and the equipment was removed."
+    },
+    {
+      "text": "They chose female leaders - matriarchs - for practical reasons, Manger explains. The site is near Botswana's borders with Namibia, Zambia and Zimbabwe, and male elephants here roam more widely than females. If their study subjects crossed into another country, the researchers would have to clear many bureaucratic hurdles to track the elephants down again."
+    },
+    {
+      "text": "When the researchers analysed the data collected over the month, they found some startling results. Supporting the theory about the amount of sleep required by big animals, the matriarchs hardly slept at all. The researchers counted any time when the trunk was still for five minutes as sleep, which, if anything, may have overestimated actual sleep time. On a typical night, the elephants got just two hours of sleep. Rather than being continuous, their sleep was divided up into a number of brief periods, mostly between 1:00 AM and 6:00 AM. The animals slept in a different location every night, as their herds roamed. And they did most of their resting on their feet. They would only lie down to sleep once every three or four days."
+    },
+    {
+      "text": "Each elephant also had two or three occasions where she skipped a night of sleep entirely. 'The nights without sleep really took us by surprise,' Manger says. At these times, the matriarchs seemed agitated; they were more active than usual and travelled greater distances (averaging 30 kilometres). They may have been leading their herds away from hunting lions or from male elephants harassing the herd for a mate. Or, researchers add, from humans illegally poaching the elephants for their tusks."
+    },
+    {
+      "text": "In the future, Manger hopes to study male elephants, or multiple animals within one herd. It's possible that their sleep patterns may not be the same as that of the matriarchs, he says. But given the similarities between the two elephants in the study, the researchers think they at least got a good snapshot of how an elephant matriarch sleeps - which is to say, less than any other mammal that's been studied."
+    },
+    {
+      "text": "There are some clues in elephant brains as to how they might pull this off. Manger says elephant brains have more specialized neurons driving wakefulness than other mammals do. One cluster of neurons in particular controls appetite as well as wakefulness. \"When you have more neurons driving your appetite, and you have a large body, these neurons will make you feel hungry, so you will stay awake to eat more to sustain your larger body,' Manger says. 'Only when you are full will these neurons stop driving hunger and arousal, and your body will be able to go to sleep.'"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 7 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Smaller mammals tend to sleep longer than larger ones."
+        },
+        {
+          "n": 2,
+          "prompt": "The diet of plant eaters strengthens their resistance to disease."
+        },
+        {
+          "n": 3,
+          "prompt": "More information has been collected on the sleeping habits of animals in the wild than on those in captivity."
+        },
+        {
+          "n": 4,
+          "prompt": "There has been some research on the behaviour of elephants kept in zoos and circuses."
+        },
+        {
+          "n": 5,
+          "prompt": "It was Manger's team who initially discovered the significance of elephants' trunk movements."
+        },
+        {
+          "n": 6,
+          "prompt": "In the future, Manger thinks research might show that other elephants' sleep patterns are different from those he has studied."
+        },
+        {
+          "n": 7,
+          "prompt": "Manger has worked together with neurologists to study elephant brains."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 8 – 13 Complete the notes below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answer in boxes 8-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "type": "notes",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "noteLayout": {
+        "title": "Research in Chobe National Park",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Manger's research",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1
+          },
+          {
+            "runs": [
+              {
+                "text": "Two female elephants were"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "identified"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "{{8}}"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "fitted with a {{9}} and a special collar"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "left to roam for a month"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Results",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1
+          },
+          {
+            "runs": [
+              {
+                "text": "The elephants"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "only slept for {{10}} per day on average"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "slept for several short {{11}} each night"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "did not sleep in the same {{12}}"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "did not usually {{13}} when they were sleeping"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "did not sleep at all some nights-possibly due to danger from lions, male elephants or humans"
+              }
+            ],
+            "indent": 3,
+            "spaceBefore": 0.25,
+            "marker": "–",
+            "hanging": 1.4,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true
+      },
+      "title": "Research in Chobe National Park",
+      "content": [
+        "Manger's research",
+        "Two female elephants were",
+        "identified",
+        "{{8}}",
+        "fitted with a {{9}} and a special collar",
+        "left to roam for a month",
+        "Results",
+        "The elephants",
+        "only slept for {{10}} per day on average",
+        "slept for several short {{11}} each night",
+        "did not sleep in the same {{12}}",
+        "did not usually {{13}} when they were sleeping",
+        "did not sleep at all some nights-possibly due to danger from lions, male elephants or humans"
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "sources": [
+    {
+      "id": "18C6AuKC8tO2VvueYLGcNEW0_kHtu3VdX",
+      "role": "word-transcription",
+      "sha256": "31da8e1add867a6da2259f31a8fa5eed9c402d5417b2c872f90cbc6e3254c67c"
+    },
+    {
+      "id": "1OcCzlFo4-cfoQOnJierjao31Xu0Udmvz",
+      "role": "original-pdf",
+      "sha256": "7c0311de6bdd0ce06bc9d0651a1c3b9e5793400bf4c21d44d9646d25d0943509"
+    }
+  ],
+  "conversion": {
+    "version": "3.25-word",
+    "jobId": "p1-research-into-elephant-sleeping-habits",
+    "method": "word-with-original-pdf-review",
+    "requiresReview": true,
+    "sourceParagraphCount": 8,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "footnotes": true,
+      "date": "2026-10-19"
+    }
+  },
+  "subtitle": "They say an elephant never forgets. But it would be more accurate to say that an elephant never sleeps – or, hardly ever. Recent research carried out in Botswana suggests that they may be the most wakeful mammals in the world.",
+  "cover": {
+    "asset": "assets/giraffe-cover.jpg",
+    "alt": "Hươu cao cổ ngoài tự nhiên",
+    "credit": "Mike Setchell",
+    "source": "https://unsplash.com/photos/giraffe-surrounded-by-brown-grass-pf97TYdQlWM",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}
