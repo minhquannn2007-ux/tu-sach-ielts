@@ -8,18 +8,23 @@ async function choose(label){await page.locator('[data-exam-options]').click();a
 
 
 const palette=[['Black on white','rgb(65, 142, 200)'],['White on black','rgb(189, 112, 57)'],['Yellow on black','rgb(0, 255, 255)']];
+async function emptyBorder(g,contrast,accent){
+ const fg=contrast==='Black on white'?'rgb(0, 0, 0)':contrast==='White on black'?'rgb(255, 255, 255)':'rgb(255, 255, 0)';
+ const active=await g.evaluate(e=>e.classList.contains('exam-question-active'));
+ assert.equal(await g.evaluate(e=>getComputedStyle(e).borderTopColor),active?accent:fg,'only current empty gap is accented: '+contrast);
+}
 async function states(scope=page){
  const headings=scope.locator('.mh-heading:not(.used)'),gap=scope.locator('.mh-gap:not(.filled)').first();
  for(const [contrast,accent] of palette){
  await choose(contrast);await page.mouse.move(1900,1);
- for(const g of await scope.locator('.mh-gap:not(.filled)').all())assert.equal(await g.evaluate(e=>getComputedStyle(e).borderTopColor),'rgb(65, 142, 200)','idle '+contrast);
+ for(const g of await scope.locator('.mh-gap:not(.filled)').all())await emptyBorder(g,contrast,accent);
  const h=headings.nth(0),other=headings.nth(1);await h.click();await other.hover();
  for(const token of [h,other]){assert.equal(await token.evaluate(e=>getComputedStyle(e).borderTopColor),accent,'hover/focus '+contrast);assert.equal(await token.evaluate(e=>getComputedStyle(e).outlineStyle),'none')}
  if(contrast==='Yellow on black')assert.equal(await other.evaluate(e=>getComputedStyle(e).backgroundColor),'rgb(41, 41, 41)');
  const all=await headings.evaluateAll(es=>es.filter(e=>e.matches(':hover,:focus')).length);assert(all<=2);assert(all===2);
  await h.scrollIntoViewIfNeeded();const a=await h.boundingBox();await page.mouse.move(a.x+a.width/2,a.y+a.height/2);await page.mouse.down();await page.mouse.move(a.x+a.width/2+12,a.y+a.height/2,{steps:3});
  assert.equal(await scope.locator('body').evaluate(e=>e.classList.contains('exam-heading-dragging')),true);
- for(const g of await scope.locator('.mh-gap:not(.filled)').all()){assert.equal(await g.evaluate(e=>getComputedStyle(e).borderTopColor),accent,'all drag targets '+contrast);assert.equal(await g.evaluate(e=>getComputedStyle(e).borderTopStyle),'dashed')}
+ for(const g of await scope.locator('.mh-gap:not(.filled)').all()){await emptyBorder(g,contrast,accent);assert.equal(await g.evaluate(e=>getComputedStyle(e).borderTopStyle),'dashed')}
  await gap.scrollIntoViewIfNeeded();const targetId=await gap.getAttribute('data-q');const placedGap=scope.locator('.mh-gap[data-q="'+targetId+'"]');const b=await gap.boundingBox();await page.mouse.move(b.x+b.width/2,b.y+b.height/2,{steps:12});await page.mouse.up();
  assert(await placedGap.evaluate(e=>e.classList.contains('filled')));assert.equal(await placedGap.evaluate(e=>getComputedStyle(e).borderTopColor),accent,'placed '+contrast);assert.equal(await placedGap.evaluate(e=>getComputedStyle(e).borderTopStyle),'solid');
  const placed=scope.locator('.mh-gap.filled').first();await placed.scrollIntoViewIfNeeded();const c=await placed.boundingBox();await page.mouse.move(c.x+c.width/2,c.y+c.height/2);await page.mouse.down();await page.mouse.move(c.x+c.width/2+12,c.y+c.height/2,{steps:3});const bank=scope.locator('.mh-bank');await bank.scrollIntoViewIfNeeded();const d=await bank.boundingBox();await page.mouse.move(d.x+d.width/2,d.y+d.height/2,{steps:12});await page.mouse.up();assert.equal(await scope.locator('.mh-gap.filled').count(),0);

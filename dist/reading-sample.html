@@ -1012,21 +1012,24 @@ html[data-exam-dark] body #qpanel :is(table,thead,tbody,tfoot,tr,th,td,.import-t
 html[data-exam-dark] body #qpanel :is(#choice-result,#choice-explanation,.legacy-submit-result,#camouflage-result){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
 html[data-exam-dark] body #qpanel :is(.exam-question-explain,.explain){background:#000!important;color:var(--exam-fg)!important;border-color:var(--exam-fg)!important}
 
-/* Matching heading reference states: idle, drag availability, hover/focus and placed. */
+/* Drag-answer borders follow one current question; filled answers keep their border. */
 html{--heading-state-border:#418ec8;--heading-state-hover:#eef6fa}
 html[data-exam-contrast="white-on-black"]{--heading-state-border:#bd7039;--heading-state-hover:#000}
 html[data-exam-contrast="yellow-on-black"]{--heading-state-border:#00ffff;--heading-state-hover:#292929}
-html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap:not(.filled){border:2px dashed #418ec8!important;outline:none!important;box-shadow:none!important}
-html[data-exam-contrast] body.exam-heading-dragging :is(#passage,#qpanel) .mh-gap.mh-gap:not(.filled){border:1px dashed var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap:not(.filled){border:2px dashed var(--exam-fg,#111)!important;outline:none!important;box-shadow:none!important;transition:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap:not(.filled).exam-question-active{border-color:var(--heading-state-border)!important}
 html[data-exam-contrast] body :is(#passage,#qpanel) .mh-gap.mh-gap.filled{border:1px solid var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .mh-heading{outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .mh-heading:is(:hover,:focus){border-color:var(--heading-state-border)!important;background:var(--heading-state-hover)!important;outline:none!important;box-shadow:none!important}
 
-/* Summary drag gaps inherit heading states without changing their geometry. */
+/* Summary and sentence endings use the same active/filled state without resizing. */
 html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop{transition:none!important}
-html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop:not(.filled){border:1px dashed #418ec8!important;outline:none!important;box-shadow:none!important}
-html[data-exam-contrast] body.exam-summary-dragging :is(#passage,#qpanel) .dnd-drop.dnd-drop:not(.filled){border:1px dashed var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop:not(.filled){border:1px dashed var(--exam-fg,#111)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop:not(.filled).exam-question-active{border-color:var(--heading-state-border)!important}
 html[data-exam-contrast] body :is(#passage,#qpanel) .dnd-drop.dnd-drop.filled{border:1px solid var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .me-drop.me-drop:not(.filled){border-color:var(--exam-fg,#111)!important;outline:none!important;box-shadow:none!important;transition:none!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .me-drop.me-drop:not(.filled).exam-question-active{border-color:var(--heading-state-border)!important}
+html[data-exam-contrast] body :is(#passage,#qpanel) .me-drop.me-drop.filled{border:1px solid var(--heading-state-border)!important;outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .dnd-word{outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body #qpanel .dnd-word:is(:hover,:focus){border-color:var(--heading-state-border)!important;background:var(--heading-state-hover)!important;outline:none!important;box-shadow:none!important}
 html[data-exam-contrast] body :is(#passage,#qpanel) :is(.mh-gap.mh-gap,.dnd-drop.dnd-drop).drag-over{background:#333!important}
