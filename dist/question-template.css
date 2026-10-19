@@ -643,7 +643,10 @@ html body .exam-note-card.editing .exam-note-actions button{color:#fff}
 html body .nav-icons [aria-label="Notes"]{cursor:pointer;box-sizing:content-box;padding:15px 10px;margin:-15px -10px}
 html body .nav-icons [aria-label="Notes"]:hover{background:#dedede}
 html body .exam-part-complete{color:#358e14;margin-right:7px;font:700 23px/1 Arial}
-html body #passage>.passage-title{margin-bottom:16px}
+/* One spacing standard for every lesson, including Full Test frames. */
+html body #passage>.passage-title{margin-top:calc(24px * var(--exam-text-scale,1));margin-bottom:16px}
+html body #qpanel .exam-group{margin-bottom:72px}
+html body #qpanel>.sep{border:0;height:0;padding:0;margin:36px 0}
 html body #passage.has-matching-headings>.passage-title,html body #passage:has(>.mh-gap-wrap)>.passage-title{margin-bottom:14px}
 html body #passage>.passage-title:has(+.passage-sub){margin-bottom:6px}
 html body #passage .mh-gap-wrap+.passage-para,html body #passage .mh-gap-wrap+.passage-section>.passage-para:first-child{margin-top:0!important}

@@ -1,5 +1,5 @@
 /* Shared interactions use the canonical sample CSS. These rules govern layout only. */
-.exam-group{margin-bottom:34px}.exam-group .sec-hdr{margin-top:24px}.exam-group .sec-inst{margin-bottom:18px}
+.exam-group .sec-hdr{margin-top:24px}.exam-group .sec-inst{margin-bottom:18px}
 .import-table{border-collapse:collapse;width:100%;font:16px/1.5 Arial;margin:16px 0}
 .import-table th,.import-table td{border:1px solid #111;padding:12px;vertical-align:top;text-align:left}
 .import-table th{font-weight:700}.import-table p{margin:0 0 12px}

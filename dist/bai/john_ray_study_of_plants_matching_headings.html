@@ -841,36 +841,6 @@ html, body {
 }
 
 /* ── MATCHING HEADINGS — Inspera-style reference ─────────────── */
-.mh-help-wrap{
-  display:flex;
-  justify-content:flex-end;
-  align-items:center;
-  height:28px;
-  margin-top:33px;
-  margin-bottom:9px;
-}
-.mh-help{
-  display:inline-flex;
-  align-items:center;
-  gap:7px;
-  border:0;
-  background:#fff;
-  color:#2d5d6f;
-  font:16px/1 Arial,sans-serif;
-  cursor:pointer;
-  padding:2px 4px;
-}
-.mh-help svg{width:22px;height:22px;display:block;}
-
-.mh-help-panel{
-  display:none;position:fixed;z-index:9998;right:18px;top:74px;width:320px;
-  background:#fff;border:1px solid #bbb;border-radius:5px;
-  box-shadow:0 3px 12px rgba(0,0,0,.18);padding:12px 14px;
-  font:14px/1.45 Arial,sans-serif;color:#222;
-}
-.mh-help-panel strong{display:block;margin-bottom:6px;}
-.mh-close{float:right;border:0;background:transparent;font-size:16px;cursor:pointer;color:#555;}
-
 .mh-gap-wrap{
   width:534px;
   margin:0 0 6px 0;
@@ -1191,17 +1161,6 @@ html, body {
 
   <!-- PASSAGE -->
   <div class="passage" id="passage">
-    <div class="mh-help-wrap">
-      <button class="mh-help" id="mh-help-btn" type="button" title="Help">
-        <svg viewBox="0 0 24 24" fill="none" stroke="#2d5d6f" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
-          <rect x="3" y="4" width="18" height="13" rx="2"></rect>
-          <path d="M7 20h10"></path>
-          <path d="M8 8h1M11 8h1M14 8h1M17 8h1M7 11h2M10 11h2M13 11h2M16 11h1"></path>
-        </svg>
-        <span>Help</span>
-      </button>
-    </div>
-
     <div class="passage-title">John Ray and the Study of Plants</div>
 
     <div class="mh-gap-wrap"><div class="gapMatchInteraction__dropZone___laui2 gap active mh-gap" data-type="drop" data-identifier="Gap1" id="scorableItem-johnray_14_14" role="button" tabindex="0" data-q="14" style="width: 534px; height: 24px;"><span class="gapOrderNumber">14</span></div></div>
@@ -1631,7 +1590,7 @@ tick();setInterval(tick,1000);
 const HL_COLORS=['#8A4F7D'];const noteStore=new Map();let noteIdCounter=0,savedRange=null;
 function inAllowedArea(node){let el=node.nodeType===3?node.parentElement:node;while(el){if(el.id==='selection-popup'||el.id==='context-menu'||el.id==='note-panel')return false;if(el.classList&&(el.classList.contains('passage')||el.classList.contains('qpanel')))return true;el=el.parentElement;}return false;}
 function restoreSelection(){if(savedRange){const s=window.getSelection();s.removeAllRanges();s.addRange(savedRange);}}
-document.addEventListener('mouseup',function(e){const inP=e.target.closest('#selection-popup,#context-menu,#note-panel,.mh-help,.mh-gap,.mh-heading');if(inP)return;const sel=window.getSelection();if(!sel||sel.isCollapsed||sel.toString().trim()===''){handleClickOnMarkup(e);return;}const range=sel.getRangeAt(0);if(!inAllowedArea(range.commonAncestorContainer)){hideAllPopups();return;}savedRange=range.cloneRange();showSelectionPopup(e.clientX,e.clientY,range);});
+document.addEventListener('mouseup',function(e){const inP=e.target.closest('#selection-popup,#context-menu,#note-panel,.mh-gap,.mh-heading');if(inP)return;const sel=window.getSelection();if(!sel||sel.isCollapsed||sel.toString().trim()===''){handleClickOnMarkup(e);return;}const range=sel.getRangeAt(0);if(!inAllowedArea(range.commonAncestorContainer)){hideAllPopups();return;}savedRange=range.cloneRange();showSelectionPopup(e.clientX,e.clientY,range);});
 function showSelectionPopup(x,y,range){hideAllPopups();const p=document.getElementById('selection-popup');const frag=range.cloneContents();const hasHl=!!frag.querySelector('.hl');const hasNote=!!frag.querySelector('.note-anchor');document.getElementById('sel-clear-hl-btn').style.display=hasHl?'flex':'none';document.getElementById('sel-clear-all-btn').style.display=hasHl?'flex':'none';document.getElementById('sel-clear-note-btn').style.display=hasNote?'flex':'none';document.getElementById('sel-div-extra').style.display=(hasHl||hasNote)?'flex':'none';p.style.left=Math.min(x,window.innerWidth-260)+'px';p.style.top=Math.max(y-70,10)+'px';p.style.display='flex';}
 function applyHighlight(){restoreSelection();const sel=window.getSelection();if(!sel||sel.isCollapsed)return;const range=sel.getRangeAt(0);let maxLevel=-1;range.cloneContents().querySelectorAll('.hl').forEach(el=>{const l=parseInt(el.dataset.hlLevel??'-1');if(l>maxLevel)maxLevel=l;});const nxt=Math.min(maxLevel+1,HL_COLORS.length-1);try{const span=document.createElement('span');span.className='hl hl-active-part';span.dataset.hlLevel=nxt;span.style.backgroundColor=HL_COLORS[nxt];range.surroundContents(span);}catch(e){try{const ex=range.extractContents();const span=document.createElement('span');span.className='hl hl-active-part';span.dataset.hlLevel=nxt;span.style.backgroundColor=HL_COLORS[nxt];span.appendChild(ex);range.insertNode(span);}catch(e2){}}sel.removeAllRanges();hideAllPopups();}
 function openNotePanel(x,y){hideAllPopups();const p=document.getElementById('note-panel');p.style.left=Math.min(x,window.innerWidth-210)+'px';p.style.top=Math.min(y+10,window.innerHeight-180)+'px';p.style.display='block';p.dataset.editingNoteId='';document.getElementById('note-textarea').value='';document.getElementById('note-textarea').focus();}
@@ -1664,14 +1623,6 @@ document.getElementById('sel-clear-note-btn').addEventListener('click',()=>{rest
 document.getElementById('note-save-btn').addEventListener('click',saveNote);
 document.getElementById('note-close-btn').addEventListener('click',()=>document.getElementById('note-panel').style.display='none');
 document.addEventListener('mousedown',function(e){if(!e.target.closest('#selection-popup,#context-menu,#note-panel')){document.getElementById('selection-popup').style.display='none';document.getElementById('context-menu').style.display='none';}});
-
-// Matching Headings help
-const helpBtn=document.getElementById('mh-help-btn');
-const helpPanel=document.createElement('div');helpPanel.className='mh-help-panel';helpPanel.id='mh-help-panel';
-helpPanel.innerHTML='<button class="mh-close" id="mh-close">×</button><strong>Matching headings</strong><div>Drag a heading from the list into the numbered gap for the paragraph it matches. A heading can be used once. Drag a filled heading back to the list to remove it.</div>';
-document.body.appendChild(helpPanel);
-helpBtn.addEventListener('click',()=>{helpPanel.style.display=helpPanel.style.display==='block'?'none':'block';});
-document.getElementById('mh-close').addEventListener('click',()=>helpPanel.style.display='none');
 
 setActive(14);
 updateNav();
