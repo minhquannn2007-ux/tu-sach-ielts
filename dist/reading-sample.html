@@ -60,7 +60,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 .radio-lbl input[type=radio]:checked ~ .radio-circ{border-color:#1565c0;background:#1565c0;}
 .radio-lbl input[type=radio]:checked ~ .radio-circ::after{content:'';width:5px;height:5px;background:#fff;border-radius:50%;}
 /* ── SUMMARY COMPLETION (exact from trail_artist.html) ── */
-.summ-title{font-weight:700;font-size:16px;text-align:center;color:#000;margin-top:20px;margin-bottom:22px;}
+.summ-title{font-weight:700;font-size:18px;text-align:left;color:#000;margin-top:20px;margin-bottom:22px;}
 .summ-body{font-size:16px;line-height:1.5;color:#111;text-align:left;padding-right:8px;font-family:Arial,Helvetica,sans-serif;}
 .ans-wrap{display:inline-block;position:relative;vertical-align:middle;margin:0 1px;}
 .ans-wrap label{display:inline;}
@@ -253,7 +253,7 @@ html body .radio-lbl input[type=radio]{display:none;}
 html body .radio-circ{width:14px;height:14px;border:1.5px solid #999;border-radius:50%;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all .12s;background:#fff;}
 html body .radio-lbl input[type=radio]:checked ~ .radio-circ{border-color:#1565c0;background:#1565c0;}
 html body .radio-lbl input[type=radio]:checked ~ .radio-circ::after{content:'';width:5px;height:5px;background:#fff;border-radius:50%;}
-html body .summ-title{font-weight:700;font-size:16px;text-align:center;color:#000;margin-top:20px;margin-bottom:22px;}
+html body .summ-title{font-weight:700;font-size:18px;text-align:left;color:#000;margin-top:20px;margin-bottom:22px;}
 html body .summ-body{font-size:16px;line-height:1.5;color:#111;text-align:left;padding-right:8px;font-family:Arial,Helvetica,sans-serif;}
 html body .ans-wrap{display:inline-block;position:relative;vertical-align:middle;margin:0 1px;}
 html body .ans-wrap label{display:inline;}
@@ -528,7 +528,7 @@ html body .dnd-word-label{display: none;}
 /* NOTE COMPLETION */
 html body .choice-notes{padding-left:25px}
 html body .choice-notes li{margin:20px 0;line-height:1.8}
-html body #qpanel .choice-notes-title{text-align:center;font-size:18px;font-weight:700;line-height:1.5;margin:18px 0 14px}
+html body #qpanel .choice-notes-title{text-align:left;font-size:18px;font-weight:700;line-height:1.5;margin:18px 0 14px}
 html body #qpanel .choice-notes{padding-left:40px;margin:0}
 html body #qpanel .choice-notes li{margin:0 0 17px;padding-left:3px;line-height:1.6}
 html body #qpanel .choice-notes .choice-current{outline:none}
@@ -863,6 +863,8 @@ html body .exam-note-card.editing .exam-note-actions button{color:#fff}
 html body .nav-icons [aria-label="Notes"]{cursor:pointer;box-sizing:content-box;padding:15px 10px;margin:-15px -10px}
 html body .nav-icons [aria-label="Notes"]:hover{background:#dedede}
 html body .exam-part-complete{color:#358e14;margin-right:7px;font:700 23px/1 Arial}
+/* Every passage/task title is left aligned, including legacy and measured diagrams. */
+html body :is(#passage,#qpanel) :is(.passage-title,.passage-section-title,.summ-title,.choice-notes-title,.flow-chart-title,.diagram-title,.perfume-diagram-title,.mh-bank-title,.researchers-hdr,.sec-hdr,.summ-sec-hdr,.diagram-label[role="heading"]){text-align:left!important}
 /* One spacing standard for every lesson, including Full Test frames. */
 html body #passage>.passage-title{margin-top:calc(24px * var(--exam-text-scale,1));margin-bottom:16px}
 html body #qpanel .exam-group{margin-bottom:72px}
@@ -977,7 +979,7 @@ html[data-exam-text-size] body .exam-note-card :is(p,textarea),html[data-exam-te
 html[data-exam-text-size] body .exam-note-card textarea{height:47px;min-height:47px}
 html[data-exam-text-size] body .exam-note-card{padding-top:calc(20px * var(--exam-text-scale));padding-bottom:calc(20px * var(--exam-text-scale))}
 html[data-exam-text-size] body :is(.sample-drag-ghost,.dnd-summary-body,.me-num,.dnd-num,.gapOrderNumber,.gapFilledText,.mh-heading-text,.passage-section-title,.import-table){font-size:calc(16px * var(--exam-text-scale))!important}
-html[data-exam-text-size] body #qpanel .choice-notes-title,html[data-exam-text-size] body .reviewed-diagram-figure>.diagram-title{font-size:calc(18px * var(--exam-text-scale))!important}
+html[data-exam-text-size] body #qpanel :is(.choice-notes-title,.summ-title),html[data-exam-text-size] body .reviewed-diagram-figure>.diagram-title{font-size:calc(18px * var(--exam-text-scale))!important}
 html[data-exam-text-size] body .mh-gap:not(.filled){width:calc(534px * var(--exam-text-scale))!important;height:calc(24px * var(--exam-text-scale))!important;min-height:calc(24px * var(--exam-text-scale))!important;line-height:calc(24px * var(--exam-text-scale))!important}
 html[data-exam-text-size] body .mh-gap.filled{min-height:calc(24px * var(--exam-text-scale))!important}
 html[data-exam-text-size] body .mh-heading{min-height:calc(24px * var(--exam-text-scale))!important;line-height:calc(20px * var(--exam-text-scale))!important}
