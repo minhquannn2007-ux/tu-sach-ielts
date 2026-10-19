@@ -1,0 +1,1351 @@
+[
+  {
+    "job": {
+      "id": "p1-walking-for-life",
+      "part": 1,
+      "title": "Walking for Life",
+      "sources": [
+        {
+          "id": "1DRqz801oUhmTnLXlD0fiFLafo16DefDn",
+          "title": "Walking for Life.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1DRqz801oUhmTnLXlD0fiFLafo16DefDn/view?usp=drivesdk",
+          "size": "281286"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+    },
+    "words": [
+      {
+        "id": "1we8Jywc6CXWi7nmMA6hFrcDiKBp_gFSc",
+        "title": "Walking for Life.docx",
+        "url": "https://docs.google.com/document/d/1we8Jywc6CXWi7nmMA6hFrcDiKBp_gFSc/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-why-good-ideas-fail",
+      "part": 1,
+      "title": "Why good ideas fail",
+      "sources": [
+        {
+          "id": "1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1vSQ-pfzmob3V3q-hojcWdLsuqJaj-DOa/view?usp=drivesdk",
+          "size": "1975596"
+        },
+        {
+          "id": "11wINcTVhOSAliK8PNjNRn_nYiU4BeUwd",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/11wINcTVhOSAliK8PNjNRn_nYiU4BeUwd/view?usp=drivesdk",
+          "size": "1429985"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1H4bp9q5P7m8cbx0Nx__X3J-pJLhf_b0_",
+        "title": "Why good ideas fail.docx",
+        "url": "https://docs.google.com/document/d/1H4bp9q5P7m8cbx0Nx__X3J-pJLhf_b0_/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-the-future-of-news-coming-from-a-fun-circle",
+      "part": 1,
+      "title": "The future of news – coming from a fun circle",
+      "sources": [
+        {
+          "id": "10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ",
+          "title": "The future of news – coming from a fun circle.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ/view?usp=drivesdk",
+          "size": "207940"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Expected one control per source gap [1, 2, 3, 4, 5, 6, 7], found [1, 2, 3, 4, 5, 6]"
+    },
+    "words": [
+      {
+        "id": "1-U1ht6pyXdAnEQtk6O1idXYvlk6uWePT",
+        "title": "The future of news – coming from a fun circle.docx",
+        "url": "https://docs.google.com/document/d/1-U1ht6pyXdAnEQtk6O1idXYvlk6uWePT/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-research-into-elephant-sleeping-habits",
+      "part": 1,
+      "title": "Research into elephant sleeping habits",
+      "sources": [
+        {
+          "id": "1OcCzlFo4-cfoQOnJierjao31Xu0Udmvz",
+          "title": "Research into elephant sleeping habits.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1OcCzlFo4-cfoQOnJierjao31Xu0Udmvz/view?usp=drivesdk",
+          "size": "155447"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Question continuation has no preceding group"
+    },
+    "words": [
+      {
+        "id": "18C6AuKC8tO2VvueYLGcNEW0_kHtu3VdX",
+        "title": "Research into elephant sleeping habits.docx",
+        "url": "https://docs.google.com/document/d/18C6AuKC8tO2VvueYLGcNEW0_kHtu3VdX/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-orientation-of-birds",
+      "part": 2,
+      "title": "Orientation of birds",
+      "sources": [
+        {
+          "id": "1iODWef0n86JhbTHM_LAmh8G_-aQTwvAa",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1iODWef0n86JhbTHM_LAmh8G_-aQTwvAa/view?usp=drivesdk",
+          "size": "3671072"
+        },
+        {
+          "id": "1SGeQRGcEtBBxHFyB8mHF3MVrFAw2rulK",
+          "title": "PAPER ASIA 2019",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1SGeQRGcEtBBxHFyB8mHF3MVrFAw2rulK/view?usp=drivesdk",
+          "size": "3051286"
+        },
+        {
+          "id": "1mnZOJmUAkCK6Zozmtd6aiTD4kMJy2FK9",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1mnZOJmUAkCK6Zozmtd6aiTD4kMJy2FK9/view?usp=drivesdk",
+          "size": "937416"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Cached PDF opens with zero pages; another source is required before OCR/content review.",
+      "preparedSourceIds": [
+        "1SGeQRGcEtBBxHFyB8mHF3MVrFAw2rulK"
+      ]
+    },
+    "words": [
+      {
+        "id": "1UXg3g370eaDpcRfVg60jyHW59tDIORUZ",
+        "title": "Orientation of birds.docx",
+        "url": "https://docs.google.com/document/d/1UXg3g370eaDpcRfVg60jyHW59tDIORUZ/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-dolphins-and-language-learning",
+      "part": 2,
+      "title": "Dolphins and Language Learning",
+      "sources": [
+        {
+          "id": "141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa",
+          "title": "Dolphins and Language Learning.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa/view?usp=drivesdk",
+          "size": "233260"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C']"
+    },
+    "words": [
+      {
+        "id": "1JyjtzTasB65GRdGIqC6-w4X8qDOdGr-T",
+        "title": "Dolphins and Language Learning.docx",
+        "url": "https://docs.google.com/document/d/1JyjtzTasB65GRdGIqC6-w4X8qDOdGr-T/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-a-study-of-introvert-and-extrovert-characters",
+      "part": 2,
+      "title": "A study of introvert and extrovert characters",
+      "sources": [
+        {
+          "id": "1a4aamHx9D5sVQgxFA4nL8gkXp_77Ho_Q",
+          "title": "A study of introvert and extrovert characters.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1a4aamHx9D5sVQgxFA4nL8gkXp_77Ho_Q/view?usp=drivesdk",
+          "size": "192836"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or unordered numbered prompts"
+    },
+    "words": [
+      {
+        "id": "1rsQAIL5edwrzhsLo4A0aV5fFHkgqw4tv",
+        "title": "A study of introvert and extrovert characters.docx",
+        "url": "https://docs.google.com/document/d/1rsQAIL5edwrzhsLo4A0aV5fFHkgqw4tv/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-science-and-knowledge",
+      "part": 3,
+      "title": "Science and knowledge",
+      "sources": [
+        {
+          "id": "1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI/view?usp=drivesdk",
+          "size": "213837"
+        },
+        {
+          "id": "1GB538sFZHh_K0D6AoRX7Jr3AFSqSIVvY",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1GB538sFZHh_K0D6AoRX7Jr3AFSqSIVvY/view?usp=drivesdk",
+          "size": "22919"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'H', 'I', 'J', 'K']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+    },
+    "words": [
+      {
+        "id": "1LK9LoFRPJqtn3tMwHjUagLnOd6tkbA-w",
+        "title": "Science and knowledge.docx",
+        "url": "https://docs.google.com/document/d/1LK9LoFRPJqtn3tMwHjUagLnOd6tkbA-w/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-the-digital-revolution-in-studying-history",
+      "part": 3,
+      "title": "The Digital Revolution in Studying History",
+      "sources": [
+        {
+          "id": "1kwIrvTPuX49uFr5kQ2_UxNIMGdRE5YrJ",
+          "title": "The Digital Revolution in Studying History.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1kwIrvTPuX49uFr5kQ2_UxNIMGdRE5YrJ/view?usp=drivesdk",
+          "size": "244964"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['C', 'E', 'F', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+    },
+    "words": [
+      {
+        "id": "1AKJQcKuE2Fz3cUoDdJ66IasCDNNHQTYb",
+        "title": "The Digital Revolution in Studying History.docx",
+        "url": "https://docs.google.com/document/d/1AKJQcKuE2Fz3cUoDdJ66IasCDNNHQTYb/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+      "part": 3,
+      "title": "A review of Leon Holbrook's book 'We Should Live In Cities'",
+      "sources": [
+        {
+          "id": "1yOyUTMs6OmW3b8sB9inMZeiXclH6HEWa",
+          "title": "A review of Leon Holbrook's book 'We Should Live In Cities'.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1yOyUTMs6OmW3b8sB9inMZeiXclH6HEWa/view?usp=drivesdk",
+          "size": "249496"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+    },
+    "words": [
+      {
+        "id": "1qWz-_Z7JHgU1_E3DLANWoB3rg1X4OkCY",
+        "title": "A review of Leon Holbrook's book 'We Should Live In Cities'.docx",
+        "url": "https://docs.google.com/document/d/1qWz-_Z7JHgU1_E3DLANWoB3rg1X4OkCY/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-what-is-history",
+      "part": 3,
+      "title": "What is history?",
+      "sources": [
+        {
+          "id": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN/view?usp=drivesdk",
+          "size": "5774363"
+        },
+        {
+          "id": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88/view?usp=drivesdk",
+          "size": "5298550"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88"
+      ]
+    },
+    "words": [
+      {
+        "id": "1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg",
+        "title": "What is history.docx",
+        "url": "https://docs.google.com/document/d/1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-rating-female-leaders",
+      "part": 3,
+      "title": "Rating Female Leaders",
+      "sources": [
+        {
+          "id": "1tTv5UypJ0EP-dmBbYaDvnT5mET4eESOA",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1tTv5UypJ0EP-dmBbYaDvnT5mET4eESOA/view?usp=drivesdk",
+          "size": "4345861"
+        },
+        {
+          "id": "1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX/view?usp=drivesdk",
+          "size": "1079229"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX"
+      ]
+    },
+    "words": [
+      {
+        "id": "1r3gzEUslq0niXt1AN8UXQLJGkCwblsse",
+        "title": "Rating Female Leaders.docx",
+        "url": "https://docs.google.com/document/d/1r3gzEUslq0niXt1AN8UXQLJGkCwblsse/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-reef-life-on-the-yongala",
+      "part": 1,
+      "title": "Reef life on the Yongala",
+      "sources": [
+        {
+          "id": "1HmoU5-7m85RN9UTGb7DKa4g--3bMll11",
+          "title": "Reef life on the Yongala.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1HmoU5-7m85RN9UTGb7DKa4g--3bMll11/view?usp=drivesdk",
+          "size": "1832938"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review"
+    },
+    "words": [
+      {
+        "id": "1QXy3LwhYLroiWxa47ygrDd9Di83dwWPi",
+        "title": "Reef life on the Yongala.docx",
+        "url": "https://docs.google.com/document/d/1QXy3LwhYLroiWxa47ygrDd9Di83dwWPi/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-the-new-zealand-national-archives",
+      "part": 1,
+      "title": "The New Zealand National Archives",
+      "sources": [
+        {
+          "id": "1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu/view?usp=drivesdk",
+          "size": "502386"
+        },
+        {
+          "id": "1xK0cvpbFEuiLAVv6zuW7Dr_v67XhVHaq",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1xK0cvpbFEuiLAVv6zuW7Dr_v67XhVHaq/view?usp=drivesdk",
+          "size": "288305"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu"
+      ]
+    },
+    "words": [
+      {
+        "id": "1nGCBE9fL5TsudeEaBZ550Supk8TP3f_7",
+        "title": "The New Zealand National Archives.docx",
+        "url": "https://docs.google.com/document/d/1nGCBE9fL5TsudeEaBZ550Supk8TP3f_7/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-scented-plants",
+      "part": 1,
+      "title": "Scented Plants",
+      "sources": [
+        {
+          "id": "1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc/view?usp=drivesdk",
+          "size": "2115666"
+        },
+        {
+          "id": "1BfyS-BAoz_jtBfVw6iXd3Ty6hKxg6_lB",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1BfyS-BAoz_jtBfVw6iXd3Ty6hKxg6_lB/view?usp=drivesdk",
+          "size": "664389"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1z0CYvLULaV5e7JcfdvEOzbcnHA_hOu9M",
+        "title": "Scented Plants.docx",
+        "url": "https://docs.google.com/document/d/1z0CYvLULaV5e7JcfdvEOzbcnHA_hOu9M/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-minds-of-their-own",
+      "part": 1,
+      "title": "Minds of their own",
+      "sources": [
+        {
+          "id": "130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH",
+          "title": "PAPER EU 2024",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/130jOSxeH2ufTSJmvRRKYcyrtAwXBHxxH/view?usp=drivesdk",
+          "size": "599298"
+        },
+        {
+          "id": "165TFc59Ot57e9ESgQf4AuTp8_VKVsCli",
+          "title": "PAPER ASIA 2019",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/165TFc59Ot57e9ESgQf4AuTp8_VKVsCli/view?usp=drivesdk",
+          "size": "372664"
+        },
+        {
+          "id": "1JlzNrcyBKLszFulDkcTLV9Lsy6B8a_IR",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1JlzNrcyBKLszFulDkcTLV9Lsy6B8a_IR/view?usp=drivesdk",
+          "size": "1874216"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1u055NUTU0G_2YslPPwAANC6RPB2bEt2c",
+        "title": "Minds of their own.docx",
+        "url": "https://docs.google.com/document/d/1u055NUTU0G_2YslPPwAANC6RPB2bEt2c/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-the-oldest-leather-shoe",
+      "part": 1,
+      "title": "The Oldest Leather Shoe",
+      "sources": [
+        {
+          "id": "1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co/view?usp=drivesdk",
+          "size": "1648280"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review"
+    },
+    "words": [
+      {
+        "id": "1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O",
+        "title": "The Oldest Leather Shoe.docx",
+        "url": "https://docs.google.com/document/d/1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-how-printed-books-began",
+      "part": 1,
+      "title": "How printed books began",
+      "sources": [
+        {
+          "id": "1quvnV5vXHq0FjTchP11j71bdI9oA8a5c",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1quvnV5vXHq0FjTchP11j71bdI9oA8a5c/view?usp=drivesdk",
+          "size": "1750697"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1quvnV5vXHq0FjTchP11j71bdI9oA8a5c"
+      ]
+    },
+    "words": [
+      {
+        "id": "1cdIEiCAToGllkFGRNOtX3iRyWdH683w4",
+        "title": "How Printed Books Began.docx",
+        "url": "https://docs.google.com/document/d/1cdIEiCAToGllkFGRNOtX3iRyWdH683w4/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-the-history-of-the-chicken",
+      "part": 1,
+      "title": "The History of the Chicken",
+      "sources": [
+        {
+          "id": "14zf7Z6Hk-speYCjobmLZrDpxPo-fgiNb",
+          "title": "PAPER INDIA",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/14zf7Z6Hk-speYCjobmLZrDpxPo-fgiNb/view?usp=drivesdk",
+          "size": "1066620"
+        },
+        {
+          "id": "1ANCtasWdM1OLABdjGdZFyZFR-B619KyM",
+          "title": "PAPER EU 2024",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ANCtasWdM1OLABdjGdZFyZFR-B619KyM/view?usp=drivesdk",
+          "size": "985288"
+        },
+        {
+          "id": "179Q9twiewZwR2T4eTKd4lc0WTNIxqtYa",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/179Q9twiewZwR2T4eTKd4lc0WTNIxqtYa/view?usp=drivesdk",
+          "size": "1057982"
+        },
+        {
+          "id": "1PEvttZuS2LjQRtPJdUwpvFAlbhIEVmiY",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1PEvttZuS2LjQRtPJdUwpvFAlbhIEVmiY/view?usp=drivesdk",
+          "size": "793114"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "14zf7Z6Hk-speYCjobmLZrDpxPo-fgiNb"
+      ]
+    },
+    "words": [
+      {
+        "id": "1gtP6Z_cWo_rkBJ0MBmouKhWhao98ZLWX",
+        "title": "The History of the Chicken.docx",
+        "url": "https://docs.google.com/document/d/1gtP6Z_cWo_rkBJ0MBmouKhWhao98ZLWX/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-the-iditarod",
+      "part": 1,
+      "title": "The Iditarod",
+      "sources": [
+        {
+          "id": "1td68lPilOq0wwqpyAJdT75Xyg3bT8U9D",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1td68lPilOq0wwqpyAJdT75Xyg3bT8U9D/view?usp=drivesdk",
+          "size": "1336172"
+        },
+        {
+          "id": "1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e/view?usp=drivesdk",
+          "size": "1255958"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e"
+      ]
+    },
+    "words": [
+      {
+        "id": "1YBpJvl_9O5nFwulwpfLazMmT4tV5Vzfm",
+        "title": "The Iditarod.docx",
+        "url": "https://docs.google.com/document/d/1YBpJvl_9O5nFwulwpfLazMmT4tV5Vzfm/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+      "part": 1,
+      "title": "The development of art appreciation in Melbourne, Australia",
+      "sources": [
+        {
+          "id": "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U/view?usp=drivesdk",
+          "size": "1907923"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1axaNE1_BcVjf8ACfdqNprjFVTLsZP73U"
+      ]
+    },
+    "words": [
+      {
+        "id": "1unEY-nVZ_0xJ_WBvhjFMKYVLC6gN8WNz",
+        "title": "The development of art appreciation in Melbourne, Australia.docx",
+        "url": "https://docs.google.com/document/d/1unEY-nVZ_0xJ_WBvhjFMKYVLC6gN8WNz/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-city-transport-uneven-progress",
+      "part": 1,
+      "title": "CITY TRANSPORT: UNEVEN PROGRESS",
+      "sources": [
+        {
+          "id": "14-GYMVNLSjwmz5cHyPDXAqcNY7yhpx9v",
+          "title": "PAPER ASIA",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/14-GYMVNLSjwmz5cHyPDXAqcNY7yhpx9v/view?usp=drivesdk",
+          "size": "526059"
+        },
+        {
+          "id": "1ArOb8SKlAyu52lTCV5yuu-L1glXSL1Bz",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ArOb8SKlAyu52lTCV5yuu-L1glXSL1Bz/view?usp=drivesdk",
+          "size": "1808357"
+        },
+        {
+          "id": "1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn",
+          "title": "PAPER EU",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn/view?usp=drivesdk",
+          "size": "1007628"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn"
+      ]
+    },
+    "words": [
+      {
+        "id": "1t-IUuPHvBMU82e7lvXYhb6aqZc_wqbek",
+        "title": "CITY TRANSPORT - UNEVEN PROGRESS.docx",
+        "url": "https://docs.google.com/document/d/1t-IUuPHvBMU82e7lvXYhb6aqZc_wqbek/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p1-deserts-and-desert-life",
+      "part": 1,
+      "title": "Deserts and desert life",
+      "sources": [
+        {
+          "id": "1qATj_H48NS5TwlWV8_NGvmClm24be5CQ",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1qATj_H48NS5TwlWV8_NGvmClm24be5CQ/view?usp=drivesdk",
+          "size": "1845550"
+        },
+        {
+          "id": "1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU/view?usp=drivesdk",
+          "size": "630422"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU"
+      ]
+    },
+    "words": [
+      {
+        "id": "1Rn4EKcnW-BfJCvnEp0nVPFTwBTA_54sK",
+        "title": "Deserts and desert life.docx",
+        "url": "https://docs.google.com/document/d/1Rn4EKcnW-BfJCvnEp0nVPFTwBTA_54sK/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-dominance-in-social-insects",
+      "part": 2,
+      "title": "Dominance in Social Insects",
+      "sources": [
+        {
+          "id": "1h_dWYi87gUolwABKQI-gCsJalfs72-yg",
+          "title": "Dominance in Social Insects.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1h_dWYi87gUolwABKQI-gCsJalfs72-yg/view?usp=drivesdk",
+          "size": "2089964"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1h_dWYi87gUolwABKQI-gCsJalfs72-yg"
+      ]
+    },
+    "words": [
+      {
+        "id": "1q8zg6-Dn2qGw9MpRdqx_aI465OuZYkI1",
+        "title": "Dominance in Social Insects",
+        "url": "https://docs.google.com/document/d/1q8zg6-Dn2qGw9MpRdqx_aI465OuZYkI1/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-iq-scores",
+      "part": 2,
+      "title": "IQ Scores",
+      "sources": [
+        {
+          "id": "1OOhrTs5MIZcvWD6RVJU07yEAPWl9X2S_",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1OOhrTs5MIZcvWD6RVJU07yEAPWl9X2S_/view?usp=drivesdk",
+          "size": "1454203"
+        },
+        {
+          "id": "1drHyUuA3NbQbrEKPgXxlN9ZrJfwG7qK2",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1drHyUuA3NbQbrEKPgXxlN9ZrJfwG7qK2/view?usp=drivesdk",
+          "size": "2040823"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "1OOhrTs5MIZcvWD6RVJU07yEAPWl9X2S_"
+      ]
+    },
+    "words": [
+      {
+        "id": "1uMdSoaAdAlqna12FUzPPXGnC5xaR47Je",
+        "title": "IQ Scores.docx",
+        "url": "https://docs.google.com/document/d/1uMdSoaAdAlqna12FUzPPXGnC5xaR47Je/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-playing-with-science",
+      "part": 2,
+      "title": "Playing with science",
+      "sources": [
+        {
+          "id": "1cxVFXFlU6XHxSj7AO62kfln78ZkRLCV7",
+          "title": "PAPER INDIA",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1cxVFXFlU6XHxSj7AO62kfln78ZkRLCV7/view?usp=drivesdk",
+          "size": "637560"
+        },
+        {
+          "id": "1UhGtZGmkQsvYCS7l3BX-AFjkfJIbWqVA",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1UhGtZGmkQsvYCS7l3BX-AFjkfJIbWqVA/view?usp=drivesdk",
+          "size": "2016655"
+        },
+        {
+          "id": "1lr65eBuOX06K9KDt6nVa7CPWhbEUE-1s",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1lr65eBuOX06K9KDt6nVa7CPWhbEUE-1s/view?usp=drivesdk",
+          "size": "2684857"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "1lr65eBuOX06K9KDt6nVa7CPWhbEUE-1s"
+      ]
+    },
+    "words": [
+      {
+        "id": "1vJsEhoklqgh7Ell5uD3N96LmAQSBbAS6",
+        "title": "Playing with science.docx",
+        "url": "https://docs.google.com/document/d/1vJsEhoklqgh7Ell5uD3N96LmAQSBbAS6/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-understanding-climate-change",
+      "part": 2,
+      "title": "Understanding climate change",
+      "sources": [
+        {
+          "id": "1ObFvB5oC1Hb5ucjpcE2bs75HJ_18GV-r",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ObFvB5oC1Hb5ucjpcE2bs75HJ_18GV-r/view?usp=drivesdk",
+          "size": "2207988"
+        },
+        {
+          "id": "1vMZVzLB_ty-ZqSRVAwlntwP1fuLXD1Q3",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1vMZVzLB_ty-ZqSRVAwlntwP1fuLXD1Q3/view?usp=drivesdk",
+          "size": "680217"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "1vMZVzLB_ty-ZqSRVAwlntwP1fuLXD1Q3"
+      ]
+    },
+    "words": [
+      {
+        "id": "1MECONBN6h9TcePj3zyPHhwoTsTmdSnUb",
+        "title": "Understanding climate change.docx",
+        "url": "https://docs.google.com/document/d/1MECONBN6h9TcePj3zyPHhwoTsTmdSnUb/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-the-alps-2-ocean-cycle-trail",
+      "part": 2,
+      "title": "The Alps 2 Ocean Cycle Trail",
+      "sources": [
+        {
+          "id": "1QD1CopZd1D_2MRyRoLlq_soXFTleqNyL",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1QD1CopZd1D_2MRyRoLlq_soXFTleqNyL/view?usp=drivesdk",
+          "size": "1854162"
+        },
+        {
+          "id": "1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq/view?usp=drivesdk",
+          "size": "571516"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq"
+      ]
+    },
+    "words": [
+      {
+        "id": "1Qd4WC5l9jEso7jOYtk-0roaum-ZX-Rl5",
+        "title": "The Alps 2 Ocean Cycle Trail.docx",
+        "url": "https://docs.google.com/document/d/1Qd4WC5l9jEso7jOYtk-0roaum-ZX-Rl5/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-paternity-leave",
+      "part": 2,
+      "title": "Paternity Leave",
+      "sources": [
+        {
+          "id": "11PmWDdJ3QnZeXvfa64-EcWgPMuVjHxb-",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/11PmWDdJ3QnZeXvfa64-EcWgPMuVjHxb-/view?usp=drivesdk",
+          "size": "3727099"
+        },
+        {
+          "id": "1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB/view?usp=drivesdk",
+          "size": "1397052"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB"
+      ]
+    },
+    "words": [
+      {
+        "id": "1NEBlpg_FKikxXiCrsg9q4aSbWf3bAr_n",
+        "title": "Paternity Leave.docx",
+        "url": "https://docs.google.com/document/d/1NEBlpg_FKikxXiCrsg9q4aSbWf3bAr_n/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-a-great-leap-forward",
+      "part": 2,
+      "title": "A great leap forward",
+      "sources": [
+        {
+          "id": "1RwO1RbtfJPhY-72S-UFLhzztiG4qPQ1-",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1RwO1RbtfJPhY-72S-UFLhzztiG4qPQ1-/view?usp=drivesdk",
+          "size": "3960525"
+        },
+        {
+          "id": "1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY/view?usp=drivesdk",
+          "size": "559762"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY"
+      ]
+    },
+    "words": [
+      {
+        "id": "1PGNX1SPbMOs3rZDM5NVVvw2fGAerWmYD",
+        "title": "A great leap forward.docx",
+        "url": "https://docs.google.com/document/d/1PGNX1SPbMOs3rZDM5NVVvw2fGAerWmYD/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-are-artists-liars",
+      "part": 2,
+      "title": "Are artists liars?",
+      "sources": [
+        {
+          "id": "1BjqT2v3sooENw_YW8Qy062olwCjk_Tlz",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1BjqT2v3sooENw_YW8Qy062olwCjk_Tlz/view?usp=drivesdk",
+          "size": "1982831"
+        },
+        {
+          "id": "1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP/view?usp=drivesdk",
+          "size": "659542"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP"
+      ]
+    },
+    "words": [
+      {
+        "id": "1FCLwv8ZC_4QR6c2CYK-d0-z70f8Hvagp",
+        "title": "Are artists liars.docx",
+        "url": "https://docs.google.com/document/d/1FCLwv8ZC_4QR6c2CYK-d0-z70f8Hvagp/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-early-approaches-to-organisational-design",
+      "part": 2,
+      "title": "Early approaches to organisational design",
+      "sources": [
+        {
+          "id": "1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9/view?usp=drivesdk",
+          "size": "1135705"
+        },
+        {
+          "id": "1XwU_NJOP-0h7zO8OWORgHizFnJMkCUmt",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1XwU_NJOP-0h7zO8OWORgHizFnJMkCUmt/view?usp=drivesdk",
+          "size": "2454948"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9"
+      ]
+    },
+    "words": [
+      {
+        "id": "1YYPeeyXDbpRYVcl4TR6q-giKL83-9bOx",
+        "title": "Early Approaches to organisational design.docx",
+        "url": "https://docs.google.com/document/d/1YYPeeyXDbpRYVcl4TR6q-giKL83-9bOx/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-flood-control-in-the-usa",
+      "part": 2,
+      "title": "Flood control in the USA",
+      "sources": [
+        {
+          "id": "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5/view?usp=drivesdk",
+          "size": "2179554"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5"
+      ]
+    },
+    "words": [
+      {
+        "id": "1QGlKoJ2nB5wecGSyHaQ4aNwz9GjpVpPL",
+        "title": "Flood control in the USA.docx",
+        "url": "https://docs.google.com/document/d/1QGlKoJ2nB5wecGSyHaQ4aNwz9GjpVpPL/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-the-legacy-of-stanislavsky",
+      "part": 2,
+      "title": "The Legacy of Stanislavsky",
+      "sources": [
+        {
+          "id": "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg/view?usp=drivesdk",
+          "size": "1932870"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg"
+      ]
+    },
+    "words": [
+      {
+        "id": "1OpLF21NGH-V-8wPnNe9uaGmwrISUwSKa",
+        "title": "The Legacy of Stanislavsky.docx",
+        "url": "https://docs.google.com/document/d/1OpLF21NGH-V-8wPnNe9uaGmwrISUwSKa/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-follow-your-nose",
+      "part": 2,
+      "title": "Follow your nose",
+      "sources": [
+        {
+          "id": "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC/view?usp=drivesdk",
+          "size": "2150415"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC"
+      ]
+    },
+    "words": [
+      {
+        "id": "1kJFz2MKZLOBoOfTYZDCn97R_DFjnqv4w",
+        "title": "Follow your nose.docx",
+        "url": "https://docs.google.com/document/d/1kJFz2MKZLOBoOfTYZDCn97R_DFjnqv4w/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p2-australian-parrots",
+      "part": 2,
+      "title": "Australian parrots",
+      "sources": [
+        {
+          "id": "1LDa6UIEsCp8aX-vfkqmWi-FFestF16r8",
+          "title": "PAPER ASIA 2019",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1LDa6UIEsCp8aX-vfkqmWi-FFestF16r8/view?usp=drivesdk",
+          "size": "1389177"
+        },
+        {
+          "id": "1QiGe5kvFlj5J876DvneH1wLwxMvTghax",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1QiGe5kvFlj5J876DvneH1wLwxMvTghax/view?usp=drivesdk",
+          "size": "1446539"
+        },
+        {
+          "id": "1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d/view?usp=drivesdk",
+          "size": "1471438"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1RjrvtI3e3dCqpayPdOaNPxWio8s6BE8d"
+      ]
+    },
+    "words": [
+      {
+        "id": "1lZT7XdYrPemz-WOMl2EJwf7J_BK-K82V",
+        "title": "Australian parrots.docx",
+        "url": "https://docs.google.com/document/d/1lZT7XdYrPemz-WOMl2EJwf7J_BK-K82V/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-motivating-employees",
+      "part": 3,
+      "title": "Motivating employees",
+      "sources": [
+        {
+          "id": "1rXDP5xzFXfOeF51h41liN3SHzXyAgMs7",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1rXDP5xzFXfOeF51h41liN3SHzXyAgMs7/view?usp=drivesdk",
+          "size": "943642"
+        },
+        {
+          "id": "1bEJdTIynOKoYyEruJqxC83F_gnC0Un5w",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1bEJdTIynOKoYyEruJqxC83F_gnC0Un5w/view?usp=drivesdk",
+          "size": "2421979"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "1rXDP5xzFXfOeF51h41liN3SHzXyAgMs7"
+      ]
+    },
+    "words": [
+      {
+        "id": "1D3Iu382xIb956BOZ6-vSJtJsz74EGCVU",
+        "title": "Motivating employees.docx",
+        "url": "https://docs.google.com/document/d/1D3Iu382xIb956BOZ6-vSJtJsz74EGCVU/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  },
+  {
+    "job": {
+      "id": "p3-the-search-for-extra-terrestrial-life",
+      "part": 3,
+      "title": "The search for extra-terrestrial life",
+      "sources": [
+        {
+          "id": "1KA8MHo0kP3OQUq638uSYkYqjn200GEjm",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1KA8MHo0kP3OQUq638uSYkYqjn200GEjm/view?usp=drivesdk",
+          "size": "2096271"
+        },
+        {
+          "id": "17tcHnaSO9P8VFnYIJO1_thERrEhIZz6K",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/17tcHnaSO9P8VFnYIJO1_thERrEhIZz6K/view?usp=drivesdk",
+          "size": "512170"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "17tcHnaSO9P8VFnYIJO1_thERrEhIZz6K"
+      ]
+    },
+    "words": [
+      {
+        "id": "19Jd1ggTwXffSKZiY9JJC5dNRttyG2uPx",
+        "title": "The search for extra-terrestrial life.docx",
+        "url": "https://docs.google.com/document/d/19Jd1ggTwXffSKZiY9JJC5dNRttyG2uPx/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ]
+  }
+]

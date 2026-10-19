@@ -438,8 +438,10 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review"
+    "status": "reviewed",
+    "lesson_id": "p1-reef-life-on-the-yongala",
+    "mode": "practice",
+    "wordSourceId": "1QXy3LwhYLroiWxa47ygrDd9Di83dwWPi"
   },
   {
     "id": "p1-shopping-by-design",
@@ -870,11 +872,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1-ShfnmCd5wGB4giwfHPICOE6PzAAeqAu"
-    ]
+    ],
+    "lesson_id": "p1-the-new-zealand-national-archives",
+    "mode": "practice",
+    "wordSourceId": "1nGCBE9fL5TsudeEaBZ550Supk8TP3f_7"
   },
   {
     "id": "p1-a-survivor-s-story",
@@ -1734,8 +1738,10 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "lesson_id": "p1-why-good-ideas-fail",
+    "mode": "practice",
+    "wordSourceId": "1H4bp9q5P7m8cbx0Nx__X3J-pJLhf_b0_"
   },
   {
     "id": "p1-developmental-tasks-of-normal-adolescence",
@@ -2106,8 +2112,10 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "lesson_id": "p1-minds-of-their-own",
+    "mode": "practice",
+    "wordSourceId": "1u055NUTU0G_2YslPPwAANC6RPB2bEt2c"
   },
   {
     "id": "p1-the-history-of-the-pencil",
@@ -2469,11 +2477,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "14zf7Z6Hk-speYCjobmLZrDpxPo-fgiNb"
-    ]
+    ],
+    "lesson_id": "p1-the-history-of-the-chicken",
+    "mode": "practice",
+    "wordSourceId": "1gtP6Z_cWo_rkBJ0MBmouKhWhao98ZLWX"
   },
   {
     "id": "p1-the-iditarod",
@@ -2496,11 +2506,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1RwOSc4BPIoLySLCTC7Wyjl3VVjZ7G90e"
-    ]
+    ],
+    "lesson_id": "p1-the-iditarod",
+    "mode": "practice",
+    "wordSourceId": "1YBpJvl_9O5nFwulwpfLazMmT4tV5Vzfm"
   },
   {
     "id": "p1-the-development-of-art-appreciation-in-melbourne-australia",
@@ -2767,11 +2779,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1J0V_N0p9fRBWTSiBpvemedWB6MYHfhqn"
-    ]
+    ],
+    "lesson_id": "p1-city-transport-uneven-progress",
+    "mode": "practice",
+    "wordSourceId": "1t-IUuPHvBMU82e7lvXYhb6aqZc_wqbek"
   },
   {
     "id": "p1-making-copies",
@@ -4012,11 +4026,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1pB5Y-sW6TBR3oMSl4p2O1I-tumn1x3lU"
-    ]
+    ],
+    "lesson_id": "p1-deserts-and-desert-life",
+    "mode": "practice",
+    "wordSourceId": "1Rn4EKcnW-BfJCvnEp0nVPFTwBTA_54sK"
   },
   {
     "id": "p1-a-much-travelled-vegetable",
@@ -6413,11 +6429,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1h_dWYi87gUolwABKQI-gCsJalfs72-yg"
-    ]
+    ],
+    "lesson_id": "p2-dominance-in-social-insects",
+    "mode": "practice",
+    "wordSourceId": "1q8zg6-Dn2qGw9MpRdqx_aI465OuZYkI1"
   },
   {
     "id": "p2-should-we-stop-eating-meat",
@@ -7047,11 +7065,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1lr65eBuOX06K9KDt6nVa7CPWhbEUE-1s"
-    ]
+    ],
+    "lesson_id": "p2-playing-with-science",
+    "mode": "practice",
+    "wordSourceId": "1vJsEhoklqgh7Ell5uD3N96LmAQSBbAS6"
   },
   {
     "id": "p2-orchids",
@@ -7261,11 +7281,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1aGzWKjuJroHppH7xBxQ6thhf_6pg22eq"
-    ]
+    ],
+    "lesson_id": "p2-the-alps-2-ocean-cycle-trail",
+    "mode": "practice",
+    "wordSourceId": "1Qd4WC5l9jEso7jOYtk-0roaum-ZX-Rl5"
   },
   {
     "id": "p2-the-aerofoil",
@@ -7356,11 +7378,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1_y5Vngbfzk9qcCGOSnN4nygeBEGhICUB"
-    ]
+    ],
+    "lesson_id": "p2-paternity-leave",
+    "mode": "practice",
+    "wordSourceId": "1NEBlpg_FKikxXiCrsg9q4aSbWf3bAr_n"
   },
   {
     "id": "p2-pantomime",
@@ -7597,11 +7621,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1heANtGm3bRaf5SwKXOUr95kNeGC1PDKY"
-    ]
+    ],
+    "lesson_id": "p2-a-great-leap-forward",
+    "mode": "practice",
+    "wordSourceId": "1PGNX1SPbMOs3rZDM5NVVvw2fGAerWmYD"
   },
   {
     "id": "p2-books-and-buildings",
@@ -8412,11 +8438,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1kDf9HWxuKgJOKglvIKYbOqnkf_YBejdP"
-    ]
+    ],
+    "lesson_id": "p2-are-artists-liars",
+    "mode": "practice",
+    "wordSourceId": "1FCLwv8ZC_4QR6c2CYK-d0-z70f8Hvagp"
   },
   {
     "id": "p2-a-unique-golden-textile",
@@ -8718,11 +8746,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1Tmg8xrEMFVA2qP2O1R2oxNimWD2t9hY9"
-    ]
+    ],
+    "lesson_id": "p2-early-approaches-to-organisational-design",
+    "mode": "practice",
+    "wordSourceId": "1YYPeeyXDbpRYVcl4TR6q-giKL83-9bOx"
   },
   {
     "id": "p2-how-deserts-are-formed",
@@ -8763,11 +8793,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1W3ldI6MGm9PlR4IcZ4MPUNsYkWUVxWM5"
-    ]
+    ],
+    "lesson_id": "p2-flood-control-in-the-usa",
+    "mode": "practice",
+    "wordSourceId": "1QGlKoJ2nB5wecGSyHaQ4aNwz9GjpVpPL"
   },
   {
     "id": "p2-nature-s-numbers",
@@ -9705,11 +9737,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1XH_sqhCZZlFkfZRpVVekHQN7MHR3AzWg"
-    ]
+    ],
+    "lesson_id": "p2-the-legacy-of-stanislavsky",
+    "mode": "practice",
+    "wordSourceId": "1OpLF21NGH-V-8wPnNe9uaGmwrISUwSKa"
   },
   {
     "id": "p2-farmers-chua-rep",
@@ -10124,11 +10158,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1Sovi1GIqZe-1lSwKDaeHepHeMlyyWAtC"
-    ]
+    ],
+    "lesson_id": "p2-follow-your-nose",
+    "mode": "practice",
+    "wordSourceId": "1kJFz2MKZLOBoOfTYZDCn97R_DFjnqv4w"
   },
   {
     "id": "p2-a-mechanical-friend-for-children-chua-rep",
@@ -12240,11 +12276,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1rXDP5xzFXfOeF51h41liN3SHzXyAgMs7"
-    ]
+    ],
+    "lesson_id": "p3-motivating-employees",
+    "mode": "practice",
+    "wordSourceId": "1D3Iu382xIb956BOZ6-vSJtJsz74EGCVU"
   },
   {
     "id": "p3-back-to-the-future-of-skyscraper-design",
@@ -14459,8 +14497,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Missing, duplicate or out-of-order option codes: ['C', 'E', 'F', 'I', 'J']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+    "status": "reviewed",
+    "lesson_id": "p3-the-digital-revolution-in-studying-history",
+    "mode": "practice",
+    "wordSourceId": "1AKJQcKuE2Fz3cUoDdJ66IasCDNNHQTYb"
   },
   {
     "id": "p3-case-study-cargill-dow-llc",
@@ -16033,11 +16073,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1QUrwZhf1Oz92J1f_PGszH9a1Rp5pWIKX"
-    ]
+    ],
+    "lesson_id": "p3-rating-female-leaders",
+    "mode": "practice",
+    "wordSourceId": "1r3gzEUslq0niXt1AN8UXQLJGkCwblsse"
   },
   {
     "id": "p3-what-is-social-history",
@@ -16207,11 +16249,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "17tcHnaSO9P8VFnYIJO1_thERrEhIZz6K"
-    ]
+    ],
+    "lesson_id": "p3-the-search-for-extra-terrestrial-life",
+    "mode": "practice",
+    "wordSourceId": "19Jd1ggTwXffSKZiY9JJC5dNRttyG2uPx"
   },
   {
     "id": "p3-multi-purpose-meeting-spaces",

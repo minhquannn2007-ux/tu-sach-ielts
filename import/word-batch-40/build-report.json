@@ -1,0 +1,305 @@
+[
+  {
+    "job": "p1-walking-for-life",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-why-good-ideas-fail",
+    "status": "draft",
+    "paragraphs": 13,
+    "groups": [
+      "tfng",
+      "notes"
+    ]
+  },
+  {
+    "job": "p1-the-future-of-news-coming-from-a-fun-circle",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-research-into-elephant-sleeping-habits",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p2-orientation-of-birds",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p2-dolphins-and-language-learning",
+    "status": "held",
+    "reason": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C']"
+  },
+  {
+    "job": "p2-a-study-of-introvert-and-extrovert-characters",
+    "status": "held",
+    "reason": "Missing, duplicate or unordered numbered prompts"
+  },
+  {
+    "job": "p3-science-and-knowledge",
+    "status": "held",
+    "reason": "Expected one control per source gap [36, 37, 38, 39, 40], found [35, 36, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-the-digital-revolution-in-studying-history",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "mc-one",
+      "ynng",
+      "summary-drag"
+    ]
+  },
+  {
+    "job": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+    "status": "held",
+    "reason": "Question numbering incomplete [27, 28, 29, 30, 31, 32, 33, 34, 35, 35, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-what-is-history",
+    "status": "held",
+    "paragraphs": 9,
+    "groups": [
+      "ynng",
+      "matching-endings",
+      "mc-one"
+    ],
+    "reason": "Word repeats the same missing phrase before income and export earnings as the photographed PDF; no reconstruction guessed."
+  },
+  {
+    "job": "p3-rating-female-leaders",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "ynng",
+      "mc-one",
+      "matching-endings"
+    ]
+  },
+  {
+    "job": "p1-reef-life-on-the-yongala",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "notes",
+      "tfng"
+    ]
+  },
+  {
+    "job": "p1-the-new-zealand-national-archives",
+    "status": "draft",
+    "paragraphs": 10,
+    "groups": [
+      "tfng",
+      "notes"
+    ]
+  },
+  {
+    "job": "p1-scented-plants",
+    "status": "held",
+    "reason": "Title absent from Word text; inspect source artwork"
+  },
+  {
+    "job": "p1-minds-of-their-own",
+    "status": "draft",
+    "paragraphs": 16,
+    "groups": [
+      "tfng",
+      "notes",
+      "short-answer"
+    ]
+  },
+  {
+    "job": "p1-the-oldest-leather-shoe",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-how-printed-books-began",
+    "status": "held",
+    "reason": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+  },
+  {
+    "job": "p1-the-history-of-the-chicken",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "tfng",
+      "notes"
+    ]
+  },
+  {
+    "job": "p1-the-iditarod",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "tfng",
+      "notes"
+    ]
+  },
+  {
+    "job": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-city-transport-uneven-progress",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "matching-headings",
+      "ynng"
+    ]
+  },
+  {
+    "job": "p1-deserts-and-desert-life",
+    "status": "draft",
+    "paragraphs": 10,
+    "groups": [
+      "tfng",
+      "notes"
+    ]
+  },
+  {
+    "job": "p2-dominance-in-social-insects",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-headings",
+      "mc-two",
+      "mc-two",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-iq-scores",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p2-playing-with-science",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "matching-info",
+      "mc-two",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-understanding-climate-change",
+    "status": "held",
+    "reason": "Table grid/merged cells require visual transcription"
+  },
+  {
+    "job": "p2-the-alps-2-ocean-cycle-trail",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-info",
+      "mc-two",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-paternity-leave",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-headings",
+      "mc-two",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-a-great-leap-forward",
+    "status": "draft",
+    "paragraphs": 7,
+    "groups": [
+      "summary-input",
+      "matching-info",
+      "mc-two"
+    ]
+  },
+  {
+    "job": "p2-are-artists-liars",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-headings",
+      "mc-two",
+      "mc-two",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-early-approaches-to-organisational-design",
+    "status": "draft",
+    "paragraphs": 14,
+    "groups": [
+      "mc-two",
+      "mc-two",
+      "mc-two",
+      "mc-two",
+      "matching-features"
+    ]
+  },
+  {
+    "job": "p2-flood-control-in-the-usa",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-headings",
+      "summary-input",
+      "mc-two"
+    ]
+  },
+  {
+    "job": "p2-the-legacy-of-stanislavsky",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "matching-info",
+      "matching-features",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-follow-your-nose",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "matching-headings",
+      "matching-features",
+      "mc-one"
+    ]
+  },
+  {
+    "job": "p2-australian-parrots",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p3-motivating-employees",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "mc-one",
+      "matching-endings",
+      "ynng"
+    ]
+  },
+  {
+    "job": "p3-the-search-for-extra-terrestrial-life",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "mc-one",
+      "ynng",
+      "summary-drag"
+    ]
+  }
+]

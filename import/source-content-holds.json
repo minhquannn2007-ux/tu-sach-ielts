@@ -6,7 +6,9 @@
       "title": "William Gilbert and magnetism",
       "part": 1,
       "reason": "Source paragraph A is copied from Crowding and Density, not William Gilbert; needs corrected source",
-      "publicationBlocked": true
+      "publicationBlocked": false,
+      "resolution": "Published lesson carries user-corrected paragraph A with a separate source hash; source defect does not apply to the corrected reviewed version.",
+      "releasedAt": "2026-10-19"
     },
     {
       "job": "p1-the-life-of-louis-braille",
@@ -48,7 +50,9 @@
       "title": "Coins - the first form of money",
       "part": 2,
       "reason": "Heading paragraph mapping is ambiguous",
-      "publicationBlocked": true
+      "publicationBlocked": false,
+      "resolution": "Existing published lesson records native-pdf-with-user-confirmed-paragraph-G and the explicit user confirmation in conversion.reviewNotes; historical mapping hold is resolved for that reviewed version.",
+      "releasedAt": "2026-10-19"
     },
     {
       "job": "p2-public-art-programs-research-update",
@@ -76,7 +80,9 @@
       "title": "Flower Power",
       "part": 3,
       "reason": "Printed heading range says 27–32 but lists 27–33; hold for source instruction review.",
-      "publicationBlocked": true
+      "publicationBlocked": false,
+      "resolution": "Existing published lesson records visually reviewed PAPER scan declaring Questions 27–33; the alternate PDF typo is not used for that task range.",
+      "releasedAt": "2026-10-19"
     },
     {
       "job": "p3-the-lost-animals-of-australia",
