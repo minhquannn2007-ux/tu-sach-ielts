@@ -1,0 +1,163 @@
+{
+  "id": "p2-iq-scores",
+  "title": "IQ Scores",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Studies from numerous countries suggest that IQ scores* have been rising fast since at least the 1950s — enough to mean that someone with an IQ classed as average at that time could be labelled as having low intelligence today. However, psychologists disagree about what the upward trend in scores really means. Some researchers argue that people are not getting more intelligent overall, but just getting better at a particular sort of problem solving. Others say they have found echoes of rising IQ scores in ‘real world’ measures of intelligence. To confuse things still more, there are hints that the trend may be about to grind to a halt."
+    },
+    {
+      "label": "B",
+      "text": "James Flynn, a professor of political science, first showed that IQ scores were rising in the mid-1980s, and became famous after others dubbed the pattern he had observed the ‘Flynn effect’. In a landmark paper he made detailed comparisons across fourteen countries of trends in the results of tests that measure reasoning power. Overall, these showed a real growth in scores of up to 25 points in a generation. To find out more, Flynn went on to look at scores for each type of reasoning that IQ tests set out to measure, such as verbal, numerical and visuo-spatial. This last test category usually includes ‘Raven's matrices’ — sequential patterns with one piece missing. The candidate has to choose, from a set of alternatives, which shape to put in the empty space. When Flynn took a closer look at the scores, the pattern was clear. The strongest gains in almost every case were on Raven’s matrices and similar tests, while verbal and arithmetical scores showed more modest rises. Since presenting his original paper, Flynn has looked at data from further countries and found the same upward trend, with the same skills responsible for most of the increase."
+    },
+    {
+      "label": "C",
+      "text": "Flynn feels that his eponymous effect is meaningful, but does not interpret it as evidence that people are becoming cleverer. ‘Our grandparents were not retarded and we are not geniuses,’ he says. ‘More likely we have simply developed the skills and habits of mind that make us better at solving abstract problems, and — just as importantly - we take such problems seriously.’ Flynn believes that demands on visuo-spatial abilities have grown because of TV, computers and cars, and also that in societies where intelligence has become something people focus on excessively abstract problem-solving skills develop faster than other skills."
+    },
+    {
+      "label": "D",
+      "text": "Others have different views about what might account for the increase in IQ scores. John Rust of the University of London suggests that it is not just an increase in visuo-spatial activities that is pushing up IQ scores. He believes that there are several factors, including the fact that, in more complex societies, people have to think harder to find solutions to problems they face. He also points out that if just one mind grasps a new concept, such as Einstein and the theory of relativity, it may then be easier for society in general to think in a more complex way. Others, such as experimental psychologist Robert Howard, argue that overall intelligence really has risen, helped by better nutrition, smaller families, wider access to education and other environmental changes."
+    },
+    {
+      "label": "E",
+      "text": "Howard's latest research has sent him on a different line of enquiry. Controversially, he now believes that the rise in IQ scores might have peaked in industrialised countries. To support this view, he cites data from Denmark. The Danish military still summons virtually all young men before a draft board to identify who is suitable to do military service. Since 1957, all 17-year-olds there have taken exactly the same qualifying IQ tests — including ones similar to Raven’s matrices. Candidates must also be able to answer verbal questions such as ‘Sun is to day as Moon is to ?’, and number-series questions such as ‘2, 3, 5, 8, ?’. Results in these tests have been carefully analysed by Thomas Teasdale, a neuropsychologist. He found that during the 1960s and ‘70s, scores showed gains on a scale similar to those of other countries, but by the 1990s the rate of improvement had slowed right down to about one IQ point over the decade. Furthermore, the scores were improving only on the visuo-spatial questions; verbal and numerical performance was flattening out. Most intriguingly, however, scores from 1999 onwards show an overall downturn. One explanation might be that there is some absolute ceiling to people's abilities to perform these tasks, no matter how much the prevailing culture encourages them. However, as Teasdale points out, if such a ceiling had been reached, the test results should show scores pushing against it rather than actually falling."
+    },
+    {
+      "label": "F",
+      "text": "Flynn is keeping a close eye on the findings, but is not jumping to conclusions until data from other countries is available. However, he does wonder whether the conditions leading to dramatic improvements in mental ability disappear as societies become more prosperous. He points out that in human history, prosperity often led to decadence, and argues that the case of ancient Rome can be viewed as an illustration of this."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Questions 14–18 Look at the following statements (Questions 14-18) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "Modern technology has influenced some aspects of human intelligence."
+        },
+        {
+          "n": 15,
+          "prompt": "IQ scores may not have attained their natural limit."
+        },
+        {
+          "n": 16,
+          "prompt": "Improved diet has a positive effect on mental powers."
+        },
+        {
+          "n": 17,
+          "prompt": "Exceptional individuals can have an impact on collective intelligence."
+        },
+        {
+          "n": 18,
+          "prompt": "As societies become more sophisticated the need for problem-solving skills increases."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "James Flynn"
+        },
+        {
+          "value": "B",
+          "text": "John Rust"
+        },
+        {
+          "value": "C",
+          "text": "Robert Howard"
+        },
+        {
+          "value": "D",
+          "text": "Thomas Teasdale"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": true
+    },
+    {
+      "type": "matching-info",
+      "sourceInstructions": "Questions 19–22 Reading Passage 2 has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 19-22 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 19,
+          "prompt": "an account of a selection procedure involving a particular group of people"
+        },
+        {
+          "n": 20,
+          "prompt": "a description of one component of a visuo-spatial test"
+        },
+        {
+          "n": 21,
+          "prompt": "an overview of the different interpretations of IQ score trends"
+        },
+        {
+          "n": 22,
+          "prompt": "an example of the negative effect affluence may have on IQ trends"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "paragraphCount": 6,
+      "paragraphUnit": "paragraphs",
+      "reuse": false
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Questions 23–26 Complete the summary below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 23-26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "James Flynn",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "During the {{23}}, James Flynn conducted research showing that IQ scores were increasing. Flynn then analysed specific kinds of reasoning ability separately. He found that tests called {{24}}, which measured visuo-spatial skills, accounted for the biggest score increases, whereas scores in numerical and {{25}} components rose less steeply. Results from research in other {{26}}, which Flynn has examined more recently, are consistent with his earlier findings."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p2-iq-scores",
+    "sourceParagraphCount": 6,
+    "requiresReview": false
+  },
+  "subtitle": "How they are changing and what the changes signify",
+  "cover": {
+    "asset": "assets/batch4-lab-cover.jpg",
+    "alt": "Nghiên cứu trong phòng thí nghiệm",
+    "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+    "credit": "Lightsaber Collection",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

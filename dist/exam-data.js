@@ -41,7 +41,7 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
    for(const bank of [g.bank,g.options,...(g.questions||[]).map(q=>q.options)].filter(Boolean)){if(bank.length&&bank.every(o=>/^[A-Z]$/.test(o.value))&&bank.some((o,i)=>o.value!==String.fromCharCode(65+i)))errors.push('Missing or misordered option code');}
    const ns=numbers(g);const banks=[g.bank,g.options,...(g.questions||[]).map(q=>q.options)].filter(Boolean);
    for(const bank of banks){if(!Array.isArray(bank)||!bank.length||bank.some(o=>typeof o.value!=='string'||!o.value.trim()||typeof o.text!=='string'||!o.text.trim())||new Set(bank.map(o=>o.value)).size!==bank.length)errors.push('Invalid option contents');}
-   if(g.type==='mc-one'&&(g.questions||[]).some(q=>!q.prompt?.trim()||q.options?.length!==4))errors.push('MC ONE requires a prompt and four options');
+   if(g.type==='mc-one'&&(g.questions||[]).some(q=>!q.prompt?.trim()||!(q.options?.length===4&&q.sourceOmittedOptions===undefined||d.mode==='practice'&&q.options?.length===3&&JSON.stringify(q.sourceOmittedOptions)==='["D"]'&&q.options.every((o,i)=>o.value==='ABC'[i]))))errors.push('MC ONE requires four options, or a reviewed practice source missing D');
    if(g.type==='mc-two'&&(!g.prompt?.trim()||g.options?.length<(g.selectionCount??2)+1||g.options?.length>10||(!g.selectionCount&&g.options?.length!==5)))errors.push('Invalid multiple-answer prompt/options');
    if(g.type==='mc-two'&&!Array.isArray(g.options))errors.push('Missing multiple-answer options');
    if(['tfng','ynng','matching-info','matching-features','matching-endings','short-answer'].includes(g.type)&&(g.questions||[]).some(q=>!q.prompt?.trim()))errors.push('Missing question prompt');

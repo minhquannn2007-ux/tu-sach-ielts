@@ -1,0 +1,156 @@
+{
+  "id": "p3-refraction",
+  "part": 3,
+  "title": "REFRACTION",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The law of refraction, known today as Snell's Law, is named after the Dutch astronomer Willebrord Snell, who is credited with its discovery in 1621. Snell's Law relates the angles of the beam before and after refraction to a number – the refractive index – which is characteristic of the material. For nearly four centuries, it has underpinned the design of all things optical: telescopes, cameras, microscopes and so on. With a little help from Snell, it is possible to design materials to order, with refractive indices specified beforehand. So Snell's law is as powerful as ever. The only problem is its name: for Willebrord Snell was not the first to discover it."
+    },
+    {
+      "label": "B",
+      "text": "Just off the shore of North Carolina is the site of the first English colony in America. Here, in 1585, a hundred settlers set up home, among them a man called Thomas Harriot, a 'mathematician and astronomer'. But was he a real mathematician and astronomer or just a common navigator? And what was he doing there on the shores of America?"
+    },
+    {
+      "label": "C",
+      "text": "Harriot was indeed a mathematician. He derived fundamental theorems in cartography, trigonometry and algebra and added the symbols > (greater than) and < (less than) to the mathematical lexicon. He worked on mirrors and lenses, and built telescopes at the same time as Galileo. With these he independently made the first map of the moon, and anticipated Galileo in observing sunspots and measuring the periods of the satellites of Jupiter. His observations of the comet of 1607, later to become known as Halley's comet, were good enough to be used in orbital calculation two hundred years later. But all that lay in the future."
+    },
+    {
+      "label": "D",
+      "text": "When Harriot sailed to America he was 25 years old, a graduate of the University of Oxford, and employed as a teacher of mathematics, astronomy and navigation. But it was not as a navigator that he travelled to America. By then that was the captain's routine job. Harriot's chief tasks were to investigate the land and the native people's language. On his return he published a report on Virginia, the first English treatise on the New World. Among descriptions of native peoples, animals, plants and minerals, he mentions tobacco, which later made Virginia wealthy.",
+      "blocks": [
+        "When Harriot sailed to America he was 25 years old, a graduate of the University of Oxford, and employed as a teacher of mathematics, astronomy and navigation.",
+        "But it was not as a navigator that he travelled to America. By then that was the captain's routine job. Harriot's chief tasks were to investigate the land and the native people's language. On his return he published a report on Virginia, the first English treatise on the New World. Among descriptions of native peoples, animals, plants and minerals, he mentions tobacco, which later made Virginia wealthy."
+      ]
+    },
+    {
+      "label": "E",
+      "text": "Among Harriot's wide-ranging interests was the phenomenon of refraction. The law of refraction was eagerly sought by designers of optical instruments as well as astronomers, keen to correct for the effect of the Earth's atmosphere on starlight. The inherited lists and rules of thumb for describing refraction were known to be incomplete and, in some cases, wildly inaccurate."
+    },
+    {
+      "label": "F",
+      "text": "Unlike the eminent German astronomer Johannes Kepler, who disdained painstaking experimentation and relied instead on various approximate formulae arrived at by speculation, Harriot perfected a simple technique for observing refraction. This involved laying a thick, triangular pane of glass flat on a sheet of paper and squinting along the table top, looking through the glass at a pin positioned beyond it. By moving the pin around and comparing the positions of the pin and its image, he was able to work out a way of measuring the refraction. Like today's scientists, he was not fully satisfied with his readings until they had been verified repeatedly by various associates.",
+      "blocks": [
+        "Unlike the eminent German astronomer Johannes Kepler, who disdained painstaking experimentation and relied instead on various approximate formulae arrived at by speculation, Harriot perfected a simple technique for observing refraction. This involved laying a thick, triangular pane of glass flat on a sheet of paper and squinting along the table top, looking through the glass at a pin positioned beyond it. By moving the pin around and comparing the positions of the pin and its image, he was able to work out a way of measuring the refraction.",
+        "Like today's scientists, he was not fully satisfied with his readings until they had been verified repeatedly by various associates."
+      ]
+    },
+    {
+      "label": "G",
+      "text": "Based on his careful observations, Harriot had discovered the correct law of refraction by 1602, nineteen years before Snell. He used it to calculate the paths of rays of sunlight entering a spherical drop of water, and this calculation allowed him to derive correctly the angular diameter of the rainbow, an ancient problem of physics, whose solution was published in 1637 by René Descartes. In 1606 Kepler heard of Harriot's work, and promptly wrote to him asking for information on refraction and the rainbow. Harriot replied, but was unwilling to give away the fruits of his labour so easily, and excused himself on the grounds of ill health. But although he did not reveal the law of refraction or the size of the rainbow, he did hint at something much deeper, alluding to his belief in the importance of atoms."
+    },
+    {
+      "label": "H",
+      "text": "Harriot was centuries ahead of his time. In his intuitive way, he anticipated the modern atomic theory of refraction, which treats light as a wave that is absorbed and re-radiated by atoms. Were it not for the fact that he published very little and so remained virtually unknown, Harriot would be celebrated as one of the founders of modern science."
+    },
+    {
+      "label": "I",
+      "text": "Understanding why Harriot kept so quiet during his life is complex. Politics certainly played a role, since holding an opinion which went against the beliefs of the day was dangerous. Atomism, and the belief in the indestructibility of atoms, was regarded as a form of atheism because it ran counter to the religious teaching of the day. Harriot's work was investigated by the authorities but no charges were ever brought. Nevertheless, the stigma remained and Snell's name rather than Harriot's became synonymous with the law of refraction."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 27 – 32 Reading Passage 3 has nine paragraphs, A-I. Which paragraph contains the following information? Write the correct letter, A-I, in boxes 27-32 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "a reason why Harriot was concerned about giving offense"
+        },
+        {
+          "n": 28,
+          "prompt": "a reason for declining a request"
+        },
+        {
+          "n": 29,
+          "prompt": "Harriot's approach to measuring refraction"
+        },
+        {
+          "n": 30,
+          "prompt": "the various scientific achievements (outside the area of refraction) for which Harriot is famous"
+        },
+        {
+          "n": 31,
+          "prompt": "a comparison between Harriot and modern researchers"
+        },
+        {
+          "n": 32,
+          "prompt": "the relevance of refraction to modern equipment"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I"
+      ],
+      "paragraphCount": 9,
+      "paragraphUnit": "paragraphs",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 33 – 40 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 33-40 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 33
+        },
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "title": "Thomas Harriot – a remarkable life",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "The law of refraction is fundamental to the development of most {{33}} devices. The original scientific law governing refraction was first discovered by the English mathematician and astronomer, Thomas Harriot, nineteen years before it was officially attributed to the scientist {{34}} . In his twenties, Harriot travelled to America where he was assigned to study the {{35}} and the {{36}} of the people living there. Later, in his account of the trip, he referred to {{37}}, though at the time it was not known how profitable this product would be to Virginia. It was at this time that he became interested in refraction, as most studies at this point were incomplete. Harriot himself developed a {{38}} method of studying refraction. He also insisted that his findings were checked by his {{39}} . Harriot was far ahead of his time in many ways. His calculations on the rainbow, for example, predated the solution put forward by {{40}} ."
+      ]
+    }
+  ],
+  "conversion": {
+    "jobId": "p3-refraction",
+    "sourceParagraphCount": 9,
+    "requiresReview": false
+  },
+  "displayParagraphLabels": true,
+  "subtitle": "When a beam of light in air hits another transparent material, such as a slab of glass or a pool of water, it changes direction. This is refraction, the phenomenon which explains why a toothbrush standing in a glass of water looks broken",
+  "cover": {
+    "asset": "assets/batch-candle-cover.jpg",
+    "alt": "Nến",
+    "credit": "Lilya Alis",
+    "source": "https://unsplash.com/photos/eFGOXncan7s",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}

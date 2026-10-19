@@ -1,0 +1,133 @@
+{
+  "id": "p1-effect-and-cause",
+  "title": "Effect and Cause",
+  "part": 1,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "In the sixth century Gregory of Tours, a chronicler* of the Germanic people known as the Franks, told of an extraordinary event in what is now Switzerland, where the Rhone River spills into Lake Geneva. He wrote of a big rockfall in the year 563 AD in the vicinity of a place called Tauredunum. The debris plunged into the river, and a great mass of water ‘overwhelmed with a sudden and violent flood all that was on the banks as far as the city of Geneva,’ more than 64 kilometres across the lake. The Geneva bridge was demolished, and several people inside the city walls of Geneva were killed. Historians and scientists have long believed that Gregory and another chronicler, Marius of Avenches, who told a similar tale, were describing a tsunami that raced across the lake. But there has not been any direct evidence of it until now."
+    },
+    {
+      "text": "Researchers at the University of Geneva now say they have found that evidence, in the form of a large deposit of sediment in the middle of the lake. In a study published in the journal Nature Geoscience, they also propose the sequence of events that caused the deadly surge. The researchers think that large boulders crashed down onto soft sediments which had accumulated at the river mouth because of the slowing of the river’s flow when it enters the lake. These sediments formed an underwater delta that had several canyon-like channels. When the falling rocks hit the delta they destabilised the sediments and caused the canyons to collapse. It was this collapse that created the tsunami. The sediments from this collapse would have been propelled towards the lake's centre."
+    },
+    {
+      "text": "Guy Simpson, a lecturer in the University of Geneva’s Department of Geology and Paleontology, says the thick layer of sediment, which has the same curved shape as a lens, lies more than 305 metres down in the deepest part of the lake, and was found largely by chance. Katrina Kremer, a University of Geneva doctoral student and the study’s lead author, had been conducting seismic soundings, searching for thin sediment layers that might be evidence of major floods that had taken place in pre-historic times, long before the event described by Gregory of Tours. ‘But we came across this enormous deposit,’ Simpson says, ‘We didn't know straight away that it was the deposit that caused the [sixth-century] tsunami. But it was a jumbled mess of sediment. It was quite obvious that it was deposited rapidly,’"
+    },
+    {
+      "text": "The researchers then took samples of the sediments and used carbon-dating techniques on remains of leaves and other organic matter they found to determine when the deposit formed. This narrowed the range to a period between the late fourth century and the early seventh century. Other than the rockfall, there is no record of any special event during that period, Simpson says."
+    },
+    {
+      "text": "The researchers estimated that the deposit, which is at least 9.6 kilometres long by 4.8 kilometres wide, and averages about five metres thick, contains more than 248 million cubic metres of material. They ran multiple computer simulations showing that the collapse of that much sediment at the mouth of the Rhone would have caused a tsunami with an estimated height of 7.9 metres at Geneva — where it would have arrived in about 70 minutes. The rockfall itself may have been set off by a major earthquake, as some scientists have speculated."
+    },
+    {
+      "text": "Lake tsunamis, although unusual, are not unknown, says Richard Schweickert, an Emeritus Professor of Geology at the University of Nevada in Reno, in the United States. He cites evidence that the collapse of part of the shoreline of Lake Tahoe in northern California within the past 20,000 years caused a tsunami with wave heights of about 30 metres. There are two faults under the lake that could have caused an earthquake, he says and that the collapse of the Rhone delta sediments, as calculated by the Swiss researchers, ‘would certainly be capable of moving a large amount of material into the lake.’ He suggests that the findings could be corroborated by careful mapping of the shoreline to look for unusual deposits or erosion left behind by the giant waves."
+    },
+    {
+      "text": "Simpson says the Rhone delta sediments might collapse again, perhaps from an earthquake or even their own weight. In the sixth century, Geneva was a small community, mostly behind walls on a hill, whereas today it is home to international organisations and about 200,000 people, many living in low-lying areas near the water. Testing the stability of nearby slopes, and creating more detailed models of how a tsunami could affect Geneva today, would provide a more accurate assessment of whether or not this is something the lakeside city should be concerned about."
+    },
+    {
+      "text": "Most tsunamis occur in oceans and are generated by earthquakes. However, the study is a reminder that even a landlocked nation like Switzerland is not immune to catastrophic waves."
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "sourceInstructions": "Questions 1–7 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "According to Gregory of Tours, the landslide which caused the flood happened near Tauredunum."
+        },
+        {
+          "n": 2,
+          "prompt": "The city of Geneva was undamaged by the tsunami that Gregory described."
+        },
+        {
+          "n": 3,
+          "prompt": "The work of Marius of Avenches supported the idea that there was a tsunami."
+        },
+        {
+          "n": 4,
+          "prompt": "The rocks which fell into the delta were very hard and dense."
+        },
+        {
+          "n": 5,
+          "prompt": "Richard Schweickert has published studies on lake tsunamis that have occurred in several countries."
+        },
+        {
+          "n": 6,
+          "prompt": "The shoreline of Lake Tahoe has remained unchanged for 20,000 years."
+        },
+        {
+          "n": 7,
+          "prompt": "Parts of the population of Geneva now live closer to the lake than was the case in the sixth century."
+        }
+      ]
+    },
+    {
+      "type": "flow-chart",
+      "sourceInstructions": "Questions 8–13 Complete the flow-chart below. Choose ONE WORD AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "wordLimit": "ONE WORD AND/OR A NUMBER",
+      "title": "The evidence for a tsunami in Lake Geneva",
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "Katrina Kremer was looking for indications of pre-historic {{8}} that had occurred before the sixth-century event.",
+          "Instead her research team found a large lens-shaped deposit.",
+          "Researchers extracted samples from the deposit and dated organic material such as {{9}}.",
+          "Carbon-dating confirmed that the deposit was present in the lake by the beginning of the {{10}} century.",
+          "The volume of the deposit was then {{11}} by the scientists.",
+          "The researchers established the approximate {{12}} and speed of the tsunami through extensive computer modelling.",
+          "A likely cause of the rockfall was a significant {{13}}."
+        ],
+        "arrow": "assets/living-walls-original-arrow.png"
+      }
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-effect-and-cause",
+    "sourceParagraphCount": 8,
+    "requiresReview": false
+  },
+  "subtitle": "A chance finding by a Swiss research team explains an event that happened centuries ago around Lake Geneva",
+  "footnotes": [
+    "* Chronicler: a person who writes an account of important or historical events"
+  ],
+  "cover": {
+    "asset": "assets/batch-sail-cover.jpg",
+    "alt": "Thuyền buồm",
+    "credit": "Tim Gouw",
+    "source": "https://unsplash.com/photos/exxNNGUWOb0",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}
