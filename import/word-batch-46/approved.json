@@ -1,0 +1,94 @@
+[
+  {
+    "job": "p1-reef-fish-study-chua-rep",
+    "lessonId": "p1-reef-fish-study-chua-rep",
+    "sources": [
+      {
+        "id": "1kKiVDmNcIgS9uDmmvSP1cc4S4WXC6MgK",
+        "role": "word-transcription",
+        "sha256": "42abaccc0e88d9d05e14c1a02bb076a9d95760b813d13390237a3fb8887ece5a"
+      },
+      {
+        "id": "1DmXAugdZASYxPH7DH-n5-TKq3lSpNmyy",
+        "role": "original-pdf",
+        "sha256": "a62e8afd591bcb1e0ba20e821183cd04f77a33e3944fa10f1a7166a171e2e2fa"
+      }
+    ],
+    "reviewed": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored entire final source paragraph missing in Word; retained seven source paragraphs and joined subtitle"
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "draftSha256": "077cfa648f31c185131425b5f3d90ceb33876b62b2d67b306738804b7b06af69",
+    "coverLesson": "p2-methods-of-increasing-fish-production"
+  },
+  {
+    "job": "p1-salt",
+    "lessonId": "p1-salt",
+    "sources": [
+      {
+        "id": "1HaBO2MDjEGfGD9ukWNEz6YRXVNa6gGt0",
+        "role": "word-transcription",
+        "sha256": "a602c3a9e7848b0d68faa8d3b224f943e8fc957c48888bb4f287e9b82d03ee92"
+      },
+      {
+        "id": "1wkvYnwuyhhm7pZPVLabwpoqX5Gas-pGb",
+        "role": "original-pdf",
+        "sha256": "42b9b77c6e23882dd5a2c1b358467371f37e843de76133d426e44edc4f674d63"
+      }
+    ],
+    "reviewed": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "draftSha256": "b75a0990e569671014050c8aea401cb070f5e2bfe1e32e541afb058ebdb8ad0c",
+    "coverLesson": "p3-the-intuitive-geologists"
+  },
+  {
+    "job": "p1-report-on-a-university-drama-project",
+    "lessonId": "p1-report-on-a-university-drama-project",
+    "sources": [
+      {
+        "id": "12kUsUjyyXsKOtViyBrPdAjGljX9lpkVk",
+        "role": "word-transcription",
+        "sha256": "bd7fea41de218dffd2b899f834c9bc28d0399c0974c9197d6b77de37cb79fe10"
+      },
+      {
+        "id": "18cDXqq0d1UtoxDD4IFjWNXlK-lk7PQ8I",
+        "role": "original-pdf",
+        "sha256": "a330e9590689ce5615b304640d43812033c667a13f57a1987efa256914947a23"
+      }
+    ],
+    "reviewed": true,
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "draftSha256": "80d475d15b6197fc32041d714f04f7a060e9ae69af91e2a178e66d1828dfa660",
+    "coverLesson": "p3-a-most-unusual-theatre"
+  }
+]

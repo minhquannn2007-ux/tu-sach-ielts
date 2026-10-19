@@ -1,0 +1,270 @@
+{
+  "id": "p1-salt",
+  "part": 1,
+  "title": "Salt",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Salt is the common name for the substance sodium chloride (NaCl), which occurs in the form of transparent cubic crystals. Although salt is most familiar as a food supplement, less than 5% of the salt produced worldwide is used for that purpose. About 70% is utilized by the chemical industry, mostly as a source of chlorine. Salt is also used for countless other purposes, such as removing snow and ice from roads, softening water, preserving food, and stabilizing soils for construction."
+    },
+    {
+      "text": "The earliest humans obtained their salt from natural salt concentrations, as well as from meat. Those people who lived near the ocean may have also obtained it by chewing seaweed or from the natural evaporation of small pools of seawater. Meat became a more important source of salt as hunting was developed, as did milk when sheep, goats, horses, camels, reindeer, and cattle were domesticated. Even today, certain peoples – such as the Bedouin of the Middle Eastern deserts and the Maasai of East Africa – use no other forms of salt."
+    },
+    {
+      "text": "As agriculture developed, leading to a diet consisting mostly of plants, it became necessary to devise ways of obtaining salt in greater amounts. The earliest method of salt production employed by mankind was the evaporation of seawater using the heat of the sun. This method was particularly suited to hot, arid regions near the ocean or near salty lakes, and is still used in those areas. Solar evaporation was soon followed by the quarrying of exposed masses of rock salt, which quickly developed into the mining of underground deposits of salt. Two thousand years ago, the Chinese began using wells to reach underground pools of salt water, some of which were more than one kilometer deep."
+    },
+    {
+      "text": "In areas where the climate did not allow solar evaporation, salt water was poured on burning wood or heated rocks to boil it. The salt left behind was then scraped off. During the time of the Roman Empire, shallow lead pans were used to boil salt water over open fires to extract the salt. Later, in the Middle Ages, these were replaced with iron pans which were heated with coal. In the 1860s, a procedure known as the Michigan process was invented, in which salt water was heated by steam running through pipes immersed in the water. This process is still used to produce certain types of salt."
+    },
+    {
+      "text": "Nowadays, salt is collected from two sources: rock salt and brine. Rock salt is simply crystallized salt, also known as halite. It is the result of the evaporation of ancient oceans millions of years ago. Underground salt deposits are usually discovered by prospectors searching for water or oil. When salt is detected, a diamond-tipped, hollow drill is used to take several regularly spaced core samples throughout the area. These are analyzed to determine if salt mining would be profitable. If the site is thought to be suitable, vertical tunnels are sunk into the center of the salt deposit. Then a machine resembling a gigantic chain saw is used to cut a long horizontal slot through the salt, in a procedure known as undercutting. A series of holes are then drilled into the salt with an electric drill, and the holes are filled with explosives such as dynamite. Cutting and blasting are repeated in a pattern that leaves salt pillars standing to support the roof of the mining area. This is known as the room-and-pillar method and is also used in coal mines. Once blasted, chunks of the rock salt are transported to an underground crushing area where smaller pieces are collected via a metal grill and larger pieces are crushed in a rotating cylinder. Finally, redundant matter is extracted from the rock salt, in what is known as picking."
+    },
+    {
+      "text": "Brine is water containing a high concentration of salt. The most obvious source of brine is the ocean, but it can also be obtained from salty lakes such as the Dead Sea and from underground pools of salt water. Most brine is processed by a multi-effect vacuum evaporator. This device consists of three or more closed metal cylinders. Brine is first treated to remove chemical compounds. It then fills the bottom of the cylinders. The brine in the first cylinder passes through tubes heated by steam. The brine boils and its steam enters the next cylinder. In each cylinder, the condensation of steam causes the pressure inside to drop. A material called slurry forms at the bottom of the cylinders and goes into a tank. The slurry is then filtered to remove excess brine, dried and passed through screens to sort the salt particles according to how large they are."
+    },
+    {
+      "text": "Specifications for salt vary widely according to the intended use. Salt intended for human consumption must be much purer than salt used for melting snow and ice on roads, but salt used for certain scientific purposes may need to be even purer."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 5 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-5 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "The chemical industry makes use of the majority of salt produced globally."
+        },
+        {
+          "n": 2,
+          "prompt": "In ancient times, people were only able to get salt from a single source."
+        },
+        {
+          "n": 3,
+          "prompt": "Salt production through quarrying rock salt was common before the solar evaporation method of producing salt."
+        },
+        {
+          "n": 4,
+          "prompt": "Two thousand years ago, the Chinese were quick to develop the equipment needed to mine underground."
+        },
+        {
+          "n": 5,
+          "prompt": "At the time of the Roman Empire, salt was removed from salt water by heating the water in a type of pan."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "type": "notes",
+      "sourceInstructions": "Questions 6 – 9 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 6-9 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        }
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "title": "The production of rock salt",
+      "content": [
+        "samples of the salt are collected with the aid of a drill",
+        "the salt is analysed to see if mining should go ahead",
+        "vertical tunnels are sunk into the middle of the salt deposit",
+        "during a process called {{6}} a machine is used to break into the salt",
+        "explosives are placed in the holes in the salt",
+        "after blasting, {{7}} of salt are left behind to hold the roof up",
+        "in an underground crushing area, small pieces of rock salt are gathered using a {{8}}",
+        "the process of {{9}} removes any unwanted material from the rock salt"
+      ],
+      "noteLayout": {
+        "title": "The production of rock salt",
+        "titleAlign": "center",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "samples of the salt are collected with the aid of a drill"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "the salt is analysed to see if mining should go ahead"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "vertical tunnels are sunk into the middle of the salt deposit"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "during a process called {{6}} a machine is used to break into the salt"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "explosives are placed in the holes in the salt"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "after blasting, {{7}} of salt are left behind to hold the roof up"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "in an underground crushing area, small pieces of rock salt are gathered using a {{8}}"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "the process of {{9}} removes any unwanted material from the rock salt"
+              }
+            ],
+            "indent": 1.5,
+            "spaceBefore": 0.25,
+            "marker": "•",
+            "hanging": 1.4,
+            "firstLine": 0
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      }
+    },
+    {
+      "type": "flow-chart",
+      "sourceInstructions": "Questions 10 – 13 Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 10-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "title": "Obtaining salt from brine: the multi-effect vacuum evaporator",
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "cylinders made of {{10}} are filled with brine",
+          "{{11}} heats the tube in the first cylinder",
+          "the brine boils",
+          "the {{12}} in the cylinders falls due to condensation",
+          "slurry collects in the cylinders and passes to a tank",
+          "{{13}} are used to separate salt particles by size"
+        ],
+        "arrow": "assets/living-walls-original-arrow.png"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "1HaBO2MDjEGfGD9ukWNEz6YRXVNa6gGt0",
+      "role": "word-transcription",
+      "sha256": "a602c3a9e7848b0d68faa8d3b224f943e8fc957c48888bb4f287e9b82d03ee92"
+    },
+    {
+      "id": "1wkvYnwuyhhm7pZPVLabwpoqX5Gas-pGb",
+      "role": "original-pdf",
+      "sha256": "42b9b77c6e23882dd5a2c1b358467371f37e843de76133d426e44edc4f674d63"
+    }
+  ],
+  "displayParagraphLabels": false,
+  "conversion": {
+    "version": "3.26-word",
+    "jobId": "p1-salt",
+    "method": "word-with-original-pdf-review",
+    "requiresReview": false,
+    "sourceParagraphCount": 7,
+    "review": {
+      "sourceText": true,
+      "titleSubtitle": true,
+      "taskPages": true,
+      "footnotes": true,
+      "wordPdfVersion": true,
+      "date": "2026-10-19"
+    }
+  },
+  "cover": {
+    "asset": "assets/batch3-canyon-cover.jpg",
+    "alt": "Grand Canyon",
+    "credit": "David Vives",
+    "source": "https://unsplash.com/es/fotos/paisaje-de-canon-vasto-bajo-un-cielo-azul-nublado-aF_K_4WI0LM",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license"
+  }
+}
