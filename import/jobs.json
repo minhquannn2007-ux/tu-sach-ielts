@@ -4623,8 +4623,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+    "status": "reviewed",
+    "lesson_id": "p1-living-walls-a-successful-environmental-project",
+    "mode": "practice",
+    "wordSourceId": "1ll0L4zd_wol5LkRyLIvtoagVTy99g29Z"
   },
   {
     "id": "p1-the-burgess-shale-fossils",
@@ -6530,11 +6532,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi"
-    ]
+    ],
+    "lesson_id": "p2-bristlecone-pines",
+    "mode": "practice",
+    "wordSourceId": "18PJDl6itUDjfyJTj2BiMH6LePUqHXJOF"
   },
   {
     "id": "p2-insect-decision-making",
@@ -7162,11 +7166,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1vMZVzLB_ty-ZqSRVAwlntwP1fuLXD1Q3"
-    ]
+    ],
+    "lesson_id": "p2-understanding-climate-change",
+    "mode": "practice",
+    "wordSourceId": "1MECONBN6h9TcePj3zyPHhwoTsTmdSnUb"
   },
   {
     "id": "p2-the-tasmanian-tiger",
@@ -9332,8 +9338,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Answer-sheet boundary is unclear; Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "lesson_id": "p2-the-many-benefits-of-mangroves",
+    "mode": "practice",
+    "wordSourceId": "1PvKdl7uUPDU9A7fFqw4hHD2JOxpxeyzH"
   },
   {
     "id": "p2-the-fascinating-world-of-attine-ants-chua-rep",
@@ -9482,7 +9490,10 @@
     "flags": [
       "source-name-requires-comparison"
     ],
-    "status": "queued"
+    "status": "reviewed",
+    "lesson_id": "p2-the-advantages-of-being-bilingual",
+    "mode": "practice",
+    "wordSourceId": "11gdc3FUxwwq90rQLqJRlHuNvxBhMwU4j"
   },
   {
     "id": "p2-the-2003-heat-wave-chua-go-no-pdf",
@@ -9768,11 +9779,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL"
-    ]
+    ],
+    "lesson_id": "p2-children-s-comprehension-of-television-advertising",
+    "mode": "practice",
+    "wordSourceId": "1ifMgAKmwthZF1nV-YOSWDZrbGW5UFHS5"
   },
   {
     "id": "p2-the-legacy-of-stanislavsky",

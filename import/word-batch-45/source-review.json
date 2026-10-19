@@ -1,0 +1,215 @@
+[
+  {
+    "job": "p2-bristlecone-pines",
+    "lessonId": "p2-bristlecone-pines",
+    "sources": [
+      {
+        "id": "18PJDl6itUDjfyJTj2BiMH6LePUqHXJOF",
+        "role": "word-transcription",
+        "sha256": "0b6dcb427a3984b9b0fdfab1dcc833652d3d7e4d403a71713a70f8c99036b273"
+      },
+      {
+        "id": "1CgGsgpoBWkzH07f0emUirYNE_aYc8c3v",
+        "role": "original-pdf",
+        "sha256": "f43ca546961f71be9f203f849e071aff1b64948567a50d0e4da864a0987c090b"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored missing spring sentence in D, unknown-age/known-sequences sentence in B, and Ferguson spelling",
+      "Restored both footnote markers and separate original definitions"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-understanding-climate-change",
+    "lessonId": "p2-understanding-climate-change",
+    "sources": [
+      {
+        "id": "1MECONBN6h9TcePj3zyPHhwoTsTmdSnUb",
+        "role": "word-transcription",
+        "sha256": "f822ab9933964dafc97fc4cc3156663ca1de3036d429706291d0cabd3dcccfb5"
+      },
+      {
+        "id": "1ObFvB5oC1Hb5ucjpcE2bs75HJ_18GV-r",
+        "role": "original-pdf",
+        "sha256": "bb7cf744794d999f4930d35bc4063a0471b180fd26d17b7aa79a95fe08cedbff"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Retained nine source reading paragraphs and two separate summary paragraphs",
+      "Rebuilt two-column table with five source rows and Year header"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-advantages-of-being-bilingual-a-rep-sai",
+    "lessonId": "p2-the-advantages-of-being-bilingual",
+    "sources": [
+      {
+        "id": "11gdc3FUxwwq90rQLqJRlHuNvxBhMwU4j",
+        "role": "word-transcription",
+        "sha256": "3da0ee123316162e16b5da22c125b1b279e87b4d7b54576d27ad8afb7184f111"
+      },
+      {
+        "id": "1vTROx8Yh1PXRX1oCZ_4803OZdgEfdrB3",
+        "role": "original-pdf",
+        "sha256": "8b4080a86a37540e0e0c9800874cb7637021c7b85c39cc29f103843ccf10a5d5"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p2-children-s-comprehension-of-television-advertising-toan-bo-et-al-chua-italic",
+    "lessonId": "p2-children-s-comprehension-of-television-advertising",
+    "sources": [
+      {
+        "id": "1ifMgAKmwthZF1nV-YOSWDZrbGW5UFHS5",
+        "role": "word-transcription",
+        "sha256": "634e30c234893cf40c82cefc13f659ed976a6375b1c2c592f7af7185821c43fd"
+      },
+      {
+        "id": "1rP1R7BfJVCS5a9vDLTlR848yfJpSwxpU",
+        "role": "original-pdf",
+        "sha256": "57b9b40631e2de67a17576c58684222df920ac7b5164119596d0f69fe0446f63"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored missing final sentence of B and corrected McNeal 1998 citation from PDF",
+      "Removed extra words in C; corrected source age threshold 4 or 5 in F and summary",
+      "Restored all A–H source labels and two-column reading order"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p1-living-walls-a-succesful-environmental-project",
+    "lessonId": "p1-living-walls-a-successful-environmental-project",
+    "sources": [
+      {
+        "id": "1ll0L4zd_wol5LkRyLIvtoagVTy99g29Z",
+        "role": "word-transcription",
+        "sha256": "53172373141505e4bbb7fd43059ffd16f925273d201c3c5a43331e307cfa1a12"
+      },
+      {
+        "id": "1ZR40g-Cc_BaMziuTUyg9W8MMCuLwzkEG",
+        "role": "original-pdf",
+        "sha256": "cfc39cc003cdcda87b0d664d4fbc7d11878aaddabb8e833d0e19318c4901e2eb"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Used original PDF paragraph text to correct Word punctuation and omissions; retained nine source paragraphs"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p1-carnivorous-plants",
+    "lessonId": "p1-carnivorous-plants",
+    "sources": [
+      {
+        "id": "1ALztuPz_a13z0cQgswqPsmMhqOnSOQyb",
+        "role": "word-transcription",
+        "sha256": "ebb4b432d2b66f544d324f17de1f4c76366645a23b59c2e598f5f04bac53dc9d"
+      },
+      {
+        "id": "13H4vMNOqtmRJEVZjYcxdmhhbAXSAkkH5",
+        "role": "original-pdf",
+        "sha256": "a2de98c84d2aca6dd013f036629fd9ec824c5527b3268a50de94bc8343f05c6f"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Preserved all nine source paragraphs in original two-column reading order; note subheadings underlined, main headings bold"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-many-benefits-of-mangrove-chua-rep",
+    "lessonId": "p2-the-many-benefits-of-mangroves",
+    "sources": [
+      {
+        "id": "1PvKdl7uUPDU9A7fFqw4hHD2JOxpxeyzH",
+        "role": "word-transcription",
+        "sha256": "581cd10f69c732837694914e0078dd37a60210e6c7767a91b9f58059c9f6655c"
+      },
+      {
+        "id": "1KxbS3T_cHGeTz92RYKx9i9-wjhOUUFTp",
+        "role": "original-pdf",
+        "sha256": "208dc6dfab9084b45b91a9d72f5e2b50bf46a13ff1ee8bf16e02e9d41e1aeb3e"
+      }
+    ],
+    "visualSourcePages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Matched plural mangroves title despite singular annotated original job name; seven source heading targets retained",
+      "Kept two Sato summary paragraphs"
+    ],
+    "reviewed": true
+  }
+]
