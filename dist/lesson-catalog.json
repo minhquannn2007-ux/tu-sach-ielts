@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 72494)
-Total output lines: 9959
-
 [
   {
     "id": "p1-a-brief-history-of-ballet",
@@ -3459,7 +3456,3083 @@ Total output lines: 9959
       "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
       "credit": "Lightsaber Collection",
       "license": "Unsplash License",
-      "licenseUrl": "https://unspl…22494 tokens truncated…",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints",
+    "title": "Introduction to a book about the assessment of carbon footprints",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-windmill-cover.jpg",
+      "alt": "Cối xay gió",
+      "credit": "Eric Krull",
+      "source": "https://unsplash.com/photos/4owUCOLaB14",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-investing-in-the-future",
+    "title": "Investing in the Future",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-math-cover.jpg",
+      "alt": "Bảng công thức toán",
+      "credit": "Thomas T",
+      "source": "https://unsplash.com/photos/OPpCbAAKWv8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-is-teleworking-sustainable",
+    "title": "Is Teleworking Sustainable?",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Sentence Endings",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-is-there-such-a-thing-as-too-much-information",
+    "title": "Is there such a thing as too much information?",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+    "title": "Japanese Bizen: Art that Rose from the Ashes",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Sentence Completion",
+      "Multiple Choice — Choose TWO"
+    ],
+    "cover": {
+      "asset": "assets/batch-glass-cover.jpg",
+      "alt": "Chai thủy tinh",
+      "credit": "Jonathan Cosens Photography",
+      "source": "https://unsplash.com/photos/i8as8CPVRgE",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-jellyfish-the-dominant-species",
+    "title": "Jellyfish – The Dominant Species",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-john-st-clair-kilby-inventor-of-the-integrated-circuit",
+    "title": "John St Clair Kilby: inventor of the integrated circuit",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-keeping-an-eye-on-shoppers",
+    "title": "Keeping an eye on shoppers",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-keeping-the-water-away",
+    "title": "Keeping the water away",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-sail-cover.jpg",
+      "alt": "Thuyền buồm",
+      "credit": "Tim Gouw",
+      "source": "https://unsplash.com/photos/exxNNGUWOb0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-koalas",
+    "title": "Koalas",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-koala-cover.jpg",
+      "alt": "Koala",
+      "source": "https://unsplash.com/fr/photos/un-koala-est-assis-sur-une-branche-darbre-UJIpKI40uMA",
+      "credit": "Colin + Meg",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
+    "title": "Lake Bosumtwi – the secrets of a crater lake",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Diagram Labelling",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-canyon-cover.jpg",
+      "alt": "Grand Canyon",
+      "credit": "David Vives",
+      "source": "https://unsplash.com/es/fotos/paisaje-de-canon-vasto-bajo-un-cielo-azul-nublado-aF_K_4WI0LM",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-lawrence-johnston-and-hidcote-garden",
+    "title": "Lawrence Johnston and Hidcote Garden",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-trail-cover.jpg",
+      "alt": "Đường đi bộ trong rừng",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/photos/I-tGOPAq-1A",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-lean-production-innovation-in-manufacturing-systems",
+    "title": "Lean Production – innovation in manufacturing systems",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/work-cover.jpg",
+      "alt": "Cánh tay robot trong nhà máy",
+      "credit": "Homa Appliances",
+      "source": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds",
+    "title": "Learning by example: evidence from studies of rats and birds",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "True / False / Not Given",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-owl-cover.jpg",
+      "alt": "Cú trong rừng",
+      "credit": "Erik Karits",
+      "source": "https://unsplash.com/photos/XsmAIQpgSUU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-learning-from-the-romans",
+    "title": "Learning from the Romans",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-concrete-cover.jpg",
+      "alt": "Kiến trúc bê tông",
+      "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+      "credit": "Jonas Gerlach",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-learning-to-be-bilingual",
+    "title": "Learning to be bilingual",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-learning-to-sing",
+    "title": "Learning to sing",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Summary Completion",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/batch-owl-cover.jpg",
+      "alt": "Cú trong rừng",
+      "credit": "Erik Karits",
+      "source": "https://unsplash.com/photos/XsmAIQpgSUU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-leatherback-turtles",
+    "title": "Leatherback Turtles",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Sentence Endings",
+      "Yes / No / Not Given",
+      "Note Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/fish-cover.jpg",
+      "alt": "Đàn cá dưới nước",
+      "credit": "Jean Wimmerlin",
+      "source": "https://unsplash.com/photos/school-of-fish-under-body-of-water-ePvBOHsAA54",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-leo-burnett-18911971",
+    "title": "Leo Burnett 1891–1971",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-lets-all-be-friends",
+    "title": "Let’s all be friends",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-libraries",
+    "title": "Libraries",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-lichens",
+    "title": "Lichens",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-trail-cover.jpg",
+      "alt": "Đường đi bộ trong rừng",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/photos/I-tGOPAq-1A",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-linguistic-diversity",
+    "title": "Linguistic Diversity",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-literacy-and-rural-communities-in-australia",
+    "title": "Literacy and Rural Communities in Australia",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "True / False / Not Given",
+      "Matching Information",
+      "Multiple Choice — Choose THREE"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-living-outside-the-box",
+    "title": "Living outside the box",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-living-with-uncertainty",
+    "title": "Living with uncertainty",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Short Answer Questions"
+    ],
+    "cover": {
+      "asset": "assets/batch2-kea-cover.jpg",
+      "alt": "Vẹt kea",
+      "source": "https://unsplash.com/s/photos/new-zealand-bird",
+      "credit": "Unsplash",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-london-smog",
+    "title": "London Smog",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Names",
+      "Summary Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-concrete-cover.jpg",
+      "alt": "Kiến trúc bê tông",
+      "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+      "credit": "Jonas Gerlach",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-look-who-was-talking",
+    "title": "Look who was talking",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Names",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-looking-at-daily-life-in-ancient-rome",
+    "title": "Looking at daily life in ancient Rome",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-looking-for-inspiration",
+    "title": "Looking for inspiration",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Names",
+      "Summary Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-looking-skyward",
+    "title": "Looking Skyward",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-plane-cover.jpg",
+      "alt": "Máy bay",
+      "credit": "Michal Mrozek",
+      "source": "https://unsplash.com/photos/jiJHztoxSVw",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-magnificent-money-making-mantas",
+    "title": "Magnificent money-making mantas",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Summary Completion",
+      "Multiple Choice — Choose TWO"
+    ],
+    "cover": {
+      "asset": "assets/fish-cover.jpg",
+      "alt": "Đàn cá dưới nước",
+      "credit": "Jean Wimmerlin",
+      "source": "https://unsplash.com/photos/school-of-fish-under-body-of-water-ePvBOHsAA54",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-making-images-from-space-more-accessible",
+    "title": "Making images from space more accessible",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-rocket-cover.jpg",
+      "alt": "Phóng tên lửa",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/s/photos/rockets",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-making-your-mind-up",
+    "title": "Making Your Mind Up",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-manage-your-energy-not-your-time",
+    "title": "Manage Your Energy, Not Your Time",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-managing-the-language-barrier-in-international-business",
+    "title": "Managing the language barrier in international business",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Summary Completion",
+      "Sentence Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-maori-buildings-in-new-zealand",
+    "title": "Māori buildings in New Zealand",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-wood-cover.jpg",
+      "alt": "Nhà gỗ",
+      "credit": "Louis Renaudineau",
+      "source": "https://unsplash.com/photos/hPSobsDtXQo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-map-reading-and-gender",
+    "title": "Map-reading and Gender",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-marine-diversity",
+    "title": "Marine diversity",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose THREE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-marine-mammals-exhibit-their-ingenuity",
+    "title": "Marine mammals exhibit their ingenuity",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-mark-strizic-the-career-of-an-australian-photographer",
+    "title": "Mark Strizic: the career of an Australian photographer",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Summary Completion",
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-mark-sumner-of-the-university-of-leeds-explains-the-challenges-facing-the-fashion-industry",
+    "title": "Mark Sumner of the University of Leeds explains the challenges facing the fashion industry",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-clothes-cover.jpg",
+      "alt": "Quần áo",
+      "source": "https://unsplash.com/photos/a-row-of-clothes-on-a-rack-xrtVRkylVhs",
+      "credit": "Daryl Han",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-marketing-environmentally-friendly-products",
+    "title": "Marketing environmentally-friendly products",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-windmill-cover.jpg",
+      "alt": "Cối xay gió",
+      "credit": "Eric Krull",
+      "source": "https://unsplash.com/photos/4owUCOLaB14",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-measuring-economic-activity-from-outer-space",
+    "title": "Measuring economic activity from outer space",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-rocket-cover.jpg",
+      "alt": "Phóng tên lửa",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/s/photos/rockets",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-meeting-challenges-in-food-production",
+    "title": "Meeting Challenges in Food Production",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-corn-cover.jpg",
+      "alt": "Ngô",
+      "credit": "Tianlei Wu",
+      "source": "https://unsplash.com/photos/fmEjP7DMKJ8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-memory-champions-or-just-good-at-tricks",
+    "title": "Memory Champions … or just good at tricks?",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Flow-chart Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-math-cover.jpg",
+      "alt": "Bảng công thức toán",
+      "credit": "Thomas T",
+      "source": "https://unsplash.com/photos/OPpCbAAKWv8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-memory-in-plants",
+    "title": "Memory in plants",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-orchid-cover.jpg",
+      "alt": "Hoa lan tím",
+      "source": "https://unsplash.com/photos/close-up-photo-of-purple-orchid-flower-eH5gAM2X2wQ",
+      "credit": "Rita Ox",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-mental-gymnastic",
+    "title": "Mental Gymnastic",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/work-cover.jpg",
+      "alt": "Cánh tay robot trong nhà máy",
+      "credit": "Homa Appliances",
+      "source": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-mercator-the-map-maker",
+    "title": "MERCATOR – THE MAP MAKER",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-methods-of-increasing-fish-production",
+    "title": "Methods of increasing fish production",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Features",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-michael-ventris-and-the-decoding-of-linear-b",
+    "title": "Michael Ventris and the decoding of Linear B",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-mimicry-and-parenting",
+    "title": "Mimicry and parenting",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-mind-music",
+    "title": "Mind Music",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Summary Completion",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/music-cover.jpg",
+      "alt": "Người chơi đàn violin",
+      "credit": "Luwadlin Bosman",
+      "source": "https://unsplash.com/photos/a-woman-in-a-blue-dress-playing-a-violin-pD1KUHCZ9Yc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-mixed-signals",
+    "title": "Mixed signals",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Sentence Completion",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-mobile-technology-and-language",
+    "title": "Mobile technology and language",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-motivating-employees-who-work-with-customers",
+    "title": "Motivating employees who work with customers",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/work-cover.jpg",
+      "alt": "Cánh tay robot trong nhà máy",
+      "credit": "Homa Appliances",
+      "source": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-movement-underwater",
+    "title": "Movement Underwater",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Table Completion",
+      "Diagram Labelling"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-multi-purpose-meeting-spaces",
+    "title": "Multi-purpose meeting spaces",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch2-concrete-cover.jpg",
+      "alt": "Kiến trúc bê tông",
+      "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+      "credit": "Jonas Gerlach",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-multi-tasking-and-the-brain",
+    "title": "Multi-tasking and the brain",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-multitasking",
+    "title": "Multitasking",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-muscle-wasting",
+    "title": "Muscle Wasting",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-music-and-the-human-brain",
+    "title": "Music and the human brain",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/music-cover.jpg",
+      "alt": "Người chơi đàn violin",
+      "credit": "Luwadlin Bosman",
+      "source": "https://unsplash.com/photos/a-woman-in-a-blue-dress-playing-a-violin-pD1KUHCZ9Yc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-mystery-drawing",
+    "title": "Mystery Drawing",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-ballet-cover.jpg",
+      "alt": "Ballet",
+      "credit": "Kazuo Ota",
+      "source": "https://unsplash.com/photos/ynDNHq842_s",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-nanotechnology-the-science-of-the-very-small",
+    "title": "Nanotechnology: the science of the very small",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Summary Completion",
+      "Matching Information",
+      "Multiple Choice — Choose TWO"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-new-businesses-in-new-zealand",
+    "title": "New Businesses in New Zealand",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-concrete-cover.jpg",
+      "alt": "Kiến trúc bê tông",
+      "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+      "credit": "Jonas Gerlach",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-new-insights-into-keeping-our-brains-agile-with-age",
+    "title": "New Insights into Keeping Our Brains Agile with Age",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Multiple Choice — Choose THREE",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-new-technology-in-new-zealands-health-service",
+    "title": "New Technology in New Zealand’s Health Service",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-new-understanding-of-giraffes-in-the-wild",
+    "title": "New Understanding of Giraffes in the Wild",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Table Completion"
+    ],
+    "cover": {
+      "asset": "assets/giraffe-cover.jpg",
+      "alt": "Hươu cao cổ ngoài tự nhiên",
+      "credit": "Mike Setchell",
+      "source": "https://unsplash.com/photos/giraffe-surrounded-by-brown-grass-pf97TYdQlWM",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-new-zealand-short-stories",
+    "title": "New Zealand Short Stories",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-newly-hatched-birds",
+    "title": "Newly hatched birds",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Matching Names",
+      "Matching Information"
+    ],
+    "cover": {
+      "asset": "assets/batch-owl-cover.jpg",
+      "alt": "Cú trong rừng",
+      "credit": "Erik Karits",
+      "source": "https://unsplash.com/photos/XsmAIQpgSUU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-no-title-charles-darwin",
+    "title": "No title – Charles Darwin",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-psychological-responses-to-mirror-images",
+    "title": "No title – Mirrors",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-obesity-do-citizens-of-developed-countries-really-have-a-choice",
+    "title": "Obesity: Do citizens of developed countries really have a choice?",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Names",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-cook-cover.jpg",
+      "alt": "Nấu ăn",
+      "credit": "Esperanza Doronila",
+      "source": "https://unsplash.com/photos/fe6Fbc3nDYo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-office-design",
+    "title": "Office Design",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Matching Features",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-on-art-and-artists",
+    "title": "On art and artists",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-orchids",
+    "title": "Orchids",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-orchid-cover.jpg",
+      "alt": "Hoa lan tím",
+      "source": "https://unsplash.com/photos/close-up-photo-of-purple-orchid-flower-eH5gAM2X2wQ",
+      "credit": "Rita Ox",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-otters",
+    "title": "Otters",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Short Answer Questions"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-parental-involvement-programmes-in-education-a-review-of-the-literature",
+    "title": "Parental involvement programmes in education: a review of the literature",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Matching Names",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-patience-fairness-and-the-human-condition",
+    "title": "Patience, fairness and the human condition",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Summary Completion",
+      "Multiple Choice — Choose TWO"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-patterns-of-nature",
+    "title": "Patterns of Nature",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Headings",
+      "Diagram Labelling",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-ants-cover.jpg",
+      "alt": "Kiến trên lá",
+      "source": "https://unsplash.com/photos/a-close-up-of-a-group-of-ants-on-a-leaf-Cvx1BDQM15o",
+      "credit": "Dibakar Roy",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-personality-and-appearance",
+    "title": "Personality and Appearance",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-petrol-power-an-eco-revolution",
+    "title": "Petrol power: an eco-revolution?",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-rail-cover.jpg",
+      "alt": "Tàu hỏa",
+      "source": "https://unsplash.com/photos/train-on-rail-tracks-during-daytime-Udc3UlZuS18",
+      "credit": "Harry Peters",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-planets-without-suns",
+    "title": "Planets without suns",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "True / False / Not Given",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-rocket-cover.jpg",
+      "alt": "Phóng tên lửa",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/s/photos/rockets",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-playing-soccer",
+    "title": "Playing soccer",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-tennis-cover.jpg",
+      "alt": "Bóng tennis",
+      "credit": "Marianna Smiley",
+      "source": "https://unsplash.com/fr/photos/balle-de-tennis-verte-sur-le-terrain-dherbe-verte-pendant-la-journee-Y4YeUSYLFsw",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-pluto-seen-up-close-for-the-first-time",
+    "title": "Pluto Seen up Close for the First Time",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-rocket-cover.jpg",
+      "alt": "Phóng tên lửa",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/s/photos/rockets",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-power-from-the-sea",
+    "title": "Power from the Sea",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "True / False / Not Given",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-sail-cover.jpg",
+      "alt": "Thuyền buồm",
+      "credit": "Tim Gouw",
+      "source": "https://unsplash.com/photos/exxNNGUWOb0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-practical-action",
+    "title": "Practical Action",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion",
+      "Diagram Labelling"
+    ],
+    "cover": {
+      "asset": "assets/batch2-rail-cover.jpg",
+      "alt": "Tàu hỏa",
+      "source": "https://unsplash.com/photos/train-on-rail-tracks-during-daytime-Udc3UlZuS18",
+      "credit": "Harry Peters",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-preserving-antarctic-history",
+    "title": "Preserving Antarctic History",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ice-cover.jpg",
+      "alt": "Phong cảnh Nam Cực",
+      "credit": "Dylan Shaw",
+      "source": "https://unsplash.com/photos/XizlZYFKz44",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-preserving-the-gardens-of-the-past",
+    "title": "Preserving the Gardens of the Past",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-trail-cover.jpg",
+      "alt": "Đường đi bộ trong rừng",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/photos/I-tGOPAq-1A",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-putting-the-parts-together-muskets-and-mass-production",
+    "title": "Putting the parts together: muskets and mass production",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-rags-to-riches",
+    "title": "Rags to Riches",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Sentence Completion",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-re-dating-cave-art",
+    "title": "Re-dating cave art",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-reading-greek",
+    "title": "Reading Greek",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-reading-in-different-media",
+    "title": "Reading in different media",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-rebranding-art-museums",
+    "title": "Rebranding art museums",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch-ballet-cover.jpg",
+      "alt": "Ballet",
+      "credit": "Kazuo Ota",
+      "source": "https://unsplash.com/photos/ynDNHq842_s",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-red-and-brown-seaweed",
+    "title": "Red and Brown Seaweed",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries",
+    "title": "Reducing exposure to indoor air pollution in developing countries",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch-wood-cover.jpg",
+      "alt": "Nhà gỗ",
+      "credit": "Louis Renaudineau",
+      "source": "https://unsplash.com/photos/hPSobsDtXQo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-relish-the-flavour",
+    "title": "Relish the flavour",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "True / False / Not Given",
+      "Matching Features"
+    ],
+    "cover": {
+      "asset": "assets/batch-cook-cover.jpg",
+      "alt": "Nấu ăn",
+      "credit": "Esperanza Doronila",
+      "source": "https://unsplash.com/photos/fe6Fbc3nDYo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-research-into-the-effects-of-different-teaching-styles",
+    "title": "Research into the effects of different teaching styles",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Summary Completion",
+      "Matching Names",
+      "Matching Information"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-restoring-neighborhoods-by-removing-highways",
+    "title": "Restoring Neighborhoods by Removing Highways",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/public-art-cover.jpg",
+      "alt": "Điêu khắc ngoài trời",
+      "credit": "Michael Savin",
+      "source": "https://unsplash.com/photos/a-metal-sculpture-in-a-park-setting-DpmVGlQA-RY",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-review-of-research-on-the-effects-of-food-promotion-to-children",
+    "title": "Review of research on the effects of food promotion to children",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-canned-cover.jpg",
+      "alt": "Thực phẩm đóng hộp",
+      "credit": "CHUTTERSNAP",
+      "source": "https://unsplash.com/photos/KCSR5QzSUH8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-rights-for-apes",
+    "title": "Rights for apes",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Summary Completion",
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-risk-taking",
+    "title": "Risk taking",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Sentence Endings",
+      "Matching Information",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-math-cover.jpg",
+      "alt": "Bảng công thức toán",
+      "credit": "Thomas T",
+      "source": "https://unsplash.com/photos/OPpCbAAKWv8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-robert-louis-stevenson",
+    "title": "Robert Louis Stevenson",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-rocket-science",
+    "title": "Rocket Science",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-rocket-cover.jpg",
+      "alt": "Phóng tên lửa",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/s/photos/rockets",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-roll-cameras",
+    "title": "Roll Cameras!",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-opera-cover.jpg",
+      "alt": "Ghế trong nhà hát",
+      "credit": "Denise Jans",
+      "source": "https://unsplash.com/photos/OaVJQZ-nFD0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-roller-coaster-the-great-fairground-attraction",
+    "title": "Roller coaster: the great fairground attraction",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Diagram Labelling",
+      "Summary Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-rail-cover.jpg",
+      "alt": "Tàu hỏa",
+      "source": "https://unsplash.com/photos/train-on-rail-tracks-during-daytime-Udc3UlZuS18",
+      "credit": "Harry Peters",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-rubber",
+    "title": "Rubber",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/eucalyptus-cover.jpg",
+      "alt": "Lá bạch đàn",
+      "credit": "Sibeli Velázquez",
+      "source": "https://unsplash.com/photos/eucalyptus-leaves-curve-gracefully-against-a-cream-background-p3P4d6jSNUc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-san-francisco-museum-of-modern-art",
+    "title": "San Francisco Museum of Modern Art",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/public-art-cover.jpg",
+      "alt": "Điêu khắc ngoài trời",
+      "credit": "Michael Savin",
+      "source": "https://unsplash.com/photos/a-metal-sculpture-in-a-park-setting-DpmVGlQA-RY",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-saving-languages",
+    "title": "Saving languages",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Headings",
+      "Matching Names",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-saving-the-date-palm",
+    "title": "Saving the date palm",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-palm-cover.jpg",
+      "alt": "Cây chà là",
+      "source": "https://unsplash.com/s/photos/date-palm",
+      "credit": "Unsplash",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-saving-the-kiwi",
+    "title": "Saving the kiwi",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-owl-cover.jpg",
+      "alt": "Cú trong rừng",
+      "credit": "Erik Karits",
+      "source": "https://unsplash.com/photos/XsmAIQpgSUU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-saving-the-ss-united-states",
+    "title": "Saving the SS United States",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-sail-cover.jpg",
+      "alt": "Thuyền buồm",
+      "credit": "Tim Gouw",
+      "source": "https://unsplash.com/photos/exxNNGUWOb0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-science-and-filmmaking",
+    "title": "Science and filmmaking",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-opera-cover.jpg",
+      "alt": "Ghế trong nhà hát",
+      "credit": "Denise Jans",
+      "source": "https://unsplash.com/photos/OaVJQZ-nFD0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-searching-for-sustainable-solutions-to-indoor-air-pollution",
+    "title": "Searching for sustainable solutions to indoor air pollution",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Short Answer Questions",
+      "Flow-chart Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-cook-cover.jpg",
+      "alt": "Cooking — indoor air pollution",
+      "credit": "Esperanza Doronila",
+      "source": "https://unsplash.com/photos/fe6Fbc3nDYo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-seaweed",
+    "title": "Seaweed",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-seaweed-cover.jpg",
+      "alt": "Rong biển",
+      "credit": "Kristin Hoel",
+      "source": "https://unsplash.com/photos/underwater-view-of-seaweed-in-the-ocean-GvFpLsrKkn0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-secrets-of-the-nasca-lines",
+    "title": "Secrets of the Nasca Lines",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-mesoamerica-cover.jpg",
+      "alt": "Di tích Chichén Itzá",
+      "credit": "Elesban Landero Berriozábal",
+      "source": "https://unsplash.com/photos/WHEwrnlUuEE",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-seeing-the-colour-of-sounds-hearing-the-colour-of-numbers",
+    "title": "Seeing the colour of sounds, hearing the colour of numbers",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Names",
+      "Matching Information",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/music-cover.jpg",
+      "alt": "Người chơi đàn violin",
+      "credit": "Luwadlin Bosman",
+      "source": "https://unsplash.com/photos/a-woman-in-a-blue-dress-playing-a-violin-pD1KUHCZ9Yc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-self-perceptions",
+    "title": "Self-perceptions",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-shopping-by-design",
+    "title": "Shopping by design",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Sentence Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-canned-cover.jpg",
+      "alt": "Thực phẩm đóng hộp",
+      "credit": "CHUTTERSNAP",
+      "source": "https://unsplash.com/photos/KCSR5QzSUH8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-should-we-stop-eating-meat",
+    "title": "Should we stop eating meat?",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Summary Completion",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/batch-cook-cover.jpg",
+      "alt": "Nấu ăn",
+      "credit": "Esperanza Doronila",
+      "source": "https://unsplash.com/photos/fe6Fbc3nDYo",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-sign-baby-sign",
+    "title": "Sign, baby, sign!",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-sir-francis-ronalds-1788-1873",
+    "title": "Sir Francis Ronalds 1788 – 1873",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Names",
+      "Short Answer Questions",
+      "Matching Information"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-sleep-who-needs-it",
+    "title": "Sleep – who needs it",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Names",
+      "Sentence Completion",
+      "Matching Information"
+    ],
+    "cover": {
+      "asset": "assets/batch2-dream-cover.jpg",
+      "alt": "Giấc ngủ",
+      "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
+      "credit": "Diana Light",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-sleep-study-on-modern-day-hunter-gatherers-dispels-popular-notions",
+    "title": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-dream-cover.jpg",
+      "alt": "Giấc ngủ",
+      "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
+      "credit": "Diana Light",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-socotra-island",
+    "title": "Socotra Island",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-baobab-cover.jpg",
+      "alt": "Cây baobab",
+      "source": "https://unsplash.com/photos/baobab-trees-lUZxQVfx7aI",
+      "credit": "Sergey Zhesterev",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-solving-the-problem-of-waste-disposal",
+    "title": "Solving the problem of waste disposal",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-canned-cover.jpg",
+      "alt": "Thực phẩm đóng hộp",
+      "credit": "CHUTTERSNAP",
+      "source": "https://unsplash.com/photos/KCSR5QzSUH8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-songs-of-ourselves",
+    "title": "Songs of Ourselves",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Headings",
+      "Matching Statements",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/music-cover.jpg",
+      "alt": "Người chơi đàn violin",
+      "credit": "Luwadlin Bosman",
+      "source": "https://unsplash.com/photos/a-woman-in-a-blue-dress-playing-a-violin-pD1KUHCZ9Yc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-speech-acts-and-philosophy",
+    "title": "Speech acts and philosophy",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-star-performers",
+    "title": "Star Performers",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Short Answer Questions",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/work-cover.jpg",
+      "alt": "Cánh tay robot trong nhà máy",
+      "credit": "Homa Appliances",
+      "source": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-steam-across-the-water",
+    "title": "Steam across the water",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Table Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-sail-cover.jpg",
+      "alt": "Thuyền buồm",
+      "credit": "Tim Gouw",
+      "source": "https://unsplash.com/photos/exxNNGUWOb0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-storytelling-from-prehistoric-caves-to-modern-cinemas",
+    "title": "Storytelling, from prehistoric caves to modern cinemas",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-opera-cover.jpg",
+      "alt": "Ghế trong nhà hát",
+      "credit": "Denise Jans",
+      "source": "https://unsplash.com/photos/OaVJQZ-nFD0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-strategies-for-helping-children-to-learn",
+    "title": "Strategies for helping children to learn",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-stress-less",
+    "title": "Stress less",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Names",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-dream-cover.jpg",
+      "alt": "Giấc ngủ",
+      "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
+      "credit": "Diana Light",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-studies-in-the-history-of-art-and-visual-culture",
+    "title": "Studies in the History of Art and Visual Culture",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-studying-the-history-of-medieval-britain",
+    "title": "Studying the history of medieval Britain",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-successful-approaches-to-public-speaking",
+    "title": "Successful approaches to public speaking",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-supplying-drinking-water-to-australian-households",
+    "title": "Supplying drinking water to Australian households",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-sail-cover.jpg",
+      "alt": "Thuyền buồm",
+      "credit": "Tim Gouw",
+      "source": "https://unsplash.com/photos/exxNNGUWOb0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+    "title": "Surviving the winter: hibernation and other resting states",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-dream-cover.jpg",
+      "alt": "Giấc ngủ",
+      "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
+      "credit": "Diana Light",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-sweet-scent-of-success",
+    "title": "Sweet scent of success",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch-soap-cover.jpg",
+      "alt": "Xà phòng",
+      "credit": "Unsplash",
+      "source": "https://unsplash.com/photos/K2KrvkXtJck",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-sweet-trouble",
+    "title": "Sweet Trouble",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Names",
+      "Multiple Choice — Choose ONE",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-corn-cover.jpg",
+      "alt": "Ngô",
+      "credit": "Tianlei Wu",
+      "source": "https://unsplash.com/photos/fmEjP7DMKJ8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-sydney-opera-house",
+    "title": "Sydney Opera House",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-opera-cover.jpg",
+      "alt": "Ghế trong nhà hát",
+      "credit": "Denise Jans",
+      "source": "https://unsplash.com/photos/OaVJQZ-nFD0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-sydneys-road-stories",
+    "title": "Sydney’s Road Stories",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Summary Completion",
+      "Multiple Choice — Choose TWO"
+    ],
+    "cover": {
+      "asset": "assets/batch2-rail-cover.jpg",
+      "alt": "Tàu hỏa",
+      "source": "https://unsplash.com/photos/train-on-rail-tracks-during-daytime-Udc3UlZuS18",
+      "credit": "Harry Peters",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-take-back-your-time",
+    "title": "Take Back Your Time",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/work-cover.jpg",
+      "alt": "Cánh tay robot trong nhà máy",
+      "credit": "Homa Appliances",
+      "source": "https://unsplash.com/photos/blue-industrial-robot-arm-in-factory-sz1CHL7Pky0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-tasmania-s-museum-of-old-and-new-art",
+    "title": "Tasmania's Museum of Old and New Art",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/public-art-cover.jpg",
+      "alt": "Điêu khắc ngoài trời",
+      "credit": "Michael Savin",
+      "source": "https://unsplash.com/photos/a-metal-sculpture-in-a-park-setting-DpmVGlQA-RY",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-teamwork",
+    "title": "Teamwork",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-technology-and-the-future-workforce-in-the-us",
+    "title": "Technology and the Future Workforce in the US",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-temperature-rising",
+    "title": "TEMPERATURE RISING",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Sentence Completion",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/batch-ice-cover.jpg",
+      "alt": "Phong cảnh Nam Cực",
+      "credit": "Dylan Shaw",
+      "source": "https://unsplash.com/photos/XizlZYFKz44",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-termite-mounds",
+    "title": "Termite Mounds",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Headings",
+      "Diagram Labelling",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch2-ants-cover.jpg",
+      "alt": "Kiến trên lá",
+      "source": "https://unsplash.com/photos/a-close-up-of-a-group-of-ants-on-a-leaf-Cvx1BDQM15o",
+      "credit": "Dibakar Roy",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-ability-to-communicate-using-language",
+    "title": "The ability to communicate using language",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-accidental-scientist",
+    "title": "The Accidental Scientist",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose ONE",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-the-adaptation-of-dickens-novels-for-film",
+    "title": "The adaptation of Dickens' novels for film",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-opera-cover.jpg",
+      "alt": "Ghế trong nhà hát",
+      "credit": "Denise Jans",
+      "source": "https://unsplash.com/photos/OaVJQZ-nFD0",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-analysis-of-fear",
+    "title": "The Analysis of Fear",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-animal-connection",
+    "title": "The Animal Connection",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-horse-cover.jpg",
+      "alt": "Ngựa trên đồng cỏ",
+      "credit": "Shivansh Upadhyay",
+      "source": "https://unsplash.com/photos/RvVK2sg9NoU",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-antikythera-mechanism",
+    "title": "The Antikythera Mechanism",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch6-watch-cover.jpg",
+      "alt": "Đồng hồ đeo tay cơ học",
+      "credit": "Unsplash",
+      "source": "https://images.unsplash.com/photo-1524805444758-089113d48a6d",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-the-band-of-holes",
+    "title": "The Band of Holes",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-mesoamerica-cover.jpg",
+      "alt": "Di tích Chichén Itzá",
+      "credit": "Elesban Landero Berriozábal",
+      "source": "https://unsplash.com/photos/WHEwrnlUuEE",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-the-baobabs-of-madagascar",
+    "title": "The Baobabs of Madagascar",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-baobab-cover.jpg",
+      "alt": "Cây baobab",
+      "source": "https://unsplash.com/photos/baobab-trees-lUZxQVfx7aI",
+      "credit": "Sergey Zhesterev",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-the-biological-basis-of-business-management",
+    "title": "The biological basis of business management",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-booming-business-of-nation-branding",
+    "title": "The booming business of nation-branding",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Summary Completion",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-map-cover.jpg",
+      "alt": "Bản đồ cổ",
+      "credit": "The New York Public Library",
+      "source": "https://unsplash.com/photos/RoDSZoVzBVs",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-the-burgess-shale-fossils",
+    "title": "The Burgess Shale fossils",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion",
+      "Table Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-dinosaur-cover.jpg",
+      "alt": "Bộ xương khủng long",
+      "credit": "Tofan Teodor",
+      "source": "https://unsplash.com/photos/loDom-q2mwA",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-the-cause-of-linguistic-change",
+    "title": "The Cause of Linguistic Change",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Summary Completion",
+      "True / False / Not Given",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-the-changing-face-of-farming-in-the-canterbury-region-of-new-zealand",
+    "title": "The Changing Face of Farming in the Canterbury Region of New Zealand",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-corn-cover.jpg",
+      "alt": "Ngô",
+      "credit": "Tianlei Wu",
+      "source": "https://unsplash.com/photos/fmEjP7DMKJ8",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-the-chemical-element-phosphorus",
+    "title": "The chemical element phosphorus",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Table Completion"
+    ],
+    "cover": {
+      "asset": "assets/phosphorus-cover.jpg",
+      "alt": "Diêm có đầu phosphorus đỏ",
+      "credit": "Santeri Viinamäki",
+      "source": "https://commons.wikimedia.org/wiki/File:Matchsticks_2016-06-13.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+    }
+  },
+  {
+    "id": "p2-the-clustering-of-it-companies",
+    "title": "The clustering of IT companies",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose TWO",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch3-code-cover.jpg",
+      "alt": "Mã lập trình",
+      "credit": "Markus Spiske",
+      "source": "https://unsplash.com/it/foto/software-colorato-o-codice-web-sul-monitor-di-un-computer-Skf7HxARcoc",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
