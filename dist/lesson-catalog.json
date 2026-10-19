@@ -1441,6 +1441,25 @@
     }
   },
   {
+    "id": "p3-book-review-the-discovery-of-slowness",
+    "title": "Book Review: The Discovery of Slowness",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-ice-cover.jpg",
+      "alt": "Phong cảnh Nam Cực",
+      "credit": "Dylan Shaw",
+      "source": "https://unsplash.com/photos/XizlZYFKz44",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p2-books-and-buildings",
     "title": "Books and Buildings",
     "part": 2,
@@ -1455,6 +1474,25 @@
       "alt": "Kệ sách trong thư viện",
       "credit": "Daniel Forsman",
       "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-boring-buildings",
+    "title": "Boring buildings",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch2-concrete-cover.jpg",
+      "alt": "Kiến trúc bê tông",
+      "source": "https://unsplash.com/photos/concrete-architecture-with-geometric-shapes-and-light-klzoYhlqIds",
+      "credit": "Jonas Gerlach",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -3381,6 +3419,25 @@
     }
   },
   {
+    "id": "p3-how-have-humans-changed",
+    "title": "How have humans changed?",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Summary Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p3-how-scientists-see-science",
     "title": "How scientists see science",
     "part": 3,
@@ -3754,6 +3811,25 @@
       "alt": "Kiến trên lá",
       "source": "https://unsplash.com/photos/a-close-up-of-a-group-of-ants-on-a-leaf-Cvx1BDQM15o",
       "credit": "Dibakar Roy",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-inside-the-mind-of-a-fan",
+    "title": "Inside the mind of a fan",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch3-tennis-cover.jpg",
+      "alt": "Bóng tennis",
+      "credit": "Marianna Smiley",
+      "source": "https://unsplash.com/fr/photos/balle-de-tennis-verte-sur-le-terrain-dherbe-verte-pendant-la-journee-Y4YeUSYLFsw",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -4443,6 +4519,25 @@
       "Yes / No / Not Given",
       "Multiple Choice — Choose ONE",
       "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/batch4-lab-cover.jpg",
+      "alt": "Nghiên cứu trong phòng thí nghiệm",
+      "source": "https://unsplash.com/photos/a-man-looking-through-a-microscope-at-something-TqbptCWbaJg",
+      "credit": "Lightsaber Collection",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-management-brains",
+    "title": "Management Brains",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
     ],
     "cover": {
       "asset": "assets/batch4-lab-cover.jpg",
@@ -7251,6 +7346,25 @@
     }
   },
   {
+    "id": "p2-the-coastal-archaeology-of-britain",
+    "title": "The Coastal Archaeology of Britain",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "True / False / Not Given",
+      "Multiple Choice — Choose THREE"
+    ],
+    "cover": {
+      "asset": "assets/batch-ruins-cover.jpg",
+      "alt": "Di tích La Mã",
+      "credit": "Francesco Ungaro",
+      "source": "https://unsplash.com/photos/ZVivOyso2Uc",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
     "id": "p2-the-collective-evolution-of-tangle-web-spiders",
     "title": "The collective evolution of tangle-web spiders",
     "part": 2,
@@ -7618,6 +7732,25 @@
       "alt": "Đường đi bộ trong rừng",
       "credit": "Unsplash",
       "source": "https://unsplash.com/photos/I-tGOPAq-1A",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-the-discovery-of-a-baby-mammoth",
+    "title": "The discovery of a baby mammoth",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-ice-cover.jpg",
+      "alt": "Phong cảnh Nam Cực",
+      "credit": "Dylan Shaw",
+      "source": "https://unsplash.com/photos/XizlZYFKz44",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -10756,6 +10889,25 @@
       "alt": "Kệ sách trong thư viện",
       "credit": "Daniel Forsman",
       "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-why-do-singers-lose-their-voices",
+    "title": "Why do singers lose their voices?",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Information",
+      "Sentence Completion",
+      "Matching Names"
+    ],
+    "cover": {
+      "asset": "assets/batch-speech-cover.jpg",
+      "alt": "Micro thuyết trình",
+      "credit": "Joao Cruz",
+      "source": "https://unsplash.com/photos/IkEpl3JkVqU",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
