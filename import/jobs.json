@@ -11256,7 +11256,8 @@
     ],
     "flags": [],
     "status": "queued",
-    "holdReason": "Source content/layout or legacy duplicate requires review; not published"
+    "holdReason": "User rejected as fake; removed 2026-10-19. Do not publish.",
+    "publicationBlocked": true
   },
   {
     "id": "p2-doodling",

@@ -104,6 +104,15 @@
       "part": 3,
       "reason": "Source Matching Uses Q35 and Q36 both say Radiometric analysis with no distinction; needs source correction, not published",
       "publicationBlocked": true
+    },
+    {
+      "job": "p2-from-princes-to-paupers-how-goya-s-portraits-tell-the-story-of-spain",
+      "title": "From princes to paupers: how Goya's portraits tell the story of Spain",
+      "part": 2,
+      "sourceId": "1ug1P302azpFYz3UgfmuBNQ-jBSU_E4u-",
+      "reason": "User identified this version as fake; removed from website. Do not reimport. Original legacy Goya is unaffected.",
+      "publicationBlocked": true,
+      "blockedAt": "2026-10-19"
     }
   ]
 }

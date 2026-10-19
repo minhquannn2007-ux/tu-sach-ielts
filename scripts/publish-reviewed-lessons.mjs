@@ -3,12 +3,15 @@ import path from 'node:path';
 import vm from 'node:vm';
 import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const holds=JSON.parse(fs.readFileSync(path.join(root,'import/source-content-holds.json'),'utf8')).lessons.filter(x=>x.publicationBlocked);
+const blockedSourceIds=new Set(holds.map(x=>x.sourceId).filter(Boolean));
 const heldSources=new Set(JSON.parse(fs.readFileSync(path.join(root,'import/source-content-holds.json'),'utf8')).lessons.filter(x=>x.publicationBlocked).map(x=>x.job));
 const ctx={};vm.runInNewContext(fs.readFileSync(path.join(root,'dist/exam-data.js'),'utf8'),ctx);
 const lessons=[];
 for(const name of fs.readdirSync(path.join(root,'dist/lessons')).filter(f=>f.endsWith('.json'))){
  const data=JSON.parse(fs.readFileSync(path.join(root,'dist/lessons',name),'utf8'));
  if(heldSources.has(data.conversion?.jobId)||heldSources.has(data.id))throw new Error('Source PDF content hold: '+name);
+ if((data.sources||[]).some(s=>blockedSourceIds.has(s.id)))throw new Error('User-rejected source: '+name);
  const errors=ctx.IELTSData.validate(data);if(errors.length)throw new Error(name+': '+errors.join('; '));
  if(name!==data.id+'.json')throw new Error('Filename/id mismatch: '+name);
  if(!data.cover?.asset||!fs.existsSync(path.join(root,'dist',data.cover.asset)))throw new Error('Missing topic cover: '+name);

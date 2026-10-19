@@ -5,6 +5,7 @@ Word paragraph/task against it. Missing/contradictory questions remain held.
 Note layout overrides require an explicit source-specific review.
 """
 import pathlib,json,re,hashlib,importlib.util,sys,argparse
+from word_source_scope import require_word
 from docx import Document
 from docx.text.paragraph import Paragraph
 from docx.oxml.ns import qn
@@ -15,7 +16,7 @@ selection=[x for p in args.selection for x in json.load(open(p))]
 report=[]
 notes_overrides=json.load(open(args.note_overrides))if args.note_overrides else{}
 for x in selection:
- j=x['job'];w=x['words'][0];doc=Document(args.word_cache/(w['id']+'.docx'));ps=[]
+ j=x['job'];w=require_word(x['words'][0],j['part']);doc=Document(args.word_cache/(w['id']+'.docx'));ps=[]
  for e in doc.element.body:
   if e.tag==qn('w:p'):ps.append(Paragraph(e,doc))
   elif e.tag==qn('w:tbl'):
