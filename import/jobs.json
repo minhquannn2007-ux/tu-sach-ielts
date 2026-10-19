@@ -1080,8 +1080,11 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "lesson_id": "p1-scented-plants",
+    "mode": "practice",
+    "wordSourceId": "1z0CYvLULaV5e7JcfdvEOzbcnHA_hOu9M"
   },
   {
     "id": "p1-preserving-the-gardens-of-the-past",
@@ -6027,8 +6030,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Missing or repeated paragraph labels; Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "holdReason": "Missing or repeated paragraph labels; Image/scan pages need OCR and visual source review",
+    "lesson_id": "p2-the-importance-of-the-human-urge-to-move",
+    "mode": "practice",
+    "wordSourceId": "10Llw9fHzGnEcJHYTOhclSwfw-EZoTG7J"
   },
   {
     "id": "p2-rocket-science",
@@ -8495,11 +8501,14 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
+    "status": "reviewed",
     "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
     "preparedSourceIds": [
       "1amKd7jQ_p-1uCe2FI6rPpkpgccTxG9VU"
-    ]
+    ],
+    "lesson_id": "p2-the-development-of-television-and-its-introduction-in-britain",
+    "mode": "practice",
+    "wordSourceId": "1AOG2baSUWGFlaxzlHFKRoHdad3RrsDru"
   },
   {
     "id": "p2-the-conquest-of-malaria-in-italy",
@@ -8616,11 +8625,14 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
+    "status": "reviewed",
     "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
     "preparedSourceIds": [
       "15s4goP4fApBFv0ja2Jw5-p85_uh9x39i"
-    ]
+    ],
+    "lesson_id": "p2-the-beginning-of-the-consumer-age",
+    "mode": "practice",
+    "wordSourceId": "1tyqMn3xfBaDl3XmBw6fk2rFBt_aSZo4Z"
   },
   {
     "id": "p2-how-to-be-happy",
@@ -8650,8 +8662,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "holdReason": "Image/scan pages need OCR and visual source review",
+    "lesson_id": "p2-how-to-be-happy",
+    "mode": "practice",
+    "wordSourceId": "17ABg-c5U6l8TBbN8TKnc1p750IEmRnz8"
   },
   {
     "id": "p2-multi-tasking-and-the-brain",
@@ -9073,11 +9088,14 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
+    "status": "reviewed",
     "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
     "preparedSourceIds": [
       "1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB"
-    ]
+    ],
+    "lesson_id": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+    "mode": "practice",
+    "wordSourceId": "1nIDWeHaqVEPhAkiFmGRokUAzmmlRoKWI"
   },
   {
     "id": "p2-reading-in-different-media",
@@ -10484,8 +10502,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Source PDF has broken font/xref objects on both question pages; readable text extraction is not sufficient evidence of correct question content. Hold for a readable alternate source."
+    "status": "reviewed",
+    "holdReason": "Source PDF has broken font/xref objects on both question pages; readable text extraction is not sufficient evidence of correct question content. Hold for a readable alternate source.",
+    "lesson_id": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+    "mode": "practice",
+    "wordSourceId": "1sbgPZwOYSWa0TjKcuquw5aNEeXu7cXev"
   },
   {
     "id": "p2-emotional-development-in-babies",
@@ -10609,8 +10630,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Source content/layout or legacy duplicate requires review; not published"
+    "status": "reviewed",
+    "holdReason": "Source content/layout or legacy duplicate requires review; not published",
+    "lesson_id": "p2-australia-s-artistic-heritage",
+    "mode": "practice",
+    "wordSourceId": "1PvZc_WXEqTDyrMLFgkBYm5WXFzlZgtmW"
   },
   {
     "id": "p2-the-future-of-food-packaging",
@@ -12356,11 +12380,14 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
+    "status": "reviewed",
     "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
     "preparedSourceIds": [
       "1gaad97vg2GtxoAMMETnSY4X_C8rvl_ZN"
-    ]
+    ],
+    "lesson_id": "p3-music-soothes-and-awes-and-may-help-us-heal",
+    "mode": "practice",
+    "wordSourceId": "10kDtp0hRIXv6YJb_GrfRl4ONYCMAVBi0"
   },
   {
     "id": "p3-the-future-of-the-world-s-languages",
@@ -13467,11 +13494,14 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
+    "status": "reviewed",
     "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
     "preparedSourceIds": [
       "1TGnRvtpxb4ysgJcYxY2DMMKo0X4bFIPW"
-    ]
+    ],
+    "lesson_id": "p3-asian-space-return-of-an-asian-invention",
+    "mode": "practice",
+    "wordSourceId": "1KrVQ8BABX_7J0tx5EsKIFa-kvQUQT4p_"
   },
   {
     "id": "p3-child-s-play-in-medieval-england",
@@ -14589,8 +14619,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "duplicate-title: compare the source versions before choosing a lesson"
+    "status": "reviewed",
+    "holdReason": "duplicate-title: compare the source versions before choosing a lesson",
+    "lesson_id": "p3-anthropology",
+    "mode": "practice",
+    "wordSourceId": "1FMNt5X-mZUn0WpE9Pxc81CHXd66j-Inw"
   },
   {
     "id": "p3-disappearing-languages",
@@ -15088,8 +15121,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "duplicate-title: compare the source versions before choosing a lesson"
+    "status": "reviewed",
+    "holdReason": "duplicate-title: compare the source versions before choosing a lesson",
+    "lesson_id": "p3-anthropology",
+    "mode": "practice",
+    "wordSourceId": "1FMNt5X-mZUn0WpE9Pxc81CHXd66j-Inw"
   },
   {
     "id": "p3-why-good-food-tastes-good",
@@ -15701,8 +15737,11 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Missing, duplicate or out-of-order option codes: ['E']; expected ['A', 'B', 'C', 'D', 'E']"
+    "status": "reviewed",
+    "holdReason": "Missing, duplicate or out-of-order option codes: ['E']; expected ['A', 'B', 'C', 'D', 'E']",
+    "lesson_id": "p3-group-behaviour",
+    "mode": "practice",
+    "wordSourceId": "16W4uEUb_CKnNh1Aac2yS5ZNHBxgAyIO_"
   },
   {
     "id": "p3-how-did-music-begin",
@@ -15930,11 +15969,14 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
+    "status": "reviewed",
     "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
     "preparedSourceIds": [
       "11eQPK_jePQetvsMUVyvQ-95MwdKfCdry"
-    ]
+    ],
+    "lesson_id": "p3-saving-the-skink",
+    "mode": "practice",
+    "wordSourceId": "1vxmIbKN3OaMH0VZAtSwXDgAiM9I3S7AL"
   },
   {
     "id": "p3-living-dunes",

@@ -1,0 +1,296 @@
+[
+  {
+    "job": "p1-scented-plants",
+    "sources": [
+      {
+        "id": "1z0CYvLULaV5e7JcfdvEOzbcnHA_hOu9M",
+        "role": "word-transcription",
+        "sha256": "7fb26f29f6c5d48c022086d3ef9cda889803ab0eaecfca6c4687c7a20b37dd5a"
+      },
+      {
+        "id": "1gMYJjb6VDEsC6RHGm_ou33wdUcI4ndXc",
+        "role": "original-pdf",
+        "sha256": "814c5cf9569abfeffb652f64a3a578b52b78f1271402c1302f7fd01343f54d10"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored artwork title Scented Plants; retained A–H source labels"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-australia-s-artistic-heritage",
+    "sources": [
+      {
+        "id": "1PvZc_WXEqTDyrMLFgkBYm5WXFzlZgtmW",
+        "role": "word-transcription",
+        "sha256": "82f82f27277ae2a023dbc76459e4b407aa5e51cc4a68bb7fcb28bd1a490b37f0"
+      },
+      {
+        "id": "11MWxE7rn68Ox_j8VyC-DcTq15eTY_4FV",
+        "role": "original-pdf",
+        "sha256": "e4ba29e8d17209d0cfb9a9d21c708e1e367470f7af91b5959ea52851f251c778"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+    "sources": [
+      {
+        "id": "1nIDWeHaqVEPhAkiFmGRokUAzmmlRoKWI",
+        "role": "word-transcription",
+        "sha256": "849668282f38b1a574fd900833b404c350de82b26316dfd50cf3eda4ec951b8f"
+      },
+      {
+        "id": "1UK-LFu0wm5TKAeAq2ykoJ6hLOPWcchzB",
+        "role": "original-pdf",
+        "sha256": "fccc7b671c660c2961e42d2f9d6d3b7daa49414979468a19700ba14724e101ec"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Removed subtitle from body/remapped headings; seven source paragraphs; restored fossil footnote"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-how-to-be-happy",
+    "sources": [
+      {
+        "id": "17ABg-c5U6l8TBbN8TKnc1p750IEmRnz8",
+        "role": "word-transcription",
+        "sha256": "198b6d5d2a3c0c060010990c2b86c3fd3934bdca54c32bc9e09b46514a351cf3"
+      },
+      {
+        "id": "1ib479MZk_Bp9PUA-VAz5-v1RIzEl9q4m",
+        "role": "original-pdf",
+        "sha256": "09d1a6aa6ed21e5bc34cc23a1d9bca62715aa13d5f6f99c919e42cd79e7781fd"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored summary paragraph breaks"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-beginning-of-the-consumer-age",
+    "sources": [
+      {
+        "id": "1tyqMn3xfBaDl3XmBw6fk2rFBt_aSZo4Z",
+        "role": "word-transcription",
+        "sha256": "a7744e47dc3e565809ea790383f700c5c5466599d57e5c0f7ec7c24390fe7cc8"
+      },
+      {
+        "id": "1b-FBGEJHXzhCG_jbspFBvu2NegCy8ffI",
+        "role": "original-pdf",
+        "sha256": "099fafaad5e4159513616c40aba411666257738488e703fe46b4401037d732c9"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored summary paragraph breaks",
+      "Joined subtitle fragments, removed them from body"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-development-of-television-and-its-introduction-in-britain",
+    "sources": [
+      {
+        "id": "1AOG2baSUWGFlaxzlHFKRoHdad3RrsDru",
+        "role": "word-transcription",
+        "sha256": "0d60a51872da47bba4f181812eebbf5bc166ef5444da22b328a13d6e71c0547e"
+      },
+      {
+        "id": "1o_U5D6jSwueHCiSO1FEY-gHwLpo8Pmac",
+        "role": "original-pdf",
+        "sha256": "f47628ead07ece4f3970b9495726cc64425af95f15ad4242adbc9916e0aac713"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      [
+        "in de tail",
+        "in detail"
+      ],
+      "Restored internal paragraph: The work was conducted",
+      "Restored internal paragraph: Baird successfully transmitted",
+      "Source sections and activities wording; restored PDF word/number limit instead of Word ONE WORD"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-importance-of-the-human-urge-to-move",
+    "sources": [
+      {
+        "id": "10Llw9fHzGnEcJHYTOhclSwfw-EZoTG7J",
+        "role": "word-transcription",
+        "sha256": "09fa3173358ceb46231ff75be410c7e9729c42bed0daf7da83a8934f1dc3b5bf"
+      },
+      {
+        "id": "1yJBZJ4uRpTkyJ4sASxtubfSKVezgaLJh",
+        "role": "original-pdf",
+        "sha256": "591f2e1f384019f2903400f971a5d26f4bb9f45eae7c14ca4bc8b396b9b74b6d"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Removed repeated Word F label; source F has two paragraphs"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+    "sources": [
+      {
+        "id": "1sbgPZwOYSWa0TjKcuquw5aNEeXu7cXev",
+        "role": "word-transcription",
+        "sha256": "aa7db354b9b7759eac960cec8907e4ef0ebd60258c95d296c89374bfb7b7a97d"
+      },
+      {
+        "id": "15SqC0RMLlo83TbqIuUUVcDDm7hTn3mAj",
+        "role": "original-pdf",
+        "sha256": "a2300a8de28246a8748bca59ac6044f539e97ea0e224c1f6c5b4caa512a48912"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p3-anthropology",
+    "sources": [
+      {
+        "id": "1FMNt5X-mZUn0WpE9Pxc81CHXd66j-Inw",
+        "role": "word-transcription",
+        "sha256": "6325e2b8ee98461fc6becb0b62cced238963ca2bce9cbc97cd6a4127ee58f562"
+      },
+      {
+        "id": "16U4cM9HrDq1Y6l6wVpuI3tGe16TrByVK",
+        "role": "original-pdf",
+        "sha256": "b44497eb58f25c8969ec8d09ff42588eb7a7d624f2fd73a27e65efc5a5a289de"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Joined two subtitle fragments, not reading body"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-asian-space-return-of-an-asian-invention",
+    "sources": [
+      {
+        "id": "1KrVQ8BABX_7J0tx5EsKIFa-kvQUQT4p_",
+        "role": "word-transcription",
+        "sha256": "fd6a5dac829d745ea1f6578320b9a3db8e0761136f3e0998a95049f98b4cb857"
+      },
+      {
+        "id": "1BvWTpGhA180FlBH7l86IFkFCwhDbxw0O",
+        "role": "original-pdf",
+        "sha256": "c5c607c660f38a69027a835f7abf2f8b791014291e3e28bbd64bc892751f9567"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored six sections with internal block counts 1/1/2/1/3/2; Q34 completed from PDF"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-group-behaviour",
+    "sources": [
+      {
+        "id": "15Pb3QzntLNlXsNJdbzcnXayES2LeAM_E",
+        "role": "passage-and-questions",
+        "sha256": "85f5cb29c8c5e88f43ebbf972852df5bc75a9b815b64da1d76ce515a38dd7a4f"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored summary paragraph breaks",
+      "Used complete original PDF (Word omits Question40); separated artwork title/subtitle"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-music-soothes-and-awes-and-may-help-us-heal",
+    "sources": [
+      {
+        "id": "10kDtp0hRIXv6YJb_GrfRl4ONYCMAVBi0",
+        "role": "word-transcription",
+        "sha256": "a424ca18adb400650fac97fbf49aaca41ab0ae05318f51ae24c5dbf704e3f847"
+      },
+      {
+        "id": "17xYOeLl9pnZu5Y3reKliK9iWmMfriCVt",
+        "role": "original-pdf",
+        "sha256": "5efc2cb216842601e55ba0c098e81e3e243123e1d1225ccb37a55975ac6cc1d0"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p3-saving-the-skink",
+    "sources": [
+      {
+        "id": "1vxmIbKN3OaMH0VZAtSwXDgAiM9I3S7AL",
+        "role": "word-transcription",
+        "sha256": "84361a9055ee6a6163c194469588f73e4e05711cdeb25441c68cf45e09ee2191"
+      },
+      {
+        "id": "1eSGP-CzyWTkkSITMWT9Rgx0Jsubhecna",
+        "role": "original-pdf",
+        "sha256": "0f8ec91c09669f0dba62d338445bef632b4295ec3a5471565e86889a01e34f98"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  }
+]

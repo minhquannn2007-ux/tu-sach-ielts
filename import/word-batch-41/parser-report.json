@@ -1,0 +1,192 @@
+[
+  {
+    "job": "p1-crowding-and-density",
+    "status": "held",
+    "reason": "Heading paragraph mapping is ambiguous"
+  },
+  {
+    "job": "p1-scented-plants",
+    "status": "held",
+    "reason": "Title absent from Word text; inspect source artwork"
+  },
+  {
+    "job": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-effect-and-cause",
+    "status": "held",
+    "reason": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+  },
+  {
+    "job": "p1-stagecoaching-in-australia",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-traditional-farming-in-zambia-s-luapula-province",
+    "status": "held",
+    "reason": "Question numbering incomplete [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]"
+  },
+  {
+    "job": "p1-research-into-elephant-sleeping-habits",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p2-the-importance-of-the-human-urge-to-move",
+    "status": "held",
+    "reason": "Heading paragraph mapping is ambiguous"
+  },
+  {
+    "job": "p2-iq-scores",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p2-understanding-climate-change",
+    "status": "held",
+    "reason": "Table grid/merged cells require visual transcription"
+  },
+  {
+    "job": "p2-orientation-of-birds",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p2-the-development-of-television-and-its-introduction-in-britain",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "matching-info",
+      "matching-features",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-the-beginning-of-the-consumer-age",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p2-how-to-be-happy",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-info",
+      "matching-features",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "matching-headings",
+      "mc-two",
+      "matching-endings"
+    ]
+  },
+  {
+    "job": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-info",
+      "matching-features",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-australia-s-artistic-heritage",
+    "status": "draft",
+    "paragraphs": 6,
+    "groups": [
+      "matching-info",
+      "mc-two",
+      "summary-input"
+    ]
+  },
+  {
+    "job": "p2-australian-parrots",
+    "status": "held",
+    "reason": "Source paragraph range differs from extracted text"
+  },
+  {
+    "job": "p3-back-to-the-future-of-skyscraper-design",
+    "status": "held",
+    "reason": "Question numbering incomplete [27, 28, 29, 30, 31, 32, 33, 34, 35, 35, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-music-soothes-and-awes-and-may-help-us-heal",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "ynng",
+      "mc-one",
+      "matching-endings"
+    ]
+  },
+  {
+    "job": "p3-travelling-on-light",
+    "status": "held",
+    "reason": "An option has no content"
+  },
+  {
+    "job": "p3-grimm-s-fairy-tales",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "ynng",
+      "mc-one",
+      "matching-endings"
+    ]
+  },
+  {
+    "job": "p3-asian-space-return-of-an-asian-invention",
+    "status": "held",
+    "reason": "Heading paragraph mapping is ambiguous"
+  },
+  {
+    "job": "p3-anthropology",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "mc-one",
+      "matching-endings",
+      "ynng"
+    ]
+  },
+  {
+    "job": "p3-brutalist-architecture",
+    "status": "held",
+    "reason": "Question numbering incomplete [27, 28, 29, 30, 31, 32, 33, 34, 35, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-science-in-the-kitchen",
+    "status": "held",
+    "reason": "Question numbering incomplete [27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-group-behaviour",
+    "status": "held",
+    "reason": "Title absent from Word text; inspect source artwork"
+  },
+  {
+    "job": "p3-saving-the-skink",
+    "status": "draft",
+    "paragraphs": 10,
+    "groups": [
+      "summary-drag",
+      "ynng",
+      "mc-one"
+    ]
+  }
+]

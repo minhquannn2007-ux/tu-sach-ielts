@@ -354,7 +354,7 @@ def parse_group(chunk,paras,doc):
   declared=re.search(r'(?:paragraphs?|sections?)[^\n]*?\bA\s*[-–—]\s*([A-Z])',instruction)
   if declared and letters!=[chr(c) for c in range(65,ord(declared[1])+1)]:raise Hold('paragraph-labels','Source paragraph range differs from extracted text')
   if not all(letters):raise Hold('paragraph-labels','Matching Information requires source paragraph labels')
-  g.update(type='matching-info',questions=statements(body,start,end),letters=letters,paragraphCount=len(paras),reuse=reuse)
+  g.update(type='matching-info',questions=statements(body,start,end),letters=letters,paragraphCount=len(paras),paragraphUnit='sections' if re.search(r'which sections? contains?',low) else 'paragraphs',reuse=reuse)
  elif re.search(r'choose\s+(?:two|three)\s+(?:letters|answers)',low):
   matches=bank_matches(body,expected=expected_letters(instruction) or list('ABCDE'))
   if not matches:raise Hold('option-bank','Multiple-answer bank missing')
