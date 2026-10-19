@@ -1,0 +1,81 @@
+[
+  {
+    "job": "p1-walking-for-life",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p1-the-oldest-leather-shoe",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "notes",
+      "tfng"
+    ]
+  },
+  {
+    "job": "p1-how-printed-books-began",
+    "status": "held",
+    "reason": "Diagram/flow-chart arrows and label positions require a checked visual layout"
+  },
+  {
+    "job": "p1-the-future-of-news-coming-from-a-fun-circle",
+    "status": "held",
+    "reason": "Word notes require reviewed rich layout adapter"
+  },
+  {
+    "job": "p2-our-sense-of-smell",
+    "status": "held",
+    "reason": "Heading paragraph mapping is ambiguous"
+  },
+  {
+    "job": "p2-dolphins-and-language-learning",
+    "status": "held",
+    "reason": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C']"
+  },
+  {
+    "job": "p2-a-study-of-introvert-and-extrovert-characters",
+    "status": "held",
+    "reason": "Missing, duplicate or unordered numbered prompts"
+  },
+  {
+    "job": "p3-grimm-s-fairy-tales",
+    "status": "draft",
+    "paragraphs": 8,
+    "groups": [
+      "ynng",
+      "mc-one",
+      "matching-endings"
+    ]
+  },
+  {
+    "job": "p3-tick-tock-body-clock",
+    "status": "draft",
+    "paragraphs": 11,
+    "groups": [
+      "mc-one",
+      "summary-drag",
+      "ynng"
+    ]
+  },
+  {
+    "job": "p3-science-and-knowledge",
+    "status": "held",
+    "reason": "Expected one control per source gap [36, 37, 38, 39, 40], found [35, 36, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+    "status": "held",
+    "reason": "Question numbering incomplete [27, 28, 29, 30, 31, 32, 33, 34, 35, 35, 37, 38, 39, 40]"
+  },
+  {
+    "job": "p3-what-is-history",
+    "status": "draft",
+    "paragraphs": 9,
+    "groups": [
+      "ynng",
+      "matching-endings",
+      "mc-one"
+    ]
+  }
+]

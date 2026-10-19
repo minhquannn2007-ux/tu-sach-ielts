@@ -1,0 +1,1085 @@
+[
+  {
+    "job": {
+      "id": "p1-walking-for-life",
+      "part": 1,
+      "title": "Walking for Life",
+      "sources": [
+        {
+          "id": "1DRqz801oUhmTnLXlD0fiFLafo16DefDn",
+          "title": "Walking for Life.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1DRqz801oUhmTnLXlD0fiFLafo16DefDn/view?usp=drivesdk",
+          "size": "281286"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Expected one control per source gap [8, 9, 10, 11, 12, 13], found [8, 9, 10, 11, 12]"
+    },
+    "words": [
+      {
+        "id": "1we8Jywc6CXWi7nmMA6hFrcDiKBp_gFSc",
+        "title": "Walking for Life.docx",
+        "url": "https://docs.google.com/document/d/1we8Jywc6CXWi7nmMA6hFrcDiKBp_gFSc/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p1-the-oldest-leather-shoe",
+      "part": 1,
+      "title": "The Oldest Leather Shoe",
+      "sources": [
+        {
+          "id": "1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co/view?usp=drivesdk",
+          "size": "1648280"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review"
+    },
+    "words": [
+      {
+        "id": "1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O",
+        "title": "The Oldest Leather Shoe.docx",
+        "url": "https://docs.google.com/document/d/1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p1-how-printed-books-began",
+      "part": 1,
+      "title": "How printed books began",
+      "sources": [
+        {
+          "id": "1quvnV5vXHq0FjTchP11j71bdI9oA8a5c",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1quvnV5vXHq0FjTchP11j71bdI9oA8a5c/view?usp=drivesdk",
+          "size": "1750697"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1quvnV5vXHq0FjTchP11j71bdI9oA8a5c"
+      ]
+    },
+    "words": [
+      {
+        "id": "1cdIEiCAToGllkFGRNOtX3iRyWdH683w4",
+        "title": "How Printed Books Began.docx",
+        "url": "https://docs.google.com/document/d/1cdIEiCAToGllkFGRNOtX3iRyWdH683w4/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p1-the-future-of-news-coming-from-a-fun-circle",
+      "part": 1,
+      "title": "The future of news – coming from a fun circle",
+      "sources": [
+        {
+          "id": "10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ",
+          "title": "The future of news – coming from a fun circle.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/10E0kjNg6RO765f4rBhxQGn8uHFWYVcWQ/view?usp=drivesdk",
+          "size": "207940"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Expected one control per source gap [1, 2, 3, 4, 5, 6, 7], found [1, 2, 3, 4, 5, 6]"
+    },
+    "words": [
+      {
+        "id": "1-U1ht6pyXdAnEQtk6O1idXYvlk6uWePT",
+        "title": "The future of news – coming from a fun circle.docx",
+        "url": "https://docs.google.com/document/d/1-U1ht6pyXdAnEQtk6O1idXYvlk6uWePT/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-our-sense-of-smell",
+      "part": 2,
+      "title": "Our Sense of Smell",
+      "sources": [
+        {
+          "id": "1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB",
+          "title": "Our Sense of Smell.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1kX30W3yXotM--jyJm-Fs4Lyvs0AGodAB/view?usp=drivesdk",
+          "size": "271563"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Heading paragraph mapping is ambiguous"
+    },
+    "words": [
+      {
+        "id": "1Xs2ZI8ODV7HZseUTkAct5cfjDXiCl3qd",
+        "title": "Our Sense of Smell.docx",
+        "url": "https://docs.google.com/document/d/1Xs2ZI8ODV7HZseUTkAct5cfjDXiCl3qd/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-dolphins-and-language-learning",
+      "part": 2,
+      "title": "Dolphins and Language Learning",
+      "sources": [
+        {
+          "id": "141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa",
+          "title": "Dolphins and Language Learning.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/141bDrD56qvd9fguRUr5_vP0gY1R2ZHJa/view?usp=drivesdk",
+          "size": "233260"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'C', 'D', 'E']; expected ['A', 'B', 'C']"
+    },
+    "words": [
+      {
+        "id": "1JyjtzTasB65GRdGIqC6-w4X8qDOdGr-T",
+        "title": "Dolphins and Language Learning.docx",
+        "url": "https://docs.google.com/document/d/1JyjtzTasB65GRdGIqC6-w4X8qDOdGr-T/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-a-study-of-introvert-and-extrovert-characters",
+      "part": 2,
+      "title": "A study of introvert and extrovert characters",
+      "sources": [
+        {
+          "id": "1a4aamHx9D5sVQgxFA4nL8gkXp_77Ho_Q",
+          "title": "A study of introvert and extrovert characters.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1a4aamHx9D5sVQgxFA4nL8gkXp_77Ho_Q/view?usp=drivesdk",
+          "size": "192836"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or unordered numbered prompts"
+    },
+    "words": [
+      {
+        "id": "1rsQAIL5edwrzhsLo4A0aV5fFHkgqw4tv",
+        "title": "A study of introvert and extrovert characters.docx",
+        "url": "https://docs.google.com/document/d/1rsQAIL5edwrzhsLo4A0aV5fFHkgqw4tv/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-grimm-s-fairy-tales",
+      "part": 3,
+      "title": "Grimms' Fairy Tales",
+      "sources": [
+        {
+          "id": "1nd2fgDqjg1Q3O1Krx-taQP9D9xM8sLjg",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1nd2fgDqjg1Q3O1Krx-taQP9D9xM8sLjg/view?usp=drivesdk",
+          "size": "2054555"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "duplicate-title: compare the source versions before choosing a lesson"
+    },
+    "words": [
+      {
+        "id": "12ApGKLj6rhZlk1byfpAllCb5R3nR0UEG",
+        "title": "Grimms' Fairy Tales.docx",
+        "url": "https://docs.google.com/document/d/12ApGKLj6rhZlk1byfpAllCb5R3nR0UEG/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-tick-tock-body-clock",
+      "part": 3,
+      "title": "Tick Tock Body Clock",
+      "sources": [
+        {
+          "id": "1ok6Y2RMocJqSEXuBbeLcqvmzQushLxuz",
+          "title": "COMPUTER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ok6Y2RMocJqSEXuBbeLcqvmzQushLxuz/view?usp=drivesdk",
+          "size": "779010"
+        },
+        {
+          "id": "1sIKf6nnoQAJy_Bmo8vBAEtR6vftORKsI",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1sIKf6nnoQAJy_Bmo8vBAEtR6vftORKsI/view?usp=drivesdk",
+          "size": "250639"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']; Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1ZtXDgTwCrJ-u-u-UvJGzFEwJbhXduEzA",
+        "title": "Tick Tock Body Clock.docx",
+        "url": "https://docs.google.com/document/d/1ZtXDgTwCrJ-u-u-UvJGzFEwJbhXduEzA/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-science-and-knowledge",
+      "part": 3,
+      "title": "Science and knowledge",
+      "sources": [
+        {
+          "id": "1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1im_JYvkcvzXY_xVbU2GEF1rSVft1rSgI/view?usp=drivesdk",
+          "size": "213837"
+        },
+        {
+          "id": "1GB538sFZHh_K0D6AoRX7Jr3AFSqSIVvY",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1GB538sFZHh_K0D6AoRX7Jr3AFSqSIVvY/view?usp=drivesdk",
+          "size": "22919"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'H', 'I', 'J', 'K']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']"
+    },
+    "words": [
+      {
+        "id": "1LK9LoFRPJqtn3tMwHjUagLnOd6tkbA-w",
+        "title": "Science and knowledge.docx",
+        "url": "https://docs.google.com/document/d/1LK9LoFRPJqtn3tMwHjUagLnOd6tkbA-w/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+      "part": 3,
+      "title": "A review of Leon Holbrook's book 'We Should Live In Cities'",
+      "sources": [
+        {
+          "id": "1yOyUTMs6OmW3b8sB9inMZeiXclH6HEWa",
+          "title": "A review of Leon Holbrook's book 'We Should Live In Cities'.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1yOyUTMs6OmW3b8sB9inMZeiXclH6HEWa/view?usp=drivesdk",
+          "size": "249496"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G']"
+    },
+    "words": [
+      {
+        "id": "1qWz-_Z7JHgU1_E3DLANWoB3rg1X4OkCY",
+        "title": "A review of Leon Holbrook's book 'We Should Live In Cities'.docx",
+        "url": "https://docs.google.com/document/d/1qWz-_Z7JHgU1_E3DLANWoB3rg1X4OkCY/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-what-is-history",
+      "part": 3,
+      "title": "What is history?",
+      "sources": [
+        {
+          "id": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN/view?usp=drivesdk",
+          "size": "5774363"
+        },
+        {
+          "id": "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88/view?usp=drivesdk",
+          "size": "5298550"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88"
+      ]
+    },
+    "words": [
+      {
+        "id": "1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg",
+        "title": "What is history.docx",
+        "url": "https://docs.google.com/document/d/1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p1-keeping-healthy-at-work",
+      "part": 1,
+      "title": "Keeping Healthy at Work",
+      "sources": [
+        {
+          "id": "1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ubF-Tq9QjQUHJxt1ddvZXj4Gq2cz3MCA/view?usp=drivesdk",
+          "size": "3064679"
+        },
+        {
+          "id": "1Hvj6sIgIgFYL5sYxq98on3hJ7nlH1olu",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Hvj6sIgIgFYL5sYxq98on3hJ7nlH1olu/view?usp=drivesdk",
+          "size": "871443"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Downloaded source differs from cached transcript hash and opens with zero pages; compare another source before conversion."
+    },
+    "words": [
+      {
+        "id": "10gtvOagcTXO-hiFIH-wiYdv4itJRBYbg",
+        "title": "Keeping Healthy at Work 1.docx",
+        "url": "https://docs.google.com/document/d/10gtvOagcTXO-hiFIH-wiYdv4itJRBYbg/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+      "part": 1,
+      "title": "The Clipper Races - an era of competition",
+      "sources": [
+        {
+          "id": "1VCJFsfwPI2NiQd994oxWoscVoBUR9kQT",
+          "title": "PAPER INDIA",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1VCJFsfwPI2NiQd994oxWoscVoBUR9kQT/view?usp=drivesdk",
+          "size": "1267503"
+        },
+        {
+          "id": "1KZJ80XGx45haedNIJtK8DdFsWmFOH1YJ",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1KZJ80XGx45haedNIJtK8DdFsWmFOH1YJ/view?usp=drivesdk",
+          "size": "3412191"
+        },
+        {
+          "id": "19xQ0_7JavyI0AJQepi0EwvfgP4lGfseB",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/19xQ0_7JavyI0AJQepi0EwvfgP4lGfseB/view?usp=drivesdk",
+          "size": "2790607"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1Qyw1ffxjFTiYTIW9xUsrEE39CpKxODeW",
+        "title": "The Clipper Races - an era of competition.docx",
+        "url": "https://docs.google.com/document/d/1Qyw1ffxjFTiYTIW9xUsrEE39CpKxODeW/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p1-the-history-of-colours-and-the-meanings-people-have-given-them-chua-rep",
+      "part": 1,
+      "title": "The history of colours and the meanings people have given them",
+      "sources": [
+        {
+          "id": "1gpgph22Ah_GHD9u1-xA46JbzpygUyh-l",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1gpgph22Ah_GHD9u1-xA46JbzpygUyh-l/view?usp=drivesdk",
+          "size": "1507472"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Cached PDF opens with zero pages; another source is required before OCR/content review.",
+      "preparedSourceIds": [
+        "1gpgph22Ah_GHD9u1-xA46JbzpygUyh-l"
+      ]
+    },
+    "words": [
+      {
+        "id": "1Pmuq44gmmwBpomrJ4X1hjjFJghpNGZO5",
+        "title": "The history of colours and the meanings people have given them.docx",
+        "url": "https://docs.google.com/document/d/1Pmuq44gmmwBpomrJ4X1hjjFJghpNGZO5/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 1
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-bristlecone-pines",
+      "part": 2,
+      "title": "Bristlecone Pines",
+      "sources": [
+        {
+          "id": "1CgGsgpoBWkzH07f0emUirYNE_aYc8c3v",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1CgGsgpoBWkzH07f0emUirYNE_aYc8c3v/view?usp=drivesdk",
+          "size": "1962340"
+        },
+        {
+          "id": "1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi/view?usp=drivesdk",
+          "size": "818144"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1h7ytt2TDfBWWC9nD1g_LvvIP1lW8_vDi"
+      ]
+    },
+    "words": [
+      {
+        "id": "18PJDl6itUDjfyJTj2BiMH6LePUqHXJOF",
+        "title": "Bristlecone Pines 2.docx",
+        "url": "https://docs.google.com/document/d/18PJDl6itUDjfyJTj2BiMH6LePUqHXJOF/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-pantomime",
+      "part": 2,
+      "title": "Pantomine",
+      "sources": [
+        {
+          "id": "1aPfA9jbHfSuNYZ-6z9n1N-QV5xAMQzns",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1aPfA9jbHfSuNYZ-6z9n1N-QV5xAMQzns/view?usp=drivesdk",
+          "size": "1995388"
+        },
+        {
+          "id": "14nrNq4EktK7QlQelUy7Ba9kGAFtJwR4n",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/14nrNq4EktK7QlQelUy7Ba9kGAFtJwR4n/view?usp=drivesdk",
+          "size": "592641"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "14nrNq4EktK7QlQelUy7Ba9kGAFtJwR4n"
+      ]
+    },
+    "words": [
+      {
+        "id": "1gU9wa6MGo_MZyA9nn6F8DMGjRkJANO47",
+        "title": "Pantomine.docx",
+        "url": "https://docs.google.com/document/d/1gU9wa6MGo_MZyA9nn6F8DMGjRkJANO47/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-the-importance-of-diet-chua-rep",
+      "part": 2,
+      "title": "The importance of diet",
+      "sources": [
+        {
+          "id": "1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD/view?usp=drivesdk",
+          "size": "1224722"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1F6CwDQgNr9mlMfsW8vy7degDy8FOcrMD"
+      ]
+    },
+    "words": [
+      {
+        "id": "1mVsFfIDh4RfS9MS98dGXw-vJCfaQN_NF",
+        "title": "The importance of diet.docx",
+        "url": "https://docs.google.com/document/d/1mVsFfIDh4RfS9MS98dGXw-vJCfaQN_NF/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-the-rise-in-importance-of-the-domestic-chicken-2-in-5-rep-sai",
+      "part": 2,
+      "title": "The Rise in Importance of the Domestic Chicken",
+      "sources": [
+        {
+          "id": "1SxFM3kUnQkl-dwn7ex2pXW3vGzZCsNVI",
+          "title": "PAPER + PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1SxFM3kUnQkl-dwn7ex2pXW3vGzZCsNVI/view?usp=drivesdk",
+          "size": "1954231"
+        }
+      ],
+      "flags": [
+        "source-name-requires-comparison"
+      ],
+      "status": "queued"
+    },
+    "words": [
+      {
+        "id": "1assNcPSgLi_V-4r9dzsIstJVoxkV-pAL",
+        "title": "The Rise in Importance of the Domestic Chicken.docx",
+        "url": "https://docs.google.com/document/d/1assNcPSgLi_V-4r9dzsIstJVoxkV-pAL/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-the-purpose-of-facial-expressions-a-thieu-em-dash",
+      "part": 2,
+      "title": "The purpose of facial expressions",
+      "sources": [
+        {
+          "id": "1V9ihc-jMvgiCfAYEy2fM_hhd25gdIsSV",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1V9ihc-jMvgiCfAYEy2fM_hhd25gdIsSV/view?usp=drivesdk",
+          "size": "1344829"
+        },
+        {
+          "id": "1Rbsp9Jk2JvsCm39pD3wjGekA-oq_NQzG",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Rbsp9Jk2JvsCm39pD3wjGekA-oq_NQzG/view?usp=drivesdk",
+          "size": "279758"
+        }
+      ],
+      "flags": [
+        "source-name-requires-comparison"
+      ],
+      "status": "queued"
+    },
+    "words": [
+      {
+        "id": "1N4T9BskcW9syn_W-mVuYwgp4mxXw84y6",
+        "title": "The purpose of facial expressions.docx",
+        "url": "https://docs.google.com/document/d/1N4T9BskcW9syn_W-mVuYwgp4mxXw84y6/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-the-many-benefits-of-mangrove-chua-rep",
+      "part": 2,
+      "title": "The many benefits of mangroves",
+      "sources": [
+        {
+          "id": "1WCTlfjD5MolpxYGT1iiVNULv7QYi4dnR",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1WCTlfjD5MolpxYGT1iiVNULv7QYi4dnR/view?usp=drivesdk",
+          "size": "1087725"
+        },
+        {
+          "id": "1KxbS3T_cHGeTz92RYKx9i9-wjhOUUFTp",
+          "title": "The many benefits of mangroves.pdf",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1KxbS3T_cHGeTz92RYKx9i9-wjhOUUFTp/view?usp=drivesdk",
+          "size": "297088"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Answer-sheet boundary is unclear; Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1PvKdl7uUPDU9A7fFqw4hHD2JOxpxeyzH",
+        "title": "The many benefits of mangroves.docx",
+        "url": "https://docs.google.com/document/d/1PvKdl7uUPDU9A7fFqw4hHD2JOxpxeyzH/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-the-city-of-great-zimbabwe-f-oan-2-rep-sai",
+      "part": 2,
+      "title": "The city of Great Zimbabwe",
+      "sources": [
+        {
+          "id": "1ZYg_IuG5qWCGk1ZyyYl7xIyizsSpHsHL",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ZYg_IuG5qWCGk1ZyyYl7xIyizsSpHsHL/view?usp=drivesdk",
+          "size": "256411"
+        },
+        {
+          "id": "1ro6Ky4JhOG1XaGZ4eCaD3v8MyLYsorI2",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ro6Ky4JhOG1XaGZ4eCaD3v8MyLYsorI2/view?usp=drivesdk",
+          "size": "211166"
+        }
+      ],
+      "flags": [
+        "source-name-requires-comparison"
+      ],
+      "status": "queued"
+    },
+    "words": [
+      {
+        "id": "1T44deFDaJwZH8SJ3gnFRZrLGNEy5qFUc",
+        "title": "The city of Great Zimbabwe.docx",
+        "url": "https://docs.google.com/document/d/1T44deFDaJwZH8SJ3gnFRZrLGNEy5qFUc/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-the-advantages-of-being-bilingual-a-rep-sai",
+      "part": 2,
+      "title": "The advantages of being bilingual",
+      "sources": [
+        {
+          "id": "1vTROx8Yh1PXRX1oCZ_4803OZdgEfdrB3",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1vTROx8Yh1PXRX1oCZ_4803OZdgEfdrB3/view?usp=drivesdk",
+          "size": "284528"
+        },
+        {
+          "id": "1P8O3SKtfcKK396t4aDJ-m1-XNmWhk-bM",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1P8O3SKtfcKK396t4aDJ-m1-XNmWhk-bM/view?usp=drivesdk",
+          "size": "395395"
+        }
+      ],
+      "flags": [
+        "source-name-requires-comparison"
+      ],
+      "status": "queued"
+    },
+    "words": [
+      {
+        "id": "11gdc3FUxwwq90rQLqJRlHuNvxBhMwU4j",
+        "title": "The advantages of being bilingual.docx",
+        "url": "https://docs.google.com/document/d/11gdc3FUxwwq90rQLqJRlHuNvxBhMwU4j/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-considerate-technology-chua-rep",
+      "part": 2,
+      "title": "Considerate Technology",
+      "sources": [
+        {
+          "id": "1Leg6Q0bwOJzrFCNr_e3OB7qrwh3pqz_h",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Leg6Q0bwOJzrFCNr_e3OB7qrwh3pqz_h/view?usp=drivesdk",
+          "size": "387285"
+        },
+        {
+          "id": "14frXmdnqyhyXnN5qgZEPmq2uNHd9GVdE",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/14frXmdnqyhyXnN5qgZEPmq2uNHd9GVdE/view?usp=drivesdk",
+          "size": "272484"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Actual source title/passage boundary requires review; Image/scan pages need OCR and visual source review"
+    },
+    "words": [
+      {
+        "id": "1h2dDCnNeahEOKn79E4aK5o7S-p_ECy45",
+        "title": "Considerate Technology.docx",
+        "url": "https://docs.google.com/document/d/1h2dDCnNeahEOKn79E4aK5o7S-p_ECy45/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-children-s-comprehension-of-television-advertising-toan-bo-et-al-chua-italic",
+      "part": 2,
+      "title": "Children's comprehension of television advertising",
+      "sources": [
+        {
+          "id": "1rP1R7BfJVCS5a9vDLTlR848yfJpSwxpU",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1rP1R7BfJVCS5a9vDLTlR848yfJpSwxpU/view?usp=drivesdk",
+          "size": "3964696"
+        },
+        {
+          "id": "1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL",
+          "title": "PAPER ASIA 2019",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL/view?usp=drivesdk",
+          "size": "3117494"
+        },
+        {
+          "id": "1Ni_X5zQq5qvuZPde75_RYGim_iiOyAcS",
+          "title": "PAPER ASIA 2022",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1Ni_X5zQq5qvuZPde75_RYGim_iiOyAcS/view?usp=drivesdk",
+          "size": "716170"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1rMTCKaqM54532kJYZgjQ8W0XePfhNrsL"
+      ]
+    },
+    "words": [
+      {
+        "id": "1ifMgAKmwthZF1nV-YOSWDZrbGW5UFHS5",
+        "title": "Children's comprehension of television advertising.docx",
+        "url": "https://docs.google.com/document/d/1ifMgAKmwthZF1nV-YOSWDZrbGW5UFHS5/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p2-urban-regeneration-an-award-winning-redevelopment-project-in-berlin-chua-rep",
+      "part": 2,
+      "title": "Urban Regeneration - an award-winning redevelopment project in Berlin",
+      "sources": [
+        {
+          "id": "1NzkEM0Hlmd0h4ekLl3YsCHwbQfmfKDTz",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1NzkEM0Hlmd0h4ekLl3YsCHwbQfmfKDTz/view?usp=drivesdk",
+          "size": "1750045"
+        },
+        {
+          "id": "1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF/view?usp=drivesdk",
+          "size": "2299266"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+      "preparedSourceIds": [
+        "1ZbvPL-jXAbnqmqb5gwmKTlXtuvvtDBvF"
+      ]
+    },
+    "words": [
+      {
+        "id": "1E2rtBGlTHR7xfH-buXkSlnvCeMiTfYP9",
+        "title": "Urban Regeneration - an award-winning redevelopment project in Berlin.docx",
+        "url": "https://docs.google.com/document/d/1E2rtBGlTHR7xfH-buXkSlnvCeMiTfYP9/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 2
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-what-happened-to-other-human-species",
+      "part": 3,
+      "title": "What happened to the other human species",
+      "sources": [
+        {
+          "id": "1VGt-Lplt3-bYnJv5onh7ZjwqL29fEb29",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1VGt-Lplt3-bYnJv5onh7ZjwqL29fEb29/view?usp=drivesdk",
+          "size": "336554"
+        },
+        {
+          "id": "1YoCaVqpsby1dS6y1G1pkPlkQEvEAv5iQ",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1YoCaVqpsby1dS6y1G1pkPlkQEvEAv5iQ/view?usp=drivesdk",
+          "size": "605854"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or unordered numbered prompts"
+    },
+    "words": [
+      {
+        "id": "1FAeEX1_0_b0ddQkJ8aKfxnzmw0-cOMBZ",
+        "title": "What happened to the other human species.docx",
+        "url": "https://docs.google.com/document/d/1FAeEX1_0_b0ddQkJ8aKfxnzmw0-cOMBZ/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-the-future-of-the-world-s-languages",
+      "part": 3,
+      "title": "The future of the world's languages",
+      "sources": [
+        {
+          "id": "1DNhXCmo2Tvsk_XF1opwO7Sdtho3NIbTC",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1DNhXCmo2Tvsk_XF1opwO7Sdtho3NIbTC/view?usp=drivesdk",
+          "size": "2595388"
+        },
+        {
+          "id": "1o62NYiZ9kUsmwoj5ifE66U_eDm7clNPh",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1o62NYiZ9kUsmwoj5ifE66U_eDm7clNPh/view?usp=drivesdk",
+          "size": "482449"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "1o62NYiZ9kUsmwoj5ifE66U_eDm7clNPh"
+      ]
+    },
+    "words": [
+      {
+        "id": "1USfITO9onBWTTh5oRVbmJa7BpxBOB6Wd",
+        "title": "The future of the world's languages 3.docx",
+        "url": "https://docs.google.com/document/d/1USfITO9onBWTTh5oRVbmJa7BpxBOB6Wd/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-recording-history",
+      "part": 3,
+      "title": "Recording History",
+      "sources": [
+        {
+          "id": "1dD229eDOZ1nwhHBNOd1i76buGvUSNYSh",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1dD229eDOZ1nwhHBNOd1i76buGvUSNYSh/view?usp=drivesdk",
+          "size": "3477182"
+        },
+        {
+          "id": "15kXFXnNme1NSZllzBPGdVl6XHpQrTvNz",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/15kXFXnNme1NSZllzBPGdVl6XHpQrTvNz/view?usp=drivesdk",
+          "size": "889203"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Cached PDF opens with zero pages; another source is required before OCR/content review.",
+      "preparedSourceIds": [
+        "15kXFXnNme1NSZllzBPGdVl6XHpQrTvNz"
+      ]
+    },
+    "words": [
+      {
+        "id": "1Z6NYEYLHDvE1OwaQsuUtevOCNJXCrTpL",
+        "title": "Recording History 3.docx",
+        "url": "https://docs.google.com/document/d/1Z6NYEYLHDvE1OwaQsuUtevOCNJXCrTpL/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-sydney-opera-house",
+      "part": 3,
+      "title": "Sydney Opera House",
+      "sources": [
+        {
+          "id": "1zUX_zqFX38jA_Nk49wfobtAuQaJjpXHO",
+          "title": "PAPER",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1zUX_zqFX38jA_Nk49wfobtAuQaJjpXHO/view?usp=drivesdk",
+          "size": "1908724"
+        }
+      ],
+      "flags": [],
+      "status": "queued",
+      "holdReason": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'D']; expected ['A', 'B', 'C', 'D']"
+    },
+    "words": [
+      {
+        "id": "154-5iIPsw61d9zPpR-RQvgu5qMIiNdFD",
+        "title": "Sydney Opera House p3.docx",
+        "url": "https://docs.google.com/document/d/154-5iIPsw61d9zPpR-RQvgu5qMIiNdFD/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  },
+  {
+    "job": {
+      "id": "p3-the-contradiction-of-tourism",
+      "part": 3,
+      "title": "The contradictions of tourism",
+      "sources": [
+        {
+          "id": "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt",
+          "title": "PAPER ASIA",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt/view?usp=drivesdk",
+          "size": "1226593"
+        },
+        {
+          "id": "1zntkBkXaB7sgHbIZkChiFcdxxb6Q3Eif",
+          "title": "PDF",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1zntkBkXaB7sgHbIZkChiFcdxxb6Q3Eif/view?usp=drivesdk",
+          "size": "2224369"
+        },
+        {
+          "id": "1YanL1xihQyGy0i-_APuLmEKGBrHsYfy5",
+          "title": "PAPER EU",
+          "type": "application/pdf",
+          "url": "https://drive.google.com/file/d/1YanL1xihQyGy0i-_APuLmEKGBrHsYfy5/view?usp=drivesdk",
+          "size": "744843"
+        }
+      ],
+      "flags": [],
+      "status": "text-prepared",
+      "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+      "preparedSourceIds": [
+        "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt"
+      ]
+    },
+    "words": [
+      {
+        "id": "1bYoZtZrIqZ_pimwl0-lG4aDhv5RxpWUK",
+        "title": "The contradictions of tourism.docx",
+        "url": "https://docs.google.com/document/d/1bYoZtZrIqZ_pimwl0-lG4aDhv5RxpWUK/edit?usp=drivesdk&ouid=111020985154716599723&rtpof=true&sd=true",
+        "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "part": 3
+      }
+    ],
+    "requiresVersionReview": true
+  }
+]

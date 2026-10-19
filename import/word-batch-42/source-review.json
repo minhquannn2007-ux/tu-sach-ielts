@@ -1,0 +1,460 @@
+[
+  {
+    "job": "p1-the-oldest-leather-shoe",
+    "draftSources": [
+      {
+        "id": "1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O",
+        "role": "word-transcription",
+        "sha256": "93c10022399fdb07d361723437825347f94149f703be416e54a7e46599bd1c23"
+      },
+      {
+        "id": "1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co",
+        "role": "original-pdf",
+        "sha256": "afcfae1cc3efe7dcab90cf5eaeb90eecf04d84e867166061e1de61e0803bd8d0"
+      }
+    ],
+    "lessonId": "p1-the-oldest-leather-shoe",
+    "sources": [
+      {
+        "id": "1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O",
+        "role": "word-transcription",
+        "sha256": "93c10022399fdb07d361723437825347f94149f703be416e54a7e46599bd1c23"
+      },
+      {
+        "id": "1jUKxalDVJN-Vvi4HwbBpT5Ecrq74F_Co",
+        "role": "original-pdf",
+        "sha256": "afcfae1cc3efe7dcab90cf5eaeb90eecf04d84e867166061e1de61e0803bd8d0"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      [
+        "Otzi",
+        "Ötzi"
+      ],
+      "Notes transcribed from PDF: three bold subheadings, main bullets and nested dash bullets; omitted unrelated Tel Aviv line in Word"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-grimm-s-fairy-tales",
+    "draftSources": [
+      {
+        "id": "12ApGKLj6rhZlk1byfpAllCb5R3nR0UEG",
+        "role": "word-transcription",
+        "sha256": "e23821e278978e6980e0b5990eebfe65b48a9249faeb1f8a82b5425980f0eeb2"
+      },
+      {
+        "id": "1nd2fgDqjg1Q3O1Krx-taQP9D9xM8sLjg",
+        "role": "original-pdf",
+        "sha256": "0a1d37c731750fd7b4203fae4106d0c0f70f009884e229685ed30bb1cf8d094e"
+      }
+    ],
+    "lessonId": "p3-grimm-s-fairy-tales",
+    "sources": [
+      {
+        "id": "12ApGKLj6rhZlk1byfpAllCb5R3nR0UEG",
+        "role": "word-transcription",
+        "sha256": "e23821e278978e6980e0b5990eebfe65b48a9249faeb1f8a82b5425980f0eeb2"
+      },
+      {
+        "id": "1nd2fgDqjg1Q3O1Krx-taQP9D9xM8sLjg",
+        "role": "original-pdf",
+        "sha256": "0a1d37c731750fd7b4203fae4106d0c0f70f009884e229685ed30bb1cf8d094e"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Used Word 12ApGKLj6rhZlk1byfpAllCb5R3nR0UEG, matching PDF opening In the early 19th century; other Word version not used"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-tick-tock-body-clock",
+    "draftSources": [
+      {
+        "id": "1ZtXDgTwCrJ-u-u-UvJGzFEwJbhXduEzA",
+        "role": "word-transcription",
+        "sha256": "a62a9fa4a5b932df7e4f89fe66cc1f5ec98d2807365ea0a72c6f3048fe154640"
+      },
+      {
+        "id": "1ok6Y2RMocJqSEXuBbeLcqvmzQushLxuz",
+        "role": "original-pdf",
+        "sha256": "f934b7c6d894d3af941b28470fba12ce3e442ac329ba9461839049257611cd51"
+      }
+    ],
+    "lessonId": "p3-tick-tock-body-clock",
+    "sources": [
+      {
+        "id": "1ZtXDgTwCrJ-u-u-UvJGzFEwJbhXduEzA",
+        "role": "word-transcription",
+        "sha256": "a62a9fa4a5b932df7e4f89fe66cc1f5ec98d2807365ea0a72c6f3048fe154640"
+      },
+      {
+        "id": "1ok6Y2RMocJqSEXuBbeLcqvmzQushLxuz",
+        "role": "original-pdf",
+        "sha256": "f934b7c6d894d3af941b28470fba12ce3e442ac329ba9461839049257611cd51"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      [
+        "From bacteria to bacteria",
+        "From buffalo to bacteria"
+      ],
+      [
+        "We may take the clock on the wall",
+        "We may curse the clock on the wall"
+      ],
+      [
+        "timekeeping abilities required",
+        "timekeeping activities required"
+      ]
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-what-is-history",
+    "draftSources": [
+      {
+        "id": "1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg",
+        "role": "word-transcription",
+        "sha256": "1079b613e8ceeac35d088f818d72de6c307478ad7ddaffb98152db1a2f92bcf8"
+      },
+      {
+        "id": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+        "role": "original-pdf",
+        "sha256": "fae57e2d1d3fbda9822cb85fe3d5b74118fc9d6a4319d4257d586ff7d0870bcd"
+      }
+    ],
+    "lessonId": "p3-what-is-history",
+    "sources": [
+      {
+        "id": "1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg",
+        "role": "word-transcription",
+        "sha256": "1079b613e8ceeac35d088f818d72de6c307478ad7ddaffb98152db1a2f92bcf8"
+      },
+      {
+        "id": "1Z-lu4rjpNFwxl4jdGobf1lTFIUH2s3vN",
+        "role": "original-pdf",
+        "sha256": "fae57e2d1d3fbda9822cb85fe3d5b74118fc9d6a4319d4257d586ff7d0870bcd"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p2-pantomime",
+    "draftSources": [
+      {
+        "id": "1gU9wa6MGo_MZyA9nn6F8DMGjRkJANO47",
+        "role": "word-transcription",
+        "sha256": "b2939408ff491cf96d9c8072a3ff7232e9142ba2e85c88ce3097a8d6ffac4d14"
+      },
+      {
+        "id": "1aPfA9jbHfSuNYZ-6z9n1N-QV5xAMQzns",
+        "role": "original-pdf",
+        "sha256": "6a3462677a10630e6a0a822133220c9fd3d89eb2e018a05f7d2f1d667cf0f55a"
+      }
+    ],
+    "lessonId": "p2-pantomime",
+    "sources": [
+      {
+        "id": "1gU9wa6MGo_MZyA9nn6F8DMGjRkJANO47",
+        "role": "word-transcription",
+        "sha256": "b2939408ff491cf96d9c8072a3ff7232e9142ba2e85c88ce3097a8d6ffac4d14"
+      },
+      {
+        "id": "1aPfA9jbHfSuNYZ-6z9n1N-QV5xAMQzns",
+        "role": "original-pdf",
+        "sha256": "6a3462677a10630e6a0a822133220c9fd3d89eb2e018a05f7d2f1d667cf0f55a"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored Pantomime spelling from PDF, not Pantomine in Word"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-rise-in-importance-of-the-domestic-chicken-2-in-5-rep-sai",
+    "draftSources": [
+      {
+        "id": "1assNcPSgLi_V-4r9dzsIstJVoxkV-pAL",
+        "role": "word-transcription",
+        "sha256": "bf6b4dc716e9fd664cfb87d38a11867998062b95350fe5c4a60bae7857ae24a8"
+      },
+      {
+        "id": "1SxFM3kUnQkl-dwn7ex2pXW3vGzZCsNVI",
+        "role": "original-pdf",
+        "sha256": "4bb60d58e2bfa5963ecc490580fc652c698ed1db4f3a48a42820191e06354b97"
+      }
+    ],
+    "lessonId": "p2-the-rise-in-importance-of-the-domestic-chicken",
+    "sources": [
+      {
+        "id": "1assNcPSgLi_V-4r9dzsIstJVoxkV-pAL",
+        "role": "word-transcription",
+        "sha256": "bf6b4dc716e9fd664cfb87d38a11867998062b95350fe5c4a60bae7857ae24a8"
+      },
+      {
+        "id": "1SxFM3kUnQkl-dwn7ex2pXW3vGzZCsNVI",
+        "role": "original-pdf",
+        "sha256": "4bb60d58e2bfa5963ecc490580fc652c698ed1db4f3a48a42820191e06354b97"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-purpose-of-facial-expressions-a-thieu-em-dash",
+    "draftSources": [
+      {
+        "id": "1N4T9BskcW9syn_W-mVuYwgp4mxXw84y6",
+        "role": "word-transcription",
+        "sha256": "dcd02aee3672d0c142f219c3c2aa20b3c5d3a38847535c694f04e7d0742469e7"
+      },
+      {
+        "id": "1V9ihc-jMvgiCfAYEy2fM_hhd25gdIsSV",
+        "role": "original-pdf",
+        "sha256": "1fff171fbd65007445ec3c7259fb073388d0f661823c0d01e981c86749ba0fb4"
+      }
+    ],
+    "lessonId": "p2-the-purpose-of-facial-expressions",
+    "sources": [
+      {
+        "id": "1N4T9BskcW9syn_W-mVuYwgp4mxXw84y6",
+        "role": "word-transcription",
+        "sha256": "dcd02aee3672d0c142f219c3c2aa20b3c5d3a38847535c694f04e7d0742469e7"
+      },
+      {
+        "id": "1V9ihc-jMvgiCfAYEy2fM_hhd25gdIsSV",
+        "role": "original-pdf",
+        "sha256": "1fff171fbd65007445ec3c7259fb073388d0f661823c0d01e981c86749ba0fb4"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "PDF ONE WORD ONLY overrides incorrect Word TWO WORDS limit"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p2-the-city-of-great-zimbabwe-f-oan-2-rep-sai",
+    "draftSources": [
+      {
+        "id": "1T44deFDaJwZH8SJ3gnFRZrLGNEy5qFUc",
+        "role": "word-transcription",
+        "sha256": "c14ba580ba6b500a89a642e6ff668942183b609d062b5c72a90f63b303c0cb37"
+      },
+      {
+        "id": "1ZYg_IuG5qWCGk1ZyyYl7xIyizsSpHsHL",
+        "role": "original-pdf",
+        "sha256": "2edd364984c71d1dd6c27ff30a8fb07be043b38ed9ae11d09c985a6952adf8b9"
+      }
+    ],
+    "lessonId": "p2-the-city-of-great-zimbabwe",
+    "sources": [
+      {
+        "id": "1T44deFDaJwZH8SJ3gnFRZrLGNEy5qFUc",
+        "role": "word-transcription",
+        "sha256": "c14ba580ba6b500a89a642e6ff668942183b609d062b5c72a90f63b303c0cb37"
+      },
+      {
+        "id": "1ZYg_IuG5qWCGk1ZyyYl7xIyizsSpHsHL",
+        "role": "original-pdf",
+        "sha256": "2edd364984c71d1dd6c27ff30a8fb07be043b38ed9ae11d09c985a6952adf8b9"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Kept internal paragraphs in B/F/G; source seven sections and Shona footnote"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-the-future-of-the-world-s-languages",
+    "draftSources": [
+      {
+        "id": "1USfITO9onBWTTh5oRVbmJa7BpxBOB6Wd",
+        "role": "word-transcription",
+        "sha256": "0bd99e713b3cd06b168429063037736126ac7d096ad016cec0c5d8f9b88110cc"
+      },
+      {
+        "id": "1DNhXCmo2Tvsk_XF1opwO7Sdtho3NIbTC",
+        "role": "original-pdf",
+        "sha256": "425d37758397a5a2dc17d5f65781c5d7bb454d2ca7ae2c4dcbed41ad82f8b9b1"
+      }
+    ],
+    "lessonId": "p3-the-future-of-the-world-s-languages",
+    "sources": [
+      {
+        "id": "1USfITO9onBWTTh5oRVbmJa7BpxBOB6Wd",
+        "role": "word-transcription",
+        "sha256": "0bd99e713b3cd06b168429063037736126ac7d096ad016cec0c5d8f9b88110cc"
+      },
+      {
+        "id": "1DNhXCmo2Tvsk_XF1opwO7Sdtho3NIbTC",
+        "role": "original-pdf",
+        "sha256": "425d37758397a5a2dc17d5f65781c5d7bb454d2ca7ae2c4dcbed41ad82f8b9b1"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [],
+    "reviewed": true
+  },
+  {
+    "job": "p3-recording-history",
+    "draftSources": [
+      {
+        "id": "1Z6NYEYLHDvE1OwaQsuUtevOCNJXCrTpL",
+        "role": "word-transcription",
+        "sha256": "49fde1aa0861c336353595a2d558d85d946f3ed547ac04cbd7c68270436c215d"
+      },
+      {
+        "id": "1dD229eDOZ1nwhHBNOd1i76buGvUSNYSh",
+        "role": "original-pdf",
+        "sha256": "b839f876b504c52f51d2763860171f23144b2c30d6eafc65f0db1492937c33b2"
+      }
+    ],
+    "lessonId": "p3-recording-history",
+    "sources": [
+      {
+        "id": "1Z6NYEYLHDvE1OwaQsuUtevOCNJXCrTpL",
+        "role": "word-transcription",
+        "sha256": "49fde1aa0861c336353595a2d558d85d946f3ed547ac04cbd7c68270436c215d"
+      },
+      {
+        "id": "1dD229eDOZ1nwhHBNOd1i76buGvUSNYSh",
+        "role": "original-pdf",
+        "sha256": "b839f876b504c52f51d2763860171f23144b2c30d6eafc65f0db1492937c33b2"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      [
+        "snapchats",
+        "snapshots"
+      ],
+      "Restored summary paragraphs"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-sydney-opera-house",
+    "draftSources": [
+      {
+        "id": "154-5iIPsw61d9zPpR-RQvgu5qMIiNdFD",
+        "role": "word-transcription",
+        "sha256": "9373c4502a52def9cfb109a308fca166082d1a4eec4fd998a41a11e28318da65"
+      },
+      {
+        "id": "1zUX_zqFX38jA_Nk49wfobtAuQaJjpXHO",
+        "role": "original-pdf",
+        "sha256": "0df8d4d16ac49e60cc71c6b5cf8026010f195d14afb65bf3e8e11e012b7123d7"
+      }
+    ],
+    "lessonId": "p3-sydney-opera-house",
+    "sources": [
+      {
+        "id": "154-5iIPsw61d9zPpR-RQvgu5qMIiNdFD",
+        "role": "word-transcription",
+        "sha256": "9373c4502a52def9cfb109a308fca166082d1a4eec4fd998a41a11e28318da65"
+      },
+      {
+        "id": "1zUX_zqFX38jA_Nk49wfobtAuQaJjpXHO",
+        "role": "original-pdf",
+        "sha256": "0df8d4d16ac49e60cc71c6b5cf8026010f195d14afb65bf3e8e11e012b7123d7"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Passage3 version differs from existing Passage1 Sydney Opera House; retained complete Q27–40"
+    ],
+    "reviewed": true
+  },
+  {
+    "job": "p3-the-contradiction-of-tourism",
+    "draftSources": [
+      {
+        "id": "1bYoZtZrIqZ_pimwl0-lG4aDhv5RxpWUK",
+        "role": "word-transcription",
+        "sha256": "e4f34faba56e92596b7fcac371997b55d053795c09c8b65cce7d220edd56efdf"
+      },
+      {
+        "id": "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt",
+        "role": "original-pdf",
+        "sha256": "018664d739b5c759a4a7203696d376f35a22cdc186fc17b1f4d09e139dadf310"
+      }
+    ],
+    "additionalSources": [
+      {
+        "id": "1zntkBkXaB7sgHbIZkChiFcdxxb6Q3Eif",
+        "role": "alternate-pdf",
+        "sha256": "461702ab8a4f0c950eb83c7b5cba4f5d6154e353886aa59a5f8d6c3be72f52a9"
+      }
+    ],
+    "lessonId": "p3-the-contradiction-of-tourism",
+    "sources": [
+      {
+        "id": "1bYoZtZrIqZ_pimwl0-lG4aDhv5RxpWUK",
+        "role": "word-transcription",
+        "sha256": "e4f34faba56e92596b7fcac371997b55d053795c09c8b65cce7d220edd56efdf"
+      },
+      {
+        "id": "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt",
+        "role": "original-pdf",
+        "sha256": "018664d739b5c759a4a7203696d376f35a22cdc186fc17b1f4d09e139dadf310"
+      },
+      {
+        "id": "1zntkBkXaB7sgHbIZkChiFcdxxb6Q3Eif",
+        "role": "alternate-pdf",
+        "sha256": "461702ab8a4f0c950eb83c7b5cba4f5d6154e353886aa59a5f8d6c3be72f52a9"
+      }
+    ],
+    "allReadingParagraphs": true,
+    "allTaskPages": true,
+    "titleSubtitle": true,
+    "footnotes": true,
+    "corrections": [
+      "Restored summary paragraphs",
+      "Q36–40 verified against alternate 5-page PDF; primary 4-page PAPER ASIA omits this page"
+    ],
+    "reviewed": true
+  }
+]

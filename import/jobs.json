@@ -2298,8 +2298,10 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Image/scan pages need OCR and visual source review; free OCR transcript prepared, typography/arrows still need source review"
+    "status": "reviewed",
+    "lesson_id": "p1-the-oldest-leather-shoe",
+    "mode": "practice",
+    "wordSourceId": "1VgLxC2TQlE4UYB4TV8_yuKAB8CXpAC7O"
   },
   {
     "id": "p1-the-changing-nature-of-selling",
@@ -7413,11 +7415,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "14nrNq4EktK7QlQelUy7Ba9kGAFtJwR4n"
-    ]
+    ],
+    "lesson_id": "p2-pantomime",
+    "mode": "practice",
+    "wordSourceId": "1gU9wa6MGo_MZyA9nn6F8DMGjRkJANO47"
   },
   {
     "id": "p2-growing-more-for-less",
@@ -9237,7 +9241,10 @@
     "flags": [
       "source-name-requires-comparison"
     ],
-    "status": "queued"
+    "status": "reviewed",
+    "lesson_id": "p2-the-rise-in-importance-of-the-domestic-chicken",
+    "mode": "practice",
+    "wordSourceId": "1assNcPSgLi_V-4r9dzsIstJVoxkV-pAL"
   },
   {
     "id": "p2-the-return-of-monkey-life-co-pdf-k-move-c",
@@ -9282,7 +9289,10 @@
     "flags": [
       "source-name-requires-comparison"
     ],
-    "status": "queued"
+    "status": "reviewed",
+    "lesson_id": "p2-the-purpose-of-facial-expressions",
+    "mode": "practice",
+    "wordSourceId": "1N4T9BskcW9syn_W-mVuYwgp4mxXw84y6"
   },
   {
     "id": "p2-the-many-benefits-of-mangrove-chua-rep",
@@ -9403,7 +9413,10 @@
     "flags": [
       "source-name-requires-comparison"
     ],
-    "status": "queued"
+    "status": "reviewed",
+    "lesson_id": "p2-the-city-of-great-zimbabwe",
+    "mode": "practice",
+    "wordSourceId": "1T44deFDaJwZH8SJ3gnFRZrLGNEy5qFUc"
   },
   {
     "id": "p2-the-attraction-of-video-games-chua-rep-heading-cho-sapo-hep-lai",
@@ -12410,11 +12423,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1o62NYiZ9kUsmwoj5ifE66U_eDm7clNPh"
-    ]
+    ],
+    "lesson_id": "p3-the-future-of-the-world-s-languages",
+    "mode": "practice",
+    "wordSourceId": "1USfITO9onBWTTh5oRVbmJa7BpxBOB6Wd"
   },
   {
     "id": "p3-conformity-chua-rep",
@@ -12457,11 +12472,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Cached PDF opens with zero pages; another source is required before OCR/content review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "15kXFXnNme1NSZllzBPGdVl6XHpQrTvNz"
-    ]
+    ],
+    "lesson_id": "p3-recording-history",
+    "mode": "practice",
+    "wordSourceId": "1Z6NYEYLHDvE1OwaQsuUtevOCNJXCrTpL"
   },
   {
     "id": "p3-children-and-symbols",
@@ -13159,8 +13176,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "duplicate-title: compare the source versions before choosing a lesson"
+    "status": "reviewed",
+    "lesson_id": "p3-grimm-s-fairy-tales",
+    "mode": "practice",
+    "wordSourceId": "12ApGKLj6rhZlk1byfpAllCb5R3nR0UEG"
   },
   {
     "id": "p3-sydney-opera-house",
@@ -13176,8 +13195,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Missing, duplicate or out-of-order option codes: ['A', 'B', 'D']; expected ['A', 'B', 'C', 'D']"
+    "status": "reviewed",
+    "lesson_id": "p3-sydney-opera-house",
+    "mode": "practice",
+    "wordSourceId": "154-5iIPsw61d9zPpR-RQvgu5qMIiNdFD"
   },
   {
     "id": "p3-marketing-and-mind-control",
@@ -14196,8 +14217,10 @@
       }
     ],
     "flags": [],
-    "status": "queued",
-    "holdReason": "Missing, duplicate or out-of-order option codes: ['B', 'C', 'E', 'F', 'H', 'I']; expected ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']; Image/scan pages need OCR and visual source review"
+    "status": "reviewed",
+    "lesson_id": "p3-tick-tock-body-clock",
+    "mode": "practice",
+    "wordSourceId": "1ZtXDgTwCrJ-u-u-UvJGzFEwJbhXduEzA"
   },
   {
     "id": "p3-science-and-filmmaking",
@@ -14489,11 +14512,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; low-confidence or short-text pages require source review or an alternate source.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "10gQ7uJ6TR14s-wymicLBOyrmCjmAxoWt"
-    ]
+    ],
+    "lesson_id": "p3-the-contradiction-of-tourism",
+    "mode": "practice",
+    "wordSourceId": "1bYoZtZrIqZ_pimwl0-lG4aDhv5RxpWUK"
   },
   {
     "id": "p3-a-digital-cinema-of-the-mind",
@@ -14663,7 +14688,7 @@
     "mode": "practice"
   },
   {
-    "id": "p3-grimm-s-fairy-tales",
+    "id": "p3-grimm-s-fairy-tales-alternate",
     "part": 3,
     "title": "Grimm's Fairy Tales*",
     "sources": [
@@ -14677,7 +14702,7 @@
     ],
     "flags": [],
     "status": "queued",
-    "holdReason": "duplicate-title: compare the source versions before choosing a lesson"
+    "holdReason": "Different version; user selected Tales for all time on 2026-10-19. Not published."
   },
   {
     "id": "p3-the-irish-elk",
@@ -16088,11 +16113,13 @@
       }
     ],
     "flags": [],
-    "status": "text-prepared",
-    "holdReason": "Free OCR transcript cached; full reading, tasks and layout still require visual source review.",
+    "status": "reviewed",
     "preparedSourceIds": [
       "1pZgAudEkMVRPGRKEpk7iHSTE8LAr4P88"
-    ]
+    ],
+    "lesson_id": "p3-what-is-history",
+    "mode": "practice",
+    "wordSourceId": "1hZ7Mf88EYMD6GxJdZ8sUUg79hI_BGMNg"
   },
   {
     "id": "p3-rating-female-leaders",
