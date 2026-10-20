@@ -14,6 +14,7 @@
   if(!Array.isArray(d.paragraphs)||d.paragraphs.some(p=>!p||typeof p.text!=='string'||!p.text.trim()))return [...errors,'Missing or empty passage paragraph'];
   if(d.paragraphs.some(p=>p.blocks!==undefined&&(!Array.isArray(p.blocks)||p.blocks.length<2||p.blocks.some(t=>typeof t!=='string'||!t.trim())||p.blocks.join(' ')!==p.text)))errors.push('Invalid source paragraph blocks');
   if(d.paragraphs.some(p=>p.figure&&(!/^assets\/[a-zA-Z0-9_./-]+$/.test(p.figure.asset)||p.figure.asset.includes('..')||!p.figure.alt?.trim())))errors.push('Invalid source passage figure');
+  if(d.paragraphs.some(p=>p.italicRanges!==undefined&&(!Array.isArray(p.italicRanges)||p.italicRanges.some((r,i,a)=>!r||!Number.isInteger(r.start)||!Number.isInteger(r.end)||r.start<0||r.end<=r.start||r.end>p.text.length||(r.quote!==undefined&&r.quote!==p.text.slice(r.start,r.end))||(i>0&&r.start<a[i-1].end)))))errors.push('Invalid source italic ranges');
   const sourceParagraphCount=d.review?.sourceParagraphCount??d.conversion?.sourceParagraphCount;if(sourceParagraphCount!==undefined&&sourceParagraphCount!==d.paragraphs.length)errors.push('Passage paragraph count differs from source review');
   if(d.status!=='reviewed')errors.push('Lesson is awaiting review');
   if(!Array.isArray(d.groups)||!d.groups.length)return [...errors,'Missing questions'];
@@ -109,7 +110,7 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
 (function(root){
  const normal=s=>String(s??'').normalize('NFC').trim().toLowerCase().replace(/\s+/g,' ');
  const numbers=g=>g.type==='mc-two'?g.numbers:g.questions.map(q=>q.n);
- function sourceText(d){return JSON.stringify({id:d.id,title:d.title,part:d.part,subtitle:d.subtitle||'',footnotes:d.footnotes||[],paragraphs:d.paragraphs,groups:d.groups.map(({kind,...g})=>g)})}
+ function sourceText(d){return JSON.stringify({id:d.id,title:d.title,part:d.part,subtitle:d.subtitle||'',footnotes:d.footnotes||[],paragraphs:d.paragraphs.map(({italicRanges,...p})=>p),groups:d.groups.map(({kind,...g})=>g)})}
  function validate(d,solution){
   const errors=[],ns=d.groups.flatMap(numbers);
   if(!solution||solution.reviewed!==true||solution.lessonId!==d.id||!/^[a-f0-9]{64}$/.test(solution.lessonSha256||''))return ['Unreviewed or unidentified solution'];

@@ -8,7 +8,7 @@ from pathlib import Path
 import fitz
 sys.dont_write_bytecode=True
 ROOT=Path(__file__).resolve().parents[1]
-VERSION='3.24'
+VERSION='3.39-source-italics'
 _spec=importlib.util.spec_from_file_location('source_notes',ROOT/'scripts/source-notes.py')
 notes_module=importlib.util.module_from_spec(_spec);_spec.loader.exec_module(notes_module)
 HEADER=re.compile(r'(?m)^[ \t]*Questions?[ \t]+(\d+)(?:[ \t]*(?:[–—-]|and|&)\s*(\d+))?[ \t]*[.:]?[ \t]*$')
@@ -491,6 +491,8 @@ def parse(source,part,cache):
  path=cache/(source['id']+'.pdf')
  with fitz.open(path) as doc:
   title,paras,chunks,subtitle,footnotes=collect(doc,source)
+  emphasis_spec=importlib.util.spec_from_file_location('source_emphasis',ROOT/'scripts/source-emphasis.py');emphasis=importlib.util.module_from_spec(emphasis_spec);emphasis_spec.loader.exec_module(emphasis)
+  emphasis.apply(paras,*emphasis.pdf_source(doc))
   groups=[parse_group(c,paras,doc) for c in chunks]
   check_duplicate_prompts(groups)
   start={1:1,2:14,3:27}[part];count=14 if part==3 else 13

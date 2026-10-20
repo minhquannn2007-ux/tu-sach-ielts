@@ -1,0 +1,4039 @@
+{
+  "date": "2026-10-20",
+  "structuredLessons": 783,
+  "counts": {
+    "source-not-cached": 523,
+    "checked-no-inline-italics": 144,
+    "needs-image-review": 84,
+    "restored": 30,
+    "source-text-alignment-review": 2
+  },
+  "lessons": [
+    {
+      "id": "p1-a-brief-history-of-ballet",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-brief-history-of-canned-food",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-brief-history-of-fashion-retail",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-brief-history-of-glassmaking",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-gem-from-the-sea",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-look-at-the-history-of-poetry",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "461043f01664340610b20722fcc0bb29bfdbb78e57056f1e134203242abbdb50"
+    },
+    {
+      "id": "p1-a-moment-of-perfection",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-a-much-travelled-vegetable",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-river-reveals-its-roman-past",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-survivor-s-story",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-a-watchful-eye-on-bridges",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-advertising-needs-attention",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-ambergris-what-is-it-and-where-does-it-come-from",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-an-art-exhibition-inspired-by-the-age-of-spices",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-an-important-language-development",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "8687829b0881ed541a42abac9b6429d5374e56395ee91fcb95b1f46db8e88eee"
+    },
+    {
+      "id": "p1-ancient-greek-coins",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-ancient-peoples-of-the-sahara",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-andrew-carnegie-industrialist-and-philanthropist",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-answers-underground",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-antonio-stradivari-violin-maker-supreme",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-are-dreams-really-meaningful",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-australian-artist-margaret-preston",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-australian-rock",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-australias-airborne-dentists",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-australias-cane-toad-problem",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "945fa56b54f7800c40b1d592bb30e3432e7409097a82e26ae2ed5b4c00d92b51"
+    },
+    {
+      "id": "p1-back-to-the-wild",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-back-to-their-roots",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-barrels",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-becoming-an-expert",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-bees-and-honey",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-bodie-americas-most-famous-ghost-town",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-bondi",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-book-review-triumph-of-the-city",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-brassicas",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-building-a-new-future",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-buried-cities-of-the-amazon-rainforest",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 3,
+      "sourceSha256": "4a24dcfb0b3b56299c8b647ca5a24aa91db242986dab6ba7d14ee3ec359bab70"
+    },
+    {
+      "id": "p1-butterfly-farms-valuable-resource-or-insect-zoo",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-candles",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-caral-an-ancient-south-american-city",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-carnivorous-plants",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 4,
+      "sourceSha256": "ebb4b432d2b66f544d324f17de1f4c76366645a23b59c2e598f5f04bac53dc9d"
+    },
+    {
+      "id": "p1-case-study-schuit-sustainable-development-project-on-stavos",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "f98d68de7cb92ed9963f418f196e8bfefe31295cf49f6380a3d302186698569b"
+    },
+    {
+      "id": "p1-charles-dickens-early-life-in-london",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-charles-heaphy-and-the-settlement-of-new-zealand",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "3b5af023bb0a57efa4e77ee15cd4b213f78e154305e23897bc0bb6578cd8bc5b"
+    },
+    {
+      "id": "p1-chilli-peppers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-chocolate-for-the-masses",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-city-transport-uneven-progress",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "bde9a0c2df12b4de9de0118a2c5e44e77a88e1a93857360f25d5b494a69f5455"
+    },
+    {
+      "id": "p1-clarence-birdseye-and-the-development-of-frozen-food",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-classifying-societies",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-climate-change-and-new-diseases",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-coffee-then-and-now",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 2,
+      "sourceSha256": "3329862df5d05939805e5dd3f01d482831894a1f221528c22983e25a39558d03"
+    },
+    {
+      "id": "p1-computer-games-for-preschoolers-nintendo-s-research-and-design-process",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-concrete",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-conquering-the-south-pole",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-controversies-in-australian-prehistory",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-cooked-food",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-copy-your-neighbour",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-couran-cove-resort",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-crowding-and-density",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "5f2627d3da08a9e741a2e850a8752bf6331a74c703432b5887c678c5cf34277a"
+    },
+    {
+      "id": "p1-deep-sea-discovery",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-deserts-and-desert-life",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "5e1931f7a9d7d5559f28f0cae5490905f7364f01e702fa4e306203269b90ea33"
+    },
+    {
+      "id": "p1-development-of-libraries-in-australia",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-developmental-tasks-of-normal-adolescence",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-dinner-in-rome-2-000-years-ago",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-dirty-but-clean-rivers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-discovering-ancient-cities",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-dolls-through-the-ages",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "396b5812c86efb661fcf7590f65b2cb1c8ffa1b046fc586621637f75ef33151c"
+    },
+    {
+      "id": "p1-dress-and-its-social-functions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-dugongs",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "7686a9f40d98a08ef9b2968280c67999ad4bc41754e8736645b86c11c6c79065"
+    },
+    {
+      "id": "p1-dust-and-the-american-west",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-dyes-and-fabric-dyeing",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-effect-and-cause",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-el-nino-unusual-weather-in-the-pacific",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-energy-from-the-oceans",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-ensuring-our-future-food-supply",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-face-recognition-in-everyday-life",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-faster-trains-for-china",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-fazioli-pianos",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-feeding-the-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-fishbourne-roman-palace",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-flying-the-coast",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-food-flavor",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-food-sources-of-early-native-americans",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-footprints-in-the-muds-of-time",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-forgotten-forests",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-forty-thousand-year-old-baby",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-fungi-a-new-sustainable-alternative",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-gobekli-tepe-a-remarkable-discovery",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-health-in-the-wild",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-hormones",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-how-deserts-grow",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-how-printed-books-began",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "36e854b0ba1b478eab84cbb71ee080c40a9b4f49cf79304601117ad88b0fa327"
+    },
+    {
+      "id": "p1-how-to-be-happy",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-ice-ages",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-ice-skating-through-history",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-in-deep-water",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-investing-in-the-future",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "7fcee4c09df442b326bc16fc4ac015817cbc9d4cf43426db8dd2d400540f60ad"
+    },
+    {
+      "id": "p1-john-st-clair-kilby-inventor-of-the-integrated-circuit",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-katherine-mansfield",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-katsushika-hokusai",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-keeping-healthy-at-work",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "8057ce98adea2b6e1f4a88c3f98ec9c25bb5bdbc5d57548047be5c2ebf86fbde"
+    },
+    {
+      "id": "p1-koalas",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-learning-about-the-moa",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "9fdc5756ffaa0ff1532428092bee5f8aca829166bcc53eb05c54253cc041d83f"
+    },
+    {
+      "id": "p1-lichens",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.9976,
+      "unmatchedParagraphs": [
+        7
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "c5830d97857369d31154c4ed5c6e0b58e1d259b7fba4830a6145e486d1754de6"
+    },
+    {
+      "id": "p1-listening-to-the-ocean",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-living-walls-a-successful-environmental-project",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "cfc39cc003cdcda87b0d664d4fbc7d11878aaddabb8e833d0e19318c4901e2eb"
+    },
+    {
+      "id": "p1-living-with-uncertainty",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-looking-skyward",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "1af84a020f236215a2f6a72fd6c451a0403860771fe21ba7cb45f944caf195b5"
+    },
+    {
+      "id": "p1-making-copies",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-maori-buildings-in-new-zealand",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-map-reading-and-gender",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-mental-gymnastic",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "82776d59f81c7d713490572e3390a8cf779fb3e2fbb703e47afdcebaa09ea679"
+    },
+    {
+      "id": "p1-minds-of-their-own",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.9822,
+      "unmatchedParagraphs": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "c190a8980b6692d8dc047dcfc919a6bfd6d357e4e8c83b2fd522def3c699900c"
+    },
+    {
+      "id": "p1-motivating-employees-who-work-with-customers",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "8f85480cfc99337aa978c0ccef842339a5a03f9cc9c51e0befb7a9ec527d78a3"
+    },
+    {
+      "id": "p1-museums-and-family-visitors-in-australia",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-mystery-drawing",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-new-understanding-of-giraffes-in-the-wild",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-new-zealand-pottery",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-no-title-a-decibel-hell",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-nutrition-and-human-growth-in-north-america-and-europe-18th-20th-century",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-obesity-do-citizens-of-developed-countries-really-have-a-choice",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-optimism-and-health",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "42b56ff5c9941916e61ab220d67b92961cb1cd3e4c5b88bbd8bf91c7bffd7e57"
+    },
+    {
+      "id": "p1-otters",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-pluto-seen-up-close-for-the-first-time",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-practical-action",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-preserving-the-gardens-of-the-past",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "bf4c11476402a482408a27754f6661e20fb3aaec86d0b8bb52cb8f2be8a36ad0"
+    },
+    {
+      "id": "p1-radiocarbon-dating",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-rags-to-riches",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "efa8c2242100d4367f4839df54314bcd6c3a183b20a6ff7b312e753f638485e7"
+    },
+    {
+      "id": "p1-recent-developments-in-pea-growing",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-reef-fish-study-chua-rep",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "a62e8afd591bcb1e0ba20e821183cd04f77a33e3944fa10f1a7166a171e2e2fa"
+    },
+    {
+      "id": "p1-reef-life-on-the-yongala",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "fb563c4f613fbaa9f44d856c7a504d27e8d677e0258fbb8cd03da91da254557e"
+    },
+    {
+      "id": "p1-report-on-a-university-drama-project",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 1,
+      "sourceSha256": "a330e9590689ce5615b304640d43812033c667a13f57a1987efa256914947a23"
+    },
+    {
+      "id": "p1-research-into-elephant-sleeping-habits",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "7c0311de6bdd0ce06bc9d0651a1c3b9e5793400bf4c21d44d9646d25d0943509"
+    },
+    {
+      "id": "p1-review-of-research-on-the-effects-of-food-promotion-to-children",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "f5e313c65bec46947345abd1e1c3bc8b5079a0bb28a0979ad9840f92f01edede"
+    },
+    {
+      "id": "p1-rubber",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-salt",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "a602c3a9e7848b0d68faa8d3b224f943e8fc957c48888bb4f287e9b82d03ee92"
+    },
+    {
+      "id": "p1-saving-the-date-palm",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-saving-the-kiwi",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-scented-plants",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 2,
+      "sourceSha256": "7fb26f29f6c5d48c022086d3ef9cda889803ab0eaecfca6c4687c7a20b37dd5a"
+    },
+    {
+      "id": "p1-searching-for-sustainable-solutions-to-indoor-air-pollution",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-seaweed",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-secrets-of-the-nasca-lines",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-shadow-puppet-theatre-in-southeast-asia",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-shopping-by-design",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-sleep-study-on-modern-day-hunter-gatherers-dispels-popular-notions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-social-organization-in-animals",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-socotra-island",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-solving-an-arctic-mystery",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-stagecoaching-in-australia",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "9e7519e30c18fc197e74b1cd62af38802af620cd9a3d1d063a9f346ab87230a6"
+    },
+    {
+      "id": "p1-steam-across-the-water",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-studies-in-the-history-of-art-and-visual-culture",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-successful-approaches-to-public-speaking",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-supplying-drinking-water-to-australian-households",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-sweet-scent-of-success",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-sweet-trouble",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-sydney-opera-house",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-te-papa",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "e46d51d0ffca143f13f97270051e00109565ec25feced1feb3bbb2c2ca22d6de"
+    },
+    {
+      "id": "p1-temperature-rising",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-adaptation-of-dickens-novels-for-film",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-band-of-holes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-baobabs-of-madagascar",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-blockbuster-phenomenon-a-new-museum-trend",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-burgess-shale-fossils",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-changing-nature-of-selling",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-chemical-element-phosphorus",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "9bb2b769f2ae4272b3b89ab7ac161f4cd76cefdfbe0204920c35059d1af71817"
+    },
+    {
+      "id": "p1-the-cooling-effect-of-plastic-clothes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-development-of-art-appreciation-in-melbourne-australia",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e21f5a8cf1cff8e965bbbc7078b0e1ab7b7460874ec03117422fb1125326189e"
+    },
+    {
+      "id": "p1-the-development-of-exploration-and-scientific-research-in-antarctica",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-development-of-italian-opera",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-development-of-plastics",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "4bbb0ebccbdb0bcd37736a8df8a6e38d71b73bf953c1cf6adb93c1fd2093813b"
+    },
+    {
+      "id": "p1-the-development-of-research-stations-in-antarctica",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-development-of-the-advertising-industry-in-new-zealand",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-development-of-the-bicycle",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-development-of-the-silk-industry",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-disappearance-of-the-thylacine",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-dunedin-study",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-early-days-of-oil-production",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "32f1e81853c6da76c816d8174cefd45967d5d4c2608c1d5f10d3ca4172af9753"
+    },
+    {
+      "id": "p1-the-emergence-of-communications-media-in-the-usa",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-english-canal-system",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "5afa814baae147675fd992c057b0005dcdb2b8f19194e3f8cab020f809fec3e2"
+    },
+    {
+      "id": "p1-the-explorations-of-matthew-flinders",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-extinction-of-the-cave-bear",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-future-of-news-coming-from-a-fun-circle",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 1,
+      "sourceSha256": "64f94ad014e4c09f95549a704e5a50b4d046afdc6f8f6a464ced41bcba457d98"
+    },
+    {
+      "id": "p1-the-great-exhibition",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-great-tit",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-health-benefits-of-singing",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-history-and-production-of-chocolate",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-cakes-at-weddings",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-colours-and-the-meanings-people-have-given-them",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "51bde95bd09d0f8693f9662dea1bbbaac0db5237460f9948b84be864a14fd99f"
+    },
+    {
+      "id": "p1-the-history-of-farming",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-lighting",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-london-s-coffeehouses",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-the-bar-code",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-history-of-the-british-wool-industry",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-the-car-industry",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-the-chicken",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "3bbb06605bf2d84a26f7f11e6aaec58fc387248598c7253324e83f57e092fbf2"
+    },
+    {
+      "id": "p1-the-history-of-the-doughnut",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-the-guitar",
+      "status": "restored",
+      "paragraphCoverage": 0.8733,
+      "unmatchedParagraphs": [
+        3,
+        10
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 14,
+      "sourceSha256": "f8c5db41f94af6fbeb1bc2ab943f01b91469618c0aa7103eab482101e00aa57e"
+    },
+    {
+      "id": "p1-the-history-of-the-pencil-manufacture",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-the-pencil",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-history-of-the-picnic",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "a036a9385e6c26d4ec200dbfababc99e40e5a3cbe0b72624e6b745974eb38c20"
+    },
+    {
+      "id": "p1-the-history-of-theater-designs-in-britain",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "eeb19afe5f34c1f9f450e1ef0e497f64679717813bf86e2eb03b3d5a2bc60552"
+    },
+    {
+      "id": "p1-the-history-of-walking-in-new-zealand",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-iditarod",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "416838359b5cf37b0cb32bc828f5dc1ebf4389df3ea8d446237d15c6049924f1"
+    },
+    {
+      "id": "p1-the-impact-of-refrigeration",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-impact-of-the-potato-in-europe",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-importance-of-business-cards",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-kea",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-last-man-who-knew-everything",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-life-of-beatrix-potter",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-life-of-louis-braille",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-london-bus-museum",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-long-history-of-chocolate",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-media-literacy-of-children-a-review-of-research-literature",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-mesoamerican-ball-game",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-mobile-workforce",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-new-zealand-national-archives",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "85be08fcbdf44b3be547bb70f7c3250339d4cff5dbbafc3f68e6de9380c5304a"
+    },
+    {
+      "id": "p1-the-oldest-leather-shoe",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "93c10022399fdb07d361723437825347f94149f703be416e54a7e46599bd1c23"
+    },
+    {
+      "id": "p1-the-olmec-and-their-great-stone-heads",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-olympic-torch",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-origins-of-cinema",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-origins-of-mathematics",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-origins-of-rodeo-a-competitive-sport",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-origins-of-tennis",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-origins-of-weather-forecasting",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-owl-a-most-distinctive-bird",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-pixar-story",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "dac9d90fad9b065f3e6bfd8f4482e5de5ac82ca0dee3834e61877195f4c5a80a"
+    },
+    {
+      "id": "p1-the-pyramid-of-cestius",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-search-for-an-alternative-to-plastic",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-secret-of-a-long-life",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-slow-food-organization",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-southern-cross",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-story-of-the-railroad",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-sunlight-soap-story",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-travelling-stock-routes-and-reserves-of-new-south-wales",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-treadle-pump",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-treasures-of-sutton-hoo",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "600eaa24145c553c06c7297f20d3f4274e002354b6047b9cd47591e974b76e4b"
+    },
+    {
+      "id": "p1-the-tuatara-of-new-zealand",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-the-tyne-bridge",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-unsung-sense",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "41a98c1eeef2acc4d50c2536aac7c48187c1ba9a16e0b1c19a5da10c5998ca2a"
+    },
+    {
+      "id": "p1-the-whale-goes-to-court",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-the-worlds-first-cities",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-think-small",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-tikopia",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "81b70d824cc7b0159c331ddb352a69fd132d9e77523cc049e73d46c922408547"
+    },
+    {
+      "id": "p1-traditional-farming-in-zambia-s-luapula-province",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "dc54a5e9304cfe6c523a5d63d6734044c8acbefef5b0ab37d230a0e9dd9e9d2b"
+    },
+    {
+      "id": "p1-traditional-maori-fish-hooks",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-traditional-maori-medicine",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-transport-and-transport-systems-during-the-roman-empire",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-treasures-of-the-forbidden-zone",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-tunnelling-under-the-thames",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-tyrannosaur-rex-a-new-theory",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-under-the-skin-of-a-great-violin",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-undergraduate-students-guidelines-to-students-on-literature-courses",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "42574392da6c8bc5891a1819cbb513842fc71260be38cd0a5d12420197f93560"
+    },
+    {
+      "id": "p1-using-up-our-oceans-resources",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-using-video-diaries-to-collect-research-data-from-children",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "ddbc688584452d1e8a98af7d0dd4af0d4ccb0fe4490cb42c849024e0947af76b"
+    },
+    {
+      "id": "p1-vulcan-the-planet-that-wasnt-there",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-walking-for-life",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "f582626ff2b73023e51d9e8392e7e41ee8b78c97f39b15a2106a465ae2bf91cc"
+    },
+    {
+      "id": "p1-weaver-ants-a-remarkable-species",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-what-are-black-holes",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-what-do-managers-really-do",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-what-have-we-learned-from-the-new-viking-ship",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-what-is-the-secret-of-a-long-life",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-what-lucy-taught-us",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p1-when-maps-were-made-for-the-public",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-why-good-ideas-fail",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 4,
+      "sourceSha256": "76929c3650bd69e1e7bfd9a91d90e0659ff5c0c3fe0941b49679f7beb80bb8ff"
+    },
+    {
+      "id": "p1-william-gilbert-and-magnetism",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-windmills",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-wood-a-valuable-resource-in-new-zealand-s-economy",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p1-work-and-family-a-balancing-act",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-great-leap-forward",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "d7d1dd6909c7324366f52f59b3e64685e1ee7492e4eb397e9952a4b61d11f4fe"
+    },
+    {
+      "id": "p2-a-guide-to-healthy-eating",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-history-of-early-inventions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-mechanical-friend-for-children",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-new-way-of-reading",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-report-on-the-state-of-the-music-market-2007",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-study-of-introvert-and-extrovert-characters",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "30fce97131e61682669a35b19277f9e5e0276979e3098de9ffc17392d783943d"
+    },
+    {
+      "id": "p2-a-threat-to-salmon-farming",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-a-unique-golden-textile",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-adventures-in-comic-land",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-american-businesses-aim-to-support-employees-and-their-families",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-an-ancient-city",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-an-australian-tree-abroad",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-an-early-study-of-inappropriate-behaviour-in-the-classroom",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-an-innovative-american-school-black-mountain-college",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-ancient-treasures",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-antarctic-architecture-halley-vi",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-antarctic-research",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-antarctica-s-climate",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-arctic-foxes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-are-artists-liars",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "ce7cf507a5daa54a9ea3e0980e88ac19c48e5a3b398793a799b931dff44e479a"
+    },
+    {
+      "id": "p2-are-the-rules-of-grammar-inherited-or-learned",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-athletes-and-diet",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-australia-s-artistic-heritage",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "e4ba29e8d17209d0cfb9a9d21c708e1e367470f7af91b5959ea52851f251c778"
+    },
+    {
+      "id": "p2-australian-parrots",
+      "status": "source-text-alignment-review"
+    },
+    {
+      "id": "p2-australian-society-before-european-settlement",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e5f51416eb55c6fe2af00248879906c9099a3ba14490f3c4460b1e0ecd8e545d"
+    },
+    {
+      "id": "p2-australian-sports-guidelines",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "02570a28434edce4a06b24d5dd45aafd6a166b05ddfd7a1a4b2f48702346ae20"
+    },
+    {
+      "id": "p2-babies-cry-in-their-mother-tongue",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-being-left-handed-in-a-right-handed-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-biomimicry",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-biophilic-design",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-bird-migration",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-birds-in-the-city",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-book-review",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-books-and-buildings",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-boring-buildings",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-brains-trust-learning-about-ourselves",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-bravery-and-courage",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-bristlecone-pines",
+      "status": "source-text-alignment-review"
+    },
+    {
+      "id": "p2-buying-time",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-can-a-global-database-of-fossils-help-us-predict-the-future-of-biodiversity-on-earth",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "849668282f38b1a574fd900833b404c350de82b26316dfd50cf3eda4ec951b8f"
+    },
+    {
+      "id": "p2-canal-discovered-at-ancient-quarry-in-egypt",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "c1b7504db4b2a31fe3ed71103ca19713d9e987ccdf0a32194bbc5166ad1b11df"
+    },
+    {
+      "id": "p2-capability-brown",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-catch-of-the-day",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-children-s-comprehension-of-television-advertising",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.8965,
+      "unmatchedParagraphs": [
+        1
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "634e30c234893cf40c82cefc13f659ed976a6375b1c2c592f7af7185821c43fd"
+    },
+    {
+      "id": "p2-children-s-understanding-of-other-people-s-minds",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "f5cd05d803af3804c83194b8cb9734e30f889817e224599c7200dbbad3c8cdaa"
+    },
+    {
+      "id": "p2-childrens-literature",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-coastline-sculptures",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-coins-the-first-form-of-money",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-conserving-plastic",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-considerate-technology",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "3d6d3156db34b7cc2bfc54a43a997b132c4e5434aa60d6f237424e11212a8a63"
+    },
+    {
+      "id": "p2-corporate-social-responsibility",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-creative-problem-solving",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-creator-of-managers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-dark-chocolate-s-health-giving-benefits",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-de-extinction",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-decision-fatigue",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "bf159e0ed862fc2a9c976e83e77b25a1040bb21ca8ae1b2c75167f78b5017229"
+    },
+    {
+      "id": "p2-defining-street-art",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-digital-analysis-of-literature",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-do-animals-really-remember",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-dolphins-and-language-learning",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "aebfdb885db46bccdfcd09b91fcd581123e418e7af0f4e83e67c13ffd1a1273e"
+    },
+    {
+      "id": "p2-dominance-in-social-insects",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "c9114c7ec7ac15086efe16a5fb2b9eb2a673fd96b83c4e34a8e770c574ab839f"
+    },
+    {
+      "id": "p2-doodling",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-early-approaches-to-organisational-design",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "1155d868705dfa6ee433d007a3df7a2f3be8284b84a1023392c8517d619c4692"
+    },
+    {
+      "id": "p2-ecotherapy-using-nature-to-treat-health",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-effects-of-changes-in-world-population",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-egypt-s-ancient-boat-builders",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-emotional-development-in-babies",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-europes-earliest-artists",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-farmers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-flood-control-in-the-usa",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "2285fd9d1c32b791bd858d527fd9d79bd81779e3bce11963d38318c3289f0d5d"
+    },
+    {
+      "id": "p2-follow-your-nose",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e1f0aa0ddc8eca9783a2ae3a7c3ddc00c09838042f4ea8e64c0b7091f1736560"
+    },
+    {
+      "id": "p2-fragrant-memories",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.8966,
+      "unmatchedParagraphs": [
+        3
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "09d1ec519b8275e7e388ff916f28f74e7af358005dfa3a14540fb6a617390be9"
+    },
+    {
+      "id": "p2-gamma-gardening",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "8c9dbf2032d6ad3b187fb59156e68bfd1a966af490909f9709ff3c206eee9ac0"
+    },
+    {
+      "id": "p2-geodiversity",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-getting-young-children-to-stay-in-bed-and-sleep",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-going-with-the-flow",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-growing-food-in-cities",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-growing-more-for-less",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-healthy-buildings-productive-people",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-heart-of-the-community",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-herbal-medicines",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "d768462ebeff8fc7719a17a6b3190444b2c8068733edb0df8d3a401350c82630"
+    },
+    {
+      "id": "p2-homo-ergaster",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-honeybees-face-a-fight-for-survival",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-how-dental-health-is-threatened",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-how-deserts-are-formed",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-how-do-plants-talk-to-each-other",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-how-sleep-helps-us-learn",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-how-the-petri-dish-supports-scientific-advances",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "efbe5971b394689fcd15c718dc4b5ace6bbb45eb7bd8c22767126281dd1cfd87"
+    },
+    {
+      "id": "p2-how-to-be-happy",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "198b6d5d2a3c0c060010990c2b86c3fd3934bdca54c32bc9e09b46514a351cf3"
+    },
+    {
+      "id": "p2-how-well-do-people-concentrate",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "70c9523f39df1f682a6d86f2b71db0bc8cac145683aeb96a018f169af0b5ba06"
+    },
+    {
+      "id": "p2-human-running-speed",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-icebergs-as-a-water-source",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-ideal-homes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-improving-sensory-perception",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-influences-on-child-development",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-insect-decision-making",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-intelligent-behavior-in-birds",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-investment-in-shares-versus-investment-in-other-assets-which-gives-the-greater-gain",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-iq-scores",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e11aacebfd114b8d3984cdecbbcb899dce8e8d869776be572c7b18d67136ad4d"
+    },
+    {
+      "id": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-jellyfish-the-dominant-species",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-keeping-an-eye-on-shoppers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-keeping-the-water-away",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "ac96ed3d8e906b0ce320bda2503d2014eaa2495484caa33b763b1cba248dc5f5"
+    },
+    {
+      "id": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-lean-production-innovation-in-manufacturing-systems",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-learning-from-the-romans",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-learning-to-sing",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-libraries",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-london-smog",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-magnificent-money-making-mantas",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-making-images-from-space-more-accessible",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-mammoth-kill",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-management-brains",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-mapping-the-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-measuring-economic-activity-from-outer-space",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "f7e0ed6357a47f5b43ad46a9856509887baaf1c7bd595eb2449373c3de659b98"
+    },
+    {
+      "id": "p2-mechanical-computing",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "49558e25786c55a6989e6c3c2f1533c035931230cf9d78f4477f7a9462041cb0"
+    },
+    {
+      "id": "p2-meeting-challenges-in-food-production",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-memory-in-plants",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-methods-of-increasing-fish-production",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-michael-ventris-and-the-decoding-of-linear-b",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-mimicry-and-parenting",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-mind-music",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-mixed-signals",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-moon-search",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-multi-tasking-and-the-brain",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-muscle-wasting",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-music-and-the-human-brain",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-nanotechnology-the-science-of-the-very-small",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-nature-s-numbers",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-new-businesses-in-new-zealand",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-new-filter-promises-clean-water-for-millions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-new-technology-in-new-zealands-health-service",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-newly-hatched-birds",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-no-title-bees-and-plants",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-norman-rockwell",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-of-horses-teeth-and-regulation",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-office-design",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-orchids",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-orientation-of-birds",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "2f332057f780ff9e2c96aea189c6ffa79a418ae590b001a693cd2bce663a8fec"
+    },
+    {
+      "id": "p2-our-sense-of-smell",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "8e6d6251350871678d1d45a5975b3ac2ff1b367106c6812ab1d5edddb0cc57e9"
+    },
+    {
+      "id": "p2-pantomime",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 5,
+      "sourceSha256": "b2939408ff491cf96d9c8072a3ff7232e9142ba2e85c88ce3097a8d6ffac4d14"
+    },
+    {
+      "id": "p2-parental-involvement-programmes-in-education-a-review-of-the-literature",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-paternity-leave",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "87abd1503d692d2504fb7901578f668526201001418fa288fdd48cae02bb414d"
+    },
+    {
+      "id": "p2-patience-fairness-and-the-human-condition",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-patterns-of-settlement-in-the-english-countryside",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-photography",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-playing-soccer",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-playing-with-science",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 3,
+      "sourceSha256": "334b378ac8cc20befa0246504b04aac9f12dfd38d4c29d00cea861e6198ec7c6"
+    },
+    {
+      "id": "p2-preserving-antarctic-history",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-public-art-programs-research-update",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-re-dating-cave-art",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "210029ffb226c19f064d1d1ffd6b8bf6e54950f37eaded2bf23ae1ba3b8443e3"
+    },
+    {
+      "id": "p2-reading-in-different-media",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-red-and-brown-seaweed",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-redwoods",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "2c8e9ad00281b9563d66a71097177e7c6e4837a2486909f3a6a18ff19d9a60f5"
+    },
+    {
+      "id": "p2-restoring-neighborhoods-by-removing-highways",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-rocket-science",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-roller-coaster-the-great-fairground-attraction",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "720c3669ee18fd6b9ac09f943d414b27a77fc9ce2f252caf4aacdbf935706814"
+    },
+    {
+      "id": "p2-saving-the-ss-united-states",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-science-and-the-stradivarius",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-should-space-be-explored-by-robots-or-by-humans",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-should-top-managers-be-promoted-from-within-the-company-or-hired-from-outside",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-should-we-stop-eating-meat",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-sir-gawain-and-the-green-knight",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-sleep-who-needs-it",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-society-and-culture-in-west-africa",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-solving-the-problem-of-waste-disposal",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-speaking-of-nothing",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-storytelling-from-prehistoric-caves-to-modern-cinemas",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-stress-less",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-surviving-city-life",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-surviving-the-winter-hibernation-and-other-resting-states",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-sydneys-road-stories",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-teamwork",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-technology-and-the-future-workforce-in-the-us",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-2003-heat-wave",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-advantages-of-being-bilingual",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 1,
+      "sourceSha256": "8b4080a86a37540e0e0c9800874cb7637021c7b85c39cc29f103843ccf10a5d5"
+    },
+    {
+      "id": "p2-the-aerofoil",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-alps-2-ocean-cycle-trail",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "47d8dd2bea12360cee4c9ff2977a1f66bc0398d0c17842858c3ebccc048281a1"
+    },
+    {
+      "id": "p2-the-art-and-science-of-facial-reconstruction-a-history",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "c23025dc24210f5410a067a47965238b91256eaa28c76bb6dee1f12e2ccd74ee"
+    },
+    {
+      "id": "p2-the-attraction-of-video-games",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "4d30b15430ee6674e5ba4b14595aeab37f6234ac3938a0dfd87647bc74cc9dff"
+    },
+    {
+      "id": "p2-the-beginning-of-the-consumer-age",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "a7744e47dc3e565809ea790383f700c5c5466599d57e5c0f7ec7c24390fe7cc8"
+    },
+    {
+      "id": "p2-the-biological-basis-of-business-management",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-changing-face-of-farming-in-the-canterbury-region-of-new-zealand",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-city-of-great-zimbabwe",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "2edd364984c71d1dd6c27ff30a8fb07be043b38ed9ae11d09c985a6952adf8b9"
+    },
+    {
+      "id": "p2-the-clustering-of-it-companies",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-coastal-archaeology-of-britain",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-collective-evolution-of-tangle-web-spiders",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-commercial-production-of-ice-in-the-nineteenth-century",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-conquest-of-malaria-in-italy",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-constant-evolution-of-the-humble-tomato",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-cost-of-human-thinking-ability",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-development-of-humour-in-children",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "3bbb9335796455821183bdee32973a0f24f11fe9dd4d708b0e60edb939c678ee"
+    },
+    {
+      "id": "p2-the-development-of-television-and-its-introduction-in-britain",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "0d60a51872da47bba4f181812eebbf5bc166ef5444da22b328a13d6e71c0547e"
+    },
+    {
+      "id": "p2-the-discovery-of-a-baby-mammoth",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-discovery-of-gobekli-tepe",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-economic-effect-of-climate",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-el-nino-effect",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-fascinating-world-of-attine-ants",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-fashion-industry",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-function-of-dreams",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-future-of-fabrics-and-fibres",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-future-of-food-packaging",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-gender-gap-in-new-zealands-high-school-examination-results",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-greener-side-of-biotechnology",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-history-of-men-s-leisurewear",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-history-of-tapestry-in-europe",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-history-of-the-celtic-language",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-impact-of-sports-tourism-on-urban-areas",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-importance-of-being-playful",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-importance-of-diet",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "ed09f58cd20723a6bd8ace063f9a8ec5fc38643ed1090120e7dbd439ce6a5b3e"
+    },
+    {
+      "id": "p2-the-importance-of-the-human-urge-to-move",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "09fa3173358ceb46231ff75be410c7e9729c42bed0daf7da83a8934f1dc3b5bf"
+    },
+    {
+      "id": "p2-the-internal-body-clock",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "3e009387fc17089a4b0d5d8510279af7d6e0d37a133daa6dcd3e8badb948986c"
+    },
+    {
+      "id": "p2-the-international-meteorite-market",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-last-of-the-rock-forests",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-legacy-of-stanislavsky",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "33629e44cd55cf1529cbe0d70a8dfbe4c08bc0f2271c07176fff187dccab67e1"
+    },
+    {
+      "id": "p2-the-link-between-culture-and-thought",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-little-ice-age",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-longest-conservation-fence-in-the-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-lost-city",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-many-benefits-of-mangroves",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "208dc6dfab9084b45b91a9d72f5e2b50bf46a13ff1ee8bf16e02e9d41e1aeb3e"
+    },
+    {
+      "id": "p2-the-mbuti-of-the-ituri-forest-in-zaire",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-myth-of-the-eight-hour-sleep",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-nature-and-characteristics-of-memory",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-nature-of-yawning",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-older-the-wiser",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-origin-and-development-of-applause",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-origins-of-scottish-brochs",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-placebo-effect",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-plan-to-bring-an-asteroid-to-earth",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-power-of-music-matching-headings",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-power-of-music",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-power-of-smell",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-problem-of-graffiti",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-problem-of-waste-in-the-21st-century",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-problem-with-aiming-for-average",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-purpose-of-facial-expressions",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "dcd02aee3672d0c142f219c3c2aa20b3c5d3a38847535c694f04e7d0742469e7"
+    },
+    {
+      "id": "p2-the-rebirth-of-the-circus",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-restoration-of-baja-californias-fishing-communities",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-return-of-monkey-life",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-return-of-the-black-footed-ferret",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-rights-and-wrongs-of-science",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-rise-in-importance-of-the-domestic-chicken",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 2,
+      "sourceSha256": "bf6b4dc716e9fd664cfb87d38a11867998062b95350fe5c4a60bae7857ae24a8"
+    },
+    {
+      "id": "p2-the-role-of-error-in-the-learning-process",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-role-of-mothers-in-the-origins-of-music",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-story-of-the-ocean",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-study-of-film",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-tasmanian-tiger",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-the-use-of-dietary-supplements",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-the-workplace-is-changing",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-treasures-of-the-deep",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-treetop-research",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-two-of-a-kind-scientific-research-into-twins",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-understanding-climate-change",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "f822ab9933964dafc97fc4cc3156663ca1de3036d429706291d0cabd3dcccfb5"
+    },
+    {
+      "id": "p2-undoing-our-emotions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-urban-regeneration-an-award-winning-redevelopment-project-in-berlin",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "758283b7108752d2ca782114bd9ed190faf9b6812c378cfe7ce4e500b91924ca"
+    },
+    {
+      "id": "p2-using-the-mind-for-extreme-performance",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-viking-ireland",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-walking-and-shoes-in-eighteenth-century-london",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-war-of-the-plants",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "4e338441f2d3cad97cd99f0e836fe4a671ef6d0a4894c958d125ddecad196647"
+    },
+    {
+      "id": "p2-weighty-matters",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-what-does-performance-involve",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-what-kind-of-structure-will-make-living-in-space-comfortable-for-us",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "a2300a8de28246a8748bca59ac6044f539e97ea0e224c1f6c5b4caa512a48912"
+    },
+    {
+      "id": "p2-when-our-immune-system-works-against-us",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-who-wrote-shakespeare-s-plays",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-why-do-singers-lose-their-voices",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p2-why-do-we-find-circles-so-beautiful",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-why-do-we-use-language",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "0f3b7bd7d5fa652dae1788c182c5ad1f8b867cac78b99c87bccf4408824dea5e"
+    },
+    {
+      "id": "p2-why-don-t-we-sleep",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-why-was-he-so-smart",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-why-we-cant-trust-maps",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-why-we-love-music",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p2-will-eating-less-make-you-live-longer",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "ad3e41c3dfff825f2c0f457f8d7bd5a4c78ad7ac77f67602eddb3c8652db8cd0"
+    },
+    {
+      "id": "p3-200-years-of-australian-landscapes-at-the-royal-academy-in-london",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-digital-cinema-of-the-mind",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-history-of-pirates",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-most-unusual-theatre",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-new-stage-in-the-study-and-teaching-of-history",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-new-voyage-round-the-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "5e679ae93a36dea801b5867019878a9c778257949186f4487f7741017a71e876"
+    },
+    {
+      "id": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-all-in-the-family",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-an-introduction-to-a-new-collection-of-ted-hughes-s-poems",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-ancient-rome-archaeologists-are-trying-to-understand-more-about-the-early-history-of-the-city",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-animals-predicting-earthquakes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-anthropology",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "b44497eb58f25c8969ec8d09ff42588eb7a7d624f2fd73a27e65efc5a5a289de"
+    },
+    {
+      "id": "p3-architecture-in-britain",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-art-based-training-for-engineers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-asian-space-return-of-an-asian-invention",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "fd6a5dac829d745ea1f6578320b9a3db8e0761136f3e0998a95049f98b4cb857"
+    },
+    {
+      "id": "p3-australias-megafauna-controversy",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "95ae798e85acc4da4994f1862315d36d4a3f6258346540706dc682f47f34d19a"
+    },
+    {
+      "id": "p3-back-to-the-future-of-skyscraper-design",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "8794e07895eb95a55c8b9adb80889fe43308015d8d6ddc02ae768d60fa0f79a9"
+    },
+    {
+      "id": "p3-beauty",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-being-unique",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e613be56c3bd5696e39c6c2e6c9dcdf636745862bfd5e4401739bee795f8dec6"
+    },
+    {
+      "id": "p3-blind-to-change",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "8acac001944ec487e9af2a7e707c130ed9de0fc811cdecb545de60459d74c5b9"
+    },
+    {
+      "id": "p3-book-review-architecture-in-the-united-states",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-book-review-the-discovery-of-slowness",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-brain-makeover",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-bright-sparks",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-british-woodlands",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "5be850f8400c395a495aedd700ad18d0b7f58b69189e35d56cb444b4eb4ad4f9"
+    },
+    {
+      "id": "p3-brutalist-architecture",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "16b896baef2c9532beec3744ac6d3fee6c1987b950f7d2db3763ea1830fe84e7"
+    },
+    {
+      "id": "p3-business-innovation",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-can-business-learn-from-computer-games",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-can-hurricanes-be-moderated-or-diverted",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-case-study-cargill-dow-llc",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-changes-to-the-soviet-union-s-working-week",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-children-and-symbols",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-children-s-literature-studies-today",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-childs-play-in-medieval-england",
+      "status": "restored",
+      "paragraphCoverage": 0.8098,
+      "unmatchedParagraphs": [
+        3
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "13826d0d1a690afc7f4fd6d26cdbe390d562e3a67c38bdb6f02cf645d852bbd4"
+    },
+    {
+      "id": "p3-communication-styles-in-the-workplace",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-conformity",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-creating-a-better-grapefruit",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-crossing-the-threshold",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-decisions-decisions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-design-in-the-modern-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-disappearing-languages",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-does-class-size-matter",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "606ca6097c6e2e6b2bbcf5138660ba2d6d4de158caf1a1dba9a696099697747e"
+    },
+    {
+      "id": "p3-expansion-of-the-worlds-deserts",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-facial-expressions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-filming-the-natural-world-with-time-warp-photography",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "cb67de93c5be447ba9d287dd93812a588cf5843d82f92bc73046a33e261ed98e"
+    },
+    {
+      "id": "p3-flower-power",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-fruits-of-the-forest",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-game-theory",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "bc3cebafdccef3d078c79652921effa773ff01c617325445158bb15e0192eac5"
+    },
+    {
+      "id": "p3-global-warming-in-new-zealand",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-graffiti-in-new-york-city",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "5302953fbd92d3b6576aa72d2c005764b7693147eba0b0ca7463ce89f7e89e8b"
+    },
+    {
+      "id": "p3-grimm-s-fairy-tales",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 10,
+      "sourceSha256": "e23821e278978e6980e0b5990eebfe65b48a9249faeb1f8a82b5425980f0eeb2"
+    },
+    {
+      "id": "p3-group-behaviour",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "85f5cb29c8c5e88f43ebbf972852df5bc75a9b815b64da1d76ce515a38dd7a4f"
+    },
+    {
+      "id": "p3-honeybees-in-trouble-can-native-pollinators-fill-the-gap",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-how-a-prehistoric-predator-took-to-the-skies",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-how-can-we-make-good-decisions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-how-did-music-begin",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 3,
+      "sourceSha256": "6b2d7164d0322ac5bde1c4598cce69d6e858365260ef2f5b7f9987e1e67bb3f4"
+    },
+    {
+      "id": "p3-how-have-humans-changed",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-how-scientists-see-science",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-how-should-reading-be-taught",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "7a3b52c99e13669e2e40e59de8b36b0fc673cb9b5daa1c8602133f1085b48790"
+    },
+    {
+      "id": "p3-how-to-clean-a-beach",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-how-to-win-the-world-memory-championship",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-humanities-and-the-health-professional",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-images-and-places",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-improving-nutrition-at-a-national-and-international-level",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-improving-patient-safety",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-insect-inspired-robots",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-inside-the-mind-of-a-fan",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-intelligence",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-is-teleworking-sustainable",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "13287a0db43c913eb4bb5f3c7e47c2b9e0459a1387593e57314f53361d606f1b"
+    },
+    {
+      "id": "p3-is-there-such-a-thing-as-too-much-information",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-jean-piaget-1896-1980",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-lawrence-johnston-and-hidcote-garden",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "c7b59339e632633e3a19c4476abaaf88151ba838daef946439ea97426bf9366e"
+    },
+    {
+      "id": "p3-learning-to-be-bilingual",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-leatherback-turtles",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-leo-burnett-18911971",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "f14bb3f7e6dfb2fcad65649e45d4bdcee5231843956c3c3ce067e2acbd271df2"
+    },
+    {
+      "id": "p3-let-s-teach-them-how-to-teach",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-lets-all-be-friends",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-life-on-mars",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-linguistic-diversity",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-literacy-and-rural-communities-in-australia",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-living-dunes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-living-outside-the-box",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-look-who-was-talking",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 2,
+      "sourceSha256": "9a766505694a21124f6e066595bb56119c89923fd362a0426354c4713539d860"
+    },
+    {
+      "id": "p3-looking-at-daily-life-in-ancient-rome",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-looking-for-inspiration",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-making-your-mind-up",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-manage-your-energy-not-your-time",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "39ec375f2e2143294396d6ef8983ea3e2e2aa1cf0bafa5acc28808e235a80876"
+    },
+    {
+      "id": "p3-managing-the-language-barrier-in-international-business",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-mapping-the-mind",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-marine-diversity",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-marine-mammals-exhibit-their-ingenuity",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-mark-strizic-the-career-of-an-australian-photographer",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-mark-sumner-of-the-university-of-leeds-explains-the-challenges-facing-the-fashion-industry",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-marketing-and-mind-control",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-marketing-and-the-information-age",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-marketing-environmentally-friendly-products",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-memory-champions-or-just-good-at-tricks",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "745d9f4d6dd8a6aea3c92521cac483a1e496c6f97c54c05d3088ebdba0ac61b2"
+    },
+    {
+      "id": "p3-mercator-the-map-maker",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-message-in-a-coral",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "b8f88841d416b8386eba6d18c461f4b8bdceac9a5a54474016c7db490a00faa1"
+    },
+    {
+      "id": "p3-mobile-technology-and-language",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-motivating-employees",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "901778b9ae37b0eed7a0a62e3f16c7d2c87f55afa5eded245e5787ec2574283f"
+    },
+    {
+      "id": "p3-movement-underwater",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-multi-purpose-meeting-spaces",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "298f69345478e555e99cb38307cb22b1e97dbd946f13aaa474a1b6aadcffc98d"
+    },
+    {
+      "id": "p3-multitasking",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-music-soothes-and-awes-and-may-help-us-heal",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "a424ca18adb400650fac97fbf49aaca41ab0ae05318f51ae24c5dbf704e3f847"
+    },
+    {
+      "id": "p3-new-insights-into-keeping-our-brains-agile-with-age",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-new-zealand-short-stories",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-no-title-about-sea",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-no-title-charles-darwin",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-on-art-and-artists",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "ece8fac54bad3dc79649c8a6ee000e188924befaf09a095a62f34781dc233cdc"
+    },
+    {
+      "id": "p3-online-social-networking-sites",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-optimism-a-very-human-characteristic",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-patterns-of-nature",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-personality-and-appearance",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "27fed69202163686d58074cbc4acc6be174afc0582193d433d3b605a19e53b4b"
+    },
+    {
+      "id": "p3-petrol-power-an-eco-revolution",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-planets-without-suns",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-power-from-the-sea",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-practical-learning-in-the-classroom",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-psychological-responses-to-mirror-images",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-putting-the-parts-together-muskets-and-mass-production",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-rating-female-leaders",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 2,
+      "sourceSha256": "dd2760abaec9a4abf6feb8d6fe4bcaf6f5f7dfaf5ad28df3d22f6792c5a1e9c0"
+    },
+    {
+      "id": "p3-reading-greek",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-rebranding-art-museums",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-recording-history",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "49fde1aa0861c336353595a2d558d85d946f3ed547ac04cbd7c68270436c215d"
+    },
+    {
+      "id": "p3-reducing-exposure-to-indoor-air-pollution-in-developing-countries",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-refraction",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-relish-the-flavour",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-research-into-the-effects-of-different-teaching-styles",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-rights-for-apes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-risk-taking",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "10626f3c0b7a8a10292b5ee0b1d2a8a06b2dcb20ef1fdaf9b6337ead66226f05"
+    },
+    {
+      "id": "p3-robert-louis-stevenson",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-roll-cameras",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-san-francisco-museum-of-modern-art",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-saving-languages",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-saving-the-skink",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 3,
+      "sourceSha256": "84361a9055ee6a6163c194469588f73e4e05711cdeb25441c68cf45e09ee2191"
+    },
+    {
+      "id": "p3-science-and-filmmaking",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-science-and-knowledge",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "ce2e9abd64ee207757db5180773d5ee486c1df060cb9ade7c98d05ff3a72f040"
+    },
+    {
+      "id": "p3-science-in-the-kitchen",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "b074e12bc783e90bd5e9627e92da0a6c633053bb83d181fadb7831ad79d78d64"
+    },
+    {
+      "id": "p3-sea-change-for-salinity",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-seeing-the-colour-of-sounds-hearing-the-colour-of-numbers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-self-perceptions",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-sherlock-holmes",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-sign-baby-sign",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-sir-francis-ronalds-1788-1873",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-songs-of-ourselves",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-speech-acts-and-philosophy",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "723c667027a1be00a1006372c94cb36e1454c23cc96004902602b7fecfd8eb52"
+    },
+    {
+      "id": "p3-star-performers",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-strategies-for-helping-children-to-learn",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-studying-the-history-of-medieval-britain",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-sydney-opera-house",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 1,
+      "sourceSha256": "0df8d4d16ac49e60cc71c6b5cf8026010f195d14afb65bf3e8e11e012b7123d7"
+    },
+    {
+      "id": "p3-take-back-your-time",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-tasmania-s-museum-of-old-and-new-art",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-temperament",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-termite-mounds",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-ability-to-communicate-using-language",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-accidental-scientist",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "a4db46c79cfffd4a6051352a9d209fe366c6ee80a5ded5ea1a598e6629a3a37f"
+    },
+    {
+      "id": "p3-the-analysis-of-fear",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-animal-connection",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-antikythera-mechanism",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-beginnings-of-modern-cognition",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-benefits-of-learning-an-instrument",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-booming-business-of-nation-branding",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-cause-of-linguistic-change",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "ec2c2225d0bf47f0ca4cbaccd4878cda70a213843ea75c15e6dd624f6a36c35c"
+    },
+    {
+      "id": "p3-the-contentious-role-of-public-art",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-contradiction-of-tourism",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e4f34faba56e92596b7fcac371997b55d053795c09c8b65cce7d220edd56efdf"
+    },
+    {
+      "id": "p3-the-controversy-about-the-origins-of-money-did-it-really-originate-from-bartering",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-cost-of-brand-loyalty",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-dark-side-of-the-technological-boom",
+      "status": "restored",
+      "paragraphCoverage": 0.8895,
+      "unmatchedParagraphs": [
+        7
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "16d95647f8917174064728fb85bba64c469db7632e20a9bf3823ffa159b3665c"
+    },
+    {
+      "id": "p3-the-digital-revolution-in-studying-history",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "43488e518b43266501afd23dd573cfe7d2969c02203c2a69c25a51df35ad2a54"
+    },
+    {
+      "id": "p3-the-dunedin-study",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-the-effectiveness-of-an-online-course",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-fluoridation-controversy",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "e77c0f356c3d374b1ee2e171c01b34ef2716bed8279846d5416051f1f84c0d68"
+    },
+    {
+      "id": "p3-the-fortunes-of-human-societies",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-future-of-the-world-s-languages",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "0bd99e713b3cd06b168429063037736126ac7d096ad016cec0c5d8f9b88110cc"
+    },
+    {
+      "id": "p3-the-future-of-work",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-geography-of-taste-buds",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "c1bef51bb36076f585b1ff8f470e6b8295a4a5d9c6fb5142a3ad01b252b546f3"
+    },
+    {
+      "id": "p3-the-hazards-of-multitasking",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-intuitive-geologists",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-irish-elk",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-long-road-to-artificial-intelligence",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-long-view",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-lost-animals-of-australia",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-mystery-of-easter-island",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "74faee7840939af79f83cdf56f352ac4ee0c36e4ff01ce1f39c3f8b190a4e048"
+    },
+    {
+      "id": "p3-the-new-zealand-writer-margaret-mahy",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 9,
+      "sourceSha256": "5d40ccf4039dea2dcac139214e26e5fcb2210fb0edab1c6e3a9f1373d36fdf18"
+    },
+    {
+      "id": "p3-the-origin-of-language",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-ornithopter-a-new-way-to-fly",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-the-peopling-of-patagonia",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.8621,
+      "unmatchedParagraphs": [
+        2
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "fded63ece71cff16e44080d7df852a6f994cc50c98db2e801d9074bc936a33cc"
+    },
+    {
+      "id": "p3-the-piraha-people-of-brazil",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-process-of-invention",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-psychology-of-new-product-adoption",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-rise-of-big-data",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-robbers-cave-study",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-the-role-of-accidents-in-business",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.912,
+      "unmatchedParagraphs": [
+        7
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "d83c650f699c9bb0b3fb193fa516085d1ccb97eaf2b0be80c0d731db6da8a2e5"
+    },
+    {
+      "id": "p3-the-science-of-sleep",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-search-for-extra-terrestrial-life",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "590ecdf7e28e8be99e7bb715a17a6f35264b41d20035b287c004f99001a41bf5"
+    },
+    {
+      "id": "p3-the-secret-sounds-of-elephants",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-sound-recording-industry-in-the-usa-before-1950",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-strange-world-of-sight",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-study-of-dreams",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-survival-of-the-luxury-swiss-watchmaking-business",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-tuatara-past-and-future",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-value-of-literary-prizes",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "4716106c566bd0c59b9e59a42f76c31c0f3b8fbe61482cfb186a10ccb5bbcd62"
+    },
+    {
+      "id": "p3-the-value-of-self-esteem",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-voynich-manuscript-alt",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-voynich-manuscript",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-watercraft-of-the-world",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-the-wooden-huts-of-antarctica",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-theory-or-practice",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-there-s-no-place-like-home",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-thinking-small-globalization-and-the-choice-of-technology",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-toscanini-s-pursuit-of-perfection",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-traffic-congestion-possible-solutions-to-an-increasing-problem",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-translating-a-key-to-international-understanding",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 1,
+      "sourceSha256": "896f21bb831ba95fdae6aa43710c34d6af71ad47182da7c3d983d3f19a477903"
+    },
+    {
+      "id": "p3-travel-writing",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-travelling-on-light",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 0,
+      "sourceSha256": "db8783d76f4a766979a2d81a5a865bc19bcf550db51541b51264b23d9c35b56d"
+    },
+    {
+      "id": "p3-travelling-plants",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 0.9244,
+      "unmatchedParagraphs": [
+        8
+      ],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "9658593a1d5b8c861eb730789ebe9eb957004865ab02701c7a0f5e9b664e03fd"
+    },
+    {
+      "id": "p3-understanding-symbols",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "0e404015646cf57ed5e7608c3d3af843cc02f686623a2453210167161d96fbea"
+    },
+    {
+      "id": "p3-whale-culture",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-what-count-as-knowledge",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-what-do-babies-know",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-what-happened-to-other-human-species",
+      "status": "restored",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "native-pdf",
+      "italicRangeCount": 15,
+      "sourceSha256": "e4a91ce4baff8353a68d3e42ff6770b710b1e9ef8820844baefb9523dd6dcd69"
+    },
+    {
+      "id": "p3-what-is-art-tolstoy-s-criteria",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-what-is-social-history",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "f5ed3dd9415bb72f8dc18cb07246e07b6f2b017ca0d0769a05a55223aa80c7e3"
+    },
+    {
+      "id": "p3-what-makes-a-musical-expert",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-what-makes-organisations-successful",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-what-makes-us-human",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "160902e6e1fa61a9ffc760404007506fac46642ca49da0f77921f3d51c356ef5"
+    },
+    {
+      "id": "p3-what-makes-you-happy",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-when-people-are-deaf-to-music",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-who-looks-after-the-children-in-todays-britain",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-why-don-t-adverts-work-any-more",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-why-good-food-tastes-good",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-why-societies-collapse",
+      "status": "source-not-cached"
+    },
+    {
+      "id": "p3-yawning",
+      "status": "needs-image-review"
+    },
+    {
+      "id": "p3-youth-homelessness",
+      "status": "checked-no-inline-italics",
+      "paragraphCoverage": 1.0,
+      "unmatchedParagraphs": [],
+      "sourceKind": "approved-word",
+      "italicRangeCount": 0,
+      "sourceSha256": "980b24c6e80dd92f0757352ef771d90d2c5028436471f9f017ff0b2f015bde94"
+    }
+  ]
+}

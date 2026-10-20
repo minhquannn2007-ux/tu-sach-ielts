@@ -11,7 +11,14 @@
     },
     {
       "label": "B",
-      "text": "Forty years ago, the French historian Philippe Ariès argued, in Centuries of Childhood, that childhood in the Middle Ages did not exist in its modern sense. Children were regarded by adults with relatively little affection and followed a way of life not very different from that of their elders. More recent historians have disputed this, pointing to plentiful signs of parental affection and arguing that childhood, by its very nature, must always have been much the same."
+      "text": "Forty years ago, the French historian Philippe Ariès argued, in Centuries of Childhood, that childhood in the Middle Ages did not exist in its modern sense. Children were regarded by adults with relatively little affection and followed a way of life not very different from that of their elders. More recent historians have disputed this, pointing to plentiful signs of parental affection and arguing that childhood, by its very nature, must always have been much the same.",
+      "italicRanges": [
+        {
+          "start": 64,
+          "end": 86,
+          "quote": "Centuries of Childhood"
+        }
+      ]
     },
     {
       "label": "C",

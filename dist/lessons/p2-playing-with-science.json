@@ -24,7 +24,19 @@
     },
     {
       "label": "D",
-      "text": "Whereas society often keeps a lid on playfulness, science encourages and nurtures it. Take, for example, the funny names that scientists have given to various chemical substances: twistane, windowpane, penguinoe or megaphone. Each class of organic molecules includes a few such humorous names. Similar fun is had in other fields of science."
+      "text": "Whereas society often keeps a lid on playfulness, science encourages and nurtures it. Take, for example, the funny names that scientists have given to various chemical substances: twistane, windowpane, penguinoe or megaphone. Each class of organic molecules includes a few such humorous names. Similar fun is had in other fields of science.",
+      "italicRanges": [
+        {
+          "start": 180,
+          "end": 211,
+          "quote": "twistane, windowpane, penguinoe"
+        },
+        {
+          "start": 215,
+          "end": 224,
+          "quote": "megaphone"
+        }
+      ]
     },
     {
       "label": "E",
@@ -40,6 +52,13 @@
       "blocks": [
         "Sometimes hoaxes serve a useful purpose. Some years ago, Nathan Lewis, a professor of chemistry at California Institute of Technology, and a graduate student were doing experiments in the laboratory of a senior professor, Harry Gray. Another co-worker had the habit of going through their data and rushing to Gray with his interpretation. Lewis decided to set a trap for the co-worker. He recalls:",
         "I manufactured an NMR spectrum … We left it out as bait. [Our colleague] took it and wrote up a paper on how important this result was. He was ready to go right to [the Journal of the American Chemical Society] … We didn’t let him mail it … [but] this stopped him temporarily from taking our data and interpreting it before making sure that it was right."
+      ],
+      "italicRanges": [
+        {
+          "start": 567,
+          "end": 607,
+          "quote": "Journal of the American Chemical Society"
+        }
       ]
     },
     {

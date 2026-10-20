@@ -14,7 +14,7 @@ def atomic_json(path,data):
  path.parent.mkdir(parents=True,exist_ok=True);temp=path.with_suffix(path.suffix+'.tmp');temp.write_text(json.dumps(data,ensure_ascii=False,indent=2));temp.replace(path)
 def fingerprint(job,cache,native_only=False):
  h=hashlib.sha256(json.dumps({'id':job['id'],'title':job['title'],'part':job['part'],'sources':job['sources'],'flags':job.get('flags',[]),'converter':parser.VERSION,'nativeOnly':native_only},sort_keys=True).encode())
- for code in ['parse-practice.py','source-notes.py','convert-batch.py']:
+ for code in ['parse-practice.py','source-notes.py','source-emphasis.py','convert-batch.py']:
   h.update((ROOT/'scripts'/code).read_bytes())
  h.update((ROOT/'dist/exam-data.js').read_bytes())
  for source in job['sources']:

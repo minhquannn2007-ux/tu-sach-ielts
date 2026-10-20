@@ -11,7 +11,19 @@
     },
     {
       "label": "B",
-      "text": "The chicken’s wild relative is the red junglefowl, Gallus gallus. In its habitat, which stretches from northeastern India to the Philippines, G. gallus browses on the forest floor for insects, seeds, and fruit, and flies up to nest in the trees at night. That is about as much flying as it can achieve, a trait that had obvious appeal to humans seeking to capture and raise it. This trait would lead to the later popularity of chickens in Africa, where the native guinea fowls have an annoying habit of flying away from farms into the forest."
+      "text": "The chicken’s wild relative is the red junglefowl, Gallus gallus. In its habitat, which stretches from northeastern India to the Philippines, G. gallus browses on the forest floor for insects, seeds, and fruit, and flies up to nest in the trees at night. That is about as much flying as it can achieve, a trait that had obvious appeal to humans seeking to capture and raise it. This trait would lead to the later popularity of chickens in Africa, where the native guinea fowls have an annoying habit of flying away from farms into the forest.",
+      "italicRanges": [
+        {
+          "start": 51,
+          "end": 64,
+          "quote": "Gallus gallus"
+        },
+        {
+          "start": 142,
+          "end": 151,
+          "quote": "G. gallus"
+        }
+      ]
     },
     {
       "label": "C",

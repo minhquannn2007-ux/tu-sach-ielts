@@ -46,6 +46,8 @@ for x in selection:
    elif paras and paras[-1].get('label'):
     p=paras[-1];p.setdefault('blocks',[p['text']]).append(t);p['text']=' '.join(p['blocks'])
    else:paras.append({'text':t})
+  emphasis_spec=importlib.util.spec_from_file_location('source_emphasis',root/'scripts/source-emphasis.py');emphasis=importlib.util.module_from_spec(emphasis_spec);emphasis_spec.loader.exec_module(emphasis)
+  emphasis.apply(paras,*emphasis.word_source(doc))
   # Heading tasks can appear before the reading; reading must never contaminate the last heading prompt.
   qrec=rec[:at]+rec[end:];text='\n'.join(r['text']for r in qrec)
   text=re.sub(r'(Questions?\s+\d+\s*(?:[-–—]|and|&)\s*\d+)\s*(?=[A-Za-z])',r'\1\n',text)
