@@ -1,0 +1,846 @@
+{
+  "p1-a-watchful-eye-on-bridges": {
+    "lessonId": "p1-a-watchful-eye-on-bridges",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Every few months, engineers have to clamber over the structure"
+          }
+        ],
+        "explanation": "Cầu được kiểm tra định kỳ để phát hiện sớm vấn đề."
+      },
+      "2": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "measure the distance between the sensor and the bridge"
+          }
+        ],
+        "explanation": "Thiết bị đo khoảng cách giữa cảm biến và cầu."
+      },
+      "3": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "even inflict damage just before it was demolished"
+          }
+        ],
+        "explanation": "Các nhà nghiên cứu chủ động gây hư hại trước khi cầu bị tháo dỡ."
+      },
+      "4": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "did not indicate that anything was wrong until the flange was damaged"
+          }
+        ],
+        "explanation": "Phân tích cơ bản chỉ phát hiện khi flange đã bị hư."
+      },
+      "5": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "setting up the microwave dish on the ground below the bridge"
+          }
+        ],
+        "explanation": "Đã kiểm tra hình: mũi tên của ô 5 chỉ vào đĩa thu dưới cầu."
+      },
+      "6": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "two steel girders supporting the load"
+          }
+        ],
+        "explanation": "Đã kiểm tra hình: ô 6 chỉ thân dầm chữ I, tương ứng girder."
+      },
+      "7": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the flange — the bottom of the girder’s ‘I’ shape"
+          }
+        ],
+        "explanation": "Đã kiểm tra hình: ô 7 chỉ đáy loe của dầm chữ I, tức flange."
+      },
+      "8": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "installed conventional accelerometers at several points along the span"
+          }
+        ],
+        "explanation": "Đã kiểm tra hình: ô 8 chỉ cảm biến nhỏ đặt trên mặt cầu, tức accelerometer."
+      },
+      "9": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a ‘shaker’, which delivered precise punches"
+          }
+        ],
+        "explanation": "Đoạn D mô tả tạo lực bằng shaker."
+      },
+      "10": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "They first cut a slot about 60 centimetres long"
+          }
+        ],
+        "explanation": "Đoạn E mô tả cắt dầm để gây hư hại."
+      },
+      "11": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a rare opportunity to test their ideas"
+          }
+        ],
+        "explanation": "Đoạn C nói về cơ hội nghiên cứu hiếm có."
+      },
+      "12": {
+        "accepted": [
+          "I"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "In a decade I would like to see"
+          }
+        ],
+        "explanation": "Đoạn I dự đoán tình hình sau một thập kỷ."
+      },
+      "13": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "The device uses microwaves to measure the distance"
+          }
+        ],
+        "explanation": "Đoạn B giải thích nguyên lý cảm biến vi sóng."
+      }
+    },
+    "lessonSha256": "3a80f0f71bf000855b3ef7ad519fc27f63cd3f0fa92ccf30d54ab7378c294b2a",
+    "assetHashes": {
+      "assets/diagram-p1-a-watchful-eye-on-bridges-source-v2.png": "5e871ca0566f7efe4c3cf29a5950c3613b53c39841e5a2262bf5b27e85e843de"
+    }
+  },
+  "p3-living-outside-the-box": {
+    "lessonId": "p3-living-outside-the-box",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "does living abroad actually make people in general more creative?"
+          }
+        ],
+        "explanation": "Nghiên cứu xem lợi ích sáng tạo có áp dụng cho người nói chung, ngoài nghệ sĩ."
+      },
+      "28": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "see objects as performing different functions from what is typical"
+          }
+        ],
+        "explanation": "Giải bài nến cần dùng vật theo chức năng khác thông thường."
+      },
+      "29": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a deal based solely on sale price was impossible"
+          }
+        ],
+        "explanation": "Phải xét lợi ích ngoài giá để thỏa thuận."
+      },
+      "30": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "makes study abroad programs and job assignments in other countries that much more important"
+          }
+        ],
+        "explanation": "Trải nghiệm nước ngoài trở nên quan trọng đối với doanh nghiệp cần sáng tạo."
+      },
+      "31": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "It's a longstanding question"
+          }
+        ],
+        "explanation": "Không xác nhận đây là nghiên cứu đầu tiên; câu hỏi lâu đời không chứng minh thứ tự nghiên cứu."
+      },
+      "32": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "has long been a classic prescription for writers and painters"
+          }
+        ],
+        "explanation": "Truyền thống khuyên nghệ sĩ sống nước ngoài không đồng nghĩa đã có nhiều nghiên cứu."
+      },
+      "33": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "time spent on vacations abroad did not matter"
+          }
+        ],
+        "explanation": "Đi nghỉ nước ngoài không tạo mối liên hệ được tìm thấy."
+      },
+      "34": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "solved word games more creatively than students primed to recall other experiences"
+          }
+        ],
+        "explanation": "Cách gợi nhớ ảnh hưởng kết quả trò chơi từ."
+      },
+      "35": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "some sort of psychological transformation"
+          }
+        ],
+        "explanation": "Sống nước ngoài đòi hỏi thay đổi tư duy để thích nghi."
+      },
+      "36": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a measure of creative insight"
+          }
+        ],
+        "explanation": "Bài nến đo khả năng tư duy sáng tạo."
+      },
+      "37": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a mock negotiation test involving the sale of a gas station"
+          }
+        ],
+        "explanation": "Người tham gia đóng vai thương lượng với mục tiêu riêng."
+      },
+      "38": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "To help get at this question of what causes someone to be creative"
+          }
+        ],
+        "explanation": "Priming nhằm tìm liên hệ giữa sáng tạo và những trải nghiệm khác nhau."
+      },
+      "39": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "recall and write about a time"
+          }
+        ],
+        "explanation": "Sinh viên phải viết về sự kiện đã trải qua."
+      },
+      "40": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "caused students, at least temporarily, to be more creative"
+          }
+        ],
+        "explanation": "Nhớ trải nghiệm ở nước ngoài có thể tăng sáng tạo tạm thời."
+      }
+    },
+    "lessonSha256": "5fcd20c5bb88e2cd99f52799c322977691eed2e5cdea83a89e8551a39f16f4ec",
+    "assetHashes": {}
+  },
+  "p1-weaver-ants-a-remarkable-species": {
+    "lessonId": "p1-weaver-ants-a-remarkable-species",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "chain"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a living chain grows into thin air"
+          }
+        ],
+        "explanation": "Kiến nối thành chuỗi để vượt khoảng cách."
+      },
+      "2": {
+        "accepted": [
+          "jaws"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "legs holding on to one edge, jaws gripping the other"
+          }
+        ],
+        "explanation": "Chân giữ lá này và hàm giữ lá kia."
+      },
+      "3": {
+        "accepted": [
+          "thread"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "This silk acts like a thread"
+          }
+        ],
+        "explanation": "Tơ đóng vai trò sợi chỉ."
+      },
+      "4": {
+        "accepted": [
+          "pathways"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "connected by busy pathways"
+          }
+        ],
+        "explanation": "Các phần thuộc địa được nối bằng đường đi."
+      },
+      "5": {
+        "accepted": [
+          "chemicals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "release chemicals into the air to broadcast warnings quickly and widely"
+          }
+        ],
+        "explanation": "Hóa chất trong không khí truyền cảnh báo xa và rộng."
+      },
+      "6": {
+        "accepted": [
+          "nurseries"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "transport a portion of them to nurseries"
+          }
+        ],
+        "explanation": "Một phần ấu trùng được chuyển tới khu nuôi."
+      },
+      "7": {
+        "accepted": [
+          "wings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "They grow wings and fly off to mate"
+          }
+        ],
+        "explanation": "Kiến sinh sản mọc cánh trước khi bay đi giao phối."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "many tiny creatures may no longer exist at all"
+          }
+        ],
+        "explanation": "Kiến săn hiệu quả đến mức các côn trùng khác gần như biến mất."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "ecologists have been promoting them in Africa"
+          }
+        ],
+        "explanation": "Có nói khuyến khích dùng ở châu Phi nhưng không khảo sát mức hài lòng của nhiều nông dân."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "look after a type of sucking bug"
+          }
+        ],
+        "explanation": "Kiến chăm rệp để thu chất honeydew."
+      },
+      "11": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "shared with nest mates"
+          }
+        ],
+        "explanation": "Honeydew chia cho các thành viên tổ, không dành riêng kiến chúa."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Weaver ants weigh so little"
+          }
+        ],
+        "explanation": "Trọng lượng nhỏ không phải so sánh với loài kiến khác."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Normally incapable of flight"
+          }
+        ],
+        "explanation": "Chúng thường nối chuỗi để vượt khe, không bay thành nhóm."
+      }
+    },
+    "lessonSha256": "582085d517a6a3b3eadc0699895498ba2338457ea21138f1cd6ac5b209a0ee90",
+    "assetHashes": {}
+  },
+  "p1-report-on-a-university-drama-project": {
+    "lessonId": "p1-report-on-a-university-drama-project",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "process"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "concentrate on the process by which the work emerged"
+          }
+        ],
+        "explanation": "Dự án tập trung quy trình tạo vở diễn."
+      },
+      "2": {
+        "accepted": [
+          "discussion"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "in the form of a discussion"
+          }
+        ],
+        "explanation": "Vòng hai là thảo luận nhóm."
+      },
+      "3": {
+        "accepted": [
+          "freewriting"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "One of the strongest tools we used for this was 'freewriting'"
+          }
+        ],
+        "explanation": "Freewriting được dùng hiệu quả trong tập luyện ban đầu."
+      },
+      "4": {
+        "accepted": [
+          "script"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "during the next phase of rehearsals that we finally began to work with the script"
+          }
+        ],
+        "explanation": "Kịch bản chỉ được đưa vào ở giai đoạn sau."
+      },
+      "5": {
+        "accepted": [
+          "vote"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "decided on the pairings of the actors by a vote"
+          }
+        ],
+        "explanation": "Mọi người bỏ phiếu ghép cặp diễn viên."
+      },
+      "6": {
+        "accepted": [
+          "interpretations"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a range of very different interpretations emerged"
+          }
+        ],
+        "explanation": "Điều gây ngạc nhiên là nhiều cách diễn giải khác nhau."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a collaborative approach that was new to all of us"
+          }
+        ],
+        "explanation": "Lối hợp tác này mới với tất cả, kể cả người viết."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "each pair would have a turn to perform on one of the three nights"
+          }
+        ],
+        "explanation": "Mỗi cặp diễn một trong ba đêm, không phải cả ba."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Our initial rehearsals"
+          }
+        ],
+        "explanation": "Không nêu nơi diễn tập ban đầu."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The casting of the roles worked well and felt more natural than it had in any other show I've worked on"
+          }
+        ],
+        "explanation": "Người viết hài lòng với ghép cặp và phân vai."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "everyone was able to help with set design"
+          }
+        ],
+        "explanation": "Có đóng góp thiết kế nhưng không nói phát hiện tài năng bất ngờ."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "each pair would use the same stage set"
+          }
+        ],
+        "explanation": "Ban đầu dự định dùng cùng cảnh trí."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "made everyone in the team think about what we'd been doing, what we'd wanted to achieve"
+          }
+        ],
+        "explanation": "Hỏi đáp khiến nhóm suy ngẫm mục tiêu và kết quả."
+      }
+    },
+    "lessonSha256": "0abba28ae012c82adbfafa9d42bc0f397eb748523069b2a35c0b30bb6a7c3aba",
+    "assetHashes": {}
+  },
+  "p2-walking-and-shoes-in-eighteenth-century-london": {
+    "lessonId": "p2-walking-and-shoes-in-eighteenth-century-london",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The first legislation concerning paving in London was passed in 1762"
+          }
+        ],
+        "explanation": "Đoạn C nói thay đổi pháp luật về lát đường."
+      },
+      "15": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "of more importance than has previously been acknowledged in costume history"
+          }
+        ],
+        "explanation": "Đoạn F nói lịch sử trang phục chưa đánh giá đúng ý nghĩa giày nam."
+      },
+      "16": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a distinction between male and female footwear filtered into production"
+          }
+        ],
+        "explanation": "Đoạn D nói thiết kế bắt đầu phân biệt giới."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Streets were dirty, rubbish was everywhere"
+          }
+        ],
+        "explanation": "Đoạn A mô tả rủi ro đường phố bẩn, ngập, bùn."
+      },
+      "18": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "provided resistance to rain, mud and bad weather"
+          }
+        ],
+        "explanation": "Đoạn E nêu độ bền giày da nam."
+      },
+      "19": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "journeys by a series of boats and coaches"
+          }
+        ],
+        "explanation": "Đoạn B nêu thuyền và xe ngựa của khách tham quan."
+      },
+      "20": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "outside private parks or pleasure gardens"
+          }
+        ],
+        "explanation": "Đoạn A nêu nơi đi dạo bị giới hạn ở công viên/vườn riêng."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "harmonised with their other garments"
+          }
+        ],
+        "explanation": "Giày phụ nữ giàu được làm đồng bộ trang phục qua vải, màu, thêu, khóa."
+      },
+      "22": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "emphasised the difference between the wearer and young boys and women"
+          }
+        ],
+        "explanation": "Giày đàn ông giàu phân biệt họ với trẻ trai, phụ nữ và lao động."
+      },
+      "23": {
+        "accepted": [
+          "coach"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "those who could not afford a coach"
+          }
+        ],
+        "explanation": "Người nghèo không đủ tiền đi xe ngựa nên phải đi bộ."
+      },
+      "24": {
+        "accepted": [
+          "countryside"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "than for places in the countryside"
+          }
+        ],
+        "explanation": "Ở nông thôn, hoạt động ngoài trời phổ biến hơn."
+      },
+      "25": {
+        "accepted": [
+          "pedestrians"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "how many more pedestrians there were"
+          }
+        ],
+        "explanation": "Số người đi bộ tăng."
+      },
+      "26": {
+        "accepted": [
+          "pavements"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "on the broad, clean pavements"
+          }
+        ],
+        "explanation": "Họ có thể đi trên vỉa hè rộng, sạch, tách giao thông."
+      }
+    },
+    "lessonSha256": "e60823a5a766e78d61ff2b55abfebad5f0c5f39d99ed3aa8a4c05c80d6a71a55",
+    "assetHashes": {}
+  }
+}

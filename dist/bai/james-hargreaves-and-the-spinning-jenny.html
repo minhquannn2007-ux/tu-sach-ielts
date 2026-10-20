@@ -1181,7 +1181,8 @@ document.getElementById('sel-clear-note-btn').addEventListener('click',()=>{rest
 document.getElementById('note-save-btn').addEventListener('click',saveNote);
 document.getElementById('note-close-btn').addEventListener('click',()=>document.getElementById('note-panel').style.display='none');
 document.addEventListener('mousedown',function(e){if(!e.target.closest('#selection-popup,#context-menu,#note-panel')){document.getElementById('selection-popup').style.display='none';document.getElementById('context-menu').style.display='none';}});
-</script><script>(()=>{const diagram=document.querySelector('.jenny-diagram');function align(){const width=diagram.getBoundingClientRect().width;diagram.style.setProperty('--diagram-unit',(width/1304)+'px');diagram.style.setProperty('--diagram-top-space',Math.max(70,Math.min(120,150-width*.16))+'px')}new ResizeObserver(align).observe(diagram);window.addEventListener('resize',align);align()})();</script><script src="../exam-behavior.js?v=annotation-hover-v1"></script>
+</script><script>(()=>{const diagram=document.querySelector('.jenny-diagram');function align(){const width=diagram.getBoundingClientRect().width;diagram.style.setProperty('--diagram-unit',(width/1304)+'px');diagram.style.setProperty('--diagram-top-space',Math.max(70,Math.min(120,150-width*.16))+'px')}new ResizeObserver(align).observe(diagram);window.addEventListener('resize',align);align()})();</script><script src="../exam-data.js?v=grading-v1"></script>
+<script src="../exam-behavior.js?v=grading-v1"></script>
 <script src="../zoom-layout.js?v=splitter-reference-v1"></script>
 <script src="../question-template.js"></script>
 <script src="../exam-progress.js"></script></body></html>

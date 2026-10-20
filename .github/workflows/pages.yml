@@ -25,6 +25,8 @@ jobs:
         run: node scripts/check-reviewed-data.mjs
       - name: Validate catalog and local assets
         run: node scripts/check-github-pages.mjs
+      - name: Validate reviewed answer keys
+        run: node scripts/check-reviewed-answer-keys.mjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website only

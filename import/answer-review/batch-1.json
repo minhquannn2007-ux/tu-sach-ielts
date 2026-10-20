@@ -1,0 +1,1355 @@
+{
+  "p1-deep-sea-discovery": {
+    "lessonId": "p1-deep-sea-discovery",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "once he reached about 15 metres, he should have been plunged into darkness"
+          }
+        ],
+        "explanation": "Ông dự đoán sẽ tối hoàn toàn ở độ sâu khoảng 15 m."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Even with the red filter removed, Michiels could pick them out"
+          }
+        ],
+        "explanation": "Bỏ kính lọc, ông vẫn nhìn được các vệt đỏ sau khi mắt thích nghi."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "no one saw it because no one expected to see it"
+          }
+        ],
+        "explanation": "Những người khác không mong đợi thấy màu đỏ, trái với phát biểu."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "has found many others since"
+          }
+        ],
+        "explanation": "Bài không xác định địa điểm của tất cả những lần tìm thấy sau đó; không suy ra tất cả đều ở Biển Đỏ."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "He suspected fluorescence."
+          }
+        ],
+        "explanation": "Ông đã nghi ngờ huỳnh quang trước khi về Đức, nơi sau đó xác nhận bằng thiết bị."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "they are still not sure exactly what is fluorescing"
+          }
+        ],
+        "explanation": "Cơ chế/chất thực sự phát huỳnh quang vẫn chưa được xác định chắc chắn."
+      },
+      "7": {
+        "accepted": [
+          "head"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "on the body towards the head"
+          }
+        ],
+        "explanation": "Các vệt đỏ phổ biến nhất ở phần thân gần đầu."
+      },
+      "8": {
+        "accepted": [
+          "communication"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "communication with other members of the species"
+          }
+        ],
+        "explanation": "Ông cho rằng màu đỏ dùng để giao tiếp cùng loài."
+      },
+      "9": {
+        "accepted": [
+          "enemies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "to ward off enemies"
+          }
+        ],
+        "explanation": "Ward off enemies tương ứng giữ kẻ thù tránh xa."
+      },
+      "10": {
+        "accepted": [
+          "location"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "use signals to indicate their location"
+          }
+        ],
+        "explanation": "Goby dùng tín hiệu để cho biết vị trí."
+      },
+      "11": {
+        "accepted": [
+          "species"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "closely related species do not have completely identical markings"
+          }
+        ],
+        "explanation": "Ngay cả các loài có quan hệ gần cũng có vệt đỏ khác nhau."
+      },
+      "12": {
+        "accepted": [
+          "corals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "he noticed corals glow a dark but faint red too"
+          }
+        ],
+        "explanation": "San hô cũng phát đỏ nên cá có thể hòa vào nền."
+      },
+      "13": {
+        "accepted": [
+          "seahorse"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "One exception is the seahorse, whose eyes are sensitive to red"
+          }
+        ],
+        "explanation": "Seahorse là ngoại lệ được xác nhận nhìn thấy đỏ trong bài."
+      }
+    },
+    "lessonSha256": "5401371d46c29dfdced709bf9630506ba0fb0ec47483a4a841a610d6bbea7120",
+    "assetHashes": {}
+  },
+  "p1-the-development-of-the-bicycle": {
+    "lessonId": "p1-the-development-of-the-bicycle",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "doubts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "there are doubts surrounding the authenticity of a sketch"
+          }
+        ],
+        "explanation": "Có nghi vấn về tính xác thực của bản vẽ."
+      },
+      "2": {
+        "accepted": [
+          "toy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "considered a child's toy"
+          }
+        ],
+        "explanation": "Celerifere được coi là đồ chơi."
+      },
+      "3": {
+        "accepted": [
+          "smooth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "on a smooth road or path"
+          }
+        ],
+        "explanation": "Draisienne cần bề mặt phẳng, nhẵn."
+      },
+      "4": {
+        "accepted": [
+          "tracks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "indoor riding tracks became fairly common in large cities"
+          }
+        ],
+        "explanation": "Các đường đạp xe được xây để giải trí."
+      },
+      "5": {
+        "accepted": [
+          "speed"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The desire for speed was the driving factor"
+          }
+        ],
+        "explanation": "Bánh trước lớn làm tăng tốc độ."
+      },
+      "6": {
+        "accepted": [
+          "rubber"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "solid rubber tyres were added"
+          }
+        ],
+        "explanation": "Lốp làm bằng cao su."
+      },
+      "7": {
+        "accepted": [
+          "seat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The rider sat on a seat above the large front wheel, which made them awkward to mount"
+          }
+        ],
+        "explanation": "Vị trí yên phía trên bánh trước làm việc trèo lên khó khăn."
+      },
+      "8": {
+        "accepted": [
+          "stability"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "incorporated a third wheel for greater stability"
+          }
+        ],
+        "explanation": "Bánh thứ ba tăng độ ổn định."
+      },
+      "9": {
+        "accepted": [
+          "dresses"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "their long dresses were potentially hazardous"
+          }
+        ],
+        "explanation": "Thiết kế khắc phục nguy hiểm do váy dài."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "became the most successful and most copied"
+          }
+        ],
+        "explanation": "Rover được sao chép rộng rãi."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "a practical and relatively inexpensive investment for the working man"
+          }
+        ],
+        "explanation": "Có nói giá phù hợp với người lao động nhưng không nói công ty hỗ trợ tài chính."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Women, once forced by practical considerations to ride heavy tricycles, could now ride a much more versatile machine"
+          }
+        ],
+        "explanation": "Phụ nữ lúc này có thể chuyển sang xe hai bánh linh hoạt hơn."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "have all increased the appeal of this remarkable invention"
+          }
+        ],
+        "explanation": "Đoạn cuối nêu sức hấp dẫn của đạp xe, không nêu chính sách của các chính phủ."
+      }
+    },
+    "lessonSha256": "e12b69ac6281ab7178c7397861e5d24ad16492d5e703e83e297f9eb5a5a581d8",
+    "assetHashes": {}
+  },
+  "p1-the-great-tit": {
+    "lessonId": "p1-the-great-tit",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "It is generally resident in one place"
+          }
+        ],
+        "explanation": "Loài chim thường ở nguyên một khu vực, chỉ di cư trong rét cực đoan."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "it is larger than other tits"
+          }
+        ],
+        "explanation": "Kích thước và kiếm ăn được so sánh, nhưng không so sánh nguy cơ bị săn mồi."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "dominant over the other species, often evicting them"
+          }
+        ],
+        "explanation": "Great Tit lấn át và đuổi các loài khác ra khỏi hốc cây."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "In females the stripe is reduced in width"
+          }
+        ],
+        "explanation": "Vệt đen ở con cái hẹp hơn, không rộng hơn."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the plumage colours tend to get stronger with age"
+          }
+        ],
+        "explanation": "Màu lông đậm hơn theo tuổi, không phai đi."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "they are laying their eggs an average of eight days earlier"
+          }
+        ],
+        "explanation": "Bài so sánh thời điểm đẻ trứng, không so sánh số trứng hằng năm."
+      },
+      "7": {
+        "accepted": [
+          "moss"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "building a substantial base of moss"
+          }
+        ],
+        "explanation": "Lớp nền chủ yếu là rêu."
+      },
+      "8": {
+        "accepted": [
+          "feathers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "though rarely feathers"
+          }
+        ],
+        "explanation": "Lông vũ hiếm khi được dùng lót ổ."
+      },
+      "9": {
+        "accepted": [
+          "third"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "contributing roughly a third of her daily intake"
+          }
+        ],
+        "explanation": "Chim trống cung cấp khoảng một phần ba thức ăn."
+      },
+      "10": {
+        "accepted": [
+          "26 grams"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "between 16 and 26 grams"
+          }
+        ],
+        "explanation": "Khối lượng tối đa được nêu là 26 grams; cần cả đơn vị."
+      },
+      "11": {
+        "accepted": [
+          "3 weeks",
+          "three weeks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "over a period of just three weeks"
+          }
+        ],
+        "explanation": "Chim non tăng trưởng đến lúc bay khỏi tổ trong ba tuần; three/3 là số và weeks là một từ."
+      },
+      "12": {
+        "accepted": [
+          "caterpillars"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "thousands of caterpillars are delivered"
+          }
+        ],
+        "explanation": "Sâu bướm chiếm 60–95% khẩu phần."
+      },
+      "13": {
+        "accepted": [
+          "imbalance"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "If this imbalance continues"
+          }
+        ],
+        "explanation": "Bất cân đối thời gian nở và nguồn thức ăn được gọi là imbalance."
+      }
+    },
+    "lessonSha256": "674561227403c0d79ceaa22ff774fdbd0f3b726e92a9cf98d26af016d866e152",
+    "assetHashes": {}
+  },
+  "p1-the-health-benefits-of-singing": {
+    "lessonId": "p1-the-health-benefits-of-singing",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "It is something that appeals equally to all ages"
+          }
+        ],
+        "explanation": "Hát hợp xướng hấp dẫn mọi lứa tuổi như nhau."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a rehearsal or performance has energised them"
+          }
+        ],
+        "explanation": "Không có quan hệ giữa độ dài buổi tập và mức lợi ích."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "improved recall of past events"
+          }
+        ],
+        "explanation": "Hát thường xuyên giúp nhớ những sự kiện quá khứ tốt hơn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Evidence from different research projects is also mounting"
+          }
+        ],
+        "explanation": "Bằng chứng từ nhiều nghiên cứu về tác dụng trị liệu ngày càng tăng."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "sing their way through a variety of traditional and modern songs"
+          }
+        ],
+        "explanation": "Bài nêu loại bài hát nhưng không nói ai chọn chúng."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "inspired by a similar choir established by a hospital in London"
+          }
+        ],
+        "explanation": "CeleBRation thành lập tại New Zealand, lấy cảm hứng từ một nhóm khác ở London."
+      },
+      "7": {
+        "accepted": [
+          "connections"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "form new connections between different parts of the brain"
+          }
+        ],
+        "explanation": "Âm nhạc có thể hình thành kết nối mới."
+      },
+      "8": {
+        "accepted": [
+          "clearer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "their language is also much clearer"
+          }
+        ],
+        "explanation": "Ngôn ngữ trở nên rõ hơn."
+      },
+      "9": {
+        "accepted": [
+          "volume"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "lose some volume from their voice"
+          }
+        ],
+        "explanation": "Bệnh nhân có thể giảm âm lượng giọng nói."
+      },
+      "10": {
+        "accepted": [
+          "expression"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "put a lot of expression into your voice"
+          }
+        ],
+        "explanation": "Hát đòi hỏi nhiều biểu cảm trong giọng."
+      },
+      "11": {
+        "accepted": [
+          "friendships"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the friendships they have made have also enhanced their lives"
+          }
+        ],
+        "explanation": "Các mối quan hệ bạn bè mang lại lợi ích."
+      },
+      "12": {
+        "accepted": [
+          "motivation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "motivation to continue long term with therapy is an issue"
+          }
+        ],
+        "explanation": "Duy trì động lực trị liệu lâu dài là khó khăn."
+      },
+      "13": {
+        "accepted": [
+          "cheap"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "singing is cheap in comparison to alternative methods"
+          }
+        ],
+        "explanation": "Hát là phương pháp trị liệu tương đối rẻ."
+      }
+    },
+    "lessonSha256": "53c359efdb57d902c9d762aa9721a326afe237c0811a692f59a4f9ea65658186",
+    "assetHashes": {}
+  },
+  "p1-book-review-triumph-of-the-city": {
+    "lessonId": "p1-book-review-triumph-of-the-city",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "disease"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "disease spread rapidly among the population"
+          }
+        ],
+        "explanation": "Bệnh tật là vấn đề cùng với rác bẩn ở đô thị ban đầu."
+      },
+      "2": {
+        "accepted": [
+          "political"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "enormous commercial incentives to make them work, as well as political ones"
+          }
+        ],
+        "explanation": "Động lực cải thiện vừa thương mại vừa chính trị."
+      },
+      "3": {
+        "accepted": [
+          "richer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "in the hope of becoming richer (which, by and large, they do)"
+          }
+        ],
+        "explanation": "Người nghèo nhìn chung trở nên khá giả hơn."
+      },
+      "4": {
+        "accepted": [
+          "economy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "They also reinvigorate the economy of the city"
+          }
+        ],
+        "explanation": "Họ góp sức khôi phục kinh tế thành phố."
+      },
+      "5": {
+        "accepted": [
+          "museum"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The heart of Paris, as many Parisians say, is turning into a museum"
+          }
+        ],
+        "explanation": "Trung tâm Paris biến thành bảo tàng."
+      },
+      "6": {
+        "accepted": [
+          "property"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "drove up the cost of property"
+          }
+        ],
+        "explanation": "Quy hoạch làm giá bất động sản trung tâm tăng."
+      },
+      "7": {
+        "accepted": [
+          "contact"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "lose the face-to-face contact"
+          }
+        ],
+        "explanation": "Cư dân ngoại ô giảm tiếp xúc trực tiếp."
+      },
+      "8": {
+        "accepted": [
+          "consumption"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Every aspect of life involves more consumption"
+          }
+        ],
+        "explanation": "Đời sống ngoại ô tiêu thụ nhiều tài nguyên hơn."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "they are signs of growth, energy and aspiration"
+          }
+        ],
+        "explanation": "Glaeser coi đông đúc và nghèo là dấu hiệu tăng trưởng, trái với nhận định tiêu cực."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "convinced generations of Americans that cities were bad and nature was good"
+          }
+        ],
+        "explanation": "Không nói Thoreau bàn luận tư tưởng của các nhà thơ Lãng mạn trong tác phẩm."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Napoleon III gave Baron Haussmann unrestricted power"
+          }
+        ],
+        "explanation": "Không nêu khiếu nại của người nghèo là nguyên nhân Napoleon hành động."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "It is folly to drive them away by forcing property prices to soar with unreasonable planning regulations"
+          }
+        ],
+        "explanation": "Bài phê phán hạn chế quy hoạch làm tăng giá và cản trở phát triển; đoạn Mumbai và ngoại ô cũng minh họa tác hại."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the French made a mistake in establishing a huge high-rise commercial development"
+          }
+        ],
+        "explanation": "Glaeser cho rằng vị trí dự án La Défense là sai lầm."
+      }
+    },
+    "lessonSha256": "45e59a6406472accd413095ad218da5e35de50432da081fa45512c80eb7ac40b",
+    "assetHashes": {}
+  },
+  "p2-the-problem-with-aiming-for-average": {
+    "lessonId": "p2-the-problem-with-aiming-for-average",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "In reality, it was desperation"
+          }
+        ],
+        "explanation": "Đoạn A kể thất bại và tuyệt vọng dẫn tới việc Rose thay đổi cách đi."
+      },
+      "15": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "To him, the average represented perfection"
+          }
+        ],
+        "explanation": "Đoạn B truy nguồn ý tưởng coi mức trung bình là lý tưởng."
+      },
+      "16": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "with no opportunity to show initiative or use his individual talents"
+          }
+        ],
+        "explanation": "Đoạn C nói doanh nghiệp không cho phát huy tài năng cá nhân."
+      },
+      "17": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "averages are a constant feature for the media"
+          }
+        ],
+        "explanation": "Đoạn D nói ảnh hưởng rộng trong truyền thông, học tập và công việc."
+      },
+      "18": {
+        "accepted": [
+          "x"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Rose decided to structure his study to suit his areas of interest, strengths and weaknesses"
+          }
+        ],
+        "explanation": "Đoạn E kể Rose bỏ gợi ý chung và tự thiết kế việc học."
+      },
+      "19": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "talent is ‘jagged’"
+          }
+        ],
+        "explanation": "Đoạn F giải thích ba nguyên tắc nền tảng ông muốn giáo dục áp dụng."
+      },
+      "20": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "No-one is average, according to science"
+          }
+        ],
+        "explanation": "Đoạn G đưa nghiên cứu phản bác mức trung bình và hậu quả trong thể thao."
+      },
+      "21": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "when he met people who became mentors"
+          }
+        ],
+        "explanation": "Những người hướng dẫn đã góp phần giúp Rose thành công."
+      },
+      "22": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "which gives him a sense of fulfilment and achievement"
+          }
+        ],
+        "explanation": "Rose hài lòng với công việc hiện tại."
+      },
+      "23": {
+        "accepted": [
+          "efficiency"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "his vision for greater efficiency"
+          }
+        ],
+        "explanation": "Taylor muốn tăng hiệu quả bằng nhân viên phù hợp hệ thống."
+      },
+      "24": {
+        "accepted": [
+          "memory"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "when memory was being tested"
+          }
+        ],
+        "explanation": "Nghiên cứu MRI kiểm tra hoạt động trí nhớ."
+      },
+      "25": {
+        "accepted": [
+          "walking"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a similar learning path to walking"
+          }
+        ],
+        "explanation": "Nghiên cứu bác bỏ một lộ trình chung cho việc học đi."
+      },
+      "26": {
+        "accepted": [
+          "individuality"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "strong teamwork requires individuality"
+          }
+        ],
+        "explanation": "Thomas bỏ qua vai trò của tính cá nhân đối với đội mạnh."
+      }
+    },
+    "lessonSha256": "22d9a14c5508f246adea6b1a7c9aec116be70f5595e9c2a380d8b2bc982d809d",
+    "assetHashes": {}
+  },
+  "p3-business-innovation": {
+    "lessonId": "p3-business-innovation",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "focus instead on making lots of small things better"
+          }
+        ],
+        "explanation": "Tác giả khuyên cải tiến nhỏ thay vì chỉ tìm sản phẩm hoàn toàn mới."
+      },
+      "28": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "often herald the rapid downfall of thriving, long-standing businesses"
+          }
+        ],
+        "explanation": "Disruptive innovations có thể làm doanh nghiệp lâu đời đang thành công sụp đổ."
+      },
+      "29": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "simply improve on existing products for existing markets"
+          }
+        ],
+        "explanation": "Không đề cập nghiên cứu điểm mạnh/yếu sản phẩm đối thủ như một giai đoạn then chốt."
+      },
+      "30": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "rival products can be rushed onto the market at speeds which would have been unimaginable"
+          }
+        ],
+        "explanation": "Đối thủ đưa sản phẩm ra nhanh hơn, rút ngắn thời gian cạnh tranh."
+      },
+      "31": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "The ultimate outcome of any one innovation may still be unpredictable"
+          }
+        ],
+        "explanation": "Kết quả cuối cùng của một đổi mới có thể không dự đoán được."
+      },
+      "32": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "companies also need to adjust to the ongoing fragmentation of markets"
+          }
+        ],
+        "explanation": "Vijay Vishwanath nói về thị trường chia thành các nhóm khách chuyên biệt."
+      },
+      "33": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the roots of the USA’s productivity surge"
+          }
+        ],
+        "explanation": "Erik Brynjolfsson giải thích tăng năng suất của Mỹ bằng cách dùng CNTT."
+      },
+      "34": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "frustrated by both its head of manufacturing"
+          }
+        ],
+        "explanation": "Michael Hammer đưa ví dụ hai lãnh đạo cản trở thay đổi."
+      },
+      "35": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "cut back and re-directed their Research and Development spending"
+          }
+        ],
+        "explanation": "William Baumol mô tả thay đổi chi tiêu R&D."
+      },
+      "36": {
+        "accepted": [
+          "processes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "creativity in their business processes"
+          }
+        ],
+        "explanation": "Operational innovation đổi mới các quy trình kinh doanh."
+      },
+      "37": {
+        "accepted": [
+          "cross-docking"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "pioneering idea of ‘cross-docking’"
+          }
+        ],
+        "explanation": "Tên hệ thống chuyển hàng trực tiếp giữa xe là cross-docking."
+      },
+      "38": {
+        "accepted": [
+          "strategic"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "achieved success through strategic innovations alone"
+          }
+        ],
+        "explanation": "Tetra Pak là ví dụ strategic innovation."
+      },
+      "39": {
+        "accepted": [
+          "demand"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "what they call demand innovations"
+          }
+        ],
+        "explanation": "Loại tìm nhu cầu mới là demand innovation."
+      },
+      "40": {
+        "accepted": [
+          "management services"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "the management services to accompany it"
+          }
+        ],
+        "explanation": "Air Liquide cung cấp dịch vụ quản lý kèm khí công nghiệp."
+      }
+    },
+    "lessonSha256": "5b38cf2e0f0ba63a9a7bbf6eb8bdbcf31a7ab25c83ab19094a420f3bc52deb75",
+    "assetHashes": {}
+  },
+  "p3-yawning": {
+    "lessonId": "p3-yawning",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "K"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "There are no half-yawns"
+          }
+        ],
+        "explanation": "Không tồn tại nửa cái ngáp."
+      },
+      "28": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a yawn progresses with the inevitability of a sneeze"
+          }
+        ],
+        "explanation": "Ngáp đã bắt đầu sẽ diễn tiến như hắt hơi."
+      },
+      "29": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "fixed action pattern"
+          }
+        ],
+        "explanation": "Ngáp là chuỗi hành động cố định, không phải phản xạ đơn giản."
+      },
+      "30": {
+        "accepted": [
+          "J"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "about six seconds on average"
+          }
+        ],
+        "explanation": "Ngáp điển hình kéo dài sáu giây."
+      },
+      "31": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "generally about 68 seconds"
+          }
+        ],
+        "explanation": "Khoảng cách giữa các lần ngáp thường khoảng 68 giây."
+      },
+      "32": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "producers of short or long yawns do not compensate by yawning more or less often"
+          }
+        ],
+        "explanation": "Ngáp ít hơn không đương nhiên được bù bằng ngáp dài hơn."
+      },
+      "33": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "need not involve the nostrils"
+          }
+        ],
+        "explanation": "Có thể ngáp bình thường mà không thở qua mũi."
+      },
+      "34": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "gaping of the jaws is an essential component"
+          }
+        ],
+        "explanation": "Há hàm là thành phần bắt buộc."
+      },
+      "35": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "tests the adequacy of the nasal airway to sustain a yawn"
+          }
+        ],
+        "explanation": "Thí nghiệm kiểm tra ngáp chỉ qua đường mũi có đủ hay không."
+      },
+      "36": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "their otherwise paralyzed arm rises and flexes automatically"
+          }
+        ],
+        "explanation": "Ngáp kích hoạt cánh tay vốn bị liệt vận động."
+      },
+      "37": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "ancient and unconscious behavior linking us to the animal world lurks beneath the veneer of culture, rationality and language"
+          }
+        ],
+        "explanation": "Ngáp vẫn tồn tại bất chấp sự phát triển văn hóa và lý trí của loài người."
+      },
+      "38": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "it was difficult for him to convince research students of the merits"
+          }
+        ],
+        "explanation": "Ban đầu sinh viên khó nhận ra giá trị nghiên cứu."
+      },
+      "39": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "observed a link between yawning and stretching"
+          }
+        ],
+        "explanation": "Chỉ nói có liên hệ ở thai nhi, không nói đây là quá trình học kiểm soát vận động."
+      },
+      "40": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "selecting a single function from the available options may be an unrealistic goal"
+          }
+        ],
+        "explanation": "Một chức năng duy nhất khó giải thích đầy đủ việc ngáp."
+      }
+    },
+    "lessonSha256": "ce41922899c8330a17417a9f1a235ba1fc7a1431bd1e4f9a83a766b21f634743",
+    "assetHashes": {}
+  }
+}

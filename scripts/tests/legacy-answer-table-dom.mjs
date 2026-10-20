@@ -1,0 +1,10 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import {pathToFileURL} from 'node:url';
+const {Window}=await import(pathToFileURL(process.env.HAPPY_DOM_MODULE));
+for(const file of ['are-we-faced-with-too-much-choice.html','avalanches.html','james-hargreaves-and-the-spinning-jenny.html','the-perfume-hunters.html']){
+ const html=fs.readFileSync('dist/bai/'+file,'utf8'),w=new Window({url:'https://test.example/bai/'+file,settings:{disableCSSFileLoading:true,disableJavaScriptFileLoading:true,disableJavaScriptEvaluation:true}});w.confirm=()=>true;w.HTMLElement.prototype.scrollIntoView=function(){};w.HTMLElement.prototype.scrollTo=function(){};w.IELTSDuration={single:()=>{},stop:()=>{}};w.document.write(html.replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,''));
+ const scripts=[];for(const m of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)){const src=m[1].match(/src="([^"?]+)/)?.[1];if(src){if(/(?:exam-data|exam-behavior)\.js$/.test(src))scripts.push(fs.readFileSync('dist/'+src.replace('../',''),'utf8'))}else if(m[2].trim())scripts.push(m[2])}
+ w.eval(scripts.join('\n;\n')+'\n;window.testAnswers=DATA;');const data=w.testAnswers,start=data.start||1;
+ for(const [i,value] of data.answers.entries()){const n=start+i,inputs=[...w.document.querySelectorAll('[name=q'+n+']')];if(inputs[0]?.type==='radio')inputs.find(e=>e.value===value).checked=true;else if(inputs[0])inputs[0].value=value}
+ const firstText=[...w.document.querySelectorAll('#qpanel input')].find(e=>e.type==='text');if(firstText)firstText.value='wrong';
+ w.document.querySelector('.exam-submit').click();await new Promise(r=>setTimeout(r,0));const table=w.document.querySelector('.answer-results');assert(table,file);assert.equal(table.querySelectorAll('tbody tr').length,data.answers.length);if(firstText)assert(table.textContent.includes('❌ Đáp án đúng:'));assert(table.textContent.includes('✅'));assert(w.document.getElementById('submit-choice').disabled);await w.happyDOM.abort();console.log('PASS original keyed table:',file);
+}

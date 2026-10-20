@@ -1,0 +1,527 @@
+{
+  "p1-the-chemical-element-phosphorus": {
+    "lessonId": "p1-the-chemical-element-phosphorus",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "existing-key-checked-against-complete-passage-and-each-question",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Alchemy was practised from around 500 BC to the late 1600s"
+          }
+        ],
+        "explanation": "Brand phát hiện phosphorus năm 1669; giả kim thuật được thực hành tới cuối những năm 1600, nên ông sống vào cuối giai đoạn này."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "valuable applications in modern chemistry"
+          }
+        ],
+        "explanation": "Đoạn đầu nói các kỹ thuật và vật liệu do giả kim thuật tạo ra về sau có ứng dụng giá trị trong hóa học hiện đại."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Brand was convinced that the key to changing metals into gold could be discovered in urine"
+          }
+        ],
+        "explanation": "Ông muốn tìm chất giúp biến kim loại thành vàng trong nước tiểu. Phosphorus được phát hiện tình cờ, không phải mục tiêu ban đầu."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Brand was convinced that the key to changing metals into gold could be discovered in urine."
+          }
+        ],
+        "explanation": "Bài nêu chất phát sáng và việc Brand đặt tên cho nó, nhưng không nói ông làm thí nghiệm tìm nguyên nhân phát sáng."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he was secretive about his methods"
+          }
+        ],
+        "explanation": "Brand giữ bí mật về phương pháp; điều này trái với việc ông muốn chia sẻ chúng."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a light show no one had ever seen before or even thought possible"
+          }
+        ],
+        "explanation": "Màn phát sáng của phosphorus là điều người châu Âu chưa từng thấy hoặc nghĩ có thể xảy ra, khiến họ kinh ngạc."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Despite such accidents, the new element seemed to offer a path to wealth and fame, although Brand himself showed little interest in its potential."
+          }
+        ],
+        "explanation": "Bài mô tả Boyle tạo ra diêm và phát hiện sau đó; không cho biết ông tìm các ứng dụng khác trước khi phát minh diêm."
+      },
+      "8": {
+        "accepted": [
+          "wax"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "similar in appearance to wax"
+          }
+        ],
+        "explanation": "White phosphorus có vẻ ngoài giống wax (sáp)."
+      },
+      "9": {
+        "accepted": [
+          "liver"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "can cause liver damage"
+          }
+        ],
+        "explanation": "Phosphorus trắng độc và có thể gây tổn thương liver (gan)."
+      },
+      "10": {
+        "accepted": [
+          "stability"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "this level of stability makes it safer to work with"
+          }
+        ],
+        "explanation": "Phosphorus đỏ chỉ cháy ở nhiệt độ trên 240°C; độ stability cao hơn khiến nó an toàn hơn phosphorus trắng."
+      },
+      "11": {
+        "accepted": [
+          "graphite"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "has much in common with graphite"
+          }
+        ],
+        "explanation": "Phosphorus đen giống graphite về vẻ ngoài, đặc tính và cấu trúc."
+      },
+      "12": {
+        "accepted": [
+          "pressure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "under extreme pressure and high temperatures"
+          }
+        ],
+        "explanation": "Cần nhiệt độ cao và pressure để tổng hợp phosphorus đen từ phosphorus đỏ."
+      },
+      "13": {
+        "accepted": [
+          "electronics"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the manufacture of electronics"
+          }
+        ],
+        "explanation": "Kỹ sư quan tâm đến ứng dụng của phosphorus đen trong sản xuất electronics."
+      }
+    },
+    "lessonSha256": "9905614c07fcf11e8a6376c81e1f376c2c8a060c8ac16b23dcd7245273ef119e",
+    "assetHashes": {}
+  },
+  "p2-conserving-plastic": {
+    "lessonId": "p2-conserving-plastic",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "existing-key-checked-against-complete-passage-and-each-question",
+    "answers": {
+      "14": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the notion was sadly mistaken"
+          }
+        ],
+        "explanation": "Đoạn B nói niềm tin rằng nhựa không thể bị phá hủy là sai."
+      },
+      "15": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a gun which shoots a wide spectrum of infrared light"
+          }
+        ],
+        "explanation": "Đoạn E mô tả súng hồng ngoại giúp lập hồ sơ vật liệu và đã được dùng cho cả hiện vật không làm bằng nhựa."
+      },
+      "16": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "they can be moulded into almost any shape imaginable"
+          }
+        ],
+        "explanation": "Đoạn A nêu nhựa có thể tạo gần như mọi hình dạng, với độ cứng và độ dẻo đa dạng."
+      },
+      "17": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a distinct vinegary aroma"
+          },
+          {
+            "paragraph": 2,
+            "quote": "the surface becomes sticky and shiny"
+          }
+        ],
+        "explanation": "Đoạn C nêu mùi giấm khi cellulose acetate phân hủy và bề mặt PVC dính, sáng bóng; khứu giác, thị giác và xúc giác có thể giúp phát hiện."
+      },
+      "18": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "In hot weather celluloid became unstable and ignited spontaneously"
+          }
+        ],
+        "explanation": "Đoạn B nói celluloid có thể tự bốc cháy trong thời tiết nóng, khiến nhiều bộ phim bị cháy."
+      },
+      "19": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "domestic and commercial doors, windows and water pipes"
+          }
+        ],
+        "explanation": "Đoạn C nói cửa, cửa sổ và ống nước PVC cũng phân hủy, có khi chỉ sau khoảng mười năm."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Eventually, these additives also lose their effectiveness"
+          }
+        ],
+        "explanation": "Các chất phụ gia chống lão hóa cuối cùng cũng mất tác dụng: hiệu quả bảo quản chỉ tạm thời."
+      },
+      "21": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "What works to preserve one material can catastrophically shorten the lifetime of another"
+          }
+        ],
+        "explanation": "Phương pháp bảo quản một loại nhựa có thể rút ngắn tuổi thọ của loại khác."
+      },
+      "22": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "cultural artefacts which are not made of plastic"
+          }
+        ],
+        "explanation": "Súng đã được dùng để nghiên cứu hiện vật không phải nhựa, như sổ tay của Darwin."
+      },
+      "23": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "detect not only which plastic an object is made from, but also how degraded it has become"
+          }
+        ],
+        "explanation": "Súng đang được cải tiến để đo cả mức độ phân hủy, ngoài việc xác định loại nhựa."
+      },
+      "24": {
+        "accepted": [
+          "transparent flexible",
+          "flexible transparent"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "both transparent and flexible"
+          }
+        ],
+        "explanation": "Celluloid vừa transparent vừa flexible. Hai tính từ có thể được điền theo cả hai thứ tự; câu 24 tính một điểm.",
+        "slots": [
+          [
+            "transparent",
+            "flexible"
+          ],
+          [
+            "transparent",
+            "flexible"
+          ]
+        ]
+      },
+      "25": {
+        "accepted": [
+          "sunscreen"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "acting like a sunscreen"
+          }
+        ],
+        "explanation": "Các hợp chất chống lão hóa chặn tác động của không khí và ánh nắng, giống sunscreen."
+      },
+      "26": {
+        "accepted": [
+          "freeze"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "freeze plastics to slow the process of decay"
+          }
+        ],
+        "explanation": "Một phương pháp là freeze nhựa để làm chậm quá trình phân hủy."
+      }
+    },
+    "lessonSha256": "8573a76a1ec5cf9ce39c43538d4801dbe1aea6ed5d83ccfbcfd8184972f22fbc",
+    "assetHashes": {}
+  },
+  "p3-the-future-of-work": {
+    "lessonId": "p3-the-future-of-work",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "existing-key-checked-against-complete-passage-and-each-question",
+    "answers": {
+      "27": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "good cause to feel uneasy"
+          }
+        ],
+        "explanation": "Feel uneasy tương ứng với concern (lo ngại)."
+      },
+      "28": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "living – and working – is about making decisions"
+          }
+        ],
+        "explanation": "Harari coi cuộc sống và công việc là quá trình đưa ra decisions, tương ứng choices."
+      },
+      "29": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "widespread job losses"
+          }
+        ],
+        "explanation": "AI vượt con người trong công việc sẽ dẫn tới job losses, tương ứng unemployment."
+      },
+      "30": {
+        "accepted": [
+          "J"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "we have the edge over machines"
+          }
+        ],
+        "explanation": "The edge over machines có nghĩa lợi thế, tương ứng advantage."
+      },
+      "31": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "humans will remain more useful in the labour market than Harari imagines"
+          }
+        ],
+        "explanation": "Theo Hodgson, con người vẫn hữu ích trên thị trường lao động, tức vẫn có value."
+      },
+      "32": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "there is no common standard of measurement for comparing the options"
+          }
+        ],
+        "explanation": "Tình huống giữa giúp bạn và đi xem nhạc kịch đòi hỏi cân nhắc duty và desire, hai loại tiêu chí không có chuẩn đo chung."
+      },
+      "33": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "How could a robot judge issues of beauty against concerns about how long a building would remain standing?"
+          }
+        ],
+        "explanation": "Ví dụ kiến trúc minh họa khả năng của con người cân nhắc thẩm mỹ và độ bền, một lợi thế so với máy móc."
+      },
+      "34": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "This may give us an evolutionary edge over machines"
+          }
+        ],
+        "explanation": "Nếu Hodgson đúng, con người có lợi thế tiến hóa về cân nhắc các lựa chọn không thể so trực tiếp; Harari đã bỏ sót khác biệt này."
+      },
+      "35": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "income inequality will continue to rise"
+          }
+        ],
+        "explanation": "Đoạn sáu nêu dự đoán income inequality tiếp tục tăng: khoảng cách giàu nghèo mở rộng."
+      },
+      "36": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the absence of updated policies to govern the transition"
+          }
+        ],
+        "explanation": "Không có chính sách quản lý chuyển đổi đã gây nhiều đau đớn hơn cần thiết; có kế hoạch thì chuyển đổi sẽ thuận lợi hơn."
+      },
+      "37": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "From a business perspective, the dominant motivation for introducing new technology is to reduce human labour and the costs associated with it."
+          }
+        ],
+        "explanation": "Bài nói giảm chi phí lao động là động lực phổ biến trong kinh doanh, nhưng không so sánh mức phổ biến giữa sản xuất và ngành khác."
+      },
+      "38": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "leads to overinvestment and weak returns"
+          }
+        ],
+        "explanation": "Tác giả dùng General Motors để minh họa đầu tư quá mức và lợi ích thấp; tăng đầu tư vào robot không phải điều được khuyến nghị."
+      },
+      "39": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "From a business perspective, the dominant motivation for introducing new technology is to reduce human labour and the costs associated with it."
+          }
+        ],
+        "explanation": "Bài nêu thất bại của General Motors và việc học hỏi Toyota, không nói các công ty ô tô lớn khác lặp lại sai lầm đó."
+      },
+      "40": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "while in the past the focus was on the STEM disciplines"
+          }
+        ],
+        "explanation": "STEM là trọng tâm trong quá khứ; hiện nay cần thêm tư duy phân tích, sáng tạo, làm việc nhóm và thích ứng, không phải nhấn mạnh STEM hơn."
+      }
+    },
+    "lessonSha256": "d0fb1b35f0eb23eb57c131abed398833464905e7fd77e32ac2e3413d820748ae",
+    "assetHashes": {}
+  }
+}

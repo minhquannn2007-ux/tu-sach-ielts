@@ -103,3 +103,50 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
  }
  root.IELTSData={validate,normalize,instructions,numbers,listTitle};
 })(globalThis);
+
+/* Reviewed solutions are version-bound. Never infer a key from a user's answers. */
+(function(root){
+ const normal=s=>String(s??'').normalize('NFC').trim().toLowerCase().replace(/\s+/g,' ');
+ const numbers=g=>g.type==='mc-two'?g.numbers:g.questions.map(q=>q.n);
+ function sourceText(d){return JSON.stringify({id:d.id,title:d.title,part:d.part,subtitle:d.subtitle||'',footnotes:d.footnotes||[],paragraphs:d.paragraphs,groups:d.groups.map(({kind,...g})=>g)})}
+ function validate(d,solution){
+  const errors=[],ns=d.groups.flatMap(numbers);
+  if(!solution||solution.reviewed!==true||solution.lessonId!==d.id||!/^[a-f0-9]{64}$/.test(solution.lessonSha256||''))return ['Unreviewed or unidentified solution'];
+  if(Object.keys(solution.answers||{}).length!==ns.length)errors.push('Incomplete solution');
+  for(const n of ns){
+   const a=solution.answers?.[n],g=d.groups.find(g=>numbers(g).includes(n)),q=g.questions?.find(q=>q.n===n);
+   if(!a?.accepted?.length||a.accepted.some(v=>typeof v!=='string'||!v.trim())||!a.explanation?.trim()||!a.evidence?.length){errors.push('Missing answer evidence '+n);continue}
+   for(const e of a.evidence)if(!d.paragraphs[e.paragraph]||typeof e.quote!=='string'||!e.quote||!d.paragraphs[e.paragraph].text.includes(e.quote))errors.push('Evidence differs from passage '+n);
+   const choices=g.type==='tfng'?['TRUE','FALSE','NOT GIVEN']:g.type==='ynng'?['YES','NO','NOT GIVEN']:(q?.options||g.options||g.bank)?.map(o=>o.value);
+   if(choices&&a.accepted.some(v=>!choices.includes(v)))errors.push('Answer not in source choices '+n);
+   if((q?.slots||1)>1&&(!a.slots||a.slots.length!==q.slots||a.slots.some(slot=>!slot.length)))errors.push('Missing per-slot answers '+n);
+  }
+  return errors;
+ }
+ async function verify(d,s){if(validate(d,s).length||!root.crypto?.subtle)return false;const bytes=await root.crypto.subtle.digest('SHA-256',new TextEncoder().encode(sourceText(d)));return [...new Uint8Array(bytes)].map(b=>b.toString(16).padStart(2,'0')).join('')===s.lessonSha256}
+ function display(g,n,value){const options=g.type==='mc-one'?g.questions.find(q=>q.n===n)?.options:g.options||g.bank;return options?.find(o=>o.value===value)?.text||value}
+ function grade(d,values,key,slots={}){
+  const ns=d.groups.flatMap(numbers).sort((a,b)=>a-b),rows=ns.map((n,i)=>{const g=d.groups.find(g=>numbers(g).includes(n)),entry=key?.[n],value=values[i]||'',q=g.questions?.find(q=>q.n===n);let correct=null;
+   if(entry){correct=q?.slots>1?(slots[n]?.length===q.slots&&slots[n].every(v=>normal(v))&&(entry.accepted.some(a=>normal(a)===normal(slots[n].join(' ')))&&(!entry.slots||entry.slots.every((allowed,j)=>allowed.some(a=>normal(a)===normal(slots[n][j])))))):!!value&&entry.accepted.some(a=>normal(a)===normal(value))}
+   return {n,value,response:display(g,n,value)||'Chưa trả lời',correct,answer:entry?entry.accepted.map(v=>display(g,n,v)).join(' / '):null};
+  });
+  // Unordered selections receive one point per distinct correct option, never twice.
+  for(const g of d.groups.filter(g=>g.type==='mc-two')){
+   if(!g.numbers.every(n=>key?.[n]))continue;
+   const groupRows=g.numbers.map(n=>rows.find(r=>r.n===n)),matches=new Map();
+   function match(i,seen){for(const n of g.numbers){if(seen.has(n)||!key[n].accepted.some(a=>normal(a)===normal(groupRows[i].value)))continue;seen.add(n);if(!matches.has(n)||match(matches.get(n),seen)){matches.set(n,i);return true}}return false}
+   const seenValues=new Set();groupRows.forEach((r,i)=>{const v=normal(r.value);r.correct=!!v&&!seenValues.has(v)&&match(i,new Set());seenValues.add(v)});
+   const matchedRows=new Set(matches.values()),missing=g.numbers.filter(n=>!matches.has(n));let at=0;
+   groupRows.forEach((r,i)=>{r.correct=matchedRows.has(i);if(!r.correct){const n=missing[at++];r.answer=key[n].accepted.map(v=>display(g,n,v)).join(' / ')}});
+  }
+  const marked=rows.filter(r=>r.correct!==null);return {rows,score:marked.filter(r=>r.correct).length,marked:marked.length,total:rows.length};
+ }
+ function render(document,box,result){
+  const p=document.createElement('p');p.textContent=result.marked===result.total?'Kết quả: '+result.score+'/'+result.total+' câu đúng.':'Đã kết thúc bài. Các câu chưa có đáp án được kiểm tra sẽ chưa được chấm.';
+  const table=document.createElement('table');table.className='import-table answer-results';table.setAttribute('aria-label','Bảng đáp án sau khi nộp');
+  const head=table.createTHead().insertRow();for(const title of ['Câu','Đáp án của bạn','Kết quả']){const th=document.createElement('th');th.scope='col';th.textContent=title;head.append(th)}
+  const body=table.createTBody();for(const r of result.rows){const row=body.insertRow();row.dataset.question=r.n;const th=document.createElement('th');th.scope='row';th.textContent=r.n;row.append(th);row.insertCell().textContent=r.response;const cell=row.insertCell();cell.textContent=r.correct===null?'Chưa chấm':r.correct?'✅':'❌ Đáp án đúng: '+r.answer;cell.setAttribute('aria-label',r.correct===null?'Chưa chấm':r.correct?'Đúng':'Sai. Đáp án đúng: '+r.answer)}
+  box.replaceChildren(p,table);box.hidden=false;
+ }
+ root.IELTSGrading={normal,sourceText,validate,verify,display,grade,render};
+})(globalThis);
