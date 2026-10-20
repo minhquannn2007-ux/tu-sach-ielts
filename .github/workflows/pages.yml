@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 concurrency:
@@ -33,6 +34,25 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: dist
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Wait for uploaded artifact metadata
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          PAGES_ARTIFACT: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+        run: |
+          for attempt in {1..12}; do
+            count=$(gh api "repos/$REPOSITORY/actions/runs/$RUN_ID/artifacts?per_page=100" --jq "[.artifacts[] | select(.name == \"$PAGES_ARTIFACT\" and .expired == false)] | length")
+            if [ "$count" = "1" ]; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Uploaded Pages artifact metadata did not become available."
+          exit 1
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
