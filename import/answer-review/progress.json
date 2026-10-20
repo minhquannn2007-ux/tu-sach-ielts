@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T13:47:42.980Z",
+  "updatedAt": "2026-10-20T13:52:29.731Z",
   "totalLessons": 747,
-  "reviewedLessons": 134,
-  "reviewedAnswers": 1757,
+  "reviewedLessons": 140,
+  "reviewedAnswers": 1835,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 609,
+  "pendingSolutions": 603,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -622,7 +622,7 @@
       "title": "Book Review",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-book-review-architecture-in-the-united-states",
@@ -1399,7 +1399,7 @@
       "title": "Forty thousand year old baby",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-fragrant-memories",
@@ -2953,7 +2953,7 @@
       "title": "Seaweed",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-secrets-of-the-nasca-lines",
@@ -3051,7 +3051,7 @@
       "title": "Social organization in animals",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-socotra-island",
@@ -3303,7 +3303,7 @@
       "title": "The Alps 2 Ocean Cycle Trail",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-analysis-of-fear",
@@ -3429,7 +3429,7 @@
       "title": "The Clipper Races: an era of competition between cargo ships",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-clustering-of-it-companies",

@@ -19912,6 +19912,999 @@
     },
     "lessonSha256": "db919766263852c79520cc01870757573a6c43113dbbb43d922dc1b8a6c279dd"
   },
+  "p2-book-review": {
+    "lessonId": "p2-book-review",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "shown some 40 miles too far east"
+          }
+        ],
+        "explanation": "D nêu lỗi định vị quần đảo trên hải đồ."
+      },
+      "15": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "their ship picked them up. But it never did"
+          }
+        ],
+        "explanation": "C kể nhóm Coffee bị bỏ lại."
+      },
+      "16": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "discovered a wealth of historical information"
+          }
+        ],
+        "explanation": "B giải thích nghiên cứu hải cẩu dẫn tới viết sách."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "two inhospitable, uninhabited groups of islands"
+          }
+        ],
+        "explanation": "A nói khó tìm đủ thông tin thành sách về đảo không người ở."
+      },
+      "18": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "even the most enthusiastic reader may tire at times"
+          }
+        ],
+        "explanation": "G phê bình chi tiết quá mức gây mệt mỏi."
+      },
+      "19": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "fortunate, however, because it was the penguin breeding season"
+          }
+        ],
+        "explanation": "Mắc cạn đúng mùa trứng chim cánh cụt giúp sống sót."
+      },
+      "20": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "ate the root of the Macquarie Island cabbage"
+          }
+        ],
+        "explanation": "Họ ăn rễ cây bắp cải."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "making spoons from shells and knives from the hoops of a barrel"
+          }
+        ],
+        "explanation": "Họ chế thìa và dao."
+      },
+      "22": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the whole party had finally escaped"
+          }
+        ],
+        "explanation": "Cả đoàn thoát nạn."
+      },
+      "23": {
+        "accepted": [
+          "feathers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "feathers could be blown inside"
+          }
+        ],
+        "explanation": "Lông chim có thể bị gió thổi vào đầy nhà."
+      },
+      "24": {
+        "accepted": [
+          "fishing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "plenty of fishing gear"
+          }
+        ],
+        "explanation": "Có thiết bị câu cá để tự kiếm ăn."
+      },
+      "25": {
+        "accepted": [
+          "textbook"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "provided with a textbook"
+          }
+        ],
+        "explanation": "Có sách học tiếng Anh."
+      },
+      "26": {
+        "accepted": [
+          "graffiti"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "examples of graffiti left on the walls"
+          }
+        ],
+        "explanation": "Tác giả đặc biệt thích chữ vẽ trên vách."
+      }
+    },
+    "lessonSha256": "3a1594e29395dee6847bf03003b095c12d507e8f13806f3d27764319e2b29996"
+  },
+  "p2-the-alps-2-ocean-cycle-trail": {
+    "lessonId": "p2-the-alps-2-ocean-cycle-trail",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Further work is planned"
+          }
+        ],
+        "explanation": "E nêu các nâng cấp sắp tới."
+      },
+      "15": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "four days to just over a week"
+          }
+        ],
+        "explanation": "B nêu thời gian hoàn thành đường đạp xe."
+      },
+      "16": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "smooth paving, dirt tracks, and gravel areas"
+          }
+        ],
+        "explanation": "A liệt kê các mặt đường."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "There are no steep, long uphill climbs"
+          }
+        ],
+        "explanation": "Ít dốc và đoạn kỹ thuật nên người mới hoặc ít thể lực vẫn đi được."
+      },
+      "18": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a plan was submitted and an agreement signed"
+          }
+        ],
+        "explanation": "D nêu lập ủy ban, xin vốn, trình kế hoạch và ký thỏa thuận."
+      },
+      "19": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "beech forests, stretches of open plain, deep blue lakes"
+          }
+        ],
+        "explanation": "B liệt kê cảnh quan đa dạng."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "cyclists trying to avoid the highway"
+          }
+        ],
+        "explanation": "Ramsay thấy người đi xe tránh đường lớn."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "all the other beautiful back-country routes cyclists could take"
+          }
+        ],
+        "explanation": "Ông muốn người đạp xe tận hưởng đường đẹp."
+      },
+      "22": {
+        "accepted": [
+          "tours"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "organised tours with a knowledgeable guide"
+          }
+        ],
+        "explanation": "Tham gia tour để nghe hướng dẫn viên giới thiệu."
+      },
+      "23": {
+        "accepted": [
+          "luggage"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "have it delivered to their accommodation"
+          }
+        ],
+        "explanation": "Có dịch vụ gửi hành lý đi trước."
+      },
+      "24": {
+        "accepted": [
+          "map"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a complimentary map"
+          }
+        ],
+        "explanation": "Bản đồ được cấp miễn phí."
+      },
+      "25": {
+        "accepted": [
+          "clothing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "provide riders with clothing"
+          }
+        ],
+        "explanation": "Văn phòng cho thuê quần áo."
+      },
+      "26": {
+        "accepted": [
+          "weather"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "regular updates about the weather"
+          }
+        ],
+        "explanation": "Xem cập nhật thời tiết trên mạng."
+      }
+    },
+    "lessonSha256": "c629eae7f57cb779f2e475b45c74d9fa8d6df2e49a1d5eea915b5d64c48c3c67"
+  },
+  "p1-forty-thousand-year-old-baby": {
+    "lessonId": "p1-forty-thousand-year-old-baby",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "they knew it well from stories"
+          }
+        ],
+        "explanation": "Khudi nhận ra voi ma mút từ chuyện kể."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Khudi had seen many of the long honey-colored mammoth tusks"
+          }
+        ],
+        "explanation": "Trước đó đã thấy ngà voi ma mút."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "consult with an old friend named Kirill Serotetto"
+          }
+        ],
+        "explanation": "Không so sánh hiểu biết hai người."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "no carcass of any age was as intact as Lyuba"
+          }
+        ],
+        "explanation": "Đây là xác nguyên vẹn nhất, kể cả xác voi con."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Fisher visited the Yuribey River"
+          }
+        ],
+        "explanation": "Không nêu kỳ vọng tìm thêm xác khi đến sông."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "it just didn't make sense"
+          }
+        ],
+        "explanation": "Chuyến thăm làm ông khó hiểu hơn; lời giải đến ở cuộc khám nghiệm sau."
+      },
+      "7": {
+        "accepted": [
+          "fat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a hump of fat"
+          }
+        ],
+        "explanation": "Khối mỡ còn đầy chứng tỏ sức khỏe tốt."
+      },
+      "8": {
+        "accepted": [
+          "suffocation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "died of suffocation"
+          }
+        ],
+        "explanation": "Bùn ở miệng và họng cho thấy ngạt thở."
+      },
+      "9": {
+        "accepted": [
+          "tusk"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "supported by the analysis of her tusk"
+          }
+        ],
+        "explanation": "Phân tích ngà hỗ trợ kết luận từ răng."
+      },
+      "10": {
+        "accepted": [
+          "spring"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "born early in the spring and was a month old when she died"
+          }
+        ],
+        "explanation": "Sinh đầu xuân, chết một tháng sau, vẫn trong mùa xuân."
+      },
+      "11": {
+        "accepted": [
+          "muscles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "muscles were separated from the bone"
+          }
+        ],
+        "explanation": "Cơ tách khỏi xương."
+      },
+      "12": {
+        "accepted": [
+          "smell"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "an odd smell"
+          }
+        ],
+        "explanation": "Có mùi khác thường."
+      },
+      "13": {
+        "accepted": [
+          "microbes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "The microbes in the water had preserved her"
+          }
+        ],
+        "explanation": "Vi sinh vật trong nước bảo quản xác."
+      }
+    },
+    "lessonSha256": "2b92d8405d0f036f88fad867a54cfed7012f711ce4ef903c2b03c1141a2a9c4f"
+  },
+  "p1-seaweed": {
+    "lessonId": "p1-seaweed",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "supplemented the diet of sheep in the Orkneys"
+          }
+        ],
+        "explanation": "Cừu ở Orkney ăn rong biển khoảng 5.000 năm."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a key part of people’s regular diet"
+          }
+        ],
+        "explanation": "Rong biển là thức ăn thường ngày ở Nhật thế kỷ 8."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "women, known to be responsible for the gathering of plants"
+          }
+        ],
+        "explanation": "Phát hiện cho thấy vai trò phụ nữ cung cấp thực phẩm quan trọng hơn từng nghĩ."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Norway exported 1,500 tonnes of potash"
+          }
+        ],
+        "explanation": "Không xếp hạng potash so với hàng xuất khác."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "hardly anyone has heard of Dr Drew-Baker in the UK"
+          }
+        ],
+        "explanation": "Bà ít được biết ở Anh nhưng được vinh danh ở Nhật."
+      },
+      "6": {
+        "accepted": [
+          "typhoons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a series of typhoons combined with increased pollution"
+          }
+        ],
+        "explanation": "Bão và ô nhiễm làm sụp đổ ngành nori."
+      },
+      "7": {
+        "accepted": [
+          "laver"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "studying a seaweed called laver"
+          }
+        ],
+        "explanation": "Bà nghiên cứu laver, tương đương nori."
+      },
+      "8": {
+        "accepted": [
+          "kelp"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "his work on kelp"
+          }
+        ],
+        "explanation": "Kỹ thuật mới giúp trồng kelp có lãi."
+      },
+      "9": {
+        "accepted": [
+          "fishermen",
+          "New England fishermen"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "New England fishermen"
+          }
+        ],
+        "explanation": "Cung cấp thu nhập thay thế cho ngư dân."
+      },
+      "10": {
+        "accepted": [
+          "chemicals",
+          "unfriendly chemicals",
+          "environmentally unfriendly chemicals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "environmentally unfriendly chemicals"
+          }
+        ],
+        "explanation": "Hấp thụ hóa chất gây hại do các ngành thải ra."
+      },
+      "11": {
+        "accepted": [
+          "markets"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the lack of markets"
+          }
+        ],
+        "explanation": "Châu Âu thiếu thị trường và chi phí cao."
+      },
+      "12": {
+        "accepted": [
+          "jobs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "generating 50 million jobs"
+          }
+        ],
+        "explanation": "Có thể tạo nhiều việc làm."
+      },
+      "13": {
+        "accepted": [
+          "vehicles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "As a biofuel for vehicles"
+          }
+        ],
+        "explanation": "Rong biển có thể làm nhiên liệu cho phương tiện."
+      }
+    },
+    "lessonSha256": "e8db32527bc94038bd24ffcf918cbec5330329a57fcf1dd7ebd05ab057a2e169"
+  },
+  "p1-the-clipper-races-an-era-of-competition-between-cargo-ships": {
+    "lessonId": "p1-the-clipper-races-an-era-of-competition-between-cargo-ships",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "no rival could legally import tea"
+          }
+        ],
+        "explanation": "Công ty độc quyền nên không gặp nhiều cạnh tranh."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "its priority was to minimise costs by carrying as much as possible"
+          }
+        ],
+        "explanation": "Ưu tiên chở nhiều hàng để giảm chi phí."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "even with favourable sailing conditions, the round trip lasted almost two years"
+          }
+        ],
+        "explanation": "Thuận lợi nhất vẫn mất gần hai năm."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "depending on the wind and weather"
+          }
+        ],
+        "explanation": "Không nói thời kỳ trước 1834 bị coi là cực kỳ nguy hiểm."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "continued to plough the seas between Britain and China"
+          }
+        ],
+        "explanation": "Các tàu được mua lại và tiếp tục buôn bán."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the fresher and earlier-picked the tea, the better"
+          }
+        ],
+        "explanation": "Người Anh thích lá trà hái sớm, tươi hơn."
+      },
+      "7": {
+        "accepted": [
+          "sails"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "masses of sails on tall masts"
+          }
+        ],
+        "explanation": "Tàu có rất nhiều buồm."
+      },
+      "8": {
+        "accepted": [
+          "storms"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "less powerful during storms"
+          }
+        ],
+        "explanation": "Tàu Anh yếu hơn trong bão."
+      },
+      "9": {
+        "accepted": [
+          "Challenger"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the British ship beat its rival to London by two days"
+          }
+        ],
+        "explanation": "Challenger thắng Challenge hai ngày."
+      },
+      "10": {
+        "accepted": [
+          "ports"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "new ports were opened up for trade in China"
+          }
+        ],
+        "explanation": "Cảng mới làm đua mạnh hơn."
+      },
+      "11": {
+        "accepted": [
+          "paperwork"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "not even taking time to fill out the official paperwork"
+          }
+        ],
+        "explanation": "Có lúc bỏ qua giấy tờ vì quá vội."
+      },
+      "12": {
+        "accepted": [
+          "tugs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "towed by tugs"
+          }
+        ],
+        "explanation": "Tàu kéo đưa chúng vào bến."
+      },
+      "13": {
+        "accepted": [
+          "money"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "the races were about more than just money"
+          }
+        ],
+        "explanation": "Tiền thưởng cùng tinh thần thi đua tạo động lực."
+      }
+    },
+    "lessonSha256": "2467c876699a1607dc45c28377ef5f392d218f39f8c3fc16ee27734541e48606"
+  },
+  "p1-social-organization-in-animals": {
+    "lessonId": "p1-social-organization-in-animals",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "mate"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "only coming together when they mate"
+          }
+        ],
+        "explanation": "Động vật đơn độc chỉ gặp nhau để giao phối."
+      },
+      "2": {
+        "accepted": [
+          "fish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "shoals of fish are essentially loose gatherings"
+          }
+        ],
+        "explanation": "Đàn cá là nhóm đơn giản."
+      },
+      "3": {
+        "accepted": [
+          "roles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "A variety of roles"
+          }
+        ],
+        "explanation": "Nhóm linh trưởng có nhiều vai trò."
+      },
+      "4": {
+        "accepted": [
+          "cooperation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "some degree of cooperation is possible"
+          }
+        ],
+        "explanation": "Sống nhóm cho phép hợp tác."
+      },
+      "5": {
+        "accepted": [
+          "amphibians"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "certain amphibians, it is the male that guards the young"
+          }
+        ],
+        "explanation": "Một số lưỡng cư có con đực bảo vệ con non."
+      },
+      "6": {
+        "accepted": [
+          "wings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "males and females with wings"
+          }
+        ],
+        "explanation": "Mối có cánh rời tổ lập đàn mới."
+      },
+      "7": {
+        "accepted": [
+          "permanent"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Permanent harems are formed by animals such as zebra"
+          }
+        ],
+        "explanation": "Ngựa vằn có hậu cung lâu dài."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a hierarchy in both sexes to determine which animals breed most often"
+          }
+        ],
+        "explanation": "Thứ bậc cho một số con sư tử nhiều quyền sinh sản hơn."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "male baboons frequently leave their home groups"
+          }
+        ],
+        "explanation": "Khỉ đầu chó đực thường rời nhóm lúc trưởng thành."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "penguins usually return to their mate of the previous year"
+          }
+        ],
+        "explanation": "Chim cánh cụt thường trở lại với bạn đời cũ."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "communal nurseries"
+          }
+        ],
+        "explanation": "Không nói số nhà trẻ tăng khi thức ăn thiếu."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "using various signals"
+          }
+        ],
+        "explanation": "Không xác định đa số dùng tín hiệu âm thanh."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "so the bird makes a small net gain"
+          }
+        ],
+        "explanation": "Năng lượng thu được hơn chi phí kiếm ăn và bảo vệ lãnh thổ."
+      }
+    },
+    "lessonSha256": "bcf1df8f517029029538e69c0561e417476a61513479eb36d6f26671094e9995"
+  },
   "p1-under-the-skin-of-a-great-violin": {
     "lessonId": "p1-under-the-skin-of-a-great-violin",
     "reviewed": true,
