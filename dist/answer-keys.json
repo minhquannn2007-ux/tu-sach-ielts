@@ -1352,6 +1352,873 @@
     "lessonSha256": "ce41922899c8330a17417a9f1a235ba1fc7a1431bd1e4f9a83a766b21f634743",
     "assetHashes": {}
   },
+  "p2-newly-hatched-birds": {
+    "lessonId": "p2-newly-hatched-birds",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "on the verge of hatching will now slow down"
+          }
+        ],
+        "explanation": "Chim gần nở phát tiếng click chậm hơn, tối đa khoảng 60 lần mỗi giây."
+      },
+      "15": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "caught the attention of a sharp-eyed predator"
+          }
+        ],
+        "explanation": "Có nguy cơ kẻ săn mồi phát hiện tổ, không mô tả chim cút đánh trả."
+      },
+      "16": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a particularly long period"
+          }
+        ],
+        "explanation": "Thời gian ấp dài nhưng không so sánh là dài nhất trong mọi loài làm tổ dưới đất."
+      },
+      "17": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "within an hour or so of the first eggs hatching, are ready to move"
+          }
+        ],
+        "explanation": "Chim cút con có thể đi theo mẹ khoảng một giờ sau lúc bắt đầu nở."
+      },
+      "18": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "this will sustain them for a day or so"
+          }
+        ],
+        "explanation": "Lòng đỏ còn trong bụng nuôi chúng khoảng một ngày, không cần ăn ngay khi nở."
+      },
+      "19": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "pointing at it with her beak"
+          }
+        ],
+        "explanation": "Quail mẹ chỉ thức ăn bằng mỏ."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "sails away across the lake with the youngsters"
+          }
+        ],
+        "explanation": "Grebe chở con trên lưng và bơi qua hồ."
+      },
+      "21": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "take to the air with them on board"
+          }
+        ],
+        "explanation": "Sungrebe có thể bay khi mang con trong túi da."
+      },
+      "22": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "their mothers offering morsels to them directly"
+          }
+        ],
+        "explanation": "Crane mẹ đút thức ăn trực tiếp cho con."
+      },
+      "23": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "this nutrient enables the chicks to develop very fully while they are still in the shell"
+          }
+        ],
+        "explanation": "C mô tả ấp lâu và lòng đỏ giúp chim con phát triển, đi lại được nhanh."
+      },
+      "24": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "No other bird has been seen carrying its young with it on flights"
+          }
+        ],
+        "explanation": "E nêu hành vi mang con khi bay chưa quan sát được ở loài khác."
+      },
+      "25": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "much better that they should all hatch together"
+          }
+        ],
+        "explanation": "B giải thích nở cùng lúc giúp cả đàn rời tổ sớm để tránh kẻ săn mồi."
+      },
+      "26": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "As such messages circulate among the clutch"
+          }
+        ],
+        "explanation": "A mô tả trứng truyền tiếng click để đồng bộ phát triển trước khi nở."
+      }
+    },
+    "lessonSha256": "4db275a6a226e89118934d01efbeb8e2a65f58946ffc6374cc4b3bb43e8dc65c"
+  },
+  "p2-childrens-literature": {
+    "lessonId": "p2-childrens-literature",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "stories"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Containing stories, games plus a free gift"
+          }
+        ],
+        "explanation": "Sách chứa truyện, trò chơi và quà tặng."
+      },
+      "15": {
+        "accepted": [
+          "pleasure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "whose first aim was pleasure rather than education or morality"
+          }
+        ],
+        "explanation": "Mục tiêu đầu tiên là đọc để vui thích."
+      },
+      "16": {
+        "accepted": [
+          "America"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "to be pirated almost immediately in America"
+          }
+        ],
+        "explanation": "Mẫu sách nhanh chóng bị sao chép sang Mỹ."
+      },
+      "17": {
+        "accepted": [
+          "experience"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the needs of their own limited experience of life"
+          }
+        ],
+        "explanation": "Truyện mới phù hợp trải nghiệm đời sống còn hạn chế của trẻ."
+      },
+      "18": {
+        "accepted": [
+          "adventures"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the most unlikely adventures"
+          }
+        ],
+        "explanation": "Trẻ trong truyện Blyton có các cuộc phiêu lưu khó tin."
+      },
+      "19": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "these were not aimed at young people in particular"
+          }
+        ],
+        "explanation": "Aesop ban đầu không nhắm riêng trẻ em; chúng tìm đọc văn học của người lớn."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he hit upon a winning formula quite so quickly"
+          }
+        ],
+        "explanation": "A Little Pretty Pocket-Book đạt thành công nhanh và bị sao chép ngay."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "with whom they could more easily empathise"
+          }
+        ],
+        "explanation": "Trẻ lớn chọn sách có nhân vật chúng dễ đồng cảm."
+      },
+      "22": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "stories in print before 1700 that children often seized on"
+          }
+        ],
+        "explanation": "Trẻ đã đọc truyện trước năm 1700."
+      },
+      "23": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "always models of sense and decorum"
+          }
+        ],
+        "explanation": "Nhân vật Trimmer là hình mẫu về lý trí và hành xử đúng mực."
+      },
+      "24": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "she condemned fairy-tales for their violence"
+          }
+        ],
+        "explanation": "Người lên án là nhà phê bình Trimmer; không nêu quan điểm của phụ huynh thế kỷ 19."
+      },
+      "25": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The great blow to the instructive children’s book"
+          }
+        ],
+        "explanation": "Sự quan tâm folklore làm văn học chuyển khỏi khuynh hướng chỉ giáo huấn."
+      },
+      "26": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "can be shared by different generations"
+          }
+        ],
+        "explanation": "Quan điểm hiện tại là trẻ em và người lớn có thể cùng thưởng thức."
+      }
+    },
+    "lessonSha256": "ab380e0db5d76dc85869e756addca2a7f0cb748fc16102e9e5e09aa0c1dcd953"
+  },
+  "p3-travel-writing": {
+    "lessonId": "p3-travel-writing",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the actual inhabitants of those countries were unable to record"
+          }
+        ],
+        "explanation": "Tường thuật du hành lưu lại điều cư dân địa phương không thể tự ghi chép."
+      },
+      "28": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the authors reflect the values of their own cultures"
+          }
+        ],
+        "explanation": "Ẩn dụ gương là phản ánh giá trị văn hóa quê hương người viết."
+      },
+      "29": {
+        "accepted": [
+          "Persian Wars"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "events that led to the Persian Wars"
+          }
+        ],
+        "explanation": "Herodotus nghiên cứu nguyên nhân chiến tranh Ba Tư."
+      },
+      "30": {
+        "accepted": [
+          "allies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "in search of allies for the Han emperors"
+          }
+        ],
+        "explanation": "Zhang Qian đi tìm đồng minh cho hoàng đế nhà Hán."
+      },
+      "31": {
+        "accepted": [
+          "geographical knowledge"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "compile vast compendia of geographical knowledge"
+          }
+        ],
+        "explanation": "Nhà địa lý tập hợp tri thức địa lý."
+      },
+      "32": {
+        "accepted": [
+          "pilgrimage"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "on a pilgrimage to the Holy City of Mecca"
+          }
+        ],
+        "explanation": "Ngoài thương mại, người Hồi giáo đi hành hương."
+      },
+      "33": {
+        "accepted": [
+          "colonies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "setting up colonies in these areas"
+          }
+        ],
+        "explanation": "Người châu Âu tìm đường thương mại và lập thuộc địa."
+      },
+      "34": {
+        "accepted": [
+          "social organization",
+          "social organisation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "investigate different types of social organization"
+          }
+        ],
+        "explanation": "Người châu Á khảo sát các hình thức tổ chức xã hội."
+      },
+      "35": {
+        "accepted": [
+          "wealthy societies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "individuals living in the world's wealthy societies"
+          }
+        ],
+        "explanation": "Du lịch đại chúng phát triển ở người dân các xã hội giàu có."
+      },
+      "36": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "rulers desiring useful knowledge about their lands"
+          }
+        ],
+        "explanation": "Người cai trị muốn thông tin hữu ích về lãnh thổ của mình."
+      },
+      "37": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "thousands of them related their experiences"
+          }
+        ],
+        "explanation": "Hàng nghìn tín đồ thuật lại chuyến hành hương Mecca."
+      },
+      "38": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a reading public at home with an apparently insatiable appetite"
+          }
+        ],
+        "explanation": "Sách đáp ứng sự quan tâm của công chúng châu Âu về thế giới bên ngoài."
+      },
+      "39": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "arose to meet the needs of these tourists: the guidebook"
+          }
+        ],
+        "explanation": "Sách hướng dẫn ra đời phục vụ người đi du lịch giải trí."
+      },
+      "40": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the 20th century witnessed explosions"
+          }
+        ],
+        "explanation": "Toàn bài lần lượt trình bày du ký từ thời cổ đại đến thế kỷ 20, nêu sự phát triển theo thời gian."
+      }
+    },
+    "lessonSha256": "8391c475d0a24df35f1539f65418e701193f033e1ddefcdc03ea89d41def77c4"
+  },
+  "p3-power-from-the-sea": {
+    "lessonId": "p3-power-from-the-sea",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "at least as long ago as AD900"
+          }
+        ],
+        "explanation": "Đã dùng thủy triều từ ít nhất năm 900, hơn một nghìn năm trước."
+      },
+      "28": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "governments are pumping more money"
+          }
+        ],
+        "explanation": "Chính phủ tăng đầu tư, không cắt giảm."
+      },
+      "29": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "an Edinburgh University professor, Stephen Salter"
+          }
+        ],
+        "explanation": "Nơi công tác là Edinburgh; không nói thiết bị được thử ở vùng biển gần đó."
+      },
+      "30": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "officials decided it was not cost-effective"
+          }
+        ],
+        "explanation": "Dự án bị dừng vì bị đánh giá không hiệu quả kinh tế, dù sau đó phát hiện tính toán sai."
+      },
+      "31": {
+        "accepted": [
+          "barrage"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "building a barrage across the river mouth"
+          }
+        ],
+        "explanation": "Công trình là đập chắn barrage."
+      },
+      "32": {
+        "accepted": [
+          "mouth",
+          "river mouth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "across the river mouth"
+          }
+        ],
+        "explanation": "Đập đặt tại cửa sông."
+      },
+      "33": {
+        "accepted": [
+          "high tide"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "trap a head of water at high tide"
+          }
+        ],
+        "explanation": "Giữ nước lúc thủy triều lên cao."
+      },
+      "34": {
+        "accepted": [
+          "turbines"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "letting it escape through turbines"
+          }
+        ],
+        "explanation": "Nước đi qua turbine để vận hành máy phát."
+      },
+      "35": {
+        "accepted": [
+          "fish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "They prevent fish migration"
+          }
+        ],
+        "explanation": "Đập ngăn cá di cư."
+      },
+      "36": {
+        "accepted": [
+          "habitats",
+          "sensitive habitats"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "ruin sensitive habitats"
+          }
+        ],
+        "explanation": "Sinh cảnh giữa mức triều cao và thấp bị phá hủy."
+      },
+      "37": {
+        "accepted": [
+          "waste"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "main outlets for human waste"
+          }
+        ],
+        "explanation": "Chất thải con người có thể bị giữ trong cửa sông."
+      },
+      "38": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "capture much larger volumes of energy than wind turbines"
+          }
+        ],
+        "explanation": "Nước đặc hơn không khí nên turbine biển thu được nhiều năng lượng hơn ở tốc độ dòng tương đương."
+      },
+      "39": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "present minimal intrusion on the view"
+          }
+        ],
+        "explanation": "Ít ảnh hưởng cảnh quan giúp turbine biển dễ được chấp nhận hơn turbine gió."
+      },
+      "40": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "it just needs a big government decision"
+          }
+        ],
+        "explanation": "Elliott cho rằng tài nguyên và công nghệ đã sẵn có, còn cần quyết định ủng hộ từ chính phủ."
+      }
+    },
+    "lessonSha256": "ddf1e1bd8881047e1ed9d9e19d65245e186b57c173b5c017829ce00e9cc21a97"
+  },
+  "p3-refraction": {
+    "lessonId": "p3-refraction",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "I"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "holding an opinion which went against the beliefs of the day was dangerous"
+          }
+        ],
+        "explanation": "I nêu nguy hiểm chính trị và tôn giáo khi công bố quan điểm trái đương thời."
+      },
+      "28": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "excused himself on the grounds of ill health"
+          }
+        ],
+        "explanation": "G kể ông viện sức khỏe yếu để không tiết lộ nghiên cứu theo yêu cầu Kepler."
+      },
+      "29": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a simple technique for observing refraction"
+          }
+        ],
+        "explanation": "F mô tả phương pháp dùng kính, giấy và đinh ghim để đo khúc xạ."
+      },
+      "30": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "derived fundamental theorems in cartography, trigonometry and algebra"
+          }
+        ],
+        "explanation": "C liệt kê các thành tựu khác: toán học, kính thiên văn, Mặt Trăng, vết đen và sao chổi."
+      },
+      "31": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Like today's scientists"
+          }
+        ],
+        "explanation": "F so sánh việc lặp lại kiểm chứng với nhà khoa học hiện đại."
+      },
+      "32": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "underpinned the design of all things optical"
+          }
+        ],
+        "explanation": "A nói vai trò của khúc xạ với thiết kế kính thiên văn, máy ảnh và kính hiển vi."
+      },
+      "33": {
+        "accepted": [
+          "optical"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "all things optical: telescopes, cameras, microscopes"
+          }
+        ],
+        "explanation": "Định luật làm nền tảng cho thiết bị quang học."
+      },
+      "34": {
+        "accepted": [
+          "Snell",
+          "Willebrord Snell"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the Dutch astronomer Willebrord Snell"
+          }
+        ],
+        "explanation": "Định luật được đặt theo Snell dù Harriot tìm ra trước 19 năm."
+      },
+      "35": {
+        "accepted": [
+          "land"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "investigate the land and the native people's language"
+          }
+        ],
+        "explanation": "Nhiệm vụ nghiên cứu vùng đất và ngôn ngữ bản địa."
+      },
+      "36": {
+        "accepted": [
+          "language"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the native people's language"
+          }
+        ],
+        "explanation": "Ngôn ngữ là đối tượng nghiên cứu thứ hai trong câu."
+      },
+      "37": {
+        "accepted": [
+          "tobacco"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "he mentions tobacco, which later made Virginia wealthy"
+          }
+        ],
+        "explanation": "Ông nhắc thuốc lá, thứ sau đó đem lại thịnh vượng Virginia."
+      },
+      "38": {
+        "accepted": [
+          "simple"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a simple technique"
+          }
+        ],
+        "explanation": "Phát triển phương pháp đơn giản để quan sát khúc xạ."
+      },
+      "39": {
+        "accepted": [
+          "associates"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "verified repeatedly by various associates"
+          }
+        ],
+        "explanation": "Đồng nghiệp cộng sự kiểm chứng lặp lại kết quả."
+      },
+      "40": {
+        "accepted": [
+          "Descartes",
+          "René Descartes",
+          "Rene Descartes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "whose solution was published in 1637 by René Descartes"
+          }
+        ],
+        "explanation": "Kết quả về cầu vồng của Harriot có trước lời giải Descartes công bố."
+      }
+    },
+    "lessonSha256": "40924ccdd149a746203b16884bb1430b1e1a8b7c3a8c9ccdb3f3a7b352c32464"
+  },
   "p1-a-watchful-eye-on-bridges": {
     "lessonId": "p1-a-watchful-eye-on-bridges",
     "reviewed": true,
@@ -4232,5 +5099,1665 @@
       }
     },
     "lessonSha256": "3e50475661848c6453d149679e7a83909a98ca09348b710e983dc9e94c9f45c8"
+  },
+  "p1-a-brief-history-of-fashion-retail": {
+    "lessonId": "p1-a-brief-history-of-fashion-retail",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "During the 17th century, the English and Dutch East India Companies"
+          }
+        ],
+        "explanation": "Không nêu đa số người châu Âu mặc len vào thế kỷ 17."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "given to cooks, cleaning maids and other domestic help, instead of their wages"
+          }
+        ],
+        "explanation": "Vải và quần áo được dùng thay tiền lương cho người giúp việc."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "eventually they were turned into paper"
+          }
+        ],
+        "explanation": "Vải cũ đã mòn cuối cùng được tái chế thành giấy."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "designed to encourage passersby to enter the shop"
+          }
+        ],
+        "explanation": "Trưng bày qua cửa kính nhằm thu hút người đi đường vào cửa hàng."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "it had been impossible for middle-and upper-class women to go shopping alone"
+          }
+        ],
+        "explanation": "Phụ nữ trung lưu và thượng lưu không thể đi mua sắm một mình thời đó."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "some stores opened branches in other towns or in the suburbs"
+          }
+        ],
+        "explanation": "Có chi nhánh ở ngoại ô và khu nghỉ dưỡng; không phải tất cả ở trung tâm thành phố."
+      },
+      "7": {
+        "accepted": [
+          "restaurant"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "providing a restaurant on one of its floors"
+          }
+        ],
+        "explanation": "Nhà hàng tạo yếu tố giao lưu xã hội trong mua sắm."
+      },
+      "8": {
+        "accepted": [
+          "prices"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "his set prices were clearly shown on all goods"
+          }
+        ],
+        "explanation": "Giá hàng được ấn định và ghi rõ."
+      },
+      "9": {
+        "accepted": [
+          "exchange"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "exchange the item for something else"
+          }
+        ],
+        "explanation": "Khách có thể trả lại hoặc đổi món hàng."
+      },
+      "10": {
+        "accepted": [
+          "routes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "mapped out strategically designed routes around the shop floors"
+          }
+        ],
+        "explanation": "Các tuyến đi được thiết kế để khách khám phá cửa hàng."
+      },
+      "11": {
+        "accepted": [
+          "entertainment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the entertainment provided at no cost"
+          }
+        ],
+        "explanation": "Giải trí được cung cấp miễn phí."
+      },
+      "12": {
+        "accepted": [
+          "furniture"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "stocked a wide range of furniture from Asia"
+          }
+        ],
+        "explanation": "Liberty khác biệt nhờ đồ nội thất nhập từ châu Á."
+      },
+      "13": {
+        "accepted": [
+          "catalogues"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "eye-catching catalogues tempted Americans"
+          }
+        ],
+        "explanation": "Danh mục quảng cáo bắt mắt khiến dịch vụ đặt hàng nổi tiếng."
+      }
+    },
+    "lessonSha256": "60d8850dccf9425a42c21864cef4e401e2dc0e02702bc787a1f9e65530ec2b00"
+  },
+  "p1-a-gem-from-the-sea": {
+    "lessonId": "p1-a-gem-from-the-sea",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the irritant may be rejected"
+          }
+        ],
+        "explanation": "Đoạn E liệt kê bị đào thải, biến dạng, bệnh và chết khi nuôi ngọc."
+      },
+      "2": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Size, on the other hand, has to do with the age of the oyster"
+          }
+        ],
+        "explanation": "Đoạn G nêu tuổi con hàu và nơi nuôi ảnh hưởng kích thước."
+      },
+      "3": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Roman women wore pearls to bed"
+          }
+        ],
+        "explanation": "Đoạn A kể tập tục La Mã và cách dùng ngọc trong y học Ba Tư cổ."
+      },
+      "4": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Layer upon layer of this coating is deposited on the irritant"
+          }
+        ],
+        "explanation": "Đoạn B mô tả quá trình tạo ngọc tự nhiên bằng nhiều lớp dịch phủ."
+      },
+      "5": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "In ancient Persia, pearls were ground into powders"
+          }
+        ],
+        "explanation": "Địa danh G là Persia, nơi ngọc được nghiền làm thuốc."
+      },
+      "6": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "unique mixture of sweet and salt water in the region"
+          }
+        ],
+        "explanation": "Bahrain từng có ngọc tự nhiên tốt nhờ môi trường pha nước ngọt và mặn."
+      },
+      "7": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "The largest stock of natural pearls today probably resides in India"
+          }
+        ],
+        "explanation": "Ấn Độ hiện có lượng ngọc tự nhiên lớn nhất theo bài."
+      },
+      "8": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "The South Sea pearls of Australia, Myanmar and Indonesia"
+          }
+        ],
+        "explanation": "Ngọc Australia thuộc nhóm South Sea đắt hơn Akoya Nhật Bản."
+      },
+      "9": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Akoya pearls from Japan"
+          }
+        ],
+        "explanation": "Nhật Bản là nhóm so sánh giá thấp hơn South Sea."
+      },
+      "10": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The island of Mallorca is known for its imitation pearl industry"
+          }
+        ],
+        "explanation": "Mallorca sản xuất ngọc giả, lựa chọn rẻ hơn."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The resulting core is much larger than in a natural pearl"
+          }
+        ],
+        "explanation": "Nhân ngọc nuôi lớn hơn nhân ngọc tự nhiên."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "In most cases, a glass bead is dipped into a solution made from fish scales"
+          }
+        ],
+        "explanation": "Không so sánh mức giá ngọc giả với ngọc thật."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "they tend to be less lustrous"
+          }
+        ],
+        "explanation": "South Sea kém bóng hơn Akoya Nhật; do đó ngọc Nhật có ánh sâu hơn."
+      }
+    },
+    "lessonSha256": "9da4070ef55ac93a96029bcdb448861ede8484630f05c94d7fc42523e8b3ef97"
+  },
+  "p1-a-much-travelled-vegetable": {
+    "lessonId": "p1-a-much-travelled-vegetable",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "cultivated by the inhabitants of the continent by 3,000 BCE"
+          }
+        ],
+        "explanation": "Dân Nam Mỹ đã trồng từ 3000 TCN, trước nền văn minh Inca."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the plant grows in even the poorest soil"
+          }
+        ],
+        "explanation": "Khoai tây có thể mọc trong đất rất nghèo, trái phát biểu khó trồng vì đất nghèo."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "When needed for sustenance during lean periods"
+          }
+        ],
+        "explanation": "Có dùng khi thiếu ăn nhưng không nói công nhân nông nghiệp là nhóm ăn chủ yếu."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "potatoes had healing properties"
+          }
+        ],
+        "explanation": "Người Inca dùng khoai tây cho gãy xương, đau đầu và vấn đề da."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Gradually, the Spanish realised"
+          }
+        ],
+        "explanation": "Ban đầu không ấn tượng; dần dần mới nhận ra lợi ích."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "in most areas, they did not grow well and were not popular"
+          }
+        ],
+        "explanation": "Ban đầu ở Tây Ban Nha khoai không phát triển tốt tại đa số nơi."
+      },
+      "7": {
+        "accepted": [
+          "temperature"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Radical swings in temperature"
+          }
+        ],
+        "explanation": "Nơi trồng có nhiệt độ thay đổi mạnh trong một ngày."
+      },
+      "8": {
+        "accepted": [
+          "canals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "A network of canals efficiently distributed water"
+          }
+        ],
+        "explanation": "Nước được đưa từ trên núi qua mạng kênh."
+      },
+      "9": {
+        "accepted": [
+          "sailors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "perfect food for sailors on ships on their way back to Europe"
+          }
+        ],
+        "explanation": "Khoai làm thức ăn cho thủy thủ trở về châu Âu."
+      },
+      "10": {
+        "accepted": [
+          "scurvy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "they stopped people getting scurvy"
+          }
+        ],
+        "explanation": "Khoai giúp ngừa bệnh scurvy trên chuyến biển dài."
+      },
+      "11": {
+        "accepted": [
+          "Italy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Spanish ships carried the vegetable to Italy in 1560"
+          }
+        ],
+        "explanation": "Sau Tây Ban Nha, khoai được đưa đến Ý trước."
+      },
+      "12": {
+        "accepted": [
+          "Irish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Irish immigrants introduced the potato to New Hampshire"
+          }
+        ],
+        "explanation": "Người nhập cư Ireland mang khoai sang Bắc Mỹ năm 1719."
+      },
+      "13": {
+        "accepted": [
+          "astronauts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "growing food for astronauts on long space voyages"
+          }
+        ],
+        "explanation": "Mục tiêu nghiên cứu là trồng thực phẩm nuôi phi hành gia."
+      }
+    },
+    "lessonSha256": "79bb813f04b9e8bfdfffb2df3c90844d1bd4365194551b1ea915c14a88caaae1"
+  },
+  "p1-a-survivor-s-story": {
+    "lessonId": "p1-a-survivor-s-story",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "European settlers arrived in the middle of the 19th century"
+          }
+        ],
+        "explanation": "Không nêu người châu Âu thực hiện nghiên cứu chi tiết về morepork."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the laughing owl turned the tables and adapted its diet to include the rodent"
+          }
+        ],
+        "explanation": "Laughing owl ăn được chuột Polynesian; không chịu tác hại như các chim khác."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "it is the smaller owl, the morepork"
+          }
+        ],
+        "explanation": "Morepork được nói rõ là loài nhỏ hơn laughing owl."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "eggs and chicks will also be at risk from rats"
+          }
+        ],
+        "explanation": "Chuột đe dọa trứng và chim non morepork."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "ensure the preservation of New Zealand's only native owl"
+          }
+        ],
+        "explanation": "Cơ quan bảo tồn muốn gìn giữ loài và giúp sống tốt, không hạn chế quần thể."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "it calls toother moreporks and claims territory"
+          }
+        ],
+        "explanation": "Nói tiếng gọi liên lạc và đánh dấu lãnh thổ; không nói loài chim khác bỏ chạy vì tiếng gọi."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the lower-pitched and more common 'ruru' call heralded good news"
+          }
+        ],
+        "explanation": "Tiếng trầm báo tin tốt, trái với liên tưởng tiêu cực."
+      },
+      "8": {
+        "accepted": [
+          "29 centimeters",
+          "29 centimetres",
+          "29 cm",
+          "29cm"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "29 centimeters long from head to tail"
+          }
+        ],
+        "explanation": "Chiều dài từ đầu đến đuôi khoảng 29 cm; ghi kèm đơn vị vì đề không cho sẵn."
+      },
+      "9": {
+        "accepted": [
+          "rocks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "cavities among rocks and roots"
+          }
+        ],
+        "explanation": "Làm tổ trong hốc giữa đá và rễ."
+      },
+      "10": {
+        "accepted": [
+          "bill"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "carries away in its bill"
+          }
+        ],
+        "explanation": "Vận chuyển con mồi bằng mỏ, còn vuốt dùng bắt hoặc làm choáng."
+      },
+      "11": {
+        "accepted": [
+          "day"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "In the day, these small birds sometimes mob drowsy moreporks"
+          }
+        ],
+        "explanation": "Chim khác đuổi morepork khỏi nơi ngủ vào ban ngày."
+      },
+      "12": {
+        "accepted": [
+          "plovers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "establish a population of plovers on Motuora island"
+          }
+        ],
+        "explanation": "Morepork ăn hoặc đuổi plovers được đưa đến đảo."
+      },
+      "13": {
+        "accepted": [
+          "poison",
+          "pesticides"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "consuming prey that has ingested poison"
+          }
+        ],
+        "explanation": "Có thể nhiễm chất độc gián tiếp qua con mồi; đoạn xác định thuốc trừ sâu là mối đe dọa này."
+      }
+    },
+    "lessonSha256": "30203e080b29f3d32924b8b37dbb4f7758df74430482f2f3bc99e368e427f243"
+  },
+  "p1-advertising-needs-attention": {
+    "lessonId": "p1-advertising-needs-attention",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "shoppers are drawn to this bottle over the others"
+          }
+        ],
+        "explanation": "Thiết kế chai thu hút người mua, không phải kém hấp dẫn."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "surfing the internet for information, or just watching television"
+          }
+        ],
+        "explanation": "Không so sánh lượng quảng cáo qua TV và internet."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Nine out of 10 new products meet an early death"
+          }
+        ],
+        "explanation": "Rayner quy thất bại sản phẩm cho quảng cáo truyền thống không còn hiệu quả."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "conventional advertising has ceased to work"
+          }
+        ],
+        "explanation": "Nghiên cứu cho thấy quảng cáo truyền thống hầu như không để lại ấn tượng."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "deliver your message in a straightforward manner"
+          }
+        ],
+        "explanation": "Raymond khuyên nội dung đơn giản, chậm và ngắn gọn."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "regardless of its emotional value"
+          }
+        ],
+        "explanation": "Không so sánh nhãn hiệu quen thuộc và không quen thuộc."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "This contradicts the more-exposure-the-better rule"
+          }
+        ],
+        "explanation": "Raymond phản đối nguyên tắc càng tăng tiếp xúc càng tốt."
+      },
+      "8": {
+        "accepted": [
+          "regular commuters",
+          "commuters"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "in particular regular commuters"
+          }
+        ],
+        "explanation": "Nhóm trọng tâm là người thường xuyên đi làm qua lại."
+      },
+      "9": {
+        "accepted": [
+          "visual processing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "research in visual processing into consumer psychology"
+          }
+        ],
+        "explanation": "Trước tâm lý người tiêu dùng, Raymond nghiên cứu xử lý thị giác."
+      },
+      "10": {
+        "accepted": [
+          "secondary images",
+          "the secondary images"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "fail to pick up on the secondary images"
+          }
+        ],
+        "explanation": "Người xem quảng cáo tạp chí thường bỏ qua hình ảnh phụ."
+      },
+      "11": {
+        "accepted": [
+          "emotional value"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "interested in the emotional value of their brand"
+          }
+        ],
+        "explanation": "Công ty muốn thương hiệu có giá trị cảm xúc làm người dùng thấy tốt."
+      },
+      "12": {
+        "accepted": [
+          "intrusive product placement",
+          "product placement"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "watching a film with intrusive product placement"
+          }
+        ],
+        "explanation": "Việc chèn sản phẩm gây xao nhãng trong phim khiến người xem không thích thương hiệu."
+      },
+      "13": {
+        "accepted": [
+          "holiday season",
+          "the holiday season"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the holiday season when advertisers are madly competing"
+          }
+        ],
+        "explanation": "Mùa nghỉ lễ là lúc quảng cáo cạnh tranh giành sự chú ý quyết liệt."
+      }
+    },
+    "lessonSha256": "dca22aaaa03a17b18d1826a0dd66de1d28f5b4f3bdded3a7e711e8e2c93884a7"
+  },
+  "p1-andrew-carnegie-industrialist-and-philanthropist": {
+    "lessonId": "p1-andrew-carnegie-industrialist-and-philanthropist",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "father"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Andrew Carnegie also worked in the cotton factory"
+          }
+        ],
+        "explanation": "Cha làm xưởng bông và Andrew cũng làm cùng xưởng."
+      },
+      "2": {
+        "accepted": [
+          "music"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "an avid reader, a theatergoer, and a lover of music"
+          }
+        ],
+        "explanation": "Ông tự học qua sách, sân khấu và âm nhạc."
+      },
+      "3": {
+        "accepted": [
+          "secretary"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "made the eighteen-year-old his secretary"
+          }
+        ],
+        "explanation": "Scott tuyển Carnegie làm thư ký."
+      },
+      "4": {
+        "accepted": [
+          "steel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "steel was eventually going to replace iron"
+          }
+        ],
+        "explanation": "Nhận ra nhu cầu thép tăng vì thép sẽ thay sắt trong các ứng dụng kỹ thuật."
+      },
+      "5": {
+        "accepted": [
+          "prices"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "continued building by cutting prices"
+          }
+        ],
+        "explanation": "Giảm giá là một cách ông phát triển doanh nghiệp."
+      },
+      "6": {
+        "accepted": [
+          "banks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "when necessary from banks"
+          }
+        ],
+        "explanation": "Ngoài lợi nhuận, khi cần ông lấy vốn từ ngân hàng."
+      },
+      "7": {
+        "accepted": [
+          "projects"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Carnegie planned new projects"
+          }
+        ],
+        "explanation": "Carnegie lập dự án mới và cải tiến nhà máy."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the advantages of life in the United States over the unequal societies"
+          }
+        ],
+        "explanation": "Ông đánh giá Mỹ có lợi thế hơn xã hội bất bình đẳng ở châu Âu, đặc biệt về tiếp cận giáo dục."
+      },
+      "9": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "cutting down the number of workers that were needed"
+          }
+        ],
+        "explanation": "Tự động hóa làm giảm số công nhân cần thiết tại Homestead."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "workers had a right to join unions"
+          }
+        ],
+        "explanation": "Ông tin công nhân có quyền tham gia công đoàn."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Carnegie was criticized for his lack of action"
+          }
+        ],
+        "explanation": "Nói Carnegie bị chỉ trích, không nói ông đổ lỗi cho Frick."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "He refused to enter into any agreements with other companies"
+          }
+        ],
+        "explanation": "Ông từ chối thỏa thuận và quyết cạnh tranh, thay vì thương lượng hợp tác với đối thủ."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "public libraries all over the English-speaking world"
+          }
+        ],
+        "explanation": "Thư viện trên khắp thế giới nói tiếng Anh, không chỉ Mỹ."
+      }
+    },
+    "lessonSha256": "b236396e345989486de1780f6026a0304cf954eb1a39254f931edf49fe5f4fa9"
+  },
+  "p1-australian-artist-margaret-preston": {
+    "lessonId": "p1-australian-artist-margaret-preston",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "subjects of the natural world were depicted in a true to life manner"
+          }
+        ],
+        "explanation": "Truyền thống thẩm mỹ Đức thể hiện thiên nhiên chân thực."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "her studies in Paris, France"
+          }
+        ],
+        "explanation": "Có học ở Paris, không nêu trường nào hoặc độ nổi tiếng của trường."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "on board a boat returning to Australia that she met"
+          }
+        ],
+        "explanation": "Gặp chồng trên tàu trở về Úc, không phải tại nơi dạy đan giỏ."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "with her friend Thea Proctor"
+          }
+        ],
+        "explanation": "Chỉ nói triển lãm chung, không so sánh chủ đề tác phẩm của hai người."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "in comparison with earlier artworks, they were compact and busy"
+          }
+        ],
+        "explanation": "Tác phẩm cảng năm 1925 dày đặc và có hoa văn phức tạp hơn, không đơn giản hơn."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "less reliant on the use of bright colours"
+          }
+        ],
+        "explanation": "Tranh thời Berowra giảm phụ thuộc màu sáng."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "concentrate instead on flowers that were growing wild"
+          }
+        ],
+        "explanation": "Bà vẽ hoa mọc tự nhiên thay vì hoa cắm trong bình."
+      },
+      "8": {
+        "accepted": [
+          "symbols"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "symbols used by Aboriginal people"
+          }
+        ],
+        "explanation": "Bà đưa biểu tượng và màu sắc bản địa vào tranh."
+      },
+      "9": {
+        "accepted": [
+          "titles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "The artist's titles from this period frequently acknowledge her sources"
+          }
+        ],
+        "explanation": "Tên tác phẩm thường ghi nhận nguồn cảm hứng bản địa."
+      },
+      "10": {
+        "accepted": [
+          "stenciling",
+          "stencilling"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "the ancient technique known as stenciling"
+          }
+        ],
+        "explanation": "Kỹ thuật khuôn stencil được dùng cho tác phẩm triển lãm 1953; chấp nhận hai chính tả Anh/Mỹ."
+      },
+      "11": {
+        "accepted": [
+          "books"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "the first of her many books on the subject"
+          }
+        ],
+        "explanation": "Bà bắt đầu sưu tầm sách nghệ thuật Trung Quốc năm 1915."
+      },
+      "12": {
+        "accepted": [
+          "travel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "her love of painting, printmaking and travel continued"
+          }
+        ],
+        "explanation": "Vẫn yêu du lịch và nghệ thuật khi lớn tuổi."
+      },
+      "13": {
+        "accepted": [
+          "400"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "over 400 paintings and prints"
+          }
+        ],
+        "explanation": "Tổng tác phẩm vượt 400."
+      }
+    },
+    "lessonSha256": "0afb76e91af57f5c3b60a64dc67516a8db06fbf1151241a7616dd52081eac078"
+  },
+  "p1-antonio-stradivari-violin-maker-supreme": {
+    "lessonId": "p1-antonio-stradivari-violin-maker-supreme",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "successfully applied his inspired vision and enormous attention to detail to the artistic and commercial challenges"
+          }
+        ],
+        "explanation": "Đáp ứng cả thách thức nghệ thuật lẫn kinh doanh của xưởng quốc tế."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the demands of the musical elite in Europe"
+          }
+        ],
+        "explanation": "Không nêu phần lớn khách hàng muốn cùng một mẫu đàn."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Somewhat lower production levels from the Stradivari workshop after 1727"
+          }
+        ],
+        "explanation": "Sản lượng giảm sau 1727 đến cuối đời."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a gap in Cremona that was filled in the main by"
+          }
+        ],
+        "explanation": "Guarneri lấp khoảng trống sản xuất, không nói sao chép ý tưởng Stradivari."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "exceeded that of all the other instrument makers in Cremona combined"
+          }
+        ],
+        "explanation": "Xưởng Stradivari thường vượt tổng các xưởng còn lại, trái phát biểu."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "mainly produced instruments based on Stradivari’s most celebrated models"
+          }
+        ],
+        "explanation": "Giai đoạn 1709–1717 tập trung các mẫu nổi tiếng nhất."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "would have encountered the earlier violin forms of the Amati and Rugeri families"
+          }
+        ],
+        "explanation": "Có thể dự kiến ông đã biết các mẫu Amati và Rugeri tại Cremona."
+      },
+      "8": {
+        "accepted": [
+          "improvements"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "experimented with improvements to the forms"
+          }
+        ],
+        "explanation": "Thử cải tiến các mẫu ban đầu trong thập niên 1690."
+      },
+      "9": {
+        "accepted": [
+          "antiques"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "already considered antiques in Stradivari’s day"
+          }
+        ],
+        "explanation": "Đàn Brescia đã được xem là đồ cổ thời ông."
+      },
+      "10": {
+        "accepted": [
+          "deeper"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the deeper sound produced by the Brescian models"
+          }
+        ],
+        "explanation": "Đàn Brescia cho âm trầm sâu hơn."
+      },
+      "11": {
+        "accepted": [
+          "1699"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "he discarded the Long Pattern model in 1699"
+          }
+        ],
+        "explanation": "Dừng mẫu Long Pattern năm 1699."
+      },
+      "12": {
+        "accepted": [
+          "solo"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "presence of the solo violin in a modern, 3000-seat concert hall"
+          }
+        ],
+        "explanation": "Đàn đủ sức mạnh để biểu diễn độc tấu trong nhà hát lớn."
+      },
+      "13": {
+        "accepted": [
+          "reputation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "the unchallenged reputation that Antonio Stradivari enjoys"
+          }
+        ],
+        "explanation": "Danh tiếng của ông chưa nghệ nhân nào sánh bằng."
+      }
+    },
+    "lessonSha256": "247973a7b7a0bc2b31cb1a8d0c7496c2825026fabdab02f8d237c355fea10d9f"
+  },
+  "p2-why-was-he-so-smart": {
+    "lessonId": "p2-why-was-he-so-smart",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "x"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the scientific discoveries he made transformed the way we see the universe"
+          }
+        ],
+        "explanation": "A giới thiệu thành tựu và sự quan tâm nghiên cứu não Einstein."
+      },
+      "15": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "distributed some of the slides to at least 18 researchers"
+          }
+        ],
+        "explanation": "B mô tả bảo quản, chia mẫu và phân phát cho nhà nghiên cứu."
+      },
+      "16": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Early studies found that"
+          }
+        ],
+        "explanation": "C tổng hợp phát hiện từ những nghiên cứu ban đầu."
+      },
+      "17": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "14 photographs that had never been published before"
+          }
+        ],
+        "explanation": "D kể việc nhóm Falk được tiếp cận ảnh chưa công bố."
+      },
+      "18": {
+        "accepted": [
+          "ix"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "compared Einstein's brain with those of 85 other people"
+          }
+        ],
+        "explanation": "E so sánh với phân tích não đã có và chỉ ra khác biệt."
+      },
+      "19": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "it raises many unanswered questions"
+          }
+        ],
+        "explanation": "F nêu các câu hỏi nghiên cứu toàn diện chưa giải đáp được."
+      },
+      "20": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Einstein programmed his own brain"
+          }
+        ],
+        "explanation": "G nhấn mạnh sự phát triển do môi trường và đam mê tự rèn luyện."
+      },
+      "21": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "We still don't know what makes a genius"
+          }
+        ],
+        "explanation": "Galaburda nói chưa biết điều gì tạo thiên tài."
+      },
+      "22": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "some regions on the left side of the brain"
+          }
+        ],
+        "explanation": "Nhóm Falk thấy một số vùng bên trái lớn hơn thường lệ."
+      },
+      "23": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Harvey also noticed that Einstein had no parietal operculum"
+          }
+        ],
+        "explanation": "Harvey nhận thấy thiếu cấu trúc parietal operculum."
+      },
+      "24": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "A region in Einstein's brain that is generally related to creative pursuits such as music"
+          }
+        ],
+        "explanation": "Falk mô tả vùng liên quan âm nhạc phát triển rất lớn."
+      },
+      "25": {
+        "accepted": [
+          "resin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a resin-like substance known as celloidin"
+          }
+        ],
+        "explanation": "Mẫu được nhúng celloidin giống nhựa resin."
+      },
+      "26": {
+        "accepted": [
+          "planning",
+          "attention"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "related to planning, attention and perseverance"
+          }
+        ],
+        "explanation": "Vỏ não trước trán liên quan cả lập kế hoạch, chú ý và kiên trì; planning hoặc attention đều phù hợp ô trước determination."
+      }
+    },
+    "lessonSha256": "cd285d17da3eea252159a1b5da1c56309f06c4b1339db95ec820bc1019486752"
+  },
+  "p2-why-we-cant-trust-maps": {
+    "lessonId": "p2-why-we-cant-trust-maps",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Jonathan Swift once wrote a poem"
+          }
+        ],
+        "explanation": "A dùng nhận xét của nhà văn Swift để chỉ hạn chế bản đồ."
+      },
+      "15": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Today it may seem as if mapmaking is completely different"
+          }
+        ],
+        "explanation": "B mô tả ấn tượng rằng bản đồ hiện đại khách quan, khoa học hơn."
+      },
+      "16": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "drawing an accurate map of the world is basically impossible"
+          }
+        ],
+        "explanation": "C giải thích khó khăn cố hữu khi chuyển hình cầu thành mặt phẳng."
+      },
+      "17": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the sizes of countries and continents become distorted"
+          }
+        ],
+        "explanation": "D nêu tỷ lệ sai lệch trong phép chiếu Mercator."
+      },
+      "18": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "driven by the interests of multinational organisations’ profitability"
+          }
+        ],
+        "explanation": "E nói lợi nhuận thương mại chi phối bản đồ trực tuyến."
+      },
+      "19": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "What if the online data and programming ability was put in the hands"
+          }
+        ],
+        "explanation": "F giả định người làm nông hoặc chăn dê tự tạo bản đồ sẽ ưu tiên thông tin khác."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "some townships in developing countries are just blank spaces"
+          }
+        ],
+        "explanation": "Nước phát triển có nhiều chi tiết hơn các thị trấn tại nước đang phát triển; hai lựa chọn đúng B và E, không xét thứ tự."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The revenue generated from selling publicity"
+          }
+        ],
+        "explanation": "Nhà sản xuất bản đồ kiếm tiền từ quảng cáo; cùng B tạo bộ hai đáp án."
+      },
+      "22": {
+        "accepted": [
+          "spherical"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The world is spherical, a map is flat"
+          }
+        ],
+        "explanation": "Thế giới hình cầu khó biểu diễn chính xác trên mặt phẳng."
+      },
+      "23": {
+        "accepted": [
+          "rectangle"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a neat rectangle"
+          }
+        ],
+        "explanation": "Bản đồ thông thường có hình chữ nhật."
+      },
+      "24": {
+        "accepted": [
+          "navigators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "its usefulness to navigators"
+          }
+        ],
+        "explanation": "Các đường hướng la bàn cố định có ích cho người điều hướng."
+      },
+      "25": {
+        "accepted": [
+          "distorted"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the sizes of countries and continents become distorted"
+          }
+        ],
+        "explanation": "Giữ đặc điểm đường thẳng làm bản đồ sai lệch tỷ lệ."
+      },
+      "26": {
+        "accepted": [
+          "Greenland"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Greenland, meanwhile, is one-fourteenth the size of Africa"
+          }
+        ],
+        "explanation": "Greenland nhỏ hơn nhiều so với châu Phi dù bản đồ thể hiện gần bằng."
+      }
+    },
+    "lessonSha256": "61ba0b57f9e905387488dbef64f503e2c4beb30b562f809dbade584046e56d76"
   }
 }

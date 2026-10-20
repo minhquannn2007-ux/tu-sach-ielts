@@ -1,0 +1,835 @@
+{
+  "p1-a-brief-history-of-fashion-retail": {
+    "lessonId": "p1-a-brief-history-of-fashion-retail",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "During the 17th century, the English and Dutch East India Companies"
+          }
+        ],
+        "explanation": "Không nêu đa số người châu Âu mặc len vào thế kỷ 17."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "given to cooks, cleaning maids and other domestic help, instead of their wages"
+          }
+        ],
+        "explanation": "Vải và quần áo được dùng thay tiền lương cho người giúp việc."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "eventually they were turned into paper"
+          }
+        ],
+        "explanation": "Vải cũ đã mòn cuối cùng được tái chế thành giấy."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "designed to encourage passersby to enter the shop"
+          }
+        ],
+        "explanation": "Trưng bày qua cửa kính nhằm thu hút người đi đường vào cửa hàng."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "it had been impossible for middle-and upper-class women to go shopping alone"
+          }
+        ],
+        "explanation": "Phụ nữ trung lưu và thượng lưu không thể đi mua sắm một mình thời đó."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "some stores opened branches in other towns or in the suburbs"
+          }
+        ],
+        "explanation": "Có chi nhánh ở ngoại ô và khu nghỉ dưỡng; không phải tất cả ở trung tâm thành phố."
+      },
+      "7": {
+        "accepted": [
+          "restaurant"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "providing a restaurant on one of its floors"
+          }
+        ],
+        "explanation": "Nhà hàng tạo yếu tố giao lưu xã hội trong mua sắm."
+      },
+      "8": {
+        "accepted": [
+          "prices"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "his set prices were clearly shown on all goods"
+          }
+        ],
+        "explanation": "Giá hàng được ấn định và ghi rõ."
+      },
+      "9": {
+        "accepted": [
+          "exchange"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "exchange the item for something else"
+          }
+        ],
+        "explanation": "Khách có thể trả lại hoặc đổi món hàng."
+      },
+      "10": {
+        "accepted": [
+          "routes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "mapped out strategically designed routes around the shop floors"
+          }
+        ],
+        "explanation": "Các tuyến đi được thiết kế để khách khám phá cửa hàng."
+      },
+      "11": {
+        "accepted": [
+          "entertainment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the entertainment provided at no cost"
+          }
+        ],
+        "explanation": "Giải trí được cung cấp miễn phí."
+      },
+      "12": {
+        "accepted": [
+          "furniture"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "stocked a wide range of furniture from Asia"
+          }
+        ],
+        "explanation": "Liberty khác biệt nhờ đồ nội thất nhập từ châu Á."
+      },
+      "13": {
+        "accepted": [
+          "catalogues"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "eye-catching catalogues tempted Americans"
+          }
+        ],
+        "explanation": "Danh mục quảng cáo bắt mắt khiến dịch vụ đặt hàng nổi tiếng."
+      }
+    },
+    "lessonSha256": "60d8850dccf9425a42c21864cef4e401e2dc0e02702bc787a1f9e65530ec2b00"
+  },
+  "p1-a-gem-from-the-sea": {
+    "lessonId": "p1-a-gem-from-the-sea",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the irritant may be rejected"
+          }
+        ],
+        "explanation": "Đoạn E liệt kê bị đào thải, biến dạng, bệnh và chết khi nuôi ngọc."
+      },
+      "2": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Size, on the other hand, has to do with the age of the oyster"
+          }
+        ],
+        "explanation": "Đoạn G nêu tuổi con hàu và nơi nuôi ảnh hưởng kích thước."
+      },
+      "3": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Roman women wore pearls to bed"
+          }
+        ],
+        "explanation": "Đoạn A kể tập tục La Mã và cách dùng ngọc trong y học Ba Tư cổ."
+      },
+      "4": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Layer upon layer of this coating is deposited on the irritant"
+          }
+        ],
+        "explanation": "Đoạn B mô tả quá trình tạo ngọc tự nhiên bằng nhiều lớp dịch phủ."
+      },
+      "5": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "In ancient Persia, pearls were ground into powders"
+          }
+        ],
+        "explanation": "Địa danh G là Persia, nơi ngọc được nghiền làm thuốc."
+      },
+      "6": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "unique mixture of sweet and salt water in the region"
+          }
+        ],
+        "explanation": "Bahrain từng có ngọc tự nhiên tốt nhờ môi trường pha nước ngọt và mặn."
+      },
+      "7": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "The largest stock of natural pearls today probably resides in India"
+          }
+        ],
+        "explanation": "Ấn Độ hiện có lượng ngọc tự nhiên lớn nhất theo bài."
+      },
+      "8": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "The South Sea pearls of Australia, Myanmar and Indonesia"
+          }
+        ],
+        "explanation": "Ngọc Australia thuộc nhóm South Sea đắt hơn Akoya Nhật Bản."
+      },
+      "9": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Akoya pearls from Japan"
+          }
+        ],
+        "explanation": "Nhật Bản là nhóm so sánh giá thấp hơn South Sea."
+      },
+      "10": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The island of Mallorca is known for its imitation pearl industry"
+          }
+        ],
+        "explanation": "Mallorca sản xuất ngọc giả, lựa chọn rẻ hơn."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The resulting core is much larger than in a natural pearl"
+          }
+        ],
+        "explanation": "Nhân ngọc nuôi lớn hơn nhân ngọc tự nhiên."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "In most cases, a glass bead is dipped into a solution made from fish scales"
+          }
+        ],
+        "explanation": "Không so sánh mức giá ngọc giả với ngọc thật."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "they tend to be less lustrous"
+          }
+        ],
+        "explanation": "South Sea kém bóng hơn Akoya Nhật; do đó ngọc Nhật có ánh sâu hơn."
+      }
+    },
+    "lessonSha256": "9da4070ef55ac93a96029bcdb448861ede8484630f05c94d7fc42523e8b3ef97"
+  },
+  "p1-a-much-travelled-vegetable": {
+    "lessonId": "p1-a-much-travelled-vegetable",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "cultivated by the inhabitants of the continent by 3,000 BCE"
+          }
+        ],
+        "explanation": "Dân Nam Mỹ đã trồng từ 3000 TCN, trước nền văn minh Inca."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the plant grows in even the poorest soil"
+          }
+        ],
+        "explanation": "Khoai tây có thể mọc trong đất rất nghèo, trái phát biểu khó trồng vì đất nghèo."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "When needed for sustenance during lean periods"
+          }
+        ],
+        "explanation": "Có dùng khi thiếu ăn nhưng không nói công nhân nông nghiệp là nhóm ăn chủ yếu."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "potatoes had healing properties"
+          }
+        ],
+        "explanation": "Người Inca dùng khoai tây cho gãy xương, đau đầu và vấn đề da."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Gradually, the Spanish realised"
+          }
+        ],
+        "explanation": "Ban đầu không ấn tượng; dần dần mới nhận ra lợi ích."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "in most areas, they did not grow well and were not popular"
+          }
+        ],
+        "explanation": "Ban đầu ở Tây Ban Nha khoai không phát triển tốt tại đa số nơi."
+      },
+      "7": {
+        "accepted": [
+          "temperature"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Radical swings in temperature"
+          }
+        ],
+        "explanation": "Nơi trồng có nhiệt độ thay đổi mạnh trong một ngày."
+      },
+      "8": {
+        "accepted": [
+          "canals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "A network of canals efficiently distributed water"
+          }
+        ],
+        "explanation": "Nước được đưa từ trên núi qua mạng kênh."
+      },
+      "9": {
+        "accepted": [
+          "sailors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "perfect food for sailors on ships on their way back to Europe"
+          }
+        ],
+        "explanation": "Khoai làm thức ăn cho thủy thủ trở về châu Âu."
+      },
+      "10": {
+        "accepted": [
+          "scurvy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "they stopped people getting scurvy"
+          }
+        ],
+        "explanation": "Khoai giúp ngừa bệnh scurvy trên chuyến biển dài."
+      },
+      "11": {
+        "accepted": [
+          "Italy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Spanish ships carried the vegetable to Italy in 1560"
+          }
+        ],
+        "explanation": "Sau Tây Ban Nha, khoai được đưa đến Ý trước."
+      },
+      "12": {
+        "accepted": [
+          "Irish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Irish immigrants introduced the potato to New Hampshire"
+          }
+        ],
+        "explanation": "Người nhập cư Ireland mang khoai sang Bắc Mỹ năm 1719."
+      },
+      "13": {
+        "accepted": [
+          "astronauts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "growing food for astronauts on long space voyages"
+          }
+        ],
+        "explanation": "Mục tiêu nghiên cứu là trồng thực phẩm nuôi phi hành gia."
+      }
+    },
+    "lessonSha256": "79bb813f04b9e8bfdfffb2df3c90844d1bd4365194551b1ea915c14a88caaae1"
+  },
+  "p1-a-survivor-s-story": {
+    "lessonId": "p1-a-survivor-s-story",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "European settlers arrived in the middle of the 19th century"
+          }
+        ],
+        "explanation": "Không nêu người châu Âu thực hiện nghiên cứu chi tiết về morepork."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the laughing owl turned the tables and adapted its diet to include the rodent"
+          }
+        ],
+        "explanation": "Laughing owl ăn được chuột Polynesian; không chịu tác hại như các chim khác."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "it is the smaller owl, the morepork"
+          }
+        ],
+        "explanation": "Morepork được nói rõ là loài nhỏ hơn laughing owl."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "eggs and chicks will also be at risk from rats"
+          }
+        ],
+        "explanation": "Chuột đe dọa trứng và chim non morepork."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "ensure the preservation of New Zealand's only native owl"
+          }
+        ],
+        "explanation": "Cơ quan bảo tồn muốn gìn giữ loài và giúp sống tốt, không hạn chế quần thể."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "it calls toother moreporks and claims territory"
+          }
+        ],
+        "explanation": "Nói tiếng gọi liên lạc và đánh dấu lãnh thổ; không nói loài chim khác bỏ chạy vì tiếng gọi."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the lower-pitched and more common 'ruru' call heralded good news"
+          }
+        ],
+        "explanation": "Tiếng trầm báo tin tốt, trái với liên tưởng tiêu cực."
+      },
+      "8": {
+        "accepted": [
+          "29 centimeters",
+          "29 centimetres",
+          "29 cm",
+          "29cm"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "29 centimeters long from head to tail"
+          }
+        ],
+        "explanation": "Chiều dài từ đầu đến đuôi khoảng 29 cm; ghi kèm đơn vị vì đề không cho sẵn."
+      },
+      "9": {
+        "accepted": [
+          "rocks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "cavities among rocks and roots"
+          }
+        ],
+        "explanation": "Làm tổ trong hốc giữa đá và rễ."
+      },
+      "10": {
+        "accepted": [
+          "bill"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "carries away in its bill"
+          }
+        ],
+        "explanation": "Vận chuyển con mồi bằng mỏ, còn vuốt dùng bắt hoặc làm choáng."
+      },
+      "11": {
+        "accepted": [
+          "day"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "In the day, these small birds sometimes mob drowsy moreporks"
+          }
+        ],
+        "explanation": "Chim khác đuổi morepork khỏi nơi ngủ vào ban ngày."
+      },
+      "12": {
+        "accepted": [
+          "plovers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "establish a population of plovers on Motuora island"
+          }
+        ],
+        "explanation": "Morepork ăn hoặc đuổi plovers được đưa đến đảo."
+      },
+      "13": {
+        "accepted": [
+          "poison",
+          "pesticides"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "consuming prey that has ingested poison"
+          }
+        ],
+        "explanation": "Có thể nhiễm chất độc gián tiếp qua con mồi; đoạn xác định thuốc trừ sâu là mối đe dọa này."
+      }
+    },
+    "lessonSha256": "30203e080b29f3d32924b8b37dbb4f7758df74430482f2f3bc99e368e427f243"
+  },
+  "p1-advertising-needs-attention": {
+    "lessonId": "p1-advertising-needs-attention",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "shoppers are drawn to this bottle over the others"
+          }
+        ],
+        "explanation": "Thiết kế chai thu hút người mua, không phải kém hấp dẫn."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "surfing the internet for information, or just watching television"
+          }
+        ],
+        "explanation": "Không so sánh lượng quảng cáo qua TV và internet."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Nine out of 10 new products meet an early death"
+          }
+        ],
+        "explanation": "Rayner quy thất bại sản phẩm cho quảng cáo truyền thống không còn hiệu quả."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "conventional advertising has ceased to work"
+          }
+        ],
+        "explanation": "Nghiên cứu cho thấy quảng cáo truyền thống hầu như không để lại ấn tượng."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "deliver your message in a straightforward manner"
+          }
+        ],
+        "explanation": "Raymond khuyên nội dung đơn giản, chậm và ngắn gọn."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "regardless of its emotional value"
+          }
+        ],
+        "explanation": "Không so sánh nhãn hiệu quen thuộc và không quen thuộc."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "This contradicts the more-exposure-the-better rule"
+          }
+        ],
+        "explanation": "Raymond phản đối nguyên tắc càng tăng tiếp xúc càng tốt."
+      },
+      "8": {
+        "accepted": [
+          "regular commuters",
+          "commuters"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "in particular regular commuters"
+          }
+        ],
+        "explanation": "Nhóm trọng tâm là người thường xuyên đi làm qua lại."
+      },
+      "9": {
+        "accepted": [
+          "visual processing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "research in visual processing into consumer psychology"
+          }
+        ],
+        "explanation": "Trước tâm lý người tiêu dùng, Raymond nghiên cứu xử lý thị giác."
+      },
+      "10": {
+        "accepted": [
+          "secondary images",
+          "the secondary images"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "fail to pick up on the secondary images"
+          }
+        ],
+        "explanation": "Người xem quảng cáo tạp chí thường bỏ qua hình ảnh phụ."
+      },
+      "11": {
+        "accepted": [
+          "emotional value"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "interested in the emotional value of their brand"
+          }
+        ],
+        "explanation": "Công ty muốn thương hiệu có giá trị cảm xúc làm người dùng thấy tốt."
+      },
+      "12": {
+        "accepted": [
+          "intrusive product placement",
+          "product placement"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "watching a film with intrusive product placement"
+          }
+        ],
+        "explanation": "Việc chèn sản phẩm gây xao nhãng trong phim khiến người xem không thích thương hiệu."
+      },
+      "13": {
+        "accepted": [
+          "holiday season",
+          "the holiday season"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the holiday season when advertisers are madly competing"
+          }
+        ],
+        "explanation": "Mùa nghỉ lễ là lúc quảng cáo cạnh tranh giành sự chú ý quyết liệt."
+      }
+    },
+    "lessonSha256": "dca22aaaa03a17b18d1826a0dd66de1d28f5b4f3bdded3a7e711e8e2c93884a7"
+  }
+}

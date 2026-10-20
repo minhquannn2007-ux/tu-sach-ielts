@@ -30,6 +30,44 @@
       "reason": "Published note reads “a {{8}} were often added, as well as coloured accents”. Singular article plus plural verb does not support an unambiguous grammatical answer; passage mentions intricate detail and handles. Do not silently fix the task or choose a speculative answer.",
       "needed": "Compare the original question image and restore the exact note wording with source evidence before approving the complete answer key.",
       "answerApproved": false
+    },
+    {
+      "lessonId": "p2-libraries",
+      "questions": [
+        23,
+        24
+      ],
+      "reason": "Q24 requires the named process “legal deposit” (two words), but the task permits ONE WORD ONLY. Q23 likewise points to “specialist publishers”, while the one-word limit can lose the intended distinction. Do not approve a shortened name or silently change instructions.",
+      "needed": "Compare the original question source and verify its word limit and exact gaps before approving grading.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p3-toscanini-s-pursuit-of-perfection",
+      "questions": [
+        34,
+        35
+      ],
+      "reason": "The summary bank supplies “best seats” and “local operas”, whereas the passage describes competing for prestigious positions and demanding encores of performances they enjoyed. The text does not establish that those repeated performances were local operas; the available options do not support a complete unambiguous key.",
+      "needed": "Compare the original summary and phrase bank, especially the entries for orchestra positions and performances.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-australian-rock",
+      "questions": [
+        7
+      ],
+      "reason": "The note reads “made {{7}} sketches”, but the published passage reads “He meticulous photographed, produced sketches”. This damaged sentence does not clearly establish an adjective describing the sketches.",
+      "needed": "Compare the original sentence and note; do not infer the missing modifier from malformed text.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-a-river-reveals-its-roman-past",
+      "questions": [
+        7
+      ],
+      "reason": "The note asks for the year in “summer and autumn of {{7}}”, supported by 2011, but the task says ONE WORD ONLY. The numerical answer and the stated word-only instruction need source verification.",
+      "needed": "Verify the original instruction permits a number, preserving the known answer 2011 rather than inventing a word replacement.",
+      "answerApproved": false
     }
   ]
 }

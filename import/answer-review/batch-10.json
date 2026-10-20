@@ -1,0 +1,332 @@
+{
+  "p2-newly-hatched-birds": {
+    "lessonId": "p2-newly-hatched-birds",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "on the verge of hatching will now slow down"
+          }
+        ],
+        "explanation": "Chim gần nở phát tiếng click chậm hơn, tối đa khoảng 60 lần mỗi giây."
+      },
+      "15": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "caught the attention of a sharp-eyed predator"
+          }
+        ],
+        "explanation": "Có nguy cơ kẻ săn mồi phát hiện tổ, không mô tả chim cút đánh trả."
+      },
+      "16": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a particularly long period"
+          }
+        ],
+        "explanation": "Thời gian ấp dài nhưng không so sánh là dài nhất trong mọi loài làm tổ dưới đất."
+      },
+      "17": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "within an hour or so of the first eggs hatching, are ready to move"
+          }
+        ],
+        "explanation": "Chim cút con có thể đi theo mẹ khoảng một giờ sau lúc bắt đầu nở."
+      },
+      "18": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "this will sustain them for a day or so"
+          }
+        ],
+        "explanation": "Lòng đỏ còn trong bụng nuôi chúng khoảng một ngày, không cần ăn ngay khi nở."
+      },
+      "19": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "pointing at it with her beak"
+          }
+        ],
+        "explanation": "Quail mẹ chỉ thức ăn bằng mỏ."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "sails away across the lake with the youngsters"
+          }
+        ],
+        "explanation": "Grebe chở con trên lưng và bơi qua hồ."
+      },
+      "21": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "take to the air with them on board"
+          }
+        ],
+        "explanation": "Sungrebe có thể bay khi mang con trong túi da."
+      },
+      "22": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "their mothers offering morsels to them directly"
+          }
+        ],
+        "explanation": "Crane mẹ đút thức ăn trực tiếp cho con."
+      },
+      "23": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "this nutrient enables the chicks to develop very fully while they are still in the shell"
+          }
+        ],
+        "explanation": "C mô tả ấp lâu và lòng đỏ giúp chim con phát triển, đi lại được nhanh."
+      },
+      "24": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "No other bird has been seen carrying its young with it on flights"
+          }
+        ],
+        "explanation": "E nêu hành vi mang con khi bay chưa quan sát được ở loài khác."
+      },
+      "25": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "much better that they should all hatch together"
+          }
+        ],
+        "explanation": "B giải thích nở cùng lúc giúp cả đàn rời tổ sớm để tránh kẻ săn mồi."
+      },
+      "26": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "As such messages circulate among the clutch"
+          }
+        ],
+        "explanation": "A mô tả trứng truyền tiếng click để đồng bộ phát triển trước khi nở."
+      }
+    },
+    "lessonSha256": "4db275a6a226e89118934d01efbeb8e2a65f58946ffc6374cc4b3bb43e8dc65c"
+  },
+  "p2-childrens-literature": {
+    "lessonId": "p2-childrens-literature",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "stories"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Containing stories, games plus a free gift"
+          }
+        ],
+        "explanation": "Sách chứa truyện, trò chơi và quà tặng."
+      },
+      "15": {
+        "accepted": [
+          "pleasure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "whose first aim was pleasure rather than education or morality"
+          }
+        ],
+        "explanation": "Mục tiêu đầu tiên là đọc để vui thích."
+      },
+      "16": {
+        "accepted": [
+          "America"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "to be pirated almost immediately in America"
+          }
+        ],
+        "explanation": "Mẫu sách nhanh chóng bị sao chép sang Mỹ."
+      },
+      "17": {
+        "accepted": [
+          "experience"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the needs of their own limited experience of life"
+          }
+        ],
+        "explanation": "Truyện mới phù hợp trải nghiệm đời sống còn hạn chế của trẻ."
+      },
+      "18": {
+        "accepted": [
+          "adventures"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the most unlikely adventures"
+          }
+        ],
+        "explanation": "Trẻ trong truyện Blyton có các cuộc phiêu lưu khó tin."
+      },
+      "19": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "these were not aimed at young people in particular"
+          }
+        ],
+        "explanation": "Aesop ban đầu không nhắm riêng trẻ em; chúng tìm đọc văn học của người lớn."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he hit upon a winning formula quite so quickly"
+          }
+        ],
+        "explanation": "A Little Pretty Pocket-Book đạt thành công nhanh và bị sao chép ngay."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "with whom they could more easily empathise"
+          }
+        ],
+        "explanation": "Trẻ lớn chọn sách có nhân vật chúng dễ đồng cảm."
+      },
+      "22": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "stories in print before 1700 that children often seized on"
+          }
+        ],
+        "explanation": "Trẻ đã đọc truyện trước năm 1700."
+      },
+      "23": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "always models of sense and decorum"
+          }
+        ],
+        "explanation": "Nhân vật Trimmer là hình mẫu về lý trí và hành xử đúng mực."
+      },
+      "24": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "she condemned fairy-tales for their violence"
+          }
+        ],
+        "explanation": "Người lên án là nhà phê bình Trimmer; không nêu quan điểm của phụ huynh thế kỷ 19."
+      },
+      "25": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The great blow to the instructive children’s book"
+          }
+        ],
+        "explanation": "Sự quan tâm folklore làm văn học chuyển khỏi khuynh hướng chỉ giáo huấn."
+      },
+      "26": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "can be shared by different generations"
+          }
+        ],
+        "explanation": "Quan điểm hiện tại là trẻ em và người lớn có thể cùng thưởng thức."
+      }
+    },
+    "lessonSha256": "ab380e0db5d76dc85869e756addca2a7f0cb748fc16102e9e5e09aa0c1dcd953"
+  }
+}

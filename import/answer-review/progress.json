@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T12:01:55.687Z",
-  "totalLessons": 716,
-  "reviewedLessons": 25,
-  "reviewedAnswers": 330,
+  "updatedAt": "2026-10-20T12:12:33.731Z",
+  "totalLessons": 725,
+  "reviewedLessons": 40,
+  "reviewedAnswers": 528,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 687,
+  "pendingSolutions": 681,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -34,7 +34,7 @@
       "title": "A Brief History of Fashion Retail",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-brief-history-of-glassmaking",
@@ -76,7 +76,7 @@
       "title": "A gem from the sea",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-a-great-leap-forward",
@@ -132,7 +132,7 @@
       "title": "A much-travelled vegetable",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-a-new-stage-in-the-study-and-teaching-of-history",
@@ -195,7 +195,7 @@
       "title": "A survivor's story",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-a-threat-to-salmon-farming",
@@ -230,7 +230,7 @@
       "title": "Advertising needs attention",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-all-in-the-family",
@@ -342,7 +342,7 @@
       "title": "Andrew Carnegie: industrialist and philanthropist",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-animals-predicting-earthquakes",
@@ -384,7 +384,7 @@
       "title": "Antonio Stradivari – violin maker supreme",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-architecture-in-britain",
@@ -475,7 +475,7 @@
       "title": "Australian artist Margaret Preston",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-australian-parrots",
@@ -853,7 +853,7 @@
       "title": "Children’s literature",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-children-s-literature-studies-today",
@@ -1269,6 +1269,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-face-recognition-in-everyday-life",
+      "title": "Face recognition in everyday life",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-facial-expressions",
       "title": "Facial Expressions",
       "part": 3,
@@ -1647,6 +1654,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-icebergs-as-a-water-source",
+      "title": "Icebergs as a Water Source",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-ideal-homes",
       "title": "Ideal Homes",
       "part": 2,
@@ -1663,6 +1677,13 @@
     {
       "id": "p3-improving-nutrition-at-a-national-and-international-level",
       "title": "Improving nutrition at a national and international level",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-improving-patient-safety",
+      "title": "Improving Patient Safety",
       "part": 3,
       "questions": 14,
       "status": "pending-solution"
@@ -1727,6 +1748,13 @@
       "id": "p1-investing-in-the-future",
       "title": "Investing in the Future",
       "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-investment-in-shares-versus-investment-in-other-assets-which-gives-the-greater-gain",
+      "title": "Investment in shares versus investment in other assets – which gives the greater gain?",
+      "part": 2,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -2001,6 +2029,13 @@
       "title": "Making Your Mind Up",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-mammoth-kill",
+      "title": "MAMMOTH KILL",
+      "part": 2,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -2284,6 +2319,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-nature-s-numbers",
+      "title": "Nature’s numbers",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-new-businesses-in-new-zealand",
       "title": "New Businesses in New Zealand",
       "part": 2,
@@ -2337,7 +2379,7 @@
       "title": "Newly hatched birds",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-no-title-charles-darwin",
@@ -2512,7 +2554,7 @@
       "title": "Power from the Sea",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-practical-action",
@@ -2652,7 +2694,7 @@
       "title": "REFRACTION",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-relish-the-flavour",
@@ -2937,6 +2979,13 @@
     {
       "id": "p1-socotra-island",
       "title": "Socotra Island",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-solving-an-arctic-mystery",
+      "title": "Solving an Arctic mystery",
       "part": 1,
       "questions": 13,
       "status": "pending-solution"
@@ -3439,6 +3488,13 @@
       "status": "answer-reviewed"
     },
     {
+      "id": "p1-the-development-of-the-silk-industry",
+      "title": "The development of the silk industry",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-the-digital-revolution-in-studying-history",
       "title": "The Digital Revolution in Studying History",
       "part": 3,
@@ -3485,6 +3541,13 @@
       "title": "The effectiveness of an online course",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-el-nino-effect",
+      "title": "THE EL NIÑO EFFECT",
+      "part": 2,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -4549,7 +4612,7 @@
       "title": "Travel writing",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-travelling-on-light",
@@ -4878,14 +4941,14 @@
       "title": "Why was he so smart?",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-why-we-cant-trust-maps",
       "title": "Why We Can’t Trust Maps?",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-why-we-love-music",
