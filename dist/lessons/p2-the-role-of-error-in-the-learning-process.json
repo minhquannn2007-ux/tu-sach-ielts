@@ -1,0 +1,201 @@
+{
+  "id": "p2-the-role-of-error-in-the-learning-process",
+  "title": "The role of error in the learning process",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "According to some educational theories, it is not a good thing ever to be wrong, and it is an important part of the teacher’s function to keep his pupils from error, planning every step of the way so that they avoid pitfalls. There are no doubt certain types of learning situation where mistakes are better avoided. On the other hand, it is also quite clear that error can play a highly constructive role in the development of thinking, and it is now well established that the advent of error can be a sign of progress."
+    },
+    {
+      "text": "Many examples can be given, but the following example is in some ways particularly interesting. Children were given a task which involved balancing a set of blocks across a narrow beam (see diagram below). Sometimes the blocks had their weight evenly spread along their length, so that the center of gravity and their geometric center coincided, but sometimes they were more heavily weighted at one end. When the weight of the block was not symmetrically distributed, the difference between the ends was sometimes obvious, because one was bigger than the other. However, sometimes the blocks were weighted at one end with metal which was hidden inside them, and in this case the difference was invisible."
+    },
+    {
+      "text": "On this task, the youngest subjects were often successful in situations where older ones failed, and still older ones succeeded. What seemed to happen was that the very young children were guided almost entirely by the ‘feel’ of the blocks: they had no kind of theory. They took each block in turn and simply balanced it. But primitive theories soon appeared on the scene. The children began to try to operate systematically and according to rules. It should be noted that there was no intervention from teachers – the children evolved the rules spontaneously.",
+      "figure": {
+        "asset": "assets/p2-the-role-of-error-blocks.png",
+        "alt": "Original illustration of a child balancing wooden blocks"
+      }
+    },
+    {
+      "text": "Of course, it often happened that the children did not state the rules that they were using, though remarks like ‘Things balance in the middle’ were recorded by researchers. Even without such explicit formulations, however, the existence of rules can be inferred from observations of behavior, just as the operation of some grammatical rules is inferred from the speech of children, long before they can themselves give any account of what these rules are."
+    },
+    {
+      "text": "This is the kind of thing that was observed to happen. The children at the intermediate stage would lift an asymmetrically weighted block and, apparently ignoring the ‘feel’, would place it down across the bar at the midpoint of its length. It would fall off. They would then try again, doing exactly the same thing – and of course, it would fall again. But sometimes the ‘midpoint’ rule would work, because for some blocks the weight was equally distributed. This partial success seemed to be enough to keep the theory alive for some time. It was as if the child had to consolidate his first theory with counterexamples. And then the modified theory would tend to grow up alongside the original one, instead of ousting it suddenly."
+    },
+    {
+      "text": "It is not surprising if, when rules are first devised for dealing with a complex system, they should be inadequate and oversimplified, so that their application leads to error in certain cases. What is of interest is the manner in which the inadequate rules are replaced by better ones and the errors transcended."
+    },
+    {
+      "text": "In the case we have been considering, the situation was such that the child could clearly see that his theory was wrong. Sometimes it is not so obvious — and being wrong without knowing it is clearly not of much value. So if we are going to try to put the occurrence of error to good use in education, we must ask how we can make children aware of their errors — how we can help to bring them to the critical realization that they are wrong."
+    },
+    {
+      "text": "There is a very famous historical example of this being done by a great teacher. In his dialogue Meno, the Greek philosopher Plato describes how his teacher Socrates gave a slave boy a lesson in geometry. The boy came to the lesson with the belief that to double the area of a square, you have to double the length of its sides. However, this is mathematically incorrect."
+    },
+    {
+      "text": "Socrates proceeded, by careful questioning, to lead the boy into self-contradiction. The boy then acknowledged that his original belief was wrong, and that he did not know how long the sides of the new square would have to be if the area was to be doubled. Socrates — concluded that the boy was now in a stronger position than before, despite not knowing the answer to the original question, because he was aware of his error. Socrates went on to argue that as long as people think they know something, there is clearly no hope of change, for they are satisfied with their state. But they cannot be satisfied with being ignorant. They will want to get themselves out of this state."
+    },
+    {
+      "text": "The former of these two assertions can scarcely be challenged. But what about the latter? Will they want to get themselves out of it? Or will they merely be discouraged and give up? What makes us want to learn?"
+    }
+  ],
+  "groups": [
+    {
+      "type": "ynng",
+      "sourceInstructions": "Do the following statements agree with the claims of the writer? YES if the statement agrees with the claims of the writer. NO if the statement contradicts the claims of the writer. NOT GIVEN if it is impossible to say what the writer thinks about this.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "The teacher’s most important function is to develop good learning habits."
+        },
+        {
+          "n": 15,
+          "prompt": "Success on the wooden block task increased with the children’s age."
+        },
+        {
+          "n": 16,
+          "prompt": "The children were left to perform the wooden block task without any guidance from teachers."
+        },
+        {
+          "n": 17,
+          "prompt": "The children frequently gave clear explanations of the rules they were using."
+        }
+      ]
+    },
+    {
+      "type": "summary-drag",
+      "sourceInstructions": "Complete the summary using the list of words, A–K.",
+      "sourcePages": [
+        4
+      ],
+      "title": "The wooden block task",
+      "questions": [
+        {
+          "n": 18
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        }
+      ],
+      "content": [
+        "Children were given a task involving blocks of wood. The blocks varied according to how their weight was distributed: the weight distribution was {{18}} in some but not in others. This was because the others were either tapered or had had {{19}} inserted in them. In the latter case, the differences between the blocks were {{20}}.",
+        "The children were instructed to balance each block on a {{21}}. Some children, usually the youngest ones, did the task by dealing with each block {{22}}. In other cases, children quickly started to look for {{23}}. For example, they initially presumed that all the blocks balanced in the middle. They then had to revise their ideas."
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "invisible"
+        },
+        {
+          "value": "B",
+          "text": "ways"
+        },
+        {
+          "value": "C",
+          "text": "others"
+        },
+        {
+          "value": "D",
+          "text": "wood"
+        },
+        {
+          "value": "E",
+          "text": "individually"
+        },
+        {
+          "value": "F",
+          "text": "repeatedly"
+        },
+        {
+          "value": "G",
+          "text": "symmetrical"
+        },
+        {
+          "value": "H",
+          "text": "rules"
+        },
+        {
+          "value": "I",
+          "text": "weight"
+        },
+        {
+          "value": "J",
+          "text": "beam"
+        },
+        {
+          "value": "K",
+          "text": "metal"
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "sentences",
+      "sourceInstructions": "Complete the sentences. Choose ONE WORD ONLY from the passage for each answer.",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "content": [
+        "The slave boy gave Socrates an incorrect answer to a {{24}} problem.",
+        "Socrates led the slave boy to recognise his error by {{25}} him.",
+        "According to Socrates, people dislike feeling {{26}}."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.31-source-reviewed-scans",
+    "jobId": "p2-the-role-of-error-in-the-learning-process",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 10
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020e",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p2-the-role-of-error-in-the-learning-process-cover.jpg",
+    "alt": "A pile of alphabet wooden blocks.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_pile_of_alphabet_wooden_blocks.jpg",
+    "credit": "Bobjgalindo",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  }
+}
