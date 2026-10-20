@@ -1,0 +1,95 @@
+{
+  "lessonId": "p2-a-history-of-early-inventions",
+  "reviewedAt": "2026-10-20",
+  "scope": "Repair clear OCR corruption and malformed completion inputs in the published lesson; full original-source and browser visual review remain pending.",
+  "changes": [
+    {
+      "path": ".paragraphs[2].text",
+      "from": "inventiori",
+      "to": "invention"
+    },
+    {
+      "path": ".paragraphs[2].blocks[0]",
+      "from": "inventiori",
+      "to": "invention"
+    },
+    {
+      "path": ".paragraphs[3].text",
+      "from": "'.he popul~r i~age",
+      "to": "The popular image"
+    },
+    {
+      "path": ".paragraphs[4].text",
+      "from": "1 OOO AD",
+      "to": "1000 AD"
+    },
+    {
+      "path": ".groups[0].sourceInstructions",
+      "from": "informatio171",
+      "to": "information"
+    },
+    {
+      "path": ".groups[1].sourceInstructions",
+      "from": "correct Jetter",
+      "to": "correct letter"
+    },
+    {
+      "path": ".groups[1].questions[3].prompt",
+      "from": "equipmerat",
+      "to": "equipment"
+    },
+    {
+      "path": ".groups[1].bank[0].text",
+      "from": "foreigrners",
+      "to": "foreigners"
+    },
+    {
+      "path": ".groups[1].bank[1].text",
+      "from": "usefulRess was-not",
+      "to": "usefulness was not"
+    },
+    {
+      "path": ".groups[1].bank[3].text",
+      "from": "possibte",
+      "to": "possible"
+    },
+    {
+      "path": ".groups[1].bank[4].text",
+      "from": "prod.uction",
+      "to": "production"
+    },
+    {
+      "path": ".groups[2].content[2]",
+      "from": "1 OOO AD",
+      "to": "1000 AD"
+    },
+    {
+      "path": ".groups[2].questions[1].slots",
+      "from": 2,
+      "to": 1
+    },
+    {
+      "path": ".groups[2].content[1]",
+      "from": "{{25}} {{25:1}}",
+      "to": "{{25}}"
+    },
+    {
+      "path": ".groups[2].content[2]",
+      "from": "1 OOO AD / {{26}} . than",
+      "to": "1000 AD / {{26}} than"
+    }
+  ],
+  "checks": {
+    "sharedIELTSDataValidate": "pass",
+    "questionRange": "14–26, exactly 13 unique questions",
+    "completionInputs": "24, 25, 26: one input each",
+    "paragraphBlocks": "match the complete text",
+    "taskTypes": "matching-info, matching-features, summary-input unchanged",
+    "existingReviewedAnswerKey": false,
+    "browserVisualReview": "not run: execution environment unavailable"
+  },
+  "pending": [
+    "Compare the proper name Cresibus in section C with the original source before changing it.",
+    "Recheck the full page visually when a browser execution environment is available."
+  ]
+}
