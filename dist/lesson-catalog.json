@@ -1684,6 +1684,24 @@
     }
   },
   {
+    "id": "p1-book-review-triumph-of-the-city",
+    "title": "Book review: Triumph of the City",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/p1-book-review-triumph-of-the-city-cover.jpg",
+      "alt": "The Skyline in Paris at Sunset as Secretary Kerry Visits the City (31534091195).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Skyline_in_Paris_at_Sunset_as_Secretary_Kerry_Visits_the_City_(31534091195).jpg",
+      "credit": "U.S. Department of State from United States",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+    }
+  },
+  {
     "id": "p2-books-and-buildings",
     "title": "Books and Buildings",
     "part": 2,
@@ -1888,6 +1906,25 @@
       "source": "https://commons.wikimedia.org/wiki/File:Ruins_at_Lixus_archaeological_site_103.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "p3-business-innovation",
+    "title": "BUSINESS INNOVATION",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Matching Names",
+      "Table Completion"
+    ],
+    "cover": {
+      "asset": "assets/p3-business-innovation-cover.jpg",
+      "alt": "Walmart distribution center in Tomah.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Walmart_distribution_center_in_Tomah.jpg",
+      "credit": "Wikideas1",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
     }
   },
   {
@@ -2783,6 +2820,24 @@
       "source": "https://commons.wikimedia.org/wiki/File:2015_Columbus_Conversation_-_Panel_Discussion.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "id": "p1-deep-sea-discovery",
+    "title": "Deep sea discovery",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/p1-deep-sea-discovery-cover.jpg",
+      "alt": "Red Head Goby (Elacatinus puncticulatus).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Head_Goby_(Elacatinus_puncticulatus).jpg",
+      "credit": "Sushi Girl1995",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     }
   },
   {
@@ -9109,6 +9164,24 @@
     }
   },
   {
+    "id": "p1-the-development-of-the-bicycle",
+    "title": "The development of the bicycle",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/p1-the-development-of-the-bicycle-cover.jpg",
+      "alt": "Penny Farthing bicycle (1455430).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Penny_Farthing_bicycle_(1455430).jpg",
+      "credit": "Geoff Charles",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
     "id": "p3-the-digital-revolution-in-studying-history",
     "title": "The Digital Revolution in Studying History",
     "part": 3,
@@ -9520,6 +9593,24 @@
     }
   },
   {
+    "id": "p1-the-great-tit",
+    "title": "The Great Tit",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/p1-the-great-tit-cover.jpg",
+      "alt": "Parus major m.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Parus_major_m.jpg",
+      "credit": "Sławek Staszczuk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    }
+  },
+  {
     "id": "p2-the-greener-side-of-biotechnology",
     "title": "The Greener Side of Biotechnology",
     "part": 2,
@@ -9553,6 +9644,24 @@
       "alt": "The hazards of multitasking — Extreme programming in action",
       "credit": "Dmellas",
       "source": "https://commons.wikimedia.org/wiki/File:Extreme_programming_in_action.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "p1-the-health-benefits-of-singing",
+    "title": "The Health Benefits of Singing",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/p1-the-health-benefits-of-singing-cover.jpg",
+      "alt": "Choir singing during the day.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Choir_singing_during_the_day.jpg",
+      "credit": "Alpharockindia",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
     }
@@ -10986,6 +11095,25 @@
       "source": "https://commons.wikimedia.org/wiki/File:Plastic_recycling_bin_in_Reykjavik_cropped.jpg",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  {
+    "id": "p2-the-problem-with-aiming-for-average",
+    "title": "The problem with aiming for average",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Matching Headings",
+      "Multiple Choice — Choose TWO",
+      "Sentence Completion"
+    ],
+    "cover": {
+      "asset": "assets/p2-the-problem-with-aiming-for-average-cover.jpg",
+      "alt": "Todd Rose headshot.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Todd_Rose_headshot.jpg",
+      "credit": "Larry Todd Rose",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   },
   {
@@ -13031,6 +13159,25 @@
       "source": "https://commons.wikimedia.org/wiki/File:Computer_1.jpg",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  {
+    "id": "p3-yawning",
+    "title": "Yawning",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Summary Completion",
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/p3-yawning-cover.jpg",
+      "alt": "Yawning Infant, August 2018.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Yawning_Infant,_August_2018.jpg",
+      "credit": "Martin Falbisoner",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   },
   {
