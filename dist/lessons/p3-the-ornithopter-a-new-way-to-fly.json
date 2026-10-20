@@ -1,0 +1,162 @@
+{
+  "id": "p3-the-ornithopter-a-new-way-to-fly",
+  "title": "The ornithopter – a new way to fly?",
+  "part": 3,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The ornithopter looks as fragile as a matchstick model. Its aluminium frame shows through its thin, fabric skin, and the engine compartment is protected only by a marvel. It is designed to let humans fly the way nature intended — on a pair of flapping wings."
+    },
+    {
+      "text": "Recently, the US Department of Defense has spent a lot of money trying to develop ornithopters, which they hope could someday be as agile as hummingbirds. Although no-one has yet managed to get a pilot into the air, James DeLaurier of the University of Toronto’s Institute for Aerospace Studies, who has designed the ornithopter, hopes it and its pilot will eventually take to the skies."
+    },
+    {
+      "text": "DeLaurier and his collaborator, Jeremy Harris from Battelle Memorial Institute in Columbus, Ohio, had built a remote-controlled flying model with a 3-metre wingspan by 1991. But a full-scale version has to be much stronger and much more powerful than a model and, whereas it is relatively easy to scale up a fixed-wing design, flapping flight presents special problems."
+    },
+    {
+      "text": "The beauty of the fixed-wing design is that a propeller or jet engine provides the thrust, allowing a simple, strong wing structure, which merely has to provide the lift. Flapping wings, in comparison, are far more complicated because they have to do both. When a bird glides, its wings provide lift the same way an aeroplane’s do. But when it flaps, it angles its wings so that as well as providing vertical lift, they also provide thrust to propel the bird forward."
+    },
+    {
+      "text": "DeLaurier’s goal is more modest than the delicately controlled flight of birds: he just wants to get off the ground. But that still means a relatively complicated mechanical arrangement. Moreover, the mechanical stresses are much greater on a flapping wing than on a fixed wing. Fortunately, DeLaurier’s wings are made from modern materials: a combination of Kevlar, carbon fibre and epoxy resin."
+    },
+    {
+      "text": "DeLaurier’s ornithopter has a wing in three sections. The centre section is connected to the engine and pumps up and down. On each side of this are the flapping wing sections, fixed about attached with hinges. The wings pivot on the ends of two vertical struts that are attached with hinges. The result is that when the centre panel is a metre or so out from the side of the fuselage, the two wing sections flap down, and vice versa. The wings are also designed to be pushed up and down in order to prevent a phenomenon called flow separation which can cause a plane’s engines to stall."
+    },
+    {
+      "text": "If all this works, and they actually get the ornithopter in the air, they’ll have to control it. Unlike fixed-wing aeroplanes, which use flaps on the wings called ailerons to make the plane turn, the ornithopter has no ailerons and relies on a rudder to turn."
+    },
+    {
+      "text": "So much for theory. In reality, Project Ornithopter has had its ups and downs. In runway tests, wings have torn, rivets have popped loose and engines have thrown their belts — all of which has kept the aircraft from actually getting into the air. The main cause of these niggles has been the plane’s bouncing motion as it approached take off. Not surprisingly, that has broken many parts of the plane."
+    },
+    {
+      "text": "To try to solve the take-off problem, DeLaurier’s team rebuilt the undercarriage to make the ornithopter’s nose point down as it taxis for lift-off. The idea is that lift will be suppressed and the aircraft’s wheels will stay in touch with the runway until it is going fast enough for a clean lift-off without the destructive bouncing. But that created another problem during the most recent tests. The vertical spars supporting the wings hadn’t been designed for the stresses of the new position and, as the ornithopter approached its take-off speed of 92 kilometres per hour, part of the right wing unravelled. It’s taken the best part of two years to make repairs and get back to the runway."
+    },
+    {
+      "text": "Another problem is the view. Normally pilots rely on their view of the horizon to gauge the angle of the plane. But in an ornithopter, from the pilot’s perspective, the horizon will be moving all the time, making it hard to tell how the plane is oriented. So the engineers have designed an instrument that shows the pilot the position of the control surfaces on the tail."
+    },
+    {
+      "text": "But do ornithopters have a future role in human transportation? ‘Realistically, they probably don’t,’ says Nathan Chronister. He isn’t some nay-saying fixed-wing proponent, but the coordinator for the Ornithopter Society, and works on ornithopters himself. However, he thinks practical applications, if they ever come, are a long way off. ‘I believe that ornithopters will provide a more efficient alternative to the helicopter or a more agile type of aircraft. The technology to realise those benefits is probably a hundred years off if it ever happens at all.’"
+    }
+  ],
+  "groups": [
+    {
+      "type": "summary-input",
+      "task": "sentences",
+      "sourceInstructions": "Complete the sentences. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27
+        },
+        {
+          "n": 28
+        },
+        {
+          "n": 29
+        },
+        {
+          "n": 30,
+          "slots": 2
+        }
+      ],
+      "content": [
+        "The underlying structure of the ornithopter is made of {{27}}.",
+        "Ornithopters may have the potential to move as quickly and easily as {{28}}.",
+        "It is much easier to build an aeroplane with a {{29}} than one with flapping wings.",
+        "An ornithopter is different from a conventional aeroplane because its wings have to give both {{30}} and {{30:1}}."
+      ]
+    },
+    {
+      "type": "tfng",
+      "sourceInstructions": "Choose TRUE if the statement agrees with the information, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 31,
+          "prompt": "The two outside wing sections of the ornithopter are connected to the central wing section by hinges."
+        },
+        {
+          "n": 32,
+          "prompt": "Flow separation stops the ornithopter’s wings from twisting during flight."
+        },
+        {
+          "n": 33,
+          "prompt": "An ornithopter’s engine is more likely to stall than the engine of a conventional aeroplane."
+        },
+        {
+          "n": 34,
+          "prompt": "An ornithopter lacks a mechanism for changing direction."
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Complete the summary . Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "sourcePages": [
+        4
+      ],
+      "title": "From theory to reality",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "questions": [
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "content": [
+        "Getting an ornithopter to fly is not easy. A major source of problems was the ornithopter’s {{35}} when it tried to leave the ground. So DeLaurier’s team modified the plane’s {{36}} so that its nose could be directed downward before take-off. However, this alteration placed additional pressure on the {{37}} under the wings, with the result that, in a test, one of the wings {{38}} at 92 kilometres per hour.",
+        "Another difficulty is that, whereas in a conventional plane pilots use the {{39}} to determine the plane’s orientation, in an ornithopter they use a special {{40}} which has been designed for this job."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.37-upload-reviewed",
+    "jobId": "p3-the-ornithopter-a-new-way-to-fly",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 11
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "upload-20261020-10",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "subtitle": "Will its flapping flight ever replace the fixed-wing flight of conventional aeroplanes?",
+  "cover": {
+    "asset": "assets/p3-the-ornithopter-a-new-way-to-fly-cover.jpg",
+    "alt": "Ornithopter Collomb crop.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ornithopter_Collomb_crop.jpg",
+    "credit": "Branger",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+  }
+}

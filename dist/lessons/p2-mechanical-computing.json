@@ -1,0 +1,185 @@
+{
+  "id": "p2-mechanical-computing",
+  "title": "Mechanical computing",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The demand for computational power began after the death of Isaac Newton in 1727, when many of the world's leading minds focused on exploiting his scientific legacy. From the calculation of comet orbits to the prediction of the tides, Newton's laws of motion and gravity allowed a host of phenomena to be understood in exquisite detail. Yet a huge hurdle faced anyone wanting to exploit the full power of Newton's insights: hideously complex calculations. By the middle of the 18th century, the Industrial Revolution produced the same problem outside the academic world. Bankers, surveyors, insurers and navigators all found themselves routinely involved in tricky calculations of everything from compound interest owed to distance travelled."
+    },
+    {
+      "label": "B",
+      "text": "All had no choice but to put their trust in vast tables of logarithms and other mathematical systems. Compiled under the direction of mathematicians, these tables were calculated by armies of human 'computers'. These 'adding machines', often teenagers, each worked on a small part of the formula for the quantity in question. Their individual efforts would then be pooled together to give the final figure for entry in the mathematical tables. It was a recipe for errors and they duly appeared in their thousands. By 1784, fears about the reliability of mathematical tables reached a level where the French government decided to start from scratch, commissioning Baron Riche de Prony to prepare a definitive set, calculated to 19 places of decimals. Compiled by a team of over 100 mathematicians and 'computers', the tables filled 17 handwritten volumes. Yet they, too, were shot through with errors."
+    },
+    {
+      "label": "C",
+      "text": "It was while idly glancing through a set of such tables one evening in 1812 that a 21-year-old Cambridge student, Charles Babbage, hit upon the solution: why not get a machine to calculate the tables automatically? Born in London in 1791, Babbage was the son of a wealthy banker, inheriting in his mid-30s a fortune today worth the equivalent of £5 million. It was always clear that Babbage would not follow his father's career. As a maths student at Cambridge, his non-conformist attitudes led him to become a founder member of the Analytical Society, dedicated to introducing continental mathematics into the moribund university syllabus."
+    },
+    {
+      "label": "D",
+      "text": "Babbage set about turning his vision as a student into reality around 1820, with a device he called the Difference Engine. Using a series of gears and axles, the device was designed to exploit a mathematical trick, known as the Method of Differences, for calculating complex quantities from simple components. Crucially, Babbage also designed the machine to print out its own results, rather than allow a person to write down the answers and introduce mistakes. By 1822, Babbage had a small prototype working. It was clear, however, that the full-sized Difference Engine, with an estimated 25,000 parts, would require far more effort and expenditure."
+    },
+    {
+      "label": "E",
+      "text": "After winning government backing, he set to work again, only to become embroiled in a long disagreement with his chief engineer, Joseph Clement. By 1832, almost a decade after starting, Babbage had only a fraction of the Difference Engine completed. Despite working perfectly, it failed to impress the government, as did Babbage's revelation that he was working on plans for an entirely new engine that would make the Difference Engine obsolete. Known as the Analytical Engine, this locomotive-sized machine would act like a mechanical mathematician, actually solving equations. It featured components now found in every personal computer, such as a central processor. Yet the staggering complexity of the Analytical Engine (plus Babbage's constant revisions of its design, and the understandable scepticism of the government) ensured that it was never built."
+    },
+    {
+      "label": "F",
+      "text": "While much of his life had been embroiled in his visionary quest for a mechanical computer, Babbage also applied his creative mind to other questions. A spate of rail accidents prompted him to recommend that trains be fitted with black box recorders, while a trip in a diving bell led him to advocate submarine warfare. Yet, it was the design of the Analytical Engine which was most ahead of its time. Nothing approaching its power and versatility would be seen for over a century."
+    },
+    {
+      "label": "G",
+      "text": "However, Babbage's basic idea of performing calculations using machines was realised within two years of his death. In 1873 the Scottish physicist Sir William Thomson unveiled a machine which could calculate the rise and fall of tides. Over the next decade, a variety of these tide-prediction machines were devised, the accuracy of which was superseded only by electronic computers in the mid-1960s."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has seven paragraphs, A–G. Which paragraph contains the following information?",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reference to growing concerns about the accuracy of a method of calculation"
+        },
+        {
+          "n": 15,
+          "prompt": "mention of setbacks and disputes"
+        },
+        {
+          "n": 16,
+          "prompt": "the fact that certain professions needed to do more complex numerical sums"
+        },
+        {
+          "n": 17,
+          "prompt": "a description of Babbage’s ventures into different fields"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "paragraphUnit": "paragraphs",
+      "reuse": false
+    },
+    {
+      "type": "notes",
+      "task": "table",
+      "sourceInstructions": "Complete the table. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18,
+          "slots": 2
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        }
+      ],
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "title": "A comparison of the two types of machine invented by Babbage",
+      "tableHeader": true,
+      "columnWidths": [
+        17,
+        41.5,
+        41.5
+      ],
+      "tableCellBold": [
+        "1:0",
+        "2:0"
+      ],
+      "table": [
+        [
+          "",
+          "The Difference Engine",
+          "The Analytical Engine"
+        ],
+        [
+          "Description",
+          "A device consisting of {{18}} and {{18:1}}, which is capable of a mathematical feat called the {{19}}, and of producing written results.",
+          "It was as big as a locomotive with the ability to function like a {{20}}. It contained parts (e.g. a {{21}}) similar to those in modern computers."
+        ],
+        [
+          "Outcome",
+          "Problems were caused by arguments with the {{22}}. It was made obsolete by the invention of the Analytical Engine.",
+          "A complete machine was never built because of its complexity and the doubts felt by the {{23}} of the time."
+        ]
+      ]
+    },
+    {
+      "type": "short-answer",
+      "sourceInstructions": "Answer the questions. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24,
+          "prompt": "What kind of people were frequently employed to help mathematicians produce tables?"
+        },
+        {
+          "n": 25,
+          "prompt": "What organisation did Babbage help to set up during his time in Cambridge?"
+        },
+        {
+          "n": 26,
+          "prompt": "What did Babbage feel should be installed to improve public transport safety?"
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.37-upload-reviewed",
+    "jobId": "p2-mechanical-computing",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 7
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "upload-20261020-10",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "subtitle": "Human ‘computers’ were notoriously unreliable, so Charles Babbage set about inventing a machine that would do their work",
+  "cover": {
+    "asset": "assets/p2-mechanical-computing-cover.jpg",
+    "alt": "Charles Babbage Difference Engine No. 2 Computer History Museum in Mountian View California.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Charles_Babbage_Difference_Engine_No._2_Computer_History_Museum_in_Mountian_View_California.jpg",
+    "credit": "Victorgrigas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+}
