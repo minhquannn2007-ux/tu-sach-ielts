@@ -1,0 +1,35 @@
+{
+  "reviewedAt": "2026-10-20",
+  "scope": "Answer approval only; leave published lessons unchanged",
+  "lessons": [
+    {
+      "lessonId": "p2-homo-ergaster",
+      "questions": [
+        24
+      ],
+      "reason": "Question asks for a present-day people whose body shape resembles Nariokotome Boy; the published reading does not supply such a name. Do not invent a proper noun or fill from a different version.",
+      "needed": "Compare complete original reading/source version and restore any omitted sentence only with evidence.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p2-japanese-bizen-art-that-rose-from-the-ashes",
+      "questions": [
+        23,
+        25,
+        26
+      ],
+      "reason": "Q23 wording has an unclear target; the multiple-answer task asks about Jun while the modern/creative departure is explicitly attributed to Koichiro. The text does not unambiguously establish a second selection for Jun.",
+      "needed": "Compare original task and attribution; do not transfer Koichiro statements to Jun.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-a-brief-history-of-glassmaking",
+      "questions": [
+        8
+      ],
+      "reason": "Published note reads “a {{8}} were often added, as well as coloured accents”. Singular article plus plural verb does not support an unambiguous grammatical answer; passage mentions intricate detail and handles. Do not silently fix the task or choose a speculative answer.",
+      "needed": "Compare the original question image and restore the exact note wording with source evidence before approving the complete answer key.",
+      "answerApproved": false
+    }
+  ]
+}

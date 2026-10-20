@@ -1,0 +1,683 @@
+{
+  "p1-the-english-canal-system": {
+    "lessonId": "p1-the-english-canal-system",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the smaller scale of works necessary for canal and river navigations in England would certainly have made it easier"
+          }
+        ],
+        "explanation": "Sông nhỏ làm công trình dễ thực hiện hơn với kỹ thuật còn sơ khai; sông lớn sẽ khó hơn."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Merchants who owned factories or who sold the goods produced needed cheap transport"
+          }
+        ],
+        "explanation": "Cần vận tải rẻ không chứng minh các thương nhân đã từ chối trả phí đường bộ."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "unlike many of the European canals, which were financed by the aristocracy"
+          }
+        ],
+        "explanation": "Kênh Anh do thương nhân tài trợ, khác nhiều kênh châu Âu do quý tộc tài trợ."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "canals leading to coastal rivers and ports were wider"
+          }
+        ],
+        "explanation": "Chiều rộng kênh khác nhau giữa vùng công nghiệp và kênh ra cảng."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "By the second half of the 18th century"
+          }
+        ],
+        "explanation": "Âu thuyền đã được xây cùng hệ thống kênh ở thế kỷ 18, không phải lần đầu ở thế kỷ 19."
+      },
+      "6": {
+        "accepted": [
+          "hills"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "enabled canals to be built in areas where there were hills"
+          }
+        ],
+        "explanation": "Locks giúp thuyền đi qua vùng có đồi."
+      },
+      "7": {
+        "accepted": [
+          "central chamber",
+          "chamber"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "When a boat was in the central chamber"
+          }
+        ],
+        "explanation": "Thuyền được đóng trong khoang trung tâm; chamber cũng đủ nghĩa và trong giới hạn hai từ."
+      },
+      "8": {
+        "accepted": [
+          "sluice gates"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "water could enter or leave the lock through the sluice gates"
+          }
+        ],
+        "explanation": "Cửa cống điều chỉnh nước vào/ra để nâng hoặc hạ thuyền."
+      },
+      "9": {
+        "accepted": [
+          "equal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the water levels both inside and outside the lock were equal"
+          }
+        ],
+        "explanation": "Mực nước phải bằng nhau trước khi mở cửa cho thuyền ra."
+      },
+      "10": {
+        "accepted": [
+          "speculators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a means of making money by speculators"
+          }
+        ],
+        "explanation": "Nhà đầu cơ ngoài địa phương coi kênh là cách kiếm tiền."
+      },
+      "11": {
+        "accepted": [
+          "northern England"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "usually wide canals in northern England"
+          }
+        ],
+        "explanation": "Các kênh có lãi thường ở miền bắc nước Anh."
+      },
+      "12": {
+        "accepted": [
+          "agricultural regions"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Many canals of this period were built in agricultural regions"
+          }
+        ],
+        "explanation": "Vùng nông nghiệp không cung cấp đủ hàng công nghiệp để sinh lời."
+      },
+      "13": {
+        "accepted": [
+          "railway companies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "railway companies purchased many of the canals"
+          }
+        ],
+        "explanation": "Các công ty đường sắt mua nhiều kênh để giảm cạnh tranh."
+      }
+    },
+    "lessonSha256": "9b3cedd734c5c52eddd3e819d94a9a69eda37a8f40457cf0f1cc09a3c3831700",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p1-new-zealand-pottery": {
+    "lessonId": "p1-new-zealand-pottery",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "had lost the art of pottery-making before moving from their islands"
+          }
+        ],
+        "explanation": "Người Maori đã mất nghề gốm trước khi đến; ngành đất sét tại New Zealand bắt đầu với người châu Âu."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the clay deposits that were to be found in most areas of New Zealand"
+          }
+        ],
+        "explanation": "Không so sánh chất lượng đất sét New Zealand với châu Âu."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "only made drainage pipes and bricks"
+          }
+        ],
+        "explanation": "Sản phẩm đầu tiên là ống thoát nước và gạch; đồ trang trí xuất hiện muộn hơn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "felt compelled to migrate to New Zealand in order to find work"
+          }
+        ],
+        "explanation": "Một số thợ gốm buộc phải di cư để tìm việc khi xưởng Anh đóng cửa."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Past feelings of embarrassment"
+          }
+        ],
+        "explanation": "Trước đây từng xấu hổ về gốm địa phương, không phải luôn tự hào."
+      },
+      "6": {
+        "accepted": [
+          "thesis"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a thesis towards her master's degree"
+          }
+        ],
+        "explanation": "Mein viết luận văn về ngành gốm."
+      },
+      "7": {
+        "accepted": [
+          "anthropologist"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "an anthropologist from Otago Museum named Stuart Park"
+          }
+        ],
+        "explanation": "Stuart Park là nhà nhân học."
+      },
+      "8": {
+        "accepted": [
+          "exhibition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "an exhibition of New Zealand ceramies"
+          }
+        ],
+        "explanation": "Park tổ chức triển lãm đầu tiên thuộc loại này."
+      },
+      "9": {
+        "accepted": [
+          "collectors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "also collectors came to understand the value of ceramics"
+          }
+        ],
+        "explanation": "Ngoài bảo tàng, giới sưu tầm cũng chú ý."
+      },
+      "10": {
+        "accepted": [
+          "companies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "researching specific companies"
+          }
+        ],
+        "explanation": "Lambert bắt đầu bằng nghiên cứu các công ty cụ thể."
+      },
+      "11": {
+        "accepted": [
+          "fires"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "fires were a common occurrence in pottery factories"
+          }
+        ],
+        "explanation": "Hỏa hoạn phá hủy hồ sơ công ty."
+      },
+      "12": {
+        "accepted": [
+          "interviews"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "conduct interviews in order to find the historical details"
+          }
+        ],
+        "explanation": "Bà phỏng vấn người từng làm trong xưởng và con cháu."
+      },
+      "13": {
+        "accepted": [
+          "book"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "publish her research in the form of a book in 1985"
+          }
+        ],
+        "explanation": "Nghiên cứu được xuất bản thành sách."
+      }
+    },
+    "lessonSha256": "af36832eaaf8edf02e1eb2d5fbe78faadeb90fd327a7097e4acc52b0e2695f58",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p1-radiocarbon-dating": {
+    "lessonId": "p1-radiocarbon-dating",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "discovered by local people"
+          }
+        ],
+        "explanation": "Di cốt do người địa phương tìm thấy, không phải Athfield."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "in large ceramic jars and hollowed-out logs"
+          }
+        ],
+        "explanation": "Bài nêu vật chứa nhưng không đánh giá di cốt còn tốt hay không."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "drawn Athfield away from her regular employment"
+          }
+        ],
+        "explanation": "Nghiên cứu ở Campuchia khiến bà tạm rời công việc thường lệ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a film-making company requested"
+          }
+        ],
+        "explanation": "Yêu cầu ban đầu đến từ công ty làm phim, không phải chính phủ."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the city was permanently abandoned"
+          }
+        ],
+        "explanation": "Nhà làm phim nghiên cứu nơi an nghỉ của hoàng tộc; thành phố bị bỏ hoang vĩnh viễn chứ không được tái thiết."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "many stories were told of surviving members of the royal family"
+          }
+        ],
+        "explanation": "Không nêu bà ban đầu tin hay nghi ngờ các chuyện kể."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "dashing the possibility of Angkorian royalty"
+          }
+        ],
+        "explanation": "Định tuổi đến năm 1620 bác bỏ giả thuyết các mẫu Cardamom ban đầu là hoàng tộc Angkor."
+      },
+      "8": {
+        "accepted": [
+          "university"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "to her surprise she was accepted"
+          }
+        ],
+        "explanation": "Bà bất ngờ được nhận vào đại học sau khi bạn khuyên thi đầu vào."
+      },
+      "9": {
+        "accepted": [
+          "rat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a rat species had arrived in New Zealand"
+          }
+        ],
+        "explanation": "Luận án nghiên cứu thời điểm một loài chuột xuất hiện."
+      },
+      "10": {
+        "accepted": [
+          "archaeologist"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "working as a fully qualified archaeologist in the UK"
+          }
+        ],
+        "explanation": "Bà làm nhà khảo cổ chuyên nghiệp trước chuyến Campuchia."
+      },
+      "11": {
+        "accepted": [
+          "funding"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a lack of funding"
+          }
+        ],
+        "explanation": "Thiếu kinh phí ngăn việc tiếp tục nghiên cứu."
+      },
+      "12": {
+        "accepted": [
+          "database"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "create a Cambodia-wide radiocarbon database"
+          }
+        ],
+        "explanation": "Dự án lập cơ sở dữ liệu định tuổi phóng xạ toàn Campuchia."
+      },
+      "13": {
+        "accepted": [
+          "map"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "an extensive geological map"
+          }
+        ],
+        "explanation": "Thiếu bản đồ địa chất chi tiết làm nghiên cứu khó hơn."
+      }
+    },
+    "lessonSha256": "70d6f45371d1d1cd30048deb4277ee343feef567c7d40315ce07951311a14c97",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p3-bright-sparks": {
+    "lessonId": "p3-bright-sparks",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "he proceeded to teach little Zsuzsa at home"
+          }
+        ],
+        "explanation": "Polgar áp dụng niềm tin nuôi dạy lên chính các con mình."
+      },
+      "28": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "train 70,000 high-school teachers to lead advanced courses"
+          }
+        ],
+        "explanation": "Sáng kiến tăng số giáo viên có thể dạy khóa nâng cao, không phải tăng tổng biên chế trường học."
+      },
+      "29": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Teachers are often against the idea of separate provision"
+          }
+        ],
+        "explanation": "Ở Anh có phản đối việc tách trẻ giỏi để đầu tư riêng."
+      },
+      "30": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "only seven in ten secondary schools have nominated even a single child"
+          }
+        ],
+        "explanation": "Mức đề cử hạn chế cho thấy trường chưa nhiệt tình hỗ trợ chương trình."
+      },
+      "31": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "ranked as 'moderately', 'highly', 'exceptionally' and 'profoundly' gifted"
+          }
+        ],
+        "explanation": "Trẻ giỏi ở Mỹ được xếp vào các nhóm khác nhau."
+      },
+      "32": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "makes people flinch from the idea of treating brainy children differently"
+          }
+        ],
+        "explanation": "Giá trị khiêm tốn và đoàn kết ở Scandinavia chống đối đãi đặc biệt."
+      },
+      "33": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Those who learn quickest are expected then to teach their classmates"
+          }
+        ],
+        "explanation": "Học sinh tiếp thu chậm được bạn tiếp thu nhanh giúp."
+      },
+      "34": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "all that is asked is excellent attendance"
+          }
+        ],
+        "explanation": "Lớp ở children’s palaces yêu cầu đi học đều."
+      },
+      "35": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Japan and Finland — can eschew selection and still thrive"
+          }
+        ],
+        "explanation": "Nhật và Phần Lan vẫn đạt kết quả tốt không cần tuyển chọn."
+      },
+      "36": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Statistics give little clue as to which system is best"
+          }
+        ],
+        "explanation": "Thống kê ít giúp xác định hệ thống nào tốt nhất, trái với phát biểu."
+      },
+      "37": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "middle-class parents try to live near the best schools"
+          }
+        ],
+        "explanation": "Phụ huynh trung lưu chủ động chọn nơi ở để con vào trường tốt."
+      },
+      "38": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "places with more diverse populations and less competent teachers"
+          }
+        ],
+        "explanation": "Hiệu quả mô hình Scandinavia gắn với điều kiện dân số và giáo viên ở đó."
+      },
+      "39": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "he planned to prove it by adopting three baby boys"
+          }
+        ],
+        "explanation": "Bài nêu dự định nhận nuôi nhưng không nói bị ngăn cản."
+      },
+      "40": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "she was the only one who did not achieve the status of grand master"
+          }
+        ],
+        "explanation": "Zsofia được xem tài năng nhất nhưng là người duy nhất không đạt đại kiện tướng."
+      }
+    },
+    "lessonSha256": "06166921afbc1a8d614fa191e16c37a20475b5cd9ec4e2da599ac6a0b54f160e",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  }
+}

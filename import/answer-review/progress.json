@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T11:42:12.340Z",
+  "updatedAt": "2026-10-20T12:01:55.687Z",
   "totalLessons": 716,
-  "reviewedLessons": 16,
-  "reviewedAnswers": 212,
+  "reviewedLessons": 25,
+  "reviewedAnswers": 330,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 696,
+  "pendingSolutions": 687,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -20,14 +20,14 @@
       "title": "A brief history of ballet",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-brief-history-of-canned-food",
       "title": "A brief history of canned food",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-brief-history-of-fashion-retail",
@@ -692,7 +692,7 @@
       "title": "Bright sparks",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-bristlecone-pines",
@@ -1952,7 +1952,7 @@
       "title": "London Smog",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-look-who-was-talking",
@@ -2323,7 +2323,7 @@
       "title": "New Zealand Pottery",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-new-zealand-short-stories",
@@ -2561,7 +2561,7 @@
       "title": "Radiocarbon dating",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-rags-to-riches",
@@ -3492,7 +3492,7 @@
       "title": "The English canal system",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-explorations-of-matthew-flinders",
@@ -4262,7 +4262,7 @@
       "title": "The search for an alternative to plastic",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-search-for-extra-terrestrial-life",
@@ -4605,7 +4605,7 @@
       "title": "Under the skin of a great violin",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-undergraduate-students-guidelines-to-students-on-literature-courses",

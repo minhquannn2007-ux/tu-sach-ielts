@@ -1,0 +1,333 @@
+{
+  "p1-a-brief-history-of-canned-food": {
+    "lessonId": "p1-a-brief-history-of-canned-food",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "soldiers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "your soldiers are hungry and malnourished"
+          }
+        ],
+        "explanation": "Chính phủ cần bảo quản thực phẩm để nuôi binh lính."
+      },
+      "2": {
+        "accepted": [
+          "cork",
+          "seals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "using seals made of cork to make them airtight"
+          }
+        ],
+        "explanation": "Dùng nút bằng cork để bịt kín lọ; cả vật liệu cork và seals đều phù hợp một từ trong câu hỏi."
+      },
+      "3": {
+        "accepted": [
+          "tin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the use of tin vessels as well as glass jars"
+          }
+        ],
+        "explanation": "Durand bổ sung vật chứa bằng thiếc."
+      },
+      "4": {
+        "accepted": [
+          "pressure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "using pressure to raise canning temperatures"
+          }
+        ],
+        "explanation": "Áp suất giúp nâng nhiệt độ."
+      },
+      "5": {
+        "accepted": [
+          "bacteria"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "ensure that any bacteria beneath employees’ fingernails stayed out of the food"
+          }
+        ],
+        "explanation": "Quy định vệ sinh nhằm ngăn vi khuẩn vào thực phẩm."
+      },
+      "6": {
+        "accepted": [
+          "research"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The research done by the laboratory"
+          }
+        ],
+        "explanation": "Tổ chức lập ra để nghiên cứu vi khuẩn học."
+      },
+      "7": {
+        "accepted": [
+          "milk"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "invented in Switzerland in the 1960s for processing milk"
+          }
+        ],
+        "explanation": "Công nghệ ban đầu dùng xử lý sữa."
+      },
+      "8": {
+        "accepted": [
+          "salt"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The addition of salt was one technique"
+          }
+        ],
+        "explanation": "Thêm muối để giữ màu và phần nào hương vị."
+      },
+      "9": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Durand used techniques similar to Appert’s"
+          }
+        ],
+        "explanation": "Durand dựa trên kỹ thuật Appert vừa nhận giải."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "canned food was initially produced for soldiers and explorers"
+          }
+        ],
+        "explanation": "Ban đầu phục vụ binh lính và nhà thám hiểm."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "newspapers were full of accounts not only of food poisoning"
+          }
+        ],
+        "explanation": "Có báo cáo ngộ độc nhưng không nói nhà sản xuất phủ nhận trách nhiệm."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "at least good for consumers"
+          }
+        ],
+        "explanation": "Nói lợi ích với người dùng, không đưa kết quả doanh số."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "sodium benzoate, which is still used today in canned food"
+          }
+        ],
+        "explanation": "Chất phụ gia vẫn dùng tới nay; không bị loại bỏ hoàn toàn sau công nghệ hơi nước."
+      }
+    },
+    "lessonSha256": "bcec2566e12adc784689478eeb3a5427611de7886a39cd78eacd6ffb7d87df27"
+  },
+  "p1-a-brief-history-of-ballet": {
+    "lessonId": "p1-a-brief-history-of-ballet",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The nobility were treated to extravagant events"
+          }
+        ],
+        "explanation": "Ballet đầu tiên là phần giải trí cho quý tộc Ý."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "including that of the Sun King in Ballet de la Nuit"
+          }
+        ],
+        "explanation": "Có biểu diễn vai này, không nói đây là ballet yêu thích nhất."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "rebeiled against the artifice of opera-ballet"
+          }
+        ],
+        "explanation": "Noverre phản đối sự gắn kết opera-ballet và cho rằng ballet có thể độc lập."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "often showed women as passive and fragile"
+          }
+        ],
+        "explanation": "Nói cách thể hiện phụ nữ, không đưa tỷ lệ giới tính vũ công."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The primary purpose of Russian ballet in this period was to display classical technique"
+          }
+        ],
+        "explanation": "Mục tiêu chính là trình diễn kỹ thuật, không phải kể chuyện."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "was introduced in the second half of the century"
+          }
+        ],
+        "explanation": "Có thời điểm và lý do giới thiệu tutu, không nói mức độ ưa chuộng của ballerinas."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "emigrated to America after dancing in Petrograd"
+          }
+        ],
+        "explanation": "Ông đã múa tại Petrograd và Paris trước khi đến Mỹ."
+      },
+      "8": {
+        "accepted": [
+          "floating"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the ballerina is floating on air"
+          }
+        ],
+        "explanation": "Giày tạo cảm giác vũ công đang nổi trên không."
+      },
+      "9": {
+        "accepted": [
+          "delicate"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "While they look very delicate"
+          }
+        ],
+        "explanation": "Bề ngoài mong manh nhưng thực tế cứng chắc."
+      },
+      "10": {
+        "accepted": [
+          "box"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a rigid box made of densely packed layers"
+          }
+        ],
+        "explanation": "Các lớp vật liệu tạo thành hộp cứng ở mũi giày."
+      },
+      "11": {
+        "accepted": [
+          "glue"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "hardened by glue"
+          }
+        ],
+        "explanation": "Keo làm các lớp vật liệu cứng lại."
+      },
+      "12": {
+        "accepted": [
+          "hammer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "pounding the box of the shoe with a hammer"
+          }
+        ],
+        "explanation": "Dùng búa làm mềm phần hộp để chuẩn bị giày."
+      },
+      "13": {
+        "accepted": [
+          "120"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "100 – 120 pairs of pointe shoes"
+          }
+        ],
+        "explanation": "Mức tối đa nêu trong bài là 120 đôi mỗi mùa."
+      }
+    },
+    "lessonSha256": "3e50475661848c6453d149679e7a83909a98ca09348b710e983dc9e94c9f45c8"
+  }
+}

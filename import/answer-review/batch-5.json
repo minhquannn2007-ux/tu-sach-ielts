@@ -1,0 +1,502 @@
+{
+  "p1-under-the-skin-of-a-great-violin": {
+    "lessonId": "p1-under-the-skin-of-a-great-violin",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the mystery of their exquisite sound"
+          }
+        ],
+        "explanation": "Âm thanh đặc biệt từng là bí ẩn; công nghệ mới đang làm sáng tỏ."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the degree of resolution it is possible to achieve with this method is far too low"
+          }
+        ],
+        "explanation": "Độ phân giải CT quá thấp để thấy các chi tiết quan trọng."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "lent to her by a wealthy banker"
+          }
+        ],
+        "explanation": "Chỉ nói chủ đàn cho nghệ sĩ mượn; không nói đồng ý hay từ chối cho nhóm nghiên cứu mượn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "not impossible that these imperfections have been made on purpose"
+          }
+        ],
+        "explanation": "Khuyết điểm có thể được tạo có chủ đích để loại âm không mong muốn."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "did not change throughout the experiment"
+          }
+        ],
+        "explanation": "Điều kiện được giữ ổn định nhưng không có so sánh nhiệt độ với phòng hòa nhạc."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "His research adds to the theories"
+          }
+        ],
+        "explanation": "Nghiên cứu bổ sung chứ không bác bỏ các giả thuyết khác; ông cho rằng có thể có nhiều nguyên nhân."
+      },
+      "7": {
+        "accepted": [
+          "profile"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "adjustments had been made to the profile of the openings"
+          }
+        ],
+        "explanation": "Hình dạng đường viền các lỗ f đã được chỉnh."
+      },
+      "8": {
+        "accepted": [
+          "restored"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "had been restored, with wood and paper patches added"
+          }
+        ],
+        "explanation": "Tấm mặt đã được phục chế bằng các miếng gỗ và giấy."
+      },
+      "9": {
+        "accepted": [
+          "rings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the rings in the wood were perfectly aligned"
+          }
+        ],
+        "explanation": "Các vòng gỗ của miếng vá được căn khớp."
+      },
+      "10": {
+        "accepted": [
+          "imperfections"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a host of tiny imperfections"
+          }
+        ],
+        "explanation": "Asymmetries là những bất toàn được ghi nhận."
+      },
+      "11": {
+        "accepted": [
+          "glued"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "removed and glued on to another patch"
+          }
+        ],
+        "explanation": "Một phần thanh bass được chuyển và dán vào miếng vá khác."
+      },
+      "12": {
+        "accepted": [
+          "insects"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Two tiny punctures made by insects"
+          }
+        ],
+        "explanation": "Côn trùng tạo hai lỗ nhỏ."
+      },
+      "13": {
+        "accepted": [
+          "crack"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a crack was visible on the underside"
+          }
+        ],
+        "explanation": "Mặt dưới có vết nứt."
+      }
+    },
+    "lessonSha256": "820903d9ddeb6814c07c9aa6e96faac8c3b3d7407369dab3a8d6ae7eb62df289",
+    "assetHashes": {}
+  },
+  "p1-the-search-for-an-alternative-to-plastic": {
+    "lessonId": "p1-the-search-for-an-alternative-to-plastic",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "revive the use of a raw material that was used to make some of the first plastics invented"
+          }
+        ],
+        "explanation": "Schiraldi quay lại nguyên liệu từng dùng cho những loại nhựa đầu tiên."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a substitute for materials like ivory and tortoiseshell"
+          }
+        ],
+        "explanation": "Casein xử lý được dùng thay ngà và đồi mồi, không làm mềm chúng."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "too brittle for use in the home"
+          }
+        ],
+        "explanation": "Nhựa casein quá giòn để dùng trong gia đình, trái với việc thường dùng làm đồ gia dụng."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "protein, which decomposes easily, is regarded as a virtue"
+          }
+        ],
+        "explanation": "Khả năng phân hủy của protein là ưu điểm khiến casein được quan tâm trở lại."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "matches the stiffness, strength and compressibility"
+          }
+        ],
+        "explanation": "Bài nói đặc tính và phân hủy, không nói giá nhựa thân thiện môi trường giảm."
+      },
+      "6": {
+        "accepted": [
+          "water"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "water can wash it away"
+          }
+        ],
+        "explanation": "Nước có thể cuốn trôi casein."
+      },
+      "7": {
+        "accepted": [
+          "skeleton"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "clay as a skeleton that holds the plastic together"
+          }
+        ],
+        "explanation": "Đất sét tạo bộ khung giữ nhựa."
+      },
+      "8": {
+        "accepted": [
+          "sponge"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a material resembling a sponge"
+          }
+        ],
+        "explanation": "Aerogel giống bọt biển."
+      },
+      "9": {
+        "accepted": [
+          "pores"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Stuffing the pores in the aerogel with plastic"
+          }
+        ],
+        "explanation": "Nhựa lấp lỗ rỗng để khắc phục độ giòn."
+      },
+      "10": {
+        "accepted": [
+          "bubbles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "stirred the result to get rid of the bubbles"
+          }
+        ],
+        "explanation": "Khuấy để loại bọt khí."
+      },
+      "11": {
+        "accepted": [
+          "dryer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "placed in a dryer that took all the water from it"
+          }
+        ],
+        "explanation": "Máy sấy lấy hết nước ra khỏi vật liệu."
+      },
+      "12": {
+        "accepted": [
+          "polystyrene"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "matches the stiffness, strength and compressibility of polystyrene"
+          }
+        ],
+        "explanation": "Vật liệu mới có tính chất cơ học tương đương polystyrene."
+      },
+      "13": {
+        "accepted": [
+          "decomposition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "this speed of decomposition"
+          }
+        ],
+        "explanation": "Ưu điểm chính là tốc độ phân hủy."
+      }
+    },
+    "lessonSha256": "3e0e857f447c31060ff0f2b8258c8f2eb30aa76d49c8fc98f0d38ffac925807a",
+    "assetHashes": {}
+  },
+  "p2-london-smog": {
+    "lessonId": "p2-london-smog",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "government figures show that about 1,700 people were registered dead"
+          }
+        ],
+        "explanation": "Con số 1700 là số liệu chính phủ."
+      },
+      "15": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Anderson's results fit the pattern he has seen in other cities"
+          }
+        ],
+        "explanation": "Dockery nói kết quả giống mô hình ông đã thấy ở các đô thị khác."
+      },
+      "16": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "According to John Bower"
+          }
+        ],
+        "explanation": "Bower nói đợt sương mù nghiêm trọng như năm 1991 hiếm gặp."
+      },
+      "17": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "If the same weather happens again, it would re-occur"
+          }
+        ],
+        "explanation": "Bower cảnh báo đợt tương tự có thể tái diễn."
+      },
+      "18": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "the Department of Health's Advisory Group had set a limit of 600 ppb"
+          }
+        ],
+        "explanation": "Ngưỡng cảnh báo do nhóm cố vấn Bộ Y tế đặt."
+      },
+      "19": {
+        "accepted": [
+          "traffic fumes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "built up from traffic fumes"
+          }
+        ],
+        "explanation": "Khí thải giao thông tích tụ tạo smog."
+      },
+      "20": {
+        "accepted": [
+          "four",
+          "4"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "during four windless days"
+          }
+        ],
+        "explanation": "Gió lặng kéo dài bốn ngày; chấp nhận chữ hoặc chữ số."
+      },
+      "21": {
+        "accepted": [
+          "breathing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "only weak effects on breathing"
+          }
+        ],
+        "explanation": "Tác động lên hô hấp được thấy là yếu ở nồng độ xét."
+      },
+      "22": {
+        "accepted": [
+          "cardiovascular",
+          "heart"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "cardiovascular disease"
+          }
+        ],
+        "explanation": "Đoạn 5 nêu bệnh tim mạch; đoạn 1 cũng nêu heart disease. Cả hai cách điền đều khớp nội dung và ngữ pháp."
+      },
+      "23": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "cannot prove that air pollution caused the extra deaths"
+          }
+        ],
+        "explanation": "Nghiên cứu dịch tễ không phải bằng chứng kết luận nhân quả."
+      },
+      "24": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "weather or another unexpected factor"
+          }
+        ],
+        "explanation": "Mức tăng có thể liên quan thời tiết hoặc yếu tố bất ngờ khác."
+      },
+      "25": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "It is not clear whether nitrogen dioxide or particulates were to blame"
+          }
+        ],
+        "explanation": "Bài không xác định tác nhân hay xếp hạng mức đóng góp của hai chất. Nồng độ NO2 cao hơn không chứng minh vai trò gây chết lớn hơn."
+      },
+      "26": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "a limit of 600 ppb for nitrogen dioxide"
+          }
+        ],
+        "explanation": "Chỉ nêu ngưỡng NO2; không đủ thông tin để kết luận chính phủ có hay không đặt ngưỡng bụi."
+      }
+    },
+    "lessonSha256": "86af428a3773eaf134cf447bf8af2e9530f110a6543f94074948789d21f8c125",
+    "assetHashes": {}
+  }
+}

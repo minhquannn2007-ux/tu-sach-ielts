@@ -2720,5 +2720,1517 @@
     },
     "lessonSha256": "d0fb1b35f0eb23eb57c131abed398833464905e7fd77e32ac2e3413d820748ae",
     "assetHashes": {}
+  },
+  "p1-the-english-canal-system": {
+    "lessonId": "p1-the-english-canal-system",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the smaller scale of works necessary for canal and river navigations in England would certainly have made it easier"
+          }
+        ],
+        "explanation": "Sông nhỏ làm công trình dễ thực hiện hơn với kỹ thuật còn sơ khai; sông lớn sẽ khó hơn."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Merchants who owned factories or who sold the goods produced needed cheap transport"
+          }
+        ],
+        "explanation": "Cần vận tải rẻ không chứng minh các thương nhân đã từ chối trả phí đường bộ."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "unlike many of the European canals, which were financed by the aristocracy"
+          }
+        ],
+        "explanation": "Kênh Anh do thương nhân tài trợ, khác nhiều kênh châu Âu do quý tộc tài trợ."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "canals leading to coastal rivers and ports were wider"
+          }
+        ],
+        "explanation": "Chiều rộng kênh khác nhau giữa vùng công nghiệp và kênh ra cảng."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "By the second half of the 18th century"
+          }
+        ],
+        "explanation": "Âu thuyền đã được xây cùng hệ thống kênh ở thế kỷ 18, không phải lần đầu ở thế kỷ 19."
+      },
+      "6": {
+        "accepted": [
+          "hills"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "enabled canals to be built in areas where there were hills"
+          }
+        ],
+        "explanation": "Locks giúp thuyền đi qua vùng có đồi."
+      },
+      "7": {
+        "accepted": [
+          "central chamber",
+          "chamber"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "When a boat was in the central chamber"
+          }
+        ],
+        "explanation": "Thuyền được đóng trong khoang trung tâm; chamber cũng đủ nghĩa và trong giới hạn hai từ."
+      },
+      "8": {
+        "accepted": [
+          "sluice gates"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "water could enter or leave the lock through the sluice gates"
+          }
+        ],
+        "explanation": "Cửa cống điều chỉnh nước vào/ra để nâng hoặc hạ thuyền."
+      },
+      "9": {
+        "accepted": [
+          "equal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the water levels both inside and outside the lock were equal"
+          }
+        ],
+        "explanation": "Mực nước phải bằng nhau trước khi mở cửa cho thuyền ra."
+      },
+      "10": {
+        "accepted": [
+          "speculators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a means of making money by speculators"
+          }
+        ],
+        "explanation": "Nhà đầu cơ ngoài địa phương coi kênh là cách kiếm tiền."
+      },
+      "11": {
+        "accepted": [
+          "northern England"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "usually wide canals in northern England"
+          }
+        ],
+        "explanation": "Các kênh có lãi thường ở miền bắc nước Anh."
+      },
+      "12": {
+        "accepted": [
+          "agricultural regions"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Many canals of this period were built in agricultural regions"
+          }
+        ],
+        "explanation": "Vùng nông nghiệp không cung cấp đủ hàng công nghiệp để sinh lời."
+      },
+      "13": {
+        "accepted": [
+          "railway companies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "railway companies purchased many of the canals"
+          }
+        ],
+        "explanation": "Các công ty đường sắt mua nhiều kênh để giảm cạnh tranh."
+      }
+    },
+    "lessonSha256": "9b3cedd734c5c52eddd3e819d94a9a69eda37a8f40457cf0f1cc09a3c3831700",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p1-new-zealand-pottery": {
+    "lessonId": "p1-new-zealand-pottery",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "had lost the art of pottery-making before moving from their islands"
+          }
+        ],
+        "explanation": "Người Maori đã mất nghề gốm trước khi đến; ngành đất sét tại New Zealand bắt đầu với người châu Âu."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the clay deposits that were to be found in most areas of New Zealand"
+          }
+        ],
+        "explanation": "Không so sánh chất lượng đất sét New Zealand với châu Âu."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "only made drainage pipes and bricks"
+          }
+        ],
+        "explanation": "Sản phẩm đầu tiên là ống thoát nước và gạch; đồ trang trí xuất hiện muộn hơn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "felt compelled to migrate to New Zealand in order to find work"
+          }
+        ],
+        "explanation": "Một số thợ gốm buộc phải di cư để tìm việc khi xưởng Anh đóng cửa."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Past feelings of embarrassment"
+          }
+        ],
+        "explanation": "Trước đây từng xấu hổ về gốm địa phương, không phải luôn tự hào."
+      },
+      "6": {
+        "accepted": [
+          "thesis"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a thesis towards her master's degree"
+          }
+        ],
+        "explanation": "Mein viết luận văn về ngành gốm."
+      },
+      "7": {
+        "accepted": [
+          "anthropologist"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "an anthropologist from Otago Museum named Stuart Park"
+          }
+        ],
+        "explanation": "Stuart Park là nhà nhân học."
+      },
+      "8": {
+        "accepted": [
+          "exhibition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "an exhibition of New Zealand ceramies"
+          }
+        ],
+        "explanation": "Park tổ chức triển lãm đầu tiên thuộc loại này."
+      },
+      "9": {
+        "accepted": [
+          "collectors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "also collectors came to understand the value of ceramics"
+          }
+        ],
+        "explanation": "Ngoài bảo tàng, giới sưu tầm cũng chú ý."
+      },
+      "10": {
+        "accepted": [
+          "companies"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "researching specific companies"
+          }
+        ],
+        "explanation": "Lambert bắt đầu bằng nghiên cứu các công ty cụ thể."
+      },
+      "11": {
+        "accepted": [
+          "fires"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "fires were a common occurrence in pottery factories"
+          }
+        ],
+        "explanation": "Hỏa hoạn phá hủy hồ sơ công ty."
+      },
+      "12": {
+        "accepted": [
+          "interviews"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "conduct interviews in order to find the historical details"
+          }
+        ],
+        "explanation": "Bà phỏng vấn người từng làm trong xưởng và con cháu."
+      },
+      "13": {
+        "accepted": [
+          "book"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "publish her research in the form of a book in 1985"
+          }
+        ],
+        "explanation": "Nghiên cứu được xuất bản thành sách."
+      }
+    },
+    "lessonSha256": "af36832eaaf8edf02e1eb2d5fbe78faadeb90fd327a7097e4acc52b0e2695f58",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p1-radiocarbon-dating": {
+    "lessonId": "p1-radiocarbon-dating",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "discovered by local people"
+          }
+        ],
+        "explanation": "Di cốt do người địa phương tìm thấy, không phải Athfield."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "in large ceramic jars and hollowed-out logs"
+          }
+        ],
+        "explanation": "Bài nêu vật chứa nhưng không đánh giá di cốt còn tốt hay không."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "drawn Athfield away from her regular employment"
+          }
+        ],
+        "explanation": "Nghiên cứu ở Campuchia khiến bà tạm rời công việc thường lệ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a film-making company requested"
+          }
+        ],
+        "explanation": "Yêu cầu ban đầu đến từ công ty làm phim, không phải chính phủ."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the city was permanently abandoned"
+          }
+        ],
+        "explanation": "Nhà làm phim nghiên cứu nơi an nghỉ của hoàng tộc; thành phố bị bỏ hoang vĩnh viễn chứ không được tái thiết."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "many stories were told of surviving members of the royal family"
+          }
+        ],
+        "explanation": "Không nêu bà ban đầu tin hay nghi ngờ các chuyện kể."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "dashing the possibility of Angkorian royalty"
+          }
+        ],
+        "explanation": "Định tuổi đến năm 1620 bác bỏ giả thuyết các mẫu Cardamom ban đầu là hoàng tộc Angkor."
+      },
+      "8": {
+        "accepted": [
+          "university"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "to her surprise she was accepted"
+          }
+        ],
+        "explanation": "Bà bất ngờ được nhận vào đại học sau khi bạn khuyên thi đầu vào."
+      },
+      "9": {
+        "accepted": [
+          "rat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a rat species had arrived in New Zealand"
+          }
+        ],
+        "explanation": "Luận án nghiên cứu thời điểm một loài chuột xuất hiện."
+      },
+      "10": {
+        "accepted": [
+          "archaeologist"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "working as a fully qualified archaeologist in the UK"
+          }
+        ],
+        "explanation": "Bà làm nhà khảo cổ chuyên nghiệp trước chuyến Campuchia."
+      },
+      "11": {
+        "accepted": [
+          "funding"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a lack of funding"
+          }
+        ],
+        "explanation": "Thiếu kinh phí ngăn việc tiếp tục nghiên cứu."
+      },
+      "12": {
+        "accepted": [
+          "database"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "create a Cambodia-wide radiocarbon database"
+          }
+        ],
+        "explanation": "Dự án lập cơ sở dữ liệu định tuổi phóng xạ toàn Campuchia."
+      },
+      "13": {
+        "accepted": [
+          "map"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "an extensive geological map"
+          }
+        ],
+        "explanation": "Thiếu bản đồ địa chất chi tiết làm nghiên cứu khó hơn."
+      }
+    },
+    "lessonSha256": "70d6f45371d1d1cd30048deb4277ee343feef567c7d40315ce07951311a14c97",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p3-bright-sparks": {
+    "lessonId": "p3-bright-sparks",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "he proceeded to teach little Zsuzsa at home"
+          }
+        ],
+        "explanation": "Polgar áp dụng niềm tin nuôi dạy lên chính các con mình."
+      },
+      "28": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "train 70,000 high-school teachers to lead advanced courses"
+          }
+        ],
+        "explanation": "Sáng kiến tăng số giáo viên có thể dạy khóa nâng cao, không phải tăng tổng biên chế trường học."
+      },
+      "29": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Teachers are often against the idea of separate provision"
+          }
+        ],
+        "explanation": "Ở Anh có phản đối việc tách trẻ giỏi để đầu tư riêng."
+      },
+      "30": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "only seven in ten secondary schools have nominated even a single child"
+          }
+        ],
+        "explanation": "Mức đề cử hạn chế cho thấy trường chưa nhiệt tình hỗ trợ chương trình."
+      },
+      "31": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "ranked as 'moderately', 'highly', 'exceptionally' and 'profoundly' gifted"
+          }
+        ],
+        "explanation": "Trẻ giỏi ở Mỹ được xếp vào các nhóm khác nhau."
+      },
+      "32": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "makes people flinch from the idea of treating brainy children differently"
+          }
+        ],
+        "explanation": "Giá trị khiêm tốn và đoàn kết ở Scandinavia chống đối đãi đặc biệt."
+      },
+      "33": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Those who learn quickest are expected then to teach their classmates"
+          }
+        ],
+        "explanation": "Học sinh tiếp thu chậm được bạn tiếp thu nhanh giúp."
+      },
+      "34": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "all that is asked is excellent attendance"
+          }
+        ],
+        "explanation": "Lớp ở children’s palaces yêu cầu đi học đều."
+      },
+      "35": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Japan and Finland — can eschew selection and still thrive"
+          }
+        ],
+        "explanation": "Nhật và Phần Lan vẫn đạt kết quả tốt không cần tuyển chọn."
+      },
+      "36": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Statistics give little clue as to which system is best"
+          }
+        ],
+        "explanation": "Thống kê ít giúp xác định hệ thống nào tốt nhất, trái với phát biểu."
+      },
+      "37": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "middle-class parents try to live near the best schools"
+          }
+        ],
+        "explanation": "Phụ huynh trung lưu chủ động chọn nơi ở để con vào trường tốt."
+      },
+      "38": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "places with more diverse populations and less competent teachers"
+          }
+        ],
+        "explanation": "Hiệu quả mô hình Scandinavia gắn với điều kiện dân số và giáo viên ở đó."
+      },
+      "39": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "he planned to prove it by adopting three baby boys"
+          }
+        ],
+        "explanation": "Bài nêu dự định nhận nuôi nhưng không nói bị ngăn cản."
+      },
+      "40": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "she was the only one who did not achieve the status of grand master"
+          }
+        ],
+        "explanation": "Zsofia được xem tài năng nhất nhưng là người duy nhất không đạt đại kiện tướng."
+      }
+    },
+    "lessonSha256": "06166921afbc1a8d614fa191e16c37a20475b5cd9ec4e2da599ac6a0b54f160e",
+    "assetHashes": {},
+    "secondPassNotes": "Rechecked each task against full reading, including NOT GIVEN versus contradiction and exact answer limits."
+  },
+  "p1-under-the-skin-of-a-great-violin": {
+    "lessonId": "p1-under-the-skin-of-a-great-violin",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the mystery of their exquisite sound"
+          }
+        ],
+        "explanation": "Âm thanh đặc biệt từng là bí ẩn; công nghệ mới đang làm sáng tỏ."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the degree of resolution it is possible to achieve with this method is far too low"
+          }
+        ],
+        "explanation": "Độ phân giải CT quá thấp để thấy các chi tiết quan trọng."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "lent to her by a wealthy banker"
+          }
+        ],
+        "explanation": "Chỉ nói chủ đàn cho nghệ sĩ mượn; không nói đồng ý hay từ chối cho nhóm nghiên cứu mượn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "not impossible that these imperfections have been made on purpose"
+          }
+        ],
+        "explanation": "Khuyết điểm có thể được tạo có chủ đích để loại âm không mong muốn."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "did not change throughout the experiment"
+          }
+        ],
+        "explanation": "Điều kiện được giữ ổn định nhưng không có so sánh nhiệt độ với phòng hòa nhạc."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "His research adds to the theories"
+          }
+        ],
+        "explanation": "Nghiên cứu bổ sung chứ không bác bỏ các giả thuyết khác; ông cho rằng có thể có nhiều nguyên nhân."
+      },
+      "7": {
+        "accepted": [
+          "profile"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "adjustments had been made to the profile of the openings"
+          }
+        ],
+        "explanation": "Hình dạng đường viền các lỗ f đã được chỉnh."
+      },
+      "8": {
+        "accepted": [
+          "restored"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "had been restored, with wood and paper patches added"
+          }
+        ],
+        "explanation": "Tấm mặt đã được phục chế bằng các miếng gỗ và giấy."
+      },
+      "9": {
+        "accepted": [
+          "rings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the rings in the wood were perfectly aligned"
+          }
+        ],
+        "explanation": "Các vòng gỗ của miếng vá được căn khớp."
+      },
+      "10": {
+        "accepted": [
+          "imperfections"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a host of tiny imperfections"
+          }
+        ],
+        "explanation": "Asymmetries là những bất toàn được ghi nhận."
+      },
+      "11": {
+        "accepted": [
+          "glued"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "removed and glued on to another patch"
+          }
+        ],
+        "explanation": "Một phần thanh bass được chuyển và dán vào miếng vá khác."
+      },
+      "12": {
+        "accepted": [
+          "insects"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Two tiny punctures made by insects"
+          }
+        ],
+        "explanation": "Côn trùng tạo hai lỗ nhỏ."
+      },
+      "13": {
+        "accepted": [
+          "crack"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a crack was visible on the underside"
+          }
+        ],
+        "explanation": "Mặt dưới có vết nứt."
+      }
+    },
+    "lessonSha256": "820903d9ddeb6814c07c9aa6e96faac8c3b3d7407369dab3a8d6ae7eb62df289",
+    "assetHashes": {}
+  },
+  "p1-the-search-for-an-alternative-to-plastic": {
+    "lessonId": "p1-the-search-for-an-alternative-to-plastic",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "revive the use of a raw material that was used to make some of the first plastics invented"
+          }
+        ],
+        "explanation": "Schiraldi quay lại nguyên liệu từng dùng cho những loại nhựa đầu tiên."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a substitute for materials like ivory and tortoiseshell"
+          }
+        ],
+        "explanation": "Casein xử lý được dùng thay ngà và đồi mồi, không làm mềm chúng."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "too brittle for use in the home"
+          }
+        ],
+        "explanation": "Nhựa casein quá giòn để dùng trong gia đình, trái với việc thường dùng làm đồ gia dụng."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "protein, which decomposes easily, is regarded as a virtue"
+          }
+        ],
+        "explanation": "Khả năng phân hủy của protein là ưu điểm khiến casein được quan tâm trở lại."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "matches the stiffness, strength and compressibility"
+          }
+        ],
+        "explanation": "Bài nói đặc tính và phân hủy, không nói giá nhựa thân thiện môi trường giảm."
+      },
+      "6": {
+        "accepted": [
+          "water"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "water can wash it away"
+          }
+        ],
+        "explanation": "Nước có thể cuốn trôi casein."
+      },
+      "7": {
+        "accepted": [
+          "skeleton"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "clay as a skeleton that holds the plastic together"
+          }
+        ],
+        "explanation": "Đất sét tạo bộ khung giữ nhựa."
+      },
+      "8": {
+        "accepted": [
+          "sponge"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a material resembling a sponge"
+          }
+        ],
+        "explanation": "Aerogel giống bọt biển."
+      },
+      "9": {
+        "accepted": [
+          "pores"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Stuffing the pores in the aerogel with plastic"
+          }
+        ],
+        "explanation": "Nhựa lấp lỗ rỗng để khắc phục độ giòn."
+      },
+      "10": {
+        "accepted": [
+          "bubbles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "stirred the result to get rid of the bubbles"
+          }
+        ],
+        "explanation": "Khuấy để loại bọt khí."
+      },
+      "11": {
+        "accepted": [
+          "dryer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "placed in a dryer that took all the water from it"
+          }
+        ],
+        "explanation": "Máy sấy lấy hết nước ra khỏi vật liệu."
+      },
+      "12": {
+        "accepted": [
+          "polystyrene"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "matches the stiffness, strength and compressibility of polystyrene"
+          }
+        ],
+        "explanation": "Vật liệu mới có tính chất cơ học tương đương polystyrene."
+      },
+      "13": {
+        "accepted": [
+          "decomposition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "this speed of decomposition"
+          }
+        ],
+        "explanation": "Ưu điểm chính là tốc độ phân hủy."
+      }
+    },
+    "lessonSha256": "3e0e857f447c31060ff0f2b8258c8f2eb30aa76d49c8fc98f0d38ffac925807a",
+    "assetHashes": {}
+  },
+  "p2-london-smog": {
+    "lessonId": "p2-london-smog",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "government figures show that about 1,700 people were registered dead"
+          }
+        ],
+        "explanation": "Con số 1700 là số liệu chính phủ."
+      },
+      "15": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Anderson's results fit the pattern he has seen in other cities"
+          }
+        ],
+        "explanation": "Dockery nói kết quả giống mô hình ông đã thấy ở các đô thị khác."
+      },
+      "16": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "According to John Bower"
+          }
+        ],
+        "explanation": "Bower nói đợt sương mù nghiêm trọng như năm 1991 hiếm gặp."
+      },
+      "17": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "If the same weather happens again, it would re-occur"
+          }
+        ],
+        "explanation": "Bower cảnh báo đợt tương tự có thể tái diễn."
+      },
+      "18": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "the Department of Health's Advisory Group had set a limit of 600 ppb"
+          }
+        ],
+        "explanation": "Ngưỡng cảnh báo do nhóm cố vấn Bộ Y tế đặt."
+      },
+      "19": {
+        "accepted": [
+          "traffic fumes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "built up from traffic fumes"
+          }
+        ],
+        "explanation": "Khí thải giao thông tích tụ tạo smog."
+      },
+      "20": {
+        "accepted": [
+          "four",
+          "4"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "during four windless days"
+          }
+        ],
+        "explanation": "Gió lặng kéo dài bốn ngày; chấp nhận chữ hoặc chữ số."
+      },
+      "21": {
+        "accepted": [
+          "breathing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "only weak effects on breathing"
+          }
+        ],
+        "explanation": "Tác động lên hô hấp được thấy là yếu ở nồng độ xét."
+      },
+      "22": {
+        "accepted": [
+          "cardiovascular",
+          "heart"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "cardiovascular disease"
+          }
+        ],
+        "explanation": "Đoạn 5 nêu bệnh tim mạch; đoạn 1 cũng nêu heart disease. Cả hai cách điền đều khớp nội dung và ngữ pháp."
+      },
+      "23": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "cannot prove that air pollution caused the extra deaths"
+          }
+        ],
+        "explanation": "Nghiên cứu dịch tễ không phải bằng chứng kết luận nhân quả."
+      },
+      "24": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "weather or another unexpected factor"
+          }
+        ],
+        "explanation": "Mức tăng có thể liên quan thời tiết hoặc yếu tố bất ngờ khác."
+      },
+      "25": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "It is not clear whether nitrogen dioxide or particulates were to blame"
+          }
+        ],
+        "explanation": "Bài không xác định tác nhân hay xếp hạng mức đóng góp của hai chất. Nồng độ NO2 cao hơn không chứng minh vai trò gây chết lớn hơn."
+      },
+      "26": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "a limit of 600 ppb for nitrogen dioxide"
+          }
+        ],
+        "explanation": "Chỉ nêu ngưỡng NO2; không đủ thông tin để kết luận chính phủ có hay không đặt ngưỡng bụi."
+      }
+    },
+    "lessonSha256": "86af428a3773eaf134cf447bf8af2e9530f110a6543f94074948789d21f8c125",
+    "assetHashes": {}
+  },
+  "p1-a-brief-history-of-canned-food": {
+    "lessonId": "p1-a-brief-history-of-canned-food",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "soldiers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "your soldiers are hungry and malnourished"
+          }
+        ],
+        "explanation": "Chính phủ cần bảo quản thực phẩm để nuôi binh lính."
+      },
+      "2": {
+        "accepted": [
+          "cork",
+          "seals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "using seals made of cork to make them airtight"
+          }
+        ],
+        "explanation": "Dùng nút bằng cork để bịt kín lọ; cả vật liệu cork và seals đều phù hợp một từ trong câu hỏi."
+      },
+      "3": {
+        "accepted": [
+          "tin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the use of tin vessels as well as glass jars"
+          }
+        ],
+        "explanation": "Durand bổ sung vật chứa bằng thiếc."
+      },
+      "4": {
+        "accepted": [
+          "pressure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "using pressure to raise canning temperatures"
+          }
+        ],
+        "explanation": "Áp suất giúp nâng nhiệt độ."
+      },
+      "5": {
+        "accepted": [
+          "bacteria"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "ensure that any bacteria beneath employees’ fingernails stayed out of the food"
+          }
+        ],
+        "explanation": "Quy định vệ sinh nhằm ngăn vi khuẩn vào thực phẩm."
+      },
+      "6": {
+        "accepted": [
+          "research"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The research done by the laboratory"
+          }
+        ],
+        "explanation": "Tổ chức lập ra để nghiên cứu vi khuẩn học."
+      },
+      "7": {
+        "accepted": [
+          "milk"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "invented in Switzerland in the 1960s for processing milk"
+          }
+        ],
+        "explanation": "Công nghệ ban đầu dùng xử lý sữa."
+      },
+      "8": {
+        "accepted": [
+          "salt"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The addition of salt was one technique"
+          }
+        ],
+        "explanation": "Thêm muối để giữ màu và phần nào hương vị."
+      },
+      "9": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Durand used techniques similar to Appert’s"
+          }
+        ],
+        "explanation": "Durand dựa trên kỹ thuật Appert vừa nhận giải."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "canned food was initially produced for soldiers and explorers"
+          }
+        ],
+        "explanation": "Ban đầu phục vụ binh lính và nhà thám hiểm."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "newspapers were full of accounts not only of food poisoning"
+          }
+        ],
+        "explanation": "Có báo cáo ngộ độc nhưng không nói nhà sản xuất phủ nhận trách nhiệm."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "at least good for consumers"
+          }
+        ],
+        "explanation": "Nói lợi ích với người dùng, không đưa kết quả doanh số."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "sodium benzoate, which is still used today in canned food"
+          }
+        ],
+        "explanation": "Chất phụ gia vẫn dùng tới nay; không bị loại bỏ hoàn toàn sau công nghệ hơi nước."
+      }
+    },
+    "lessonSha256": "bcec2566e12adc784689478eeb3a5427611de7886a39cd78eacd6ffb7d87df27"
+  },
+  "p1-a-brief-history-of-ballet": {
+    "lessonId": "p1-a-brief-history-of-ballet",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The nobility were treated to extravagant events"
+          }
+        ],
+        "explanation": "Ballet đầu tiên là phần giải trí cho quý tộc Ý."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "including that of the Sun King in Ballet de la Nuit"
+          }
+        ],
+        "explanation": "Có biểu diễn vai này, không nói đây là ballet yêu thích nhất."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "rebeiled against the artifice of opera-ballet"
+          }
+        ],
+        "explanation": "Noverre phản đối sự gắn kết opera-ballet và cho rằng ballet có thể độc lập."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "often showed women as passive and fragile"
+          }
+        ],
+        "explanation": "Nói cách thể hiện phụ nữ, không đưa tỷ lệ giới tính vũ công."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The primary purpose of Russian ballet in this period was to display classical technique"
+          }
+        ],
+        "explanation": "Mục tiêu chính là trình diễn kỹ thuật, không phải kể chuyện."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "was introduced in the second half of the century"
+          }
+        ],
+        "explanation": "Có thời điểm và lý do giới thiệu tutu, không nói mức độ ưa chuộng của ballerinas."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "emigrated to America after dancing in Petrograd"
+          }
+        ],
+        "explanation": "Ông đã múa tại Petrograd và Paris trước khi đến Mỹ."
+      },
+      "8": {
+        "accepted": [
+          "floating"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the ballerina is floating on air"
+          }
+        ],
+        "explanation": "Giày tạo cảm giác vũ công đang nổi trên không."
+      },
+      "9": {
+        "accepted": [
+          "delicate"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "While they look very delicate"
+          }
+        ],
+        "explanation": "Bề ngoài mong manh nhưng thực tế cứng chắc."
+      },
+      "10": {
+        "accepted": [
+          "box"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a rigid box made of densely packed layers"
+          }
+        ],
+        "explanation": "Các lớp vật liệu tạo thành hộp cứng ở mũi giày."
+      },
+      "11": {
+        "accepted": [
+          "glue"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "hardened by glue"
+          }
+        ],
+        "explanation": "Keo làm các lớp vật liệu cứng lại."
+      },
+      "12": {
+        "accepted": [
+          "hammer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "pounding the box of the shoe with a hammer"
+          }
+        ],
+        "explanation": "Dùng búa làm mềm phần hộp để chuẩn bị giày."
+      },
+      "13": {
+        "accepted": [
+          "120"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "100 – 120 pairs of pointe shoes"
+          }
+        ],
+        "explanation": "Mức tối đa nêu trong bài là 120 đôi mỗi mùa."
+      }
+    },
+    "lessonSha256": "3e50475661848c6453d149679e7a83909a98ca09348b710e983dc9e94c9f45c8"
   }
 }
