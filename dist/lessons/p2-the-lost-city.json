@@ -1,0 +1,162 @@
+{
+  "id": "p2-the-lost-city",
+  "part": 2,
+  "title": "THE LOST CITY",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The low granite mountain known as Kerkenes Dag juts from the northern edge of the Cappadocian plain in Turkey. Sprawled over the mountainside are the ruins of an enormous city, contained by crumbling defensive walls seven kilometres long. Many respected archaeologists believe these are the remains of the fabled city of Pteria, the sixth-century BC stronghold of the Medes that the Greek historian Herodotus described in his famous work The Histories. The short-lived city came under Median control and only fifty years later was sacked, burned and its strong stone walls destroyed."
+    },
+    {
+      "label": "B",
+      "text": "British archaeologist Dr Geoffrey Summers has spent ten years studying the site. Excavating the ruins is a challenge because of the vast area they cover. The 7 km perimeter walls run around a site covering 271 hectares. Dr Summers quickly realised it would take far too long to excavate the site using traditional techniques alone. So he decided to use modern technology as well to map the entire site, both above and beneath the surface, to locate the most interesting areas and prioritise where to start digging."
+    },
+    {
+      "label": "C",
+      "text": "The first year, Dr Summers hired a special hand-held balloon with a remote-controlled camera attached. He walked over the entire site holding the balloon and taking photos. Then one afternoon, he rented a hot-air balloon and floated over the site, taking yet more pictures. By the end of the second season, Dr Summers and his team had a jigsaw of aerial photographs of the whole site. The next stage was to use remote sensing, which would let them work out what lay below the intriguing outlines and ruined walls. ‘Archaeology is a discipline that lends itself very well to remote sensing because it revolves around space,’ says Scott Branting, an associate director of the project."
+    },
+    {
+      "label": "D",
+      "text": "The project used two main remote-sensing techniques. The first is magnetometry, which works on the principle that magnetic fields at the surface of the Earth are influenced by what is buried beneath. It measures localised variations in the direction and intensity of this magnetic field. ‘The Earth’s magnetic field can vary from place to place, depending on what happened there in the past,’ says Branting. ‘If something containing iron oxide was heavily burnt, by natural or human actions, the iron particles in it can be permanently reoriented, like a compass needle, to align with the Earth’s magnetic field present at that point in time and space.’ The magnetometer detects differences in the orientations and intensities of these iron particles from the present-day magnetic field and uses them to produce an image of what lies below ground."
+    },
+    {
+      "label": "E",
+      "text": "Kerkenes Dag lends itself particularly well to magnetometry because it was all burnt at once in a savage fire. In places the heat was sufficient to turn sandstone to glass and to melt granite. The fire was so hot that there were strong magnetic signatures set to the Earth’s magnetic field from the time — around 547 BC — resulting in extremely clear pictures. Furthermore, the city was never rebuilt. ‘If you have multiple layers going very deep, you get a very confusing picture, because you have different walls from different periods giving signatures that all go in different directions,’ says Branting. ‘We only have one going down about 1.5 metres, so we can get a good picture of this fairly short-lived city.’"
+    },
+    {
+      "label": "F",
+      "text": "The other main sub-surface mapping technique, which is still being used at the site, is resistivity. This measures the way electrical pulses are conducted through sub-surface soil. It’s done by shooting pulses into the ground through a thin metal probe. Different materials have different electrical conductivity. For example, stone and mudbrick are poor conductors, but looser, damp soil conducts very well. By walking around the site and taking about four readings per metre, it is possible to get a detailed idea of what is where beneath the surface. The teams then build up pictures of walls, hearths and other remains. ‘It helps a lot if it has rained, because the electrical pulse can get through more easily,’ says Branting. ‘Then if something is more resistant, it really shows up.’ This is one of the reasons that the project has a spring season, when most of the resistivity work is done. Unfortunately, testing resistivity is a lot slower than magnetometry. ‘If we did resistivity over the whole site it would take about 100 years,’ says Branting. Consequently, the team is concentrating on areas where they want to clarify pictures from the magnetometry."
+    },
+    {
+      "label": "G",
+      "text": "Remote sensing does not reveal everything about Kerkenes Dag, but it shows the most interesting sub-surface areas of the site. The archaeologists can then excavate these using traditional techniques. One surprise came when they dug out one of the gates in the defensive walls. ‘Our observations in early seasons led us to assume that we were looking at a stone base for a mud-brick city wall, such as would be found at most other cities in the Ancient Near East,’ says Dr Summers. ‘When we started to excavate we were staggered to discover that the walls were made entirely from stone and that the gate would have stood at least ten metres high. After ten years of study, Pteria is gradually giving up its secrets.’"
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 — 17 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-17 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "the reason for the deployment of a variety of investigative methods"
+        },
+        {
+          "n": 15,
+          "prompt": "an example of an unexpected find"
+        },
+        {
+          "n": 16,
+          "prompt": "how the surface of the site was surveyed from above"
+        },
+        {
+          "n": 17,
+          "prompt": "the reason why experts are interested in the site"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "paragraphUnit": "paragraphs",
+      "reuse": false
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 18–25 Complete the summary below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "content": [
+        "Archaeologists began work ten years ago. They started by taking photographs of the site from the ground and then from a distance in a {{18}}. They focused on what lay below the surface using a magnetometer, which identifies variations in the magnetic field. These occur when the {{19}} in buried structures have changed direction as a result of great heat. They line up with the surrounding magnetic field just as a {{20}} would do.",
+        "The other remote-sensing technique employed was resistivity. This uses a {{21}} to fire electrical pulses into the earth. The principle is that building materials like {{22}} and stone do not conduct electricity well, while {{23}} does this much more effectively. This technique is mainly employed during the {{24}}, when conditions are more favourable. Resistivity is mainly being used to {{25}} some images generated by the magnetometer."
+      ],
+      "questions": [
+        {
+          "n": 18
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        }
+      ],
+      "title": "Exploring the ancient city of Pteria"
+    },
+    {
+      "sourceInstructions": "Question 26 Choose the correct letter, A, B, C or D. Write the correct letter in box 26 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 26,
+          "prompt": "How do modern remote-sensing techniques help at the Pteria site?",
+          "options": [
+            {
+              "value": "A",
+              "text": "They detect minute buried objects for the archaeologists to dig up."
+            },
+            {
+              "value": "B",
+              "text": "They pinpoint key areas which would be worth investigating closely."
+            },
+            {
+              "value": "C",
+              "text": "They remove the need for archaeologists to excavate any part of the site."
+            },
+            {
+              "value": "D",
+              "text": "They extend the research period as they can be used at any time of year."
+            }
+          ]
+        }
+      ],
+      "type": "mc-one"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p2-the-lost-city",
+    "sourceParagraphCount": 7,
+    "requiresReview": false
+  },
+  "subtitle": "Thanks to modern remote-sensing techniques, a ruined city in Turkey is slowly revealing itself as one of the greatest and most mysterious cities of the ancient world. Sally Palmer uncovers more",
+  "cover": {
+    "asset": "assets/cover-unique/p2-the-lost-city.svg",
+    "alt": "THE LOST CITY — Kerkenes",
+    "credit": "Seraksin",
+    "source": "https://commons.wikimedia.org/wiki/File:Kerkenes.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

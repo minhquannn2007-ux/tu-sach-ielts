@@ -1,0 +1,160 @@
+{
+  "id": "p1-feeding-the-world",
+  "part": 1,
+  "title": "Feeding the world",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The world’s population continues to climb and, despite the rise of high-tech agriculture, 800 million people don’t get enough to eat. Admittedly, this is often due to lack of money since the world actually produces enough for everyone. However, by 2050 we will have 9 billion mouths to feed, 3 billion more than today. ‘Agriculture must become the solution to environmental problems in 50 years. If we don’t have systems that make the environment better - not just hold the fort - then we’re in trouble,’ says Kenneth Cassman, an agronomist at the University of Nebraska in America. That view was echoed by the Curry Report, a government panel that surveyed the future of farming in Britain."
+    },
+    {
+      "text": "Concerned consumers are facing what appears to be an ever-widening ideological divide. In one corner are the techno-optimists, who put their faith in genetically modified crops and improved agro-chemicals; in the other are advocates of organic farming,* who reject artificial chemicals and embrace back-to-nature techniques. Both sides cite plausible science to back their claims, leaving many people to believe we're faced with a stark choice between two mutually incompatible options."
+    },
+    {
+      "text": "Not so. If you set ideology aside, and simply ask how the world can produce the food it needs with the least environmental cost, a new middle way opens. Like today’s organic farming, the intelligent farming of the future should pay much more attention to the health of its soil and the ecosystem it is part of, as well as making shrewd and locally appropriate use of chemical fertilisers and pesticides. The most crucial ingredient in this new style of agriculture is not chemicals but information about what is happening in each field and how to respond."
+    },
+    {
+      "text": "Organic farming sounds attractive since an approach that rejects synthetic chemicals surely runs no risk of poisoning land and water and its emphasis on natural ecosystems seems to be good for everyone. Perhaps these easy assumptions explain why sales of organic food across Europe are increasing by at least 50% a year. Going organic sounds idyllic but it is also naive and has its own suite of environmental costs, which can be worse than those of conventional farming, especially if it were to become the world norm. Fundamentally, the organic versus chemical debate focuses on the wrong question. The issue is not what you put into a farm, but what you get out of it, both in terms of crop yields and pollutants."
+    },
+    {
+      "text": "It is a fundamental belief of organic farming that chemical fertilisers are unwholesome, and plant nutrients must come from natural sources. But, in effect, the main environmental damage done by chemical fertilisers, as opposed to any other kind, is through the carbon dioxide from the fossil fuels used in their synthesis, and nitrogen oxides released by their degradation. Excess nitrogen from chemical fertilisers can pollute ground water, but so can excess nitrogen from organic manures."
+    },
+    {
+      "text": "Advocates of organic farming like to point out that fields organically managed can produce yields just as high as fields enhanced with synthetic fertilisers. For example, Bill Liebhardt, at the Rodale Institute in Pennsylvania, recently compiled the results of such comparisons for corn, wheat, soybeans and tomatoes in the US and found that the organic fields averaged between 94 and 100 per cent of the yields of nearby conventional crops."
+    },
+    {
+      "text": "But this optimistic picture tells only half the story. Organic farmers can’t reach this yield every year if they want to build soil nutrients without synthetic fertilisers. They need to alternate with soil-building crops and this is the biggest cost of organic farming. Vaclav Smil, of the University of Manitoba in Winnipeg, estimates that if farmers worldwide gave up the 80 million tonnes of synthetic fertiliser they now use each year, total grain production would fall by at least half. Either farms would have to double the amount of land they cultivate - at catastrophic cost to natural habitats — or billions of people would starve."
+    },
+    {
+      "text": "In short, the world needs chemical fertilisers, even though farmers in much of the temperate zone produce so much grain that they are hard-pressed to sell it at a profit. But if they were to cut back drastically on their fertiliser use, and harvests were to shrink, grain prices would go up, making poor people hungrier. Besides the obvious moral cost of this approach, nothing destroys ecosystems more surely than hungry people who cannot afford to think about tomorrow because they are desperate to feed their children today."
+    },
+    {
+      "text": "Technologically advanced farmers can now monitor their yields and target their fertiliser to the parts of the field where it will do the most good, which, in turn, increases the yield. Eventually, farmers may incorporate long-term weather forecasts into their planning so they can cut back on fertiliser use when the weather is likely to make harvests poor anyway, says Ron Olson, an agronomist from Florida."
+    },
+    {
+      "text": "The challenge in moving towards a new, more intelligent farming of the future is as much political as it is technological. We already know how to build better soils, how to keep pests in check and how to recognise when synthetic chemicals can provide the decisive edge to maximise yields. What’s missing is political will. The time has come to step past the tired battle lines drawn up between organics advocates and agribusiness and enter the zone in between, where the real solutions lie."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-features",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 1–4 Look at the following opinions (Questions 1-4) and the list of people below. Match each opinion with the correct person, A, B, C or D.",
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": false,
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Without the use of synthetic fertilisers, large numbers of people would die of hunger."
+        },
+        {
+          "n": 2,
+          "prompt": "We need agricultural methods that work for the environment."
+        },
+        {
+          "n": 3,
+          "prompt": "In future, the quantity of fertiliser used will be linked to predicted harvests."
+        },
+        {
+          "n": 4,
+          "prompt": "The output from organic soils is very nearly equal to that from fields treated with chemical fertilisers."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "Kenneth Cassman"
+        },
+        {
+          "value": "B",
+          "text": "Bill Liebhardt"
+        },
+        {
+          "value": "C",
+          "text": "Vaclav Smil"
+        },
+        {
+          "value": "D",
+          "text": "Ron Olson"
+        }
+      ]
+    },
+    {
+      "type": "ynng",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 5–9 Do the following statements agree with the views of the writer in Reading Passage 1? YES if the statement agrees with the views of the writer NO if the statement contradicts the views of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "There are only two real farming options worth considering."
+        },
+        {
+          "n": 6,
+          "prompt": "Farmers need to act on locally relevant information."
+        },
+        {
+          "n": 7,
+          "prompt": "Chemical fertilisers are expensive to produce."
+        },
+        {
+          "n": 8,
+          "prompt": "Successful organic farming requires crop rotation."
+        },
+        {
+          "n": 9,
+          "prompt": "Farmers are unable to meet demand for grain in temperate zones."
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 10–13 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "A leading American agronomist is concerned that unless we improve our approach to food production, the world will face serious shortages by the year 2050. A government team which looked ahead at British {{10}} came up with a similar prediction. The pro-technology lobby believes in using crops which are {{11}} as well as relying heavily on agro-chemicals. On the other hand, {{12}} farmers believe passionately in natural techniques. The real problem is, however, that both natural and {{13}} fertilisers damage the ecosystem. The move towards a more sensible approach to farming is being hampered by a lack of political will. We need to steer a middle course if we are to solve the world’s food problems."
+      ],
+      "questions": [
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": false,
+  "conversion": {
+    "jobId": "p1-feeding-the-world",
+    "sourceParagraphCount": 10,
+    "requiresReview": false
+  },
+  "subtitle": "Feeding the world while nurturing the planet doesn’t necessarily mean going back to nature. Andy Coghlan reports",
+  "footnotes": [
+    "* Organic farming: farming methods which avoid the use of man-made products"
+  ],
+  "cover": {
+    "asset": "assets/cover-unique/p1-feeding-the-world.svg",
+    "alt": "Feeding the world — Unload wheat by the combine Claas Lexion 584",
+    "credit": "Michael Gäbler",
+    "source": "https://commons.wikimedia.org/wiki/File:Unload_wheat_by_the_combine_Claas_Lexion_584.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+}

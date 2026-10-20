@@ -1,0 +1,172 @@
+{
+  "id": "p2-biomimicry",
+  "part": 2,
+  "title": "Biomimicry",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Velcro, now commonly used instead of buttons and zippers, is probably the most famous example of ‘biomimicry’, where technologists turn to nature for inspiration. In 1948, scientist Georges de Mestral was walking through long grass when he noticed that dozens of seeds had attached themselves to his trousers. Under a microscope, de Mestral noted the hook-and-loop system the seed cases used to stick so firmly, and was inspired."
+    },
+    {
+      "label": "B",
+      "text": "US biologist Janine Benyus wrote a book on the subject called Biomimicry: Innovation Inspired by Nature. Published in 1997, the book set off the current wave of technology modelled on nature. According to Benyus, our ancestors were practised in the art of biomimicry. ‘I think it’s an old impulse for humans to take their cues from other organisms,’ she says, referring to African tribes that found edible plants by observing the dining habits of chimpanzees. But lately we've become more focused on what we can make ourselves. Benyus thinks our drift away from nature started with the advent of agriculture: ‘When we broke free from the challenges of hunting and gathering and learnt to stock our cupboards, we fooled ourselves into believing that we didn't need other organisms at all,’ she says."
+    },
+    {
+      "label": "C",
+      "text": "The scientific, industrial, petrochemical and genetic engineering revolutions have repeatedly reinforced the idea that we are liberated from biological constraints. In recent years, however, the illusion that we are independent of nature has been shattered by the spectre of global warming and the looming end to fossil fuel supplies. Since few of us would be willing to forgo the products and services we’ve grown accustomed to — food, water, shelter, the conveniences that modern technology brings — the challenge is to meet the complex demands of civilisation within the bounds of sustainability. ‘Nature has learnt to fly, live in the depths of the ocean and craft miracle materials,’ writes Benyus. ‘Living creatures have done everything we want to do, without guzzling fossil fuel or polluting the planet. What better models could there be?’"
+    },
+    {
+      "label": "D",
+      "text": "There are no better models, according to Tim Finnigan, a marine engineer at the University of Sydney. In his quest to harness the world’s waves and tides for renewable energy more efficiently, Finnigan has taken his cues from aquatic life. With their streamlined bodies and stiff, high tail fins, sharks convert up to 90 per cent of their body energy into forward thrust. Inspired by such efficient hydrodynamics, but turning the theory on its head, Finnigan designed his tidal stream generator: an 18-metre-long biomimetic shark tail with a fin spanning 15 metres. ‘Rather than have a body moving through a stationary fluid, we have fluid that's moving past a stationary body,’ says Finnigan."
+    },
+    {
+      "label": "E",
+      "text": "Then there’s Finnigan’s biomimetic forest of giant seaweed. ‘As a diver I've looked at the way motions occur under water in the presence of waves,’ he says. ‘I see plants that move quite dramatically and yet they never seem to be pulled out, even in the most dramatic waves.’ The trouble with conventional designs, according to Finnigan, is that they're made to stand rigidly against the power of the ocean. ‘The structures we try to build in the ocean just never end up being strong enough to survive out there,’ says Finnigan. In the manner of aquatic plants and animals, Finnigan's designs respond to changing current or wave conditions by reorienting to maximise energy capture. And in severe weather, to avoid a battering, his wave energy generator will lie flat against the ocean floor."
+    },
+    {
+      "label": "F",
+      "text": "While conventional architects were designing buildings dependent on expensive air conditioning systems, when Mick Pearce tried to do the same, he struck a problem. ‘We were building office blocks for a client in Zimbabwe and we ran out of funds. So we looked for ways to make a building without traditional air conditioning.’ One day, driving through the grasslands, he saw a large mound created by termites, the ant-like insect common in Africa. He noticed that air entering at the base of the mound was mixed with water drawn from subterranean levels by the termites, causing evaporative cooling. Pearce wanted to reproduce this principle but he needed an alternative system, and in his building massive fans were employed at the base of the structure to lower the temperature of the circulating air. Pearce’s termite-inspired cooling system cut energy use to 10 per cent of a similar air-conditioned building."
+    },
+    {
+      "label": "G",
+      "text": "Photosynthesis is the process by which green plants use energy from the sun to convert water and carbon dioxide into carbohydrates and oxygen. Plants can manage it with humbling ease. But, as the 40 researchers from 11 institutes who have collaborated to form the Australian Artificial Photosynthesis Network have realised, it is very complex. However, there is one aspect working in our favour. In nature, environmental variables like temperature, carbon dioxide and light availability limit the rate of photosynthesis. In a laboratory these variables can be optimized. ‘We don’t have to cope with drought or frost. We can work with a highly controlled, specified set of conditions,’ says Tom Collings, the group’s spokesman."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 - 18 Reading Passage 2 has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 14-18 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a reference to a natural process that appears simpler than it actually is"
+        },
+        {
+          "n": 15,
+          "prompt": "a description of an invention that can protect itself under extreme conditions"
+        },
+        {
+          "n": 16,
+          "prompt": "the reasons why humans no longer feel they are free from nature"
+        },
+        {
+          "n": 17,
+          "prompt": "a reference to an animal that influenced the diet of some humans"
+        },
+        {
+          "n": 18,
+          "prompt": "the specific reasons why science should copy nature"
+        }
+      ],
+      "type": "matching-info",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "paragraphUnit": "paragraphs",
+      "reuse": true
+    },
+    {
+      "type": "matching-features",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 19–23 Look at the following statements (Questions 19-23) and the list of researchers below. Match each statement with the correct researcher, A-E. NB You may use any letter more than once.",
+      "targetName": "researcher",
+      "listTitle": "List of Researchers",
+      "reuse": true,
+      "questions": [
+        {
+          "n": 19,
+          "prompt": "Designs often fail if they try to resist natural forces."
+        },
+        {
+          "n": 20,
+          "prompt": "Science has certain key advantages over nature."
+        },
+        {
+          "n": 21,
+          "prompt": "People have been copying nature for thousands of years."
+        },
+        {
+          "n": 22,
+          "prompt": "A shortage of money can inspire innovative design."
+        },
+        {
+          "n": 23,
+          "prompt": "The discovery that humans could produce food themselves caused them to turn away from nature."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "Georges de Mestral"
+        },
+        {
+          "value": "B",
+          "text": "Janine Benyus"
+        },
+        {
+          "value": "C",
+          "text": "Tim Finnigan"
+        },
+        {
+          "value": "D",
+          "text": "Mick Pearce"
+        },
+        {
+          "value": "E",
+          "text": "Tom Collings"
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 24–26 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Mick Pearce designed a cooling system radically different from those usually used by architects. The design of his office block can be compared to that of a termite’s {{24}}. Termites use {{25}} to cool the air, but in Pearce’s system, this cooling effect was produced by {{26}}."
+      ],
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "title": "A building project in Zimbabwe"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p2-biomimicry",
+    "sourceParagraphCount": 7,
+    "requiresReview": false
+  },
+  "cover": {
+    "asset": "assets/cover-unique/p2-biomimicry.svg",
+    "alt": "Biomimicry — Litchfield National Park (AU), Magnetic Termite Mounds -- 2019 -- 3721",
+    "credit": "Dietmar Rabich",
+    "source": "https://commons.wikimedia.org/wiki/File:Litchfield_National_Park_(AU),_Magnetic_Termite_Mounds_--_2019_--_3721.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "id": "p2-the-aerofoil",
+  "part": 2,
+  "title": "The aerofoil",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The magic of flight lies in the interaction between the wings of a plane and the air. If the shape of the wing — the aerofoil — is right and the plane is moving fast enough, the wing is pushed into the air as it slices through it. It seems like magic because our all-too-literal brains tell us that because air is invisible it must be insubstantial too. But air is not nothing; air is a substance completely comprised of gases. If you think of a wing slicing through water rather than air, you can begin to imagine how air might provide the upward push that aeronautical scientists call ‘lift’. The key to the aerofoil’s lift is the flow of air around it. Air flows around an aerofoil because the aerofoil is moving, just as the bow of a boat creates a flow in still water. What matters is the way the curved shape of the aerofoil diverts the flow around it."
+    },
+    {
+      "label": "B",
+      "text": "To really see why, it is worth carrying out an experiment with knives and spoons under a running tap. Hold the blade of a knife vertically in a stream of water and the water flows straight and undisturbed past the blade. Twist the blade slightly at an angle to the stream and you can see how it begins to block and split the flow, breaking it into turbulent eddies — and you may see the turbulence increase as you increase the angle of the knife. Hold the convex side of a spoon under the stream instead, however, and something different happens. The spoon diverts the water, but does not disrupt it. You have to twist the spoon at a much steeper angle before it disrupts the flow. Like the curvature of the spoon, the curvature of the aerofoil ensures the flow of the air around it is diverted but not broken up."
+    },
+    {
+      "label": "C",
+      "text": "The curvature of the spoon, like that of the aerofoil is crucial. Far above or below the aerofoil, the airflow is undisturbed, but the closer the air is to the aerofoil the more the flow is bent to follow the aerofoil’s shape. As the airflow changes direction it begins to push in a different direction too, and the more it bends, the greater the change. Right on top and underneath the aerofoil, the airflow is turned effectively at right angles, pushing the aerofoil upwards and creating lift. Since it is the way that the airflow is distorted that creates lift, it is evident that the pattern of the airflow distortion is critical. This depends on the angle that the aerofoil moves through the air — its ‘angle of attack’: the steeper the angle, the greater the lift."
+    },
+    {
+      "label": "D",
+      "text": "The overall shape of the aerofoil is also crucial. A gentle, thin, curve provides the best lift, and this is the shape of the wings of birds as well as the shape that the flexible wings of hang-gliders and microlights bend into. But it is hard to make a large wing strong enough in this shape. So the wings of most large aircraft are, in profile, the shape of a narrow teardrop. This shape does not give us much lift, which is why the wings have to be huge. They are hollow inside, which provides room for fuel storage. There are also flaps on the rear of the wings that can be swung up or down to alter the aerofoil curvature and its effective angle of attack and so allow the pilot to climb or descend."
+    },
+    {
+      "label": "E",
+      "text": "Of course the wings of birds were the original inspiration for the aerofoil. Countless thinkers in the distant past must have marvelled at birds gliding through the sky and guessed that they were held aloft by their outstretched wings. And perhaps some even assumed it was the shape of the wings that mattered, such as the 5th-century Greek philosopher Archytas who is said to have built a mechanical bird that flew. Brave pioneers like the 9th-century Cordoban inventor, Abbas Ibn-Firnas, were even bold enough to strap artificial wings to their arms and leap from high places. Ibn-Firnas was lucky enough to glide through the air for ten minutes before crash-landing and almost breaking his neck."
+    },
+    {
+      "label": "F",
+      "text": "Yet the first person who really began to explore the shape of wings methodically was the British engineer Sir George Cayley (1773-1857), and it is to Cayley that we owe the idea of the curved aerofoil. Cayley was an extraordinary and inventive man, and he is credited with developing self-righting lifeboats, wire-spoked wheels, seatbelts and even an internal combustion engine. But it is mostly as the ‘father of aviation’ that he is remembered, and it is he who pioneered much of the theory of flight. He carried out many experiments with wings on whirling arms to discover the forces acting on them, and what shapes and angles produced the greatest lift. In his analyses, he developed the names of the key forces involved in flight — weight, lift, drag and thrust — which still play an important role today. Flight involves a balance between these four forces, but for a successful aeroplane you need both power and control, which is why it took another half-century before Orville and Wilbur Wright made their historic flight at Kittyhawk in the USA on 17th December 1903."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-headings",
+      "sourcePages": [
+        1
+      ],
+      "sourceInstructions": "Reading Passage 2 has 6 paragraphs, A-F. Choose the correct heading for each paragraph from the list of headings below.",
+      "headingCount": 6,
+      "headingUnit": "paragraphs",
+      "reuse": false,
+      "bank": [
+        {
+          "value": "i",
+          "text": "The earliest attempts to achieve human flight"
+        },
+        {
+          "value": "ii",
+          "text": "Public reaction to the pioneers of flight"
+        },
+        {
+          "value": "iii",
+          "text": "A practical demonstration of an aeronautical principle"
+        },
+        {
+          "value": "iv",
+          "text": "The importance of angles in achieving lift"
+        },
+        {
+          "value": "v",
+          "text": "A misunderstanding about the nature of air"
+        },
+        {
+          "value": "vi",
+          "text": "The discovery of several key factors affecting wing design"
+        },
+        {
+          "value": "vii",
+          "text": "Additional wing features that help control flight"
+        }
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "paragraph": 0
+        },
+        {
+          "n": 15,
+          "paragraph": 1
+        },
+        {
+          "n": 16,
+          "paragraph": 2
+        },
+        {
+          "n": 17,
+          "paragraph": 3
+        },
+        {
+          "n": 18,
+          "paragraph": 4
+        },
+        {
+          "n": 19,
+          "paragraph": 5
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 20–24 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+      "wordLimit": "ONE WORD ONLY",
+      "content": [
+        "Hang-gliders, microlights, small planes and birds share the same wing shape — a curve which provides the maximum amount of {{20}}. But while these wings can support an individual person, they cannot support the weight of a huge aircraft. In fact, the enormous wings of a modern plane look like a thin {{21}} when viewed from the side. Space is not wasted because the {{22}} needed to power a flight is kept inside each wing. The pilot can adjust the {{23}} which are located at the {{24}} of the wings. This changes the aerofoil’s curvature as well as the angle of attack and causes the plane to rise or descend."
+      ],
+      "questions": [
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        }
+      ],
+      "title": "Designing aeroplane wings"
+    },
+    {
+      "type": "mc-two",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 25 and 26 Choose TWO letters, A-E.",
+      "numbers": [
+        25,
+        26
+      ],
+      "selectionCount": 2,
+      "prompt": "Which TWO things does the writer state about George Cayley?",
+      "options": [
+        {
+          "value": "A",
+          "text": "He made a lot of money from his inventions."
+        },
+        {
+          "value": "B",
+          "text": "He understood how to design aeroplane engines 50 years before Orville and Wilbur Wright."
+        },
+        {
+          "value": "C",
+          "text": "His studies included how to achieve the maximum lift."
+        },
+        {
+          "value": "D",
+          "text": "He worked closely with other scientists."
+        },
+        {
+          "value": "E",
+          "text": "He reached his conclusions by conducting a series of tests."
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p2-the-aerofoil",
+    "sourceParagraphCount": 6,
+    "requiresReview": false
+  },
+  "subtitle": "The shape of an aeroplane’s wing plays a key role in the achievement of flight",
+  "cover": {
+    "asset": "assets/cover-unique/p2-the-aerofoil.svg",
+    "alt": "The aerofoil — Boeing Plane Wing DSCF3293",
+    "credit": "Tony Webster",
+    "source": "https://commons.wikimedia.org/wiki/File:Boeing_Plane_Wing_DSCF3293.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  }
+}
