@@ -1,0 +1,224 @@
+{
+  "id": "p3-life-on-mars",
+  "part": 3,
+  "title": "LIFE ON MARS?",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "When scientists began observing Mars with their first primitive telescopes, they assumed from the start that the planet was peopled. The 18th-century astronomer William Herschel, noting the seasons and atmosphere of Mars, declared that ‘its inhabitants enjoy a situation similar to our own’. A century later, astronomers asserted that they could detect canals running across the Martian landscape. These canals, argued US scientist Percival Lowell, had been built by technologically advanced Martians to transport water from the poles to the equator of their drying world. ‘Martian folk are possessed of inventions of which we have not dreamed,’ he argued."
+    },
+    {
+      "label": "B",
+      "text": "The vision of an advanced culture trapped on a drying world was taken up by the British writer H.G. Wells in 1898 in his masterpiece The War of the Worlds, in which Earth is subjected to a pitiless invasion from a race of hideous Martians armed with poison gas and heat rays. Martians became synonymous with grotesque, threatening aliens, at least as far as the public was concerned. Scientists were more restrained, but still supported the idea that the planet might support relatively complex life forms."
+    },
+    {
+      "label": "C",
+      "text": "Then, in the late 1960s, rocket science changed our image of Mars forever. The US Mariner probes swept past Mars and sent back pictures, not of a world covered in vegetation, as many scientists still expected, but of vistas of cratered, arid deserts. Finally, in 1975, two huge US probes settled on the Martian surface and began a series of experiments aimed at pinpointing, once and for all, the existence of air-breathing organisms. None were found, for the Viking probes landed in areas as dead as the Sahara Desert. All that was sent back were images of a bleak, boulder-strewn terrain. Mars was declared officially dead — for a while."
+    },
+    {
+      "label": "D",
+      "text": "Since that time, two critical pieces of evidence have been found on Earth which support the idea that Mars has life. The first is known as ALH84001, a meteorite that was blasted into space when a large body struck Mars 15 million years ago and which spiralled across the solar system to crash into the Antarctic. Analysis carried out by NASA scientist Imre Friedmann showed that the meteorite contained elements identical to those found on Mars by the Viking probes, and revealed chains of crystals similar to those created by earthbound bacteria. Friedmann believes that these could only have been created by living organisms. Others, however, argue that the crystals could have been laid down by simple chemical processes. A second area of support for the idea that living organisms could survive Mars's harshness has been provided by the study of extremophiles, bacteria that have been found in increasingly hostile landscapes on Earth — acid lakes, for example, and volcanoes."
+    },
+    {
+      "label": "E",
+      "text": "In the past few years, astronomers have become convinced that the Martian surface, although hostile and arid today, was once lush and welcoming. Images sent back by recent probes such as the Mars Global Surveyor have revealed dried-up riverbeds and old estuaries. Rivers poured into ancient seas, it appears, and rain swept the sodden terrain. Then catastrophe struck. ‘Mars lost its magnetic field several billion years ago,’ explains British astronomer Paul Murdin. ‘Earth retained one, and it protects our atmosphere. Without that protection, Mars's gases and water boiled off.’ That is why they are so different today."
+    },
+    {
+      "label": "F",
+      "text": "The discovery of signs of water on Mars has changed everything. Some researchers believe that water from underground reservoirs still gushes through Martian valleys as occasional flash floods bubble to the surface. In the 1990s, the Mars Odyssey probe began to map the chemical make-up of the Mars soil, and discovered that much of the ground in the southern hemisphere of Mars is mixed with large quantities of ice. And where there is ice, there is likely to be liquid water, probably underneath. ‘There are huge underground reservoirs on Mars,’ says Marcello Coradini, head of planetary exploration for the European Space Agency. ‘I am now convinced of that.’"
+    },
+    {
+      "label": "G",
+      "text": "Current projects are hoping to clarify the question of the presence of water once and for all. These are aimed at conducting experiments to detect the presence of a substance called carbon 13 in soil and rock samples on Mars; this would be, according to some researchers, an unequivocal indicator of the presence of living organisms, past or present."
+    },
+    {
+      "label": "H",
+      "text": "But would the presence of a few Martian organisms alter our world view in any significant way? Professor Juan Pérez Mercader of Madrid's Centre for Astrobiology in Spain believes that it would. ‘For a start, we will be able to find out if Martian organisms have DNA, the golden molecule that controls the replication of earthly creatures.’ If there is no DNA, that would show that Martian biology is quite unlike Earth's, and that on two planets, side by side in the same solar system, life evolved independently. If DNA is located, it would mean that life on Mars and on Earth may spring from the same source. ‘If organisms can pop up that easily, our chances of finding intelligent versions elsewhere in the universe will look extremely good,’ Pérez Mercader states. The discovery of any evidence of living organisms on Mars would also mean renewed purpose for manned space flight projects."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Reading Passage 3 has eight paragraphs, A-H. Which paragraph contains the following information?",
+      "reuse": false,
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "evidence that a rock found on Earth originated on Mars"
+        },
+        {
+          "n": 28,
+          "prompt": "a plan to analyse material on Mars"
+        },
+        {
+          "n": 29,
+          "prompt": "the reason Mars is no longer similar to Earth"
+        },
+        {
+          "n": 30,
+          "prompt": "an observation suggesting that there is currently water on Mars"
+        },
+        {
+          "n": 31,
+          "prompt": "a claim that construction had taken place on Mars"
+        },
+        {
+          "n": 32,
+          "prompt": "a possibility that humans and Martians could share the same origins"
+        }
+      ],
+      "paragraphCount": 8,
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ]
+    },
+    {
+      "type": "mc-one",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 33–36 Choose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "n": 33,
+          "prompt": "The 18th-century astronomer William Herschel believed that",
+          "options": [
+            {
+              "value": "A",
+              "text": "the Martians were physically similar to humans."
+            },
+            {
+              "value": "B",
+              "text": "the Martian environment resembled that of Earth."
+            },
+            {
+              "value": "C",
+              "text": "members of the Martian race were extremely primitive."
+            },
+            {
+              "value": "D",
+              "text": "the climatic conditions on Mars were very dry."
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "prompt": "At the end of the 19th century, the public’s ideas about Martians changed because of",
+          "options": [
+            {
+              "value": "A",
+              "text": "scientific discussion."
+            },
+            {
+              "value": "B",
+              "text": "media reports."
+            },
+            {
+              "value": "C",
+              "text": "a work of literature."
+            },
+            {
+              "value": "D",
+              "text": "a magazine illustration."
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "prompt": "What does the writer say happened in the 1960s?",
+          "options": [
+            {
+              "value": "A",
+              "text": "The appearance of some regions of Mars changed."
+            },
+            {
+              "value": "B",
+              "text": "Evidence of organisms was found on Mars."
+            },
+            {
+              "value": "C",
+              "text": "The Martian atmosphere was tested scientifically."
+            },
+            {
+              "value": "D",
+              "text": "Earlier beliefs about Mars were disproven."
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "prompt": "The study of extremophiles suggests that",
+          "options": [
+            {
+              "value": "A",
+              "text": "organisms can survive on Mars."
+            },
+            {
+              "value": "B",
+              "text": "organisms on Earth are like those found on Mars."
+            },
+            {
+              "value": "C",
+              "text": "Martian conditions resemble those in Earth’s volcanoes."
+            },
+            {
+              "value": "D",
+              "text": "Martian crystals can survive acid conditions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tfng",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 37–40 Do the following statements agree with the information given in Reading Passage? TRUE FALSE NOT GIVEN",
+      "questions": [
+        {
+          "n": 37,
+          "prompt": "Lowell believed that Martian technology was more developed than human technology."
+        },
+        {
+          "n": 38,
+          "prompt": "Information gained from Viking probes remains unchallenged."
+        },
+        {
+          "n": 39,
+          "prompt": "There is evidence that there has been significant climate change on Mars."
+        },
+        {
+          "n": 40,
+          "prompt": "Spanish scientists plan to launch space probes if DNA is found on Mars."
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p3-life-on-mars",
+    "sourceParagraphCount": 8,
+    "requiresReview": false
+  },
+  "cover": {
+    "asset": "assets/cover-unique/p3-life-on-mars.svg",
+    "alt": "LIFE ON MARS? — PIA08779-Mars Rover Opportunity-Victoria Crater Arrival",
+    "credit": "NASA",
+    "source": "https://commons.wikimedia.org/wiki/File:PIA08779-Mars_Rover_Opportunity-Victoria_Crater_Arrival.jpg",
+    "license": "Public domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

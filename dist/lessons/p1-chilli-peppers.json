@@ -1,0 +1,256 @@
+{
+  "id": "p1-chilli-peppers",
+  "part": 1,
+  "title": "Chilli Peppers",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "For thousands of years, humans have taken painful pleasure from adding chillies (also known as peppers or chilli peppers) to their food. A study published in the British Medical Journal in 2015 indicated that a diet filled with spices — including chillies — was beneficial for health. The study, which was carried out by scientists at the Chinese Academy of Medical Sciences, tracked the health of nearly half a million participants in China for several years. They found that participants who ate spicy food once or twice a week had a mortality rate 10% lower than those who ate spicy food less than once a week. Risk of death reduced still further for people who ate spicy food six or seven days a week. Chilli peppers were the most commonly used spice among the sample, and those who ate fresh chilli had a lower probability of death from cancer, heart disease and diabetes."
+    },
+    {
+      "text": "The health-promoting properties of chillies can be found in capsaicin, which is the odourless, colourless chemical compound that makes chillies hot. Inside a chilli there are yellow stalks that attach the seeds to its sides and in many types of chilli, this is the location of capsaicin, but there are several varieties where this is not the case. The heat of a chilli is measured in Scoville heat units, which is the number of times a sample of dissolved dried chilli must be diluted by its own weight in sugar water before it loses its heat. For a green bell pepper this is zero. But habanero peppers have a Scoville value of between 100,000 and 350,000. For pure capsaicin the figure is 16 million. Pure capsaicin can be bought on the internet, though its use as a food additive is banned in the European Union. The use of chilli peppers as weapons dates back to pre-Columbian times (before 1492), when, it is said, Mayans burned rows of them to create a stinging smokescreen to protect themselves from their enemies. The Aztecs also put chilli on their teeth to kill toothache pain, and the use of capsaicin as a pain reliever continues today."
+    },
+    {
+      "text": "Joshua Tewksbury, a natural historian at the University of Washington, thinks the burning sensation we experience when we come into contact with chillies is an evolutionary trick. ‘We're not actually being damaged by the capsaicin the way we would be if we were touching a stove, but our brain thinks we are,’ he says, adding that all mammals experience the same sensation but that birds do not. ‘They can eat chillies like popcorn and they don't feel the heat.’ In this way, Tewksbury suggests, the plant evolved to repel animals that might crush its seeds with their teeth, but not ones that would help spread them."
+    },
+    {
+      "text": "Chillies also fight bacteria. This was of great value in the days before refrigeration, when, particularly in the tropics, people were vulnerable to bacteria that could harm them directly or cause their food to spoil. Chillies kill or inhibit 75% of such bacteria. That may just explain the spice’s world-conquering success. Just two or three years after the explorer Christopher Columbus brought chilli seeds back to Europe from the New World in 1493, Portuguese merchants took the plants to Asia, where they would transform the cuisine. People in hot countries are said to use more chilli because it makes them generate a lot of sweat, which cools them down. But in 1998, researchers at Cornell University pointed out that the greater use of spices in countries such as India, Thailand and China was likely to be linked to the anti-bacterial function. By studying books filled with recipes from all over the world, the researchers found that spices including chilli were more likely to be used close to the equator, and were also used more in valleys with high levels of humidity than on high plateaux."
+    },
+    {
+      "text": "Capsaicin has even been suggested as a potential weight-loss tool. Research conducted by the University of Wyoming on mice that had been fed a high-fat diet found that the substance increased the metabolism of the animals, causing them to burn more energy and preventing weight gain. In another study, researchers at the University of Adelaide found that certain receptors that interact with capsaicin and are located inside the stomach play a role in sensing when you are full. Previous studies on humans seem to back the idea that eating spicy food may curb our appetite."
+    },
+    {
+      "text": "Capsaicin is a natural painkiller. Capsaicin creams and patches are available in chemists to ease pain. But it's only recently that we have come to understand how something that causes pain can ease it too. Capsaicin binds to the pain receptor TRPV1, which our brains also use to detect changes in temperature — that’s why we think chillies are hot. But after being over-stimulated the neurons stop responding, killing the pain. This process involves the release of endorphins, which can give us a ‘rush’ not unlike the feeling we have when we have done some exercise. This may explain why some people believe that hot food is addictive."
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 1–7 Do the following statements agree with the information given in Reading Passage? TRUE FALSE NOT GIVEN",
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "The study done by the Chinese Academy of Medical Sciences looked at eating habits in several countries."
+        },
+        {
+          "n": 2,
+          "prompt": "Eating fresh chillies can decrease the likelihood of dying from certain serious illnesses."
+        },
+        {
+          "n": 3,
+          "prompt": "Capsaicin is found in the same place in all chilli varieties."
+        },
+        {
+          "n": 4,
+          "prompt": "Habanero peppers are the hottest known peppers."
+        },
+        {
+          "n": 5,
+          "prompt": "Pure capsaicin is licensed for use in food products in the European Union."
+        },
+        {
+          "n": 6,
+          "prompt": "The Aztecs were the first to use capsaicin as a pain killer."
+        },
+        {
+          "n": 7,
+          "prompt": "Birds have different physical responses to eating chillies to those of mammals."
+        }
+      ]
+    },
+    {
+      "type": "notes",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 8–13 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+      "wordLimit": "ONE WORD ONLY",
+      "title": "The health benefits of chilli",
+      "noteLayout": {
+        "title": "The health benefits of chilli",
+        "titleAlign": "left",
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Using chilli to fight bacteria",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "chilli’s ability to fight germs was very significant before the invention of {{8}}"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "it was thought that chilli was eaten because it causes bodies to produce {{9}} which reduces body heat"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "books of {{10}} from around the world show chilli is more commonly used in certain geographical areas"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "chilli is most likely to be used in valleys with a lot of humidity"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "Using chilli for weight loss",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.2
+          },
+          {
+            "runs": [
+              {
+                "text": "the University of Wyoming found that chilli raised the mice’s {{11}}"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "the University of Adelaide found that receptors in the {{12}} react with chilli to indicate when you’ve had enough to eat"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "Using chilli as pain relief",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 1.2
+          },
+          {
+            "runs": [
+              {
+                "text": "it reacts with the part of our brain that notices a difference in temperature"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          },
+          {
+            "runs": [
+              {
+                "text": "the sensation we have when eating chilli is similar to the one we have after {{13}}"
+              }
+            ],
+            "indent": 1.5,
+            "marker": "•",
+            "hanging": 1.5,
+            "firstLine": 0,
+            "spaceBefore": 0.08
+          }
+        ],
+        "sourceVerified": true,
+        "layoutVersion": 2
+      },
+      "content": [
+        "Using chilli to fight bacteria",
+        "chilli’s ability to fight germs was very significant before the invention of {{8}}",
+        "it was thought that chilli was eaten because it causes bodies to produce {{9}} which reduces body heat",
+        "books of {{10}} from around the world show chilli is more commonly used in certain geographical areas",
+        "chilli is most likely to be used in valleys with a lot of humidity",
+        "Using chilli for weight loss",
+        "the University of Wyoming found that chilli raised the mice’s {{11}}",
+        "the University of Adelaide found that receptors in the {{12}} react with chilli to indicate when you’ve had enough to eat",
+        "Using chilli as pain relief",
+        "it reacts with the part of our brain that notices a difference in temperature",
+        "the sensation we have when eating chilli is similar to the one we have after {{13}}"
+      ],
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": false,
+  "conversion": {
+    "jobId": "p1-chilli-peppers",
+    "sourceParagraphCount": 6,
+    "requiresReview": false
+  },
+  "cover": {
+    "asset": "assets/cover-unique/p1-chilli-peppers.svg",
+    "alt": "Chilli Peppers — Red hot chilli peppers",
+    "credit": "Tomascastelazo",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_hot_chilli_peppers.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}
