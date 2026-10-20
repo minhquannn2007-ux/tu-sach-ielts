@@ -1,0 +1,175 @@
+{
+  "p1-australias-airborne-dentists": {
+    "lessonId": "p1-australias-airborne-dentists",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "This non-profit organisation"
+          }
+        ],
+        "explanation": "Tổ chức phi lợi nhuận không chứng minh bác sĩ là tình nguyện viên."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "once every few months, or sometimes once per year"
+          }
+        ],
+        "explanation": "Nha sĩ có thể chỉ đến vài tháng hoặc mỗi năm, không mỗi tháng."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "send doctors and nurses"
+          }
+        ],
+        "explanation": "Không nói y tá nha khoa đi kèm nha sĩ mỗi chuyến."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "do all kinds of dental procedures"
+          }
+        ],
+        "explanation": "Phải làm đa dạng thủ thuật vì không thể chuyển chuyên gia."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "receive less education about good dental hygiene"
+          }
+        ],
+        "explanation": "Dân vùng xa được giáo dục vệ sinh răng ít hơn người thành phố."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "tooth brushing and flossing"
+          }
+        ],
+        "explanation": "Có dạy chải răng, chỉ nha khoa; không nói hướng dẫn chế độ ăn."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "their rates of tooth decay are lower because of this"
+          }
+        ],
+        "explanation": "Nước có fluoride giúp người thành phố ít sâu răng."
+      },
+      "8": {
+        "accepted": [
+          "computers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "computers for keeping track of patients’ treatments"
+          }
+        ],
+        "explanation": "Máy tính lưu theo dõi điều trị."
+      },
+      "9": {
+        "accepted": [
+          "space"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "limited space"
+          }
+        ],
+        "explanation": "Máy bay nhỏ bị hạn chế chỗ chứa."
+      },
+      "10": {
+        "accepted": [
+          "dentures"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "not practical to make dentures available"
+          }
+        ],
+        "explanation": "Khó làm hàm giả vì cần nhiều lần chỉnh trong thời gian dài."
+      },
+      "11": {
+        "accepted": [
+          "toothpaste"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "toothpaste and toothbrushes"
+          }
+        ],
+        "explanation": "RFDS cấp kem và bàn chải khi cần; cặp 11–12 không xét thứ tự, mỗi loại chỉ tính một lần.",
+        "unorderedGroup": [
+          11,
+          12
+        ]
+      },
+      "12": {
+        "accepted": [
+          "toothbrushes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "toothpaste and toothbrushes"
+          }
+        ],
+        "explanation": "Cặp sản phẩm là kem đánh răng và bàn chải, chấp nhận đổi vị trí 11–12.",
+        "unorderedGroup": [
+          11,
+          12
+        ]
+      },
+      "13": {
+        "accepted": [
+          "mouthguards"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "provides mouthguards for young sports players"
+          }
+        ],
+        "explanation": "Máng bảo vệ răng dùng cho người chơi thể thao."
+      }
+    },
+    "lessonSha256": "2c3bb9a124e4dd57fe49f9ca9ec5149c2524ac67bc3abef02690c83f3b14d725"
+  }
+}

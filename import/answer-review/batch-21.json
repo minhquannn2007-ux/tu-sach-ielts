@@ -1,0 +1,497 @@
+{
+  "p1-candles": {
+    "lessonId": "p1-candles",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "writers and philosophers"
+          }
+        ],
+        "explanation": "Tranh Ai Cập ghi người viết và triết gia dùng nến, không giới hạn hoàng gia."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "also used to make soap"
+          }
+        ],
+        "explanation": "Tallow còn dùng làm xà phòng."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Beeswax was preferred over animal or vegetable fats"
+          }
+        ],
+        "explanation": "Sáp ong được ưa chuộng hơn mỡ động thực vật."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "inserting a pin into a candle"
+          }
+        ],
+        "explanation": "Canh giờ bằng ghim rơi khi sáp chảy, không vạch đường trên nến."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "candles were used as a means of keeping time"
+          }
+        ],
+        "explanation": "Không đặt yêu cầu chất lượng nến dùng đấu giá."
+      },
+      "6": {
+        "accepted": [
+          "mess"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "did not produce as much mess"
+          }
+        ],
+        "explanation": "Sáp ong gây ít bẩn hơn."
+      },
+      "7": {
+        "accepted": [
+          "light"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a significantly brighter light"
+          }
+        ],
+        "explanation": "Spermaceti cho ánh sáng mạnh."
+      },
+      "8": {
+        "accepted": [
+          "weather"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "particularly in warmer weather"
+          }
+        ],
+        "explanation": "Ozokerite giữ cứng khi thời tiết nóng."
+      },
+      "9": {
+        "accepted": [
+          "cotton"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a suspended cotton wick"
+          }
+        ],
+        "explanation": "Phương pháp đổ dùng bấc bông."
+      },
+      "10": {
+        "accepted": [
+          "shrub"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the candelilla shrub"
+          }
+        ],
+        "explanation": "Sáp candelilla lấy từ thân cây bụi."
+      },
+      "11": {
+        "accepted": [
+          "fruit"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the fruit of the bayberry bush"
+          }
+        ],
+        "explanation": "Sáp bayberry lấy từ quả."
+      },
+      "12": {
+        "accepted": [
+          "casing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "non-burning wax is used to make the casing"
+          }
+        ],
+        "explanation": "Vỏ nến trang trí dùng sáp không cháy, không nhằm tan."
+      },
+      "13": {
+        "accepted": [
+          "wire"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "a center made of wire"
+          }
+        ],
+        "explanation": "Lõi dây kim loại giữ bấc đứng thẳng."
+      }
+    },
+    "lessonSha256": "5084c0ae98adcc628c039be0a41ab6521bbd2c896c29c8750f62b052e414d1e7"
+  },
+  "p1-clarence-birdseye-and-the-development-of-frozen-food": {
+    "lessonId": "p1-clarence-birdseye-and-the-development-of-frozen-food",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "college"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "studied science in college, but had to drop out"
+          }
+        ],
+        "explanation": "Rời đại học vì học phí cao."
+      },
+      "2": {
+        "accepted": [
+          "disease"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the source of a prevalent disease was isolated"
+          }
+        ],
+        "explanation": "Nghiên cứu động vật góp phần tìm nguồn bệnh phổ biến."
+      },
+      "3": {
+        "accepted": [
+          "challenge"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "relished the challenge"
+          }
+        ],
+        "explanation": "Thích thách thức môi trường khắc nghiệt."
+      },
+      "4": {
+        "accepted": [
+          "discovery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "made a powerful discovery"
+          }
+        ],
+        "explanation": "Câu cá giúp phát hiện ích lợi của đông nhanh."
+      },
+      "5": {
+        "accepted": [
+          "prisons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "banned in New York State prisons"
+          }
+        ],
+        "explanation": "Thức ăn đông lạnh kém đến mức nhà tù cũng cấm."
+      },
+      "6": {
+        "accepted": [
+          "membranes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "broke the membranes"
+          }
+        ],
+        "explanation": "Đông nhanh tránh tinh thể lớn phá màng tế bào."
+      },
+      "7": {
+        "accepted": [
+          "ink"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a waterproof ink for the labels"
+          }
+        ],
+        "explanation": "Chế mực chống nước cùng keo cho bao bì."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "fallen out of favor with the public"
+          }
+        ],
+        "explanation": "Hiện công chúng ít ưa chuộng thực phẩm đông lạnh."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "fish caught in the North Atlantic"
+          }
+        ],
+        "explanation": "Không nêu phần lớn cá Bắc Đại Tây Dương được bắt mùa hè."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "came to the same conclusion"
+          }
+        ],
+        "explanation": "Chuyên gia dinh dưỡng và nhà khoa học đều công nhận giá trị."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the minute a fruit or vegetable is harvested, it begins to decay"
+          }
+        ],
+        "explanation": "Nông sản bắt đầu suy giảm ngay khi thu hoạch."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "most frozen fruits and vegetables are flash-frozen within hours of their harvest, at their peak of ripeness"
+          }
+        ],
+        "explanation": "Đa số nông sản đông lạnh được xử lý rất sớm khi ở độ chín tốt nhất."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "levels of vitamin C were nearly the same"
+          }
+        ],
+        "explanation": "Chỉ so sánh vitamin C giữa hai cách bảo quản, không xếp hạng nguồn vitamin tốt nhất."
+      }
+    },
+    "lessonSha256": "045e02fefa040c86da33d93e0a5442e7ea911a9c96c98a229a044a71cc6e90c8"
+  },
+  "p1-brassicas": {
+    "lessonId": "p1-brassicas",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "all ultimately descended from one type of wild cabbage"
+          }
+        ],
+        "explanation": "Đều có chung tổ tiên là một loại bắp cải dại."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Variations in leaf form"
+          }
+        ],
+        "explanation": "Nêu hình dạng và cách cuộn, không so sánh kích thước lá xưa và nay."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "selective breeding of various flower formations"
+          }
+        ],
+        "explanation": "Chọn giống hình dạng hoa tạo súp lơ và broccoli."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "botanists had generally neglected cultivated varieties"
+          }
+        ],
+        "explanation": "Darwin cho rằng giống trồng bị bỏ bê, trái với đề nghị giảm quan tâm."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "physics, genetics and computing"
+          }
+        ],
+        "explanation": "Nhiều lĩnh vực cung cấp thông tin về nguồn gốc."
+      },
+      "6": {
+        "accepted": [
+          "cultivated"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "among the first to have been cultivated"
+          }
+        ],
+        "explanation": "Kale thuộc những loại được trồng đầu tiên."
+      },
+      "7": {
+        "accepted": [
+          "descriptions"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "no accurate descriptions have survived"
+          }
+        ],
+        "explanation": "Không có mô tả chính xác trước ghi chép rõ năm 1536."
+      },
+      "8": {
+        "accepted": [
+          "stem"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "greater width of its stem"
+          }
+        ],
+        "explanation": "Kohlrabi có thân dày."
+      },
+      "9": {
+        "accepted": [
+          "westerners"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "most frequently consumed by westerners"
+          }
+        ],
+        "explanation": "Calabrese phổ biến nhất với người phương Tây."
+      },
+      "10": {
+        "accepted": [
+          "buds"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "large lateral buds"
+          }
+        ],
+        "explanation": "Phần ăn của Brussels sprouts là chồi."
+      },
+      "11": {
+        "accepted": [
+          "insects"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "protect the Brassicas from attack by insects"
+          }
+        ],
+        "explanation": "Dầu mù tạt chống côn trùng."
+      },
+      "12": {
+        "accepted": [
+          "production"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "global oilseed rape production"
+          }
+        ],
+        "explanation": "Sản lượng tăng từ gần 4 lên khoảng 65 triệu tấn."
+      },
+      "13": {
+        "accepted": [
+          "research"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "important in research"
+          }
+        ],
+        "explanation": "Dùng nghiên cứu chọn giống cây."
+      }
+    },
+    "lessonSha256": "fdece8a1cc31d65996958f5048a2836a60f0fdceaf759b9c3439afea1acf3726"
+  }
+}

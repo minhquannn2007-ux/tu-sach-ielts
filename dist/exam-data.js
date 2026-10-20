@@ -121,6 +121,7 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
    const choices=g.type==='tfng'?['TRUE','FALSE','NOT GIVEN']:g.type==='ynng'?['YES','NO','NOT GIVEN']:(q?.options||g.options||g.bank)?.map(o=>o.value);
    if(choices&&a.accepted.some(v=>!choices.includes(v)))errors.push('Answer not in source choices '+n);
    if((q?.slots||1)>1&&(!a.slots||a.slots.length!==q.slots||a.slots.some(slot=>!slot.length)))errors.push('Missing per-slot answers '+n);
+   if(a.unorderedGroup){const group=a.unorderedGroup;if(!Array.isArray(group)||group.length<2||!group.includes(n)||new Set(group).size!==group.length||group.some(m=>!Number.isInteger(m)||!numbers(g).includes(m)||JSON.stringify(solution.answers?.[m]?.unorderedGroup)!==JSON.stringify(group))||!['notes','summary-input','short-answer'].includes(g.type)||group.some(m=>(g.questions?.find(q=>q.n===m)?.slots||1)!==1))errors.push('Invalid unordered completion group '+n)}
   }
   return errors;
  }
@@ -132,7 +133,9 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
    return {n,value,response:display(g,n,value)||'Chưa trả lời',correct,answer:entry?entry.accepted.map(v=>display(g,n,v)).join(' / '):null};
   });
   // Unordered selections receive one point per distinct correct option, never twice.
-  for(const g of d.groups.filter(g=>g.type==='mc-two')){
+  const unordered=d.groups.filter(g=>g.type==='mc-two').slice(),seenGroups=new Set();
+  for(const n of ns){const group=key?.[n]?.unorderedGroup;if(group){const id=JSON.stringify(group);if(!seenGroups.has(id)){seenGroups.add(id);unordered.push({...d.groups.find(g=>numbers(g).includes(n)),numbers:group})}}}
+  for(const g of unordered){
    if(!g.numbers.every(n=>key?.[n]))continue;
    const groupRows=g.numbers.map(n=>rows.find(r=>r.n===n)),matches=new Map();
    function match(i,seen){for(const n of g.numbers){if(seen.has(n)||!key[n].accepted.some(a=>normal(a)===normal(groupRows[i].value)))continue;seen.add(n);if(!matches.has(n)||match(matches.get(n),seen)){matches.set(n,i);return true}}return false}

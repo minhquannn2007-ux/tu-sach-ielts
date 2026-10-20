@@ -1,0 +1,497 @@
+{
+  "p1-koalas": {
+    "lessonId": "p1-koalas",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the number one killer is cars"
+          }
+        ],
+        "explanation": "Xe cộ là nguyên nhân tử vong lớn nhất được nêu."
+      },
+      "2": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "must sit still for 21 hours every day"
+          }
+        ],
+        "explanation": "Để tiêu hóa hoàn toàn phải bất động nhiều giờ."
+      },
+      "3": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "it may blink or swallow. Or hiccup"
+          }
+        ],
+        "explanation": "Thường chỉ có dấu hiệu nhẹ, khó thấy lo âu rõ."
+      },
+      "4": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "charge visitors to be photographed hugging"
+          }
+        ],
+        "explanation": "Sở thú kiếm tiền bằng cho khách ôm chụp ảnh."
+      },
+      "5": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "a number of zoos and wildlife parks have stopped"
+          }
+        ],
+        "explanation": "Can thiệp chính phủ khiến một số cơ sở dừng chụp ảnh ôm."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "settlers and their descendants"
+          }
+        ],
+        "explanation": "Người định cư và hậu duệ là vấn đề chính."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "only in scattered pockets of southeast Australia"
+          }
+        ],
+        "explanation": "Hiện chỉ rải rác vùng đông nam, không khắp nước."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "already burgeoning forth after the fires"
+          }
+        ],
+        "explanation": "Bạch đàn đã mọc trở lại, không phải chưa hồi phục."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "only eat the foliage of certain species"
+          }
+        ],
+        "explanation": "Không nói koala phải đánh nhau vì thức ăn."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "put on a brave face until they are very ill"
+          }
+        ],
+        "explanation": "Che giấu bệnh đến khi nặng, khó phát hiện."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "parasites, chlamydia epidemics"
+          }
+        ],
+        "explanation": "Có bệnh nhưng không khẳng định dễ mắc bệnh truyền từ người."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "like to cling onto their handler"
+          }
+        ],
+        "explanation": "Thích tự bám người hơn bị chuyền tay ôm giữ."
+      },
+      "13": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "hugging the furry bundles"
+          }
+        ],
+        "explanation": "Giọng mô tả sinh động, giải thích dễ hiểu và bàn chăm sóc đại chúng phù hợp bài báo tạp chí phổ thông."
+      }
+    },
+    "lessonSha256": "8daefe161a58665ac276e3d497c7e13af39a0d66f932e713471359888e74afcb"
+  },
+  "p1-the-origins-of-tennis": {
+    "lessonId": "p1-the-origins-of-tennis",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "No drawings or descriptions of any tennis-like games have been discovered"
+          }
+        ],
+        "explanation": "Chưa tìm thấy hình hoặc mô tả trò tương tự từ cổ đại."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "playing with bare hands"
+          }
+        ],
+        "explanation": "Dạng đầu chơi bằng tay trần."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "similar to the ones used in table tennis today"
+          }
+        ],
+        "explanation": "So sánh vợt, không xác định thời điểm bóng bàn ra đời."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "remained exclusive to the upper classes"
+          }
+        ],
+        "explanation": "Chỉ tầng lớp trên, không mọi tầng lớp xã hội Pháp."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "outdoor courtyards were modified into indoor courts"
+          }
+        ],
+        "explanation": "Không so sánh kích thước sân trong và ngoài."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "both the pope and the French king tried to ban it"
+          }
+        ],
+        "explanation": "Có nỗ lực cấm quý tộc chơi."
+      },
+      "7": {
+        "accepted": [
+          "surfaces"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "bounced off any of the surfaces"
+          }
+        ],
+        "explanation": "Bóng real tennis có thể chạm các bề mặt quanh sân."
+      },
+      "8": {
+        "accepted": [
+          "net"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "drops to just under a metre in the middle"
+          }
+        ],
+        "explanation": "Lưới thấp hơn ở giữa."
+      },
+      "9": {
+        "accepted": [
+          "rubber"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "development of rubber tennis balls"
+          }
+        ],
+        "explanation": "Bóng cao su bắt đầu dùng những năm 1850."
+      },
+      "10": {
+        "accepted": [
+          "rules"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "devising rules, which he published"
+          }
+        ],
+        "explanation": "Wingfield xuất bản luật."
+      },
+      "11": {
+        "accepted": [
+          "equipment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "standardised equipment"
+          }
+        ],
+        "explanation": "Bán bộ dụng cụ tiêu chuẩn."
+      },
+      "12": {
+        "accepted": [
+          "shape"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the shape of an hourglass"
+          }
+        ],
+        "explanation": "Thiết kế sân hình đồng hồ cát."
+      },
+      "13": {
+        "accepted": [
+          "tournament"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "A major tennis tournament"
+          }
+        ],
+        "explanation": "Giải đấu lớn đầu tại Wimbledon năm 1877."
+      }
+    },
+    "lessonSha256": "5bf023044c1b172b1f0448370d8bd05c71c6585ebd544e3e94eeb00a92fb496f"
+  },
+  "p1-socotra-island": {
+    "lessonId": "p1-socotra-island",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "organisms that have become extinct elsewhere"
+          }
+        ],
+        "explanation": "Có loài còn ở đảo nhưng đã tuyệt chủng nơi khác."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "historically self-sufficient"
+          }
+        ],
+        "explanation": "Trước đây cư dân tự cung tự cấp, không phụ thuộc đất liền."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "irregular flights began touching down"
+          }
+        ],
+        "explanation": "Không giải thích thời tiết là nguyên nhân chuyến bay thưa."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the capital, Hadibo, has seen huge expansion"
+          }
+        ],
+        "explanation": "Thủ đô mở rộng nhưng không nói đa số du khách lưu trú ở đó."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "greatest impact on the islanders"
+          }
+        ],
+        "explanation": "Đường bộ, không sân bay, có tác động lớn nhất."
+      },
+      "6": {
+        "accepted": [
+          "boat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "travelling for several days on a boat"
+          }
+        ],
+        "explanation": "Trước chỉ đến bằng tàu thuyền."
+      },
+      "7": {
+        "accepted": [
+          "1999"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "By 1999, a runway had been constructed"
+          }
+        ],
+        "explanation": "Đường băng hoàn thành năm 1999."
+      },
+      "8": {
+        "accepted": [
+          "terminal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a modern terminal was added"
+          }
+        ],
+        "explanation": "Bổ sung nhà ga hiện đại."
+      },
+      "9": {
+        "accepted": [
+          "food"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "food, and bricks and timber"
+          }
+        ],
+        "explanation": "Cảng phục vụ nhập thức ăn và vật liệu xây dựng."
+      },
+      "10": {
+        "accepted": [
+          "donkey"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "on foot, or with a donkey"
+          }
+        ],
+        "explanation": "Trước đi bộ hoặc dùng lừa ở nhiều vùng."
+      },
+      "11": {
+        "accepted": [
+          "traditions"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "maintain certain traditions"
+          }
+        ],
+        "explanation": "Phát triển nhanh khiến khó giữ truyền thống."
+      },
+      "12": {
+        "accepted": [
+          "plants"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "plants only found in a limited number of locations"
+          }
+        ],
+        "explanation": "Đường tránh khu có cây quý hiếm ít địa điểm."
+      },
+      "13": {
+        "accepted": [
+          "report"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "a report assessing its environmental impact"
+          }
+        ],
+        "explanation": "Mỗi đường mới cần báo cáo đánh giá tác động."
+      }
+    },
+    "lessonSha256": "325572322d491c76b892f6b7d1a68b70cb00af67007916ecd50469ac869f4697"
+  }
+}

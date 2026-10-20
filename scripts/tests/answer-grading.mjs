@@ -22,3 +22,9 @@ assert.equal(G.grade(d,Array(13).fill(''),null).marked,0,'no invented key or wro
 console.log('PASS correct/wrong/unanswered, all reviewed keys, evidence/hash gates, unordered selections, partial credit, per-slot answers and no-key fallback.');
 
 {const d=JSON.parse(fs.readFileSync('dist/lessons/p2-conserving-plastic.json')),s=keys[d.id],v=Array(13).fill('');v[10]='transparent transparent';assert.equal(G.grade(d,v,s.answers,{24:['transparent','transparent']}).rows.find(r=>r.n===24).correct,false,'two correct words still require a valid combination')}
+
+{const d={id:'list-fixture',part:1,groups:[{type:'notes',questions:[{n:1},{n:2}]}]},key={1:{accepted:['toothpaste'],unorderedGroup:[1,2]},2:{accepted:['toothbrushes'],unorderedGroup:[1,2]}};
+ assert.equal(G.grade(d,['toothbrushes','toothpaste'],key).score,2,'completion list allows either order');
+ const duplicate=G.grade(d,['toothpaste','toothpaste'],key);assert.equal(duplicate.score,1,'duplicate text receives credit once');assert.equal(duplicate.rows.find(r=>!r.correct).answer,'toothbrushes','wrong row shows the missing item');
+ assert.equal(G.grade(d,['toothbrushes',''],key).score,1,'partial list receives partial credit');}
+{const s=structuredClone(keys['p1-a-brief-history-of-ballet']),d=JSON.parse(fs.readFileSync('dist/lessons/'+s.lessonId+'.json'));s.answers[8].unorderedGroup=[8,9];assert(G.validate(d,s).some(e=>e.includes('unordered')),'all members must share valid group metadata');}

@@ -1,0 +1,497 @@
+{
+  "p1-the-sunlight-soap-story": {
+    "lessonId": "p1-the-sunlight-soap-story",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the youngsters were apprenticed to the family business"
+          }
+        ],
+        "explanation": "Hai anh em học việc trong tiệm tạp hóa gia đình."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Soap was becoming popular"
+          }
+        ],
+        "explanation": "Không nói đa số người dân tự làm xà phòng ở nhà."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "not knowledgeable about soap itself"
+          }
+        ],
+        "explanation": "William thừa nhận chưa hiểu nhiều về xà phòng."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "buy the recipe instead, for a small sum of money"
+          }
+        ],
+        "explanation": "Công thức được mua với khoản tiền nhỏ, không miễn phí."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "preferred not to use it at all"
+          }
+        ],
+        "explanation": "Sunlight không chứa sodium silicate."
+      },
+      "6": {
+        "accepted": [
+          "profits"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "benefit from the profits created by his business each year"
+          }
+        ],
+        "explanation": "Muốn công nhân hưởng lợi nhuận hằng năm."
+      },
+      "7": {
+        "accepted": [
+          "village"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a village, complete with open spaces"
+          }
+        ],
+        "explanation": "Xây cả làng cho công nhân."
+      },
+      "8": {
+        "accepted": [
+          "outings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "there were staff outings"
+          }
+        ],
+        "explanation": "Tổ chức chuyến đi chơi nhân viên."
+      },
+      "9": {
+        "accepted": [
+          "packaging"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "packaging surrounding the soap"
+          }
+        ],
+        "explanation": "Bao bì có ba mươi ngôn ngữ để bán toàn cầu."
+      },
+      "10": {
+        "accepted": [
+          "Headquarters"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Headquarters for the Australasian division were in Sydney"
+          }
+        ],
+        "explanation": "Trụ sở bộ phận đặt tại Sydney."
+      },
+      "11": {
+        "accepted": [
+          "stamps"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "backs of postage stamps"
+          }
+        ],
+        "explanation": "Quảng cáo sau tem thư; một từ stamps phù hợp giới hạn."
+      },
+      "12": {
+        "accepted": [
+          "floor"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "on to the floor"
+          }
+        ],
+        "explanation": "Đổ nguyên liệu xà phòng trên sàn nhà máy."
+      },
+      "13": {
+        "accepted": [
+          "powders"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "powders were replacing bar soaps"
+          }
+        ],
+        "explanation": "Bột giặt dần thay xà phòng bánh."
+      }
+    },
+    "lessonSha256": "b1cfcc8c1a41c762b86b4906a69c68491c5a939072e2bea48eec4389015e7298"
+  },
+  "p1-dirty-but-clean-rivers": {
+    "lessonId": "p1-dirty-but-clean-rivers",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Rivers — and the ecosystems they support — need floods too"
+          }
+        ],
+        "explanation": "Nêu cả lửa và lũ có vai trò sinh thái, không xếp mức hại tương đối."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "almost 3,500 cubic meters"
+          }
+        ],
+        "explanation": "Lưu lượng đỉnh từng gần 3500 mét khối mỗi giây."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "not powerful enough to distribute the sediment"
+          }
+        ],
+        "explanation": "Phụ lưu nhỏ không đủ mạnh để phân bố trầm tích hữu ích."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "trout and chub co-existed until the Glen Canyon Dam was built"
+          }
+        ],
+        "explanation": "Hai loài cùng sống trước đập; riêng sự du nhập trout không giải thích suy giảm chub."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "its population has crashed"
+          }
+        ],
+        "explanation": "Quần thể giảm được nói là chub; không nêu xu hướng số lượng trout."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "To start with, all seemed well"
+          }
+        ],
+        "explanation": "Ban đầu lũ có kiểm soát năm 1996 được xem là ổn."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "smaller than even an average spring flood"
+          }
+        ],
+        "explanation": "Lũ dự kiến nhỏ hơn cả lũ xuân trung bình trước đây."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "a muddy mess of silt and muck"
+          }
+        ],
+        "explanation": "Lũ lớn xưa mang bùn cát, không trong sạch."
+      },
+      "9": {
+        "accepted": [
+          "spring"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Each spring the snow would melt"
+          }
+        ],
+        "explanation": "Tuyết tan gây lũ mỗi mùa xuân."
+      },
+      "10": {
+        "accepted": [
+          "razorback sucker"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the razorback sucker, have vanished altogether"
+          }
+        ],
+        "explanation": "Loài razorback sucker biến mất hẳn."
+      },
+      "11": {
+        "accepted": [
+          "common carp"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the common carp"
+          }
+        ],
+        "explanation": "Cá chép thường tăng hiện diện sau khi điều kiện đổi."
+      },
+      "12": {
+        "accepted": [
+          "canyon"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "washed most of the sediment out of the canyon"
+          }
+        ],
+        "explanation": "Năm 1996 trầm tích bị cuốn ra khỏi canyon."
+      },
+      "13": {
+        "accepted": [
+          "sand"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "volume of sand behind the dam was too low"
+          }
+        ],
+        "explanation": "Năm 2004 không đủ cát tái tạo doi cát."
+      }
+    },
+    "lessonSha256": "f1f7e8a5d7c87112c7306d86c9052d14799f8d712ef39b46ac17bbca1ebf6521"
+  },
+  "p1-the-life-of-louis-braille": {
+    "lessonId": "p1-the-life-of-louis-braille",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "infection"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the infection that had developed in his eyes"
+          }
+        ],
+        "explanation": "Mất thị lực do nhiễm trùng sau tai nạn."
+      },
+      "2": {
+        "accepted": [
+          "soldiers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "soldiers adopted to communicate silently"
+          }
+        ],
+        "explanation": "Hệ thống ban đầu dùng cho binh lính liên lạc im lặng."
+      },
+      "3": {
+        "accepted": [
+          "lecture"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a lecture Barbier gave at the Institute"
+          }
+        ],
+        "explanation": "Braille biết đến qua bài giảng của Barbier."
+      },
+      "4": {
+        "accepted": [
+          "sounds"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "based on sounds rather than letters"
+          }
+        ],
+        "explanation": "Hệ Barbier dựa trên âm thay vì chữ."
+      },
+      "5": {
+        "accepted": [
+          "finger"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a single contact of one finger"
+          }
+        ],
+        "explanation": "Nhận ký hiệu bằng một ngón tay."
+      },
+      "6": {
+        "accepted": [
+          "line"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "moved on toward the next line"
+          }
+        ],
+        "explanation": "Tay trái chuyển đến dòng tiếp theo."
+      },
+      "7": {
+        "accepted": [
+          "decapoint"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "known as decapoint"
+          }
+        ],
+        "explanation": "Tên phương pháp viết là decapoint."
+      },
+      "8": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "praised the system publicly"
+          }
+        ],
+        "explanation": "Vua khen công khai, không nói hỗ trợ tài chính."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Braille's fellow students loved it"
+          }
+        ],
+        "explanation": "Học sinh yêu thích chứ không bác bỏ hệ thống."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "might take away their jobs"
+          }
+        ],
+        "explanation": "Giáo viên sáng mắt lo mất việc cho người mù học giỏi."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a former student of his"
+          }
+        ],
+        "explanation": "Có học sinh quảng bá hệ thống, không nêu đến thăm sau nghỉ hưu."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "renewed interest in and a revival"
+          }
+        ],
+        "explanation": "Nhạc sĩ biểu diễn và nhắc Braille khiến hệ thống được quan tâm lại."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "underwent alteration from time to time"
+          }
+        ],
+        "explanation": "Hệ thống có thay đổi qua thời gian, không giữ nguyên hoàn toàn."
+      }
+    },
+    "lessonSha256": "dcaaecef713342d75c0056981f7c6aeb78e7a706d14cf9f475020ac035b5a05a"
+  }
+}

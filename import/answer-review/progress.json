@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T12:53:45.724Z",
+  "updatedAt": "2026-10-20T13:03:57.058Z",
   "totalLessons": 733,
-  "reviewedLessons": 51,
-  "reviewedAnswers": 677,
+  "reviewedLessons": 77,
+  "reviewedAnswers": 1015,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 678,
+  "pendingSolutions": 652,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -48,7 +48,7 @@
       "title": "A brome lives on: how a British grass escaped extinction",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages",
@@ -244,7 +244,7 @@
       "title": "Ambergris – what is it and where does it come from?",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-american-businesses-aim-to-support-employees-and-their-families",
@@ -293,7 +293,7 @@
       "title": "An important language development",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-an-innovative-american-school-black-mountain-college",
@@ -356,7 +356,7 @@
       "title": "Answers Underground",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-antarctic-architecture-halley-vi",
@@ -412,7 +412,7 @@
       "title": "Are dreams really meaningful?",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-are-the-rules-of-grammar-inherited-or-learned",
@@ -447,7 +447,7 @@
       "title": "Australia’s Airborne Dentists",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-australia-s-artistic-heritage",
@@ -678,7 +678,7 @@
       "title": "Brassicas",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-bravery-and-courage",
@@ -769,7 +769,7 @@
       "title": "Candles",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-capability-brown",
@@ -818,7 +818,7 @@
       "title": "Charles Dickens' early life in London",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-charles-heaphy-and-the-settlement-of-new-zealand",
@@ -874,7 +874,7 @@
       "title": "Chilli Peppers",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-chocolate-for-the-masses",
@@ -895,7 +895,7 @@
       "title": "Clarence Birdseye and the Development of Frozen Food",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-classifying-societies",
@@ -923,7 +923,7 @@
       "title": "Coffee then and now",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-coins-the-first-form-of-money",
@@ -1133,7 +1133,7 @@
       "title": "Dirty but Clean Rivers",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-disappearing-languages",
@@ -1847,7 +1847,7 @@
       "title": "Koalas",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-lake-bosumtwi-the-secrets-of-a-crater-lake",
@@ -2736,7 +2736,7 @@
       "title": "Research into elephant sleeping habits",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-research-into-the-effects-of-different-teaching-styles",
@@ -2995,7 +2995,7 @@
       "title": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-social-organization-in-animals",
@@ -3009,7 +3009,7 @@
       "title": "Socotra Island",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-solving-an-arctic-mystery",
@@ -3282,7 +3282,7 @@
       "title": "The Band of Holes",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-baobabs-of-madagascar",
@@ -3499,7 +3499,7 @@
       "title": "The Development of Plastics",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-development-of-research-stations-in-antarctica",
@@ -3548,7 +3548,7 @@
       "title": "The disappearance of the thylacine",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-discovery-of-a-baby-mammoth",
@@ -3751,7 +3751,7 @@
       "title": "The history of colours and the meanings people have given them",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-farming",
@@ -3863,7 +3863,7 @@
       "title": "The history of walking in New Zealand",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-humble-houseplant-an-aid-for-health-and-cleanliness",
@@ -3996,7 +3996,7 @@
       "title": "The Life of Louis Braille",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-link-between-culture-and-thought",
@@ -4066,7 +4066,7 @@
       "title": "The Mesoamerican Ball Game",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-mobile-workforce",
@@ -4185,7 +4185,7 @@
       "title": "The origins of tennis",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-origins-of-weather-forecasting",
@@ -4451,7 +4451,7 @@
       "title": "The Sunlight Soap Story",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-survival-of-the-luxury-swiss-watchmaking-business",

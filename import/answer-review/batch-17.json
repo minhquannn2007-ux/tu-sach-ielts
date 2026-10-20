@@ -1,0 +1,332 @@
+{
+  "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction": {
+    "lessonId": "p1-a-brome-lives-on-how-a-british-grass-escaped-extinction",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "By 1972, it had vanished from its last toehold"
+          }
+        ],
+        "explanation": "1963 là năm lấy hạt; đến 1972 mới biến mất khỏi hai cánh đồng cuối."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "he was booked to talk about his research"
+          }
+        ],
+        "explanation": "Smith trình bày cây trong buổi họp có bài nói của mình."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "has no commercial value"
+          }
+        ],
+        "explanation": "Cỏ không có giá trị thương mại và không được xem là cây trồng hữu ích."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "English Nature has included interrupted brome"
+          }
+        ],
+        "explanation": "Không nêu Smith là cố vấn bên ngoài của English Nature."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a mere variety of soft brome"
+          }
+        ],
+        "explanation": "Trước 1895 được coi là một biến thể của soft brome, không đồng nhất tên loài."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "soil-enriching qualities"
+          }
+        ],
+        "explanation": "Đậu được dùng nuôi gia súc và làm giàu đất."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "relied on farmers to re-sow its seeds"
+          }
+        ],
+        "explanation": "Hạt không tồn tại lâu trong đất nên cần thu và gieo lại cùng cây thức ăn."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "the brome's reluctance to spread by itself"
+          }
+        ],
+        "explanation": "Không thành cỏ xâm lấn vì ít tự lan, không phải chỉ nhờ thuốc diệt cỏ."
+      },
+      "9": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "deemed to be a mere variety of soft brome"
+          }
+        ],
+        "explanation": "Hackel xếp nó là biến thể của loài khác."
+      },
+      "10": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "deserved species status, and convinced the botanical world"
+          }
+        ],
+        "explanation": "Druce thuyết phục công nhận loài riêng."
+      },
+      "11": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "these legumes appeared in Britain in the early 1600s"
+          }
+        ],
+        "explanation": "Thirsk xác định thời điểm đậu tới Anh."
+      },
+      "12": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "helped to spread the word"
+          }
+        ],
+        "explanation": "Sách Fiennes thúc đẩy trồng cây đậu cải tạo đất."
+      },
+      "13": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "collected specimens at Odsey, Bedfordshire, in 1849"
+          }
+        ],
+        "explanation": "Barnard thu mẫu đầu tiên được ghi nhận."
+      }
+    },
+    "lessonSha256": "ec4da4693491e8ff6affe2484380c987dbf0e1f9b643781d64c8eb514da1852d"
+  },
+  "p1-ambergris-what-is-it-and-where-does-it-come-from": {
+    "lessonId": "p1-ambergris-what-is-it-and-where-does-it-come-from",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Both substances were rare and costly"
+          }
+        ],
+        "explanation": "Cả ambergris và amber đều hiếm, đắt."
+      },
+      "2": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "widely used as a spice"
+          }
+        ],
+        "explanation": "Chỉ ambergris được nêu dùng tạo vị thức ăn."
+      },
+      "3": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "worth its weight in gold"
+          }
+        ],
+        "explanation": "Có giá ngang vàng không đồng nghĩa được dùng làm tiền; bài không nêu loại nào làm tiền."
+      },
+      "4": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "ambergris is soft, waxy, and so highly fragrant"
+          }
+        ],
+        "explanation": "Ambergris thơm còn amber không mùi."
+      },
+      "5": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the two substances are quite distinct"
+          }
+        ],
+        "explanation": "Melville bàn cả hai chất và phân biệt chúng."
+      },
+      "6": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "amber is a hard, transparent"
+          }
+        ],
+        "explanation": "Amber trong suốt; ambergris dạng sáp."
+      },
+      "7": {
+        "accepted": [
+          "beaks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "digesting the beaks of such creatures"
+          }
+        ],
+        "explanation": "Mỏ mực khó tiêu gây hình thành ambergris."
+      },
+      "8": {
+        "accepted": [
+          "vomited up"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "large quantities of the liquid are vomited up"
+          }
+        ],
+        "explanation": "Dịch được cá voi nôn ra theo từng đợt."
+      },
+      "9": {
+        "accepted": [
+          "hardens"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "exposed to air, the substance hardens"
+          }
+        ],
+        "explanation": "Ra không khí thì chất dịch cứng lại."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "over 90 per cent of the annual worldwide total"
+          }
+        ],
+        "explanation": "Hơn 90% từng thu khi xử lý xác cá voi."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "by far the most valuable product"
+          }
+        ],
+        "explanation": "Không có so sánh giá hiện tại với trước gần đây."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "ambergris was supplanted in the making of perfume"
+          }
+        ],
+        "explanation": "Đã bị thay thế bởi vật liệu khác trong nước hoa."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "it is possible that"
+          }
+        ],
+        "explanation": "Không nêu công dụng mới được tìm ra gần đây."
+      }
+    },
+    "lessonSha256": "b1543728a8f9a2cb97f8b5262306d6f6b923509c9011688896fdf1ad73c5657f"
+  }
+}

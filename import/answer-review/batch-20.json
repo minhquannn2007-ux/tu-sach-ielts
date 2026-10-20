@@ -1,0 +1,497 @@
+{
+  "p1-coffee-then-and-now": {
+    "lessonId": "p1-coffee-then-and-now",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "turn a deep red when ripe, which explains their name"
+          }
+        ],
+        "explanation": "Màu đỏ chín giải thích tên cherries."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a more recent development"
+          }
+        ],
+        "explanation": "Wet mới hơn và dùng cho quả chất lượng cao, không so sánh hiệu suất."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Roasting tends to be done in the country of import"
+          }
+        ],
+        "explanation": "Rang thường ở nước nhập khẩu, sau xuất khẩu."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "give the coffee its aroma and flavour"
+          }
+        ],
+        "explanation": "Rang phát triển dầu thơm làm tốt mùi và vị."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "where cultivation is easier"
+          }
+        ],
+        "explanation": "Robusta ở sườn thấp dễ trồng hơn arabica ở núi dốc cao."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "an arabica coffee concentrate is frozen"
+          }
+        ],
+        "explanation": "Loại hòa tan tốt nhất là arabica đông khô, không hỗn hợp với robusta."
+      },
+      "7": {
+        "accepted": [
+          "records"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "records of coffee cultivation in Yemen"
+          }
+        ],
+        "explanation": "Ghi chép cho thấy Yemen đã trồng cà phê sớm."
+      },
+      "8": {
+        "accepted": [
+          "traders"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "brought to Europe by traders"
+          }
+        ],
+        "explanation": "Thương nhân mang tin về thức uống đến châu Âu."
+      },
+      "9": {
+        "accepted": [
+          "trend"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the trend quickly caught on"
+          }
+        ],
+        "explanation": "Sau khi giáo hoàng chấp thuận, uống cà phê thành trào lưu."
+      },
+      "10": {
+        "accepted": [
+          "politicians"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "favourite meeting places of politicians"
+          }
+        ],
+        "explanation": "Quán cà phê thu hút chính khách và nghệ sĩ."
+      },
+      "11": {
+        "accepted": [
+          "frost"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "vulnerable to frost"
+          }
+        ],
+        "explanation": "Chỉ trồng nhiệt đới để tránh sương giá."
+      },
+      "12": {
+        "accepted": [
+          "picking"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the picking is carried out by hand"
+          }
+        ],
+        "explanation": "Khâu hái thường làm bằng tay."
+      },
+      "13": {
+        "accepted": [
+          "flavour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "it does not affect the flavour"
+          }
+        ],
+        "explanation": "CO2 loại caffeine mà giữ hương vị."
+      }
+    },
+    "lessonSha256": "75373b54115a3fd59f0c5ce0daab8cb602b35f45a87c2d3ef987073634e3314e"
+  },
+  "p1-charles-dickens-early-life-in-london": {
+    "lessonId": "p1-charles-dickens-early-life-in-london",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Something might have been spared"
+          }
+        ],
+        "explanation": "Dickens muốn được đi học, không thích ở nhà làm việc vặt hơn."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "was given no encouragement to write more"
+          }
+        ],
+        "explanation": "Không nói các mô tả thời bé sau này có được xuất bản hay không."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he never felt any jealousy"
+          }
+        ],
+        "explanation": "Ông khẳng định không ghen với chị."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "learning the layout and character of districts and streets"
+          }
+        ],
+        "explanation": "Được tự đi khắp London và quen các khu phố."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "observing the contrast"
+          }
+        ],
+        "explanation": "Có quan sát cửa hàng nhưng không nêu vui thích trò chuyện chủ tiệm."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "her husband’s salary was not growing fast enough"
+          }
+        ],
+        "explanation": "Mẹ tìm cách dùng khả năng mình kiếm thêm cho gia đình."
+      },
+      "7": {
+        "accepted": [
+          "sign"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "fixed a sign to the wall"
+          }
+        ],
+        "explanation": "Mẹ treo biển mở trường."
+      },
+      "8": {
+        "accepted": [
+          "leaflets"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "sent out with leaflets"
+          }
+        ],
+        "explanation": "Charles đi phát tờ quảng cáo."
+      },
+      "9": {
+        "accepted": [
+          "messenger"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the role of messenger"
+          }
+        ],
+        "explanation": "Ông chuyển lời cầu cứu của cha."
+      },
+      "10": {
+        "accepted": [
+          "prison"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a prison for debtors"
+          }
+        ],
+        "explanation": "Cha chuyển đến nhà tù con nợ."
+      },
+      "11": {
+        "accepted": [
+          "advice"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "offered Charles the sound advice"
+          }
+        ],
+        "explanation": "Lời khuyên tiêu ít hơn thu nhập được dùng vào tiểu thuyết."
+      },
+      "12": {
+        "accepted": [
+          "salary"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "continue to receive his salary"
+          }
+        ],
+        "explanation": "Cha vẫn nhận lương dù ở tù."
+      },
+      "13": {
+        "accepted": [
+          "furniture"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "then with items of furniture"
+          }
+        ],
+        "explanation": "Charles đem bán sách rồi đồ nội thất."
+      }
+    },
+    "lessonSha256": "19dbd7b24f185cbb0066454b490f4f993944a3097dfde7f54b211c2ca7176819"
+  },
+  "p1-chilli-peppers": {
+    "lessonId": "p1-chilli-peppers",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "participants in China"
+          }
+        ],
+        "explanation": "Nghiên cứu chỉ theo dõi người tham gia tại Trung Quốc."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "lower probability of death from cancer, heart disease and diabetes"
+          }
+        ],
+        "explanation": "Ớt tươi liên quan giảm tử vong từ các bệnh nêu."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "several varieties where this is not the case"
+          }
+        ],
+        "explanation": "Vị trí capsaicin không giống ở mọi giống ớt."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "between 100,000 and 350,000"
+          }
+        ],
+        "explanation": "Có mức Scoville habanero, không nói cao nhất các loại ớt."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "its use as a food additive is banned in the European Union"
+          }
+        ],
+        "explanation": "EU cấm dùng capsaicin tinh khiết làm phụ gia thức ăn."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "The Aztecs also put chilli on their teeth"
+          }
+        ],
+        "explanation": "Có dùng chữa đau răng, không nói họ là người đầu tiên."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "all mammals experience the same sensation but that birds do not"
+          }
+        ],
+        "explanation": "Chim không cảm nhận cay nóng như thú."
+      },
+      "8": {
+        "accepted": [
+          "refrigeration"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "before refrigeration"
+          }
+        ],
+        "explanation": "Đặc tính diệt khuẩn quan trọng trước thời bảo quản lạnh."
+      },
+      "9": {
+        "accepted": [
+          "sweat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "generate a lot of sweat"
+          }
+        ],
+        "explanation": "Giả thuyết cũ là đổ mồ hôi giúp hạ nhiệt."
+      },
+      "10": {
+        "accepted": [
+          "recipes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "books filled with recipes"
+          }
+        ],
+        "explanation": "Nghiên cứu khảo sát sách công thức nấu ăn."
+      },
+      "11": {
+        "accepted": [
+          "metabolism"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "increased the metabolism"
+          }
+        ],
+        "explanation": "Capsaicin làm tăng chuyển hóa ở chuột."
+      },
+      "12": {
+        "accepted": [
+          "stomach"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "located inside the stomach"
+          }
+        ],
+        "explanation": "Thụ thể trong dạ dày liên quan cảm giác no."
+      },
+      "13": {
+        "accepted": [
+          "exercise"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the feeling we have when we have done some exercise"
+          }
+        ],
+        "explanation": "Cảm giác hưng phấn giống sau vận động."
+      }
+    },
+    "lessonSha256": "48484451ba845ab13ac29793aa3867ddc93ec897d47827c18b4de05d546690b6"
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "p1-an-important-language-development": {
+    "lessonId": "p1-an-important-language-development",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "larger tablets or cylinders were used"
+          }
+        ],
+        "explanation": "Bảng đất sét có nhiều cỡ và đôi khi dạng trụ."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "into the wet clay"
+          }
+        ],
+        "explanation": "Khi ghi thì đất sét còn ướt, không khô."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "almost too small to see with the naked eye"
+          }
+        ],
+        "explanation": "Ký hiệu nhỏ đến khó nhìn bằng mắt thường."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "at least a dozen languages"
+          }
+        ],
+        "explanation": "Ít nhất mười hai ngôn ngữ dùng cuneiform."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "similar to how the Latin alphabet is used today"
+          }
+        ],
+        "explanation": "So sánh chức năng nhiều ngôn ngữ, không nói ký hiệu cuneiform có trong alphabet hiện đại."
+      },
+      "6": {
+        "accepted": [
+          "stones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "take small stones and use them as tokens"
+          }
+        ],
+        "explanation": "Dùng đá nhỏ làm vật biểu trưng."
+      },
+      "7": {
+        "accepted": [
+          "cloth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "placed in a cloth container"
+          }
+        ],
+        "explanation": "Vật chứa ban đầu làm bằng vải."
+      },
+      "8": {
+        "accepted": [
+          "receipt"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "as a receipt for a transaction"
+          }
+        ],
+        "explanation": "Vật biểu trưng dùng như biên nhận."
+      },
+      "9": {
+        "accepted": [
+          "envelope"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "resembling an envelope"
+          }
+        ],
+        "explanation": "Vật chứa đất sét hình giống phong bì."
+      },
+      "10": {
+        "accepted": [
+          "sheep"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "drawing of a sheep"
+          }
+        ],
+        "explanation": "Hình con cừu ban đầu đại diện đúng con cừu."
+      },
+      "11": {
+        "accepted": [
+          "triangles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the form of triangles"
+          }
+        ],
+        "explanation": "Giai đoạn cuối ký hiệu có hình tam giác."
+      },
+      "12": {
+        "accepted": [
+          "accounting"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "primarily as a tool for accounting"
+          }
+        ],
+        "explanation": "Công dụng chính theo chuyên gia là kế toán."
+      },
+      "13": {
+        "accepted": [
+          "paper"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "on large pieces of paper"
+          }
+        ],
+        "explanation": "Rawlinson sao chữ lên giấy."
+      }
+    },
+    "lessonSha256": "84d968f8e5a95d53714592482a20dc544801f9db071296f102b3a52eabf10c7d"
+  },
+  "p1-answers-underground": {
+    "lessonId": "p1-answers-underground",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Lackner argues that it is too expensive to adapt existing plants"
+          }
+        ],
+        "explanation": "Lackner nói cải tạo nhà máy cũ quá tốn kém."
+      },
+      "2": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "potentially harmful consequences for marine life"
+          }
+        ],
+        "explanation": "Hawkins cảnh báo ảnh hưởng sinh vật biển."
+      },
+      "3": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the cheapest and most plentiful energy source"
+          }
+        ],
+        "explanation": "Lackner giải thích nhiên liệu hóa thạch rẻ và dồi dào."
+      },
+      "4": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "developed nations will have to provide assistance"
+          }
+        ],
+        "explanation": "Hawkins đề nghị nước giàu hỗ trợ nước nghèo."
+      },
+      "5": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "risen by nearly a third, according to Scott Klara"
+          }
+        ],
+        "explanation": "Klara đưa mức tăng CO2 gần một phần ba trong thế kỷ qua."
+      },
+      "6": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "people become asphyxiated"
+          }
+        ],
+        "explanation": "WWF Australia cảnh báo người có thể ngạt nếu CO2 rò thoát."
+      },
+      "7": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "In western Canada"
+          }
+        ],
+        "explanation": "H nêu ví dụ Canada và Biển Bắc."
+      },
+      "8": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "including carbonating soft drinks"
+          }
+        ],
+        "explanation": "F nêu tái sử dụng CO2 làm nước uống có ga."
+      },
+      "9": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "rising temperatures and sea levels"
+          }
+        ],
+        "explanation": "C nêu nhiệt độ và mực nước biển tăng."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "fourteen industrialised and developing countries agreed"
+          }
+        ],
+        "explanation": "Cả nước phát triển và đang phát triển đồng ý nghiên cứu."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "increased energy consumption is a key to economic growth"
+          }
+        ],
+        "explanation": "Kinh tế tăng trưởng đi với tiêu thụ điện năng tăng."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "raises the cost of producing electricity by 30-80%"
+          }
+        ],
+        "explanation": "Thu giữ còn đắt, chưa hấp dẫn tài chính."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "forests and wetlands"
+          }
+        ],
+        "explanation": "Nêu rừng hấp thu CO2, không khuyến nghị phải trồng thêm rừng."
+      }
+    },
+    "lessonSha256": "381451e0efbb23648a54390a6108d57448696ee03e9b52243f6533443ba7e76c"
+  },
+  "p1-are-dreams-really-meaningful": {
+    "lessonId": "p1-are-dreams-really-meaningful",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a kind of superstition"
+          }
+        ],
+        "explanation": "Đa số xem giải mộng là mê tín, không là hoạt động khoa học."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "not meaningless 'noise'"
+          }
+        ],
+        "explanation": "Nghiên cứu mới cho thấy giấc mơ có ý nghĩa và cấu trúc."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "connections between dream content and the person's real life"
+          }
+        ],
+        "explanation": "Có liên hệ nhưng không nêu thay đổi hành vi làm đổi mẫu giấc mơ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Calkins and a colleague kept journals"
+          }
+        ],
+        "explanation": "Dữ liệu gồm giấc mơ của Calkins và đồng nghiệp."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "determine which elements appeared most often"
+          }
+        ],
+        "explanation": "Bà đếm những yếu tố xuất hiện thường xuyên nhất."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "largely confirmed these insights"
+          }
+        ],
+        "explanation": "Nghiên cứu sau xác nhận chứ không chứng minh kết quả gây hiểu nhầm."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "children have more animals in their dreams"
+          }
+        ],
+        "explanation": "Chỉ so sánh nội dung động vật, không thời lượng mơ."
+      },
+      "8": {
+        "accepted": [
+          "file"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "sends him a file"
+          }
+        ],
+        "explanation": "Domhoff gửi tập tin ghi giấc mơ."
+      },
+      "9": {
+        "accepted": [
+          "identity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "whose identity is hidden"
+          }
+        ],
+        "explanation": "Bulkeley không biết danh tính người tham gia."
+      },
+      "10": {
+        "accepted": [
+          "template"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a specially designed template"
+          }
+        ],
+        "explanation": "Mẫu phân tích xác định các từ theo nhóm ý nghĩa."
+      },
+      "11": {
+        "accepted": [
+          "connections"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "meaningful connections between dream content and the person's real life"
+          }
+        ],
+        "explanation": "Tìm liên hệ giữa giấc mơ và đời thực."
+      },
+      "12": {
+        "accepted": [
+          "journalist"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "worked as a journalist"
+          }
+        ],
+        "explanation": "Ông đoán đúng nghề nhà báo."
+      },
+      "13": {
+        "accepted": [
+          "cultures"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "the many different cultures around the globe"
+          }
+        ],
+        "explanation": "Nên nghiên cứu các nền văn hóa có truyền thống tìm ý nghĩa giấc mơ."
+      }
+    },
+    "lessonSha256": "3cddda25bd9fd3694a0705f9cb36c88047382e286e76d31b5997c115c52c20cc"
+  }
+}

@@ -109,6 +109,15 @@
       "reason": "The sentence-ending bank consists of unrelated business/negotiation clauses and cannot complete Indicative sentences, Austin’s claims, or Constative utterances. The final paragraph is also truncated (“Performatives are neither true nor fail...”), leaving Q32 unsupported.",
       "needed": "Restore the correct ending bank and complete final paragraph from the original source before grading.",
       "answerApproved": false
+    },
+    {
+      "lessonId": "p1-the-burgess-shale-fossils",
+      "questions": [
+        13
+      ],
+      "reason": "The table asks what Hallucigenia used its spines to do, but the published passage only mentions spines and tentacles and gives no function. The opening sentence also contains damaged text (“fossil bed known as the ago”).",
+      "needed": "Compare the full original passage/table and restore any omitted description before approving the solution.",
+      "answerApproved": false
     }
   ]
 }
