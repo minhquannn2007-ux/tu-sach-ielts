@@ -1,0 +1,184 @@
+{
+  "id": "p2-growing-more-for-less",
+  "title": "Growing more for less",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "For farmers, working out the optimal amount of seed, fertiliser, pesticide and water to scatter on a field can make, or break, the subsequent harvest. Regular laboratory analyses of soil and plant samples from various parts of the field can help - but such expertise is costly, and often unavailable. However, a new and cheaper method of doing this analysis is now on offer. Precise prescriptions for growing crops can be obtained quickly, and less expensively, by calculating the amount of electromagnetic radiation reflected from agricultural land. The data is collected by orbiting satellites."
+    },
+    {
+      "label": "B",
+      "text": "Examining the wavelength of the radiation that is reflected can reveal, with surprising precision, the properties of the soil, the quantity of crop being grown, and the levels in those crops of chlorophyll*, various minerals, moisture and other indicators of their quality. If recent and forecast weather data is added to the mix, detailed maps can be produced indicating exactly how, where and when crops should be grown. The service usually costs less than US $15 per hectare for a handful of readings a year, and can increase yields by as much as 10%."
+    },
+    {
+      "label": "C",
+      "text": "Such precision farming using satellite-based intelligence is a relatively new technique. Even so, it is catching on quickly. Five times a year, for example, a French cereal-growers’ co-operative called Sevépi purchases satellite data and makes it available to its members in the form of maps of their fields, divided into three or four colour-coded zones per hectare. For each zone, one of about 50 fertiliser formulas is recommended. On top of this, if the wheat in the field has already grown quite high early in the season, and heavy showers are expected, an appropriate dose of growth regulator is recommended for each zone. (Long, fragile stems break more easily in downpours.) Then, farm vehicles equipped with global-positioning system locators automatically mix and apply the prescribed dose to each area."
+    },
+    {
+      "label": "D",
+      "text": "France is the pioneer in this sort of surveillance. More farmland is analysed by satellite there than in any other country, according to Infoterra (a subsidiary of EADS Astrium), the firm that is France’s largest provider of such information, supplying data to companies such as Sevépi. Moreover, Henri Douche, head of Infoterra’s agriculture sales in Toulouse, reckons the amount of monitored farmland will increase as weather patterns change and farmers can no longer rely on the past as a guide to the future. When confounded by the yield variations that these new weather patterns will bring, even farmers who are afraid of new technology will sign up, he says."
+    },
+    {
+      "label": "E",
+      "text": "Inexpensive data on the productivity of land is advantageous to governments, too. Areas where fertilisers and pesticides are being applied excessively can be pinpointed, studied and regulated by environmental and land-use agencies. Guy Lafond, an agronomist with Agriculture and Agri-Food Canada, a government agency, says the satellite data it purchases is proving useful for the study of fields with declining productivity in the province of Saskatchewan. Overkill with nitrate fertilisers (which are also a source of greenhouse gases) appears partly responsible. And according to RapidEye, a German satellite operator, insurance companies are also studying satellite data with a view to selling insurance policies to governments of famine-prone countries that might be threatened by crop failure."
+    },
+    {
+      "label": "F",
+      "text": "In March, RapidEye began selling data that helps forecast harvests. ‘Too often, farmers limit productivity by managing fields uniformly,’ says Fredrick Jung-Rothenhausler, head of product development at the firm’s headquarters in Brandenburg an der Havel. ‘Our satellites are the first commercial satellites to include the Red-Edge band of the light spectrum, which is sensitive to changes in chlorophyll content. More research will be necessary to realise the full potential of the Red-Edge band. However, this band can assist in monitoring vegetation health, improving species separation and also help in measuring protein and nitrogen content in biomass.’ The company’s data, which comes from both Europe and the Americas, breaks field productivity down into patches just five metres square."
+    },
+    {
+      "label": "G",
+      "text": "The advantages that satellite technology provides in terms of precision farming do not have to be restricted to rich countries. In Africa, where many soils have become badly depleted of nutrients, better fertiliser management would greatly improve the situation. As a consequence, the charitable trust World Agroforestry Centre, in the city of Nairobi, in Kenya, has begun to build up a catalogue of the radiation patterns derived from around 100,000 samples of African soils. The information is the key to understanding the potential of these soils to be more agriculturally productive. Once passed on to the International Centre for Tropical Agriculture, based in Colombia, South America, it is intended that the information be used to build a database called the ‘Digital Soil Map’. When ready, this will provide farmers with free forecasts, developed with regularly updated satellite imagery, across farmland in a number of countries in Africa. This is information which will almost certainly assist in improving crop yields. For a hunger-ravaged continent, that is good news indeed."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has seven paragraphs, A–G. Which paragraph contains the following information? You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "an example of how farmers in one country are now using satellite data to determine fertiliser use"
+        },
+        {
+          "n": 15,
+          "prompt": "a reference to climate change and its effects"
+        },
+        {
+          "n": 16,
+          "prompt": "a reference to the effect on the soil of using too much fertiliser"
+        },
+        {
+          "n": 17,
+          "prompt": "an example of information that will be shared between different countries"
+        },
+        {
+          "n": 18,
+          "prompt": "a mention of the country which is the leader in agricultural technology"
+        },
+        {
+          "n": 19,
+          "prompt": "a description of an innovation in satellite imaging which requires further study"
+        },
+        {
+          "n": 20,
+          "prompt": "evidence of the cost effectiveness of using satellite technology in agriculture"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "paragraphUnit": "paragraphs",
+      "reuse": true
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose TWO letters, A–E.",
+      "sourcePages": [
+        3
+      ],
+      "numbers": [
+        21,
+        22
+      ],
+      "selectionCount": 2,
+      "prompt": "Which TWO companies obtain information directly from satellites?",
+      "options": [
+        {
+          "value": "A",
+          "text": "Sevépi"
+        },
+        {
+          "value": "B",
+          "text": "Infoterra"
+        },
+        {
+          "value": "C",
+          "text": "Agriculture and AgriFood Canada"
+        },
+        {
+          "value": "D",
+          "text": "RapidEye"
+        },
+        {
+          "value": "E",
+          "text": "World Agroforestry Centre"
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "sentences",
+      "sourceInstructions": "Complete the sentences. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "content": [
+        "Initially, orbiting satellites are used to measure {{23}} coming from farmland.",
+        "{{24}} believes that confusion about irregular weather will cause more farmers to use satellite technology.",
+        "As a result of satellite technology, it may become possible to insure against the risk of {{25}}.",
+        "In Africa, much of the soil suffers from the loss of {{26}}."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.29-source-reviewed-scans",
+    "jobId": "p2-growing-more-for-less",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 7
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020c",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "subtitle": "Satellite technology is helping farmers boost crop yields",
+  "footnotes": [
+    "* chlorophyll: the green substance in plants that allows them to absorb sunlight"
+  ],
+  "cover": {
+    "asset": "assets/p2-growing-more-for-less-cover.jpg",
+    "alt": "John Deere 6920 with GPS receiver.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:John_Deere_6920_with_GPS_receiver.jpg",
+    "credit": "werktuigendagen",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  }
+}
