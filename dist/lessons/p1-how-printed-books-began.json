@@ -1,0 +1,225 @@
+{
+  "id": "p1-how-printed-books-began",
+  "part": 1,
+  "title": "How printed books began",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "In Europe before the beginning of the 15th century, there was no way of producing books except to copy them by hand. This made them extremely expensive; few people had ever seen a book, and fewer still could read. However, in the great flowering of European culture in the 15th and 16th centuries, the period known as the Renaissance, this changed, as the invention of movable 'type' made it possible to produce a large number of copies of any given book much more quickly. These books cost relatively little to buy and so could be circulated more widely."
+    },
+    {
+      "text": "The first European typographer was the German goldsmith Johannes Gutenberg (c. 1400–1468) of Mainz in Germany. Around the middle of the 1400s, he had the idea of making 'printing types'—small square pieces of metal, each of which had the reverse image of a letter of the alphabet carved on its surface. Soon, however, instead of being individually carved, the 'types' were cast from molten metal, so that they did not take so long to produce. A complete set of types, representing the alphabet, was called a fount, and included a number of pieces of type for each letter. Naturally, the printer needed more types for letters like E, which are used frequently, than he did for infrequent letters like X."
+    },
+    {
+      "text": "The types were placed in trays in special chests or cases stacked vertically, with the capital letters in the case on top (which is why we still call them uppercase letters), and the small letters in the lower cases. The types were taken out of their cases one by one and used to compose words and sentences, held tightly in place inside a square frame. This frame, which contained a number of pages, was then loaded into a printing press and coated with ink. A sheet of paper was pressed firmly against the metal surface of the rows of type, and the image made by the ink, which reversed the images of the letters to make them readable, was a printed sheet. The initial copy off the press, called a proof, was read for mistakes, and those that were found were corrected by shifting the types. After that, the printers could turn out as many copies of that sheet and the subsequent sheets as they needed for the book; and since each of the sheets was identical to the others, when they were folded to produce the right sequence of pages, each page of each of the books that resulted was also identical to the same page in all the others. After the printing of each sheet was finished, the metal types were taken out of their frame and put back in their cases ready to be used again."
+    },
+    {
+      "text": "The earliest printed books are called incunabula, because printing was in its infancy in those days, and incunabula is the Latin word for the cradles in which newborn babies slept. These books are very rare and valuable today."
+    },
+    {
+      "text": "Sometime early in the 1460s, Gutenberg’s invention crossed the Alps into Italy, carried by a train of mules and accompanied by two enterprising German typographers from Mainz, named Sweynheym and Pannartz. They did not immediately make for Rome, but halted instead at a monastery at Subiaco. There they found all the right conditions for the new art: plenty of space, a rich library of manuscripts waiting to be transformed into printed books, and learned monks skilled in the traditional arts of manuscript book production such as illuminating* and binding. The two printers labored intensively at Subiaco, but later moved on, turning up a few years later in Rome, at the house of the Massimo family, who were merchants and bankers."
+    },
+    {
+      "text": "The Massimo home was near the book industry district in Rome, where the workshops of manuscript copiers and book dealers were located. These workers greeted the new art of typography with enthusiasm, and printed books spread rapidly as merchants and bankers saw the potential for profit that they held. In the space of ten years, around 160,000 books were printed in Rome. At first, typographers sought to reproduce the work of professional copyists as faithfully as possible, since their books were to be read by a public that had never known anything but manuscripts. Customers who had had access to books before wanted something that they were familiar with, and refused at first to do without the rich colours and elaborate capital letters of the illuminated manuscript. After printing, therefore, the production of the text was completed by the illuminators, who painted individual coloured pictures and letters in the spaces that the printers had left empty for that purpose."
+    },
+    {
+      "text": "Around 1500, however, in Venice, Manuzio, a local book dealer, began to use metal type to produce simpler pages with elegant sloping type based on the handwriting of the Italian writer Petrarch. Manuzio also abandoned the imitation of costly, large-format manuscripts, producing instead accessible, small-format books which were less expensive; books for the majority of people, even those of moderate means. Written text which had previously been the privileged possession of a few thus became available to a much wider section of society."
+    },
+    {
+      "text": "The introduction of printing with movable type marked a shift similar to the one brought about in our lifetime by the introduction of the computer. It not only changed the book, but also enabled great social change."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 4 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-4 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "There were many printing errors in early books."
+        },
+        {
+          "n": 2,
+          "prompt": "Business people in Rome realised there was money to be made from printed books."
+        },
+        {
+          "n": 3,
+          "prompt": "The first printed books were illuminated by hand."
+        },
+        {
+          "n": 4,
+          "prompt": "Only the wealthiest people could afford the books produced by Manuzio."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "type": "flow-chart",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 5 – 10 Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 5-10 on your answer sheet.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "title": "The production of a printed book",
+      "questions": [
+        {
+          "n": 5
+        },
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        }
+      ],
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "Metal types of the letters of the alphabet were made and stored in cases.",
+          "Types were removed from cases, organised into sentences and fitted into a {{5}}.",
+          "This was placed in a {{6}} and ink was spread over it.",
+          "A {{7}} was placed over the faces of the types and pressure was applied.",
+          "The first impression, known as a {{8}}, was checked for errors.",
+          "Necessary corrections were made by moving the {{9}}.",
+          "To put them in the correct order, the pages were {{10}}."
+        ],
+        "arrow": "assets/printed-books-original-arrow.svg"
+      }
+    },
+    {
+      "type": "notes",
+      "sourcePages": [],
+      "questions": [
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "sourceInstructions": "Questions 11 – 13 Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 11-13 on your answer sheet.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "title": "Introduction of printed books to Italy",
+      "content": [
+        "German printers (Sweynheym and Pannartz)",
+        "took Gutenberg’s ideas to Subiaco in Italy",
+        "established themselves in a local {{11}}",
+        "made use of book production skills including {{12}} and binding",
+        "moved to Rome to the Massimo family",
+        "lived close to the {{13}} district"
+      ],
+      "noteLayout": {
+        "title": "Introduction of printed books to Italy",
+        "titleAlign": "left",
+        "sourceVerified": true,
+        "layoutVersion": 2,
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "German printers (Sweynheym and Pannartz)",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.8
+          },
+          {
+            "runs": [
+              {
+                "text": "took Gutenberg’s ideas to Subiaco in Italy"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "established themselves in a local {{11}}"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "made use of book production skills including {{12}} and binding"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "moved to Rome to the Massimo family"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "lived close to the {{13}} district"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          }
+        ]
+      }
+    }
+  ],
+  "displayParagraphLabels": false,
+  "conversion": {
+    "jobId": "p1-how-printed-books-began",
+    "sourceParagraphCount": 8,
+    "requiresReview": false
+  },
+  "subtitle": "The revolutionary invention of movable type",
+  "footnotes": [
+    "* illuminating: the illustration and decoration of manuscripts"
+  ],
+  "cover": {
+    "asset": "assets/cover-unique/p1-how-printed-books-began.svg",
+    "alt": "How printed books began — Antique Printing Press at Bled Castle, Lake Bled, Slovenia 8-30-2022 (48) (52681431349)",
+    "credit": "Larry Koester",
+    "source": "https://commons.wikimedia.org/wiki/File:Antique_Printing_Press_at_Bled_Castle,_Lake_Bled,_Slovenia_8-30-2022_(48)_(52681431349).jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  }
+}
