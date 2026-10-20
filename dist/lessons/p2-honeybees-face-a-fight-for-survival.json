@@ -1,0 +1,201 @@
+{
+  "id": "p2-honeybees-face-a-fight-for-survival",
+  "title": "Honeybees face a fight for survival",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Perhaps one of the greatest environmental threats currently facing humans is the loss of the global honeybee population. In 2006, American beekeepers started to notice their honeybee populations were dying off at increasingly rapid rates. In the space of five years 30% of the national bee population disappeared, and nearly a third of all bee colonies in the United States were lost. Researchers have been scrambling to come up with an explanation and an effective strategy to save the bees. Recent harsh winters that stay freezing cold well into spring have been instrumental in decimating the honeybee population in places like Iowa by up to 70%, as well as in the other historically high-yielding honey states. States such as Florida, the third largest honey producer, and California, which was always among the top producers, have been hit especially hard by decreasing bee colony populations. California was the top producer along with North Dakota, but its bee numbers incurred such heavy losses that California's honey production fell by nearly half in just six years."
+    },
+    {
+      "label": "B",
+      "text": "Honeybee Colony Collapse Disorder, as this phenomenon has been called, is recognized as such an urgent crisis that government subsidies of $3 million were recently given to help the one animal on the planet that will either make or break food prices. The subsidy was designed to encourage dairy farmers to plant their fields with ecologically friendly crops to develop healthier habitats for bee populations. Honeybees pollinate an estimated $40 billion worth of annual produce in the United States. This means that up to a third of all food eaten in the country is dependent on pollination by bees. Additionally, it is believed that more than 130 fruits and vegetables that make up a nutritious diet are cross-pollinated by honeybees. Commercial bees, which are raised on farms and then shipped to other parts of the country for pollination purposes, along with wild bees, are responsible for the pollination of an estimated 80% of all food crops in the United States."
+    },
+    {
+      "label": "C",
+      "text": "With so much at stake, efforts to investigate and uncover reasons for this sudden national, but also global, crisis have been rapid. A new government study blames a combination of factors for the mysterious and dramatic loss of honeybees, including increased use of pesticides, shrinking habitats and even mobile phone transmitters. However, the biggest cause is an organism called the Varroa mite, found to be highly resistant to insecticides. In the late 1980s, many large chemical manufacturers started selling genetically modified insecticides and herbicides as the quick and easy remedy to deal with the mite, but this only weakened the bees' natural ability to resist disease. Moreover, new mite species have been found and several of these have been associated with Colony Collapse Disorder."
+    },
+    {
+      "label": "D",
+      "text": "Another probable factor is the widespread tendency to feed bee colonies with high fructose corn syrup instead of its natural self-made food, honey. To ensure that money is saved, many bee farms do not leave any honey for the bees to consume during the winter. Honey's natural nutritional advantages have always provided bees with the increased defenses that are known to be highly effective in fighting off viruses. In contrast, the artificially processed syrup now often given to bee colonies is believed to seriously weaken the bees' immune system."
+    },
+    {
+      "label": "E",
+      "text": "Recently there have been far fewer bees and consequently less pollination occurring in places like the almond orchards in southern California. Climate change, which has caused severe droughts, has been a factor in driving bee numbers down, as less rainfall means fewer plants available to feed on. There are also far fewer species of plants to supply pollen because many farmers now specialize in growing a single type of crop. If there is a lack of plant diversity in their habitat, bee populations will not flourish. Moreover, many farmers realize they can make more profit from planting crops such as corn and soybean, instead of the rich alfalfa and clover fields which they formerly cultivated and which were so appealing to bees. There are also far fewer flowers growing on wild farmland than there used to be, a change which does not favor bees."
+    },
+    {
+      "label": "F",
+      "text": "This decline could be reversed if farmers are encouraged to avoid the use of pesticides. Increased collaboration and information-sharing between crop growers and beekeepers will also facilitate the implementation of mutually beneficial practices. In addition, more research centers, designed to learn effective and innovative methods to facilitate restoration of bee populations throughout the world, are desperately needed. Another viable solution toward increasing the bee population is the launch of programs that train city dwellers to become amateur beekeepers. Many American cities are now offering assistance to a growing number of hobbyists of all ages interested in beekeeping. Furthermore, informing city authorities about the importance of plant diversity in public parks will benefit bee populations. With increasing awareness of the profound importance of nurturing a larger bee population globally, the potential benefits for both humanity and the planet will prove immeasurable."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has six paragraphs, A–F. Which paragraph contains the following information? You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "paragraphCount": 6,
+      "paragraphUnit": "paragraphs",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "reuse": true,
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "a description of a failed attempt to solve a problem"
+        },
+        {
+          "n": 15,
+          "prompt": "reference to initiatives which involve urban residents"
+        },
+        {
+          "n": 16,
+          "prompt": "a description of the serious consequence of a change in bees’ diet"
+        },
+        {
+          "n": 17,
+          "prompt": "mention of financial incentives to persuade farmers to make changes"
+        },
+        {
+          "n": 18,
+          "prompt": "clear statistical evidence of a very serious decline"
+        },
+        {
+          "n": 19,
+          "prompt": "an explanation of the importance of bees to agriculture"
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Questions 20 – 22 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 20-22 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "title": "Bees in California",
+      "wordLimit": "ONE WORD ONLY",
+      "questions": [
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        }
+      ],
+      "content": [
+        "Recently the falling bee population has meant less pollination taking place in southern California. Weather conditions have made the situation worse, with extremely low levels of {{20}} having a particularly negative effect on bees. On a large number of farms only one agricultural crop is cultivated. This creates a problem because bee populations are healthiest when they have a habitat in which a wide range of plants are growing. The possibility of increased {{21}} has led some farmers to cultivate plants that aren’t as attractive to bees. In addition, there has been a considerable reduction in the number of {{22}} on farmland, which is not beneficial to bees."
+      ]
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose TWO letters, A–E.",
+      "sourcePages": [
+        4
+      ],
+      "numbers": [
+        23,
+        24
+      ],
+      "selectionCount": 2,
+      "prompt": "Which TWO causes of the decline in bee populations are mentioned in the text?",
+      "options": [
+        {
+          "value": "A",
+          "text": "unusually low temperatures over a long period"
+        },
+        {
+          "value": "B",
+          "text": "moving bees to unfamiliar areas of the country"
+        },
+        {
+          "value": "C",
+          "text": "the creation of new insecticides"
+        },
+        {
+          "value": "D",
+          "text": "the low quality of the honey produced by bee colonies"
+        },
+        {
+          "value": "E",
+          "text": "a fall in the number of city beekeepers"
+        }
+      ]
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose TWO letters, A–E.",
+      "sourcePages": [
+        4
+      ],
+      "numbers": [
+        25,
+        26
+      ],
+      "selectionCount": 2,
+      "prompt": "Which TWO statements does the writer make about possible solutions to the decline in the bee population?",
+      "options": [
+        {
+          "value": "A",
+          "text": "Action needs to be taken to deal with climate change."
+        },
+        {
+          "value": "B",
+          "text": "Farmers need to be persuaded to grow a greater variety of crops."
+        },
+        {
+          "value": "C",
+          "text": "Financial incentives which discourage pesticide use should be offered."
+        },
+        {
+          "value": "D",
+          "text": "There need to be more institutions where scientists can investigate the problem."
+        },
+        {
+          "value": "E",
+          "text": "Local governments should be told about the need to have a range of plants in city parks."
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.36-source-reviewed-scans",
+    "jobId": "p2-honeybees-face-a-fight-for-survival",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 6
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020j",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p2-honeybees-face-a-fight-for-survival-cover.jpg",
+    "alt": "CSIRO ScienceImage 6997 Dr Denis Anderson of CSIRO Entomology examining bees in a hive at a cherry farm near Young New South Wales.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_6997_Dr_Denis_Anderson_of_CSIRO_Entomology_examining_bees_in_a_hive_at_a_cherry_farm_near_Young_New_South_Wales.jpg",
+    "credit": "Nick Pitsas, CSIRO",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  }
+}
