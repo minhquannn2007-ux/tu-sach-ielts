@@ -1,0 +1,192 @@
+{
+  "id": "p3-filming-the-natural-world-with-time-warp-photography",
+  "title": "Filming the Natural World with Time-warp Photography",
+  "part": 3,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The ‘time-warp’ camera has vastly increased the range of natural events that we are able to observe. In the world of nature, many events happen either too rapidly or too slowly for the human eye to witness them. The overall title of ‘time-warp photography’ covers two very different techniques for distorting time, and thus dealing with this problem. They are known as time-lapse and high-speed photography."
+    },
+    {
+      "label": "B",
+      "text": "With time-lapse photography, we shrink the time interval between successive images until they merge into each other. We can now watch, on film, as mushrooms burst up through the lawn like expanding white bubbles. Time-lapse photography uses a camera that exposes single frames of a length of film at predetermined intervals, thereby providing a series of still portraits of the subject. This length of film is then projected at the normal speed of 24 frames per second, so that the still portraits merge into each other to show continuous action. If, in the case of the mushrooms, one frame is exposed every five minutes, their growth over a period of a week will be seen in roughly one and a quarter minutes of film, and we are suddenly confronted with activities and details that are normally unrecognisable. The result is that we appear to shrink time."
+    },
+    {
+      "label": "C",
+      "text": "At the other end of the spectrum, when activities happen too rapidly for the eye to analyse, we need a way to expand time. For instance, the split-second in-flight corrections made by a hummingbird as it sucks nectar from a flower swaying in the breeze involve subtle and precise corrections to the angle of the wingbeats and the position of the tail. In reality, all we see is a flash of iridescence as the bird darts into view, hovers momentarily in front of the flower, and darts away again, the whole experience lasting but a second or two. By using a high-speed camera we can expand that experience to last a whole minute, if we choose, and only then do we appreciate the complexity of the hummingbird's actions. The high-speed camera exposes a greater length of film than a normal camera would in the two seconds it takes for the bird to visit the flower. When projected at normal speeds, the greater length of film provides us with our minute-long record of the bird’s behaviour. We have expanded two seconds into a minute, and the action is slowed down proportionately."
+    },
+    {
+      "label": "D",
+      "text": "In a normal 16mm motion-picture camera, the film progresses past the lens at a rate of 24 frames per second, not smoothly but in intermittent steps. It is amazing that the mechanisms inside the camera that produce this jerky motion past the lens can do so with such precision and reliability. Imagine the attendant stresses and strains when a filming speed of 500 frames per second is used. Above that rate the film is simply wound rapidly and continuously past the lens at the selected speed. At 11,000 frames per second, the film is moving past the lens at 305 kilometres per hour, with the film spool turning at 33,000 revolutions per minute. It is hardly surprising, then, that high-speed cameras can malfunction, when it is not unusual to find thirty thicknesses of film jammed into a space designed for one."
+    },
+    {
+      "label": "E",
+      "text": "With a high-speed camera, and the choice of filming at any rate between 24 and 11,000 frames per second, the camera operator must decide on the appropriate speed for each occasion. The choice is crucial, for even the most riveting spectacle, such as a frog erupting through the surface of a pond like an amphibian rocket, trailing a cascade of water droplets as it leaps for the bank, becomes utterly boring if slowed down too much."
+    },
+    {
+      "label": "F",
+      "text": "To get slow-motion shots of cheetahs and other large animals running and leaping, we can make do with speeds of up to 200 frames per second. In the same category are such contrasting examples as salmon leaping and the larger birds like owls and herons flying. Smaller birds, bats and most insects require speeds of up to 500 frames per second, and only if we wish to slow down the wingbeats of small insects like hoverflies is it necessary to film at 1,000 frames per second or more."
+    },
+    {
+      "label": "G",
+      "text": "While it is possible to pan — i.e. move the camera sideways so as to follow a moving object — with the larger and slower animals, the smaller subjects have to be filmed with a static camera, partly because they move so fast, and partly because their flight is so erratic. Butterflies are particularly trying in this respect; they are tantalisingly beautiful and maddeningly unpredictable. The best way to film erratic movers is to train the camera on an area through which the subject is likely to fly. The only way to film wild bats, for instance, is to lie in wait for them at the entrance to their roost, where they sleep during the daytime. At dusk the bats fly out to feed, returning again at dawn."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Choose the correct point, A–F, for each photographic subject.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "mushrooms"
+        },
+        {
+          "n": 28,
+          "prompt": "hummingbirds"
+        },
+        {
+          "n": 29,
+          "prompt": "frogs"
+        },
+        {
+          "n": 30,
+          "prompt": "bats"
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "the inspiration for the invention of the high-speed camera"
+        },
+        {
+          "value": "B",
+          "text": "the necessity of filming in a place through which the creature must pass"
+        },
+        {
+          "value": "C",
+          "text": "the importance of the filming speed in making the viewing interesting"
+        },
+        {
+          "value": "D",
+          "text": "the need to film at the maximum speed that cameras are capable of"
+        },
+        {
+          "value": "E",
+          "text": "movement which is too fast to be seen without filming"
+        },
+        {
+          "value": "F",
+          "text": "activity which is too slow to be perceived without filming"
+        }
+      ],
+      "targetName": "point",
+      "listTitle": "List of Points",
+      "reuse": false
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Complete the summary . Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+      "sourcePages": [
+        3
+      ],
+      "title": "Time-lapse and high-speed photography",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "questions": [
+        {
+          "n": 31
+        },
+        {
+          "n": 32
+        },
+        {
+          "n": 33
+        },
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        }
+      ],
+      "content": [
+        "In time-lapse photography, the photographer reduces the time interval {{31}} from one exposure to the next. The exposed film consists of a series of still portrait shots, which the viewer sees as {{32}}. The effect of this technique is to {{33}} time.",
+        "A high-speed camera makes it possible to expand time by exposing a {{34}} of film in a given time than a normal camera can expose. This is then {{35}} more slowly than it was filmed, and thus the activity which has been filmed is {{36}}."
+      ]
+    },
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has seven paragraphs, A–G. Which paragraph contains the following information?",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 37,
+          "prompt": "two contrasting reasons why certain events cannot be seen by the human eye"
+        },
+        {
+          "n": 38,
+          "prompt": "a cause of technical problems with high-speed cameras"
+        },
+        {
+          "n": 39,
+          "prompt": "examples of when the camera should not be moved"
+        },
+        {
+          "n": 40,
+          "prompt": "a reason why an action filmed at too high a speed may lack excitement"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G"
+      ],
+      "paragraphCount": 7,
+      "paragraphUnit": "paragraphs",
+      "reuse": false
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.38-upload-reviewed",
+    "jobId": "p3-filming-the-natural-world-with-time-warp-photography",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 7
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "upload-20261020-12",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p3-filming-the-natural-world-with-time-warp-photography-cover.jpg",
+    "alt": "Red throated hummingbird flying.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Red_throated_hummingbird_flying.jpg",
+    "credit": "Jack Nevitt",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "p2-society-and-culture-in-west-africa",
+  "title": "Society and culture in West Africa",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Although there is a great deal of diversity among the cultures of West Africa, there are some common themes as well — features of everyday life, beliefs and values, and social institutions which distinguish African cultures from that of, say, Europe or Asia. The focus here is on rural (and thus more traditional) ways, but much would apply also to modern city dwellers."
+    },
+    {
+      "label": "B",
+      "text": "The most pervasive and distinctive aspect of West African culture as a whole is the strong emphasis on the family. The basic social unit is that of the household, usually a man, his wife or wives, and their unmarried children. However, this could also include other relatives of the husband or wives, married children, adopted children, or servants. The household is not only a social unit, but an economic unit. The members typically engage in farming to support the needs of the group. Typical dwellings are called compounds, and consist of several freestanding single rooms arranged around an open courtyard. Since the weather is warm year round in most places, inside space is reserved for sleeping, storage, and shelter from rainstorms. Each compound typically contains space for animals, crops and tools, and has at least one religious shrine devoted to family ancestors, or to special spirits of that place."
+    },
+    {
+      "label": "C",
+      "text": "Although the household is the working unit of all rural communities, members of any given household are linked to others in the community by ties of birth or marriage. Each person is born into a particular lineage or clan (group of lineages). Basic social, political and economic rights are usually tied to membership of this. For example, it is almost universally forbidden to marry a person of one’s own lineage. This, of course, means that each household contains members of at least two lineages. Children are identified by the lineage of either their mother or father, depending on whether the local system is matrilineal (with membership calculated through the female line) or patrilineal (with membership calculated through the male line)."
+    },
+    {
+      "label": "D",
+      "text": "Among certain peoples, for example the Wolof, Mande, Asante and Yoruba, noble lineages exist, and members of these are eligible for positions of leadership. Other lineages have historically developed specialities in various other areas. For example, in the 18th century the Torodbe clan of the Fulani people developed a specialization as Muslim clerics. Some other specializations which are passed down in families include blacksmithing, pottery-making, weaving, playing music, leather working, commerce, art and, in ancient times, fighting and hunting."
+    },
+    {
+      "label": "E",
+      "text": "For West African peoples all aspects of the universe, both visible and invisible, are regarded as part of one reality. Not only living, but also the dead and the, as yet, unborn are considered to be members of the clan. Ancestors are very important people, who are venerated by their descendants. They have strong powers, and thus should be consulted and praised. There is generally great respect for the wise older person too. Invisible forces, associated with both good and evil, are also widely respected or feared. In particular, witchcraft is suspected when there is, for example, an unexplained illness or disaster in a community."
+    },
+    {
+      "label": "F",
+      "text": "Another of the characteristic aspects of most African cultures, including those in West Africa, is their strong development of oral communication, and the memory skills that underpin this system. Although visual communication through symbolic representations and arts is universal, a preference for the spoken word is very strong. Songs, epic poems, prayers, proverbs, speech-making, and argument have been highly developed. Although some West African peoples, notably the Tuareg and the Vai, developed alphabetic systems of communication, these did not spread widely. However, for more than a thousand years Arabic script has had a strong influence, particularly among the city dwellers of the Sudan. For example in the 16th century, Timbuktu, in modern-day Mali, achieved renown throughout northern Africa as a center of Muslim learning."
+    },
+    {
+      "label": "G",
+      "text": "There are many aspects of daily life which are common to many parts of West Africa. For example, peoples of the forest and woodlands, who grow similar crops, share similar food preparation methods. Meals are prepared over open fires. Stews, liberally spiced with pepper, are served with favorite starches — rice, manioc, yam, cocoyam, or corn. On the other hand, the favorite among people of the savannas, where there is less rainfall, is millet with spicy goat or beef accompaniments. Design in areas as diverse as architecture and clothing also follows ecological zones to some extent. For example in Ghana, compounds of round houses are more prevalent in the north, rectangular ones in the south. Crafts are also linked to environment: leather workers are found among cattle keepers, and wood workers are prevalent in the forests."
+    },
+    {
+      "label": "H",
+      "text": "Traditionally, education primarily took place at home. Skills in farming, history, good manners, moral precepts and religious traditions were principally taught by example, within the context of the productive household. However, for the few young people who sought to acquire a profession other than farming, an apprenticeship to a master craftsperson might be required, even one who lived some distance away. Advanced studies, especially in religious or artistic professions, would certainly require years of study with a master. Schooling, with classes of young people taught by older teachers, was usually only required at puberty as a part of the process of initiation into adulthood."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has eight paragraphs, A–H. Which paragraph contains the following information? You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "an outline of the spiritual beliefs common to West African cultures"
+        },
+        {
+          "n": 15,
+          "prompt": "examples of the link between heredity and choice of occupation"
+        },
+        {
+          "n": 16,
+          "prompt": "a list of subjects which West African children conventionally learned"
+        },
+        {
+          "n": 17,
+          "prompt": "reference to a widespread restriction placed upon social relationships"
+        },
+        {
+          "n": 18,
+          "prompt": "examples of the connection between custom and geographical features"
+        },
+        {
+          "n": 19,
+          "prompt": "a definition of terms describing links between generations"
+        },
+        {
+          "n": 20,
+          "prompt": "reference to a form of writing which has been important in certain areas"
+        },
+        {
+          "n": 21,
+          "prompt": "a description of the uses of domestic buildings"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "paragraphUnit": "paragraphs",
+      "reuse": true
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose TWO letters, A–E.",
+      "sourcePages": [
+        3
+      ],
+      "numbers": [
+        22,
+        23
+      ],
+      "selectionCount": 2,
+      "prompt": "Which TWO of the following does the writer claim to have been typical of traditional West African education?",
+      "options": [
+        {
+          "value": "A",
+          "text": "Work took precedence over education."
+        },
+        {
+          "value": "B",
+          "text": "The content of education was the same for all children."
+        },
+        {
+          "value": "C",
+          "text": "Formal education was associated with the onset of maturity."
+        },
+        {
+          "value": "D",
+          "text": "All education was delivered within the local community."
+        },
+        {
+          "value": "E",
+          "text": "Education was mainly provided by family members."
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "sentences",
+      "sourceInstructions": "Complete the sentences. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "content": [
+        "The main occupation of traditional households is {{24}}.",
+        "People who belong to {{25}} are qualified to become leaders.",
+        "{{26}} is the preferred form of starch in the drier areas of West Africa."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.38-upload-reviewed",
+    "jobId": "p2-society-and-culture-in-west-africa",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 8
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "upload-20261020-12",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p2-society-and-culture-in-west-africa-cover.jpg",
+    "alt": "A village in Ghana.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_village_in_Ghana.jpg",
+    "credit": "Kofiarkohbaidoo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

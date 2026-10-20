@@ -1,0 +1,219 @@
+{
+  "id": "p3-british-woodlands",
+  "title": "British woodlands",
+  "part": 3,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "In 1992, a study by the World Wildlife Fund for Nature found that the health of forests in Britain is among the poorest in the European Union. Many trees in recorded surveys were found to be suffering from severe damage due to the density of their topmost branches, which in turn is linked to air pollution from acid rain. As we rely on trees to filter and clean the air we breathe, the signs that they themselves are suffering have far reaching consequences for human and other species. So where did it all go wrong?"
+    },
+    {
+      "label": "B",
+      "text": "After the last Ice Age, around 16,000 years ago, natural woodland in Britain developed and slowly evolved in a similar way to that in which a naturally regenerating woodland does today. An analysis of pollen dating from that period gives us some idea of what this country looked like before humans started to cut and cultivate land. After the early pioneer tree species like birch and sallow, dominant or ‘climax’ species began to colonize localities. Lime was the main climax species in the south-east of England, with oak and hazel covering much of the rest of England and Wales, and Scots pine and birch in the Scottish Highlands. From this point onward the woodland began to be cleared, and it is estimated that by 5,000 BC (about 7,000 years ago), only half of English wildwood remained."
+    },
+    {
+      "label": "C",
+      "text": "Gradually, as humans began to clear areas of wildwood, they became aware of important techniques like coppicing, whereby the trunks of mature trees are cut almost to ground level, and the offshoots which are then produced are continually harvested for wood products. From this the conscious management of woodlands evolved. Grazing animals and fire were no doubt major tools in clearing the woodland, creating pastures and eventually meadows."
+    },
+    {
+      "label": "D",
+      "text": "As the centuries passed, the coppice woodland system became more complex and sophisticated in terms of the choice of species and soil types, and the utilization of coppiced trees to shape others. The significance of wood for human purposes increased accordingly. For example, by planting and shaping hazel trees beneath uncut oak trees, the shape of the oak could be altered to form curves for buildings, or occasionally ships. And much of the coppiced wood was converted to charcoal, which formed the basis of industrial fuel."
+    },
+    {
+      "label": "E",
+      "text": "Later, however, when coal became the preferred house fuel, and when bricks replaced wood as the common building material, there was less need for woodland that was regularly coppiced. But it was not until the mid-20th century that the quality of British woodlands witnessed a dramatic decline. The arrival of modern machinery and the increasing availability of the combustion engine had similar effects on woodland to that which fully mechanized harvesters had on agriculture. Appropriate technology, which improves the efficiency of an operation without causing environmental damage, should be welcomed, but most post-war forestry equipment caused environmental degradation."
+    },
+    {
+      "label": "F",
+      "text": "Extraction machines, unlike horses, compacted and tore up the ecosystems of woodland tracks, which provided the habitat for so many wild flowers and butterflies. Modern machinery has also yielded a workforce of modern foresters who operate in gangs, moving in and out of woodlands they do not know, cutting where they see a mark on a tree, without taking time to observe the woodland and its flora and fauna. This is very different from the relationship of the traditional woodland worker to the wood. In addition, templates for planting have evolved into regimented rows, usually of alien coniferous trees grown purely for financial gain, with straight forestry roads to allow in larger and larger machinery. Many of these plantations were established on ancient woodland, and have slowly eroded the flora and fauna so unique to these sites."
+    },
+    {
+      "label": "G",
+      "text": "Towards the end of the 20th century, however, we started to see a turnaround in our relationship to woodland. An increasing urban population, the need for recreation in woodland, and public pressure to preserve rare habitats have brought in some changes of policy. A government agency, the Forest Commission, now offers a range of grants for improving biodiversity and public access to woodlands. Thanks to these financial incentives, coppicing, and other traditional management techniques, have now started to return, and in England native broadleaf trees are becoming the favored planting species instead of conifers."
+    },
+    {
+      "label": "H",
+      "text": "The only downside of these positive developments is that in most cases they are driven by profit. If the monetary incentives were removed, we might quickly fall back into postwar patterns of forestry. But conservation and woodland management should be symbiotic, and there should be no need for incentives to encourage us to look after our trees and other species. In future we must try to find ways to manage woodland sustainably without financial support, so that all species benefit from it."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has eight paragraphs, A–H. Which paragraph contains the following information? You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "prompt": "a description of careless working practices that harm the woodland"
+        },
+        {
+          "n": 28,
+          "prompt": "details of Britain’s landscape prior to human intervention"
+        },
+        {
+          "n": 29,
+          "prompt": "an argument against offering cash rewards"
+        },
+        {
+          "n": 30,
+          "prompt": "a botanical source of evidence for the appearance of primitive woodland"
+        },
+        {
+          "n": 31,
+          "prompt": "reasons for the reduced economic importance of wood"
+        },
+        {
+          "n": 32,
+          "prompt": "reasons for recent developments in woodland management"
+        },
+        {
+          "n": 33,
+          "prompt": "the implications for humans of unhealthy trees"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "paragraphUnit": "paragraphs",
+      "reuse": true
+    },
+    {
+      "type": "summary-drag",
+      "sourceInstructions": "Complete the summary using the list of words.",
+      "sourcePages": [
+        4
+      ],
+      "title": "The evolution of British woodland",
+      "questions": [
+        {
+          "n": 34
+        },
+        {
+          "n": 35
+        },
+        {
+          "n": 36
+        },
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ],
+      "content": [
+        "As woodland developed after the last Ice Age, certain {{34}} naturally dominated particular regions. Humans eventually intervened to control woodland, using grazing animals or methods such as {{35}} and coppicing. Woodlands were skillfully managed to meet the demands of {{36}}.",
+        "However, as the importance of wood for fuel and construction decreased, managed woodlands began to deteriorate. More serious damage was subsequently caused by the introduction of {{37}} and the development of very rigid {{38}} patterns designed to ensure greater profit. The result is that many traditional {{39}} for wildlife have been destroyed.",
+        "More recently, mainly due to public campaigning, the state of British woodlands has begun to improve. {{40}} are available to fund improvements in the quality of woodland, and this has reversed some of the damage."
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "burning"
+        },
+        {
+          "value": "B",
+          "text": "arguments"
+        },
+        {
+          "value": "C",
+          "text": "chemicals"
+        },
+        {
+          "value": "D",
+          "text": "climate"
+        },
+        {
+          "value": "E",
+          "text": "fines"
+        },
+        {
+          "value": "F",
+          "text": "grants"
+        },
+        {
+          "value": "G",
+          "text": "habitats"
+        },
+        {
+          "value": "H",
+          "text": "industry"
+        },
+        {
+          "value": "I",
+          "text": "machines"
+        },
+        {
+          "value": "J",
+          "text": "planting"
+        },
+        {
+          "value": "K",
+          "text": "regulations"
+        },
+        {
+          "value": "L",
+          "text": "species"
+        },
+        {
+          "value": "M",
+          "text": "standards"
+        },
+        {
+          "value": "N",
+          "text": "objections"
+        },
+        {
+          "value": "O",
+          "text": "workers"
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.38-upload-reviewed",
+    "jobId": "p3-british-woodlands",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 8
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "upload-20261020-12",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p3-british-woodlands-cover.jpg",
+    "alt": "Woodland track in Park Coppice near Blakenhall, Wolverhampton - geograph.org.uk - 6426280.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Woodland_track_in_Park_Coppice_near_Blakenhall,_Wolverhampton_-_geograph.org.uk_-_6426280.jpg",
+    "credit": "Roger  D Kidd",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "p1-dugongs",
+  "title": "Dugongs",
+  "part": 1,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The distribution of dugongs in North Australia and South-east Asia very closely follows that of sea-grasses. These marine-flowering plants grow rooted in the sediment on the ocean floor and are limited by the availability of light. Consequently, they are found predominantly in shallow, coastal waters, and so too are dugongs. The dugong’s body and flippers are like those of a dolphin, but it has no dorsal fin. It has the head of a walrus without the long tusks, but unlike the walrus, which feeds on molluscs, the dugong is a specialist grass feeder. Dugongs favour the sea-grass species that have higher nitrogen and lower fibre content."
+    },
+    {
+      "text": "Due to their poor eyesight, dugongs often use smell to locate edible plants. They also have a strong tactile sense, and feel their surroundings with their long sensitive bristles. They will dig up an entire plant and then shake it to remove the sand before eating it. They have been known to collect a pile of plants in one area before eating them. The flexible and muscular upper lip is used to dig out the plants. When eating they ingest the whole plant, including the roots, although when this is impossible they will feed on just the leaves. A wide variety of seagrass has been found in dugong stomach contents, and evidence exists they will eat algae when seagrass is scarce. Although almost completely herbivorous, they will occasionally eat invertebrates such as jellyfish, sea squirts, and shellfish."
+    },
+    {
+      "text": "A heavily grazed seagrass bed looks like a lawn mown by a drunk. Dugongs graze apparently at random within a seagrass bed, their trails meandering in all directions across the bottom. This is rather an inefficient means of removing seagrass that results in numerous small tufts remaining. And this is where the dugongs derive some advantage from their inefficiency. The species that recover most quickly from this disturbance, spreading out vegetatively from the remaining tufts, are those that dugongs like to eat. In addition, the new growth found in these areas tends to be exactly what hungry dugongs like."
+    },
+    {
+      "text": "Dugongs are semi-nomadic, often travelling long distances in search of food, but staying within a certain range their entire life. Large numbers often move together from one area to another. It is thought that these movements are caused by changes in seagrass availability. Their memory allows them to return to specific points after long travels. Dugong movements mostly occur within a localised area of seagrass beds, and animals in the same region show individualistic patterns of movement. Experience from various parts of northern Australia suggests that extreme weather such as cyclones and floods can destroy hundreds of square kilometres of seagrass meadows, as well as washing dugongs ashore. The recovery of seagrass meadows and the spread of seagrass into new areas, or areas where it has been destroyed, can take over a decade. For example, about 900 km2 of seagrass was lost in Hervey Bay in 1992, probably because of murky water from flooding of local rivers, and run-off turbulence from a cyclone three weeks later. Such events can cause extensive damage to seagrass communities through severe wave action, shifting sand and reduction in saltiness and light levels. Prior to the 1992 floods, the extensive seagrasses in Hervey Bay supported an estimated 1750 dugongs. Eight months after the floods the affected area was estimated to support only about 70 dugongs. Most animals presumably survived by moving to neighbouring areas. However, many died attempting to move to greener pastures, with emaciated carcasses washing up on beaches up to 900km away."
+    },
+    {
+      "text": "Despite being legally protected in many countries, the main causes of population decline remain anthropogenic and include hunting, habitat degradation, and fishing-related fatalities. Entanglement in fishing nets has caused many deaths, although there are no precise statistics. Most issues with industrial fishing occur in deeper waters where dugong populations are low, with local fishing being the main risk in shallower waters. As dugongs cannot stay underwater for a very long period, they are highly prone to deaths due to entanglement. The use of shark nets has historically caused large numbers of deaths, and they have been eliminated in most areas and replaced with baited hooks. Hunting has historically been a problem too, although in most areas they are no longer hunted, with the exception of certain indigenous communities. In areas such as northern Australia, hunting remains the greatest impact on the dugong population"
+    }
+  ],
+  "groups": [
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Complete the summary . Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "sourcePages": [
+        3
+      ],
+      "title": "",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "questions": [
+        {
+          "n": 1
+        },
+        {
+          "n": 2
+        },
+        {
+          "n": 3
+        },
+        {
+          "n": 4
+        }
+      ],
+      "content": [
+        "The dugongs of North Australia and South-east Asia like to eat sea-grasses that are rich in {{1}}. They find these plants in the shallow parts of the ocean, where there is more light. To compensate for their poor eyesight, they use their {{2}} to feel their surroundings.",
+        "It is like Dugongs are “farming” seagrass. They often leave {{3}} randomly in all directions across the sea bed. Dugongs prefer eating the newly grown seagrass recovering from the tiny {{4}} left behind by the grazing dugongs."
+      ]
+    },
+    {
+      "type": "tfng",
+      "sourceInstructions": "Choose TRUE if the statement agrees with the information, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "The dugong will keep eating up the plant completely when they begin to feed."
+        },
+        {
+          "n": 6,
+          "prompt": "The re-growth of seagrass, which has been grazed by Dugongs, requires over a decade to occur."
+        },
+        {
+          "n": 7,
+          "prompt": "Despite facing food shortages, the stronger individuals refrain from competing with the weaker and smaller ones for food."
+        },
+        {
+          "n": 8,
+          "prompt": "It is thought that the dugong rarely returns to the old habitats when they finished the plant."
+        },
+        {
+          "n": 9,
+          "prompt": "Coastal industrial fishing poses the greatest threat to dugongs, as they are prone to fatal entanglement."
+        }
+      ]
+    },
+    {
+      "type": "short-answer",
+      "sourceInstructions": "Answer the questions. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+      "wordLimit": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 10,
+          "prompt": "What is Dugong in resemblance to yet as people can easily tell them apart from the manatees by its tail?"
+        },
+        {
+          "n": 11,
+          "prompt": "What is the major reason Dugongs traveled long distances in herds from one place to another?"
+        },
+        {
+          "n": 12,
+          "prompt": "What number, has estimated to be, of dugong’s population before the 1992 floods in Hervey Bay took place?"
+        },
+        {
+          "n": 13,
+          "prompt": "What is thought to be the lethal danger when dugongs were often trapped in?"
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.38-upload-reviewed",
+    "jobId": "p1-dugongs",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 5
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "upload-20261020-12",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "subtitle": "Dugongs (or sea cows) are, like their terrestrial namesakes, grazers. But unlike cows, dugongs can cultivate their crops, which has interesting implications for their conservation",
+  "cover": {
+    "asset": "assets/p1-dugongs-cover.jpg",
+    "alt": "Dugong in Andaman Islands.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Dugong_in_Andaman_Islands.jpg",
+    "credit": "Vardhanjp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}
