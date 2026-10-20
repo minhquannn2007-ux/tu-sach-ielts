@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T12:12:33.731Z",
-  "totalLessons": 725,
-  "reviewedLessons": 40,
-  "reviewedAnswers": 528,
+  "updatedAt": "2026-10-20T12:53:45.724Z",
+  "totalLessons": 733,
+  "reviewedLessons": 51,
+  "reviewedAnswers": 677,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 681,
+  "pendingSolutions": 678,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -139,7 +139,7 @@
       "title": "A new stage in the study and teaching of history",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-a-new-voyage-round-the-world",
@@ -545,7 +545,7 @@
       "title": "Beauty",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-becoming-an-expert",
@@ -650,7 +650,7 @@
       "title": "Books and Buildings",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-boring-buildings",
@@ -664,14 +664,14 @@
       "title": "Brain Makeover",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-brains-trust-learning-about-ourselves",
       "title": "Brains trust: learning about ourselves",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-brassicas",
@@ -776,7 +776,7 @@
       "title": "Capability Brown",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-caral-an-ancient-south-american-city",
@@ -877,6 +877,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-chocolate-for-the-masses",
+      "title": "Chocolate for the masses",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-city-transport-uneven-progress",
       "title": "CITY TRANSPORT: UNEVEN PROGRESS",
       "part": 1,
@@ -951,7 +958,7 @@
       "title": "Conformity",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-conquering-the-south-pole",
@@ -1465,6 +1472,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-growing-more-for-less",
+      "title": "Growing more for less",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-health-in-the-wild",
       "title": "HEALTH IN THE WILD",
       "part": 1,
@@ -1952,7 +1966,7 @@
       "title": "Living dunes",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-living-outside-the-box",
@@ -2190,7 +2204,7 @@
       "title": "Michael Ventris and the decoding of Linear B",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-mimicry-and-parenting",
@@ -2267,7 +2281,7 @@
       "title": "Multi-tasking and the brain",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-multitasking",
@@ -2380,6 +2394,13 @@
       "part": 2,
       "questions": 13,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p3-no-title-about-sea",
+      "title": "No title – About the sea",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
     },
     {
       "id": "p3-no-title-charles-darwin",
@@ -2750,7 +2771,7 @@
       "title": "Risk taking",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-robert-louis-stevenson",
@@ -2953,6 +2974,13 @@
       "title": "Sir Francis Ronalds 1788 – 1873",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-sir-gawain-and-the-green-knight",
+      "title": "Sir Gawain and the Green Knight",
+      "part": 2,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -3180,6 +3208,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-the-2003-heat-wave",
+      "title": "The 2003 Heat Wave",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-the-ability-to-communicate-using-language",
       "title": "The ability to communicate using language",
       "part": 3,
@@ -3316,6 +3351,13 @@
       "id": "p2-the-changing-face-of-farming-in-the-canterbury-region-of-new-zealand",
       "title": "The Changing Face of Farming in the Canterbury Region of New Zealand",
       "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-the-changing-nature-of-selling",
+      "title": "The Changing Nature of Selling",
+      "part": 1,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -3533,6 +3575,13 @@
       "id": "p1-the-early-days-of-oil-production",
       "title": "The early days of oil production",
       "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-economic-effect-of-climate",
+      "title": "The economic effect of climate",
+      "part": 2,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -4780,6 +4829,13 @@
       "title": "WHALE CULTURE",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-what-are-black-holes",
+      "title": "What are Black Holes?",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {

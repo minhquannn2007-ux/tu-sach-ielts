@@ -68,6 +68,47 @@
       "reason": "The note asks for the year in “summer and autumn of {{7}}”, supported by 2011, but the task says ONE WORD ONLY. The numerical answer and the stated word-only instruction need source verification.",
       "needed": "Verify the original instruction permits a number, preserving the known answer 2011 rather than inventing a word replacement.",
       "answerApproved": false
+    },
+    {
+      "lessonId": "p2-improving-sensory-perception",
+      "questions": [
+        16,
+        24
+      ],
+      "reason": "Paragraph B is an unrelated description of a cycling trail, wetlands, clay cliffs and riding time. The expected sensory-training discussion is absent, so Q16 and Q24 cannot be supported. This is a published passage-content corruption, not merely an uncertain answer.",
+      "needed": "Restore paragraph B from the verified original source before approving any full solution.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p2-when-our-immune-system-works-against-us",
+      "questions": [
+        24
+      ],
+      "reason": "Q24 asks who said participants lack incentive without immediate benefit. Tatyana Varlamova appears in the researcher bank, but neither this name nor the claimed statement is present anywhere in the published passage.",
+      "needed": "Compare the full original passage and restore any missing source text before approving the matching task.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p2-an-early-study-of-inappropriate-behaviour-in-the-classroom",
+      "questions": [
+        23,
+        25
+      ],
+      "reason": "Published summary reads “in a positive {{23}} manner” and “teachers gave praise {{25}} when pupils behaved well”. The passage uses “framed in a positive ... form” and does not supply a clear one-word modifier for the second gap. The gap placements or surrounding words need source checking.",
+      "needed": "Compare the original summary and exact blank positions before filling or changing the task.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p3-speech-acts-and-philosophy",
+      "questions": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "reason": "The sentence-ending bank consists of unrelated business/negotiation clauses and cannot complete Indicative sentences, Austin’s claims, or Constative utterances. The final paragraph is also truncated (“Performatives are neither true nor fail...”), leaving Q32 unsupported.",
+      "needed": "Restore the correct ending bank and complete final paragraph from the original source before grading.",
+      "answerApproved": false
     }
   ]
 }
