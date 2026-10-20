@@ -152,6 +152,36 @@
       "reason": "Q7 asks for the number of female baboons studied (45), but the published task permits ONE WORD ONLY rather than a number. The source instruction needs checking before certifying the complete key.",
       "needed": "Verify the original note instruction permits a numerical answer; preserve the supported number 45.",
       "answerApproved": false
+    },
+    {
+      "lessonId": "p2-a-threat-to-salmon-farming",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "reason": "The published summary leaves the likely answer words after the blanks: “a {{24}} pesticide”, “{{25}} shellfish”, “a {{26}} laser”. Entering the passage nouns would duplicate them, while the passage supplies no clear alternative one-word modifiers. Paragraph B also contains damaged attribution text.",
+      "needed": "Compare the original summary and restore exact blank positions without retaining the answer words after the inputs.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p3-literacy-and-rural-communities-in-australia",
+      "questions": [
+        35,
+        37
+      ],
+      "reason": "Q35 and Q37 both refer to paragraph B, but the matching-info source sets reuse:false and omits the instruction permitting repeated letters. The radio table DOES allow both answers; this is an instruction/configuration discrepancy, not a blocked-control defect.",
+      "needed": "Check original matching instructions and enable repeated paragraph letters if confirmed before approving a complete answer key.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p3-case-study-cargill-dow-llc",
+      "questions": [
+        35
+      ],
+      "reason": "Option C says the Number 2 Yellow Dent corn has not undergone genetic modification. The passage only says the products are free of genetically modified material and production does not require it; that does not establish the modification history of the corn itself. The other options are contradicted or unsupported, leaving no strictly supported choice.",
+      "needed": "Check original wording of paragraph 9 and Q35 option C before certifying this whole key.",
+      "answerApproved": false
     }
   ]
 }

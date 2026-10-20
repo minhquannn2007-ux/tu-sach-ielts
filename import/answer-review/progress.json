@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T13:14:26.574Z",
-  "totalLessons": 741,
-  "reviewedLessons": 102,
-  "reviewedAnswers": 1340,
+  "updatedAt": "2026-10-20T13:47:42.980Z",
+  "totalLessons": 747,
+  "reviewedLessons": 134,
+  "reviewedAnswers": 1757,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 635,
+  "pendingSolutions": 609,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -90,7 +90,7 @@
       "title": "A Guide to Healthy Eating",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-a-history-of-early-inventions",
@@ -440,7 +440,7 @@
       "title": "Athletes and diet",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-australias-airborne-dentists",
@@ -559,7 +559,7 @@
       "title": "Bees and Honey",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-being-left-handed-in-a-right-handed-world",
@@ -615,7 +615,7 @@
       "title": "Bondi",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-book-review",
@@ -825,7 +825,7 @@
       "title": "Charles Heaphy and the settlement of New Zealand",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-childs-play-in-medieval-england",
@@ -993,14 +993,14 @@
       "title": "Cooked Food",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-copy-your-neighbour",
       "title": "Copy Your Neighbour",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-corporate-social-responsibility",
@@ -1332,6 +1332,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-fishbourne-roman-palace",
+      "title": "Fishbourne Roman Palace",
+      "part": 1,
+      "questions": 13,
+      "status": "answer-reviewed"
+    },
+    {
       "id": "p2-flood-control-in-the-usa",
       "title": "Flood control in the USA",
       "part": 2,
@@ -1413,7 +1420,7 @@
       "title": "Fungi: a new sustainable alternative",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-game-theory",
@@ -1539,7 +1546,7 @@
       "title": "Hormones",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-how-can-we-make-good-decisions",
@@ -1892,6 +1899,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-learning-about-the-moa",
+      "title": "Learning about the moa",
+      "part": 1,
+      "questions": 13,
+      "status": "answer-reviewed"
+    },
+    {
       "id": "p1-learning-by-example-evidence-from-studies-of-rats-and-birds",
       "title": "Learning by example: evidence from studies of rats and birds",
       "part": 1,
@@ -2057,7 +2071,14 @@
       "title": "Magnificent money-making mantas",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
+    },
+    {
+      "id": "p1-making-copies",
+      "title": "Making copies",
+      "part": 1,
+      "questions": 13,
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-making-images-from-space-more-accessible",
@@ -2078,7 +2099,7 @@
       "title": "MAMMOTH KILL",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-manage-your-energy-not-your-time",
@@ -2127,7 +2148,7 @@
       "title": "Mapping the World",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-marine-diversity",
@@ -2428,7 +2449,7 @@
       "title": "No title – About the sea",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-no-title-charles-darwin",
@@ -2659,7 +2680,7 @@
       "title": "Rags to Riches",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-rating-female-leaders",
@@ -3009,7 +3030,7 @@
       "title": "Sir Gawain and the Green Knight",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-sleep-who-needs-it",
@@ -3079,7 +3100,7 @@
       "title": "Stagecoaching in Australia",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-star-performers",
@@ -3436,7 +3457,7 @@
       "title": "The Commercial Production of Ice in the Nineteenth Century",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-conquest-of-malaria-in-italy",
@@ -3485,7 +3506,7 @@
       "title": "The cost of human thinking ability",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-dark-side-of-the-technological-boom",
@@ -3618,7 +3639,7 @@
       "title": "The economic effect of climate",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-effectiveness-of-an-online-course",
@@ -3633,6 +3654,13 @@
       "part": 2,
       "questions": 13,
       "status": "pending-solution"
+    },
+    {
+      "id": "p1-the-emergence-of-communications-media-in-the-usa",
+      "title": "The emergence of communications media in the USA",
+      "part": 1,
+      "questions": 13,
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-english-canal-system",
@@ -3695,7 +3723,7 @@
       "title": "The Future of Food Packaging",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-future-of-news-coming-from-a-fun-circle",
@@ -3793,7 +3821,7 @@
       "title": "The history of farming",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-lighting",
@@ -3821,7 +3849,7 @@
       "title": "The history of tapestry in Europe",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-british-wool-industry",
@@ -3884,7 +3912,7 @@
       "title": "The history of the picnic",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-theater-designs-in-britain",
@@ -4094,7 +4122,7 @@
       "title": "The Mbuti of the Ituri Forest in Zaire",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-mesoamerican-ball-game",
@@ -4349,6 +4377,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-the-restoration-of-baja-californias-fishing-communities",
+      "title": "The restoration of Baja California’s fishing communities",
+      "part": 2,
+      "questions": 13,
+      "status": "answer-reviewed"
+    },
+    {
       "id": "p2-the-return-of-monkey-life",
       "title": "The return of monkey life",
       "part": 2,
@@ -4389,6 +4424,13 @@
       "part": 3,
       "questions": 14,
       "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-role-of-error-in-the-learning-process",
+      "title": "The role of error in the learning process",
+      "part": 2,
+      "questions": 13,
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-role-of-mothers-in-the-origins-of-music",
@@ -4794,7 +4836,7 @@
       "title": "Urban Regeneration: an award-winning redevelopment project in Berlin",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-using-the-mind-for-extreme-performance",
@@ -4941,7 +4983,7 @@
       "title": "What Lucy Taught Us",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-what-makes-a-musical-expert",

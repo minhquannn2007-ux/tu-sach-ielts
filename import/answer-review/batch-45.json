@@ -1,0 +1,500 @@
+{
+  "p1-rags-to-riches": {
+    "lessonId": "p1-rags-to-riches",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the animal kingdom rarely comes to mind"
+          }
+        ],
+        "explanation": "Hiếm nghĩ tới động vật khi tìm vật liệu kỹ thuật."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "finding its way into bullet-proof jackets"
+          }
+        ],
+        "explanation": "Tơ nhện đã được ứng dụng trong áo chống đạn."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "fishermen who have used them for bait"
+          }
+        ],
+        "explanation": "Không so sánh mức dùng giun mồi trước và nay."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "worms from clean water, too, were stuffed with zinc"
+          }
+        ],
+        "explanation": "Giun ở nước sạch vẫn chứa nhiều kẽm."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Strong and light is a desirable combination"
+          }
+        ],
+        "explanation": "Vật liệu hàng không cần bền chắc và nhẹ."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "try forming it into useful shapes"
+          }
+        ],
+        "explanation": "Nhà khoa học muốn tạo vật liệu cho máy bay; câu giun bay là ẩn dụ, không phải dự báo tiến hóa."
+      },
+      "7": {
+        "accepted": [
+          "squishy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the only hard parts of an otherwise squishy animal"
+          }
+        ],
+        "explanation": "Phần còn lại của cơ thể mềm nhũn."
+      },
+      "8": {
+        "accepted": [
+          "aluminum",
+          "aluminium"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "as strong as aluminum"
+          }
+        ],
+        "explanation": "Hàm bền như nhôm."
+      },
+      "9": {
+        "accepted": [
+          "calcium-salt",
+          "calcium"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "lacking the dense calcium-salt"
+          }
+        ],
+        "explanation": "Thiếu muối canxi đặc khiến hàm nhẹ."
+      },
+      "10": {
+        "accepted": [
+          "bulk"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "can be made in bulk"
+          }
+        ],
+        "explanation": "NASA kiểm tra khả năng sản xuất hàng loạt."
+      },
+      "11": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "are in fact gills"
+          }
+        ],
+        "explanation": "Cấu trúc dọc thân là mang."
+      },
+      "12": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "curved fangs that act like jaws"
+          }
+        ],
+        "explanation": "Răng nanh sắc dùng bắt mồi."
+      },
+      "13": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "no sign of mineral conversion at all"
+          }
+        ],
+        "explanation": "Không có dấu hiệu khoáng hóa."
+      }
+    },
+    "lessonSha256": "a021d54cb7d37e8d00b4a441681d925adbfc7fb90514ed703d3b00dec892aa48"
+  },
+  "p1-what-lucy-taught-us": {
+    "lessonId": "p1-what-lucy-taught-us",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Straight away, he recognised it"
+          }
+        ],
+        "explanation": "Johanson nhận ra ngay xương khuỷu tay tổ tiên người."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "bits of the skull, a chunk of jaw, a couple of vertebrae"
+          }
+        ],
+        "explanation": "Còn thấy nhiều xương khác cùng chỗ."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "immediately obvious that the skeleton was a significant find"
+          }
+        ],
+        "explanation": "Ý nghĩa phát hiện được nhận ra ngay."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "40% of the skeleton had been preserved"
+          }
+        ],
+        "explanation": "Không so sánh độ hư hại phần trên và dưới."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "female due to its size"
+          }
+        ],
+        "explanation": "Kích thước giúp suy đoán giới tính nữ."
+      },
+      "6": {
+        "accepted": [
+          "branches"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a way to walk along branches"
+          }
+        ],
+        "explanation": "Đi thẳng có thể khởi đầu trên cành cây."
+      },
+      "7": {
+        "accepted": [
+          "ground"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "reason for heading to the ground"
+          }
+        ],
+        "explanation": "Tìm thức ăn có thể là lý do xuống đất."
+      },
+      "8": {
+        "accepted": [
+          "teeth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "food trapped on preserved human teeth"
+          }
+        ],
+        "explanation": "Thức ăn còn trong răng cho thấy đổi chế độ ăn."
+      },
+      "9": {
+        "accepted": [
+          "fruit"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Instead of mostly eating fruit from trees"
+          }
+        ],
+        "explanation": "Cỏ và thịt thay cho trái cây."
+      },
+      "10": {
+        "accepted": [
+          "eggs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Fossilised crocodile and turtle eggs were found near her skeleton"
+          }
+        ],
+        "explanation": "Trứng tìm gần Lucy gợi ý cũng là thức ăn."
+      },
+      "11": {
+        "accepted": [
+          "bones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "animal bones with scratches"
+          }
+        ],
+        "explanation": "Xương có vết cắt có thể do công cụ."
+      },
+      "12": {
+        "accepted": [
+          "childhood"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Lucy’s childhood was much briefer than ours"
+          }
+        ],
+        "explanation": "Tuổi thơ người hiện đại dài hơn."
+      },
+      "13": {
+        "accepted": [
+          "brains"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "their brains matured much earlier than ours do"
+          }
+        ],
+        "explanation": "Não tổ tiên trưởng thành sớm hơn não người hiện đại."
+      }
+    },
+    "lessonSha256": "8b878c850aee8ef1c070ceaf4d3f1f92a5df0e496a86fdd4247eef1d2bb3b91b"
+  },
+  "p1-fungi-a-new-sustainable-alternative": {
+    "lessonId": "p1-fungi-a-new-sustainable-alternative",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Neither plant nor animal, they have their own kingdom"
+          }
+        ],
+        "explanation": "Nấm có giới riêng."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a widespread perception that fungi"
+          }
+        ],
+        "explanation": "Không xếp hạng nấm mũ là nguy hiểm nhất."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "readily available in nature"
+          }
+        ],
+        "explanation": "Nấm sẵn có trong tự nhiên."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "With a goal of sharing their work with the public"
+          }
+        ],
+        "explanation": "Mục đích triển lãm là chia sẻ và hiểu tiềm năng, không phải bán hàng."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a better understanding of fungi’s potential as a sustainable material"
+          }
+        ],
+        "explanation": "Khách được tương tác để hiểu tính chất hữu ích."
+      },
+      "6": {
+        "accepted": [
+          "fibers",
+          "fibres"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "multiple long, thread-like fibers"
+          }
+        ],
+        "explanation": "Mycelium gồm những sợi dài mảnh."
+      },
+      "7": {
+        "accepted": [
+          "toxic"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "along with toxic substances"
+          }
+        ],
+        "explanation": "Phân hủy cả chất độc."
+      },
+      "8": {
+        "accepted": [
+          "plastic"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "similar in strength to plastic"
+          }
+        ],
+        "explanation": "Mycelium bền tương tự nhựa."
+      },
+      "9": {
+        "accepted": [
+          "packaging"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "sustainable packaging and building materials"
+          }
+        ],
+        "explanation": "Ecovative làm bao bì và vật liệu xây dựng."
+      },
+      "10": {
+        "accepted": [
+          "adhesive"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "replacement for the harmful adhesive"
+          }
+        ],
+        "explanation": "Thay thế keo độc hại."
+      },
+      "11": {
+        "accepted": [
+          "kits"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "grow-it-yourself kits"
+          }
+        ],
+        "explanation": "Bán bộ tự trồng tại nhà."
+      },
+      "12": {
+        "accepted": [
+          "temperature"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "increase or decrease in temperature"
+          }
+        ],
+        "explanation": "Nhiệt độ và độ ẩm ảnh hưởng tuổi thọ."
+      },
+      "13": {
+        "accepted": [
+          "coating"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "trying to find a coating"
+          }
+        ],
+        "explanation": "Tìm lớp phủ chống biến đổi môi trường."
+      }
+    },
+    "lessonSha256": "4c0cdc1f90ff249677df5b6eab390c68369f584817c20ffb64748c66cbc7b7ec"
+  }
+}

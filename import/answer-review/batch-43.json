@@ -1,0 +1,503 @@
+{
+  "p1-fishbourne-roman-palace": {
+    "lessonId": "p1-fishbourne-roman-palace",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "on the site of Roman army grain stores"
+          }
+        ],
+        "explanation": "Trước cung điện đã có kho ngũ cốc quân đội."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "extensive alterations in the 2nd and 3rd centuries"
+          }
+        ],
+        "explanation": "Cung điện được sửa đổi nhiều đợt."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "approximately equivalent to some of the great Roman palaces of Italy"
+          }
+        ],
+        "explanation": "Kích thước tương đương các cung điện lớn ở Ý, không lớn hơn khi so với chúng."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "ongoing archaeological excavation on the site of nearby"
+          }
+        ],
+        "explanation": "Vẫn đang khai quật ở khu lân cận."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "there are a number of theories"
+          }
+        ],
+        "explanation": "Có nhiều giả thuyết khác nhau về chủ nhân."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "destroyed in a fire in around 270 AD"
+          }
+        ],
+        "explanation": "Không nêu người gây ra đám cháy."
+      },
+      "7": {
+        "accepted": [
+          "army",
+          "Roman army"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Roman army grain stores"
+          }
+        ],
+        "explanation": "Kho chứa ngũ cốc cho quân đội."
+      },
+      "8": {
+        "accepted": [
+          "gardens",
+          "formal gardens"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "built around formal gardens"
+          }
+        ],
+        "explanation": "Cung điện bao quanh vườn."
+      },
+      "9": {
+        "accepted": [
+          "floors",
+          "mosaic floors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "mosaic floors being overlaid with more sophisticated coloured ones"
+          }
+        ],
+        "explanation": "Sàn khảm được phủ bằng khảm màu."
+      },
+      "10": {
+        "accepted": [
+          "wall"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "accidentally uncovered a wall"
+          }
+        ],
+        "explanation": "Phần đầu được phát hiện là bức tường."
+      },
+      "11": {
+        "accepted": [
+          "93"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "in or shortly after 93 AD"
+          }
+        ],
+        "explanation": "Lucullus bị xử tử vào khoảng năm 93."
+      },
+      "12": {
+        "accepted": [
+          "ring",
+          "gold ring"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a gold ring belonging to him"
+          }
+        ],
+        "explanation": "Tìm thấy nhẫn vàng của Catuarus."
+      },
+      "13": {
+        "accepted": [
+          "museum"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a museum was erected to preserve some of the remains"
+          }
+        ],
+        "explanation": "Bảo tàng được dựng để bảo tồn di tích."
+      }
+    },
+    "lessonSha256": "20b17da0f73181ad1e84e32ebd730ea912b60bd8b42cb9c9a70e07f7b346a841"
+  },
+  "p1-learning-about-the-moa": {
+    "lessonId": "p1-learning-about-the-moa",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "femur"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a mere fragment of a femur"
+          }
+        ],
+        "explanation": "Mảnh xương đùi dài khoảng sáu inch."
+      },
+      "2": {
+        "accepted": [
+          "larger"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "larger and more colossal size than the ostrich or any known species"
+          }
+        ],
+        "explanation": "Owen cho rằng chim lớn hơn mọi loài đã biết."
+      },
+      "3": {
+        "accepted": [
+          "egg"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a complete moa egg"
+          }
+        ],
+        "explanation": "Eyles tìm được trứng nguyên vẹn."
+      },
+      "4": {
+        "accepted": [
+          "dogs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "probably with the help of dogs"
+          }
+        ],
+        "explanation": "Có thể dùng chó để dồn moa."
+      },
+      "5": {
+        "accepted": [
+          "jewellery",
+          "jewelry"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "fashioned jewellery as well as fish hooks and harpoon heads"
+          }
+        ],
+        "explanation": "Xương dùng làm trang sức và dụng cụ săn bắt."
+      },
+      "6": {
+        "accepted": [
+          "fertiliser",
+          "fertilizer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "crushed them for fertiliser"
+          }
+        ],
+        "explanation": "Người châu Âu nghiền xương làm phân bón."
+      },
+      "7": {
+        "accepted": [
+          "wings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "no wings at all"
+          }
+        ],
+        "explanation": "Moa không có cánh."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "females being up to 150% as tall and 280% as heavy as males"
+          }
+        ],
+        "explanation": "Con cái cao và nặng hơn con đực."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "that moa were grassland grazing birds"
+          }
+        ],
+        "explanation": "Quan điểm người viết xưa nêu về môi trường ăn, không nói họ đánh giá vẻ đẹp."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "research concluded that moa were forest birds"
+          }
+        ],
+        "explanation": "Nghiên cứu thay quan điểm đồng cỏ bằng rừng."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Moa were a typical example of a ‘K-adapted species’"
+          }
+        ],
+        "explanation": "Không nêu loài K-adapted khác tại New Zealand."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "as much as 50% of usable weight was discarded"
+          }
+        ],
+        "explanation": "Thợ săn bỏ đi tới nửa khối lượng dùng được."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "South American birds called the tinamous"
+          }
+        ],
+        "explanation": "Nghiên cứu mới nhất nêu họ hàng gần ở Nam Mỹ."
+      }
+    },
+    "lessonSha256": "9413ecd463d96619afd30ba6f17726e2ab5503f1ba5884369d02cbf759c14637"
+  },
+  "p1-making-copies": {
+    "lessonId": "p1-making-copies",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "marks on clay tablets"
+          }
+        ],
+        "explanation": "Chữ viết đầu tiên ở bảng đất sét; vật liệu từ cây xuất hiện sau."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "invented the printing press"
+          }
+        ],
+        "explanation": "Không nói mức đào tạo cần thiết để dùng máy Gutenberg."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "better known as the inventor of the modern steam engine"
+          }
+        ],
+        "explanation": "Không nêu thứ tự thời gian hai phát minh của Watt."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "standard in offices for over a hundred years"
+          }
+        ],
+        "explanation": "Máy ép dùng phổ biến hơn một thế kỷ đến cuối những năm 1800."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "These machines and their successors were commercially successful"
+          }
+        ],
+        "explanation": "Máy đối thủ cũng bán thành công."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "copies that were costly"
+          }
+        ],
+        "explanation": "Bản sao có chi phí cao."
+      },
+      "7": {
+        "accepted": [
+          "inventor"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Unusually for a modern inventor"
+          }
+        ],
+        "explanation": "Carlson khác các nhà phát minh vì làm một mình."
+      },
+      "8": {
+        "accepted": [
+          "corporations"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "more than 20 major corporations"
+          }
+        ],
+        "explanation": "Ông mời các tập đoàn đầu tư nhưng bị từ chối."
+      },
+      "9": {
+        "accepted": [
+          "failure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "was a commercial failure"
+          }
+        ],
+        "explanation": "Thiết kế được cải tiến sau thất bại Model A."
+      },
+      "10": {
+        "accepted": [
+          "heat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "heat to melt the toner into a permanent pattern"
+          }
+        ],
+        "explanation": "Nhiệt làm chảy toner để cố định ảnh."
+      },
+      "11": {
+        "accepted": [
+          "demand"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "created the demand"
+          }
+        ],
+        "explanation": "Máy kích thích nhu cầu sao chép."
+      },
+      "12": {
+        "accepted": [
+          "possessions"
+        ],
+        "evidence": [
+          {
+            "paragraph": 13,
+            "quote": "didn't develop a taste for possessions"
+          }
+        ],
+        "explanation": "Không ham sở hữu vật chất."
+      },
+      "13": {
+        "accepted": [
+          "charities"
+        ],
+        "evidence": [
+          {
+            "paragraph": 13,
+            "quote": "giving away his fortune to charities"
+          }
+        ],
+        "explanation": "Ông tặng tài sản cho các tổ chức từ thiện."
+      }
+    },
+    "lessonSha256": "4a28c083a020202e2b854916c7911d64f955ed4de68f422d06b76813301883d6"
+  }
+}

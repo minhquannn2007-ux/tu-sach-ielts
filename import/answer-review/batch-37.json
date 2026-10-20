@@ -1,0 +1,500 @@
+{
+  "p1-hormones": {
+    "lessonId": "p1-hormones",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "myxedema",
+          "myxoedema"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "medical condition known as myxedema"
+          }
+        ],
+        "explanation": "Murray chữa myxedema bằng chiết xuất tuyến giáp cừu; chấp nhận chính tả Anh/Mỹ."
+      },
+      "2": {
+        "accepted": [
+          "blood pressure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "raised animals’ blood pressure"
+          }
+        ],
+        "explanation": "Chiết xuất tuyến làm tăng huyết áp."
+      },
+      "3": {
+        "accepted": [
+          "secretin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "called this substance ‘secretin’"
+          }
+        ],
+        "explanation": "Tên chất được tìm là secretin."
+      },
+      "4": {
+        "accepted": [
+          "duodenum"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "an organ called the duodenum"
+          }
+        ],
+        "explanation": "Chất được phóng thích từ tá tràng."
+      },
+      "5": {
+        "accepted": [
+          "nervous system"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "independently of the nervous system"
+          }
+        ],
+        "explanation": "Chứng minh hóa chất có thể tác động độc lập hệ thần kinh."
+      },
+      "6": {
+        "accepted": [
+          "insulin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "identified insulin"
+          }
+        ],
+        "explanation": "Banting và Best xác định insulin."
+      },
+      "7": {
+        "accepted": [
+          "dog"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "caused a dog to become diabetic"
+          }
+        ],
+        "explanation": "Làm chó mắc đái tháo đường trong thử nghiệm."
+      },
+      "8": {
+        "accepted": [
+          "pancreas"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "removal of the organ known as the pancreas"
+          }
+        ],
+        "explanation": "Cắt tụy rồi khảo sát chiết xuất tụy."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "numerous breakthroughs throughout the rest of the 20th century"
+          }
+        ],
+        "explanation": "Có nhiều đột phá, không ít tiến bộ."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "measure minute concentrations of pituitary hormones"
+          }
+        ],
+        "explanation": "Không nêu họ dành nhiều năm nghiên cứu liên hệ não-tuyến yên."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "obesity, cardiovascular disease, depression and aging"
+          }
+        ],
+        "explanation": "Nghiên cứu hiện tại liên hệ hormone với thách thức sức khỏe lớn."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "around 80 of these remarkable chemicals have been identified"
+          }
+        ],
+        "explanation": "Biết khoảng 80 không cho biết đã gần toàn bộ hay chưa."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "our understanding of hormones has grown"
+          }
+        ],
+        "explanation": "Không so sánh tính hữu ích mô hình máy tính giữa các ngành."
+      }
+    },
+    "lessonSha256": "98b6de03b49341ca2323fb7fb20033850724d8f23d3891e830968fbebce94cc2"
+  },
+  "p1-bees-and-honey": {
+    "lessonId": "p1-bees-and-honey",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "lavender produces a deeper orange-yellow"
+          }
+        ],
+        "explanation": "Nêu màu mật từ lavender, không so độ đậm vị."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the honeybee is the most productive"
+          }
+        ],
+        "explanation": "Honeybee năng suất cao nhất, không loài khác cao hơn."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "workers, which are all female"
+          }
+        ],
+        "explanation": "Ong thợ cái đi thu mật hoa."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a widely consumed beverage called mead"
+          }
+        ],
+        "explanation": "Trung cổ dùng mật làm mead phổ biến."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "ingenious solutions to this problem"
+          }
+        ],
+        "explanation": "Skep là giải pháp cho việc phá tổ, không phương pháp vẫn phá hủy đàn như trước."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a different species to honeybees"
+          }
+        ],
+        "explanation": "Khác loài nhưng không so chất lượng mật."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "kept the comb intact so that the colony could use it again"
+          }
+        ],
+        "explanation": "Thanh gỗ đỡ giúp bánh tổ nguyên vẹn, tái sử dụng."
+      },
+      "8": {
+        "accepted": [
+          "candles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "cosmetics and candles"
+          }
+        ],
+        "explanation": "Sáp ong dùng làm nến và mỹ phẩm."
+      },
+      "9": {
+        "accepted": [
+          "protein"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "more protein than beef"
+          }
+        ],
+        "explanation": "Phấn hoa nhiều protein và vitamin."
+      },
+      "10": {
+        "accepted": [
+          "skin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "skin creams, lotions and oils"
+          }
+        ],
+        "explanation": "Sữa ong chúa bán trong sản phẩm dưỡng da."
+      },
+      "11": {
+        "accepted": [
+          "resin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Propolis is plant resin"
+          }
+        ],
+        "explanation": "Keo ong từ nhựa thực vật pha các chất khác."
+      },
+      "12": {
+        "accepted": [
+          "respiratory"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "respiratory illnesses"
+          }
+        ],
+        "explanation": "Có ứng dụng với bệnh hô hấp và lợi."
+      },
+      "13": {
+        "accepted": [
+          "varnish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "an ingredient for varnish"
+          }
+        ],
+        "explanation": "Dùng trong véc ni nhạc cụ."
+      }
+    },
+    "lessonSha256": "b6a99fde39b45c0c57ebf150615f45577edc83e992ebda828f7471fca4f4d968"
+  },
+  "p1-bondi": {
+    "lessonId": "p1-bondi",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Beaches attracted little attention"
+          }
+        ],
+        "explanation": "Thuở đầu định cư bãi biển ít được chú ý."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a strong traditional connection to the coast"
+          }
+        ],
+        "explanation": "Không so văn hóa người bản địa nội địa với ven biển."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "almost entirely European in nature"
+          }
+        ],
+        "explanation": "Văn hóa biển được mô tả gần như châu Âu, không phản ánh truyền thống Aboriginal."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "hard work and suffering"
+          }
+        ],
+        "explanation": "Nội địa gắn với lao động gian khổ cuối thế kỷ 19."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Brighton became the model"
+          }
+        ],
+        "explanation": "Brighton ở Anh là hình mẫu cho ngoại ô biển Sydney."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "places of purity and well-being"
+          }
+        ],
+        "explanation": "Được coi là trong lành, tốt sức khỏe."
+      },
+      "7": {
+        "accepted": [
+          "tram"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "accessible by tram"
+          }
+        ],
+        "explanation": "Có thể đến bằng tram."
+      },
+      "8": {
+        "accepted": [
+          "Manly"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "holiday-makers from farms in the countryside"
+          }
+        ],
+        "explanation": "Manly thu hút người nghỉ từ nông trại."
+      },
+      "9": {
+        "accepted": [
+          "Bondi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "investors built blocks of flats instead"
+          }
+        ],
+        "explanation": "Bondi xây nhiều căn hộ đáp ứng nhu cầu nhà tăng."
+      },
+      "10": {
+        "accepted": [
+          "1954"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "international attention in 1954"
+          }
+        ],
+        "explanation": "Hoàng gia Anh thăm năm 1954."
+      },
+      "11": {
+        "accepted": [
+          "film industry",
+          "film"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "The film industry"
+          }
+        ],
+        "explanation": "Bondi gắn với ngành điện ảnh."
+      },
+      "12": {
+        "accepted": [
+          "beach volleyball"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "beach volleyball stadium"
+          }
+        ],
+        "explanation": "Tổ chức bóng chuyền bãi biển."
+      },
+      "13": {
+        "accepted": [
+          "environment",
+          "the environment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "concerns for the environment"
+          }
+        ],
+        "explanation": "Cư dân lo hại môi trường."
+      }
+    },
+    "lessonSha256": "fc234fdc1a16b466d4ebf4f3726df7b09916dc497b89b0c07987b5ec155832e2"
+  }
+}
