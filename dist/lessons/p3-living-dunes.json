@@ -1,0 +1,235 @@
+{
+  "id": "p3-living-dunes",
+  "part": 3,
+  "title": "Living dunes",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Armies of giant sand dunes are advancing across the world’s deserts, engulfing anything that crosses their path. They are tens of metres tall and hundreds of metres long. Fortunately, they aren’t going very fast. Even the smallest, speediest dunes only travel about 100 metres over the course of a year, while the bigger ones, which weigh something in the order of 10,000 tonnes, barely move one metre in that time. However, their insidious creep can have serious consequences if there is an oil installation or a railway line in their path."
+    },
+    {
+      "label": "B",
+      "text": "About 47% of the world’s land mass, including Antarctica, most of Australia and large areas of Africa, is classified as arid or semi-arid desert. Only around 20% of that is sand-covered, however, and over half of that is classified as ‘linear’ sand dunes. These form in a long curving wave, as a result of wind blowing strongly from several quarters, flipping them from side to side. Although linear dunes are static, sand blowing off them can cause problems for desert villages, burying crops and buildings."
+    },
+    {
+      "label": "C",
+      "text": "Moving dunes make up just a small percentage of the rest, but they are of the most interest to scientists. They are known as ‘barchans’: heavy, crescent-shaped sand piles with a ridged crest and two elongated arms, one curving away to either side. ‘Barchan dunes only tend to form where you have one-directional winds on the edge of sandy deserts near coastal areas,’ says Giles Wiggs, a geomorphologist at Oxford University, who has been studying the formation and movement of sand dunes for more than a decade."
+    },
+    {
+      "label": "D",
+      "text": "But even with strong winds, how can entire barchans move while retaining their form? That question was first answered in the mid-20th century by British explorer Ralph Alger Bagnold, and his answer hinges on the fact that dunes aren’t solid, but granular. Bagnold figured out how barchan dunes are able to move grain by grain. Imagine a single grain of sand being blown up the back of a dune by the wind and deposited on the top. More grains follow the same pattern, until the accumulated weight of piled-up sand finally pushes the top down the dune face. The grain tumbles, then stops on the face until subsequent mini-avalanches bury it. Eventually, it reappears at the back of the dune, ready to repeat the process. As this happens to every grain of sand in the dune, the whole thing creeps in the direction of the prevailing wind."
+    },
+    {
+      "label": "E",
+      "text": "The relationship between the wind and barchan dunes is complex. As a dune grows, it modifies the speed and course of the wind, which in turn alters how that dune and its neighbours evolve. ‘Interestingly the dune can regulate its own shape, and maintain it as it moves,’ says Dr Stéphane Douady, a physicist at École Normale Supérieure (ENS) in France. ‘Even when two dunes collide, they quickly take on their distinctive shapes again. It’s like a living organism.’"
+    },
+    {
+      "label": "F",
+      "text": "Douady and his colleagues have also been studying an even odder phenomenon than moving dunes: some barchans actually sing. Local legends attributed the sounds to dangerous spirits which were trying to trap unwary travellers. Douady is more pragmatic. ‘It’s a strong booming noise with a low frequency,’ he explains, making a noise like a foghorn to demonstrate. ‘It can last for a long time — up to several minutes. It’s a very loud sound and you don’t understand where it’s coming from when you first hear it.’ There are about 50 dunes distributed across 35 deserts round the world that are known to sing. Douady says the sound is caused by the way sand avalanches down the faces of particular dunes. Rather than tumbling randomly, the sand grains flow in synchrony and set each other vibrating like the membrane on a gigantic loudspeaker. The synchronisation causes the air to move in and out between the grains, creating a powerful sound wave."
+    },
+    {
+      "label": "G",
+      "text": "What really surprised the scientists, however, was that they were able to take samples of the singing sand back to France and replicate the sound at ENS, proving that it’s the sand, not the dune shape, that causes the sound. Their studies show the grains are a uniform shape, well-rounded from years of striking each other, and that the variations in size affect the tone. Crucially, the grains are coated with a special veneer, which Douady calls ‘desert glaze’, made from a precise combination of minerals from surrounding rocks including iron, aluminium, manganese, silicon and calcium. The team found that after a month or so, the veneer wore off and the grains lost their ‘voice’. ‘We managed to reproduce the desert glaze and then the grains started to sing again,’ says Douady. ‘We tried putting the coating onto different grains, but they weren’t round enough and it didn’t work. But some American colleagues made some artificial grains and managed to make them sing, after covering them in desert glaze.’ Douady has now made recordings of dunesong from all over the world which is to be made into a CD."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-headings",
+      "sourcePages": [
+        1
+      ],
+      "sourceInstructions": "Reading Passage 3 has seven paragraphs, A-G. Choose the correct heading for each paragraph from the list of headings below.",
+      "headingCount": 7,
+      "headingUnit": "paragraphs",
+      "reuse": false,
+      "bank": [
+        {
+          "value": "i",
+          "text": "Moving rapidly across the desert"
+        },
+        {
+          "value": "ii",
+          "text": "Recreating the process in a laboratory"
+        },
+        {
+          "value": "iii",
+          "text": "Strange music created by human movement"
+        },
+        {
+          "value": "iv",
+          "text": "A potential threat to industry and communications"
+        },
+        {
+          "value": "v",
+          "text": "Dunes coming together and re-forming"
+        },
+        {
+          "value": "vi",
+          "text": "Needing a specific combination of conditions"
+        },
+        {
+          "value": "vii",
+          "text": "A continuous cycle"
+        },
+        {
+          "value": "viii",
+          "text": "The commonest type of dune"
+        },
+        {
+          "value": "ix",
+          "text": "Old superstitions demystified"
+        }
+      ],
+      "questions": [
+        {
+          "n": 27,
+          "paragraph": 0
+        },
+        {
+          "n": 28,
+          "paragraph": 1
+        },
+        {
+          "n": 29,
+          "paragraph": 2
+        },
+        {
+          "n": 30,
+          "paragraph": 3
+        },
+        {
+          "n": 31,
+          "paragraph": 4
+        },
+        {
+          "n": 32,
+          "paragraph": 5
+        },
+        {
+          "n": 33,
+          "paragraph": 6
+        }
+      ]
+    },
+    {
+      "type": "mc-one",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 34–36 Choose the correct letter, A, B, C or D.",
+      "questions": [
+        {
+          "n": 34,
+          "prompt": "What are we told about linear dunes?",
+          "options": [
+            {
+              "value": "A",
+              "text": "They are formed by strong winds blowing from one direction."
+            },
+            {
+              "value": "B",
+              "text": "They can move up to 100 metres in a twelve-month period."
+            },
+            {
+              "value": "C",
+              "text": "They develop in a recognisable shape."
+            },
+            {
+              "value": "D",
+              "text": "They make up about 20% of the world’s deserts."
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "prompt": "Bagnold discovered that movement in barchans was caused by",
+          "options": [
+            {
+              "value": "A",
+              "text": "the long straight shape of the dunes."
+            },
+            {
+              "value": "B",
+              "text": "the particular composition of the dunes."
+            },
+            {
+              "value": "C",
+              "text": "the exceptionally heavy nature of the sand grains."
+            },
+            {
+              "value": "D",
+              "text": "the unusual strength of the wind in certain seasons."
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "prompt": "Why does Dr Douady compare a barchan dune to a living organism?",
+          "options": [
+            {
+              "value": "A",
+              "text": "It starts small and then increases in size."
+            },
+            {
+              "value": "B",
+              "text": "It has an effect on its immediate surroundings."
+            },
+            {
+              "value": "C",
+              "text": "Its relations with desert organisms are quite developed."
+            },
+            {
+              "value": "D",
+              "text": "Its outline stays the same even after a period of movement."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 37–40 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "title": "Singing dunes",
+      "content": [
+        "Singing dunes, which belong to the type of dunes known as {{37}}, produce a very loud sound which is transmitted at a low frequency. Researchers have worked out that sand grains fall down the dune and start vibrating against other grains, forming a sound wave.",
+        "Research proves that the individual grains have a similar {{38}} but the differences in dimensions alter the {{39}} of the ‘song’. Each grain is covered with a mixture of different {{40}} and this is vital to the sound production."
+      ],
+      "questions": [
+        {
+          "n": 37
+        },
+        {
+          "n": 38
+        },
+        {
+          "n": 39
+        },
+        {
+          "n": 40
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p3-living-dunes",
+    "sourceParagraphCount": 7,
+    "requiresReview": false
+  },
+  "subtitle": "Things don’t come much stranger than heaps of sand that can move and sing of their own accord. Sally Palmer investigates",
+  "cover": {
+    "asset": "assets/cover-unique/p3-living-dunes.svg",
+    "alt": "Living dunes — Dunes, Désert du Thar",
+    "credit": "Clément Bardot",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunes,_D%C3%A9sert_du_Thar.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}
