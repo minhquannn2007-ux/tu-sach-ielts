@@ -1,0 +1,497 @@
+{
+  "p1-the-origins-of-rodeo-a-competitive-sport": {
+    "lessonId": "p1-the-origins-of-rodeo-a-competitive-sport",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "began to copy and adapt"
+          }
+        ],
+        "explanation": "Không nêu người chăn nuôi Tây Ban Nha phản đối sự thay đổi."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "departure points such as Kansas City"
+          }
+        ],
+        "explanation": "Dồn bò tới ga để tàu chở đi bán."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "no longer a need for long cattle drives and cowboys"
+          }
+        ],
+        "explanation": "Đường sắt giảm nhu cầu việc cowboy."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "take other jobs"
+          }
+        ],
+        "explanation": "Không cho mức thu nhập biểu diễn."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "left the horse riding to his headline performers"
+          }
+        ],
+        "explanation": "Cody đóng vai nhưng giao cưỡi ngựa cho người khác."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "cash prizes for event winners"
+          }
+        ],
+        "explanation": "Tiền vé làm giải cho người thắng, không chia mọi thí sinh."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "cost a lot of money to organize and produce"
+          }
+        ],
+        "explanation": "Chi phí tổ chức cao không cho biết giá vé so sánh."
+      },
+      "8": {
+        "accepted": [
+          "safety"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "protect the safety of the competitors"
+          }
+        ],
+        "explanation": "Quy tắc nhằm bảo vệ an toàn người thi."
+      },
+      "9": {
+        "accepted": [
+          "score"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "to receive a score from the judges"
+          }
+        ],
+        "explanation": "Cưỡi đủ tám giây mới được chấm điểm."
+      },
+      "10": {
+        "accepted": [
+          "protest"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "stage a protest by refusing to compete"
+          }
+        ],
+        "explanation": "Cowboy đình thi để phản đối."
+      },
+      "11": {
+        "accepted": [
+          "buckle"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the buckle"
+          }
+        ],
+        "explanation": "Khóa thắt lưng là giải thưởng được chọn."
+      },
+      "12": {
+        "accepted": [
+          "weekends"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "close to home on the weekends"
+          }
+        ],
+        "explanation": "Một số chỉ thi dịp cuối tuần."
+      },
+      "13": {
+        "accepted": [
+          "status"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a status equal to the professional American football and basketball leagues"
+          }
+        ],
+        "explanation": "PRCA có vị thế ngang các giải thể thao lớn khác."
+      }
+    },
+    "lessonSha256": "b7edc10da7a97dde48a373ec872136ab9f3b8a80e52a89dd470f5e123230ea27"
+  },
+  "p1-supplying-drinking-water-to-australian-households": {
+    "lessonId": "p1-supplying-drinking-water-to-australian-households",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "rivers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "streams and, in large catchment areas, rivers"
+          }
+        ],
+        "explanation": "Nước từ suối và sông."
+      },
+      "2": {
+        "accepted": [
+          "drainage"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "drainage of water"
+          }
+        ],
+        "explanation": "Địa hình dốc giúp dẫn thoát nước tự nhiên."
+      },
+      "3": {
+        "accepted": [
+          "reservoirs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "storing the water in reservoirs"
+          }
+        ],
+        "explanation": "Đập giữ nước trong hồ chứa."
+      },
+      "4": {
+        "accepted": [
+          "sand"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "stored in the sand"
+          }
+        ],
+        "explanation": "Nước GAB nằm trong cát giữa các lớp đá."
+      },
+      "5": {
+        "accepted": [
+          "holes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "holes have been drilled"
+          }
+        ],
+        "explanation": "Bơm nước qua lỗ khoan nhân tạo."
+      },
+      "6": {
+        "accepted": [
+          "sediments"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "get rid of sediments"
+          }
+        ],
+        "explanation": "Xử lý loại trầm tích."
+      },
+      "7": {
+        "accepted": [
+          "microorganisms"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "kill potentially harmful microorganisms"
+          }
+        ],
+        "explanation": "Chlorine diệt vi sinh vật có hại."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "historical records dating back nearly 3,000 years"
+          }
+        ],
+        "explanation": "Có ghi chép xử lý nước từ gần ba nghìn năm trước."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "natural wilderness catchments"
+          }
+        ],
+        "explanation": "Hai thành phố có nguồn lưu vực tự nhiên ít cần xử lý."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "damming rivers"
+          }
+        ],
+        "explanation": "Không so chi phí đập và khai thác nước ngầm."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "too expensive for authorities to connect them"
+          }
+        ],
+        "explanation": "Kết nối mọi nhà vùng xa quá đắt."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "compulsory for new buildings in some cities"
+          }
+        ],
+        "explanation": "Một số thành phố bắt buộc bể nước mưa cho nhà mới."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "have not identified a connection"
+          }
+        ],
+        "explanation": "Không thấy liên quan bệnh không đồng nghĩa gây ít bệnh hơn nước máy; bài không so sánh tỷ lệ."
+      }
+    },
+    "lessonSha256": "1b0e58644778a65fdf115b9e1bfaf6cd1556b0afb524e1e461fe0054ae2e5d11"
+  },
+  "p1-katsushika-hokusai": {
+    "lessonId": "p1-katsushika-hokusai",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "far exceeds that of any other major Japanese artist"
+          }
+        ],
+        "explanation": "Số tên vượt xa các họa sĩ Nhật khác."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "apprentice to a woodcarver"
+          }
+        ],
+        "explanation": "Rời tiệm sách rồi học khắc gỗ, sau đó mới theo Shunsho."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "exploring other styles of art, including the European styles"
+          }
+        ],
+        "explanation": "Không nói ông là nghệ sĩ Nhật đầu tiên thử phong cách châu Âu."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "This event was, in his own words, inspirational"
+          }
+        ],
+        "explanation": "Ông mô tả việc bị đuổi là nguồn cảm hứng phát triển nghệ thuật, thay vì sự hối tiếc như phát biểu."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "he also began to take on pupils of his own"
+          }
+        ],
+        "explanation": "Bắt đầu nhận học trò đầu thế kỷ 19."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "images of flowers and birds"
+          }
+        ],
+        "explanation": "Có vẽ hoa chim nhưng không nói từ 1820 ngừng hoàn toàn chân dung."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "his career was beginning to decline"
+          }
+        ],
+        "explanation": "Sự nghiệp về cuối suy giảm, không tăng đều cả đời."
+      },
+      "8": {
+        "accepted": [
+          "actors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "portraits of well-known actors"
+          }
+        ],
+        "explanation": "Bản in đầu là chân dung diễn viên."
+      },
+      "9": {
+        "accepted": [
+          "landscapes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "focused on landscapes"
+          }
+        ],
+        "explanation": "Chuyển sang phong cảnh và đời thường."
+      },
+      "10": {
+        "accepted": [
+          "monk"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a famous 8th-century monk"
+          }
+        ],
+        "explanation": "Vẽ hình nhà sư Daruma lớn năm 1804."
+      },
+      "11": {
+        "accepted": [
+          "chicken"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a chicken whose feet had been dipped in red paint"
+          }
+        ],
+        "explanation": "Dấu chân gà tượng trưng lá phong."
+      },
+      "12": {
+        "accepted": [
+          "manuals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "various art manuals"
+          }
+        ],
+        "explanation": "Sách hướng dẫn nghệ thuật tạo thu nhập và hút học sinh."
+      },
+      "13": {
+        "accepted": [
+          "fire"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a fire destroyed Hokusai’s studio"
+          }
+        ],
+        "explanation": "Cháy phá xưởng và nhiều tác phẩm."
+      }
+    },
+    "lessonSha256": "f75be1a9efaa9973e9e500099b227e4a973d8a7749a12139ded4df0f98eaf302"
+  }
+}

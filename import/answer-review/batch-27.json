@@ -1,0 +1,497 @@
+{
+  "p1-traditional-maori-medicine": {
+    "lessonId": "p1-traditional-maori-medicine",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "passed down through the generations orally"
+          }
+        ],
+        "explanation": "Kiến thức truyền miệng, không qua văn bản."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "average age of death for Māori adults was around 30"
+          }
+        ],
+        "explanation": "Không nêu người châu Âu ngạc nhiên về tuổi thọ."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "divided into diseases of the gods"
+          }
+        ],
+        "explanation": "Có phân loại, không so mức nghiêm trọng."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "toothache were instructed to chew the leaves"
+          }
+        ],
+        "explanation": "Lá cây pepper dùng chữa đau răng."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "turned to Christianity"
+          }
+        ],
+        "explanation": "Chuyển sang Kitô giáo góp phần giảm niềm tin vào thầy thuốc truyền thống."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "no standard system of diagnosis or widespread agreement about treatments"
+          }
+        ],
+        "explanation": "Không có thống nhất rộng về điều trị hiện nay."
+      },
+      "7": {
+        "accepted": [
+          "rule"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "broken a religious rule"
+          }
+        ],
+        "explanation": "Bệnh do thần linh gắn với vi phạm quy tắc tôn giáo."
+      },
+      "8": {
+        "accepted": [
+          "river"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "food from a river where someone had died"
+          }
+        ],
+        "explanation": "Lấy đồ ăn từ sông linh thiêng được coi là xúc phạm."
+      },
+      "9": {
+        "accepted": [
+          "confidence"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "affected Māori confidence in their healers"
+          }
+        ],
+        "explanation": "Không chữa được bệnh mới làm mất niềm tin."
+      },
+      "10": {
+        "accepted": [
+          "schools"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "schools of higher learning"
+          }
+        ],
+        "explanation": "Trường đào tạo thầy thuốc đóng cửa."
+      },
+      "11": {
+        "accepted": [
+          "statistics"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "statistics from the 1970s"
+          }
+        ],
+        "explanation": "Số liệu thập niên 1970 cho thấy sức khỏe Maori kém hơn nhóm khác."
+      },
+      "12": {
+        "accepted": [
+          "clinics"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "work in urban clinics"
+          }
+        ],
+        "explanation": "Thầy thuốc làm ở phòng khám đô thị, đôi khi cùng bác sĩ chính quy."
+      },
+      "13": {
+        "accepted": [
+          "language"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "The Māori language is also seen as important"
+          }
+        ],
+        "explanation": "Nhiều bệnh nhân coi trọng tiếng Maori trong điều trị."
+      }
+    },
+    "lessonSha256": "3bb9687e93d518e66605abcf8d049ae96f6b3bcabadf2924bde250e5d60b0a8a"
+  },
+  "p1-salt": {
+    "lessonId": "p1-salt",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "About 70% is utilized by the chemical industry"
+          }
+        ],
+        "explanation": "Ngành hóa dùng đa số lượng muối toàn cầu."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "as well as from meat"
+          }
+        ],
+        "explanation": "Người xưa có nhiều nguồn muối, không chỉ một."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Solar evaporation was soon followed by the quarrying"
+          }
+        ],
+        "explanation": "Bay hơi mặt trời trước khai thác muối đá."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Two thousand years ago, the Chinese began using wells"
+          }
+        ],
+        "explanation": "Nêu thời điểm dùng giếng nhưng không tốc độ phát triển thiết bị."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "shallow lead pans were used to boil salt water"
+          }
+        ],
+        "explanation": "La Mã đun nước muối trong chảo nông."
+      },
+      "6": {
+        "accepted": [
+          "undercutting"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a procedure known as undercutting"
+          }
+        ],
+        "explanation": "Máy cắt khe ngang qua lớp muối."
+      },
+      "7": {
+        "accepted": [
+          "pillars"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "salt pillars standing to support the roof"
+          }
+        ],
+        "explanation": "Chừa trụ muối đỡ mái."
+      },
+      "8": {
+        "accepted": [
+          "grill"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "via a metal grill"
+          }
+        ],
+        "explanation": "Lưới kim loại thu các mảnh nhỏ."
+      },
+      "9": {
+        "accepted": [
+          "picking"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "what is known as picking"
+          }
+        ],
+        "explanation": "Picking loại tạp chất."
+      },
+      "10": {
+        "accepted": [
+          "metal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "closed metal cylinders"
+          }
+        ],
+        "explanation": "Bình làm từ kim loại."
+      },
+      "11": {
+        "accepted": [
+          "steam"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "tubes heated by steam"
+          }
+        ],
+        "explanation": "Hơi nước làm nóng ống."
+      },
+      "12": {
+        "accepted": [
+          "pressure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "pressure inside to drop"
+          }
+        ],
+        "explanation": "Ngưng tụ làm áp suất giảm."
+      },
+      "13": {
+        "accepted": [
+          "screens"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "screens to sort the salt particles"
+          }
+        ],
+        "explanation": "Sàng phân hạt theo kích thước."
+      }
+    },
+    "lessonSha256": "c161d5bcf9f8d3b63fce7297c64b4fd0a1a5a3424146d598bf46c87cf409601b"
+  },
+  "p1-ice-skating-through-history": {
+    "lessonId": "p1-ice-skating-through-history",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "bottom"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a lake bottom in Switzerland"
+          }
+        ],
+        "explanation": "Tìm ở đáy hồ; địa danh Swedish trong ghi chú cần đối chiếu vì passage nói Switzerland."
+      },
+      "2": {
+        "accepted": [
+          "distribution"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "extensive distribution of similar evidence"
+          }
+        ],
+        "explanation": "Dấu tích phân bố rộng khiến khó xác định nguồn gốc."
+      },
+      "3": {
+        "accepted": [
+          "barriers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "natural barriers"
+          }
+        ],
+        "explanation": "Hồ đông là rào cản cần băng qua."
+      },
+      "4": {
+        "accepted": [
+          "hunting"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "hunting for food"
+          }
+        ],
+        "explanation": "Trượt giúp hoạt động săn tìm thức ăn."
+      },
+      "5": {
+        "accepted": [
+          "surface"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the surface of the animal-bone blades was oily"
+          }
+        ],
+        "explanation": "Mặt xương trơn dầu giảm ma sát."
+      },
+      "6": {
+        "accepted": [
+          "metals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "learned to work with metals"
+          }
+        ],
+        "explanation": "Kim loại thay xương làm lưỡi trượt."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "reproductions made of five variations of skates"
+          }
+        ],
+        "explanation": "Thử nghiệm dùng bản sao các loại giày."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Once they had mastered the necessary movement patterns"
+          }
+        ],
+        "explanation": "Người trượt tập quen giày trước đo."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "took some time to become accustomed"
+          }
+        ],
+        "explanation": "Không có lời nhận xét về mức khó chịu của giày cũ."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "with modern skates, about 30 kph"
+          }
+        ],
+        "explanation": "Trong thử nghiệm đạt 30 km/h, thấp hơn kỷ lục 60 km/h."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "in 1642, one of the earliest skating clubs was formed in Edinburgh"
+          }
+        ],
+        "explanation": "Câu lạc bộ sớm tại Scotland thế kỷ 17."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "four different track lengths"
+          }
+        ],
+        "explanation": "Giải đầu có bốn cự ly, không chỉ một."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "team sports such as ice hockey"
+          }
+        ],
+        "explanation": "Không xếp hockey là sự kiện Olympic phổ biến nhất."
+      }
+    },
+    "lessonSha256": "f45be1793bd0a9dcba0507fa31a338530866681ce0c92cc0c2d9a29796d2c4d3"
+  }
+}

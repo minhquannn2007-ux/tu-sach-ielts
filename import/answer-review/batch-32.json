@@ -1,0 +1,502 @@
+{
+  "p1-city-transport-uneven-progress": {
+    "lessonId": "p1-city-transport-uneven-progress",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the predominant form of surface public transport"
+          }
+        ],
+        "explanation": "B nói bus trở thành phương tiện đô thị chủ đạo."
+      },
+      "2": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "encourage city growth"
+          }
+        ],
+        "explanation": "C nói đường sắt thúc đẩy mở rộng đô thị."
+      },
+      "3": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Despite the discomfort"
+          }
+        ],
+        "explanation": "D nêu cả thành công và khói khó chịu của tàu ngầm đầu tiên."
+      },
+      "4": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "electric locomotives"
+          }
+        ],
+        "explanation": "E nêu tàu điện giải quyết khói."
+      },
+      "5": {
+        "accepted": [
+          "x"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "over thirty of the world’s great cities"
+          }
+        ],
+        "explanation": "F mô tả mạng tàu ngầm lan ra nhiều thành phố."
+      },
+      "6": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "This particular problem was solved"
+          }
+        ],
+        "explanation": "G giải quyết vấn đề lên xuống băng chuyền đi bộ."
+      },
+      "7": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Both schemes came to nothing"
+          }
+        ],
+        "explanation": "H kể bùng nổ ở triển lãm rồi dự án đường dài không thành."
+      },
+      "8": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "horse-drawn buses were not quickly superseded"
+          }
+        ],
+        "explanation": "Bus động cơ không thành công thay bus ngựa ngay."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the draught horse swiftly approached the end"
+          }
+        ],
+        "explanation": "Không nêu công chúng cho bus ngựa quá chậm."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "an important part in urban transport"
+          }
+        ],
+        "explanation": "Không so vai trò tăng trưởng đô thị của tàu với bus."
+      },
+      "11": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "an immediate and lasting success"
+          }
+        ],
+        "explanation": "Tàu ngầm London phổ biến từ đầu."
+      },
+      "12": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "steam locomotives"
+          }
+        ],
+        "explanation": "Tuyến đầu dùng hơi nước; điện chỉ xuất hiện sau."
+      },
+      "13": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "no serious mishap"
+          }
+        ],
+        "explanation": "Cải tiến giải quyết vấn đề an toàn, tuyến Paris chở triệu người không sự cố nghiêm trọng."
+      }
+    },
+    "lessonSha256": "ee1f52af8bc1608125793d78f46d1991681135ceaedcb529899ab037e748c74b"
+  },
+  "p1-back-to-the-wild": {
+    "lessonId": "p1-back-to-the-wild",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a plan by the World Wildlife Fund"
+          }
+        ],
+        "explanation": "Không cho số dự án ngựa toàn cầu WWF hỗ trợ."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "animal skins and bones were brought for examination"
+          }
+        ],
+        "explanation": "Nhận loài qua da xương, không cá thể sống."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "only a few specimens made their way into zoos"
+          }
+        ],
+        "explanation": "Bắt và vận chuyển khó nên ít cá thể vào sở thú."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "selected for its resemblance"
+          }
+        ],
+        "explanation": "Vùng Pháp được chọn vì giống cảnh quan Mông Cổ."
+      },
+      "5": {
+        "accepted": [
+          "1969"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "vanished from the wild in Mongolia in 1969"
+          }
+        ],
+        "explanation": "Từ 1969 không còn hoang dã, chỉ nuôi nhốt."
+      },
+      "6": {
+        "accepted": [
+          "genetic compatibility"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "on the basis of their genetic compatibility"
+          }
+        ],
+        "explanation": "Chọn 11 con vì tương hợp di truyền."
+      },
+      "7": {
+        "accepted": [
+          "two generations",
+          "2 generations"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "within two generations"
+          }
+        ],
+        "explanation": "Tính hung hăng đổi trong hai thế hệ."
+      },
+      "8": {
+        "accepted": [
+          "13,000 hectares",
+          "13000 hectares",
+          "13 000 hectares"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "13,000 hectares"
+          }
+        ],
+        "explanation": "Được thả trên 13.000 hecta."
+      },
+      "9": {
+        "accepted": [
+          "Wild Horse Mesh"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the 'Wild Horse Mesh'"
+          }
+        ],
+        "explanation": "Tên kế hoạch rộng hơn là Wild Horse Mesh."
+      },
+      "10": {
+        "accepted": [
+          "a genetic reservoir",
+          "genetic reservoir"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a genetic reservoir"
+          }
+        ],
+        "explanation": "Đàn Pháp là nguồn dự trữ di truyền khi có thiên tai dịch bệnh."
+      },
+      "11": {
+        "accepted": [
+          "grazing pressure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "pasture decline due to grazing pressure"
+          }
+        ],
+        "explanation": "Áp lực chăn thả làm đồng cỏ suy giảm."
+      },
+      "12": {
+        "accepted": [
+          "three",
+          "3"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "brings to three the number"
+          }
+        ],
+        "explanation": "Có ba nhóm tái thả tại Mông Cổ."
+      },
+      "13": {
+        "accepted": [
+          "competition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "studies in competition"
+          }
+        ],
+        "explanation": "Các nghiên cứu khác thiên về cạnh tranh hơn hợp tác."
+      }
+    },
+    "lessonSha256": "aeb538977b011dfa4b1c3540ba6f32f59998ca1dab541d8b94435ffa2406adf1"
+  },
+  "p1-caral-an-ancient-south-american-city": {
+    "lessonId": "p1-caral-an-ancient-south-american-city",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a thriving metropolis when Egypt's great pyramids were still being built"
+          }
+        ],
+        "explanation": "Caral đã là đô thị phát triển cùng giai đoạn xây kim tự tháp Ai Cập."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "it meant Caral could be what archaeologists term pre-ceramic"
+          }
+        ],
+        "explanation": "Không có đồ gốm gợi tuổi rất sớm, trước kỹ thuật nung gốm."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "stones from a nearby quarry"
+          }
+        ],
+        "explanation": "Đá từ mỏ gần, không xa."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Thousands of manual laborers would have been needed"
+          }
+        ],
+        "explanation": "Cần hàng nghìn lao động cùng kiến trúc sư và quản lý."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Clearly music played an important role"
+          }
+        ],
+        "explanation": "Nhạc quan trọng không chứng minh kỹ năng âm nhạc rất cao."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a hierarchy of living arrangements"
+          }
+        ],
+        "explanation": "Có phân tầng nhà ở cho tầng lớp tinh hoa, thợ và lao động."
+      },
+      "7": {
+        "accepted": [
+          "seeds"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "seeds of the cocoa bush"
+          }
+        ],
+        "explanation": "Có hạt thực vật không bản địa."
+      },
+      "8": {
+        "accepted": [
+          "shells"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "necklaces of shells"
+          }
+        ],
+        "explanation": "Vỏ sò dùng làm trang sức."
+      },
+      "9": {
+        "accepted": [
+          "fish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "bones of small edible fish"
+          }
+        ],
+        "explanation": "Cá có nguồn từ bờ biển, không Caral."
+      },
+      "10": {
+        "accepted": [
+          "canals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "rivers into canals, which still cross the Supe Valley today"
+          }
+        ],
+        "explanation": "Kênh còn lại cho thấy chuyển nước tưới."
+      },
+      "11": {
+        "accepted": [
+          "maize"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "no traces of maize"
+          }
+        ],
+        "explanation": "Không thấy ngô."
+      },
+      "12": {
+        "accepted": [
+          "cotton"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "grew the cotton that the fishermen needed"
+          }
+        ],
+        "explanation": "Nông dân đổi bông cho người đánh cá làm lưới."
+      },
+      "13": {
+        "accepted": [
+          "flotation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "as flotation devices for their nets"
+          }
+        ],
+        "explanation": "Bí khô giúp lưới nổi."
+      }
+    },
+    "lessonSha256": "7031fc11b0e2643fad5f4ebadc13ed7ad280629d9c3760aec4bf11d126aa893d"
+  }
+}

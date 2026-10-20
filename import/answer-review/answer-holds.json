@@ -118,6 +118,40 @@
       "reason": "The table asks what Hallucigenia used its spines to do, but the published passage only mentions spines and tentacles and gives no function. The opening sentence also contains damaged text (“fossil bed known as the ago”).",
       "needed": "Compare the full original passage/table and restore any omitted description before approving the solution.",
       "answerApproved": false
+    },
+    {
+      "lessonId": "p1-tyrannosaur-rex-a-new-theory",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "reason": "The published T-Rex passage is paired with seven TRUE/FALSE/NOT GIVEN statements about the Koh-i-Noor diamond and an exhibition building. These questions belong to a different reading and cannot be answered from this passage.",
+      "needed": "Restore the correct Q1–7 from the original T-Rex task; do not grade the unrelated statements as NOT GIVEN.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-el-nino-unusual-weather-in-the-pacific",
+      "questions": [
+        2,
+        4
+      ],
+      "reason": "The paragraph on Conrad measurements contains damaged text (“the main responsible”, “they took were anomalies”, contradictory rejection wording). Q2 also compares the timing of the temperature change while the earlier paragraph describes the time of peak intensity. Exact original wording is needed to avoid conflating onset with peak or inferring the data workflow.",
+      "needed": "Compare original paragraph 1 and Q2/Q4 before finalising the TRUE/FALSE/NOT GIVEN answers.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-the-secret-of-a-long-life",
+      "questions": [
+        7
+      ],
+      "reason": "Q7 asks for the number of female baboons studied (45), but the published task permits ONE WORD ONLY rather than a number. The source instruction needs checking before certifying the complete key.",
+      "needed": "Verify the original note instruction permits a numerical answer; preserve the supported number 45.",
+      "answerApproved": false
     }
   ]
 }

@@ -1,0 +1,499 @@
+{
+  "p1-dyes-and-fabric-dyeing": {
+    "lessonId": "p1-dyes-and-fabric-dyeing",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "cave paintings, to over 15,000 BCE"
+          }
+        ],
+        "explanation": "Tranh dùng ochre sớm hơn vải thời định cư."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Most natural dyes are adjective dyes"
+          }
+        ],
+        "explanation": "Đa số cần mordant, không hiếm."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "in both dyed and natural colors"
+          }
+        ],
+        "explanation": "Trung cổ có mặc len màu tự nhiên chưa nhuộm."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Cotton was considered a luxury fabric"
+          }
+        ],
+        "explanation": "Không so giá lụa luôn cao hơn bông và len."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "dyed before it was shipped"
+          }
+        ],
+        "explanation": "Vải bông đã nhuộm ở Ấn trước xuất, không khi tới châu Âu."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "student of celebrated European scientist"
+          }
+        ],
+        "explanation": "Không so danh tiếng Perkin và Hofmann."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a new synthetic dye being patented"
+          }
+        ],
+        "explanation": "Liên tục có thuốc nhuộm mới trong nửa sau thế kỷ 19, không rất ít."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "only exists in a few remote areas"
+          }
+        ],
+        "explanation": "Sản xuất tự nhiên thương mại còn ở ít vùng xa."
+      },
+      "9": {
+        "accepted": [
+          "shellfish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "certain species of shellfish"
+          }
+        ],
+        "explanation": "Tyrian purple từ nhầy động vật có vỏ."
+      },
+      "10": {
+        "accepted": [
+          "insects"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "cochineal was extracted from insects"
+          }
+        ],
+        "explanation": "Cochineal từ côn trùng."
+      },
+      "11": {
+        "accepted": [
+          "blackberries"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "picked blackberries to make jam"
+          }
+        ],
+        "explanation": "Mâm xôi vừa làm mứt vừa thuốc nhuộm xanh."
+      },
+      "12": {
+        "accepted": [
+          "beehives"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Washing beehives"
+          }
+        ],
+        "explanation": "Nước rửa tổ ong làm mead và màu vàng."
+      },
+      "13": {
+        "accepted": [
+          "chemistry"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "rise of interest in chemistry"
+          }
+        ],
+        "explanation": "Hóa học thúc đẩy thuốc nhuộm tổng hợp."
+      }
+    },
+    "lessonSha256": "9fe8582d136792db09618475382f7c29ecb3eb9bdd2e05e1704ecd1e195d9e12"
+  },
+  "p1-pluto-seen-up-close-for-the-first-time": {
+    "lessonId": "p1-pluto-seen-up-close-for-the-first-time",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "never been seen so close-up and with such precision"
+          }
+        ],
+        "explanation": "Cung cấp ảnh gần và rõ chưa từng có."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a small area near Pluto’s equator"
+          }
+        ],
+        "explanation": "Chỉ ảnh một vùng có núi, không nói đa số núi ở xích đạo."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "doesn’t resemble anything else in the solar system"
+          }
+        ],
+        "explanation": "Sao Diêm Vương khác mọi vật thể khác trong hệ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "dramatically different terrains"
+          }
+        ],
+        "explanation": "Các vùng bề mặt rất khác nhau."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "objects in the Kuiper Belt"
+          }
+        ],
+        "explanation": "Không nói dự án tương lai nghiên cứu Kuiper."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "could see the heart very far from Pluto"
+          }
+        ],
+        "explanation": "Tombaugh sáng rõ từ xa."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "have not given good clues as to the make-up"
+          }
+        ],
+        "explanation": "Chưa hiểu rõ thành phần các vùng tối xung quanh."
+      },
+      "8": {
+        "accepted": [
+          "dark pole",
+          "pole"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "a mysterious dark pole"
+          }
+        ],
+        "explanation": "Vật liệu thoát từ Pluto có thể tạo cực tối Charon."
+      },
+      "9": {
+        "accepted": [
+          "surface"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "surface is not ancient"
+          }
+        ],
+        "explanation": "Bề mặt không cổ như dự kiến."
+      },
+      "10": {
+        "accepted": [
+          "active"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "might also be an active world"
+          }
+        ],
+        "explanation": "Ít hố va chạm gợi còn hoạt động."
+      },
+      "11": {
+        "accepted": [
+          "collision"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "a giant collision with Pluto"
+          }
+        ],
+        "explanation": "Có thể hình thành qua va chạm lớn."
+      },
+      "12": {
+        "accepted": [
+          "water ice"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "primarily of water ice"
+          }
+        ],
+        "explanation": "Hydra có thể chủ yếu băng nước."
+      },
+      "13": {
+        "accepted": [
+          "planetary system"
+        ],
+        "evidence": [
+          {
+            "paragraph": 12,
+            "quote": "a tiny, complex planetary system"
+          }
+        ],
+        "explanation": "Ví như hệ hành tinh thu nhỏ."
+      }
+    },
+    "lessonSha256": "3a676766a9c0e4afeed961548e97037b3e217487b009440ecd0475adb86d149e"
+  },
+  "p1-effect-and-cause": {
+    "lessonId": "p1-effect-and-cause",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "in the vicinity of a place called Tauredunum"
+          }
+        ],
+        "explanation": "Đá lở gần Tauredunum theo Gregory."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "bridge was demolished"
+          }
+        ],
+        "explanation": "Cầu bị phá và người trong thành chết, không nguyên vẹn."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Marius of Avenches, who told a similar tale"
+          }
+        ],
+        "explanation": "Marius kể tương tự, hỗ trợ giả thuyết sóng thần."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "large boulders"
+          }
+        ],
+        "explanation": "Nêu đá lớn, không độ cứng hoặc mật độ."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "cites evidence"
+          }
+        ],
+        "explanation": "Không nêu ông xuất bản nghiên cứu ở nhiều nước."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "collapse of part of the shoreline"
+          }
+        ],
+        "explanation": "Bờ Tahoe từng sụp trong khoảng 20.000 năm, không bất biến."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "many living in low-lying areas near the water"
+          }
+        ],
+        "explanation": "Ngày nay nhiều người sống thấp gần hồ hơn xưa ở đồi."
+      },
+      "8": {
+        "accepted": [
+          "floods"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "evidence of major floods"
+          }
+        ],
+        "explanation": "Ban đầu tìm dấu lũ tiền sử."
+      },
+      "9": {
+        "accepted": [
+          "leaves"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "remains of leaves"
+          }
+        ],
+        "explanation": "Lấy lá và chất hữu cơ định tuổi."
+      },
+      "10": {
+        "accepted": [
+          "seventh",
+          "7th"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "early seventh century"
+          }
+        ],
+        "explanation": "Mốc muộn nhất là đầu thế kỷ 7."
+      },
+      "11": {
+        "accepted": [
+          "estimated"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The researchers estimated"
+          }
+        ],
+        "explanation": "Nhóm ước tính thể tích trầm tích."
+      },
+      "12": {
+        "accepted": [
+          "height"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "an estimated height of 7.9 metres"
+          }
+        ],
+        "explanation": "Mô phỏng tính độ cao và thời gian di chuyển."
+      },
+      "13": {
+        "accepted": [
+          "earthquake"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a major earthquake"
+          }
+        ],
+        "explanation": "Động đất lớn có thể kích đá lở."
+      }
+    },
+    "lessonSha256": "f8b7b112905eb7356680a3169be24bd90e511a8183754cb3883fcc86d7cf6d2a"
+  }
+}

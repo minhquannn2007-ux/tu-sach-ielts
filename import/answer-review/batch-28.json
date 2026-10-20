@@ -1,0 +1,497 @@
+{
+  "p1-the-explorations-of-matthew-flinders": {
+    "lessonId": "p1-the-explorations-of-matthew-flinders",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "inspired by his reading of the novel Robinson Crusoe"
+          }
+        ],
+        "explanation": "Tiểu thuyết gợi ước muốn đi biển."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "sailed around Van Diemen's Land"
+          }
+        ],
+        "explanation": "Không nói quan sát động vật ở Tasmania."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "his first command, HMS Investigator"
+          }
+        ],
+        "explanation": "Lần chỉ huy đầu là Investigator, không Bellerophon."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "would not permit it"
+          }
+        ],
+        "explanation": "Hải quân không cho vợ đi cùng."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "useful information about fresh water and food"
+          }
+        ],
+        "explanation": "Cung cấp thông tin hữu ích cho thuyền trưởng Pháp."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Unable to make the necessary repairs"
+          }
+        ],
+        "explanation": "Không nêu ý muốn của thủy thủ đoàn về sửa trước khi đi tiếp."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "forced to abandon the mapping task"
+          }
+        ],
+        "explanation": "Phải bỏ nhiệm vụ vẽ bản đồ; hoàn thành đi vòng không đồng nghĩa vẽ hết bờ biển."
+      },
+      "8": {
+        "accepted": [
+          "navy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "signed on with the navy"
+          }
+        ],
+        "explanation": "Gia nhập hải quân."
+      },
+      "9": {
+        "accepted": [
+          "Tasmania"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "present-day Tasmania"
+          }
+        ],
+        "explanation": "Chứng minh Tasmania là đảo."
+      },
+      "10": {
+        "accepted": [
+          "married"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Flinders married Ann Chappell"
+          }
+        ],
+        "explanation": "Kết hôn khi ở Anh năm 1801."
+      },
+      "11": {
+        "accepted": [
+          "southern"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "southern coast of Australia"
+          }
+        ],
+        "explanation": "Bắt đầu bản đồ bờ nam Australia."
+      },
+      "12": {
+        "accepted": [
+          "lifeboat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the ship's lifeboat"
+          }
+        ],
+        "explanation": "Quay về Port Jackson bằng xuồng cứu sinh."
+      },
+      "13": {
+        "accepted": [
+          "published"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "published in July 1814"
+          }
+        ],
+        "explanation": "Sách hành trình được xuất bản năm 1814."
+      }
+    },
+    "lessonSha256": "03af49c51d967dec7ae443897fa14ccdc8274026f97653505352cc01049950ef"
+  },
+  "p1-australias-cane-toad-problem": {
+    "lessonId": "p1-australias-cane-toad-problem",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "beetle"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a species of beetle"
+          }
+        ],
+        "explanation": "Ấu trùng bọ cánh cứng gây hại mía."
+      },
+      "2": {
+        "accepted": [
+          "roots"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "their roots were eaten"
+          }
+        ],
+        "explanation": "Ấu trùng ăn rễ cây."
+      },
+      "3": {
+        "accepted": [
+          "expensive"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "not only expensive"
+          }
+        ],
+        "explanation": "Hóa chất đắt và có độc, tồn lưu môi trường."
+      },
+      "4": {
+        "accepted": [
+          "gardeners"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "sold to gardeners at markets in Paris"
+          }
+        ],
+        "explanation": "Người làm vườn Pháp mua cóc ăn sâu."
+      },
+      "5": {
+        "accepted": [
+          "moth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a moth from Argentina"
+          }
+        ],
+        "explanation": "Bướm đêm kiểm soát xương rồng prickly pear."
+      },
+      "6": {
+        "accepted": [
+          "Hawaii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "101 cane toads from Hawaii"
+          }
+        ],
+        "explanation": "Cóc đưa vào Australia từ Hawaii."
+      },
+      "7": {
+        "accepted": [
+          "failure"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the cane toads were a failure"
+          }
+        ],
+        "explanation": "Biện pháp thất bại vì cóc không bắt được bọ chủ yếu bay."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "over the following years it became clear"
+          }
+        ],
+        "explanation": "Phải qua các năm mới rõ hậu quả, không ngay lập tức."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "as great a pest in Australia as rabbits"
+          }
+        ],
+        "explanation": "Chỉ so với thỏ như loài gây hại, không nói lý do nhập thỏ."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Froggatt’s peers rebuked him"
+          }
+        ],
+        "explanation": "Froggatt bị đồng nghiệp chỉ trích vì phản đối."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Average-sized adults are 10-15 cm long"
+          }
+        ],
+        "explanation": "Có kích thước hiện tại, không so thay đổi từ khi du nhập."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "have died after eating cane toads"
+          }
+        ],
+        "explanation": "Động vật bản địa có thể chết khi ăn cóc."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "taking over more and more of the land"
+          }
+        ],
+        "explanation": "Cóc chiếm ngày càng nhiều sinh cảnh bản địa."
+      }
+    },
+    "lessonSha256": "07a363cf794df4cc48b0591039bbc336f80f17e0661d6d758a8af022e63a5a5a"
+  },
+  "p1-the-whale-goes-to-court": {
+    "lessonId": "p1-the-whale-goes-to-court",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "an old law"
+          }
+        ],
+        "explanation": "Năm 1818 áp dụng luật cũ, không mới ban hành."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "no inspection was necessary because it was whale oil"
+          }
+        ],
+        "explanation": "Judd cho dầu cá voi không thuộc đối tượng thu phí dầu cá."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "refused to pay the inspection fee"
+          }
+        ],
+        "explanation": "Không nêu từng có rắc rối với chính quyền trước đó."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "public debate in New York sparked off by the trial was sensational"
+          }
+        ],
+        "explanation": "Vụ án tạo tranh luận công chúng sôi nổi."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "categories of birds, beasts, or fish"
+          }
+        ],
+        "explanation": "Cách truyền thống chia ba nhóm."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "whales swam in the sea and therefore they were fish"
+          }
+        ],
+        "explanation": "Không xếp cá là dạng sống thấp nhất theo người thường."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "classified whales as mammals"
+          }
+        ],
+        "explanation": "Linnaeus có phân loại cá voi là thú, không loại khỏi hệ."
+      },
+      "8": {
+        "accepted": [
+          "lecturer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a renowned natural history lecturer"
+          }
+        ],
+        "explanation": "Mitchill là nghị sĩ và giảng viên."
+      },
+      "9": {
+        "accepted": [
+          "whalers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "asking plain-spoken whalers"
+          }
+        ],
+        "explanation": "Sampson gọi người săn cá voi trình bày."
+      },
+      "10": {
+        "accepted": [
+          "Europe"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "their origin in Europe"
+          }
+        ],
+        "explanation": "Nguồn gốc châu Âu của ý tưởng khiến công dân khó chịu."
+      },
+      "11": {
+        "accepted": [
+          "merchants"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the merchants implicitly understood"
+          }
+        ],
+        "explanation": "Lời thương nhân phân biệt hai loại dầu giúp Judd thắng theo passage."
+      },
+      "12": {
+        "accepted": [
+          "fuel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a fuel for lamps"
+          }
+        ],
+        "explanation": "Dầu cá voi là nhiên liệu đèn cháy không khói."
+      },
+      "13": {
+        "accepted": [
+          "climate"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "effects of human activity on the climate"
+          }
+        ],
+        "explanation": "Vụ án vẫn liên quan tranh luận khí hậu."
+      }
+    },
+    "lessonSha256": "c18fd6b3bddc5fe0107d99e1ab421fbc183419aaccfcdb82ad590d90ab909c62"
+  }
+}

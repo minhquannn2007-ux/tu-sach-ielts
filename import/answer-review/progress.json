@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T13:03:57.058Z",
-  "totalLessons": 733,
-  "reviewedLessons": 77,
-  "reviewedAnswers": 1015,
+  "updatedAt": "2026-10-20T13:14:26.574Z",
+  "totalLessons": 741,
+  "reviewedLessons": 102,
+  "reviewedAnswers": 1340,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 652,
+  "pendingSolutions": 635,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -111,7 +111,7 @@
       "title": "A look at the history of poetry",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-a-mechanical-friend-for-children",
@@ -461,7 +461,7 @@
       "title": "Australia’s cane toad problem",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-australias-megafauna-controversy",
@@ -524,7 +524,7 @@
       "title": "Back to the wild",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-back-to-their-roots",
@@ -608,7 +608,7 @@
       "title": "Bodie: America’s Most Famous Ghost Town",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-bondi",
@@ -783,7 +783,7 @@
       "title": "Caral: an ancient South American city",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-carnivorous-plants",
@@ -888,7 +888,7 @@
       "title": "CITY TRANSPORT: UNEVEN PROGRESS",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-clarence-birdseye-and-the-development-of-frozen-food",
@@ -1006,6 +1006,13 @@
       "id": "p2-corporate-social-responsibility",
       "title": "Corporate social responsibility",
       "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-couran-cove-resort",
+      "title": "Couran Cove Resort",
+      "part": 1,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -1210,7 +1217,7 @@
       "title": "Dyes and Fabric Dyeing",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-early-approaches-to-organisational-design",
@@ -1231,7 +1238,7 @@
       "title": "Effect and Cause",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-effects-of-changes-in-world-population",
@@ -1257,6 +1264,13 @@
     {
       "id": "p1-energy-from-the-oceans",
       "title": "Energy from the oceans",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-ensuring-our-future-food-supply",
+      "title": "Ensuring our future food supply",
       "part": 1,
       "questions": 13,
       "status": "pending-solution"
@@ -1301,7 +1315,7 @@
       "title": "Faster Trains for China",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-fazioli-pianos",
@@ -1392,6 +1406,13 @@
       "title": "Fruits of the Forest",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-fungi-a-new-sustainable-alternative",
+      "title": "Fungi: a new sustainable alternative",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -1609,7 +1630,7 @@
       "title": "How to be happy",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-how-to-be-happy",
@@ -1665,7 +1686,7 @@
       "title": "Ice Skating Through History",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-icebergs-as-a-water-source",
@@ -1819,7 +1840,7 @@
       "title": "Katsushika Hokusai",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-keeping-an-eye-on-shoppers",
@@ -1875,7 +1896,7 @@
       "title": "Learning by example: evidence from studies of rats and birds",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-learning-from-the-romans",
@@ -1955,6 +1976,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-listening-to-the-ocean",
+      "title": "Listening to the Ocean",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-literacy-and-rural-communities-in-australia",
       "title": "Literacy and Rural Communities in Australia",
       "part": 3,
@@ -1980,7 +2008,7 @@
       "title": "Living walls – a successful environmental project",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-living-with-uncertainty",
@@ -2568,7 +2596,7 @@
       "title": "Pluto Seen up Close for the First Time",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-power-from-the-sea",
@@ -2813,7 +2841,7 @@
       "title": "Salt",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-san-francisco-museum-of-modern-art",
@@ -3114,7 +3142,7 @@
       "title": "Supplying drinking water to Australian households",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-surviving-the-winter-hibernation-and-other-resting-states",
@@ -3572,6 +3600,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-the-dunedin-study",
+      "title": "The Dunedin study",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-the-early-days-of-oil-production",
       "title": "The early days of oil production",
       "part": 1,
@@ -3611,7 +3646,7 @@
       "title": "The explorations of Matthew Flinders",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-extinction-of-the-cave-bear",
@@ -3835,7 +3870,7 @@
       "title": "The history of the pencil",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-pencil",
@@ -3989,7 +4024,7 @@
       "title": "The life of Beatrix Potter",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-life-of-louis-braille",
@@ -4171,7 +4206,7 @@
       "title": "The origins of rodeo: a competitive sport",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-origins-of-scottish-brochs",
@@ -4304,7 +4339,7 @@
       "title": "The Pyramid of Cestius",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-rebirth-of-the-circus",
@@ -4549,7 +4584,7 @@
       "title": "The Whale Goes to Court",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-wooden-huts-of-antarctica",
@@ -4626,7 +4661,7 @@
       "title": "Traditional Māori Medicine",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-traditional-pearl-diving-practices-off-the-coast-of-bahrain",
@@ -4654,7 +4689,7 @@
       "title": "Transport and transport systems during the Roman Empire",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-travel-writing",
@@ -4681,6 +4716,13 @@
       "id": "p2-treasures-of-the-deep",
       "title": "Treasures of the deep",
       "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-treasures-of-the-forbidden-zone",
+      "title": "Treasures of the forbidden zone",
+      "part": 1,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -4892,6 +4934,20 @@
       "title": "What kind of structure will make living in space comfortable for us?",
       "part": 2,
       "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-what-lucy-taught-us",
+      "title": "What Lucy Taught Us",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-what-makes-a-musical-expert",
+      "title": "What makes a musical expert?",
+      "part": 3,
+      "questions": 14,
       "status": "pending-solution"
     },
     {

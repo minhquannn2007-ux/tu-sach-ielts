@@ -1,0 +1,497 @@
+{
+  "p1-faster-trains-for-china": {
+    "lessonId": "p1-faster-trains-for-china",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "nearly twice as many passengers"
+          }
+        ],
+        "explanation": "Tàu có gần gấp đôi lượt khách hàng không nội địa, không chỉ gần bằng."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "almost invariably punctual, if not early"
+          }
+        ],
+        "explanation": "Tàu hầu như luôn đúng giờ hoặc sớm."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "one reason for the country's continued economic development"
+          }
+        ],
+        "explanation": "Đường sắt góp phần duy trì tăng trưởng."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "within a couple of hours' train ride"
+          }
+        ],
+        "explanation": "Không nói làm việc trực tiếp với khách ngay trên tàu."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "in addition to the usual arguments"
+          }
+        ],
+        "explanation": "Nêu nhiều lợi ích nhưng không xếp tiết kiệm thời gian trên lợi ích kinh tế."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "day trips to factories in smaller cities"
+          }
+        ],
+        "explanation": "Nhân viên R&D từ thành phố lớn tới nhà máy nhỏ, không chiều ngược lại trong phát biểu."
+      },
+      "7": {
+        "accepted": [
+          "suburbs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "situated in suburbs"
+          }
+        ],
+        "explanation": "Ga và khu mới thường ở ngoại ô."
+      },
+      "8": {
+        "accepted": [
+          "population"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "at least four times the population"
+          }
+        ],
+        "explanation": "Dân số lớn tạo lợi thế so với Mỹ."
+      },
+      "9": {
+        "accepted": [
+          "debt"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "overall rail debt"
+          }
+        ],
+        "explanation": "Vốn vay tư tạo nợ đường sắt cao."
+      },
+      "10": {
+        "accepted": [
+          "fuel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the price of jet fuel has risen"
+          }
+        ],
+        "explanation": "Nhiên liệu hàng không tăng giá."
+      },
+      "11": {
+        "accepted": [
+          "flights"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "reduced the quantity of flights"
+          }
+        ],
+        "explanation": "Hãng bay giảm chuyến chặng ngắn."
+      },
+      "12": {
+        "accepted": [
+          "suppliers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "look deeper in China for suppliers"
+          }
+        ],
+        "explanation": "Doanh nhân ngoại tìm nhà cung ứng sâu trong nội địa."
+      },
+      "13": {
+        "accepted": [
+          "investment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "reliance on investment to stimulate growth"
+          }
+        ],
+        "explanation": "Bị phê bình phụ thuộc đầu tư để kích tăng trưởng."
+      }
+    },
+    "lessonSha256": "1d8f502d9410aa8d3d892dbb97906da96f626613f8b4fd36d44c12d79ed3cb5d"
+  },
+  "p1-the-pyramid-of-cestius": {
+    "lessonId": "p1-the-pyramid-of-cestius",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "has never attracted nearly as much interest"
+          }
+        ],
+        "explanation": "Kim tự tháp ít thu hút hơn các di tích nổi tiếng khác."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "within a period of 330 days"
+          }
+        ],
+        "explanation": "Có hạn hoàn thành, không đối chiếu ngày chết Cestius."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a tomb for one of the twin brothers Romulus and Remus"
+          }
+        ],
+        "explanation": "Thời trung cổ cho là mộ một người sáng lập Rome."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "could easily fail to notice its full height"
+          }
+        ],
+        "explanation": "Dễ không nhận thấy hết chiều cao, không lập tức chú ý."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Our company has grown thanks to Italy"
+          }
+        ],
+        "explanation": "Biết ơn Italy không nêu ngưỡng mộ hai phong cách kiến trúc."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "completed ahead of schedule"
+          }
+        ],
+        "explanation": "Trùng tu xong sớm hơn dự kiến."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the majority have disappeared over time"
+          }
+        ],
+        "explanation": "Phần lớn fresco đã mất."
+      },
+      "8": {
+        "accepted": [
+          "brick"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "constructed from brick"
+          }
+        ],
+        "explanation": "Xây bằng gạch và xi măng, ngoài cẩm thạch."
+      },
+      "9": {
+        "accepted": [
+          "shape"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the shape of Cestius' pyramid"
+          }
+        ],
+        "explanation": "Dáng dốc khác kim tự tháp Ai Cập."
+      },
+      "10": {
+        "accepted": [
+          "countryside"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "would have stood in countryside"
+          }
+        ],
+        "explanation": "Ban đầu ngoài thành phố do luật cấm mộ nội đô."
+      },
+      "11": {
+        "accepted": [
+          "statues"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "fragments of bronze statues"
+          }
+        ],
+        "explanation": "Tìm thấy mảnh tượng đồng."
+      },
+      "12": {
+        "accepted": [
+          "tunnel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "come across a tunnel"
+          }
+        ],
+        "explanation": "Đường hầm gợi có trộm mộ."
+      },
+      "13": {
+        "accepted": [
+          "pollution"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "remove the layer of urban pollution"
+          }
+        ],
+        "explanation": "Người leo làm sạch ô nhiễm bám ngoài."
+      }
+    },
+    "lessonSha256": "97163efa72209e0b01332efac610c3d3a8708b9ffa9e97ff0461d9e5f09d1bf3"
+  },
+  "p1-how-to-be-happy": {
+    "lessonId": "p1-how-to-be-happy",
+    "reviewed": true,
+    "reviewedAt": "2026-10-20",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "three elements to happiness"
+          }
+        ],
+        "explanation": "A giới thiệu nguồn và thành phần hạnh phúc."
+      },
+      "2": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "stronger immune systems"
+          }
+        ],
+        "explanation": "B nói lợi ích sức khỏe và sống lâu."
+      },
+      "3": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "compare ourselves with others"
+          }
+        ],
+        "explanation": "C xem tác động so sánh thu nhập."
+      },
+      "4": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "strong genetic component"
+          }
+        ],
+        "explanation": "D nêu gene và hoạt động não."
+      },
+      "5": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "two major barriers"
+          }
+        ],
+        "explanation": "E xem xe hơi và truyền thông trong đời sống hiện đại."
+      },
+      "6": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "vital aspect of future happiness"
+          }
+        ],
+        "explanation": "Flow đem hài lòng về sau, không nhất thiết niềm vui tức thì."
+      },
+      "7": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "more than everyone else"
+          }
+        ],
+        "explanation": "Sinh viên thích kiếm hơn người khác dù số tuyệt đối thấp hơn."
+      },
+      "8": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "threatening places"
+          }
+        ],
+        "explanation": "Người ta có thể cảm thấy khu mình ở mang tính đe dọa."
+      },
+      "9": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "family and a small group of others"
+          }
+        ],
+        "explanation": "Quan hệ thân thiết với một nhóm nhỏ góp hạnh phúc."
+      },
+      "10": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "correlation with how long each nun lived"
+          }
+        ],
+        "explanation": "Nghiên cứu nữ tu liên hệ hạnh phúc và tuổi thọ."
+      },
+      "11": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "identical twins brought up apart"
+          }
+        ],
+        "explanation": "Sinh đôi nuôi khác nơi cho thấy môi trường không quyết định toàn bộ."
+      },
+      "12": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "more of this left brain activity"
+          }
+        ],
+        "explanation": "Người vui có hoạt động trán trái mạnh hơn."
+      },
+      "13": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "not got any happier since 1950"
+          }
+        ],
+        "explanation": "Điều kiện tiện nghi tăng nhưng hạnh phúc không nhất thiết tăng."
+      }
+    },
+    "lessonSha256": "b8225f851ad5aceeb0c1ca4f710b4199ae3ae1bdd3bc7db0fe197a6f2b287024"
+  }
+}
