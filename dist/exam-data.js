@@ -23,6 +23,7 @@
    if(g.questions!==undefined&&(!Array.isArray(g.questions)||g.questions.some(q=>!q||typeof q!=='object'))){errors.push('Invalid question list');continue}
    if([g.bank,g.options,...(g.questions||[]).map(q=>q.options)].filter(v=>v!==undefined).some(b=>!Array.isArray(b)||b.some(o=>!o||typeof o!=='object'))){errors.push('Invalid option bank');continue}
    if(g.content!==undefined&&!Array.isArray(g.content)){errors.push('Invalid completion content');continue}
+   if(g.contentHeadings!==undefined&&(!Array.isArray(g.contentHeadings)||g.contentHeadings.some(i=>!Number.isInteger(i)||i<0||i>=(g.content?.length||0))))errors.push('Invalid completion subheading');
    if(g.noteLayout&&(!Array.isArray(g.noteLayout.rows)||g.noteLayout.rows.some(r=>!r||!Array.isArray(r.runs)||r.runs.some(t=>!t||typeof t.text!=='string')))){errors.push('Invalid source note layout');continue}
    if(typeof g.sourceInstructions!=='string'){errors.push('Missing source instructions');continue}
    if(!types.has(g.type))errors.push('Unsupported type '+g.type);if(!g.sourceInstructions?.trim())errors.push('Missing source instructions');

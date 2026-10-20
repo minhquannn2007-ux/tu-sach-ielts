@@ -1,0 +1,212 @@
+{
+  "id": "p2-nature-s-numbers",
+  "title": "Nature’s numbers",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "We live in a universe of patterns. Every night the stars move in circles across the sky. The seasons cycle at yearly intervals. No two snowflakes are ever the same, but they all have sixfold symmetry. Intricate trains of waves march across the oceans. Colored arcs of light adorn the sky in the form of rainbows, and a bright circular halo sometimes surrounds the moon on winter nights. Spherical drops of water fall from clouds. Human mind and culture have developed a formal system of thought for recognizing, classifying and exploiting patterns. We call it mathematics. By using mathematics to organize and systemize our ideas about patterns, we have discovered a great secret: nature’s patterns are not just there to be admired, but are vital clues to the rules that govern natural processes."
+    },
+    {
+      "label": "B",
+      "text": "Four hundred years ago, the German astronomer Johannes Kepler wrote a small book, The Six-Cornered Snowflake, as a gift to his sponsor. In it he argued that any one snowflake must be made by the packing together of tiny identical units. Kepler performed no experiments; he simply thought very hard about various bits and pieces of common knowledge. His main evidence was the sixfold symmetry of snowflakes, which is a natural consequence of regular packing. If you place a large number of identical coins on a table and try to fit them together as closely as possible, you get an arrangement in which every coin is surrounded by six others arranged in a perfect hexagon."
+    },
+    {
+      "label": "C",
+      "text": "There is much beauty in nature’s clues, and we can all recognize it without any mathematical training. There is beauty, too, in the mathematical stories that start from the clues and allow us to deduce the underlying rules and regularities, but it is a different kind of beauty, applying to ideas rather than things. Patterns possess utility as well as beauty. Once we have learned to recognize a background pattern, oddities suddenly stand out. Against the circling background of stars, a small number that move quite differently beg to be singled out for us to focus on. The ancient Greeks called them planetes, meaning ‘wanderers’, a term retained in our word ‘planet’. It took a lot longer to understand the patterns of planetary motion than it did to work out why stars seem to move in nightly circles, but the planets were clues to the rules behind gravity."
+    },
+    {
+      "label": "D",
+      "text": "The simplest mathematical objects are numbers, and the simplest of nature’s patterns are numerical. The phases of the moon — apparently varying its form from new to full and back — make a complete cycle every twenty-eight days; people have two legs; insects have six; starfish have five arms (or ten, eleven or seventeen depending on the species). A very curious pattern indeed occurs in the petals of flowers: in nearly all flowers, the number of petals is one that occurs in the strange sequence 3, 5, 8, 13, 21, 34, 55, 89, known as the Fibonacci numbers, in which each number is obtained by adding the two previous numbers together."
+    },
+    {
+      "label": "E",
+      "text": "This sort of numerology is the easiest, and consequently the most dangerous method for finding patterns. It is easy because anybody can do it, and dangerous for the same reason. Here is a case in point: Kepler was fascinated with mathematical patterns in nature, and devoted his life to looking for them in the behavior of the planets. He devised a simple and tidy theory for the existence of precisely six planets, which we realize today is inaccurate. He also discovered a very strange pattern relating the orbital period of a planet — the time it takes to go once around the sun — to its distance from the sun. Which of these numerological observations was more significant? The passage of time has proved that it is the second one: Kepler’s neat and tidy theory for the number of planets has long been buried without a trace."
+    },
+    {
+      "label": "F",
+      "text": "There are also geometrical patterns. For example, many of nature’s patterns are based on the circle. These include the rainbow, the human eye, and the ripples on a pond. Ripples are particularly interesting, as the flow of fluids provides a vast supply of patterns — waves in groups surging towards a beach in parallel lines, waves in a V-shape behind a boat, and spiral whirlpools. There are also wave patterns on land. The most striking mathematical landscapes on Earth are to be found in the great sand oceans of the Arabian and Sahara deserts. Even when the wind blows in one direction, semicircular sand dunes form, sometimes lined up in parallel lines like ocean waves, and sometimes broken up into other patterns."
+    },
+    {
+      "label": "G",
+      "text": "We are still learning to recognize new kinds of pattern. Only within the last few decades has humanity become aware of the two types of pattern now known as fractals and chaos. Fractals are geometric shapes that repeat their structure on ever finer scales. Many of nature’s shapes, including river networks, trees, and very possibly the way that matter is distributed throughout the entire universe, belong to this category of pattern; chaos is the dynamic process that brings them into existence."
+    },
+    {
+      "label": "H",
+      "text": "The more elusive of nature’s patterns are now beginning to reveal their secrets. Researchers are even using these patterns in a trial that will hopefully allow them to steer artificial satellites to new destinations with far less fuel than anybody once thought possible. It is also helping to avoid wear on the wheels of locomotives, to improve the effectiveness of heart pacemakers and to manage forests and fisheries. Most important of all, it is giving us a deeper vision of the universe in which we live, and of our own place in it."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has 8 paragraphs, A–H. Which paragraph contains the following information?",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "an example of a natural pattern involving an unusual mathematical series"
+        },
+        {
+          "n": 15,
+          "prompt": "examples of how nature’s patterns can be applied to agricultural industries"
+        },
+        {
+          "n": 16,
+          "prompt": "an illustration of the fact that patterns which appear obvious may be misleading"
+        },
+        {
+          "n": 17,
+          "prompt": "a comparison between a natural pattern and an arrangement of man-made objects"
+        },
+        {
+          "n": 18,
+          "prompt": "examples of recently discovered patterns"
+        },
+        {
+          "n": 19,
+          "prompt": "an example of similarities between an aquatic pattern and one occurring elsewhere"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "paragraphUnit": "paragraphs",
+      "reuse": false
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose TWO letters, A–E.",
+      "sourcePages": [
+        3
+      ],
+      "selectionCount": 2,
+      "numbers": [
+        20,
+        21
+      ],
+      "prompt": "Which TWO of the following statements apply to Johannes Kepler’s book?",
+      "options": [
+        {
+          "value": "A",
+          "text": "It has remained in print ever since publication."
+        },
+        {
+          "value": "B",
+          "text": "It was based on previous research carried out by his sponsor."
+        },
+        {
+          "value": "C",
+          "text": "It argued that each element in a single snowflake is the same."
+        },
+        {
+          "value": "D",
+          "text": "It was based on practical research."
+        },
+        {
+          "value": "E",
+          "text": "It was based on a single natural phenomenon."
+        }
+      ]
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose TWO letters, A–E.",
+      "sourcePages": [
+        3
+      ],
+      "selectionCount": 2,
+      "numbers": [
+        22,
+        23
+      ],
+      "prompt": "According to the text, which TWO of the following statements are true of wave patterns?",
+      "options": [
+        {
+          "value": "A",
+          "text": "They are always semicircular in shape."
+        },
+        {
+          "value": "B",
+          "text": "They can occur only in living things."
+        },
+        {
+          "value": "C",
+          "text": "They will sometimes form in straight rows."
+        },
+        {
+          "value": "D",
+          "text": "They may be caused by a man-made object."
+        },
+        {
+          "value": "E",
+          "text": "They cannot be found in solids."
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "sentences",
+      "sourceInstructions": "Complete the sentences. Choose ONE WORD ONLY from the passage for each answer.",
+      "sourcePages": [
+        4
+      ],
+      "wordLimit": "ONE WORD ONLY",
+      "questions": [
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "content": [
+        "The writer claims we do not need {{24}} in mathematics to perceive the beauty in nature’s clues.",
+        "The beauty of mathematics is described as being related not to objects, but to {{25}}.",
+        "Regular changes in the appearance of the {{26}} are an example of a simple numerical pattern."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.28-source-reviewed-scans",
+    "jobId": "p2-nature-s-numbers",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 8
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020b",
+    "checks": [
+      "every source page visually checked",
+      "complete passage and question range",
+      "source paragraph boundaries and column order",
+      "original task wording and word limit",
+      "no invented answer key"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p2-nature-s-numbers-cover.jpg",
+    "alt": "Snowflake macro photography 1.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Snowflake_macro_photography_1.jpg",
+    "credit": "Alexey Kljatov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

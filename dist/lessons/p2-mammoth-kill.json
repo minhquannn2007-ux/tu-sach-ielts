@@ -1,0 +1,149 @@
+{
+  "id": "p2-mammoth-kill",
+  "title": "MAMMOTH KILL",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Although it’s hard to imagine in this age of urban sprawl and automobiles, North America once belonged to huge, elephant-like mammoths, camels, bear-sized beavers and other giant beasts, collectively known as ‘megafauna’. Some 11,000 years ago, however, these large-bodied mammals — about 70 species in all — disappeared. Their demise coincided roughly with the arrival of humans in this region and dramatic climate change — factors that have inspired several theories about the die-off. Yet despite decades of scientific investigation, the exact cause remains a mystery. Now new findings offer support to one of these controversial hypotheses: that human hunting drove these huge ‘megafaunal’ species to extinction."
+    },
+    {
+      "text": "This belief resulted in the overkill model which emerged in the 1960s, when it was put forth by Paul S Martin of the University of Arizona. Since then, critics have charged that no archaeological remains exist to support the idea that the first Americans hunted to the extent necessary to cause these extinctions. But at the annual meeting of the Society of Vertebrate Paleontology in Mexico City in October 1999, specialist John Alroy of the University of California at Santa Barbara argued that, in fact, hunting-driven extinction is not only plausible, it was unavoidable. He has determined, using a computer simulation, that even a very modest amount of hunting would have wiped out these animals."
+    },
+    {
+      "text": "Assuming an initial human population of 100 people that grew no more than two per cent annually, Alroy determined that, if each band of, say, 50 people killed 15 to 20 large animals a year, humans could have eliminated the animal populations within 1,000 years. Large mammals in particular would have been vulnerable to the pressure because they have longer gestation periods than smaller mammals and their young require extended care."
+    },
+    {
+      "text": "However, not everyone agrees with Alroy’s assessment. For one thing, the results depend on population size estimates for the extinct animals — estimates that are not necessarily reliable. But a more specific criticism comes from mammal expert Ross D E MacPhee of the American Museum of Natural History in New York City, who points out that the relevant archaeological record contains barely a dozen examples of stone points embedded in mammoth bones (and none, it should be noted, are known from other megafaunal remains) — hardly what one might expect if hunting drove these animals to extinction. Furthermore, some of these species had a vast range, covering the whole continent - the Jefferson’s Ground Sloth, for example, lived as far north as the Yukon and as far south as Mexico - which would have made hunting them in numbers sufficient to cause their extinction rather unlikely, he says."
+    },
+    {
+      "text": "MacPhee agrees that humans most likely brought about these extinctions (as well as others around the world that coincided with human arrival), but not directly. Rather than through hunting, he suggests that people may have introduced a deadly disease, perhaps through their dogs or accompanying vermin, which then spread wildly among the native species because of their low resistance to the new introductions. Repeated outbreaks of a deadly disease could thus quickly drive them to the point of no return. So far, MacPhee does not have empirical evidence for this theory, and it will not be easy to come by: such disease would kill far too quickly to leave its signature on the bones themselves. But he hopes that analyses of tissue and DNA from the most recent animal remains will eventually reveal the microbes responsible."
+    },
+    {
+      "text": "The third explanation for what brought on this North American extinction does not involve human beings. Instead, its proponents blame the loss on the climate. The Pleistocene epoch in question witnessed considerable climate instability, explains Russell W Graham of the Denver Museum of Nature and Science. As a result, their regular habitats disappeared, and species that had once formed communities split apart. For some animals, this brought opportunity. For much of the megafauna, however, the increasingly uniform terrain left them with shrinking geographical ranges — a death sentence for large animals, which need correspondingly large ranges. Although these creatures managed to maintain viable populations through most of the Pleistocene period, the final major climate fluctuation pushed them over the edge, Graham says."
+    },
+    {
+      "text": "For his part, Alroy is still convinced that human hunters were the destroyers of the giant animals. The overkill model explains everything the disease and climate scenarios explain, he asserts, and in addition makes accurate predictions about which species would eventually become extinct."
+    }
+  ],
+  "groups": [
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Questions 14 – 20 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 14-20 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "title": "",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "questions": [
+        {
+          "n": 14
+        },
+        {
+          "n": 15
+        },
+        {
+          "n": 16
+        },
+        {
+          "n": 17
+        },
+        {
+          "n": 18
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        }
+      ],
+      "content": [
+        "Three theories have been put forward to explain the disappearance of the different species of large mammals that inhabited {{14}} 11,000 years ago. The {{15}}, proposed around fifty years ago by Paul S Martin, blames {{16}} by people for mass extinction. Computer calculations seem to support this explanation, but critics question the reliability of the figures they are based on.",
+        "The second theory suggests that humans introduced a {{17}} which wiped out the large mammals. However, so far this theory also lacks any {{18}}.",
+        "The final theory suggests that this period experienced significant {{19}} which eventually led to the loss of habitat and to the division of the {{20}} that some of the large mammals had organised."
+      ]
+    },
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Questions 21 – 26 Look at the following statements (Questions 21-26) and the list of people below. Match each statement with the correct person, A-C. Write the correct letter, A-C, in boxes 21-26 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 21,
+          "prompt": "Too little evidence exists to support the hunting theory."
+        },
+        {
+          "n": 22,
+          "prompt": "The bigger the animal, the bigger the territory it requires for survival."
+        },
+        {
+          "n": 23,
+          "prompt": "Globally, humans have been indirectly responsible for the elimination of many species."
+        },
+        {
+          "n": 24,
+          "prompt": "Population estimates can be used to understand how large mammals become extinct."
+        },
+        {
+          "n": 25,
+          "prompt": "Scientific examination of fossil remains may provide some proof for one of the theories."
+        },
+        {
+          "n": 26,
+          "prompt": "Environmental changes negatively affected the social groupings of some large species."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "John Alroy"
+        },
+        {
+          "value": "B",
+          "text": "Ross D E MacPhee"
+        },
+        {
+          "value": "C",
+          "text": "Russell W Graham"
+        }
+      ],
+      "targetName": "person",
+      "listTitle": "List of People",
+      "reuse": true
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.28-source-reviewed-scans",
+    "jobId": "p2-mammoth-kill",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 7
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020b",
+    "checks": [
+      "every source page visually checked",
+      "complete passage and question range",
+      "source paragraph boundaries and column order",
+      "original task wording and word limit",
+      "no invented answer key"
+    ]
+  },
+  "subtitle": "What led to the disappearance of the giant mammals? Kate Wong examines the theories",
+  "cover": {
+    "asset": "assets/p2-mammoth-kill-cover.jpg",
+    "alt": "Mammoth skeleton at Almaty Central State Museum of Kazakhstan.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mammoth_skeleton_at_Almaty_Central_State_Museum_of_Kazakhstan.jpg",
+    "credit": "Nurken",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

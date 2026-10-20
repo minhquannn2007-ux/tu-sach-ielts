@@ -1,0 +1,186 @@
+{
+  "id": "p1-face-recognition-in-everyday-life",
+  "title": "Face recognition in everyday life",
+  "part": 1,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "Remembering faces is a skill that is in daily use, but in real life we are not often called on to recognise people by their faces alone. Information about a person’s identity is supplied by body build, clothes, gait, voice and the context in which the person is encountered, as well as the face. We know very little about the relative contribution of these different aspects of personal identity to the recognition process, but mistakes in, and difficulties of, identification suggest they are important cues. Clothes and context are both liable to change, and therefore ought to be less reliable as cues, but experience suggests that we do rely on them to a considerable extent."
+    },
+    {
+      "label": "B",
+      "text": "In contrast to the real-life situation, many of the experiments that test face-recognition ability use still photographs of isolated faces, taken out of context, and stripped of all the additional information that normally accompanies a face. Unlike photographs, real faces are three-dimensional and dynamic and these characteristics yield a great deal of additional information. Face recognition in natural situations can exploit a much wider and richer range of cues and is therefore more likely to be successful."
+    },
+    {
+      "label": "C",
+      "text": "We know from our own experience that people seem to vary in face memory ability quite considerably, so that it is difficult to say what level of performance should be considered normal. The incidence of errors varies with the degree of familiarity. Identification failures for faces that are well known do sometimes occur, but they are usually temporary errors due to misleading circumstances, such as changes of appearance, seeing someone in an unusual context or poor visibility. Confusions may happen if a person is very similar in appearance to someone else, but such errors do not usually persist with prolonged inspection. With less well-known faces, identification failures are more common. It is quite easy to forget the face of someone you have only met casually, seldom or a long time ago."
+    },
+    {
+      "label": "D",
+      "text": "When we need to describe a person to someone else, with the intention of enabling the hearer to identify that person, we do not usually supply much detail about the face. We generally describe age, height, build and any very distinctive features (e.g. ‘curly red hair’, ‘beard’ or ‘glasses‘) rather than giving a comprehensive description of the face. However, more complete and accurate recall is sometimes required, as when witnesses are asked to describe suspects to the police or to construct a photofit picture. Not all faces are equally easy to recognise. Experiments have shown that face memory is superior if a face is seen in a variety of different poses rather than in repeated exposures of the same pose. In everyday life, faces that are familiar are ones that have been seen from many different viewpoints."
+    },
+    {
+      "label": "E",
+      "text": "The everyday intuition that highly distinctive faces are easier to remember than faces that are ordinary and typical has also been experimentally confirmed. The effects of attractiveness are less clear-cut. Some researchers have reported that attractive faces are easier to remember and others have reported the opposite result. There is also some evidence that memory representations of faces are influenced by stereotypes. It appears that people do believe that facial appearance is linked to personality traits and this means that judgements may be biased by the physical appearance of a person."
+    },
+    {
+      "label": "F",
+      "text": "There is a growing body of evidence that suggests that faces are represented holistically, or configurally (that is, by their overall shape or structure, rather than as a list of features). Tanaka and Farah (1993) argued in their studies that if facial features are represented separately, then memory for a particular feature should be as good when it is seen in isolation as when it is seen in the context of the whole face. If faces are represented configurally, then it should be more difficult to recognise isolated features. Their results showed that features learned in the context of a whole normal face were better recognised when seen in a whole normal face, although this advantage did not hold for scrambled faces or when the faces were upside down. The conclusion is that normal faces are represented configurally in memory but the representation of scrambled or inverted faces is different. By contrast, object recognition seems to involve specific parts or features being represented and processed separately and is not so much affected by inversion."
+    },
+    {
+      "label": "G",
+      "text": "Despite the evidence that faces are represented configurally, features also seem to play some part in face recognition. There is evidence, for example, that some features are more salient than others. Subjects spend more time looking at some features when memorising a face; recognition is more disrupted by changing some features than by changing others; and a face with a highly distinctive feature is more easily recognised. Experiments suggest that features in the inner part of the face (eyes, nose, and mouth) are more important than features in the outer part (hair and face shape)."
+    },
+    {
+      "label": "H",
+      "text": "On the whole, current research has little to say about why some people are better than others at remembering faces, and little to offer in the way of suggestions as to how we could train people to improve their face-recognition skills. Laboratory experiments using artificial material, such as photographs presenting disembodied faces divorced from any social or situational context, are posing problems that are very different from those encountered in the real world."
+    }
+  ],
+  "groups": [
+    {
+      "type": "tfng",
+      "sourceInstructions": "Questions 1 – 4 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-4 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "People may be temporarily confused when attempting to identify a person who looks like someone else."
+        },
+        {
+          "n": 2,
+          "prompt": "When describing someone, people generally describe the person’s whole face."
+        },
+        {
+          "n": 3,
+          "prompt": "The best remembered faces are those that have been seen frequently in the same pose."
+        },
+        {
+          "n": 4,
+          "prompt": "Face recognition improves in situations where observers are shown a very expressive face."
+        }
+      ]
+    },
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has 8 paragraphs, A–H. Which paragraph contains the following information?",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "how certain types of face suggest ideas about the person’s character"
+        },
+        {
+          "n": 6,
+          "prompt": "a reference to the variability in the factors used to identify a person"
+        },
+        {
+          "n": 7,
+          "prompt": "a reservation about the future usefulness of face recognition studies"
+        },
+        {
+          "n": 8,
+          "prompt": "situations in which remembering a face can be vitally important"
+        },
+        {
+          "n": 9,
+          "prompt": "the fact that some parts of the face may receive more attention than others"
+        },
+        {
+          "n": 10,
+          "prompt": "examples of how mistakes may arise when identifying a person"
+        }
+      ],
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H"
+      ],
+      "paragraphCount": 8,
+      "paragraphUnit": "paragraphs",
+      "reuse": false
+    },
+    {
+      "type": "mc-two",
+      "sourceInstructions": "Choose THREE letters, A–G.",
+      "sourcePages": [
+        4
+      ],
+      "selectionCount": 3,
+      "numbers": [
+        11,
+        12,
+        13
+      ],
+      "prompt": "Which THREE of the following problems are mentioned by the writer of the passage?",
+      "options": [
+        {
+          "value": "A",
+          "text": "the poor results obtained from the face recognition studies"
+        },
+        {
+          "value": "B",
+          "text": "the difficulty of finding sufficiently well-known faces for research purposes"
+        },
+        {
+          "value": "C",
+          "text": "the effect of age on the reliability of face recognition data"
+        },
+        {
+          "value": "D",
+          "text": "the contradictory findings of some studies"
+        },
+        {
+          "value": "E",
+          "text": "the difficulty in judging results from studies due to the variety of methods used"
+        },
+        {
+          "value": "F",
+          "text": "an inability to assess the exact reasons for success in identifying faces"
+        },
+        {
+          "value": "G",
+          "text": "a difficulty in applying information obtained from tests to everyday situations"
+        }
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.28-source-reviewed-scans",
+    "jobId": "p1-face-recognition-in-everyday-life-chua-go",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 8
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020b",
+    "checks": [
+      "every source page visually checked",
+      "complete passage and question range",
+      "source paragraph boundaries and column order",
+      "original task wording and word limit",
+      "no invented answer key"
+    ]
+  },
+  "cover": {
+    "asset": "assets/p1-face-recognition-in-everyday-life-cover.jpg",
+    "alt": "Portrait of a smiling girl with wet face at golden hour in Laos.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_smiling_girl_with_wet_face_at_golden_hour_in_Laos.jpg",
+    "credit": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}
