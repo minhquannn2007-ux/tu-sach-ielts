@@ -1,0 +1,234 @@
+{
+  "id": "p1-no-title-a-decibel-hell",
+  "part": 1,
+  "title": "A Decibel Hell",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The growing noise pollution problem has many different sources. Booming population growth and the loss of rural land to urban sprawl both play a role. Other factors include the inability of authorities in many parts of the world to implement noise-reducing legislation: the electronic nature of our age, which encourages many noisy gadgets; the rising number of vehicles on streets; and busier airports."
+    },
+    {
+      "text": "Sound intensity is measured in decibels (dB); the unit A-weighted dB (dBA) is used to indicate how humans hear a given sound Zero dBA is considered the point at which a person begins to hear sound. A soft whisper at three feet equals 30 dBA, a busy freeway at 50 feet is around 80 dBA, and a chainsaw can reach 110 dBA."
+    },
+    {
+      "text": "Mark Stephenson, a senior research audiologist at the National Institute for Occupational Safety and Health (NIOSH), says his agency's definition of hazardous noise is sound that exceeds 85 dBA, meaning the average noise exposure measured over a typical eight-hour workday."
+    },
+    {
+      "text": "In the United States, about 30 million workers are exposed to hazardous sound levels on the job, according to NIOSH. Noise in the US industry is an extremely difficult problem to monitor, acknowledges Craig Moulton, an industrial hygienist for the Occupational Safety and Health Administration (OSHA). Still, he says, OSHA does require that any employer with staff overexposed to noise safeguard those employees against the harmful impact of noise'."
+    },
+    {
+      "text": "'For many people in the United States, noise has drastically affected the quality of their lives', says Arline Bronzaft, chair of the Noise Committee of the New York City Council of the Environment, and a psychologist who has done pioneering research on the effects of noise on children's reading ability. 'My daughter lives near La Guardia airport in New York City, and she can't open a window or enjoy her backyard in the summer because of the airplane noise'."
+    },
+    {
+      "text": "The United States is not the only country where noise pollution is affecting the quality of life. In Japan noise pollution caused by public loudspeaker announcements and other forms of city noise has forced many Tokyo citizens to wear earplugs as they go about their daily lives. In Europe, about 65% of the population is exposed to ambient sound at levels above 55 dBA, while about 17% is exposed to levels above 65 dBA, according to the European Environment Agency."
+    },
+    {
+      "text": "Numerous scientific studies over the years have confirmed that exposure to certain levels of sound can damage hearing. NIOSH studies from the mid to late 1990s show that 90% of coal miners have hearing impairment by age 52 – compared to 9% of the general population. NIOSH research also reveals that by age twenty-five, the average carpenter's hearing is equivalent to that of a fifty-year-old male who hasn't been exposed to noise."
+    },
+    {
+      "text": "In 2001 researchers from the Center for Disease Control and Prevention reported that, based on audiometric testing of 5,249 children, an estimated 12.5% of American children have noise-induced hearing threshold shifts – or dulled hearing – in one or both ears. Most children with dulled hearing have only limited hearing damage, but continued exposure to excessive noise can lead to difficulties with high-frequency sound discrimination."
+    },
+    {
+      "text": "The effects of sound don't stop with the ears. The non-auditory effects of noise were noted as far back as 1930 in a study published by E L Smith and D L Laird in the Journal of the Acoustical Society of America. The results showed that exposure to noise caused stomach problems in healthy human beings."
+    },
+    {
+      "text": "Noise has also been shown to affect learning ability. In 1975, Bronzaft collaborated on a study of children in a school near a train track that showed how exposure to noise affects reading ability. Half of the students in the study were in classrooms facing the train track and the other half were in classrooms in the school's quieter section. The findings were that students on the quieter side performed better on reading tests."
+    },
+    {
+      "text": "Bronzaft and the school principal persuaded the school board to have acoustical tiles installed in the classrooms adjacent to the tracks. The Transit Authority also undertook work on the track near the school in order to reduce noise levels. A follow-up study in 1981 found that children's reading scores improved after these interventions were put in place."
+    },
+    {
+      "text": "Anti-noise activists say that Europe and several countries in Asia are more advanced than the United States in terms of combating noise. 'Population pressure has prompted Europe to move more quickly on the noise issue,' says Ken Hume, a principal lecturer in human physiology at the Manchester Metropolitan University in England. European cities with at least 250,000 people are developing noise maps of those cities to help leaders determine noise pollution strategies. Paris has already prepared its first noise maps. The map data will be fed into computer models that will help test the sound impact of new road layouts or buildings before construction begins."
+    },
+    {
+      "text": "Bronzaft stresses that governments worldwide need to direct more financial resources towards studies investigating the effects of noise, and do a better job coordinating their noise pollution efforts, so they can establish health and environmental policies based on solid scientific research."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 4 Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer. Write your answer in boxes 1-4 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "slots": 1,
+          "prompt": ""
+        },
+        {
+          "n": 2,
+          "slots": 1,
+          "prompt": ""
+        },
+        {
+          "n": 3,
+          "slots": 1,
+          "prompt": ""
+        },
+        {
+          "n": 4,
+          "slots": 1,
+          "prompt": ""
+        }
+      ],
+      "type": "summary-input",
+      "task": "sentences",
+      "wordLimit": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+      "content": [
+        "Experts consider noise levels to be harmful if they go above {{1}} .",
+        "Children with ‘dulled hearing’ may eventually have trouble distinguishing {{2}} sounds.",
+        "Early research into physical effects other than hearing problems revealed that adults may suffer from {{3}} if exposed to noise.",
+        "Some European cities are creating {{4}} in order to help governments develop noise policies."
+      ]
+    },
+    {
+      "sourceInstructions": "Questions 5 – 10 Look at the following statements (Questions 5-10) and the list of people and organisations below. Match each statement with the correct person or organisation, A-E. Write the correct letter, A-E, in boxes 5-10 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 5,
+          "prompt": "A significant proportion of American children have suffered some hearing loss as a result of exposure to noise."
+        },
+        {
+          "n": 6,
+          "prompt": "Noise in our environment can affect the kind of lifestyle we have."
+        },
+        {
+          "n": 7,
+          "prompt": "American companies are expected to protect workers from the effects of excessive noise."
+        },
+        {
+          "n": 8,
+          "prompt": "Authorities should increase funding for noise pollution research."
+        },
+        {
+          "n": 9,
+          "prompt": "Permanent hearing loss caused by noise is the most commonly occurring danger in the global workplace today."
+        },
+        {
+          "n": 10,
+          "prompt": "Workers in certain occupations in the US have high rates of hearing damage."
+        }
+      ],
+      "type": "matching-features",
+      "bank": [
+        {
+          "value": "A",
+          "text": "World Health Organisation (WHO)"
+        },
+        {
+          "value": "B",
+          "text": "National Institute for Occupational Safety and Health (NIOSH)"
+        },
+        {
+          "value": "C",
+          "text": "Craig Moulton"
+        },
+        {
+          "value": "D",
+          "text": "Arline Bronzaft"
+        },
+        {
+          "value": "E",
+          "text": "Center for Disease Control and Prevention"
+        }
+      ],
+      "targetName": "person or organisation",
+      "listTitle": "List of People And Organisations",
+      "reuse": true
+    },
+    {
+      "sourceInstructions": "Questions 11 – 13 Choose the correct letter, A, B, C or D. Write the correct letter in boxes 11-13 on your answer sheet.",
+      "sourcePages": [
+        5
+      ],
+      "questions": [
+        {
+          "n": 11,
+          "prompt": "As a result of the findings from Bronzaft's train track study",
+          "options": [
+            {
+              "value": "A",
+              "text": "the school moved the classrooms located near the track."
+            },
+            {
+              "value": "B",
+              "text": "the track was treated to make it less noisy."
+            },
+            {
+              "value": "C",
+              "text": "the classrooms facing the track were no longer used."
+            },
+            {
+              "value": "D",
+              "text": "the amount of traffic on the track was reduced."
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "prompt": "According to the passage, European countries are examining how noise levels will be affected by",
+          "options": [
+            {
+              "value": "A",
+              "text": "population distribution."
+            },
+            {
+              "value": "B",
+              "text": "the size of cities."
+            },
+            {
+              "value": "C",
+              "text": "street design."
+            },
+            {
+              "value": "D",
+              "text": "the purpose of tower blocks."
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "prompt": "Which of the following is the most suitable title for Reading Passage 1?",
+          "options": [
+            {
+              "value": "A",
+              "text": "Effects of noise on workers’ job performance"
+            },
+            {
+              "value": "B",
+              "text": "The cities most effective at reducing noise"
+            },
+            {
+              "value": "C",
+              "text": "Educating workers about noise"
+            },
+            {
+              "value": "D",
+              "text": "Living in a noisy world"
+            }
+          ]
+        }
+      ],
+      "type": "mc-one"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-no-title-a-decibel-hell",
+    "sourceParagraphCount": 13,
+    "requiresReview": false
+  },
+  "cover": {
+    "asset": "assets/cover-unique/p1-no-title-a-decibel-hell.svg",
+    "alt": "A Decibel Hell — Streetcar traffic on Canal Street, Mid-City New Orleans, 26 June 2026 - 07",
+    "credit": "Infrogmation",
+    "source": "https://commons.wikimedia.org/wiki/File:Streetcar_traffic_on_Canal_Street,_Mid-City_New_Orleans,_26_June_2026_-_07.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

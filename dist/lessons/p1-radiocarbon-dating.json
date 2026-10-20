@@ -1,0 +1,126 @@
+{
+  "id": "p1-radiocarbon-dating",
+  "part": 1,
+  "title": "Radiocarbon dating",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Nancy Athfield is a scientist specializing in radiocarbon dating. She has just returned from a research expedition deep in the forests of Cambodia's Cardamom Mountains, where she has been working to unravel the secrets of ancient human remains discovered on a number of cliff-side ledges. The unexplained remains, discovered by local people in large ceramic jars and hollowed-out logs, have increasingly drawn Athfield away from her regular employment at G.N.S. Science's Rafter Laboratory in New Zealand and into the world of research in the field."
+    },
+    {
+      "text": "She first learned of the Cardamom remains in 2003, when a film-making company requested that she radiocarbon date bone samples for a documentary film being made in Cambodia. The film-makers had set out to investigate the idea that these human remains marked the final resting place of people belonging to the last royal household of Angkor, which once ruled much of the surrounding area. At its height in the thirteenth centur, Angkor was home to a population 30 times larger than that of Paris at the time, but in 1431 it was over-run by an invading army and the city was permanently abandoned. However, many stories were told of surviving members of the royal family fleeing to seek refuge in the Cardamom Mountains."
+    },
+    {
+      "text": "Athfield dated the original Cardamom bone samples to as late as 1620, dashing the possibility of Angkorian royalty. However, over the years since then, other ancient human remains have emerged at different sites around the country, leaving the ultimate fate of the royal household of Angkor still uncertain. Athfield intends to return soon to Cambodia in order to continue her research at a number of these new sites."
+    },
+    {
+      "text": "Investigating the origins of an unknown people in Asia is a long way from her birthplace in New York, but Athfield's career path has been far from conventional. She finished her secondary education early, aged just sixteen, and did a variety of badly paid jobs and community courses before a friend suggested she sit the entrance exam for university. She did, and to her surprise she was accepted. While completing her undergraduate studies in physical geography she got a job at the Lamont-Doherty Earth Observatory. It was here that she met Wally Brocker, a climate scientist and one of the pioneers of radiocarbon dating. 'From him I learned that the best place to be is where everything you know is shaken by a new piece of information. In other words, I learned to think like a scientist.'"
+    },
+    {
+      "text": "When Athfield's then husband was offered a post at G.N.S. Science, she accompanied him to New Zealand and took a job as lab manager at Rafter Laboratory. 'I realised it was a good time to get a PhD,' she says. At the time there was a great deal of controversy over radiocarbon dating, which seemed to suggest that a rat species had arrived in New Zealand as early as 100 AD, nearly 700 years before the first visitors were thought to have reached those untouched islands. Her PhD was based on five years of research exploring this issue, because she wanted to look at how scientists ascertain the reliability of radiocarbon dating and this seemed to be the perfect subject. Athfield concluded that previous radiocarbon tests had been unreliable, and this was connected to the rat's diet, not due to faulty lab procedures as had once been thought."
+    },
+    {
+      "text": "She then began embracing broader issues related to her skills, and started working as a fully qualified archaeologist in the UK in order to contribute to a 10- year research project fine-tuning Anglo-Saxon chronology. But it was the call from those film-makers in 2003 that truly ignited her passion for fieldwork, and the unanswered questions regarding the Cardamom remains."
+    },
+    {
+      "text": "Athfield was keen to continue her work in Cambodia after the camera crews left, but she and her colleagues were hampered by that universal problem for researchers, a lack of funding. However, after several years of fruitless applications, she made a breakthrough when the Australian Research Council supported her and a team based at the University of Sydney so that she could return to the Cardamoms, as part of a larger project to create a Cambodia-wide radiocarbon database. The project has brought together geologists, biologists, ceramic specialists, ethnographers, and even a dendroclimatologist (who determines past climates from trees), but it has been no easy task because the country doesn't have an extensive geological map. Nonetheless, with Cambodia's Ministry of Culture having learned of freshly discovered jar burial sites in the Cardamom Mountains, Athfield is more enthusiastic about the project than ever."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 7 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Nancy Athfield found ancient human remains in Cambodia."
+        },
+        {
+          "n": 2,
+          "prompt": "The human remains found in the Cardamom mountains were in good condition."
+        },
+        {
+          "n": 3,
+          "prompt": "Athfield has taken time off from her usual job to do research in Cambodia."
+        },
+        {
+          "n": 4,
+          "prompt": "The Cambodian government asked Athfield to radiocarbon date the Cardamom remains."
+        },
+        {
+          "n": 5,
+          "prompt": "Film-makers were researching how Angkor was rebuilt after the 1431 invasion."
+        },
+        {
+          "n": 6,
+          "prompt": "Athfield initially doubted the stories of the royal family hiding in the Cardamom mountains."
+        },
+        {
+          "n": 7,
+          "prompt": "Athfield’s research disproved the idea that the Cardamom remains were from the royal family."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "type": "flow-chart",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 8 – 13 Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+      "wordLimit": "ONE WORD ONLY",
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "title": "Nancy Athfield’s career",
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "In her mid-teens, Athfield did not expect to attend {{8}}",
+          "Wally Brocker taught Athfield how to develop the mind of a scientist. Athfield’s PhD investigated when a type of {{9}} arrived in New Zealand.",
+          "Her PhD research found that the subject’s diet accounted for previous inaccurate results. She worked as a professional {{10}} before going to Cambodia in 2003.",
+          "Inadequate {{11}} prevented further research in Cambodia",
+          "Later, she helped to compile a {{12}} dating across Cambodia of radiocarbon.",
+          "The lack of a detailed {{13}} of Cambodia’s geology has made her team’s research harder."
+        ],
+        "arrow": "assets/radiocarbon-original-arrow.svg"
+      }
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-radiocarbon-dating",
+    "sourceParagraphCount": 7,
+    "requiresReview": false
+  },
+  "subtitle": "A profile of the scientist Nancy Athfield",
+  "cover": {
+    "asset": "assets/cover-unique/p1-radiocarbon-dating.svg",
+    "alt": "Radiocarbon dating — CSIRO ScienceImage 10468 High vacuum apparatus carbon 14",
+    "credit": "division, CSIRO",
+    "source": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_10468_High_vacuum_apparatus_carbon_14.jpg",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "id": "p1-the-life-of-louis-braille",
+  "part": 1,
+  "title": "The Life of Louis Braille",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Louis Braille was born in Coupvray, France on January 4, 1809, the only child of Louis and Constance Braille. His father made leather saddles and harnesses for farmers in the area. At the age of three, while playing in his father's shop, young Louis was struck in the eye by a tool. Within weeks of the accident, the infection that had developed in his eyes took away his sight completely. Although there were few options for blind people at that time, Braille's parents wanted their son to be educated. He attended school in their village with sighted children and followed the lessons through listening alone. He was an excellent student, mostly because of his exceptional memory."
+    },
+    {
+      "text": "In 1819 Braille received a scholarship that enabled him to attend the Institut National des Jeunes Aveugles (National Institute of Blind Youth) in Paris, France. He continued to excel in his studies and also began playing the piano and organ. The same year Braille entered the school, Captain Charles Barbier invented sonography, or night writing, a system of embossed symbols (standing out from the surface) that soldiers adopted to communicate silently at night on the battlefield. The fifteen-year-old Braille was inspired by a lecture Barbier gave at the Institute a few years later. Braille adapted Barbier's system to replace the awkward botanical-embossed books in the Institute's library, which were the only thing he and his classmates could use up to that point."
+    },
+    {
+      "text": "Louis Braille was one of many people at the school who found Barbier's system promising, but he often disapproved its shortcomings. It was quite complex (soldiers had had difficulty learning it) and it was based on sounds rather than letters. Braille spent three years developing a much simpler system. Braille began experimenting with objects cut from leather as well as nails and tacks hammered into boards. He finally settled on a six-dot code, based on the twenty-six letters of the alphabet, which could be recognized with a single contact of one finger."
+    },
+    {
+      "text": "By changing the number and placement of dots, he coded letters, punctuation, numbers, familiar words, scientific symbols, mathematical and musical notation, and capitalization. With the right hand the reader touched individual dots, and with the left hand he or she moved on toward the next line, grasping the text as smoothly and rapidly as sighted readers. Using the Braille system, students were also able to take notes and write essays by punching dots into paper with a pointed instrument that was lined up with a metal guide. This writing technique devised by Braille was known as decapoint and it was later developed by one of his colleagues into a machine that operated like a typewriter."
+    },
+    {
+      "text": "At the age of twenty, Braille published a written account describing the use of his coded system. In 1837 he issued a second publication featuring an expanded system of coding text. King Louis Philippe (1773-1850) praised the system publicly after a demonstration at the Paris Exposition of Industry in 1834, and Braille's fellow students loved it. However, Braille's system proved to be controversial at the Institute. The school's director, Alexandre François-René Pignier supported using the Braille system, but Pierre-Armand Dufau banned it when he became director of the school in 1840. Sighted instructors and school board members worried that growing numbers of well-educated blind individuals might take away their jobs so they clung to the embossed-letter system. Nonetheless, by 1850, when illness forced Louis Braille to retire from teaching, his six-dot method was well on its way to widespread acceptance."
+    },
+    {
+      "text": "Braille's ear for music enabled him to become an accomplished cellist and organist. Later in life, his musical talents led him to play the organ all over France, where he became famous as a musician, composer, and teacher. Unfortunately, he grew seriously ill with incurable tuberculosis (a lung infection) in 1835. Shortly before his death, a former student of his, a blind musician, gave a performance in Paris. She made a point of letting the audience know that she had learned everything she knew using the forgotten system developed by the now-dying Braille. This evoked renewed interest in and a revival of the Braille system, although it was not fully accepted until 1854, two years after the inventor's death. The system underwent alteration from time to time. The version employed today was first used in the United States in 1860 at the Missouri School for the Blind."
+    }
+  ],
+  "groups": [
+    {
+      "type": "notes",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1
+        },
+        {
+          "n": 2
+        },
+        {
+          "n": 3
+        },
+        {
+          "n": 4
+        },
+        {
+          "n": 5
+        },
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        }
+      ],
+      "sourceInstructions": "Questions 1 – 7 Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answer in boxes 1-7 on your answer sheet.",
+      "wordLimit": "ONE WORD ONLY",
+      "title": "Louis Braille",
+      "content": [
+        "Early life (in Coupvray)",
+        "was born in 1809",
+        "became blind as the result of an {{1}} in the eye",
+        "excelled at the local school on account of his outstanding memory",
+        "National Institute of Blind Youth, Paris",
+        "Braille was awarded a scholarship",
+        "Captain Charles Barbier developed sonography, based on a system originally used by {{2}}",
+        "Braille became aware of sonography after attending Barbier’s {{3}}",
+        "The development of the Braille system",
+        "Problems with Barbier’s system",
+        "too complex",
+        "{{4}} were used as its basis instead of letters",
+        "Braille’s system",
+        "was based on the alphabet",
+        "could be recognised with the touch of an individual {{5}}",
+        "the left hand takes readers to the following {{6}} while the right hand touches dots",
+        "blind students could write using Braille’s method called {{7}}"
+      ],
+      "noteLayout": {
+        "title": "Louis Braille",
+        "titleAlign": "left",
+        "sourceVerified": true,
+        "layoutVersion": 2,
+        "rows": [
+          {
+            "runs": [
+              {
+                "text": "Early life (in Coupvray)",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.5
+          },
+          {
+            "runs": [
+              {
+                "text": "was born in 1809"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "became blind as the result of an {{1}} in the eye"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "excelled at the local school on account of his outstanding memory"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "National Institute of Blind Youth, Paris",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.5
+          },
+          {
+            "runs": [
+              {
+                "text": "Braille was awarded a scholarship"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Captain Charles Barbier developed sonography, based on a system originally used by {{2}}"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Braille became aware of sonography after attending Barbier’s {{3}}"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "The development of the Braille system",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.5
+          },
+          {
+            "runs": [
+              {
+                "text": "Problems with Barbier’s system",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.5
+          },
+          {
+            "runs": [
+              {
+                "text": "too complex"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "{{4}} were used as its basis instead of letters"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "Braille’s system",
+                "bold": true
+              }
+            ],
+            "indent": 0,
+            "spaceBefore": 0.5
+          },
+          {
+            "runs": [
+              {
+                "text": "was based on the alphabet"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "could be recognised with the touch of an individual {{5}}"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "the left hand takes readers to the following {{6}} while the right hand touches dots"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          },
+          {
+            "runs": [
+              {
+                "text": "blind students could write using Braille’s method called {{7}}"
+              }
+            ],
+            "indent": 1,
+            "spaceBefore": 0.1,
+            "marker": "•",
+            "hanging": 1,
+            "firstLine": 0
+          }
+        ]
+      }
+    },
+    {
+      "sourceInstructions": "Questions 8 – 13 Do the following statements agree with the information given in Reading Passage 1? In boxes 8-13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 8,
+          "prompt": "Braille received financial assistance from King Louis Philippe."
+        },
+        {
+          "n": 9,
+          "prompt": "Braille's invention was rejected by students at the National Institute of Blind Youth."
+        },
+        {
+          "n": 10,
+          "prompt": "Sighted teachers at the National Institute of Blind Youth felt threatened by Braille's reading system."
+        },
+        {
+          "n": 11,
+          "prompt": "Braille's students visited him after his retirement."
+        },
+        {
+          "n": 12,
+          "prompt": "Braille's system became popular again after it was promoted by a musician."
+        },
+        {
+          "n": 13,
+          "prompt": "The Braille system that is currently used is unchanged from Braille's original invention."
+        }
+      ],
+      "type": "tfng"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-the-life-of-louis-braille",
+    "sourceParagraphCount": 6,
+    "requiresReview": false
+  },
+  "subtitle": "Teacher and advocate for the blind, Louis Braille designed the coding system, based on patterns of raised dots, by which the blind can read through touch",
+  "cover": {
+    "asset": "assets/cover-unique/p1-the-life-of-louis-braille.svg",
+    "alt": "The Life of Louis Braille — Braille house07",
+    "credit": "François Jouffroy",
+    "source": "https://commons.wikimedia.org/wiki/File:Braille_house07.JPG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+}
