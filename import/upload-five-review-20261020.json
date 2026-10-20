@@ -1,0 +1,39 @@
+{
+  "published": [
+    {
+      "id": "p3-the-significant-role-of-mother-tongue-in-education",
+      "sourceSha256": "15d7c1f77950ab4ce145eb369b63b6db2a8d1fb62bf32bd42bfdc9ecba3666f3",
+      "reviewed": true,
+      "readingParagraphs": 7,
+      "questionCount": 14
+    },
+    {
+      "id": "p2-classical-music-over-the-centuries",
+      "sourceSha256": "29e0ed990c359663394ff97767d51d46a33bc4f76713eacac35ef6acfa7edaec",
+      "reviewed": true,
+      "readingParagraphs": 6,
+      "questionCount": 13
+    },
+    {
+      "id": "p2-natures-positive-effects-on-well-being",
+      "sourceSha256": "c7ca75953d15dc767abcb8d76abc1bd003673e6ce449df982406b40372bfa969",
+      "reviewed": true,
+      "readingParagraphs": 7,
+      "questionCount": 13
+    },
+    {
+      "id": "p1-ahead-of-its-time",
+      "sourceSha256": "39a2ae6ebc931222d81cd6f183aed0b4bb178369969bd52a1505341e3bec0f8b",
+      "reviewed": true,
+      "readingParagraphs": 8,
+      "questionCount": 13
+    }
+  ],
+  "held": [
+    {
+      "title": "What is history?",
+      "key": "w01",
+      "reason": "Source page 2 final paragraph still omits predicate between which in Britain, for example, and income and export earnings. Confirmed visually; do not invent missing words."
+    }
+  ]
+}
