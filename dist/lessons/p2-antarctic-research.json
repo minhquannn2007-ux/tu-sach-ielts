@@ -1,0 +1,194 @@
+{
+  "id": "p2-antarctic-research",
+  "title": "Antarctic research",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "New Zealand’s contribution to International Polar Year was a 52-day voyage by the ship Tangaroa in order to conduct research in Antarctica’s Ross Sea. Lead scientist Mary Livingston emphasises just what a multi-faceted expedition this was, bringing together zoologists, oceanographers, meteorologists and other scientists from the Ministry of Fisheries, the National Institute for Water and Atmospheric Research, the National Museum and various universities, to study life beneath the seas of Antarctica. Competition for berths – the ship can carry 44 people, including 13 crew – was fierce. Voyage leader Stu Hanchet says, ‘We could have filled the science positions four times over ... we had so many people requesting a berth ... We ended up with a really strong team.’",
+      "figure": {
+        "asset": "assets/p2-antarctic-research-map.png",
+        "alt": "Original map of Antarctica and the Ross Sea"
+      }
+    },
+    {
+      "label": "B",
+      "text": "It would be hard to overstate how hostile the Antarctic environment is for scientists. The Tangaroa’s captain, Graham Leachman, explains that the Ross Sea is subject to katabatic winds* that sweep down off the Antarctic continent to create rough seas. Another danger is the possibility of the ship colliding with floating ice. ‘Even though the ship’s officers use all sorts of high tech equipment ... none of it can tell you how thick the ice is,’ says Leachman, ‘and you still can’t beat looking out of the ... window.’ In the dark, he says, you can’t tell how thick ice is, but if you can see its colour, it’s possible to estimate. This is why he prefers sailing in summer, when the hours of daylight in these high latitudes are longest, even though this plays tricks with his passengers’ body clocks."
+    },
+    {
+      "label": "C",
+      "text": "Analysis of what the expedition found continues, but it’s likely that several new species have been discovered and numerous other secrets revealed of life 3000 metres below the surface. ‘We have collected huge worms and strange crustaceans,’ says Livingston, ‘but most impressive of all were the starfish that measured more than half a metre across – that’s most abnormal for creatures belonging to this species.’ This phenomenon of Antarctic seas is called ‘gigantism’ – the fact that some species grow to unusually large sizes. Livingston suggests various possible causes for gigantism including the extreme cold, few predators and high levels of oxygen in the sea water, but as yet no final determination can be made. Another interesting discovery was that in some places every inch of the sea floor was covered with life, whereas elsewhere icebergs have scoured out deep scars and ravines in the sea floor as they go by."
+    },
+    {
+      "label": "D",
+      "text": "By using deep-sea trawl nets, hi-definition cameras and water samplers, the team has revealed that many of the creatures that live at extreme depths have a bizarre appearance. Among them were spotted tunicates, plankton-eating animals that are slender structures that appear to be fashioned from glass. The most fearsome-looking fish was the south ocean daggertooth, a species that is ‘monocyclic’, meaning the fish die after the first spawning. They are also unusual for being capable of shedding their teeth and growing a new set. Another predatory fish brought to the surface was the stareater, an extraordinary species that has an appendage like a piece of cord hanging from its chin. In these deep, dark waters, this glows red and attracts prey to swim within striking distance. Just as impressive and much more beautiful were the basket stars, a species related to starfish that lives on the seabed. The basket stars’ five arms branch out numerous times to form a spectacular fan-like structure which they turn to face into the current so that food is brought into their embrace."
+    },
+    {
+      "label": "E",
+      "text": "But whatever exciting discoveries were made, everyday life onboard ship in the Ross Sea is unrelenting. Most people share a cabin with one other person – they're allocated so that as one person begins their 12 hours off duty, the other occupant is starting work on deck. The fresh food runs out in a few days and after that most provisions are frozen, canned or dried. Expedition general manager Fred Smits recognises that the cook has an essential role in ensuring the well-being of those onboard. ‘When you are at sea for so long,’ he says, ‘you think a lot about your next meal.’"
+    },
+    {
+      "label": "F",
+      "text": "Perhaps most controversially, one of the precious berths on the Tangaroa was taken up by cameraman Max Quinn, who filmed a documentary about the voyage. Quinn’s inclusion wasn’t welcomed at first. ‘Scientists by nature,’ Livingston says, ‘tend to be camera-shy and quiet. They're not into having cameras there, so it was difficult getting everyone’s permission and agreement.’ But in the end Quinn fitted in very well. ‘The trick,’ he says, ‘is to mostly film the scientists at work, in their professional roles ... rather than eating their breakfast.’ He knows when not to intrude. The documentary is a window on a trip few people get to make and also a peek into what research really looks like. ‘Science,’ says Livingston, ‘is intrepid, more so than people realise. It’s not necessarily examining dry samples in the laboratory, but can also mean braving the elements on deck. That’s what the documentary captures, the sense of real people with real lives.’"
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has six paragraphs, A–F. Which paragraph contains the following information?",
+      "sourcePages": [
+        3
+      ],
+      "paragraphCount": 6,
+      "paragraphUnit": "paragraphs",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "reuse": false,
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "details of some equipment used by the scientists"
+        },
+        {
+          "n": 15,
+          "prompt": "a description of the challenging sailing conditions in Antarctica"
+        },
+        {
+          "n": 16,
+          "prompt": "information about the composition of the scientific group"
+        },
+        {
+          "n": 17,
+          "prompt": "the identity of a potentially unpopular person on the ship"
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "summary",
+      "sourceInstructions": "Questions 18 – 23 Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-23 on your answer sheet.",
+      "sourcePages": [
+        3
+      ],
+      "title": "The expedition’s findings",
+      "wordLimit": "ONE WORD ONLY",
+      "questions": [
+        {
+          "n": 18
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        }
+      ],
+      "content": [
+        "Analysis continues of the expedition’s remarkable discoveries, including a {{18}} very notable for its unusual width. The reasons why creatures grow so large at great depths in Antarctica may include the highly oxygenated water, the temperature, or the small number of {{19}}. A further fascinating finding was the existence of canyons in the seabed caused by passing {{20}}. Many creatures living at great depth look very strange, such as tunicates, which seem to be made of {{21}}. One frightening-looking fish species is characterised by loss of its {{22}} and the fact that it spawns only once. Another fish has something like a length of string attached to its {{23}} that assists with hunting."
+      ]
+    },
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Look at the following people and the list of opinions. Match each person with the correct opinion, A–G.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 24,
+          "prompt": "Mary Livingston"
+        },
+        {
+          "n": 25,
+          "prompt": "Stu Hanchet"
+        },
+        {
+          "n": 26,
+          "prompt": "Max Quinn"
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "The repetitive food was one of the hardships of the voyage."
+        },
+        {
+          "value": "B",
+          "text": "Respecting your subjects’ privacy gets the best results."
+        },
+        {
+          "value": "C",
+          "text": "The summer is the best time to sail these waters."
+        },
+        {
+          "value": "D",
+          "text": "The kitchen is one of the most important parts of the ship."
+        },
+        {
+          "value": "E",
+          "text": "Being separated from family was difficult."
+        },
+        {
+          "value": "F",
+          "text": "The nature of scientific work may surprise some people."
+        },
+        {
+          "value": "G",
+          "text": "More applications to join the group were received than there were places."
+        }
+      ],
+      "targetName": "opinion",
+      "listTitle": "List of Opinions",
+      "reuse": false
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.32-source-reviewed-scans",
+    "jobId": "p2-antarctic-research",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 6
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020f",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "subtitle": "Thirteen nations took part in the recent International Polar Year",
+  "footnotes": [
+    "* katabatic wind: a wind caused by the rapid downward motion of cool air"
+  ],
+  "cover": {
+    "asset": "assets/p2-antarctic-research-cover.jpg",
+    "alt": "RV Tangaroa in Wellington.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:RV_Tangaroa_in_Wellington.jpg",
+    "credit": "Ambrosia10",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+}
