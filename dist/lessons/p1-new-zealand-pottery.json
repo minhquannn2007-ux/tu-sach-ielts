@@ -1,0 +1,123 @@
+{
+  "id": "p1-new-zealand-pottery",
+  "part": 1,
+  "title": "New Zealand Pottery",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "The history of the clay* industry in New Zealand is only as old as that of European settlement. The original inhabitants of New Zealand, the Maori people, had lost the art of pottery-making before moving from their islands in the Pacific to settle in the country. When European migrants started to arrive in the nineteenth century, equipped with wooden and iron tools, these migrants were quick to realise the value of the clay deposits that were to be found in most areas of New Zealand. The earliest commercial potteries established by Europeans only made drainage pipes and bricks, but as the demand for building materials grew, the quantity and range of clay products increased, though it was only much later that ornamental and decorative designs started to be produced."
+    },
+    {
+      "text": "The greatest growth in the pottery industry in New Zealand occurred during the 1870s and 1880s, a period which saw the closure of many small potteries in Britain. Many potters were unemployed and felt compelled to migrate to New Zealand in order to find work. In addition, there was often a desire among these craftspeople to 'make it on their own' and put the mark of individuality on their work, and this is often reflected in the items they produced. Although they may have previously specialised in one particular aspect of production, on arriving in their new country many of these artisans now found it necessary to become familiar with each individual skill of the 'assembly line. Very often, people who had started as craftsmen had to become engineers, chemists and business managers. The subsequent success or failure of the pottery concerned was, perhaps, largely determined by the ability of the factory manager to adapt to New Zealand's unique conditions. Many failed to make the transition."
+    },
+    {
+      "text": "The recent appreciation of local pottery is to some extent part of a general trend by New Zealanders towards acceptance of, and affinity for, their indigenous products. Past feelings of embarrassment about their supposedly inferior local pottery have been replaced by an understanding that everyday items like crockery are important statements about the country's identity. This is because all New Zealanders have been exposed to the products of their potters. Once you become aware of pottery, you find that it is everywhere – in the home, the workplace, on television, in press conferences, political meetings, social events, meetings of kindergarten mothers' groups and national conferences. In a very real sense, our pottery can be seen as documents of social history."
+    },
+    {
+      "text": "The process of recording New Zealand pottery can be traced back to 1954, when Elizabeth Mein researched the brick, tile and pottery industries in the Otago region for a thesis towards her master's degree. Some years later Mein was interviewed by an anthropologist from Otago Museum named Stuart Park, who recognised the importance of home-grown producte fur social history. As a result, Park began to collect pieces much more systematically on behalf of the museum and this work culminated in an exhibition of New Zealand ceramies at the Otago Museum in 1978, the first one of its kind. It was because of this and the interest it generated that other museums around the country began to take greater interest in pottery. However, not just museume but also collectors came to understand the value of ceramics, and numerous more modest collections were begun in private houses around the country."
+    },
+    {
+      "text": "One of those whose curiosity was sparked was Gail Lambert, a leading pottery historian. She began by researching specific companies and, as she continued, a fascinating picture emerged of the energy and enterprise of those concerned. It was their enthusiasm which has ensured the survival of pottery in New Zealand, often in the face of overwhelming odds. Her research itself, however, was seldom straightforward. In most cases, very little archival material relating to pottery manufacture was available, as fires were a common occurrence in pottery factories, and all too often company files have been lost to us as a result. Instead, Lambert was obliged to track down those who had worked in the factories or their descendants and conduct interviews in order to find the historical details that would create a fuller picture. This particular approach is not without its difficulties. The human memory is fallible and as time passes family reminiscences tend to vary. However, by obtaining confirmation from several oral sources, or from documentary evidence where available, Lambert was able to publish her research in the form of a book in 1985, the first comprehensive account of the subject in New Zealand."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 5 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-5 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "The first people to create clay objects in New Zealand were the Europeans."
+        },
+        {
+          "n": 2,
+          "prompt": "New Zealand clay was of better quality than European clay."
+        },
+        {
+          "n": 3,
+          "prompt": "The first pottery companies in New Zealand made items to decorate the home."
+        },
+        {
+          "n": 4,
+          "prompt": "Some European potters had little choice about coming to New Zealand."
+        },
+        {
+          "n": 5,
+          "prompt": "New Zealanders have always been proud of their pottery."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "type": "flow-chart",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 6 – 13 Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 6-13 on your answer sheet.",
+      "wordLimit": "ONE WORD ONLY",
+      "title": "Recording New Zealand Pottery",
+      "questions": [
+        {
+          "n": 6
+        },
+        {
+          "n": 7
+        },
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "In 1954, Elizabeth Mein wrote a {{6}} on Otago pottery.",
+          "Mein subsequently spoke to Stuart Park, an Otago Museum {{7}}",
+          "Park then organised a pioneering {{8}}",
+          "Afterwards, {{9}} as well as museums began taking an interest in New Zealand pottery.",
+          "One researcher, Gail Lambert, started to gather information about particular pottery {{10}} around the country.",
+          "Lambert found that {{11}} were responsible for the destruction of many written documents.",
+          "Lambert then did a series of {{12}} to obtain the information she needed.",
+          "Her work resulted in a {{13}}"
+        ],
+        "arrow": "assets/p1-new-zealand-pottery-original-arrow.svg"
+      }
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-new-zealand-pottery",
+    "sourceParagraphCount": 5,
+    "requiresReview": false
+  },
+  "subtitle": "New Zealanders are recognising the importance of their local craftspeople",
+  "footnotes": [
+    "* clay: sticky, fine earth that can be shaped when wet and baked to make bricks, pottery and ceramics"
+  ],
+  "cover": {
+    "asset": "assets/cover-unique/p1-new-zealand-pottery.svg",
+    "alt": "New Zealand Pottery — A ceramics workshop at Cappadocia",
+    "credit": "Slyronit",
+    "source": "https://commons.wikimedia.org/wiki/File:A_ceramics_workshop_at_Cappadocia.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}

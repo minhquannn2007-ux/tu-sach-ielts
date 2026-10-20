@@ -1,0 +1,127 @@
+{
+  "id": "p1-how-deserts-grow",
+  "part": 1,
+  "title": "How deserts grow",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "In the 1930s, the United States entered an economic disaster. Farmers in western areas had been plowing the plains for land that had long been covered naturally by native grass. Without the natural grass to hold the soil together, strong winds lifted dust into the air. The resulting huge dust storms led to long periods of dust blowing in many places. The Dust Bowl, as this period of great environmental damage became known, was a lesson about desert formation through a combination of nature and human action."
+    },
+    {
+      "text": "Deserts are spreading in many regions like the western United States. large portions of northern Africa, Central Asia and Latin America face the real problem today. When we think of deserts, we may see only sand, but deserts can take many different forms, including dry grassland and dry woodland. When hot dry winds blow day after day, the soil becomes poor and unable to hold moisture in any form. When soil loses the balance of sustainability, the result is desertification, dry land turning into desert ecosystems. Nearly half of the world’s total land mass is composed of dry land ecosystems, defined by low annual rainfall and high temperatures. It was reported that up to 20% of these regions are already degraded and unsuitable for human, animal or plant life."
+    },
+    {
+      "text": "Dryland regions are also home to billions of the world’s poorest populations. Desertification leads to famine and extremely high levels of human migration. As people are displaced by new deserts, they are forced into other infertile regions, where the desertification process continues. Desertification is one of the world’s most urgent environmental issues, but it is not irreversible. Years after the Dust Bowl, federal conservation programs were able to restore the Great Plains to fertility."
+    },
+    {
+      "text": "In a healthy dryland ecosystem, relatively few animals and humans attempt to survive on the limited resources of the land, such as water, fertile soil and trees. Since rainfall is infrequent in semiarid regions, the land is not built to support huge fields of crops or to supply grazing for hundreds of thousands of cattle. The root cause of desertification is poor soil conditions leading to soil degradation. Healthy, productive soil is rich with organic matter. Humus is formed when rotted organic materials are transformed by micro organisms and fungi in soil that is rich in essential elements. Planting different crops on a piece of land each season, and responsible use of chemical fertilizers ensure that the soil has enough organic input to support healthy micro organisms. When topsoil is depleted of humus, it is either too loose or too compacted, both of which can lead to destructive erosion. All the rain in the world will not help infertile topsoil; it will only wash away."
+    },
+    {
+      "text": "Perhaps the greatest cause of soil erosion and desertification is an explosion in world population, particularly in developing countries. Throughout the 1980s, dry regions in developing countries, many expanding in desperately poor, developing countries, experienced huge population growth. Poor human populations have put a deadly strain on natural resources. Increasing numbers of people mean increased numbers of grazing animals and increased demand for firewood for fuel, exposing the topsoil to destructive erosion. Firewood is also used for cooking by many people. When unchecked, over cutting of forests by poor populations leads to increasing dry land desertification and slowing down the water cycle."
+    },
+    {
+      "text": "Human activities also worsen the biggest problem of living in a dryland region: lack of rainfall. When land is cleared of plant life, from overgrazing or logging, the surface of the Earth reflects more sunlight up into the atmosphere, creating even hotter temperatures. In semi arid regions, higher temperatures cause a higher rate of evaporation, and even less rainfall. The dust kicked up by cattle and the smoke created by wildfires introduce heavy particles into the atmosphere, making it more difficult for raindrops to form. Even war contributes to desertification. When refugees flee from invading armies, they move into some of the most marginal ecosystems in the world, bringing with them their farming practices, which can be highly unsuitable for their new home."
+    },
+    {
+      "text": "Ninety percent of the people who live in dryland ecosystems — those areas most prone to soil degradation and desertification — are citizens of developing countries. This adds up to billions of people, mostly poor and marginalized, who are immediately affected by the deadly consequences of desertification. Experts estimate that more than 24,000 people die every day from the effects of desertification. It is estimated that more than 70% of drylands in Africa, Asia and Latin America which are used for agricultural purposes are already experiencing these effects, it is time to start addressing this problem by educating the whole range of causes."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 1 – 7 Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "The term desertification was first used to describe the Dust Bowl."
+        },
+        {
+          "n": 2,
+          "prompt": "Dryland ecosystems make up around 20% of the Earth’s surface."
+        },
+        {
+          "n": 3,
+          "prompt": "Desertification makes people move to areas that are equally unsuitable for farming."
+        },
+        {
+          "n": 4,
+          "prompt": "Increased rainfall would make desert areas more fertile."
+        },
+        {
+          "n": 5,
+          "prompt": "Population has decreased in dryland areas."
+        },
+        {
+          "n": 6,
+          "prompt": "The removal of trees is more widespread than the removal of native grasses."
+        },
+        {
+          "n": 7,
+          "prompt": "Desertification is worse in Africa than in any other continent."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "type": "flow-chart",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 8 – 13 Complete the flow-chart below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+      "wordLimit": "ONE WORD ONLY",
+      "title": "Popolation increase",
+      "questions": [
+        {
+          "n": 8
+        },
+        {
+          "n": 9
+        },
+        {
+          "n": 10
+        },
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "linear",
+        "steps": [
+          "Grasses consumed by {{8}}",
+          "Trees destroyed for {{9}} , this increases the power of winds",
+          "More {{10}} is directed back to the atmosphere",
+          "Temperatures rise",
+          "Increased levels of {{11}}",
+          "{{12}} and {{13}} form heavy particles in the air",
+          "Decreased rainfall",
+          "Increased desertification"
+        ],
+        "arrow": "assets/p1-how-deserts-grow-original-arrow.svg"
+      }
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-how-deserts-grow",
+    "sourceParagraphCount": 7,
+    "requiresReview": false
+  },
+  "cover": {
+    "asset": "assets/cover-unique/p1-how-deserts-grow.svg",
+    "alt": "How deserts grow — Sossusvlei Dune Rippled cropped",
+    "credit": "Daniel Kraft",
+    "source": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Rippled_cropped.jpg",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+}
