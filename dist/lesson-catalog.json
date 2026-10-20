@@ -897,6 +897,25 @@
     }
   },
   {
+    "id": "p1-answers-underground",
+    "title": "Answers Underground",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Matching Names",
+      "Matching Information",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/cover-unique/p1-answers-underground.svg",
+      "alt": "Answers Underground — Anacortes Refinery 31911",
+      "credit": "Walter Siegmund (talk)",
+      "source": "https://commons.wikimedia.org/wiki/File:Anacortes_Refinery_31911.JPG",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    }
+  },
+  {
     "id": "p2-antarctic-architecture-halley-vi",
     "title": "Antarctic architecture: Halley VI",
     "part": 2,
@@ -4811,6 +4830,25 @@
     }
   },
   {
+    "id": "p3-let-s-teach-them-how-to-teach",
+    "title": "Let’s teach them how to teach",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Multiple Choice — Choose ONE",
+      "Yes / No / Not Given",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/cover-unique/p3-let-s-teach-them-how-to-teach.svg",
+      "alt": "Let’s teach them how to teach — Primary school children in classroom",
+      "credit": "US Department of Education",
+      "source": "https://commons.wikimedia.org/wiki/File:Primary_school_children_in_classroom.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
     "id": "p2-libraries",
     "title": "Libraries",
     "part": 2,
@@ -8262,6 +8300,25 @@
       "source": "https://commons.wikimedia.org/wiki/File:BrainHelathyAbusedPETscanNCERT.jpg",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  {
+    "id": "p3-the-benefits-of-learning-an-instrument",
+    "title": "The benefits of learning an instrument",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Multiple Choice — Choose ONE",
+      "Matching Sentence Endings"
+    ],
+    "cover": {
+      "asset": "assets/cover-unique/p3-the-benefits-of-learning-an-instrument.svg",
+      "alt": "The benefits of learning an instrument — 15-07-07 Piano player at St Pancras",
+      "credit": "Steve Bowbrick",
+      "source": "https://commons.wikimedia.org/wiki/File:15-07-07_Piano_player_at_St_Pancras.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
     }
   },
   {
