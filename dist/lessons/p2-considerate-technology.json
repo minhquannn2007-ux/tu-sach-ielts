@@ -1,0 +1,179 @@
+{
+  "id": "p2-considerate-technology",
+  "part": 2,
+  "title": "Considerate Technology",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "With rapid changes in technology, people are being subjected to a relentless barrage of emails, calls, instant messages and automated notifications – all of them oblivious to whether we are busy or even present. Although we could simply turn off the phones or close the email program when it is time for a meeting or a stretch of concentrated work, we usually don’t. We just endure the consequences."
+    },
+    {
+      "text": "However, numerous studies have shown that when people are unexpectedly interrupted, they not only work less efficiently but also make more mistakes. ‘It seems to add cumulatively to a feeling of frustration,’ says Rosalind Picard, a cognitive scientist at Massachusetts Institute of Technology, and that stress response makes it hard to regain focus. It’s not only a matter of productivity. For pilots, drivers, soldiers and doctors, errors of inattention can be downright dangerous. ‘If we could just give our computers and phones some understanding of human attention and memory, it would make them seem a lot more thoughtful and courteous,’ says Eric Horvitz of Microsoft Research."
+    },
+    {
+      "text": "To do this, the machines need new skills of three kinds: sensing, reasoning and communicating. First a system must sense or infer where its owner is and what he or she is doing. Next it must weigh the value of the message it wants to convey against the cost of disruption. Then it has to choose the best mode and time to interject."
+    },
+    {
+      "text": "Surprisingly, surveys show that most people aren’t really as busy as they think they are, which is why we can usually tolerate interruptions from our inconsiderate paraphernalia. James Fogarty and Scott E. Hudson of Carnegie Mellon University recently teamed up with Jennifer Lai of IBM Research to study ten managers, researchers and interns at work. They videotaped their subjects and periodically had them rate their ‘interruptibility’. On average the subjects wanted to work without interruption about one third of the time. In studies of Microsoft employees, Horvitz has similarly found that they typically spend more than 65 per cent of their day doing things which do not require their full attention. Therefore, today’s phones and computers, which naively assume that the user is never too busy to take a call or receive an email, are probably correct two thirds of the time. (Hudson and Horvitz acknowledge, however, that it is not yet clear how well these figures generalize to other jobs.) To be useful, then, considerate systems will have to be more than 65 per cent accurate in sensing when their users are near their cognitive limits."
+    },
+    {
+      "text": "Fortunately, this doesn’t seem to require strapping someone into a heart monitor or brain scanner. Fogarty and his collaborators have found that simply using a microphone to detect whether anyone is talking within earshot meant accuracy rates of 76 per cent. That is as good as the human judgment of co-workers who viewed videotapes of the subjects and guessed when they were uninterruptible. When Fogarty’s group enhanced the software to detect not only conversations but also mouse movement, keyboard activity and the applications running on machines, the system’s accuracy rates were even higher."
+    },
+    {
+      "text": "Bestcom/Enhanced Telephony, a Microsoft prototype based on Horvitz’s work, digs a little deeper to find clues about what users are doing. Microsoft launched a test of the system in mid-2003 and by October 2004 about 3,800 people were using the system to field their incoming phone calls. Horvitz himself is one of those testers. When he is busy, Bestcom silently handles one call after the other. First it checks whether the caller is listed in his address book, the company directory, or its log of people whom he has called recently. Triangulating these sources, it tries to deduce their relationship with the person they are calling. Family members, supervisors and people Horvitz called earlier in the day ring through. Others see a message on their computer that he is busy and won’t be available until a certain time. The system scans Horvitz’s and the caller’s calendars and offers to reschedule the call at a time that is open for both. Some callers choose that option; others leave voicemail. Emails get a similar screening. When Horvitz is out of the office, Bestcom automatically offers to forward selected callers to his cell phone – unless his calendar and other evidence suggest that he is in a meeting."
+    },
+    {
+      "text": "Most large companies already use computerized phone systems and standard calendar and contact management software, so tapping into those ‘sensors’ should be straightforward to set up. However, not all employees will like the idea of having a microphone on all the time in their office, nor will everyone want to expose their datebook to some program they do not ultimately control."
+    },
+    {
+      "text": "Moreover, some managers may be tempted to equate a ‘state of low attention’ with slacking off and punish those who seem insufficiently busy. The researchers seem to appreciate these risks. Hudson argues that an attentive system should not record audio or keystrokes but simply analyze data streams and discard them after logging ‘conversation in progress’, ‘typing detected’, and so on. ‘We built a privacy tool into Bestcom from the beginning,’ Horvitz emphasizes, ‘so users can control various kinds of information it collects about them.’ Measures such as these may go some way towards addressing the issue of privacy."
+    }
+  ],
+  "groups": [
+    {
+      "sourceInstructions": "Questions 14 – 19 Do the following statements agree with the information given in Reading Passage 2? In boxes 14-19 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "People generally seem to prefer to put up with interruptions rather than take measures to avoid them."
+        },
+        {
+          "n": 15,
+          "prompt": "Research suggests that people are often wrong in their perceptions of how busy they are."
+        },
+        {
+          "n": 16,
+          "prompt": "Hudson and Horvitz are convinced that they would find the same results in all fields of employment."
+        },
+        {
+          "n": 17,
+          "prompt": "In experiments, Fogarty's considerate system's ability to assess a person's interruptibility was improved when the person's computer use was monitored."
+        },
+        {
+          "n": 18,
+          "prompt": "Initially there was reluctance to test the Bestcom system."
+        },
+        {
+          "n": 19,
+          "prompt": "It will be a complicated procedure to integrate considerate technology, such as Bestcom, with existing office systems."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "type": "flow-chart",
+      "sourcePages": [
+        4
+      ],
+      "sourceInstructions": "Questions 20 – 26 Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 20-26 on your answer sheet.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "questions": [
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        },
+        {
+          "n": 22
+        },
+        {
+          "n": 23
+        },
+        {
+          "n": 24
+        },
+        {
+          "n": 25
+        },
+        {
+          "n": 26
+        }
+      ],
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "positioned"
+      },
+      "diagram": {
+        "asset": "assets/p2-considerate-technology-original-flow.svg",
+        "alt": "Original source flow-chart arrows and geometry with selectable labels.",
+        "width": 1632,
+        "height": 1171,
+        "minWidth": 1632,
+        "layoutVersion": 2,
+        "lineHeight": 30,
+        "inputWidth": 180,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "width": 100,
+          "height": 100
+        },
+        "captions": [
+          {
+            "x": 16.875,
+            "y": 3.562005277044855,
+            "width": 69.31818181818183,
+            "text": "Identity of caller is checked against various sources in an attempt to\ndetermine what {{20}} is.",
+            "lineCount": 2
+          },
+          {
+            "x": 15.340909090909092,
+            "y": 28.07387862796833,
+            "width": 24.62121212121212,
+            "text": "Person is in office.",
+            "lineCount": 1
+          },
+          {
+            "x": 72.53787878787878,
+            "y": 28.07387862796833,
+            "width": 22.727272727272727,
+            "text": "Person is absent.",
+            "lineCount": 1
+          },
+          {
+            "x": 3.4090909090909087,
+            "y": 57.810026385224276,
+            "width": 19.696969696969695,
+            "text": "Access is granted\nto relatives,\n{{21}} and\nrecent callers.",
+            "lineCount": 4
+          },
+          {
+            "x": 28.920454545454543,
+            "y": 57.810026385224276,
+            "width": 46.96969696969697,
+            "text": "Others are presented with {{22}} stating\nwhen person is available. Individual\n{{23}} of both caller and person are\nchecked in attempt to {{24}}.\nOpportunity to leave voicemail message if this\nis not convenient.",
+            "lineCount": 6
+          },
+          {
+            "x": 55.73863636363636,
+            "y": 85.77836411609499,
+            "width": 41.28787878787879,
+            "text": "Selected callers can be put through to\nperson’s {{25}} (as long as he/she\nis not occupied at a {{26}}).",
+            "lineCount": 3
+          }
+        ]
+      },
+      "title": "How Bestcom works"
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p2-considerate-technology",
+    "sourceParagraphCount": 8,
+    "requiresReview": false
+  },
+  "subtitle": "Digital gadgets demand ever more of our attention with their continual interruptions. Engineers are now testing computers and phones that sense when you’re busy and spare you from distraction",
+  "cover": {
+    "asset": "assets/cover-unique/p2-considerate-technology.svg",
+    "alt": "Considerate Technology — Black smartphone in hand (Unsplash)",
+    "credit": "Dennis Cortés cortes",
+    "source": "https://commons.wikimedia.org/wiki/File:Black_smartphone_in_hand_(Unsplash).jpg",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  }
+}

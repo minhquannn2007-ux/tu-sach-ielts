@@ -1,0 +1,223 @@
+{
+  "id": "p1-becoming-an-expert",
+  "part": 1,
+  "title": "Becoming an expert",
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "text": "Expertise is commitment coupled with creativity. It takes a considerable amount of time and regular exposure to a large number of cases to become an expert. An individual enters a field of study as a novice. The novice needs to acquire the guiding principles and rules of a given task in order to undertake that task. Concurrently, the novice needs to be exposed to specific cases, or instances, that test the boundaries of such rules. Generally, a novice will find a mentor to direct them through the process of acquiring new knowledge."
+    },
+    {
+      "text": "In time, and with much practice, the novice begins to distinguish patterns of behavior within cases, and thus becomes a journeyman. With more practice and exposure to increasingly complex cases, the journeyman finds patterns not only within cases but also between cases. More importantly, the journeyman learns that these patterns often repeat themselves over time. The journeyman still maintains regular contact with a mentor to solve specific problems and learn more complex strategies."
+    },
+    {
+      "text": "When journeymen start to make and test hypotheses about future behavior based on past experiences, they begin the next transition. Once they creatively generate knowledge, rather than simply matching superficial patterns, they become experts. At this point, they are confident in their knowledge and no longer need a mentor – they become responsible for their own knowledge. Once they make predictions based on patterns, and test those predictions against actual behavior, they are generating new knowledge."
+    },
+    {
+      "text": "This process is rather like an apprenticeship model. Apprenticeship may seem like a restrictive 18th-century mode of education, but it is still a standard method of training for many complex tasks. Academic doctoral programs are based on an apprenticeship model, as are fields like law, music, engineering, and medicine. Graduate students enter such fields of study, find mentors, and begin the long process of becoming independent experts and generating new knowledge in their respective domains."
+    },
+    {
+      "text": "Experts have a deeper understanding of their domains than novices have, and utilize higher-order principles to solve problems. A novice, for example, would group objects together by color or size, whereas an expert would group the same objects according to their function or utility. Experts comprehend the meaning of data and weigh variables using different criteria within their domains better than novices. Experts recognize variables that have the largest influence on a particular problem and focus their attention on those variables."
+    },
+    {
+      "text": "Experts have better domain-specific short-term and long-term memory than novices have. Moreover, experts perform tasks faster than novices and commit fewer errors while solving problems. Interestingly, experts go about solving ind problems differently than novices. Experts spend more time thinking about a problem to fully understand it at the beginning of a task than do novices, who immediately seek to find a solution. Experts use their knowledge of previous cases as a context for creating mental models to solve given problems."
+    },
+    {
+      "text": "Better at self-monitoring than novices, experts are more aware of instances where they have committed errors or failed to understand a problem. Experts check their solutions more often than novices and recognize when they are missing information necessary for solving a problem. Experts are aware of the limits of their domain knowledge and apply their domain's principles and rules to solve problems that fall outside of their experience base."
+    },
+    {
+      "text": "The Contradiction of Expertise",
+      "heading": true
+    },
+    {
+      "text": "The strengths of expertise can also be weaknesses. Although one would expect experts to be good forecasters, they are not particularly good at making predictions about the future. The performance of experts has been tested against predictions derived from pure statistical analysis of past events to determine if they are better than these models. With more than 200 experiments in different domains, it is clear that the answer is no."
+    },
+    {
+      "text": "Theorists and researchers differ when trying to explain why experts are less accurate forecasters than statistical models. Some have argued that experts, like all humans, are inconsistent when using mental models to make predictions. That is, the model an expert uses for predicting something in one month, is different from the model used for predicting the same thing in a following month, although identical data sets are used in both instances."
+    },
+    {
+      "text": "A number of other researchers point to human bias in order to explain unreliable expert predictions. During the last 30 years, researchers have categorized, experimented with, and theorized about the different aspects of forecasting. Despite such efforts, the literature shows little consensus regarding the causes or manifestations of human bias."
+    },
+    {
+      "text": "The very method by which one becomes an expert explains why experts are much better at describing, explaining, performing tasks, and problem-solving within their domains than are novices, but, with a few exceptions, are worse at forecasting than tables based on historical, statistical models."
+    }
+  ],
+  "groups": [
+    {
+      "type": "flow-chart",
+      "sourcePages": [
+        3
+      ],
+      "sourceInstructions": "Questions 1 – 5 Complete the flow-chart below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answer in boxes 1-5 on your answer sheet.",
+      "wordLimit": "NO MORE THAN THREE WORDS",
+      "questions": [
+        {
+          "n": 1,
+          "slots": 2
+        },
+        {
+          "n": 2
+        },
+        {
+          "n": 3
+        },
+        {
+          "n": 4
+        },
+        {
+          "n": 5
+        }
+      ],
+      "sourceLayoutChecked": true,
+      "flow": {
+        "layout": "positioned"
+      },
+      "diagram": {
+        "asset": "assets/p1-becoming-an-expert-original-flow.svg",
+        "alt": "Original source flow-chart arrows and geometry with selectable labels.",
+        "width": 1530,
+        "height": 695,
+        "minWidth": 1530,
+        "layoutVersion": 2,
+        "lineHeight": 30,
+        "inputWidth": 180,
+        "image": {
+          "x": 0,
+          "y": 0,
+          "width": 100,
+          "height": 100
+        },
+        "captions": [
+          {
+            "x": 4.1800000000000015,
+            "y": 2.9074889867841387,
+            "width": 17.0,
+            "text": "Novices",
+            "title": true,
+            "lineCount": 1
+          },
+          {
+            "x": 19.34,
+            "y": 2.9074889867841387,
+            "width": 80.0,
+            "text": "• have to learn the key {{1}} and {{1:1}} of tasks before\n  performing them",
+            "lineCount": 2
+          },
+          {
+            "x": 19.34,
+            "y": 21.409691629955947,
+            "width": 80.0,
+            "text": "• usually require the help of a {{2}}",
+            "lineCount": 1
+          },
+          {
+            "x": 1.6599999999999993,
+            "y": 43.30396475770926,
+            "width": 17.0,
+            "text": "Journeyman",
+            "title": true,
+            "lineCount": 1
+          },
+          {
+            "x": 19.34,
+            "y": 43.30396475770926,
+            "width": 80.0,
+            "text": "• recognise different {{3}} in cases that become more and\n  more {{4}}",
+            "lineCount": 2
+          },
+          {
+            "x": 4.3999999999999995,
+            "y": 73.568281938326,
+            "width": 15.0,
+            "text": "Experts",
+            "title": true,
+            "lineCount": 1
+          },
+          {
+            "x": 19.34,
+            "y": 73.568281938326,
+            "width": 80.0,
+            "text": "• are able to make and {{5}} predictions",
+            "lineCount": 1
+          },
+          {
+            "x": 19.34,
+            "y": 85.90308370044053,
+            "width": 80.0,
+            "text": "• can base predictions on experience and on what they know in order to\n  create new knowledge",
+            "lineCount": 2
+          }
+        ]
+      }
+    },
+    {
+      "sourceInstructions": "Questions 6 – 10 Do the following statements agree with the information given in Reading Passage 1? In boxes 6-10 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 6,
+          "prompt": "Experts and novices use the same classification systems for objects"
+        },
+        {
+          "n": 7,
+          "prompt": "Novices are often required to work on tasks that build memory skills."
+        },
+        {
+          "n": 8,
+          "prompt": "Novices perform tasks more slowly than experts."
+        },
+        {
+          "n": 9,
+          "prompt": "Novices begin a task by looking for an answer straight away."
+        },
+        {
+          "n": 10,
+          "prompt": "Experts review their work more efficiently than novices."
+        }
+      ],
+      "type": "tfng"
+    },
+    {
+      "sourceInstructions": "Questions 11 – 13 Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answer in boxes 10-13 on your answer sheet.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 11
+        },
+        {
+          "n": 12
+        },
+        {
+          "n": 13
+        }
+      ],
+      "title": "The Contradiction of Expertise",
+      "type": "summary-input",
+      "task": "summary",
+      "wordLimit": "NO MORE THAN TWO WORDS",
+      "content": [
+        "Researchers have conducted a large number of {{11}} in different areas which show that statistical models provide more accurate predictions than experts. Some theorists think this may be because experts can apply different mental models to the same data sets on different occasions. Others suggest that forms of {{12}} may also influence experts, although there is not a great deal of {{13}} about why or how this happens."
+      ]
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "jobId": "p1-becoming-an-expert",
+    "sourceParagraphCount": 12,
+    "requiresReview": false
+  },
+  "subtitle": "What is the nature of expertise and what is the process by which one moves from being a novice, to a journeyman, and eventually to becoming an expert?",
+  "cover": {
+    "asset": "assets/cover-unique/p1-becoming-an-expert.svg",
+    "alt": "Becoming an expert — Reading Wikipedia in the Classroom for Secondary School Students 87",
+    "credit": "James Rhoda",
+    "source": "https://commons.wikimedia.org/wiki/File:Reading_Wikipedia_in_the_Classroom_for_Secondary_School_Students_87.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}
