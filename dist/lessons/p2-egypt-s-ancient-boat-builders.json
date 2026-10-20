@@ -1,0 +1,186 @@
+{
+  "id": "p2-egypt-s-ancient-boat-builders",
+  "title": "Egypt’s ancient boat-builders",
+  "part": 2,
+  "mode": "practice",
+  "status": "reviewed",
+  "paragraphs": [
+    {
+      "label": "A",
+      "text": "The scenes carved into a wall of an Egyptian temple dating from the 15th century BC, tell of a remarkable sea voyage from a mysterious land known as Punt, or ‘Land of God’. They show a fleet of ships bearing exotic cargo, navigating through high-crested waves on a journey. The exact meaning of these detailed carvings has divided Egyptologists ever since they were discovered in the mid-19th century. ‘Some people have argued that Punt was not on the sea, or a fictitious place altogether,’ says Oxford University Egyptologist John Baines. However, a series of remarkable discoveries on a desolate stretch of Egypt’s Red Sea coast has settled the debate. ‘These finds remove all doubt that you reach Punt by sea,’ Baines says. ‘The Egyptians must have had considerable seagoing experience.’",
+      "figure": {
+        "asset": "assets/p2-egypt-s-ancient-boat-builders-source-map.png",
+        "alt": "Original source map locating Mersa Gawasis on the Red Sea and the proposed site of Punt"
+      }
+    },
+    {
+      "label": "B",
+      "text": "The archaeologists behind these discoveries are Kathryn Bard of Boston University, USA, and Rodolfo Fattovich of Orientale University, Italy. From 2002 they spent several weeks each year examining a dried-up lagoon¹ known in Egypt as Mersa Gawasis, and the coastal cliffs nearby. They were searching for signs of a harbour that might have sheltered merchant ships like those depicted in the wall carvings. Finally, in December 2004, Bard was cleaning what she thought was the back wall of a rock shelter when she put her hand through the sand into an open space, and uncovered a hemispherical cave about 5 metres across and 2 metres high. The cave’s entrance was carved into an exact rectangle and was clearly not a natural formation. Inside, the archaeologists found shattered storage jars, broken boxes made from cedar planks and five grinding stones. A pottery fragment inscribed with the name of Amenemhat III, a pharaoh who ruled Egypt around 1800 BC, helped the team pinpoint the cave’s age."
+    },
+    {
+      "label": "C",
+      "text": "Not long afterwards, Bard and Fattovich came across a larger cave, reinforced with old wooden timbers and stone anchors, the first conclusive evidence of large-scale Egyptian seafaring ever discovered. Over the next few years, they uncovered the hidden remnants of an ancient boat-building and seafaring community. Many of the artefacts found were full of holes – the work of tiny marine animals known as shipworms. In addition to eight caves, Bard and Fattovich found remains of five mud-brick ramps that might have been used to ease ships into the water. One cave contained hundreds of metres of rope, expertly coiled and stacked."
+    },
+    {
+      "label": "D",
+      "text": "Material connecting Mersa Gawasis to Punt accumulated both inside and outside the caves. A few hundred metres from the cliffs lie piles of crumbled stone and conch shells – most probably the remains of altars. Among these are stones carved with inscriptions that specifically mention missions to Punt. As if that weren’t enough, among the remnants found outside one cave were two planks marked with directions for assembling a ship. One of them bore an inscription still partly legible after 3,800 years: ‘Year 8 under his majesty the king of Upper and Lower Egypt...given life forever...of wonderful things of Punt.’"
+    },
+    {
+      "label": "E",
+      "text": "While the Mersa Gawasis artefacts have answered some questions, they have raised others. For instance, how did the expeditions to Punt actually work, and how did the Egyptians construct vessels that could make a round-trip voyage of over 3,000 kilometres? Cheryl Ward, a maritime archaeologist at Coastal Carolina University in South Carolina, USA, has gone some way to answering these questions. She spent three years building a full-scale reconstruction of a ship that would have docked in the lagoon of Mersa Gawasis. Ward has determined that unlike modern vessels, the Egyptian ship was essentially one giant hull. The Egyptian ships were also unique in that they were held together with fittings that needed no metal fasteners, and could be taken apart and put back together again. ‘From the very beginning, the Egyptians were building boats that could be disassembled, and that makes them different from anyone else,’ Ward says."
+    },
+    {
+      "label": "F",
+      "text": "For all the skill and craftsmanship evident in the Mersa Gawasis caves, ancient Egypt’s ocean voyages were most likely an exception to the usual modes of trade, born out of a necessity to obtain precious materials, such as incense and aromatic resins. For most of Egypt’s history, these goods had moved along established routes across the eastern desert and through modern-day Sudan. But around the time Mersa Gawasis came into use, it seems a hostile new kingdom to the south cut Egypt off from its supply of exotic materials. ‘If they could have gone overland, it would have been much easier than bringing timbers from Lebanon, building ships on the upper Nile, taking them apart and carrying them across the desert,’ Bard says. ‘They weren’t stupid—no one wants to do things the hard way. But geopolitically, they had no other choice.’ Fattovich suggests that there were probably only 15 to 20 expeditions over some 400 years, about one every two decades. After that, Mersa Gawasis fell out of use, probably because either there was no longer enough water in the lagoon to float ships, or overland links improved, or alternative sites were found. The last sailors to use the lagoon sealed up their equipment and shelters behind mud bricks and sand to await expeditions that never came."
+    }
+  ],
+  "groups": [
+    {
+      "type": "matching-info",
+      "sourceInstructions": "The text has six paragraphs, A–F. Which paragraph contains the following information? You may use any letter more than once.",
+      "sourcePages": [
+        3
+      ],
+      "paragraphCount": 6,
+      "paragraphUnit": "paragraphs",
+      "letters": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "reuse": true,
+      "questions": [
+        {
+          "n": 14,
+          "prompt": "possible reasons why the site of Mersa Gawasis was abandoned"
+        },
+        {
+          "n": 15,
+          "prompt": "mention of a lack of agreement about an archaeological discovery"
+        },
+        {
+          "n": 16,
+          "prompt": "reference to a study which involved copying ancient Egyptian boat-building techniques"
+        },
+        {
+          "n": 17,
+          "prompt": "a reason why the ancient Egyptians needed to import goods by sea"
+        }
+      ]
+    },
+    {
+      "type": "summary-input",
+      "task": "sentences",
+      "sourceInstructions": "Complete the sentences. Choose ONE WORD ONLY from the passage for each answer.",
+      "wordLimit": "ONE WORD ONLY",
+      "sourcePages": [
+        3
+      ],
+      "questions": [
+        {
+          "n": 18
+        },
+        {
+          "n": 19
+        },
+        {
+          "n": 20
+        },
+        {
+          "n": 21
+        }
+      ],
+      "content": [
+        "Illustrations of merchant ships sailing from Punt were found on wall carvings in an ancient {{18}} in Egypt.",
+        "Bard and Fattovich hoped to find evidence of a {{19}} in the area of Mersa Gawasis.",
+        "When Bard first discovered a cave at Mersa Gawasis, the shape of its {{20}} indicated that it was man-made.",
+        "Bard and Fattovich discovered a considerable number of objects that had {{21}} made by small sea creatures."
+      ]
+    },
+    {
+      "type": "matching-features",
+      "sourceInstructions": "Questions 22 – 26 Look at the following statements (Questions 22-26) and the list of archaeologists below. Match each statement with the correct archaeologist, A-D. Write the correct letter, A-D, in boxes 22-26 on your answer sheet. NB You may use any letter more than once.",
+      "sourcePages": [
+        4
+      ],
+      "questions": [
+        {
+          "n": 22,
+          "prompt": "Ancient Egyptian sea voyages were probably relatively infrequent."
+        },
+        {
+          "n": 23,
+          "prompt": "It is now certain that the ancient Egyptians sailed to Punt."
+        },
+        {
+          "n": 24,
+          "prompt": "During a certain period, Egyptians were forced to use sea rather than overland trade routes."
+        },
+        {
+          "n": 25,
+          "prompt": "It has been suggested that Punt never existed."
+        },
+        {
+          "n": 26,
+          "prompt": "The construction of ancient Egyptian ships was unlike any other."
+        }
+      ],
+      "bank": [
+        {
+          "value": "A",
+          "text": "John Baines"
+        },
+        {
+          "value": "B",
+          "text": "Kathryn Bard"
+        },
+        {
+          "value": "C",
+          "text": "Rodolfo Fattovich"
+        },
+        {
+          "value": "D",
+          "text": "Cheryl Ward"
+        }
+      ],
+      "targetName": "archaeologist",
+      "listTitle": "List of Archaeologists",
+      "reuse": true
+    }
+  ],
+  "displayParagraphLabels": true,
+  "conversion": {
+    "version": "3.35-source-reviewed-scans",
+    "jobId": "p2-egypt-s-ancient-boat-builders",
+    "method": "source-page-verified-transcription",
+    "requiresReview": false,
+    "sourceParagraphCount": 6
+  },
+  "review": {
+    "sourceContentChecked": true,
+    "sourceLayoutChecked": true,
+    "batch": "scan-20261020i",
+    "checks": [
+      "every source page read",
+      "complete question range and reading paragraphs",
+      "source column order and paragraph boundaries",
+      "source-faithful notes and footnotes",
+      "original task wording and word limits"
+    ]
+  },
+  "subtitle": "Archaeological discoveries on Egypt’s Red Sea coast indicate that the region’s ancient inhabitants were a skilled seafaring people",
+  "footnotes": [
+    "¹ lagoon: a shallow lake next to, but not connected to the sea"
+  ],
+  "cover": {
+    "asset": "assets/p2-egypt-s-ancient-boat-builders-cover.jpg",
+    "alt": "Grand Egyptian Museum - Khufu ship.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum_-_Khufu_ship.jpg",
+    "credit": "Alena Belova for Exhibo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+}
