@@ -1,0 +1,12 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';const {Window}=await import(process.env.HAPPY_DOM_MODULE||'happy-dom');
+for(const full of [false,true]){
+const w=new Window({url:'https://test.example/exam.html'+(full?'?full=1':''),settings:{disableCSSFileLoading:true,disableJavaScriptFileLoading:true,disableJavaScriptEvaluation:true}});if(full)Object.defineProperty(w,'parent',{value:{postMessage(){}},configurable:true});w.confirm=()=>true;w.HTMLElement.prototype.scrollIntoView=function(){};w.document.write(fs.readFileSync('dist/exam.html','utf8').replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,''));w.eval(fs.readFileSync('dist/exam-data.js','utf8'));w.eval(fs.readFileSync('dist/exam-engine.js','utf8'));
+for(const id of ['p1-the-history-of-the-pencil','p1-the-history-of-the-pencil-manufacture','p3-marketing-and-the-information-age']){
+ const data=JSON.parse(fs.readFileSync('dist/lessons/'+id+'.json'));data.status='reviewed';data.conversion.requiresReview=false;assert.equal(w.IELTSData.validate(data).join('; '),'');await w.IELTSExam.boot(data,{utilities:false});const d=w.document;
+ assert.equal(new Set([...d.querySelectorAll('#qpanel input')].map(x=>x.name)).size,data.part===3?14:13);
+ if(id.includes('marketing')){const g=d.querySelector('[data-question-type="flow-chart"]');assert(g);assert.match(g.querySelector('.sec-inst').textContent,/flow-chart/);assert.equal(g.querySelectorAll('.diagram-label').length,5);assert.equal(g.querySelectorAll('input').length,4);for(let n=37;n<=40;n++){const i=d.querySelector('input[name=q'+n+']');i.value='test'+n;i.dispatchEvent(new w.Event('input',{bubbles:true}));assert.equal(w.IELTSExam.values()[n-27],'test'+n)}const snap=w.IELTSExam.snapshot();d.querySelector('input[name=q37]').value='';w.IELTSExam.restore(snap);assert.equal(d.querySelector('input[name=q37]').value,'test37');const broken=structuredClone(data);broken.groups[2].diagram.captions[0].x=-2;assert(w.IELTSData.validate(broken).includes('Invalid diagram label coordinates'))}
+ if(id.endsWith('manufacture'))assert.equal(d.querySelectorAll('.flow-chart-box').length,8);
+ if(id==='p1-the-history-of-the-pencil'){assert.equal(d.querySelectorAll('.source-note-row').length,10);assert.equal(d.querySelectorAll('input[type=radio]').length,21)}
+}
+w.happyDOM.abort();}
+console.log('PASS 3 source-reviewed lessons: 13/13/14 controls, note indentation, eight flow stages, four cyclic flow inputs, snapshot/restore and invalid layout rejection.');

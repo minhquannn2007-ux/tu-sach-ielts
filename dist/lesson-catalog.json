@@ -1030,24 +1030,6 @@
     }
   },
   {
-    "id": "p1-australias-airborne-dentists",
-    "title": "Australia’s Airborne Dentists",
-    "part": 1,
-    "count": 13,
-    "types": [
-      "True / False / Not Given",
-      "Note Completion"
-    ],
-    "cover": {
-      "asset": "assets/batch-plane-cover.jpg",
-      "alt": "Máy bay",
-      "credit": "Michal Mrozek",
-      "source": "https://unsplash.com/photos/jiJHztoxSVw",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
     "id": "p2-australia-s-artistic-heritage",
     "title": "Australia's Artistic Heritage",
     "part": 2,
@@ -1062,41 +1044,6 @@
       "alt": "Ballet",
       "credit": "Kazuo Ota",
       "source": "https://unsplash.com/photos/ynDNHq842_s",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
-    "id": "p1-australias-cane-toad-problem",
-    "title": "Australia’s cane toad problem",
-    "part": 1,
-    "count": 13,
-    "types": [
-      "Note Completion",
-      "True / False / Not Given"
-    ],
-    "cover": {
-      "asset": "assets/cane-toad-source-cover.png",
-      "alt": "Cane toad",
-      "credit": "Ảnh trong đề gốc",
-      "license": "User-provided source PDF"
-    }
-  },
-  {
-    "id": "p3-australias-megafauna-controversy",
-    "title": "Australia’s Megafauna Controversy",
-    "part": 3,
-    "count": 14,
-    "types": [
-      "Yes / No / Not Given",
-      "Summary Completion",
-      "Multiple Choice — Choose ONE"
-    ],
-    "cover": {
-      "asset": "assets/batch-dinosaur-cover.jpg",
-      "alt": "Bộ xương khủng long",
-      "credit": "Tofan Teodor",
-      "source": "https://unsplash.com/photos/loDom-q2mwA",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -1191,6 +1138,59 @@
       "alt": "Bóng tennis",
       "credit": "Marianna Smiley",
       "source": "https://unsplash.com/fr/photos/balle-de-tennis-verte-sur-le-terrain-dherbe-verte-pendant-la-journee-Y4YeUSYLFsw",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-australias-airborne-dentists",
+    "title": "Australia’s Airborne Dentists",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-plane-cover.jpg",
+      "alt": "Máy bay",
+      "credit": "Michal Mrozek",
+      "source": "https://unsplash.com/photos/jiJHztoxSVw",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-australias-cane-toad-problem",
+    "title": "Australia’s cane toad problem",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/cane-toad-source-cover.png",
+      "alt": "Cane toad",
+      "credit": "Ảnh trong đề gốc",
+      "license": "User-provided source PDF"
+    }
+  },
+  {
+    "id": "p3-australias-megafauna-controversy",
+    "title": "Australia’s Megafauna Controversy",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Yes / No / Not Given",
+      "Summary Completion",
+      "Multiple Choice — Choose ONE"
+    ],
+    "cover": {
+      "asset": "assets/batch-dinosaur-cover.jpg",
+      "alt": "Bộ xương khủng long",
+      "credit": "Tofan Teodor",
+      "source": "https://unsplash.com/photos/loDom-q2mwA",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -1965,25 +1965,6 @@
     }
   },
   {
-    "id": "p3-childs-play-in-medieval-england",
-    "title": "Child’s Play in Medieval England",
-    "part": 3,
-    "count": 14,
-    "types": [
-      "Matching Information",
-      "Matching Names",
-      "True / False / Not Given"
-    ],
-    "cover": {
-      "asset": "assets/batch-ballet-cover.jpg",
-      "alt": "Ballet",
-      "credit": "Kazuo Ota",
-      "source": "https://unsplash.com/photos/ynDNHq842_s",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
     "id": "p3-children-and-symbols",
     "title": "Children and Symbols",
     "part": 3,
@@ -2022,25 +2003,6 @@
     }
   },
   {
-    "id": "p2-childrens-literature",
-    "title": "Children’s literature",
-    "part": 2,
-    "count": 13,
-    "types": [
-      "Table Completion",
-      "Matching Sentence Endings",
-      "True / False / Not Given"
-    ],
-    "cover": {
-      "asset": "assets/library-cover.jpg",
-      "alt": "Kệ sách trong thư viện",
-      "credit": "Daniel Forsman",
-      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
     "id": "p3-children-s-literature-studies-today",
     "title": "Children's literature studies today",
     "part": 3,
@@ -2073,6 +2035,44 @@
       "alt": "Kệ sách trong thư viện",
       "credit": "Daniel Forsman",
       "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p2-childrens-literature",
+    "title": "Children’s literature",
+    "part": 2,
+    "count": 13,
+    "types": [
+      "Table Completion",
+      "Matching Sentence Endings",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/library-cover.jpg",
+      "alt": "Kệ sách trong thư viện",
+      "credit": "Daniel Forsman",
+      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-childs-play-in-medieval-england",
+    "title": "Child’s Play in Medieval England",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Matching Names",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/batch-ballet-cover.jpg",
+      "alt": "Ballet",
+      "credit": "Kazuo Ota",
+      "source": "https://unsplash.com/photos/ynDNHq842_s",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -4830,24 +4830,6 @@
     }
   },
   {
-    "id": "p1-maori-buildings-in-new-zealand",
-    "title": "Māori buildings in New Zealand",
-    "part": 1,
-    "count": 13,
-    "types": [
-      "True / False / Not Given",
-      "Note Completion"
-    ],
-    "cover": {
-      "asset": "assets/batch-wood-cover.jpg",
-      "alt": "Nhà gỗ",
-      "credit": "Louis Renaudineau",
-      "source": "https://unsplash.com/photos/hPSobsDtXQo",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
     "id": "p1-map-reading-and-gender",
     "title": "Map-reading and Gender",
     "part": 1,
@@ -4939,6 +4921,25 @@
       "credit": "Daryl Han",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p3-marketing-and-the-information-age",
+    "title": "Marketing and the information age",
+    "part": 3,
+    "count": 14,
+    "types": [
+      "Matching Information",
+      "Yes / No / Not Given",
+      "Flow-chart Completion"
+    ],
+    "cover": {
+      "asset": "assets/cover-unique/p3-marketing-and-the-information-age.svg",
+      "alt": "Marketing and the information age — Horasis Global China Business Meeting 2013 - boardroom panel (10865474346)",
+      "credit": "Richter Frank-Jurgen",
+      "source": "https://commons.wikimedia.org/wiki/File:Horasis_Global_China_Business_Meeting_2013_-_boardroom_panel_(10865474346).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
     }
   },
   {
@@ -5389,6 +5390,24 @@
       "alt": "Ballet",
       "credit": "Kazuo Ota",
       "source": "https://unsplash.com/photos/ynDNHq842_s",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license"
+    }
+  },
+  {
+    "id": "p1-maori-buildings-in-new-zealand",
+    "title": "Māori buildings in New Zealand",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "True / False / Not Given",
+      "Note Completion"
+    ],
+    "cover": {
+      "asset": "assets/batch-wood-cover.jpg",
+      "alt": "Nhà gỗ",
+      "credit": "Louis Renaudineau",
+      "source": "https://unsplash.com/photos/hPSobsDtXQo",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }
@@ -6936,14 +6955,13 @@
     }
   },
   {
-    "id": "p2-sleep-who-needs-it",
-    "title": "Sleep – who needs it",
-    "part": 2,
+    "id": "p1-sleep-study-on-modern-day-hunter-gatherers-dispels-popular-notions",
+    "title": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions",
+    "part": 1,
     "count": 13,
     "types": [
-      "Matching Names",
-      "Sentence Completion",
-      "Matching Information"
+      "True / False / Not Given",
+      "Note Completion"
     ],
     "cover": {
       "asset": "assets/batch2-dream-cover.jpg",
@@ -6955,13 +6973,14 @@
     }
   },
   {
-    "id": "p1-sleep-study-on-modern-day-hunter-gatherers-dispels-popular-notions",
-    "title": "Sleep Study on Modern-Day Hunter-Gatherers Dispels Popular Notions",
-    "part": 1,
+    "id": "p2-sleep-who-needs-it",
+    "title": "Sleep – who needs it",
+    "part": 2,
     "count": 13,
     "types": [
-      "True / False / Not Given",
-      "Note Completion"
+      "Matching Names",
+      "Sentence Completion",
+      "Matching Information"
     ],
     "cover": {
       "asset": "assets/batch2-dream-cover.jpg",
@@ -8896,6 +8915,43 @@
     }
   },
   {
+    "id": "p1-the-history-of-the-pencil",
+    "title": "The History of the Pencil",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given"
+    ],
+    "cover": {
+      "asset": "assets/cover-unique/p1-the-history-of-the-pencil.svg",
+      "alt": "The History of the Pencil — Kumon-pencils-eraser",
+      "credit": "Jengod",
+      "source": "https://commons.wikimedia.org/wiki/File:Kumon-pencils-eraser.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "id": "p1-the-history-of-the-pencil-manufacture",
+    "title": "The history of the pencil",
+    "part": 1,
+    "count": 13,
+    "types": [
+      "Note Completion",
+      "True / False / Not Given",
+      "Flow-chart Completion"
+    ],
+    "cover": {
+      "asset": "assets/cover-unique/p1-the-history-of-the-pencil-manufacture.svg",
+      "alt": "The history of the pencil — Apsco Vacuhold pencil sharpener 13",
+      "credit": "Coyau",
+      "source": "https://commons.wikimedia.org/wiki/File:Apsco_Vacuhold_pencil_sharpener_13.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
     "id": "p1-the-history-of-the-picnic",
     "title": "The history of the picnic",
     "part": 1,
@@ -10693,25 +10749,6 @@
     }
   },
   {
-    "id": "p3-tick-tock-body-clock",
-    "title": "Tick Tock Body Clock",
-    "part": 3,
-    "count": 14,
-    "types": [
-      "Multiple Choice — Choose ONE",
-      "Summary Completion",
-      "Yes / No / Not Given"
-    ],
-    "cover": {
-      "asset": "assets/batch2-dream-cover.jpg",
-      "alt": "Giấc ngủ",
-      "source": "https://unsplash.com/photos/a-person-sleeping-on-a-bed-yTTF4x4j8AQ",
-      "credit": "Diana Light",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
     "id": "p1-tikopia",
     "title": "Tikopia",
     "part": 1,
@@ -11399,25 +11436,6 @@
       "alt": "Thuyền buồm",
       "credit": "Tim Gouw",
       "source": "https://unsplash.com/photos/exxNNGUWOb0",
-      "license": "Unsplash License",
-      "licenseUrl": "https://unsplash.com/license"
-    }
-  },
-  {
-    "id": "p3-what-is-history",
-    "title": "What is history?",
-    "part": 3,
-    "count": 14,
-    "types": [
-      "Yes / No / Not Given",
-      "Matching Sentence Endings",
-      "Multiple Choice — Choose ONE"
-    ],
-    "cover": {
-      "asset": "assets/library-cover.jpg",
-      "alt": "Kệ sách trong thư viện",
-      "credit": "Daniel Forsman",
-      "source": "https://unsplash.com/photos/a-large-collection-of-books-on-shelves-OMq95as3Cv4",
       "license": "Unsplash License",
       "licenseUrl": "https://unsplash.com/license"
     }

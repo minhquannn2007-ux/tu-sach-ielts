@@ -18,6 +18,7 @@
   if(d.status!=='reviewed')errors.push('Lesson is awaiting review');
   if(!Array.isArray(d.groups)||!d.groups.length)return [...errors,'Missing questions'];
   const actual=[];for(const g of d.groups){
+   const positionedFlow=g?.type==='flow-chart'&&g.flow?.layout==='positioned';
    if(!g||typeof g!=='object'){errors.push('Invalid question group');continue}
    if(g.questions!==undefined&&(!Array.isArray(g.questions)||g.questions.some(q=>!q||typeof q!=='object'))){errors.push('Invalid question list');continue}
    if([g.bank,g.options,...(g.questions||[]).map(q=>q.options)].filter(v=>v!==undefined).some(b=>!Array.isArray(b)||b.some(o=>!o||typeof o!=='object'))){errors.push('Invalid option bank');continue}
@@ -57,17 +58,17 @@ if(g.type==='matching-info'&&typeof g.reuse!=='boolean')errors.push('Answer reus
    if(g.tableCellBold&&(!Array.isArray(g.tableCellBold)||g.tableCellBold.some(c=>{const [r,col]=String(c).split(':').map(Number);return !Number.isInteger(r)||!Number.isInteger(col)||!g.table?.[r]||col<0||col>=g.table[r].length})))errors.push('Invalid bold table cell');
    if(g.type==='notes'&&g.noteLayout){if(!Array.isArray(g.noteLayout.rows)||!g.noteLayout.rows.length||g.noteLayout.rows.some(r=>!Number.isFinite(r.indent)||r.indent<0||!Array.isArray(r.runs)||r.runs.some(run=>typeof run.text!=='string')))errors.push('Invalid source note layout');}
    if(['summary-input','summary-drag','notes','diagram','flow-chart'].includes(g.type)){
-    const fields=g.type==='flow-chart'?(g.flow?.layout==='linear'?(Array.isArray(g.flow.steps)?g.flow.steps:[]):[g.flow?.start,...(Array.isArray(g.flow?.rows)?g.flow.rows:[]).flatMap(r=>[r?.left,r?.right].filter(Boolean))]):g.table?g.table.flat():g.noteLayout?g.noteLayout.rows.flatMap(r=>r.runs.map(run=>run.text)):g.type==='diagram'?(g.diagram?.captions||[]).map(c=>c.text):g.content||[];
+    const fields=g.type==='flow-chart'?(positionedFlow?(g.diagram?.captions||[]).map(c=>c.text):g.flow?.layout==='linear'?(Array.isArray(g.flow.steps)?g.flow.steps:[]):[g.flow?.start,...(Array.isArray(g.flow?.rows)?g.flow.rows:[]).flatMap(r=>[r?.left,r?.right].filter(Boolean))]):g.table?g.table.flat():g.noteLayout?g.noteLayout.rows.flatMap(r=>r.runs.map(run=>run.text)):g.type==='diagram'?(g.diagram?.captions||[]).map(c=>c.text):g.content||[];
     const slots=fields.flatMap(t=>[...String(t).matchAll(/\{\{(\d+)(?::(\d+))?\}\}/g)].map(m=>[Number(m[1]),Number(m[2]||0)]));
     const expected=(g.questions||[]).flatMap(q=>Array.from({length:q.slots||1},(_,i)=>q.n+':'+i)).sort();const found=slots.map(([n,i])=>n+':'+i).sort();
     if(expected.join(',')!==found.join(','))errors.push('Gap/control numbering mismatch');
    }
    for(const n of ns||[])actual.push(n);
-   if(g.type==='flow-chart'){const linear=g.flow?.layout==='linear',valid=linear?(Array.isArray(g.flow.steps)&&g.flow.steps.length>=2&&g.flow.steps.every(s=>typeof s==='string'&&s.trim())&&typeof g.flow.arrow==='string'&&g.flow.arrow.startsWith('assets/')):(typeof g.flow?.start==='string'&&Array.isArray(g.flow?.rows)&&g.flow.rows.length&&g.flow.rows.every(r=>r&&typeof r.left==='string'&&(r.right===undefined||typeof r.right==='string')));if(!g.sourceLayoutChecked||!valid)errors.push('Flow chart requires reviewed stages and branches');}
-   if(g.type==='diagram'&&(!g.diagram?.asset||!g.diagram?.captions?.length))errors.push('Diagram must have reviewed image and coordinates');
-   if(g.type==='diagram'&&g.diagram?.captions?.some(c=>!Number.isFinite(c.x)||!Number.isFinite(c.y)||!Number.isFinite(c.width)||c.x<0||c.y<0||c.x>100||c.y>100||c.width<=0||c.x+c.width>101||typeof c.text!=='string'))errors.push('Invalid diagram label coordinates');
+   if(g.type==='flow-chart'){const linear=g.flow?.layout==='linear',valid=positionedFlow?!!(g.diagram?.asset&&g.diagram?.captions?.length):linear?(Array.isArray(g.flow.steps)&&g.flow.steps.length>=2&&g.flow.steps.every(s=>typeof s==='string'&&s.trim())&&typeof g.flow.arrow==='string'&&g.flow.arrow.startsWith('assets/')):(typeof g.flow?.start==='string'&&Array.isArray(g.flow?.rows)&&g.flow.rows.length&&g.flow.rows.every(r=>r&&typeof r.left==='string'&&(r.right===undefined||typeof r.right==='string')));if(!g.sourceLayoutChecked||!valid)errors.push('Flow chart requires reviewed stages and branches');}
+   if((g.type==='diagram'||positionedFlow)&&(!g.diagram?.asset||!g.diagram?.captions?.length))errors.push('Diagram must have reviewed image and coordinates');
+   if((g.type==='diagram'||positionedFlow)&&g.diagram?.captions?.some(c=>!Number.isFinite(c.x)||!Number.isFinite(c.y)||!Number.isFinite(c.width)||c.x<0||c.y<0||c.x>100||c.y>100||c.width<=0||c.x+c.width>101||typeof c.text!=='string'))errors.push('Invalid diagram label coordinates');
    if(g.type==='diagram'&&g.bank&&typeof g.reuse!=='boolean')errors.push('Diagram bank reuse must be explicit');
-   if(g.type==='diagram'&&g.diagram?.layoutVersion===2){
+   if((g.type==='diagram'||positionedFlow)&&g.diagram?.layoutVersion===2){
     const d=g.diagram,r=d.image;
     if(!Number.isFinite(d.width)||!Number.isFinite(d.height)||d.width<=0||d.height<=0||d.minWidth!==d.width||d.lineHeight!==30||d.inputWidth!==180||!r||['x','y','width','height'].some(k=>!Number.isFinite(r[k]))||r.x<0||r.y<0||r.width<=0||r.height<=0||r.x+r.width>100.01||r.y+r.height>100.01)errors.push('Invalid measured diagram canvas');
     if(d.captions?.some(c=>c.lineCount!==c.text.split('\n').length||c.y/100*d.height+c.lineCount*d.lineHeight>d.height+1))errors.push('Diagram caption exceeds canvas');
