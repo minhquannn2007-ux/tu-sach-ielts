@@ -1,0 +1,662 @@
+{
+  "p1-dinner-in-rome-2-000-years-ago": {
+    "lessonId": "p1-dinner-in-rome-2-000-years-ago",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "important social ritual in the Roman world"
+          }
+        ],
+        "explanation": "Bữa ăn là nghi thức xã hội của La Mã, không nói họ là người đầu tiên."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "civic feasts offered to all of the inhabitants of a city"
+          }
+        ],
+        "explanation": "Tiệc công cộng dành cho mọi cư dân thành phố."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "literary sources are united in describing elite private dinners"
+          }
+        ],
+        "explanation": "Các nguồn văn học mô tả nhất quán."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "high-quality decorative fixtures"
+          }
+        ],
+        "explanation": "Phòng ăn trang trí cầu kỳ."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "at the centre of which was placed a table"
+          }
+        ],
+        "explanation": "Có bàn chung ở giữa, không phải mỗi ghế dài một bàn."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "costly materials, such as ivory and bronze"
+          }
+        ],
+        "explanation": "Đồng là vật liệu đắt nhưng không khẳng định đắt nhất."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "dessert usually involving ingredients like fruit and honey"
+          }
+        ],
+        "explanation": "Bữa ăn thường có tráng miệng ngọt."
+      },
+      "8": {
+        "accepted": [
+          "spectacle"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "add an element of spectacle to the meal"
+          }
+        ],
+        "explanation": "Thức ăn cũng là một màn trình diễn."
+      },
+      "9": {
+        "accepted": [
+          "affluence"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "reflected the host’s affluence"
+          }
+        ],
+        "explanation": "Món đắt tiền thể hiện sự giàu có của chủ nhà."
+      },
+      "10": {
+        "accepted": [
+          "decorative"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "functional and decorative purposes"
+          }
+        ],
+        "explanation": "Dụng cụ bàn tiệc vừa hữu ích vừa trang trí."
+      },
+      "11": {
+        "accepted": [
+          "spoons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "spoons, which were the primary eating utensil"
+          }
+        ],
+        "explanation": "Thìa là dụng cụ ăn chính."
+      },
+      "12": {
+        "accepted": [
+          "pottery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "cheap form of pottery"
+          }
+        ],
+        "explanation": "Nhiều bình chứa làm từ đồ gốm ở Pháp."
+      },
+      "13": {
+        "accepted": [
+          "animals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "trained animals, such as lions and leopards"
+          }
+        ],
+        "explanation": "Giải trí có động vật được huấn luyện."
+      }
+    },
+    "lessonSha256": "01064cf444baff6934074ced155e7b8a8982eb588475a7f8cbf7c4fc0b49ce39"
+  },
+  "p1-fazioli-pianos": {
+    "lessonId": "p1-fazioli-pianos",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "foolish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "considered a foolish decision"
+          }
+        ],
+        "explanation": "Bạn bè cho rằng quyết định của Fazioli dại dột."
+      },
+      "2": {
+        "accepted": [
+          "cheap"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a product that was cheap in comparison"
+          }
+        ],
+        "explanation": "Yamaha bán đàn tương đối rẻ."
+      },
+      "3": {
+        "accepted": [
+          "Sacile"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "moved from Rome to Sacile"
+          }
+        ],
+        "explanation": "Nhà máy ở Sacile."
+      },
+      "4": {
+        "accepted": [
+          "spruce"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "spruce trees there that yield especially resonant timber"
+          }
+        ],
+        "explanation": "Gỗ vân sam tạo âm vang."
+      },
+      "5": {
+        "accepted": [
+          "four"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "wait between four and eight months"
+          }
+        ],
+        "explanation": "Thời gian chờ ít nhất bốn tháng."
+      },
+      "6": {
+        "accepted": [
+          "bell"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "similar to a bell"
+          }
+        ],
+        "explanation": "Tiếng đàn được ví như chuông."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Steinway, which makes about 2,000-2,500 a year"
+          }
+        ],
+        "explanation": "Fazioli sẽ không vượt lượng sản xuất của Steinway."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "still not back to their levels before the financial crisis of 2008"
+          }
+        ],
+        "explanation": "Doanh số Mỹ vẫn dưới mức trước khủng hoảng 2008."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "not just wealthy amateurs"
+          }
+        ],
+        "explanation": "Tập trung nghệ sĩ chuyên nghiệp, không thấy chỉ trích vì bán cho người giàu."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "They're the most important segment"
+          }
+        ],
+        "explanation": "Người chơi piano chuyên nghiệp là nhóm quan trọng nhất."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "prefers German-made Steinways"
+          }
+        ],
+        "explanation": "Bax thích Steinway nhưng không nói ông bắt đầu học bằng Fazioli."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Other pianos can be very beautiful but are less interesting"
+          }
+        ],
+        "explanation": "Hewitt đánh giá Fazioli có khả năng biểu đạt tốt hơn."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "not catching on as fast among concert pianists as among the general public"
+          }
+        ],
+        "explanation": "Fazioli chậm phổ biến trong giới nghệ sĩ hơn công chúng."
+      }
+    },
+    "lessonSha256": "ab76730826a0a655794541e90f8ea58b5e0183f3b87d51228fd4d557f8405f41"
+  },
+  "p1-the-history-of-lighting": {
+    "lessonId": "p1-the-history-of-lighting",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "plentiful and cheap"
+          }
+        ],
+        "explanation": "Mỡ động vật làm nến tallow sẵn và rẻ."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "tallow candles melted extremely quickly"
+          }
+        ],
+        "explanation": "Nến tallow tan nhanh, beeswax vượt trội về phương diện này."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Far superior in all these respects were candles made of beeswax"
+          }
+        ],
+        "explanation": "Có so sánh ánh sáng, tốc độ tan và mùi, không nói tính an toàn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "needed cleaning daily"
+          }
+        ],
+        "explanation": "Đèn dầu giảm sáng do muội nếu không làm sạch."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "adjust the flame's level of brightness"
+          }
+        ],
+        "explanation": "Núm vặn cho phép chỉnh độ sáng."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "best oil light was produced by whale oil"
+          }
+        ],
+        "explanation": "Không nhắc mùi của dầu cá voi."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "used in businesses and for street lighting, and didn't become common in homes"
+          }
+        ],
+        "explanation": "Đèn gas dùng tại cơ sở kinh doanh trước khi phổ biến trong nhà."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "It is no coincidence that the mid-19th century saw a sudden and lasting boom"
+          }
+        ],
+        "explanation": "Ánh sáng gas giúp người dân đọc nhiều hơn; bài không nói báo chí thúc đẩy lắp đèn."
+      },
+      "9": {
+        "accepted": [
+          "applications"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "hard to devise practical applications"
+          }
+        ],
+        "explanation": "Chưa có nhiều ứng dụng thực tế cho điện."
+      },
+      "10": {
+        "accepted": [
+          "bright"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a blindingly bright light"
+          }
+        ],
+        "explanation": "Đèn hồ quang cho ánh sáng rất mạnh."
+      },
+      "11": {
+        "accepted": [
+          "attention"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "needed constant attention to run smoothly"
+          }
+        ],
+        "explanation": "Đèn cần chú ý/bảo dưỡng liên tục."
+      },
+      "12": {
+        "accepted": [
+          "air"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "decrease the air in a glass chamber"
+          }
+        ],
+        "explanation": "Buồng kính được rút gần hết không khí."
+      },
+      "13": {
+        "accepted": [
+          "filament"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "material for the 'filament'"
+          }
+        ],
+        "explanation": "Edison tìm vật liệu dây tóc."
+      }
+    },
+    "lessonSha256": "f84bd2f72fb53fc9451131a77026402989e905d57da44d8ef45663f89ff63318"
+  },
+  "p1-walking-for-life": {
+    "lessonId": "p1-walking-for-life",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "no special clothing or footwear"
+          }
+        ],
+        "explanation": "Không cần giày chuyên dụng."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "influenced by childhood habit"
+          }
+        ],
+        "explanation": "Stinear đề cập thói quen khi nhỏ, không so sánh trẻ nay với xưa."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Just strolling round the shops and your local area is not sufficient"
+          }
+        ],
+        "explanation": "Đi dạo nhẹ gần nhà không đủ để đạt mức luyện tập nêu ra."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "helping to rehabilitate people who have suffered cancer, stroke and heart disease"
+          }
+        ],
+        "explanation": "Có chương trình phục hồi, không nói bệnh viện ngày càng dùng thiết bị tập."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Joining a walking group is one of the best and easiest ways"
+          }
+        ],
+        "explanation": "Không có số liệu xu hướng độ phổ biến ở Anh."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "long-term illnesses including arthritis, dementia, diabetes"
+          }
+        ],
+        "explanation": "Báo cáo tổng hợp nhiều bệnh khác nhau."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "There is less scientific evidence when it comes to research on children"
+          }
+        ],
+        "explanation": "Nghiên cứu trẻ em ít hơn người lớn."
+      },
+      "8": {
+        "accepted": [
+          "gardening"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "such as gardening"
+          }
+        ],
+        "explanation": "Làm vườn là hoạt động được nghiên cứu ở người cao tuổi."
+      },
+      "9": {
+        "accepted": [
+          "steps"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "10,000 steps a day"
+          }
+        ],
+        "explanation": "Thiết bị đếm bước giúp đạt số bước đặt ra."
+      },
+      "10": {
+        "accepted": [
+          "calories"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "burn 20% more calories"
+          }
+        ],
+        "explanation": "Đi nhanh đốt nhiều calo hơn."
+      },
+      "11": {
+        "accepted": [
+          "neighbourhood"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "moving from a neighbourhood that requires a vehicle"
+          }
+        ],
+        "explanation": "Sống ở khu dân cư thuận tiện đi bộ."
+      },
+      "12": {
+        "accepted": [
+          "competition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "something more demanding like a competition"
+          }
+        ],
+        "explanation": "Sự kiện thi đấu đòi hỏi luyện tập."
+      },
+      "13": {
+        "accepted": [
+          "happiness"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "enhance a person’s levels of happiness"
+          }
+        ],
+        "explanation": "Đi bộ có thể cải thiện cảm giác hạnh phúc."
+      }
+    },
+    "lessonSha256": "de823b18f9566b1d0baa83d034a75130922fbf874d235cb98eb618a85a445e53"
+  }
+}

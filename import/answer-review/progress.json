@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T14:01:44.871Z",
+  "updatedAt": "2026-10-21T14:21:34.822Z",
   "totalLessons": 798,
-  "reviewedLessons": 149,
-  "reviewedAnswers": 1952,
+  "reviewedLessons": 164,
+  "reviewedAnswers": 2147,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 645,
+  "pendingSolutions": 630,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -125,7 +125,7 @@
       "title": "A Moment of Perfection",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-a-most-unusual-theatre",
@@ -244,7 +244,7 @@
       "title": "Ahead of its time",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-all-in-the-family",
@@ -279,7 +279,7 @@
       "title": "An art exhibition inspired by the age of spices",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-an-australian-tree-abroad",
@@ -930,7 +930,7 @@
       "title": "Chocolate for the masses",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-city-transport-uneven-progress",
@@ -1007,7 +1007,7 @@
       "title": "Concrete",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-conformity",
@@ -1189,7 +1189,7 @@
       "title": "Dinner in Rome 2,000 years ago",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-dirty-but-clean-rivers",
@@ -1231,7 +1231,7 @@
       "title": "Dolls through the ages",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-dolphins-and-language-learning",
@@ -1392,7 +1392,7 @@
       "title": "Fazioli pianos",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-feeding-the-world",
@@ -3436,7 +3436,7 @@
       "title": "Te Papa",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-teamwork",
@@ -4073,7 +4073,7 @@
       "title": "The history of lighting",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-london-s-coffeehouses",
@@ -4101,7 +4101,7 @@
       "title": "The history of the bar code",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-british-wool-industry",
@@ -4136,7 +4136,7 @@
       "title": "The History of the Doughnut",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-guitar",
@@ -4157,7 +4157,7 @@
       "title": "The History of the Pencil",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-picnic",
@@ -4465,7 +4465,7 @@
       "title": "The Oldest Leather Shoe",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-olmec-and-their-great-stone-heads",
@@ -5214,7 +5214,7 @@
       "title": "Walking for Life",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-war-of-the-plants",

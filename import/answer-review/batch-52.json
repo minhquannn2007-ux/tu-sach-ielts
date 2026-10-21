@@ -1,0 +1,662 @@
+{
+  "p1-ahead-of-its-time": {
+    "lessonId": "p1-ahead-of-its-time",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "its natural tendency to flood"
+          }
+        ],
+        "explanation": "Bờ đê cao và việc nước lên nhiều ngày cho thấy sông thường lũ."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "what he initially took to be a whitish rock"
+          }
+        ],
+        "explanation": "Ban đầu Tobin tưởng đó là một hòn đá."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he saw it was a skull"
+          }
+        ],
+        "explanation": "Tobin nhận ra đó là hộp sọ."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "hurried home to tell his mother"
+          }
+        ],
+        "explanation": "Bài chỉ nói Tobin báo mẹ, không nói phản ứng của bà với cuộc tranh luận."
+      },
+      "5": {
+        "accepted": [
+          "police"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The police were immediately called"
+          }
+        ],
+        "explanation": "Cảnh sát được gọi ngay để tìm hiểu."
+      },
+      "6": {
+        "accepted": [
+          "European"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the skull appeared to be European in origin"
+          }
+        ],
+        "explanation": "Koelmeyer cho rằng hộp sọ có nguồn gốc châu Âu."
+      },
+      "7": {
+        "accepted": [
+          "radiocarbon dating"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "proposed the use of radiocarbon dating"
+          }
+        ],
+        "explanation": "Watt đề nghị định tuổi bằng carbon phóng xạ."
+      },
+      "8": {
+        "accepted": [
+          "sample"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "provided with a sample of bone"
+          }
+        ],
+        "explanation": "GNS nhận một mẫu xương."
+      },
+      "9": {
+        "accepted": [
+          "296"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "conventional radiocarbon age approximately 296 years"
+          }
+        ],
+        "explanation": "Kết quả tuổi khoảng 296 năm."
+      },
+      "10": {
+        "accepted": [
+          "race"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a skull of this race, let alone this gender"
+          }
+        ],
+        "explanation": "Điều gây ngạc nhiên là chủng tộc và giới tính của người này."
+      },
+      "11": {
+        "accepted": [
+          "archaeologists"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a team of archaeologists working in the Solomon Islands"
+          }
+        ],
+        "explanation": "Các nhà khảo cổ tìm được chứng cứ ở quần đảo Solomon."
+      },
+      "12": {
+        "accepted": [
+          "Australia"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "both having escaped from prison in Australia"
+          }
+        ],
+        "explanation": "Hai phụ nữ trốn tù ở Australia."
+      },
+      "13": {
+        "accepted": [
+          "shipwreck"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "as a result of a shipwreck"
+          }
+        ],
+        "explanation": "Giả thuyết là tàu đắm đưa người phụ nữ lên bờ."
+      }
+    },
+    "lessonSha256": "1abe4b3c9007f9216b8d30be32714bef88515c4aa1873051ac3864210e2d48ac"
+  },
+  "p1-an-art-exhibition-inspired-by-the-age-of-spices": {
+    "lessonId": "p1-an-art-exhibition-inspired-by-the-age-of-spices",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "purpose was to present the story of east-west artistic exchange"
+          }
+        ],
+        "explanation": "Mục tiêu là trao đổi nghệ thuật Đông–Tây, không phải lịch sử phát triển thương mại gia vị."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "articles taken from wrecked ships"
+          }
+        ],
+        "explanation": "Có đồ vật lấy từ các tàu bị đắm."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Europe's infatuation with spices like pepper, nutmeg and cloves"
+          }
+        ],
+        "explanation": "Không có thông tin về độ khó khi trồng gia vị ở châu Âu."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "before the invention of refrigeration"
+          }
+        ],
+        "explanation": "Bài không so sánh mức sử dụng gia vị trước và sau phát minh tủ lạnh."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Nutmeg and cinnamon were considered valuable in treating ailments"
+          }
+        ],
+        "explanation": "Nhục đậu khấu và quế được dùng chữa nhiều bệnh."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "seemingly inexhaustible availability of tropical pearls"
+          }
+        ],
+        "explanation": "Nguồn ngọc trai được mô tả là dường như vô tận."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "far superior to any comparable item being made in Europe"
+          }
+        ],
+        "explanation": "Gốm Đông Á được đánh giá tốt hơn loại tương đương châu Âu."
+      },
+      "8": {
+        "accepted": [
+          "printing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Improved printing techniques stimulated a demand"
+          }
+        ],
+        "explanation": "Kỹ thuật in cải tiến kích thích nhu cầu sách du lịch minh họa."
+      },
+      "9": {
+        "accepted": [
+          "Turkey"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "in Turkey, where they originated"
+          }
+        ],
+        "explanation": "Hoa tulip có nguồn gốc từ Thổ Nhĩ Kỳ."
+      },
+      "10": {
+        "accepted": [
+          "rivers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "rivers were the main means of transport"
+          }
+        ],
+        "explanation": "Sông là tuyến vận chuyển chính ở ba đảo."
+      },
+      "11": {
+        "accepted": [
+          "textiles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "depicted in textiles showing fantastic ships"
+          }
+        ],
+        "explanation": "Các hình tàu được thể hiện trên hàng dệt."
+      },
+      "12": {
+        "accepted": [
+          "location"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "confusion regarding the location of the land and its size"
+          }
+        ],
+        "explanation": "Người châu Âu không rõ vị trí và kích thước vùng đất."
+      },
+      "13": {
+        "accepted": [
+          "settlement"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "confident of the eventual European settlement of the country"
+          }
+        ],
+        "explanation": "Nhà vẽ bản đồ tin chắc việc định cư trong tương lai."
+      }
+    },
+    "lessonSha256": "3eeedae549d3968f2299af805ab6db4ed1bfd5ae2063a53069d48fa97064be27"
+  },
+  "p1-chocolate-for-the-masses": {
+    "lessonId": "p1-chocolate-for-the-masses",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "consumption shot up dramatically across the populations of Europe"
+          }
+        ],
+        "explanation": "Lượng tiêu thụ tăng mạnh ở thế kỷ 19."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the price of cacao butter escalated"
+          }
+        ],
+        "explanation": "Bơ cacao tăng giá khiến chocolate rắn chỉ dành cho giới thượng lưu."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "adequate housing for their workers"
+          }
+        ],
+        "explanation": "Có mô tả chỗ ở và tiện ích, không nói mức lương."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "most of the samples contained starch grains"
+          }
+        ],
+        "explanation": "Bài nói đến pha trộn, không xác nhận khách hàng bị bệnh."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "using Nestlé’s milk powder"
+          }
+        ],
+        "explanation": "Chocolate sữa dùng sữa bột, không phải sữa tươi."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "use of the conche machine for solid chocolate became universal"
+          }
+        ],
+        "explanation": "Máy conche được sử dụng phổ biến trong ngành."
+      },
+      "7": {
+        "accepted": [
+          "machinery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "he bought some and began turning out chocolate coatings"
+          }
+        ],
+        "explanation": "Ông mua máy móc sau khi xem chúng ở triển lãm."
+      },
+      "8": {
+        "accepted": [
+          "farm"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "bought a farm in Pennsylvania"
+          }
+        ],
+        "explanation": "Ông mua một trang trại tại Pennsylvania."
+      },
+      "9": {
+        "accepted": [
+          "mayor"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "no elected mayor"
+          }
+        ],
+        "explanation": "Thị trấn không có thị trưởng do cư dân bầu."
+      },
+      "10": {
+        "accepted": [
+          "railroads"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "built modern electric railroads"
+          }
+        ],
+        "explanation": "Ông xây đường sắt điện để chở đường."
+      },
+      "11": {
+        "accepted": [
+          "nutritionists"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "employed nutritionists to proclaim their health qualities"
+          }
+        ],
+        "explanation": "Ông thuê chuyên gia dinh dưỡng quảng bá phẩm chất sản phẩm."
+      },
+      "12": {
+        "accepted": [
+          "almonds"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "best-selling bar contained almonds imported from southern Europe"
+          }
+        ],
+        "explanation": "Thanh chocolate bán chạy có hạnh nhân."
+      },
+      "13": {
+        "accepted": [
+          "exhibition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "through an exhibition called ‘Chocolate World’"
+          }
+        ],
+        "explanation": "Khách tham quan khu triển lãm thay cho nhà máy."
+      }
+    },
+    "lessonSha256": "52efba23a245704bb2d86e0f9905fc9f8bbd1c3bc93bd43242e59ba5267a05d3"
+  },
+  "p1-dolls-through-the-ages": {
+    "lessonId": "p1-dolls-through-the-ages",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "clay"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "‘hair’ made of clay"
+          }
+        ],
+        "explanation": "Tóc của búp bê Ai Cập làm bằng đất sét."
+      },
+      "2": {
+        "accepted": [
+          "goddesses"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "offered their wooden dolls to goddesses"
+          }
+        ],
+        "explanation": "Các cô gái dâng búp bê cho những nữ thần."
+      },
+      "3": {
+        "accepted": [
+          "limbs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "dolls with movable limbs and removable garments"
+          }
+        ],
+        "explanation": "Búp bê có tay chân chuyển động và quần áo tháo rời."
+      },
+      "4": {
+        "accepted": [
+          "wax"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "wax dolls grew in popularity"
+          }
+        ],
+        "explanation": "Búp bê bằng sáp trở nên phổ biến."
+      },
+      "5": {
+        "accepted": [
+          "plaster"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "cover it with plaster to create a mould"
+          }
+        ],
+        "explanation": "Khuôn được tạo bằng thạch cao."
+      },
+      "6": {
+        "accepted": [
+          "composition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "‘Composition’ is a collective term for mixtures"
+          }
+        ],
+        "explanation": "Tên gọi chung cho các hỗn hợp là composition."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "looked more like skin than china did"
+          }
+        ],
+        "explanation": "Bisque trông giống da hơn china."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "German bisque dolls became quite popular because they were not as expensive"
+          }
+        ],
+        "explanation": "Búp bê Đức rẻ hơn loại Pháp được đối chiếu trong câu."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "For many centuries, rag dolls were made by mothers"
+          }
+        ],
+        "explanation": "Búp bê vải có từ nhiều thế kỷ trước thập niên 1850."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "‘Cloth doll’ refers to a subset of rag dolls made of linen or cotton"
+          }
+        ],
+        "explanation": "Cloth doll là loại búp bê làm bằng lanh hoặc bông."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "propensity to fade in bright light"
+          }
+        ],
+        "explanation": "Celluloid dễ phai màu khi gặp ánh sáng mạnh."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "much more durable"
+          }
+        ],
+        "explanation": "Búp bê nhựa cứng bền hơn búp bê composition."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "make collectible dolls"
+          }
+        ],
+        "explanation": "Có đề cập búp bê sưu tầm, không nói sở thích về trang phục gốc."
+      }
+    },
+    "lessonSha256": "0554a26cb0a9139ea15faae0af035e8d80f5dc76a18f8b470c74276750a16080"
+  }
+}

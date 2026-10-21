@@ -22895,6 +22895,2481 @@
     },
     "lessonSha256": "14f3bdd7f7e5458515bc012122d1a8eb1da52ce1451af9478fb2c096fc7c45cf"
   },
+  "p1-ahead-of-its-time": {
+    "lessonId": "p1-ahead-of-its-time",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "its natural tendency to flood"
+          }
+        ],
+        "explanation": "Bờ đê cao và việc nước lên nhiều ngày cho thấy sông thường lũ."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "what he initially took to be a whitish rock"
+          }
+        ],
+        "explanation": "Ban đầu Tobin tưởng đó là một hòn đá."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he saw it was a skull"
+          }
+        ],
+        "explanation": "Tobin nhận ra đó là hộp sọ."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "hurried home to tell his mother"
+          }
+        ],
+        "explanation": "Bài chỉ nói Tobin báo mẹ, không nói phản ứng của bà với cuộc tranh luận."
+      },
+      "5": {
+        "accepted": [
+          "police"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The police were immediately called"
+          }
+        ],
+        "explanation": "Cảnh sát được gọi ngay để tìm hiểu."
+      },
+      "6": {
+        "accepted": [
+          "European"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the skull appeared to be European in origin"
+          }
+        ],
+        "explanation": "Koelmeyer cho rằng hộp sọ có nguồn gốc châu Âu."
+      },
+      "7": {
+        "accepted": [
+          "radiocarbon dating"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "proposed the use of radiocarbon dating"
+          }
+        ],
+        "explanation": "Watt đề nghị định tuổi bằng carbon phóng xạ."
+      },
+      "8": {
+        "accepted": [
+          "sample"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "provided with a sample of bone"
+          }
+        ],
+        "explanation": "GNS nhận một mẫu xương."
+      },
+      "9": {
+        "accepted": [
+          "296"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "conventional radiocarbon age approximately 296 years"
+          }
+        ],
+        "explanation": "Kết quả tuổi khoảng 296 năm."
+      },
+      "10": {
+        "accepted": [
+          "race"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a skull of this race, let alone this gender"
+          }
+        ],
+        "explanation": "Điều gây ngạc nhiên là chủng tộc và giới tính của người này."
+      },
+      "11": {
+        "accepted": [
+          "archaeologists"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a team of archaeologists working in the Solomon Islands"
+          }
+        ],
+        "explanation": "Các nhà khảo cổ tìm được chứng cứ ở quần đảo Solomon."
+      },
+      "12": {
+        "accepted": [
+          "Australia"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "both having escaped from prison in Australia"
+          }
+        ],
+        "explanation": "Hai phụ nữ trốn tù ở Australia."
+      },
+      "13": {
+        "accepted": [
+          "shipwreck"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "as a result of a shipwreck"
+          }
+        ],
+        "explanation": "Giả thuyết là tàu đắm đưa người phụ nữ lên bờ."
+      }
+    },
+    "lessonSha256": "1abe4b3c9007f9216b8d30be32714bef88515c4aa1873051ac3864210e2d48ac"
+  },
+  "p1-an-art-exhibition-inspired-by-the-age-of-spices": {
+    "lessonId": "p1-an-art-exhibition-inspired-by-the-age-of-spices",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "purpose was to present the story of east-west artistic exchange"
+          }
+        ],
+        "explanation": "Mục tiêu là trao đổi nghệ thuật Đông–Tây, không phải lịch sử phát triển thương mại gia vị."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "articles taken from wrecked ships"
+          }
+        ],
+        "explanation": "Có đồ vật lấy từ các tàu bị đắm."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Europe's infatuation with spices like pepper, nutmeg and cloves"
+          }
+        ],
+        "explanation": "Không có thông tin về độ khó khi trồng gia vị ở châu Âu."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "before the invention of refrigeration"
+          }
+        ],
+        "explanation": "Bài không so sánh mức sử dụng gia vị trước và sau phát minh tủ lạnh."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Nutmeg and cinnamon were considered valuable in treating ailments"
+          }
+        ],
+        "explanation": "Nhục đậu khấu và quế được dùng chữa nhiều bệnh."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "seemingly inexhaustible availability of tropical pearls"
+          }
+        ],
+        "explanation": "Nguồn ngọc trai được mô tả là dường như vô tận."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "far superior to any comparable item being made in Europe"
+          }
+        ],
+        "explanation": "Gốm Đông Á được đánh giá tốt hơn loại tương đương châu Âu."
+      },
+      "8": {
+        "accepted": [
+          "printing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Improved printing techniques stimulated a demand"
+          }
+        ],
+        "explanation": "Kỹ thuật in cải tiến kích thích nhu cầu sách du lịch minh họa."
+      },
+      "9": {
+        "accepted": [
+          "Turkey"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "in Turkey, where they originated"
+          }
+        ],
+        "explanation": "Hoa tulip có nguồn gốc từ Thổ Nhĩ Kỳ."
+      },
+      "10": {
+        "accepted": [
+          "rivers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "rivers were the main means of transport"
+          }
+        ],
+        "explanation": "Sông là tuyến vận chuyển chính ở ba đảo."
+      },
+      "11": {
+        "accepted": [
+          "textiles"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "depicted in textiles showing fantastic ships"
+          }
+        ],
+        "explanation": "Các hình tàu được thể hiện trên hàng dệt."
+      },
+      "12": {
+        "accepted": [
+          "location"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "confusion regarding the location of the land and its size"
+          }
+        ],
+        "explanation": "Người châu Âu không rõ vị trí và kích thước vùng đất."
+      },
+      "13": {
+        "accepted": [
+          "settlement"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "confident of the eventual European settlement of the country"
+          }
+        ],
+        "explanation": "Nhà vẽ bản đồ tin chắc việc định cư trong tương lai."
+      }
+    },
+    "lessonSha256": "3eeedae549d3968f2299af805ab6db4ed1bfd5ae2063a53069d48fa97064be27"
+  },
+  "p1-chocolate-for-the-masses": {
+    "lessonId": "p1-chocolate-for-the-masses",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "consumption shot up dramatically across the populations of Europe"
+          }
+        ],
+        "explanation": "Lượng tiêu thụ tăng mạnh ở thế kỷ 19."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the price of cacao butter escalated"
+          }
+        ],
+        "explanation": "Bơ cacao tăng giá khiến chocolate rắn chỉ dành cho giới thượng lưu."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "adequate housing for their workers"
+          }
+        ],
+        "explanation": "Có mô tả chỗ ở và tiện ích, không nói mức lương."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "most of the samples contained starch grains"
+          }
+        ],
+        "explanation": "Bài nói đến pha trộn, không xác nhận khách hàng bị bệnh."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "using Nestlé’s milk powder"
+          }
+        ],
+        "explanation": "Chocolate sữa dùng sữa bột, không phải sữa tươi."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "use of the conche machine for solid chocolate became universal"
+          }
+        ],
+        "explanation": "Máy conche được sử dụng phổ biến trong ngành."
+      },
+      "7": {
+        "accepted": [
+          "machinery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "he bought some and began turning out chocolate coatings"
+          }
+        ],
+        "explanation": "Ông mua máy móc sau khi xem chúng ở triển lãm."
+      },
+      "8": {
+        "accepted": [
+          "farm"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "bought a farm in Pennsylvania"
+          }
+        ],
+        "explanation": "Ông mua một trang trại tại Pennsylvania."
+      },
+      "9": {
+        "accepted": [
+          "mayor"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "no elected mayor"
+          }
+        ],
+        "explanation": "Thị trấn không có thị trưởng do cư dân bầu."
+      },
+      "10": {
+        "accepted": [
+          "railroads"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "built modern electric railroads"
+          }
+        ],
+        "explanation": "Ông xây đường sắt điện để chở đường."
+      },
+      "11": {
+        "accepted": [
+          "nutritionists"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "employed nutritionists to proclaim their health qualities"
+          }
+        ],
+        "explanation": "Ông thuê chuyên gia dinh dưỡng quảng bá phẩm chất sản phẩm."
+      },
+      "12": {
+        "accepted": [
+          "almonds"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "best-selling bar contained almonds imported from southern Europe"
+          }
+        ],
+        "explanation": "Thanh chocolate bán chạy có hạnh nhân."
+      },
+      "13": {
+        "accepted": [
+          "exhibition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "through an exhibition called ‘Chocolate World’"
+          }
+        ],
+        "explanation": "Khách tham quan khu triển lãm thay cho nhà máy."
+      }
+    },
+    "lessonSha256": "52efba23a245704bb2d86e0f9905fc9f8bbd1c3bc93bd43242e59ba5267a05d3"
+  },
+  "p1-dolls-through-the-ages": {
+    "lessonId": "p1-dolls-through-the-ages",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "clay"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "‘hair’ made of clay"
+          }
+        ],
+        "explanation": "Tóc của búp bê Ai Cập làm bằng đất sét."
+      },
+      "2": {
+        "accepted": [
+          "goddesses"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "offered their wooden dolls to goddesses"
+          }
+        ],
+        "explanation": "Các cô gái dâng búp bê cho những nữ thần."
+      },
+      "3": {
+        "accepted": [
+          "limbs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "dolls with movable limbs and removable garments"
+          }
+        ],
+        "explanation": "Búp bê có tay chân chuyển động và quần áo tháo rời."
+      },
+      "4": {
+        "accepted": [
+          "wax"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "wax dolls grew in popularity"
+          }
+        ],
+        "explanation": "Búp bê bằng sáp trở nên phổ biến."
+      },
+      "5": {
+        "accepted": [
+          "plaster"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "cover it with plaster to create a mould"
+          }
+        ],
+        "explanation": "Khuôn được tạo bằng thạch cao."
+      },
+      "6": {
+        "accepted": [
+          "composition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "‘Composition’ is a collective term for mixtures"
+          }
+        ],
+        "explanation": "Tên gọi chung cho các hỗn hợp là composition."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "looked more like skin than china did"
+          }
+        ],
+        "explanation": "Bisque trông giống da hơn china."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "German bisque dolls became quite popular because they were not as expensive"
+          }
+        ],
+        "explanation": "Búp bê Đức rẻ hơn loại Pháp được đối chiếu trong câu."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "For many centuries, rag dolls were made by mothers"
+          }
+        ],
+        "explanation": "Búp bê vải có từ nhiều thế kỷ trước thập niên 1850."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "‘Cloth doll’ refers to a subset of rag dolls made of linen or cotton"
+          }
+        ],
+        "explanation": "Cloth doll là loại búp bê làm bằng lanh hoặc bông."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "propensity to fade in bright light"
+          }
+        ],
+        "explanation": "Celluloid dễ phai màu khi gặp ánh sáng mạnh."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "much more durable"
+          }
+        ],
+        "explanation": "Búp bê nhựa cứng bền hơn búp bê composition."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "make collectible dolls"
+          }
+        ],
+        "explanation": "Có đề cập búp bê sưu tầm, không nói sở thích về trang phục gốc."
+      }
+    },
+    "lessonSha256": "0554a26cb0a9139ea15faae0af035e8d80f5dc76a18f8b470c74276750a16080"
+  },
+  "p1-a-moment-of-perfection": {
+    "lessonId": "p1-a-moment-of-perfection",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "he needed extra cash"
+          }
+        ],
+        "explanation": "Knowles muốn có thêm tiền."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "had no formal art training"
+          }
+        ],
+        "explanation": "Ông không học mỹ thuật chính quy."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the Guernsey breed developed from these two types of cattle"
+          }
+        ],
+        "explanation": "Nguồn gốc từ hai giống bò được nêu nhưng không nói tu sĩ làm thí nghiệm lai tạo có kiểm soát."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "actual date of introduction to America is highly disputed"
+          }
+        ],
+        "explanation": "Ngày giống bò đến Mỹ còn gây tranh cãi."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "head, nose and mouth seem too narrow and weak"
+          }
+        ],
+        "explanation": "Kildee chê đầu, mũi, miệng quá hẹp và yếu chứ không quá to."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "everyone was a critic, but constructively so"
+          }
+        ],
+        "explanation": "Những góp ý mang tính xây dựng, không nói ông bị xúc phạm."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "becoming a Guernsey breeder of renown"
+          }
+        ],
+        "explanation": "Không có thông tin ông được mời vẽ các giống bò khác."
+      },
+      "8": {
+        "accepted": [
+          "1959"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "By 1959, the previous Guernsey model"
+          }
+        ],
+        "explanation": "Mẫu cũ lỗi thời vào năm 1959."
+      },
+      "9": {
+        "accepted": [
+          "photos"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "mailing him bundles of cow photos"
+          }
+        ],
+        "explanation": "Hiệp hội gửi các bức ảnh bò."
+      },
+      "10": {
+        "accepted": [
+          "letters"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "copies of letters from dairymen"
+          }
+        ],
+        "explanation": "Người chăn nuôi gửi thư góp ý."
+      },
+      "11": {
+        "accepted": [
+          "Toronto"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "from Maine to Toronto"
+          }
+        ],
+        "explanation": "Cuộc họp được tổ chức ở Toronto."
+      },
+      "12": {
+        "accepted": [
+          "adjustment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "make an adjustment to the painting"
+          }
+        ],
+        "explanation": "Hiệp hội yêu cầu chỉnh sửa lần cuối."
+      },
+      "13": {
+        "accepted": [
+          "horns"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "painting out the horns"
+          }
+        ],
+        "explanation": "Ông vẽ xóa sừng."
+      }
+    },
+    "lessonSha256": "e914e89c39765f74ff184e211e1e47ae52915d1e9ed09c01f24e8a5be436db24"
+  },
+  "p1-concrete": {
+    "lessonId": "p1-concrete",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "synonymous with the words 'inferior', 'cheap'"
+          }
+        ],
+        "explanation": "Đa số dân chúng xem bê tông theo hướng tiêu cực."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "architects who love it, understand it, and experiment with it"
+          }
+        ],
+        "explanation": "Một số kiến trúc sư thử nghiệm bê tông; không khẳng định các hãng thành công ưu tiên nó hơn vật liệu khác."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "well-crafted concrete can be very expensive"
+          }
+        ],
+        "explanation": "Bê tông làm kỹ có thể rất đắt so với gỗ hoặc đá."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "this caused the concrete to crack"
+          }
+        ],
+        "explanation": "Đồng giãn nở khác bê tông và làm bê tông nứt."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "possibilities of what could be achieved with concrete were not immediately clear"
+          }
+        ],
+        "explanation": "Tiềm năng xây dựng cầu không rõ ngay từ đầu."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "lighthouses, high-rise buildings, roads, bridges, sea-barriers and dams"
+          }
+        ],
+        "explanation": "Dùng được cho nhiều công trình quy mô lớn trên đất và biển."
+      },
+      "7": {
+        "accepted": [
+          "rocks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "calcareous and sedimentary rocks"
+          }
+        ],
+        "explanation": "Khoáng chất được lấy từ nhiều loại đá."
+      },
+      "8": {
+        "accepted": [
+          "cement"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "form a powder called cement"
+          }
+        ],
+        "explanation": "Dạng bột trước khi thêm nước là xi măng."
+      },
+      "9": {
+        "accepted": [
+          "hydration"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "known as hydration"
+          }
+        ],
+        "explanation": "Thêm nước gây quá trình hydration."
+      },
+      "10": {
+        "accepted": [
+          "strength"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "increasing the strength of the concrete"
+          }
+        ],
+        "explanation": "Quá trình kéo dài làm tăng cường độ bê tông."
+      },
+      "11": {
+        "accepted": [
+          "accelerators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "accelerators to increase the speed at which it hardens"
+          }
+        ],
+        "explanation": "Chất tăng tốc làm bê tông đông cứng nhanh."
+      },
+      "12": {
+        "accepted": [
+          "dams"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "construction of gigantic dams"
+          }
+        ],
+        "explanation": "Bê tông chống ẩm dùng cho đập lớn."
+      },
+      "13": {
+        "accepted": [
+          "porous"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "porous enough to allow liquid to flow through it"
+          }
+        ],
+        "explanation": "Bê tông xốp được dùng trong hệ thống xử lý nước thải."
+      }
+    },
+    "lessonSha256": "bcbb1d60445a67af52caa2502df608c3b691c4e5844c6c5b8c114b22a82dc563"
+  },
+  "p1-the-history-of-the-pencil": {
+    "lessonId": "p1-the-history-of-the-pencil",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "tree"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "large uprooted tree"
+          }
+        ],
+        "explanation": "Than chì được tìm thấy dưới gốc cây bị bật."
+      },
+      "2": {
+        "accepted": [
+          "sheep"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "identify their sheep"
+          }
+        ],
+        "explanation": "Nông dân ban đầu dùng than chì đánh dấu cừu."
+      },
+      "3": {
+        "accepted": [
+          "soft"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "material was very soft, which meant that it was messy"
+          }
+        ],
+        "explanation": "Than chì thô mềm nên dễ bẩn."
+      },
+      "4": {
+        "accepted": [
+          "rope"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "stiff sheep hides or rope"
+          }
+        ],
+        "explanation": "Lõi than chì được bọc bằng dây thừng hoặc da cừu."
+      },
+      "5": {
+        "accepted": [
+          "mines"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "assumed control of all the mines"
+          }
+        ],
+        "explanation": "Chính phủ nắm toàn bộ các mỏ."
+      },
+      "6": {
+        "accepted": [
+          "steal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "started to steal it"
+          }
+        ],
+        "explanation": "Người địa phương bắt đầu trộm than chì."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Italians originally invented the wooden casing"
+          }
+        ],
+        "explanation": "Người Ý sáng tạo lớp vỏ gỗ đầu tiên."
+      },
+      "8": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Germans took this technique and developed it further"
+          }
+        ],
+        "explanation": "Người Đức sản xuất hàng loạt nhưng không nói họ dùng loại gỗ khác."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "More graphite helped make a pencil mark that was softer, thicker and darker"
+          }
+        ],
+        "explanation": "Thêm graphite làm nét tối hơn, còn thêm đất sét làm cứng và sắc."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Pencil manufacturers all over the world still use this"
+          }
+        ],
+        "explanation": "Bài không nêu tốc độ áp dụng hệ HB sau khi ra đời."
+      },
+      "11": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "England’s pencil industry continues to thrive"
+          }
+        ],
+        "explanation": "Ngành bút chì Anh vẫn phát triển."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "both American and Russian astronauts were equipped with pencils"
+          }
+        ],
+        "explanation": "Cả hai nước dùng bút chì trong chuyến bay đầu."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "nothing to suggest that we are likely to invent anything better"
+          }
+        ],
+        "explanation": "Bút chì than chì được dự đoán sẽ còn dùng."
+      }
+    },
+    "lessonSha256": "ff65feca4ed2574381039e2cf09755c5bb082e7b8cf75a1e31ae5b3ccca93fd1"
+  },
+  "p1-the-history-of-the-doughnut": {
+    "lessonId": "p1-the-history-of-the-doughnut",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "did not yet have the famous ring form"
+          }
+        ],
+        "explanation": "Bánh oily cake của Hà Lan chưa có hình vòng."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "hoping it might help prevent severe vitamin deficiency and colds"
+          }
+        ],
+        "explanation": "Bà Gregory làm bánh cho thủy thủ mang theo, hy vọng giúp phòng bệnh."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "first doughnut hole ever seen by mortal eyes"
+          }
+        ],
+        "explanation": "Gregory nhận mình đã tạo ra lỗ đầu tiên."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "served up by women volunteers"
+          }
+        ],
+        "explanation": "Có thông tin phát bánh nhưng không nói họ phục vụ đồ uống cùng bánh."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "goes back earlier to the American Civil War"
+          }
+        ],
+        "explanation": "Tên doughboy có từ Nội chiến Mỹ trước Thế chiến I."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "making it into a light, puffy product"
+          }
+        ],
+        "explanation": "Bài nói hình thức và định kiến giảm; không đánh giá hương vị đã cải thiện."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "scene behind the glass of doughnut shops"
+          }
+        ],
+        "explanation": "Công chúng xem được quá trình máy làm bánh."
+      },
+      "8": {
+        "accepted": [
+          "prejudice"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "diminished the prejudice"
+          }
+        ],
+        "explanation": "Máy làm giảm định kiến về bánh."
+      },
+      "9": {
+        "accepted": [
+          "messages"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "served with messages to lift the spirits"
+          }
+        ],
+        "explanation": "Bánh đôi khi kèm thông điệp khích lệ."
+      },
+      "10": {
+        "accepted": [
+          "recipe"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "sell his secret recipe"
+          }
+        ],
+        "explanation": "LeBeau bán công thức bí mật."
+      },
+      "11": {
+        "accepted": [
+          "musical"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "his 1942 army musical"
+          }
+        ],
+        "explanation": "Bánh xuất hiện trong vở nhạc kịch."
+      },
+      "12": {
+        "accepted": [
+          "bagel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "challenged by the bagel"
+          }
+        ],
+        "explanation": "Bagel cạnh tranh với bánh doughnut."
+      },
+      "13": {
+        "accepted": [
+          "book"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "children's book Homer Price"
+          }
+        ],
+        "explanation": "Cuốn sách Homer Price kể về máy làm bánh bị mất kiểm soát."
+      }
+    },
+    "lessonSha256": "f06b5edd66c5b03131e0ad7c8c8a44fa8b61ab84a1e8345aca0d7a84c6c1aaad"
+  },
+  "p1-the-history-of-the-bar-code": {
+    "lessonId": "p1-the-history-of-the-bar-code",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "ink"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "ink that would glow under ultraviolet light"
+          }
+        ],
+        "explanation": "Mẫu đầu dùng loại mực phát sáng dưới tia cực tím."
+      },
+      "2": {
+        "accepted": [
+          "soundtracks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "method used to record soundtracks in movies"
+          }
+        ],
+        "explanation": "Mẫu sau dùng kỹ thuật ghi nhạc nền/phần âm thanh phim."
+      },
+      "3": {
+        "accepted": [
+          "unreliable"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "scanning equipment was rather unreliable"
+          }
+        ],
+        "explanation": "Thiết bị quét thiếu tin cậy."
+      },
+      "4": {
+        "accepted": [
+          "lasers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "when lasers became affordable"
+          }
+        ],
+        "explanation": "Tia laser rẻ hơn giúp công nghệ quét phổ biến."
+      },
+      "5": {
+        "accepted": [
+          "standardization"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "there was no standardization"
+          }
+        ],
+        "explanation": "Các hệ mã thiếu chuẩn hóa."
+      },
+      "6": {
+        "accepted": [
+          "speed"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "checking out items at twice the speed"
+          }
+        ],
+        "explanation": "Tốc độ thanh toán tăng gấp đôi."
+      },
+      "7": {
+        "accepted": [
+          "marathons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Runners in major marathons"
+          }
+        ],
+        "explanation": "Người chạy marathon được gắn mã."
+      },
+      "8": {
+        "accepted": [
+          "bees"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "mounted on bees by researchers"
+          }
+        ],
+        "explanation": "Các nhà nghiên cứu theo dõi ong."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The professor turned down the request"
+          }
+        ],
+        "explanation": "Người được chủ chuỗi thực phẩm nhờ là một giáo sư, Silver chỉ nghe được cuộc trò chuyện."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "readable from almost any angle and at a range of distances"
+          }
+        ],
+        "explanation": "Ủy ban đòi mã dễ đọc và rẻ để in, triển khai."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "business didn't need the government to shove them"
+          }
+        ],
+        "explanation": "Haberman nói hợp tác tự nguyện không cần chính phủ thúc ép, không nêu bất đồng với chính sách cụ thể."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "had to spend at least $200,000"
+          }
+        ],
+        "explanation": "Chi phí thiết bị lớn nhưng không nói nhiều cửa hàng không đủ khả năng trả."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "advantages of the system were not clear immediately"
+          }
+        ],
+        "explanation": "Phải qua một thời gian người dùng mới thấy lợi ích."
+      }
+    },
+    "lessonSha256": "f5d87562322eac727fbfb5de50e93bed0358626d2f0a3d1d7b83e97ce6723e05"
+  },
+  "p1-the-oldest-leather-shoe": {
+    "lessonId": "p1-the-oldest-leather-shoe",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "innovations"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "producing other important innovations"
+          }
+        ],
+        "explanation": "Thời kỳ có nhiều phát minh/đổi mới."
+      },
+      "2": {
+        "accepted": [
+          "harvest"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "as well as their harvest during the winter months"
+          }
+        ],
+        "explanation": "Hang lưu trữ vụ thu hoạch."
+      },
+      "3": {
+        "accepted": [
+          "oil"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "vegetable oil was applied"
+          }
+        ],
+        "explanation": "Da được xử lý bằng dầu thực vật."
+      },
+      "4": {
+        "accepted": [
+          "cords"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "joined using leather cords"
+          }
+        ],
+        "explanation": "Dây da nối các mảnh giày."
+      },
+      "5": {
+        "accepted": [
+          "grass"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "stuffed with grass"
+          }
+        ],
+        "explanation": "Giày được nhét cỏ."
+      },
+      "6": {
+        "accepted": [
+          "temperature"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "extremes of temperature in the region"
+          }
+        ],
+        "explanation": "Giày giúp chống lại thay đổi nhiệt độ."
+      },
+      "7": {
+        "accepted": [
+          "stones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "We have found stones in the cave"
+          }
+        ],
+        "explanation": "Đá từ xa là bằng chứng của hành trình dài."
+      },
+      "8": {
+        "accepted": [
+          "tribe"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "belonging to a certain tribe"
+          }
+        ],
+        "explanation": "Hình dạng giày thể hiện bộ lạc của người mang."
+      },
+      "9": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "bearskin soles, deerskin sides"
+          }
+        ],
+        "explanation": "Giày Ötzi làm từ da gấu và da hươu."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "sandals made of plant fibers"
+          }
+        ],
+        "explanation": "Dép tìm thấy được làm từ sợi thực vật, không phải da."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "analysis of toe bones found in 40,000-year-old fossils"
+          }
+        ],
+        "explanation": "Xương ngón chân hóa thạch gợi ý con người đi giày từ rất sớm."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "pampooties’ worn on the Aran Islands"
+          }
+        ],
+        "explanation": "Sự giống nhau về giày không cho biết người dân Ireland đến Cận Đông giao thương."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "across a large and environmentally diverse region"
+          }
+        ],
+        "explanation": "Kiểu giày được dùng khắp vùng rộng và đa dạng môi trường."
+      }
+    },
+    "lessonSha256": "383f96d91f23dd7c33839eec768720c54e9f434ec12ef87b4cc1fc7b3862623f"
+  },
+  "p1-te-papa": {
+    "lessonId": "p1-te-papa",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "caves"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "outdoor areas with artificial caves"
+          }
+        ],
+        "explanation": "Khu ngoài có các hang nhân tạo."
+      },
+      "2": {
+        "accepted": [
+          "identity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "reflected the country’s evolving identity"
+          }
+        ],
+        "explanation": "Thiết kế phản ánh bản sắc đang thay đổi của đất nước."
+      },
+      "3": {
+        "accepted": [
+          "hotel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "previously occupied by a modern five-storey hotel"
+          }
+        ],
+        "explanation": "Khách sạn cũ được di dời."
+      },
+      "4": {
+        "accepted": [
+          "wood"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "wood used inside for the panels, ceilings and handrails"
+          }
+        ],
+        "explanation": "Trần nội thất dùng gỗ New Zealand."
+      },
+      "5": {
+        "accepted": [
+          "harbour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "north face faces Wellington’s harbour"
+          }
+        ],
+        "explanation": "Mặt bắc hướng ra cảng."
+      },
+      "6": {
+        "accepted": [
+          "communities"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "temporary exhibitions from specific communities"
+          }
+        ],
+        "explanation": "Khu trung tâm giới thiệu các cộng đồng định cư."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a contemporary one on the Marae and a traditional one"
+          }
+        ],
+        "explanation": "Một cổng hiện đại, một cổng truyền thống."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "first two stones are lava that erupted from Mount Taranaki"
+          }
+        ],
+        "explanation": "Hai viên đá đầu là dung nham núi lửa."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "comes from the Oparara River"
+          }
+        ],
+        "explanation": "Bài nêu nơi lấy đá granite nhưng không cho biết nó có nhiều ở đó."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "various colours reflect the diversity of those who came to settle"
+          }
+        ],
+        "explanation": "Màu sắc tượng trưng tính đa dạng của người định cư."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "visitors can push the ball to turn it"
+          }
+        ],
+        "explanation": "Có thể đẩy quả cầu, nhưng không nêu mức độ ưa thích so với hiện vật khác."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Jets pulse the water to keep the ball moving when no one is pushing it"
+          }
+        ],
+        "explanation": "Tia nước vẫn làm quả cầu chuyển động khi không ai đẩy."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "basalt from Transvaal, South Africa"
+          }
+        ],
+        "explanation": "Đá của quả cầu có nguồn gốc Nam Phi."
+      }
+    },
+    "lessonSha256": "7cbb89baa224b93bb3ca3fc39142422861b878fc77cb9c935244ad78a6ae0b88"
+  },
+  "p1-dinner-in-rome-2-000-years-ago": {
+    "lessonId": "p1-dinner-in-rome-2-000-years-ago",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "important social ritual in the Roman world"
+          }
+        ],
+        "explanation": "Bữa ăn là nghi thức xã hội của La Mã, không nói họ là người đầu tiên."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "civic feasts offered to all of the inhabitants of a city"
+          }
+        ],
+        "explanation": "Tiệc công cộng dành cho mọi cư dân thành phố."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "literary sources are united in describing elite private dinners"
+          }
+        ],
+        "explanation": "Các nguồn văn học mô tả nhất quán."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "high-quality decorative fixtures"
+          }
+        ],
+        "explanation": "Phòng ăn trang trí cầu kỳ."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "at the centre of which was placed a table"
+          }
+        ],
+        "explanation": "Có bàn chung ở giữa, không phải mỗi ghế dài một bàn."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "costly materials, such as ivory and bronze"
+          }
+        ],
+        "explanation": "Đồng là vật liệu đắt nhưng không khẳng định đắt nhất."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "dessert usually involving ingredients like fruit and honey"
+          }
+        ],
+        "explanation": "Bữa ăn thường có tráng miệng ngọt."
+      },
+      "8": {
+        "accepted": [
+          "spectacle"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "add an element of spectacle to the meal"
+          }
+        ],
+        "explanation": "Thức ăn cũng là một màn trình diễn."
+      },
+      "9": {
+        "accepted": [
+          "affluence"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "reflected the host’s affluence"
+          }
+        ],
+        "explanation": "Món đắt tiền thể hiện sự giàu có của chủ nhà."
+      },
+      "10": {
+        "accepted": [
+          "decorative"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "functional and decorative purposes"
+          }
+        ],
+        "explanation": "Dụng cụ bàn tiệc vừa hữu ích vừa trang trí."
+      },
+      "11": {
+        "accepted": [
+          "spoons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "spoons, which were the primary eating utensil"
+          }
+        ],
+        "explanation": "Thìa là dụng cụ ăn chính."
+      },
+      "12": {
+        "accepted": [
+          "pottery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "cheap form of pottery"
+          }
+        ],
+        "explanation": "Nhiều bình chứa làm từ đồ gốm ở Pháp."
+      },
+      "13": {
+        "accepted": [
+          "animals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "trained animals, such as lions and leopards"
+          }
+        ],
+        "explanation": "Giải trí có động vật được huấn luyện."
+      }
+    },
+    "lessonSha256": "01064cf444baff6934074ced155e7b8a8982eb588475a7f8cbf7c4fc0b49ce39"
+  },
+  "p1-fazioli-pianos": {
+    "lessonId": "p1-fazioli-pianos",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "foolish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "considered a foolish decision"
+          }
+        ],
+        "explanation": "Bạn bè cho rằng quyết định của Fazioli dại dột."
+      },
+      "2": {
+        "accepted": [
+          "cheap"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a product that was cheap in comparison"
+          }
+        ],
+        "explanation": "Yamaha bán đàn tương đối rẻ."
+      },
+      "3": {
+        "accepted": [
+          "Sacile"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "moved from Rome to Sacile"
+          }
+        ],
+        "explanation": "Nhà máy ở Sacile."
+      },
+      "4": {
+        "accepted": [
+          "spruce"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "spruce trees there that yield especially resonant timber"
+          }
+        ],
+        "explanation": "Gỗ vân sam tạo âm vang."
+      },
+      "5": {
+        "accepted": [
+          "four"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "wait between four and eight months"
+          }
+        ],
+        "explanation": "Thời gian chờ ít nhất bốn tháng."
+      },
+      "6": {
+        "accepted": [
+          "bell"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "similar to a bell"
+          }
+        ],
+        "explanation": "Tiếng đàn được ví như chuông."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Steinway, which makes about 2,000-2,500 a year"
+          }
+        ],
+        "explanation": "Fazioli sẽ không vượt lượng sản xuất của Steinway."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "still not back to their levels before the financial crisis of 2008"
+          }
+        ],
+        "explanation": "Doanh số Mỹ vẫn dưới mức trước khủng hoảng 2008."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "not just wealthy amateurs"
+          }
+        ],
+        "explanation": "Tập trung nghệ sĩ chuyên nghiệp, không thấy chỉ trích vì bán cho người giàu."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "They're the most important segment"
+          }
+        ],
+        "explanation": "Người chơi piano chuyên nghiệp là nhóm quan trọng nhất."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "prefers German-made Steinways"
+          }
+        ],
+        "explanation": "Bax thích Steinway nhưng không nói ông bắt đầu học bằng Fazioli."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Other pianos can be very beautiful but are less interesting"
+          }
+        ],
+        "explanation": "Hewitt đánh giá Fazioli có khả năng biểu đạt tốt hơn."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "not catching on as fast among concert pianists as among the general public"
+          }
+        ],
+        "explanation": "Fazioli chậm phổ biến trong giới nghệ sĩ hơn công chúng."
+      }
+    },
+    "lessonSha256": "ab76730826a0a655794541e90f8ea58b5e0183f3b87d51228fd4d557f8405f41"
+  },
+  "p1-the-history-of-lighting": {
+    "lessonId": "p1-the-history-of-lighting",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "plentiful and cheap"
+          }
+        ],
+        "explanation": "Mỡ động vật làm nến tallow sẵn và rẻ."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "tallow candles melted extremely quickly"
+          }
+        ],
+        "explanation": "Nến tallow tan nhanh, beeswax vượt trội về phương diện này."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Far superior in all these respects were candles made of beeswax"
+          }
+        ],
+        "explanation": "Có so sánh ánh sáng, tốc độ tan và mùi, không nói tính an toàn."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "needed cleaning daily"
+          }
+        ],
+        "explanation": "Đèn dầu giảm sáng do muội nếu không làm sạch."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "adjust the flame's level of brightness"
+          }
+        ],
+        "explanation": "Núm vặn cho phép chỉnh độ sáng."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "best oil light was produced by whale oil"
+          }
+        ],
+        "explanation": "Không nhắc mùi của dầu cá voi."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "used in businesses and for street lighting, and didn't become common in homes"
+          }
+        ],
+        "explanation": "Đèn gas dùng tại cơ sở kinh doanh trước khi phổ biến trong nhà."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "It is no coincidence that the mid-19th century saw a sudden and lasting boom"
+          }
+        ],
+        "explanation": "Ánh sáng gas giúp người dân đọc nhiều hơn; bài không nói báo chí thúc đẩy lắp đèn."
+      },
+      "9": {
+        "accepted": [
+          "applications"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "hard to devise practical applications"
+          }
+        ],
+        "explanation": "Chưa có nhiều ứng dụng thực tế cho điện."
+      },
+      "10": {
+        "accepted": [
+          "bright"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a blindingly bright light"
+          }
+        ],
+        "explanation": "Đèn hồ quang cho ánh sáng rất mạnh."
+      },
+      "11": {
+        "accepted": [
+          "attention"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "needed constant attention to run smoothly"
+          }
+        ],
+        "explanation": "Đèn cần chú ý/bảo dưỡng liên tục."
+      },
+      "12": {
+        "accepted": [
+          "air"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "decrease the air in a glass chamber"
+          }
+        ],
+        "explanation": "Buồng kính được rút gần hết không khí."
+      },
+      "13": {
+        "accepted": [
+          "filament"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "material for the 'filament'"
+          }
+        ],
+        "explanation": "Edison tìm vật liệu dây tóc."
+      }
+    },
+    "lessonSha256": "f84bd2f72fb53fc9451131a77026402989e905d57da44d8ef45663f89ff63318"
+  },
+  "p1-walking-for-life": {
+    "lessonId": "p1-walking-for-life",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "no special clothing or footwear"
+          }
+        ],
+        "explanation": "Không cần giày chuyên dụng."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "influenced by childhood habit"
+          }
+        ],
+        "explanation": "Stinear đề cập thói quen khi nhỏ, không so sánh trẻ nay với xưa."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Just strolling round the shops and your local area is not sufficient"
+          }
+        ],
+        "explanation": "Đi dạo nhẹ gần nhà không đủ để đạt mức luyện tập nêu ra."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "helping to rehabilitate people who have suffered cancer, stroke and heart disease"
+          }
+        ],
+        "explanation": "Có chương trình phục hồi, không nói bệnh viện ngày càng dùng thiết bị tập."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Joining a walking group is one of the best and easiest ways"
+          }
+        ],
+        "explanation": "Không có số liệu xu hướng độ phổ biến ở Anh."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "long-term illnesses including arthritis, dementia, diabetes"
+          }
+        ],
+        "explanation": "Báo cáo tổng hợp nhiều bệnh khác nhau."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "There is less scientific evidence when it comes to research on children"
+          }
+        ],
+        "explanation": "Nghiên cứu trẻ em ít hơn người lớn."
+      },
+      "8": {
+        "accepted": [
+          "gardening"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "such as gardening"
+          }
+        ],
+        "explanation": "Làm vườn là hoạt động được nghiên cứu ở người cao tuổi."
+      },
+      "9": {
+        "accepted": [
+          "steps"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "10,000 steps a day"
+          }
+        ],
+        "explanation": "Thiết bị đếm bước giúp đạt số bước đặt ra."
+      },
+      "10": {
+        "accepted": [
+          "calories"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "burn 20% more calories"
+          }
+        ],
+        "explanation": "Đi nhanh đốt nhiều calo hơn."
+      },
+      "11": {
+        "accepted": [
+          "neighbourhood"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "moving from a neighbourhood that requires a vehicle"
+          }
+        ],
+        "explanation": "Sống ở khu dân cư thuận tiện đi bộ."
+      },
+      "12": {
+        "accepted": [
+          "competition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "something more demanding like a competition"
+          }
+        ],
+        "explanation": "Sự kiện thi đấu đòi hỏi luyện tập."
+      },
+      "13": {
+        "accepted": [
+          "happiness"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "enhance a person’s levels of happiness"
+          }
+        ],
+        "explanation": "Đi bộ có thể cải thiện cảm giác hạnh phúc."
+      }
+    },
+    "lessonSha256": "de823b18f9566b1d0baa83d034a75130922fbf874d235cb98eb618a85a445e53"
+  },
   "p1-a-brief-history-of-canned-food": {
     "lessonId": "p1-a-brief-history-of-canned-food",
     "reviewed": true,

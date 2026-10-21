@@ -1,0 +1,497 @@
+{
+  "p1-the-history-of-the-bar-code": {
+    "lessonId": "p1-the-history-of-the-bar-code",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "ink"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "ink that would glow under ultraviolet light"
+          }
+        ],
+        "explanation": "Mẫu đầu dùng loại mực phát sáng dưới tia cực tím."
+      },
+      "2": {
+        "accepted": [
+          "soundtracks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "method used to record soundtracks in movies"
+          }
+        ],
+        "explanation": "Mẫu sau dùng kỹ thuật ghi nhạc nền/phần âm thanh phim."
+      },
+      "3": {
+        "accepted": [
+          "unreliable"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "scanning equipment was rather unreliable"
+          }
+        ],
+        "explanation": "Thiết bị quét thiếu tin cậy."
+      },
+      "4": {
+        "accepted": [
+          "lasers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "when lasers became affordable"
+          }
+        ],
+        "explanation": "Tia laser rẻ hơn giúp công nghệ quét phổ biến."
+      },
+      "5": {
+        "accepted": [
+          "standardization"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "there was no standardization"
+          }
+        ],
+        "explanation": "Các hệ mã thiếu chuẩn hóa."
+      },
+      "6": {
+        "accepted": [
+          "speed"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "checking out items at twice the speed"
+          }
+        ],
+        "explanation": "Tốc độ thanh toán tăng gấp đôi."
+      },
+      "7": {
+        "accepted": [
+          "marathons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Runners in major marathons"
+          }
+        ],
+        "explanation": "Người chạy marathon được gắn mã."
+      },
+      "8": {
+        "accepted": [
+          "bees"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "mounted on bees by researchers"
+          }
+        ],
+        "explanation": "Các nhà nghiên cứu theo dõi ong."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The professor turned down the request"
+          }
+        ],
+        "explanation": "Người được chủ chuỗi thực phẩm nhờ là một giáo sư, Silver chỉ nghe được cuộc trò chuyện."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "readable from almost any angle and at a range of distances"
+          }
+        ],
+        "explanation": "Ủy ban đòi mã dễ đọc và rẻ để in, triển khai."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "business didn't need the government to shove them"
+          }
+        ],
+        "explanation": "Haberman nói hợp tác tự nguyện không cần chính phủ thúc ép, không nêu bất đồng với chính sách cụ thể."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "had to spend at least $200,000"
+          }
+        ],
+        "explanation": "Chi phí thiết bị lớn nhưng không nói nhiều cửa hàng không đủ khả năng trả."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "advantages of the system were not clear immediately"
+          }
+        ],
+        "explanation": "Phải qua một thời gian người dùng mới thấy lợi ích."
+      }
+    },
+    "lessonSha256": "f5d87562322eac727fbfb5de50e93bed0358626d2f0a3d1d7b83e97ce6723e05"
+  },
+  "p1-the-oldest-leather-shoe": {
+    "lessonId": "p1-the-oldest-leather-shoe",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "innovations"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "producing other important innovations"
+          }
+        ],
+        "explanation": "Thời kỳ có nhiều phát minh/đổi mới."
+      },
+      "2": {
+        "accepted": [
+          "harvest"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "as well as their harvest during the winter months"
+          }
+        ],
+        "explanation": "Hang lưu trữ vụ thu hoạch."
+      },
+      "3": {
+        "accepted": [
+          "oil"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "vegetable oil was applied"
+          }
+        ],
+        "explanation": "Da được xử lý bằng dầu thực vật."
+      },
+      "4": {
+        "accepted": [
+          "cords"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "joined using leather cords"
+          }
+        ],
+        "explanation": "Dây da nối các mảnh giày."
+      },
+      "5": {
+        "accepted": [
+          "grass"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "stuffed with grass"
+          }
+        ],
+        "explanation": "Giày được nhét cỏ."
+      },
+      "6": {
+        "accepted": [
+          "temperature"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "extremes of temperature in the region"
+          }
+        ],
+        "explanation": "Giày giúp chống lại thay đổi nhiệt độ."
+      },
+      "7": {
+        "accepted": [
+          "stones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "We have found stones in the cave"
+          }
+        ],
+        "explanation": "Đá từ xa là bằng chứng của hành trình dài."
+      },
+      "8": {
+        "accepted": [
+          "tribe"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "belonging to a certain tribe"
+          }
+        ],
+        "explanation": "Hình dạng giày thể hiện bộ lạc của người mang."
+      },
+      "9": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "bearskin soles, deerskin sides"
+          }
+        ],
+        "explanation": "Giày Ötzi làm từ da gấu và da hươu."
+      },
+      "10": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "sandals made of plant fibers"
+          }
+        ],
+        "explanation": "Dép tìm thấy được làm từ sợi thực vật, không phải da."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "analysis of toe bones found in 40,000-year-old fossils"
+          }
+        ],
+        "explanation": "Xương ngón chân hóa thạch gợi ý con người đi giày từ rất sớm."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "pampooties’ worn on the Aran Islands"
+          }
+        ],
+        "explanation": "Sự giống nhau về giày không cho biết người dân Ireland đến Cận Đông giao thương."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "across a large and environmentally diverse region"
+          }
+        ],
+        "explanation": "Kiểu giày được dùng khắp vùng rộng và đa dạng môi trường."
+      }
+    },
+    "lessonSha256": "383f96d91f23dd7c33839eec768720c54e9f434ec12ef87b4cc1fc7b3862623f"
+  },
+  "p1-te-papa": {
+    "lessonId": "p1-te-papa",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "caves"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "outdoor areas with artificial caves"
+          }
+        ],
+        "explanation": "Khu ngoài có các hang nhân tạo."
+      },
+      "2": {
+        "accepted": [
+          "identity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "reflected the country’s evolving identity"
+          }
+        ],
+        "explanation": "Thiết kế phản ánh bản sắc đang thay đổi của đất nước."
+      },
+      "3": {
+        "accepted": [
+          "hotel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "previously occupied by a modern five-storey hotel"
+          }
+        ],
+        "explanation": "Khách sạn cũ được di dời."
+      },
+      "4": {
+        "accepted": [
+          "wood"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "wood used inside for the panels, ceilings and handrails"
+          }
+        ],
+        "explanation": "Trần nội thất dùng gỗ New Zealand."
+      },
+      "5": {
+        "accepted": [
+          "harbour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "north face faces Wellington’s harbour"
+          }
+        ],
+        "explanation": "Mặt bắc hướng ra cảng."
+      },
+      "6": {
+        "accepted": [
+          "communities"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "temporary exhibitions from specific communities"
+          }
+        ],
+        "explanation": "Khu trung tâm giới thiệu các cộng đồng định cư."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a contemporary one on the Marae and a traditional one"
+          }
+        ],
+        "explanation": "Một cổng hiện đại, một cổng truyền thống."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "first two stones are lava that erupted from Mount Taranaki"
+          }
+        ],
+        "explanation": "Hai viên đá đầu là dung nham núi lửa."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "comes from the Oparara River"
+          }
+        ],
+        "explanation": "Bài nêu nơi lấy đá granite nhưng không cho biết nó có nhiều ở đó."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "various colours reflect the diversity of those who came to settle"
+          }
+        ],
+        "explanation": "Màu sắc tượng trưng tính đa dạng của người định cư."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "visitors can push the ball to turn it"
+          }
+        ],
+        "explanation": "Có thể đẩy quả cầu, nhưng không nêu mức độ ưa thích so với hiện vật khác."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Jets pulse the water to keep the ball moving when no one is pushing it"
+          }
+        ],
+        "explanation": "Tia nước vẫn làm quả cầu chuyển động khi không ai đẩy."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "basalt from Transvaal, South Africa"
+          }
+        ],
+        "explanation": "Đá của quả cầu có nguồn gốc Nam Phi."
+      }
+    },
+    "lessonSha256": "7cbb89baa224b93bb3ca3fc39142422861b878fc77cb9c935244ad78a6ae0b88"
+  }
+}

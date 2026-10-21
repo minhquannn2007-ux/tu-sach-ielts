@@ -1,0 +1,662 @@
+{
+  "p1-a-moment-of-perfection": {
+    "lessonId": "p1-a-moment-of-perfection",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "he needed extra cash"
+          }
+        ],
+        "explanation": "Knowles muốn có thêm tiền."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "had no formal art training"
+          }
+        ],
+        "explanation": "Ông không học mỹ thuật chính quy."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the Guernsey breed developed from these two types of cattle"
+          }
+        ],
+        "explanation": "Nguồn gốc từ hai giống bò được nêu nhưng không nói tu sĩ làm thí nghiệm lai tạo có kiểm soát."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "actual date of introduction to America is highly disputed"
+          }
+        ],
+        "explanation": "Ngày giống bò đến Mỹ còn gây tranh cãi."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "head, nose and mouth seem too narrow and weak"
+          }
+        ],
+        "explanation": "Kildee chê đầu, mũi, miệng quá hẹp và yếu chứ không quá to."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "everyone was a critic, but constructively so"
+          }
+        ],
+        "explanation": "Những góp ý mang tính xây dựng, không nói ông bị xúc phạm."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "becoming a Guernsey breeder of renown"
+          }
+        ],
+        "explanation": "Không có thông tin ông được mời vẽ các giống bò khác."
+      },
+      "8": {
+        "accepted": [
+          "1959"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "By 1959, the previous Guernsey model"
+          }
+        ],
+        "explanation": "Mẫu cũ lỗi thời vào năm 1959."
+      },
+      "9": {
+        "accepted": [
+          "photos"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "mailing him bundles of cow photos"
+          }
+        ],
+        "explanation": "Hiệp hội gửi các bức ảnh bò."
+      },
+      "10": {
+        "accepted": [
+          "letters"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "copies of letters from dairymen"
+          }
+        ],
+        "explanation": "Người chăn nuôi gửi thư góp ý."
+      },
+      "11": {
+        "accepted": [
+          "Toronto"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "from Maine to Toronto"
+          }
+        ],
+        "explanation": "Cuộc họp được tổ chức ở Toronto."
+      },
+      "12": {
+        "accepted": [
+          "adjustment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "make an adjustment to the painting"
+          }
+        ],
+        "explanation": "Hiệp hội yêu cầu chỉnh sửa lần cuối."
+      },
+      "13": {
+        "accepted": [
+          "horns"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "painting out the horns"
+          }
+        ],
+        "explanation": "Ông vẽ xóa sừng."
+      }
+    },
+    "lessonSha256": "e914e89c39765f74ff184e211e1e47ae52915d1e9ed09c01f24e8a5be436db24"
+  },
+  "p1-concrete": {
+    "lessonId": "p1-concrete",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "synonymous with the words 'inferior', 'cheap'"
+          }
+        ],
+        "explanation": "Đa số dân chúng xem bê tông theo hướng tiêu cực."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "architects who love it, understand it, and experiment with it"
+          }
+        ],
+        "explanation": "Một số kiến trúc sư thử nghiệm bê tông; không khẳng định các hãng thành công ưu tiên nó hơn vật liệu khác."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "well-crafted concrete can be very expensive"
+          }
+        ],
+        "explanation": "Bê tông làm kỹ có thể rất đắt so với gỗ hoặc đá."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "this caused the concrete to crack"
+          }
+        ],
+        "explanation": "Đồng giãn nở khác bê tông và làm bê tông nứt."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "possibilities of what could be achieved with concrete were not immediately clear"
+          }
+        ],
+        "explanation": "Tiềm năng xây dựng cầu không rõ ngay từ đầu."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "lighthouses, high-rise buildings, roads, bridges, sea-barriers and dams"
+          }
+        ],
+        "explanation": "Dùng được cho nhiều công trình quy mô lớn trên đất và biển."
+      },
+      "7": {
+        "accepted": [
+          "rocks"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "calcareous and sedimentary rocks"
+          }
+        ],
+        "explanation": "Khoáng chất được lấy từ nhiều loại đá."
+      },
+      "8": {
+        "accepted": [
+          "cement"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "form a powder called cement"
+          }
+        ],
+        "explanation": "Dạng bột trước khi thêm nước là xi măng."
+      },
+      "9": {
+        "accepted": [
+          "hydration"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "known as hydration"
+          }
+        ],
+        "explanation": "Thêm nước gây quá trình hydration."
+      },
+      "10": {
+        "accepted": [
+          "strength"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "increasing the strength of the concrete"
+          }
+        ],
+        "explanation": "Quá trình kéo dài làm tăng cường độ bê tông."
+      },
+      "11": {
+        "accepted": [
+          "accelerators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "accelerators to increase the speed at which it hardens"
+          }
+        ],
+        "explanation": "Chất tăng tốc làm bê tông đông cứng nhanh."
+      },
+      "12": {
+        "accepted": [
+          "dams"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "construction of gigantic dams"
+          }
+        ],
+        "explanation": "Bê tông chống ẩm dùng cho đập lớn."
+      },
+      "13": {
+        "accepted": [
+          "porous"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "porous enough to allow liquid to flow through it"
+          }
+        ],
+        "explanation": "Bê tông xốp được dùng trong hệ thống xử lý nước thải."
+      }
+    },
+    "lessonSha256": "bcbb1d60445a67af52caa2502df608c3b691c4e5844c6c5b8c114b22a82dc563"
+  },
+  "p1-the-history-of-the-pencil": {
+    "lessonId": "p1-the-history-of-the-pencil",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "tree"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "large uprooted tree"
+          }
+        ],
+        "explanation": "Than chì được tìm thấy dưới gốc cây bị bật."
+      },
+      "2": {
+        "accepted": [
+          "sheep"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "identify their sheep"
+          }
+        ],
+        "explanation": "Nông dân ban đầu dùng than chì đánh dấu cừu."
+      },
+      "3": {
+        "accepted": [
+          "soft"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "material was very soft, which meant that it was messy"
+          }
+        ],
+        "explanation": "Than chì thô mềm nên dễ bẩn."
+      },
+      "4": {
+        "accepted": [
+          "rope"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "stiff sheep hides or rope"
+          }
+        ],
+        "explanation": "Lõi than chì được bọc bằng dây thừng hoặc da cừu."
+      },
+      "5": {
+        "accepted": [
+          "mines"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "assumed control of all the mines"
+          }
+        ],
+        "explanation": "Chính phủ nắm toàn bộ các mỏ."
+      },
+      "6": {
+        "accepted": [
+          "steal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "started to steal it"
+          }
+        ],
+        "explanation": "Người địa phương bắt đầu trộm than chì."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Italians originally invented the wooden casing"
+          }
+        ],
+        "explanation": "Người Ý sáng tạo lớp vỏ gỗ đầu tiên."
+      },
+      "8": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Germans took this technique and developed it further"
+          }
+        ],
+        "explanation": "Người Đức sản xuất hàng loạt nhưng không nói họ dùng loại gỗ khác."
+      },
+      "9": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "More graphite helped make a pencil mark that was softer, thicker and darker"
+          }
+        ],
+        "explanation": "Thêm graphite làm nét tối hơn, còn thêm đất sét làm cứng và sắc."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Pencil manufacturers all over the world still use this"
+          }
+        ],
+        "explanation": "Bài không nêu tốc độ áp dụng hệ HB sau khi ra đời."
+      },
+      "11": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "England’s pencil industry continues to thrive"
+          }
+        ],
+        "explanation": "Ngành bút chì Anh vẫn phát triển."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "both American and Russian astronauts were equipped with pencils"
+          }
+        ],
+        "explanation": "Cả hai nước dùng bút chì trong chuyến bay đầu."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "nothing to suggest that we are likely to invent anything better"
+          }
+        ],
+        "explanation": "Bút chì than chì được dự đoán sẽ còn dùng."
+      }
+    },
+    "lessonSha256": "ff65feca4ed2574381039e2cf09755c5bb082e7b8cf75a1e31ae5b3ccca93fd1"
+  },
+  "p1-the-history-of-the-doughnut": {
+    "lessonId": "p1-the-history-of-the-doughnut",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "did not yet have the famous ring form"
+          }
+        ],
+        "explanation": "Bánh oily cake của Hà Lan chưa có hình vòng."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "hoping it might help prevent severe vitamin deficiency and colds"
+          }
+        ],
+        "explanation": "Bà Gregory làm bánh cho thủy thủ mang theo, hy vọng giúp phòng bệnh."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "first doughnut hole ever seen by mortal eyes"
+          }
+        ],
+        "explanation": "Gregory nhận mình đã tạo ra lỗ đầu tiên."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "served up by women volunteers"
+          }
+        ],
+        "explanation": "Có thông tin phát bánh nhưng không nói họ phục vụ đồ uống cùng bánh."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "goes back earlier to the American Civil War"
+          }
+        ],
+        "explanation": "Tên doughboy có từ Nội chiến Mỹ trước Thế chiến I."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "making it into a light, puffy product"
+          }
+        ],
+        "explanation": "Bài nói hình thức và định kiến giảm; không đánh giá hương vị đã cải thiện."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "scene behind the glass of doughnut shops"
+          }
+        ],
+        "explanation": "Công chúng xem được quá trình máy làm bánh."
+      },
+      "8": {
+        "accepted": [
+          "prejudice"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "diminished the prejudice"
+          }
+        ],
+        "explanation": "Máy làm giảm định kiến về bánh."
+      },
+      "9": {
+        "accepted": [
+          "messages"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "served with messages to lift the spirits"
+          }
+        ],
+        "explanation": "Bánh đôi khi kèm thông điệp khích lệ."
+      },
+      "10": {
+        "accepted": [
+          "recipe"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "sell his secret recipe"
+          }
+        ],
+        "explanation": "LeBeau bán công thức bí mật."
+      },
+      "11": {
+        "accepted": [
+          "musical"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "his 1942 army musical"
+          }
+        ],
+        "explanation": "Bánh xuất hiện trong vở nhạc kịch."
+      },
+      "12": {
+        "accepted": [
+          "bagel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "challenged by the bagel"
+          }
+        ],
+        "explanation": "Bagel cạnh tranh với bánh doughnut."
+      },
+      "13": {
+        "accepted": [
+          "book"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "children's book Homer Price"
+          }
+        ],
+        "explanation": "Cuốn sách Homer Price kể về máy làm bánh bị mất kiểm soát."
+      }
+    },
+    "lessonSha256": "f06b5edd66c5b03131e0ad7c8c8a44fa8b61ab84a1e8345aca0d7a84c6c1aaad"
+  }
+}
