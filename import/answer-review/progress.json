@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-20T13:52:29.731Z",
-  "totalLessons": 747,
-  "reviewedLessons": 140,
-  "reviewedAnswers": 1835,
+  "updatedAt": "2026-10-21T14:01:44.871Z",
+  "totalLessons": 798,
+  "reviewedLessons": 149,
+  "reviewedAnswers": 1952,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 603,
+  "pendingSolutions": 645,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -121,6 +121,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-a-moment-of-perfection",
+      "title": "A Moment of Perfection",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-a-most-unusual-theatre",
       "title": "A most unusual theatre",
       "part": 3,
@@ -231,6 +238,13 @@
       "part": 1,
       "questions": 13,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p1-ahead-of-its-time",
+      "title": "Ahead of its time",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
     },
     {
       "id": "p3-all-in-the-family",
@@ -361,6 +375,13 @@
     {
       "id": "p2-antarctic-architecture-halley-vi",
       "title": "Antarctic architecture: Halley VI",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-antarctic-research",
+      "title": "Antarctic research",
       "part": 2,
       "questions": 13,
       "status": "pending-solution"
@@ -583,6 +604,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-biophilic-design",
+      "title": "Biophilic Design",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-bird-migration",
       "title": "Bird Migration",
       "part": 2,
@@ -702,6 +730,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-british-woodlands",
+      "title": "British woodlands",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-brutalist-architecture",
       "title": "Brutalist Architecture",
       "part": 3,
@@ -713,7 +748,7 @@
       "title": "Building a New Future",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-buried-cities-of-the-amazon-rainforest",
@@ -728,6 +763,13 @@
       "part": 3,
       "questions": 14,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p1-butterfly-farms-valuable-resource-or-insect-zoo",
+      "title": "Butterfly Farms: valuable resource or insect zoo?",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
     },
     {
       "id": "p2-buying-time",
@@ -797,6 +839,13 @@
       "title": "Case Study: Cargill Dow LLC",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-case-study-schuit-sustainable-development-project-on-stavos",
+      "title": "Case Study: Schuit Sustainable Development Project on Stavos",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -896,6 +945,13 @@
       "part": 1,
       "questions": 13,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p2-classical-music-over-the-centuries",
+      "title": "Classical music over the centuries",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
     },
     {
       "id": "p1-classifying-societies",
@@ -1206,6 +1262,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-dugongs",
+      "title": "Dugongs",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-dust-and-the-american-west",
       "title": "Dust and the American West",
       "part": 1,
@@ -1243,6 +1306,13 @@
     {
       "id": "p2-effects-of-changes-in-world-population",
       "title": "Effects of changes in world population",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-egypt-s-ancient-boat-builders",
+      "title": "Egypt’s ancient boat-builders",
       "part": 2,
       "questions": 13,
       "status": "pending-solution"
@@ -1329,6 +1399,13 @@
       "title": "Feeding the world",
       "part": 1,
       "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-filming-the-natural-world-with-time-warp-photography",
+      "title": "Filming the Natural World with Time-warp Photography",
+      "part": 3,
+      "questions": 14,
       "status": "pending-solution"
     },
     {
@@ -1462,7 +1539,7 @@
       "title": "Gobekli Tepe: a remarkable discovery",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-going-with-the-flow",
@@ -1542,11 +1619,32 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-honeybees-face-a-fight-for-survival",
+      "title": "Honeybees face a fight for survival",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-honeybees-in-trouble-can-native-pollinators-fill-the-gap",
+      "title": "Honeybees in trouble – can native pollinators fill the gap?",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-hormones",
       "title": "Hormones",
       "part": 1,
       "questions": 13,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p3-how-a-prehistoric-predator-took-to-the-skies",
+      "title": "How a prehistoric predator took to the skies",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
     },
     {
       "id": "p3-how-can-we-make-good-decisions",
@@ -1780,6 +1878,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-intelligent-behavior-in-birds",
+      "title": "Intelligent behaviour in birds",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-introduction-to-a-book-about-the-assessment-of-carbon-footprints",
       "title": "Introduction to a book about the assessment of carbon footprints",
       "part": 2,
@@ -1829,6 +1934,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-jean-piaget-1896-1980",
+      "title": "Jean Piaget 1896 – 1980",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-jellyfish-the-dominant-species",
       "title": "Jellyfish – The Dominant Species",
       "part": 2,
@@ -1838,6 +1950,13 @@
     {
       "id": "p1-john-st-clair-kilby-inventor-of-the-integrated-circuit",
       "title": "John St Clair Kilby: inventor of the integrated circuit",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-katherine-mansfield",
+      "title": "Katherine Mansfield",
       "part": 1,
       "questions": 13,
       "status": "pending-solution"
@@ -2207,6 +2326,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-mechanical-computing",
+      "title": "Mechanical computing",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-meeting-challenges-in-food-production",
       "title": "Meeting Challenges in Food Production",
       "part": 2,
@@ -2237,6 +2363,13 @@
     {
       "id": "p3-mercator-the-map-maker",
       "title": "MERCATOR – THE MAP MAKER",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-message-in-a-coral",
+      "title": "Message in a coral",
       "part": 3,
       "questions": 14,
       "status": "pending-solution"
@@ -2351,7 +2484,7 @@
       "title": "Museums and family visitors in Australia",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-music-and-the-human-brain",
@@ -2384,6 +2517,13 @@
     {
       "id": "p2-nature-s-numbers",
       "title": "Nature’s numbers",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-natures-positive-effects-on-well-being",
+      "title": "Nature’s Positive Effects on Well-being",
       "part": 2,
       "questions": 13,
       "status": "pending-solution"
@@ -2480,6 +2620,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p1-nutrition-and-human-growth-in-north-america-and-europe-18th-20th-century",
+      "title": "Nutrition and human growth in North America and Europe: 18th–20th century",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-obesity-do-citizens-of-developed-countries-really-have-a-choice",
       "title": "Obesity: Do citizens of developed countries really have a choice?",
       "part": 1,
@@ -2505,6 +2652,27 @@
       "title": "On art and artists",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-online-social-networking-sites",
+      "title": "Online social networking sites",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-optimism-a-very-human-characteristic",
+      "title": "Optimism – a very human characteristic",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-optimism-and-health",
+      "title": "Optimism and Health",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -2568,6 +2736,13 @@
       "title": "Patterns of Nature",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-patterns-of-settlement-in-the-english-countryside",
+      "title": "Patterns of settlement in the English countryside",
+      "part": 2,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -2715,6 +2890,13 @@
       "title": "Rebranding art museums",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-recent-developments-in-pea-growing",
+      "title": "Recent developments in pea growing",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -2928,6 +3110,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-science-and-the-stradivarius",
+      "title": "Science and the Stradivarius:",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-science-in-the-kitchen",
       "title": "Science in the kitchen",
       "part": 3,
@@ -3005,6 +3194,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-should-top-managers-be-promoted-from-within-the-company-or-hired-from-outside",
+      "title": "Should top managers be promoted from within the company, or hired from outside?",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-should-we-stop-eating-meat",
       "title": "Should we stop eating meat?",
       "part": 2,
@@ -3052,6 +3248,13 @@
       "part": 1,
       "questions": 13,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p2-society-and-culture-in-west-africa",
+      "title": "Society and culture in West Africa",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
     },
     {
       "id": "p1-socotra-island",
@@ -3166,6 +3369,13 @@
       "status": "answer-reviewed"
     },
     {
+      "id": "p2-surviving-city-life",
+      "title": "Surviving city life",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-surviving-the-winter-hibernation-and-other-resting-states",
       "title": "Surviving the winter: hibernation and other resting states",
       "part": 2,
@@ -3219,6 +3429,13 @@
       "title": "Tasmania's Museum of Old and New Art",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-te-papa",
+      "title": "Te Papa",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -3324,6 +3541,20 @@
       "title": "The Antikythera Mechanism",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-art-and-science-of-facial-reconstruction-a-history",
+      "title": "The art and science of facial reconstruction: a history",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-attraction-of-video-games",
+      "title": "The attraction of video games",
+      "part": 2,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -3467,6 +3698,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-the-constant-evolution-of-the-humble-tomato",
+      "title": "The Constant Evolution of the Humble Tomato",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-the-contentious-role-of-public-art",
       "title": "The contentious role of public art",
       "part": 3,
@@ -3527,7 +3765,7 @@
       "title": "The Development of Exploration and Scientific Research in Antarctica",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-development-of-humour-in-children",
@@ -3712,6 +3950,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-the-function-of-dreams",
+      "title": "The Function of Dreams",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p2-the-future-of-fabrics-and-fibres",
       "title": "The Future of Fabrics and Fibres",
       "part": 2,
@@ -3835,7 +4080,7 @@
       "title": "The history of London's coffeehouses",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-history-of-men-s-leisurewear",
@@ -3850,6 +4095,13 @@
       "part": 2,
       "questions": 13,
       "status": "answer-reviewed"
+    },
+    {
+      "id": "p1-the-history-of-the-bar-code",
+      "title": "The history of the bar code",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
     },
     {
       "id": "p1-the-history-of-the-british-wool-industry",
@@ -4024,7 +4276,7 @@
       "title": "The kea",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-last-man-who-knew-everything",
@@ -4065,6 +4317,20 @@
       "id": "p2-the-link-between-culture-and-thought",
       "title": "The Link between Culture and Thought",
       "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-little-ice-age",
+      "title": "The Little Ice Age",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-the-london-bus-museum",
+      "title": "The London Bus Museum",
+      "part": 1,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -4125,6 +4391,13 @@
       "status": "answer-reviewed"
     },
     {
+      "id": "p1-the-media-literacy-of-children-a-review-of-research-literature",
+      "title": "The media literacy of children: a review of research literature",
+      "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-the-mesoamerican-ball-game",
       "title": "The Mesoamerican Ball Game",
       "part": 1,
@@ -4148,6 +4421,13 @@
     {
       "id": "p2-the-myth-of-the-eight-hour-sleep",
       "title": "The Myth of the Eight-hour Sleep",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-nature-and-characteristics-of-memory",
+      "title": "The nature and characteristics of memory",
       "part": 2,
       "questions": 13,
       "status": "pending-solution"
@@ -4255,6 +4535,13 @@
       "title": "The Origins of Weather Forecasting",
       "part": 1,
       "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-the-ornithopter-a-new-way-to-fly",
+      "title": "The ornithopter – a new way to fly?",
+      "part": 3,
+      "questions": 14,
       "status": "pending-solution"
     },
     {
@@ -4419,6 +4706,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-the-robbers-cave-study",
+      "title": "The Robbers Cave Study",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-the-role-of-accidents-in-business",
       "title": "The role of accidents in business",
       "part": 3,
@@ -4475,6 +4769,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-the-significant-role-of-mother-tongue-in-education",
+      "title": "The Significant Role of Mother Tongue in Education",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-the-slow-food-organization",
       "title": "The Slow Food Organization",
       "part": 1,
@@ -4492,6 +4793,13 @@
       "id": "p1-the-southern-cross",
       "title": "The Southern Cross",
       "part": 1,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p2-the-story-of-the-ocean",
+      "title": "The story of the ocean",
+      "part": 2,
       "questions": 13,
       "status": "pending-solution"
     },
@@ -4538,6 +4846,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-the-tasmanian-tiger",
+      "title": "The Tasmanian Tiger",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-the-travelling-stock-routes-and-reserves-of-new-south-wales",
       "title": "The Travelling Stock Routes and Reserves of New South Wales",
       "part": 1,
@@ -4563,6 +4878,13 @@
       "title": "The tuatara – past and future",
       "part": 3,
       "questions": 14,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p1-the-tuatara-of-new-zealand",
+      "title": "The Tuatara of New Zealand",
+      "part": 1,
+      "questions": 13,
       "status": "pending-solution"
     },
     {
@@ -4636,6 +4958,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p2-the-workplace-is-changing",
+      "title": "The Workplace is Changing",
+      "part": 2,
+      "questions": 13,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-the-worlds-first-cities",
       "title": "The world’s first cities",
       "part": 1,
@@ -4696,7 +5025,7 @@
       "title": "Traditional Maori Fish Hooks",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-traditional-maori-medicine",
@@ -4850,7 +5179,7 @@
       "title": "Using Up Our Oceans' Resources",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-using-video-diaries-to-collect-research-data-from-children",
@@ -4930,6 +5259,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-what-do-babies-know",
+      "title": "What Do Babies Know?",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p1-what-do-managers-really-do",
       "title": "What do managers really do?",
       "part": 1,
@@ -4955,6 +5291,13 @@
       "title": "What have we learned from the new Viking ship?",
       "part": 1,
       "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-what-is-art-tolstoy-s-criteria",
+      "title": "What is art? Tolstoy’s criteria",
+      "part": 3,
+      "questions": 14,
       "status": "pending-solution"
     },
     {
@@ -5028,6 +5371,13 @@
       "status": "pending-solution"
     },
     {
+      "id": "p3-when-people-are-deaf-to-music",
+      "title": "When people are ‘deaf’ to music",
+      "part": 3,
+      "questions": 14,
+      "status": "pending-solution"
+    },
+    {
       "id": "p3-who-looks-after-the-children-in-todays-britain",
       "title": "Who looks after the children in today’s Britain?",
       "part": 3,
@@ -5060,6 +5410,13 @@
       "title": "Why do we use language?",
       "part": 2,
       "questions": 13,
+      "status": "pending-solution"
+    },
+    {
+      "id": "p3-why-don-t-adverts-work-any-more",
+      "title": "Why don’t adverts work any more?",
+      "part": 3,
+      "questions": 14,
       "status": "pending-solution"
     },
     {
@@ -5130,7 +5487,7 @@
       "title": "Windmills",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-wood-a-valuable-resource-in-new-zealand-s-economy",

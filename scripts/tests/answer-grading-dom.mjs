@@ -1,6 +1,8 @@
 import fs from 'node:fs';import assert from 'node:assert/strict';import crypto from 'node:crypto';import {pathToFileURL} from 'node:url';
 const {Window}=await import(pathToFileURL(process.env.HAPPY_DOM_MODULE));const read=f=>fs.readFileSync('dist/'+f,'utf8'),keys=JSON.parse(read('answer-keys.json'));
-const ids=Object.keys(keys);
+const requested=process.env.ANSWER_LESSON_IDS?.split(',').filter(Boolean);
+if(requested)for(const id of requested)assert(keys[id],'Unknown reviewed fixture '+id);
+const ids=requested||Object.keys(keys);
 for(const id of ids)for(const full of [false,true]){
  const data=JSON.parse(read('lessons/'+id+'.json')),key=keys[id]?.answers||data.key;
  const w=new Window({url:'https://test.example/exam.html'+(full?'?full=1':''),settings:{disableCSSFileLoading:true,disableJavaScriptFileLoading:true,disableJavaScriptEvaluation:true}});w.TextEncoder=TextEncoder;Object.defineProperty(w.crypto,'subtle',{value:crypto.webcrypto.subtle});w.confirm=()=>true;w.HTMLElement.prototype.scrollIntoView=function(){};w.HTMLElement.prototype.scrollTo=function(){};if(full)Object.defineProperty(w,'parent',{value:{postMessage(){}}});w.document.write(read('exam.html').replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,''));w.eval(read('exam-data.js'));w.eval(read('exam-engine.js'));await w.IELTSExam.boot(data,{utilities:false,answerKey:keys[id]});

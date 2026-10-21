@@ -1,0 +1,499 @@
+{
+  "p1-the-kea": {
+    "lessonId": "p1-the-kea",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "They are absent from both the North Island and Stewart Island"
+          }
+        ],
+        "explanation": "Kea không sống ở đảo Bắc."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "all types of native forest, sub-alpine scrub and grassy hills"
+          }
+        ],
+        "explanation": "Chúng kiếm ăn ở nhiều kiểu thảm thực vật."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "olive-green-coloured parrot with scarlet underwings"
+          }
+        ],
+        "explanation": "Lông thân xanh ô liu nhưng dưới cánh đỏ tươi."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a loud uncontrolled whooping"
+          }
+        ],
+        "explanation": "Tiếng kêu của con non lớn và chưa ổn định, không phải thường yên lặng."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "An individual female may nest in several successive years"
+          }
+        ],
+        "explanation": "Làm tổ nhiều năm liên tiếp không có nghĩa là quay lại cùng một tổ; bài không nêu điều đó."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "nationally endangered in 2013"
+          }
+        ],
+        "explanation": "Năm bị xếp loại nguy cấp là 2013; năm 1971 là mốc cấm săn để bảo vệ cừu."
+      },
+      "7": {
+        "accepted": [
+          "mountains"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "No other parrot worldwide makes its home in the mountains"
+          }
+        ],
+        "explanation": "Kea là loài vẹt duy nhất sống ở núi."
+      },
+      "8": {
+        "accepted": [
+          "female"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The female does all the incubation, brooding and feeding of the young"
+          }
+        ],
+        "explanation": "Con cái trực tiếp cho con non ăn."
+      },
+      "9": {
+        "accepted": [
+          "landscape"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the rocky and uneven landscape"
+          }
+        ],
+        "explanation": "Địa hình gồ ghề khiến việc đếm khó khăn."
+      },
+      "10": {
+        "accepted": [
+          "6,000",
+          "6000"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a total population of about 6,000 birds"
+          }
+        ],
+        "explanation": "Ước tính khoảng 6.000 con được cho là sát thực tế."
+      },
+      "11": {
+        "accepted": [
+          "sheep"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "attacks on their sheep"
+          }
+        ],
+        "explanation": "Người định cư không thích kea vì chúng tấn công cừu."
+      },
+      "12": {
+        "accepted": [
+          "curiosity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Keas' instinctive curiosity attracts them to humans"
+          }
+        ],
+        "explanation": "Tính tò mò tự nhiên khiến chúng tiếp xúc với con người."
+      },
+      "13": {
+        "accepted": [
+          "grubs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "turning over soil in search of grubs"
+          }
+        ],
+        "explanation": "Chúng tìm ấu trùng trong đất trồng trọt và rừng trồng."
+      }
+    },
+    "lessonSha256": "c80e31a0957c28cbe24131cad25c6710f50c8854c57e166019b5928f7de6b0c6"
+  },
+  "p1-the-development-of-exploration-and-scientific-research-in-antarctica": {
+    "lessonId": "p1-the-development-of-exploration-and-scientific-research-in-antarctica",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "travel had been limited to the use of dog-teams pulling sledges"
+          }
+        ],
+        "explanation": "Trước máy bay, người ta dùng chó kéo xe trượt."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "A further attempt in 1930 was also unsuccessful"
+          }
+        ],
+        "explanation": "Từ “also” xác nhận cả lần thử trước đó năm 1928 cũng không thành công."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "proved conclusively that the Antarctic Peninsula was attached"
+          }
+        ],
+        "explanation": "Đoàn 1934–37 bác bỏ giả thuyết bán đảo là đảo riêng."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "another American, Lincoln Ellsworth, made a successful Antarctic flight in 1935"
+          }
+        ],
+        "explanation": "Chỉ có trình tự sự kiện, không nói Byrd ảnh hưởng Ellsworth."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the American government did not follow it up"
+          }
+        ],
+        "explanation": "Ellsworth tự tuyên bố chủ quyền nhưng chính phủ Mỹ không tiếp tục yêu sách đó."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The vast majority of Antarctic expeditions since 1940 have been funded by governments"
+          }
+        ],
+        "explanation": "Từ 1940, hầu hết kinh phí do chính phủ cung cấp."
+      },
+      "7": {
+        "accepted": [
+          "ships"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "three research ships were commissioned"
+          }
+        ],
+        "explanation": "Ngoài trạm trên bờ, các nhà khoa học làm việc trên tàu nghiên cứu."
+      },
+      "8": {
+        "accepted": [
+          "tax"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a tax that was placed on whaling businesses"
+          }
+        ],
+        "explanation": "Thuế thu từ doanh nghiệp săn cá voi tài trợ nghiên cứu."
+      },
+      "9": {
+        "accepted": [
+          "sun"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "when the sun was at its lowest level of activity"
+          }
+        ],
+        "explanation": "Hai Polar Years đầu theo dõi ảnh hưởng của hoạt động Mặt Trời."
+      },
+      "10": {
+        "accepted": [
+          "weather"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "its important influence on global weather"
+          }
+        ],
+        "explanation": "Nam Cực được ưu tiên vì ảnh hưởng đến thời tiết toàn cầu."
+      },
+      "11": {
+        "accepted": [
+          "tractors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Driving modified tractors"
+          }
+        ],
+        "explanation": "Đoàn Fuchs dùng máy kéo cải tiến để băng qua lục địa."
+      },
+      "12": {
+        "accepted": [
+          "ice"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the volume of ice that existed across the whole continent"
+          }
+        ],
+        "explanation": "Các phép đo cho phép ước tính tổng lượng băng."
+      },
+      "13": {
+        "accepted": [
+          "treaty"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the signing of a treaty"
+          }
+        ],
+        "explanation": "IGY dẫn đến ký hiệp ước điều chỉnh hoạt động tại Nam Cực."
+      }
+    },
+    "lessonSha256": "579f50591b5cc372d805da188f8dd66f52ada48ea21a325f3c2e1165cd6264dc"
+  },
+  "p1-traditional-maori-fish-hooks": {
+    "lessonId": "p1-traditional-maori-fish-hooks",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "incorrectly interpreted as decorative, ceremonial or superstitious objects"
+          }
+        ],
+        "explanation": "Móc câu từng bị hiểu nhầm là đồ trang trí hoặc nghi lễ."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "they found different types of wood, bone and stone"
+          }
+        ],
+        "explanation": "Vật liệu khác và cần điều chỉnh kỹ năng; bài không so sánh độ khó đánh bắt ở hai nơi."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "adapting and revising the skills they used to fabricate the hooks"
+          }
+        ],
+        "explanation": "Họ dùng các loại gỗ, xương và đá tại New Zealand để làm dụng cụ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "equal to, or superior to"
+          }
+        ],
+        "explanation": "Sợi làm dây và lưới ngang bằng hoặc tốt hơn sợi của người châu Âu."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the materials available to Maori imposed limitations on hook design"
+          }
+        ],
+        "explanation": "Đặc tính vật liệu giới hạn hình dạng móc."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "seem to have come into possession of some fishing equipment"
+          }
+        ],
+        "explanation": "Có được dụng cụ không xác nhận chúng là quà tặng."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the great productivity of Maori intensive agriculture"
+          }
+        ],
+        "explanation": "Nhận xét của Anderson xác nhận người Maori đã trồng trọt."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "rather than penetrating the side of the fish’s mouth in the manner of a European hook"
+          }
+        ],
+        "explanation": "Móc Maori mắc dưới hàm, còn móc châu Âu đâm xuyên cạnh miệng; hai cơ chế khác nhau."
+      },
+      "9": {
+        "accepted": [
+          "jewellery",
+          "jewelry"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "often retained and used for jewellery"
+          }
+        ],
+        "explanation": "Móc giá trị được giữ lại làm đồ trang sức."
+      },
+      "10": {
+        "accepted": [
+          "nails"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "traditional designs from nails"
+          }
+        ],
+        "explanation": "Đinh là một loại vật bằng kim loại khó chuyển thành kiểu móc truyền thống."
+      },
+      "11": {
+        "accepted": [
+          "collectors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "collectors who were fascinated by Pacific cultures"
+          }
+        ],
+        "explanation": "Giới sưu tầm châu Âu quan tâm tới đồ tạo tác Thái Bình Dương."
+      },
+      "12": {
+        "accepted": [
+          "fake"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "manufacturing fake hooks for sale"
+          }
+        ],
+        "explanation": "Người Maori làm móc giả để bán trong thị trường này."
+      },
+      "13": {
+        "accepted": [
+          "boats"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "commercial boats around the world"
+          }
+        ],
+        "explanation": "Tàu thương mại hiện đại dùng móc vòng gần giống matau."
+      }
+    },
+    "lessonSha256": "90079e02c1235dd6c6ba2e5ba4caa741d147aa0014f1309b29559cb28e9dfec0"
+  }
+}

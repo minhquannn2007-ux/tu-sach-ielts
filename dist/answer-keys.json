@@ -20905,6 +20905,504 @@
     },
     "lessonSha256": "bcf1df8f517029029538e69c0561e417476a61513479eb36d6f26671094e9995"
   },
+  "p1-museums-and-family-visitors-in-australia": {
+    "lessonId": "p1-museums-and-family-visitors-in-australia",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "science"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "within a range of science issues"
+          }
+        ],
+        "explanation": "Children’s Gallery khuyến khích khám phá các chủ đề khoa học."
+      },
+      "2": {
+        "accepted": [
+          "technology"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "with the help of technology"
+          }
+        ],
+        "explanation": "Kspace dùng công nghệ để trẻ thiết kế tương lai."
+      },
+      "3": {
+        "accepted": [
+          "parents"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "occupy their accompanying parents"
+          }
+        ],
+        "explanation": "Pirates còn có phần trưng bày cho cha mẹ đi cùng."
+      },
+      "4": {
+        "accepted": [
+          "Powerhouse"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The Powerhouse Museum in Sydney"
+          }
+        ],
+        "explanation": "Zoe’s House thuộc Powerhouse Museum."
+      },
+      "5": {
+        "accepted": [
+          "cooperation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "to facilitate cooperation in children through play"
+          }
+        ],
+        "explanation": "Trò chơi nhằm thúc đẩy sự hợp tác giữa trẻ."
+      },
+      "6": {
+        "accepted": [
+          "interactive"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "are most attracted to interactive displays"
+          }
+        ],
+        "explanation": "Gia đình thích nhất các khu trưng bày tương tác."
+      },
+      "7": {
+        "accepted": [
+          "favourite displays",
+          "favorite displays"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "they like to revisit favourite displays"
+          }
+        ],
+        "explanation": "Họ thích xem lại các khu trưng bày yêu thích."
+      },
+      "8": {
+        "accepted": [
+          "break"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "having a break after a little more than an hour"
+          }
+        ],
+        "explanation": "Khách ngồi nghỉ hoặc nghỉ giải lao sau hơn một giờ."
+      },
+      "9": {
+        "accepted": [
+          "two hours",
+          "2 hours"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "generally stay for two hours at most"
+          }
+        ],
+        "explanation": "Thời gian tối đa thường là hai giờ."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "museum expert through explaining clarifying and correcting"
+          }
+        ],
+        "explanation": "Người lớn có thể đóng vai chuyên gia khi giải thích cho nhóm."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "particularly the ages of any accompanying children"
+          }
+        ],
+        "explanation": "Tuổi của trẻ ảnh hưởng vai trò người lớn; bài không so sánh mức độ vui thích của nhóm cùng tuổi."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "generally considered good value for money"
+          }
+        ],
+        "explanation": "Cha mẹ thấy đáng tiền, trái với nhận định chi phí quá cao."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "enhancing school learning experiences"
+          }
+        ],
+        "explanation": "Bài nói bảo tàng hỗ trợ việc học ở trường, không nói trẻ muốn đi sau khi học một chủ đề."
+      }
+    },
+    "lessonSha256": "0d5e10922625d15bf1b0f426195c71ac051d76945ac85e8b200b645aec300ec8"
+  },
+  "p1-the-history-of-london-s-coffeehouses": {
+    "lessonId": "p1-the-history-of-london-s-coffeehouses",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "only light snacks were available, rather than meals"
+          }
+        ],
+        "explanation": "Quán chỉ có đồ ăn nhẹ, không phục vụ các bữa ăn."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "largely served as centres where patrons could meet, talk"
+          }
+        ],
+        "explanation": "Chức năng chính là nơi gặp gỡ và giao tiếp."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Various legends circulate"
+          }
+        ],
+        "explanation": "Nguồn gốc được kể qua truyền thuyết và thiếu tài liệu xác nhận ngày mở đầu."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The building, in Oxford"
+          }
+        ],
+        "explanation": "Quán đầu tiên ở Anh nằm tại Oxford, không phải London."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The first coffeehouse in London was opened in 1652"
+          }
+        ],
+        "explanation": "Bài không nói tòa nhà quán của Rosée ở London còn tồn tại; tòa nhà còn tồn tại được nhắc là ở Oxford."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "in England and France they were banned"
+          }
+        ],
+        "explanation": "Bài cho biết phụ nữ bị cấm, không cho biết phản ứng phản đối của nhiều người."
+      },
+      "7": {
+        "accepted": [
+          "Stock Exchange"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "this activity later evolved into the Stock Exchange"
+          }
+        ],
+        "explanation": "Hoạt động niêm yết giá tại Jonathan’s phát triển thành sàn giao dịch chứng khoán."
+      },
+      "8": {
+        "accepted": [
+          "merchants"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a number of merchants active in import and export"
+          }
+        ],
+        "explanation": "Khách của Jerusalem là các thương nhân xuất nhập khẩu."
+      },
+      "9": {
+        "accepted": [
+          "shipping"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "using or working in shipping"
+          }
+        ],
+        "explanation": "Khách của Lloyd’s làm việc hoặc hoạt động trong ngành vận tải biển."
+      },
+      "10": {
+        "accepted": [
+          "scientific"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "particularly on scientific subjects"
+          }
+        ],
+        "explanation": "Các buổi giảng đặc biệt tập trung vào chủ đề khoa học."
+      },
+      "11": {
+        "accepted": [
+          "apparatus"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "apparatus they had built themselves"
+          }
+        ],
+        "explanation": "Người giảng dùng thiết bị do chính họ chế tạo."
+      },
+      "12": {
+        "accepted": [
+          "planets",
+          "the planets"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "the movement of the planets around the sun"
+          }
+        ],
+        "explanation": "Mô hình thiên văn cho thấy chuyển động của các hành tinh."
+      },
+      "13": {
+        "accepted": [
+          "Penny Universities"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "Coffeehouses were often called Penny Universities"
+          }
+        ],
+        "explanation": "Đây là biệt danh vì quán cung cấp cơ hội học tập rẻ."
+      }
+    },
+    "lessonSha256": "931c64d4298a61d96ebcdec5f1d0c24e3a1a071223503935d284a55639ada105"
+  },
+  "p1-using-up-our-oceans-resources": {
+    "lessonId": "p1-using-up-our-oceans-resources",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "to dramatize the importance of preserving the environment"
+          }
+        ],
+        "explanation": "Việc định giá nhằm nhấn mạnh bảo tồn môi trường, không nhằm khuyến khích đầu tư kinh doanh."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "fisheries in ancient times caused a significant decrease in marine species"
+          }
+        ],
+        "explanation": "Hoạt động đánh bắt thời cổ đã làm suy giảm sinh vật biển."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "forced species such as salmon and sturgeon into decline"
+          }
+        ],
+        "explanation": "Bài mô tả sự suy giảm nhưng không nêu cảm nhận lo ngại của ngư dân thế kỷ 14."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "from the largest, most valuable species"
+          }
+        ],
+        "explanation": "Loài cá voi lớn và giá trị nhất cũng bị suy giảm, không được để yên."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a global shift in fish catches, from large long-lived species to mainly short-lived creatures"
+          }
+        ],
+        "explanation": "Thống kê cho thấy sản lượng chuyển từ loài sống lâu sang loài sống ngắn."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "they became accidental victims, 'by-catch', of many industrial fisheries"
+          }
+        ],
+        "explanation": "Chúng là nạn nhân bị bắt nhầm, không phải mối đe dọa đối với đàn cá."
+      },
+      "7": {
+        "accepted": [
+          "debate"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a major debate between marine ecologists, biologists and fishing industry executives"
+          }
+        ],
+        "explanation": "Nghiên cứu làm nảy sinh tranh luận giữa giới khoa học và doanh nghiệp."
+      },
+      "8": {
+        "accepted": [
+          "tankers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "major accidents with oil tankers"
+          }
+        ],
+        "explanation": "Các vụ tràn dầu do tai nạn tàu chở dầu."
+      },
+      "9": {
+        "accepted": [
+          "plastics"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "chemicals that leach out of all manner of plastics"
+          }
+        ],
+        "explanation": "Hóa chất rò rỉ từ đồ nhựa trong biển."
+      },
+      "10": {
+        "accepted": [
+          "bacteria"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "bloom of algae which bring in bacteria"
+          }
+        ],
+        "explanation": "Tảo nở hoa kéo theo vi khuẩn phân hủy tảo."
+      },
+      "11": {
+        "accepted": [
+          "acidic"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "The oceans are becoming increasingly acidic"
+          }
+        ],
+        "explanation": "Nước biển bị axit hóa làm thay đổi tốc độ tăng trưởng của động vật có vỏ hoặc bộ xương."
+      },
+      "12": {
+        "accepted": [
+          "technology"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "new technology to support conservation efforts"
+          }
+        ],
+        "explanation": "Cần công nghệ mới hỗ trợ bảo tồn."
+      },
+      "13": {
+        "accepted": [
+          "medicines"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "furnish the medicines of our future"
+          }
+        ],
+        "explanation": "Tài nguyên biển chưa khai thác có thể cung cấp thuốc trong tương lai."
+      }
+    },
+    "lessonSha256": "42a735f3e2e913a2d235a41a5a05af8f713a2441b2dee420daa0d2114dc707a1"
+  },
   "p1-under-the-skin-of-a-great-violin": {
     "lessonId": "p1-under-the-skin-of-a-great-violin",
     "reviewed": true,
@@ -21404,6 +21902,998 @@
     },
     "lessonSha256": "86af428a3773eaf134cf447bf8af2e9530f110a6543f94074948789d21f8c125",
     "assetHashes": {}
+  },
+  "p1-the-kea": {
+    "lessonId": "p1-the-kea",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "They are absent from both the North Island and Stewart Island"
+          }
+        ],
+        "explanation": "Kea không sống ở đảo Bắc."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "all types of native forest, sub-alpine scrub and grassy hills"
+          }
+        ],
+        "explanation": "Chúng kiếm ăn ở nhiều kiểu thảm thực vật."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "olive-green-coloured parrot with scarlet underwings"
+          }
+        ],
+        "explanation": "Lông thân xanh ô liu nhưng dưới cánh đỏ tươi."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a loud uncontrolled whooping"
+          }
+        ],
+        "explanation": "Tiếng kêu của con non lớn và chưa ổn định, không phải thường yên lặng."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "An individual female may nest in several successive years"
+          }
+        ],
+        "explanation": "Làm tổ nhiều năm liên tiếp không có nghĩa là quay lại cùng một tổ; bài không nêu điều đó."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "nationally endangered in 2013"
+          }
+        ],
+        "explanation": "Năm bị xếp loại nguy cấp là 2013; năm 1971 là mốc cấm săn để bảo vệ cừu."
+      },
+      "7": {
+        "accepted": [
+          "mountains"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "No other parrot worldwide makes its home in the mountains"
+          }
+        ],
+        "explanation": "Kea là loài vẹt duy nhất sống ở núi."
+      },
+      "8": {
+        "accepted": [
+          "female"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The female does all the incubation, brooding and feeding of the young"
+          }
+        ],
+        "explanation": "Con cái trực tiếp cho con non ăn."
+      },
+      "9": {
+        "accepted": [
+          "landscape"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the rocky and uneven landscape"
+          }
+        ],
+        "explanation": "Địa hình gồ ghề khiến việc đếm khó khăn."
+      },
+      "10": {
+        "accepted": [
+          "6,000",
+          "6000"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a total population of about 6,000 birds"
+          }
+        ],
+        "explanation": "Ước tính khoảng 6.000 con được cho là sát thực tế."
+      },
+      "11": {
+        "accepted": [
+          "sheep"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "attacks on their sheep"
+          }
+        ],
+        "explanation": "Người định cư không thích kea vì chúng tấn công cừu."
+      },
+      "12": {
+        "accepted": [
+          "curiosity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Keas' instinctive curiosity attracts them to humans"
+          }
+        ],
+        "explanation": "Tính tò mò tự nhiên khiến chúng tiếp xúc với con người."
+      },
+      "13": {
+        "accepted": [
+          "grubs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "turning over soil in search of grubs"
+          }
+        ],
+        "explanation": "Chúng tìm ấu trùng trong đất trồng trọt và rừng trồng."
+      }
+    },
+    "lessonSha256": "c80e31a0957c28cbe24131cad25c6710f50c8854c57e166019b5928f7de6b0c6"
+  },
+  "p1-the-development-of-exploration-and-scientific-research-in-antarctica": {
+    "lessonId": "p1-the-development-of-exploration-and-scientific-research-in-antarctica",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "travel had been limited to the use of dog-teams pulling sledges"
+          }
+        ],
+        "explanation": "Trước máy bay, người ta dùng chó kéo xe trượt."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "A further attempt in 1930 was also unsuccessful"
+          }
+        ],
+        "explanation": "Từ “also” xác nhận cả lần thử trước đó năm 1928 cũng không thành công."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "proved conclusively that the Antarctic Peninsula was attached"
+          }
+        ],
+        "explanation": "Đoàn 1934–37 bác bỏ giả thuyết bán đảo là đảo riêng."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "another American, Lincoln Ellsworth, made a successful Antarctic flight in 1935"
+          }
+        ],
+        "explanation": "Chỉ có trình tự sự kiện, không nói Byrd ảnh hưởng Ellsworth."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the American government did not follow it up"
+          }
+        ],
+        "explanation": "Ellsworth tự tuyên bố chủ quyền nhưng chính phủ Mỹ không tiếp tục yêu sách đó."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The vast majority of Antarctic expeditions since 1940 have been funded by governments"
+          }
+        ],
+        "explanation": "Từ 1940, hầu hết kinh phí do chính phủ cung cấp."
+      },
+      "7": {
+        "accepted": [
+          "ships"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "three research ships were commissioned"
+          }
+        ],
+        "explanation": "Ngoài trạm trên bờ, các nhà khoa học làm việc trên tàu nghiên cứu."
+      },
+      "8": {
+        "accepted": [
+          "tax"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a tax that was placed on whaling businesses"
+          }
+        ],
+        "explanation": "Thuế thu từ doanh nghiệp săn cá voi tài trợ nghiên cứu."
+      },
+      "9": {
+        "accepted": [
+          "sun"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "when the sun was at its lowest level of activity"
+          }
+        ],
+        "explanation": "Hai Polar Years đầu theo dõi ảnh hưởng của hoạt động Mặt Trời."
+      },
+      "10": {
+        "accepted": [
+          "weather"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "its important influence on global weather"
+          }
+        ],
+        "explanation": "Nam Cực được ưu tiên vì ảnh hưởng đến thời tiết toàn cầu."
+      },
+      "11": {
+        "accepted": [
+          "tractors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Driving modified tractors"
+          }
+        ],
+        "explanation": "Đoàn Fuchs dùng máy kéo cải tiến để băng qua lục địa."
+      },
+      "12": {
+        "accepted": [
+          "ice"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the volume of ice that existed across the whole continent"
+          }
+        ],
+        "explanation": "Các phép đo cho phép ước tính tổng lượng băng."
+      },
+      "13": {
+        "accepted": [
+          "treaty"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the signing of a treaty"
+          }
+        ],
+        "explanation": "IGY dẫn đến ký hiệp ước điều chỉnh hoạt động tại Nam Cực."
+      }
+    },
+    "lessonSha256": "579f50591b5cc372d805da188f8dd66f52ada48ea21a325f3c2e1165cd6264dc"
+  },
+  "p1-traditional-maori-fish-hooks": {
+    "lessonId": "p1-traditional-maori-fish-hooks",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "incorrectly interpreted as decorative, ceremonial or superstitious objects"
+          }
+        ],
+        "explanation": "Móc câu từng bị hiểu nhầm là đồ trang trí hoặc nghi lễ."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "they found different types of wood, bone and stone"
+          }
+        ],
+        "explanation": "Vật liệu khác và cần điều chỉnh kỹ năng; bài không so sánh độ khó đánh bắt ở hai nơi."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "adapting and revising the skills they used to fabricate the hooks"
+          }
+        ],
+        "explanation": "Họ dùng các loại gỗ, xương và đá tại New Zealand để làm dụng cụ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "equal to, or superior to"
+          }
+        ],
+        "explanation": "Sợi làm dây và lưới ngang bằng hoặc tốt hơn sợi của người châu Âu."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the materials available to Maori imposed limitations on hook design"
+          }
+        ],
+        "explanation": "Đặc tính vật liệu giới hạn hình dạng móc."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "seem to have come into possession of some fishing equipment"
+          }
+        ],
+        "explanation": "Có được dụng cụ không xác nhận chúng là quà tặng."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the great productivity of Maori intensive agriculture"
+          }
+        ],
+        "explanation": "Nhận xét của Anderson xác nhận người Maori đã trồng trọt."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "rather than penetrating the side of the fish’s mouth in the manner of a European hook"
+          }
+        ],
+        "explanation": "Móc Maori mắc dưới hàm, còn móc châu Âu đâm xuyên cạnh miệng; hai cơ chế khác nhau."
+      },
+      "9": {
+        "accepted": [
+          "jewellery",
+          "jewelry"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "often retained and used for jewellery"
+          }
+        ],
+        "explanation": "Móc giá trị được giữ lại làm đồ trang sức."
+      },
+      "10": {
+        "accepted": [
+          "nails"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "traditional designs from nails"
+          }
+        ],
+        "explanation": "Đinh là một loại vật bằng kim loại khó chuyển thành kiểu móc truyền thống."
+      },
+      "11": {
+        "accepted": [
+          "collectors"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "collectors who were fascinated by Pacific cultures"
+          }
+        ],
+        "explanation": "Giới sưu tầm châu Âu quan tâm tới đồ tạo tác Thái Bình Dương."
+      },
+      "12": {
+        "accepted": [
+          "fake"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "manufacturing fake hooks for sale"
+          }
+        ],
+        "explanation": "Người Maori làm móc giả để bán trong thị trường này."
+      },
+      "13": {
+        "accepted": [
+          "boats"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "commercial boats around the world"
+          }
+        ],
+        "explanation": "Tàu thương mại hiện đại dùng móc vòng gần giống matau."
+      }
+    },
+    "lessonSha256": "90079e02c1235dd6c6ba2e5ba4caa741d147aa0014f1309b29559cb28e9dfec0"
+  },
+  "p1-windmills": {
+    "lessonId": "p1-windmills",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "flour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "grind grain into flour"
+          }
+        ],
+        "explanation": "Cối xay ở Ba Tư nghiền ngũ cốc thành bột."
+      },
+      "2": {
+        "accepted": [
+          "rotation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "to permit their rotation"
+          }
+        ],
+        "explanation": "Sửa thiết kế cho phép cối xay xoay theo hướng gió."
+      },
+      "3": {
+        "accepted": [
+          "economy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "critical to the economy of the region"
+          }
+        ],
+        "explanation": "Các công việc này quan trọng với nền kinh tế khu vực."
+      },
+      "4": {
+        "accepted": [
+          "remote"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "buildings located in remote areas"
+          }
+        ],
+        "explanation": "Máy phát cung cấp điện cho nơi xa xôi."
+      },
+      "5": {
+        "accepted": [
+          "fuel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "It doesn't use fuel"
+          }
+        ],
+        "explanation": "Năng lượng gió không cần nhiên liệu."
+      },
+      "6": {
+        "accepted": [
+          "height"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Wind speed increases with height"
+          }
+        ],
+        "explanation": "Gió nhanh hơn ở trên cao, nên độ cao của tua-bin ảnh hưởng khả năng khai thác gió."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "That cost is somewhat higher than the costs associated with other sources"
+          }
+        ],
+        "explanation": "Chi phí hiện cao hơn các nguồn khác, dù đang giảm."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "it does not always blow when electricity is needed"
+          }
+        ],
+        "explanation": "Gió không luôn có khi cần điện; cung và cầu có thể lệch nhau."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "export electricity when wind power generation exceeds demand"
+          }
+        ],
+        "explanation": "Có xuất khẩu nhưng không xếp hạng lượng xuất khẩu giữa các nước."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "remote locations, far from cities where the electricity is needed"
+          }
+        ],
+        "explanation": "Khoảng cách xa trung tâm tiêu thụ gây khó khăn."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Birds have also been killed by flying into the rotors"
+          }
+        ],
+        "explanation": "Không so sánh số chim chết với các nguy cơ môi trường khác."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "still generating very little of the total electricity output from wind"
+          }
+        ],
+        "explanation": "Gió chỉ chiếm một phần rất nhỏ tổng điện năng, không phải phần lớn."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the United States has led all other countries"
+          }
+        ],
+        "explanation": "Mỹ dẫn đầu, không phải các nước châu Âu."
+      }
+    },
+    "lessonSha256": "d8a24f4e9ccb641dcee6ea4549370a2b72ae6948e38d9a9b26d2658c8373c314"
+  },
+  "p1-building-a-new-future": {
+    "lessonId": "p1-building-a-new-future",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "for generations their families had been involved in dairy farming"
+          }
+        ],
+        "explanation": "Nhiều người đến từ các gia đình nuôi bò sữa qua nhiều thế hệ."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "new dairy farms were created as a result"
+          }
+        ],
+        "explanation": "Những năm 1860 có thêm trang trại bò sữa."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "it would last for up to two months"
+          }
+        ],
+        "explanation": "Bơ bảo quản được đến hai tháng, không nhất thiết ăn trong vài ngày."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Chew Chong opened several stores around Taranaki"
+          }
+        ],
+        "explanation": "Bài không cho biết các cửa hàng có nhanh chóng sinh lời hay không."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "inconsistent quality control and irregular supply"
+          }
+        ],
+        "explanation": "Chất lượng không đồng đều và nguồn cung thất thường."
+      },
+      "6": {
+        "accepted": [
+          "award"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "won a prestigious award for its production methods"
+          }
+        ],
+        "explanation": "Nhà máy được trao giải vì phương pháp sản xuất."
+      },
+      "7": {
+        "accepted": [
+          "paper"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "to wrap them in paper"
+          }
+        ],
+        "explanation": "Bơ được gói trong giấy."
+      },
+      "8": {
+        "accepted": [
+          "profits"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a larger proportion of the profits"
+          }
+        ],
+        "explanation": "Hợp tác xã giúp nông dân nhận phần lợi nhuận lớn hơn."
+      },
+      "9": {
+        "accepted": [
+          "roads"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the roads in the area were very rough and badly maintained"
+          }
+        ],
+        "explanation": "Đường xấu khiến cần nhiều nhà máy gần các cộng đồng."
+      },
+      "10": {
+        "accepted": [
+          "concrete"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "these factories were constructed in concrete"
+          }
+        ],
+        "explanation": "Bê tông tạo kết cấu chắc chắn và thiết thực."
+      },
+      "11": {
+        "accepted": [
+          "museum"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the building houses an acclaimed museum"
+          }
+        ],
+        "explanation": "Nhà máy Tawhiti nay là bảo tàng."
+      },
+      "12": {
+        "accepted": [
+          "tennis"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "strings for tennis racquets"
+          }
+        ],
+        "explanation": "Kaupokonui sản xuất dây cho vợt tennis."
+      },
+      "13": {
+        "accepted": [
+          "cheese"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "again started to manufacture cheese"
+          }
+        ],
+        "explanation": "Okato trở lại sản xuất phô mai."
+      }
+    },
+    "lessonSha256": "9d5d3699b0d7f1975f97c73ab2f3e2534b934407c3627079a0c29da62093fe57"
+  },
+  "p1-gobekli-tepe-a-remarkable-discovery": {
+    "lessonId": "p1-gobekli-tepe-a-remarkable-discovery",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "lacked even basic technology such as metal tools"
+          }
+        ],
+        "explanation": "Người xây chưa có công cụ kim loại, do đó không dùng công cụ sắt."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the pillars were arranged in rings"
+          }
+        ],
+        "explanation": "Bài mô tả vòng đá nhưng không liên hệ các vòng với mùa trong năm."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "had been carved in relief on the stones"
+          }
+        ],
+        "explanation": "Không nói người khắc được đào tạo chuyên biệt."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "while at Gobekli Tepe, the images are of individual fierce-looking beasts"
+          }
+        ],
+        "explanation": "Nơi khác vẽ thú theo đàn, ở đây là thú đơn lẻ; hai kiểu khác nhau."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the site was essentially ignored"
+          }
+        ],
+        "explanation": "Di tích bị xem nhẹ cho đến khi Schmidt khảo sát năm 1994."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "only man could have created"
+          }
+        ],
+        "explanation": "Schmidt cho rằng hình dáng ngọn đồi do người tạo ra, không phải tự nhiên."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "archaeologists began studying the site more carefully"
+          }
+        ],
+        "explanation": "Không có thông tin về xin phép trước khi nghiên cứu."
+      },
+      "8": {
+        "accepted": [
+          "cemetery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "built as an ancient cemetery"
+          }
+        ],
+        "explanation": "Hình kền kền gợi ý nơi đây có thể là nghĩa địa."
+      },
+      "9": {
+        "accepted": [
+          "writing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the lack of any writing on them"
+          }
+        ],
+        "explanation": "Không có chữ viết nên rất khó diễn giải mục đích xây dựng."
+      },
+      "10": {
+        "accepted": [
+          "bones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "100,000 fragments of the bones of wild game animals"
+          }
+        ],
+        "explanation": "Nhiều mảnh xương thú được tìm thấy."
+      },
+      "11": {
+        "accepted": [
+          "nuts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "full of fruit and nuts"
+          }
+        ],
+        "explanation": "Khu vực từng dồi dào quả và các loại hạt."
+      },
+      "12": {
+        "accepted": [
+          "wheat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the original strains of the modern wheat"
+          }
+        ],
+        "explanation": "Dạng lúa mì cổ được truy nguyên về một làng gần di tích."
+      },
+      "13": {
+        "accepted": [
+          "pigs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the first pigs raised in domestic conditions"
+          }
+        ],
+        "explanation": "Có dấu hiệu nuôi lợn thuần hóa ở một làng gần đó."
+      }
+    },
+    "lessonSha256": "14f3bdd7f7e5458515bc012122d1a8eb1da52ce1451af9478fb2c096fc7c45cf"
   },
   "p1-a-brief-history-of-canned-food": {
     "lessonId": "p1-a-brief-history-of-canned-food",

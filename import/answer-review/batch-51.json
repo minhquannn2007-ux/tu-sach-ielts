@@ -1,0 +1,497 @@
+{
+  "p1-windmills": {
+    "lessonId": "p1-windmills",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "flour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "grind grain into flour"
+          }
+        ],
+        "explanation": "Cối xay ở Ba Tư nghiền ngũ cốc thành bột."
+      },
+      "2": {
+        "accepted": [
+          "rotation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "to permit their rotation"
+          }
+        ],
+        "explanation": "Sửa thiết kế cho phép cối xay xoay theo hướng gió."
+      },
+      "3": {
+        "accepted": [
+          "economy"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "critical to the economy of the region"
+          }
+        ],
+        "explanation": "Các công việc này quan trọng với nền kinh tế khu vực."
+      },
+      "4": {
+        "accepted": [
+          "remote"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "buildings located in remote areas"
+          }
+        ],
+        "explanation": "Máy phát cung cấp điện cho nơi xa xôi."
+      },
+      "5": {
+        "accepted": [
+          "fuel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "It doesn't use fuel"
+          }
+        ],
+        "explanation": "Năng lượng gió không cần nhiên liệu."
+      },
+      "6": {
+        "accepted": [
+          "height"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Wind speed increases with height"
+          }
+        ],
+        "explanation": "Gió nhanh hơn ở trên cao, nên độ cao của tua-bin ảnh hưởng khả năng khai thác gió."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "That cost is somewhat higher than the costs associated with other sources"
+          }
+        ],
+        "explanation": "Chi phí hiện cao hơn các nguồn khác, dù đang giảm."
+      },
+      "8": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "it does not always blow when electricity is needed"
+          }
+        ],
+        "explanation": "Gió không luôn có khi cần điện; cung và cầu có thể lệch nhau."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "export electricity when wind power generation exceeds demand"
+          }
+        ],
+        "explanation": "Có xuất khẩu nhưng không xếp hạng lượng xuất khẩu giữa các nước."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "remote locations, far from cities where the electricity is needed"
+          }
+        ],
+        "explanation": "Khoảng cách xa trung tâm tiêu thụ gây khó khăn."
+      },
+      "11": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Birds have also been killed by flying into the rotors"
+          }
+        ],
+        "explanation": "Không so sánh số chim chết với các nguy cơ môi trường khác."
+      },
+      "12": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "still generating very little of the total electricity output from wind"
+          }
+        ],
+        "explanation": "Gió chỉ chiếm một phần rất nhỏ tổng điện năng, không phải phần lớn."
+      },
+      "13": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the United States has led all other countries"
+          }
+        ],
+        "explanation": "Mỹ dẫn đầu, không phải các nước châu Âu."
+      }
+    },
+    "lessonSha256": "d8a24f4e9ccb641dcee6ea4549370a2b72ae6948e38d9a9b26d2658c8373c314"
+  },
+  "p1-building-a-new-future": {
+    "lessonId": "p1-building-a-new-future",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "for generations their families had been involved in dairy farming"
+          }
+        ],
+        "explanation": "Nhiều người đến từ các gia đình nuôi bò sữa qua nhiều thế hệ."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "new dairy farms were created as a result"
+          }
+        ],
+        "explanation": "Những năm 1860 có thêm trang trại bò sữa."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "it would last for up to two months"
+          }
+        ],
+        "explanation": "Bơ bảo quản được đến hai tháng, không nhất thiết ăn trong vài ngày."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Chew Chong opened several stores around Taranaki"
+          }
+        ],
+        "explanation": "Bài không cho biết các cửa hàng có nhanh chóng sinh lời hay không."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "inconsistent quality control and irregular supply"
+          }
+        ],
+        "explanation": "Chất lượng không đồng đều và nguồn cung thất thường."
+      },
+      "6": {
+        "accepted": [
+          "award"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "won a prestigious award for its production methods"
+          }
+        ],
+        "explanation": "Nhà máy được trao giải vì phương pháp sản xuất."
+      },
+      "7": {
+        "accepted": [
+          "paper"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "to wrap them in paper"
+          }
+        ],
+        "explanation": "Bơ được gói trong giấy."
+      },
+      "8": {
+        "accepted": [
+          "profits"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a larger proportion of the profits"
+          }
+        ],
+        "explanation": "Hợp tác xã giúp nông dân nhận phần lợi nhuận lớn hơn."
+      },
+      "9": {
+        "accepted": [
+          "roads"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the roads in the area were very rough and badly maintained"
+          }
+        ],
+        "explanation": "Đường xấu khiến cần nhiều nhà máy gần các cộng đồng."
+      },
+      "10": {
+        "accepted": [
+          "concrete"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "these factories were constructed in concrete"
+          }
+        ],
+        "explanation": "Bê tông tạo kết cấu chắc chắn và thiết thực."
+      },
+      "11": {
+        "accepted": [
+          "museum"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the building houses an acclaimed museum"
+          }
+        ],
+        "explanation": "Nhà máy Tawhiti nay là bảo tàng."
+      },
+      "12": {
+        "accepted": [
+          "tennis"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "strings for tennis racquets"
+          }
+        ],
+        "explanation": "Kaupokonui sản xuất dây cho vợt tennis."
+      },
+      "13": {
+        "accepted": [
+          "cheese"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "again started to manufacture cheese"
+          }
+        ],
+        "explanation": "Okato trở lại sản xuất phô mai."
+      }
+    },
+    "lessonSha256": "9d5d3699b0d7f1975f97c73ab2f3e2534b934407c3627079a0c29da62093fe57"
+  },
+  "p1-gobekli-tepe-a-remarkable-discovery": {
+    "lessonId": "p1-gobekli-tepe-a-remarkable-discovery",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "lacked even basic technology such as metal tools"
+          }
+        ],
+        "explanation": "Người xây chưa có công cụ kim loại, do đó không dùng công cụ sắt."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the pillars were arranged in rings"
+          }
+        ],
+        "explanation": "Bài mô tả vòng đá nhưng không liên hệ các vòng với mùa trong năm."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "had been carved in relief on the stones"
+          }
+        ],
+        "explanation": "Không nói người khắc được đào tạo chuyên biệt."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "while at Gobekli Tepe, the images are of individual fierce-looking beasts"
+          }
+        ],
+        "explanation": "Nơi khác vẽ thú theo đàn, ở đây là thú đơn lẻ; hai kiểu khác nhau."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the site was essentially ignored"
+          }
+        ],
+        "explanation": "Di tích bị xem nhẹ cho đến khi Schmidt khảo sát năm 1994."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "only man could have created"
+          }
+        ],
+        "explanation": "Schmidt cho rằng hình dáng ngọn đồi do người tạo ra, không phải tự nhiên."
+      },
+      "7": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "archaeologists began studying the site more carefully"
+          }
+        ],
+        "explanation": "Không có thông tin về xin phép trước khi nghiên cứu."
+      },
+      "8": {
+        "accepted": [
+          "cemetery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "built as an ancient cemetery"
+          }
+        ],
+        "explanation": "Hình kền kền gợi ý nơi đây có thể là nghĩa địa."
+      },
+      "9": {
+        "accepted": [
+          "writing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the lack of any writing on them"
+          }
+        ],
+        "explanation": "Không có chữ viết nên rất khó diễn giải mục đích xây dựng."
+      },
+      "10": {
+        "accepted": [
+          "bones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "100,000 fragments of the bones of wild game animals"
+          }
+        ],
+        "explanation": "Nhiều mảnh xương thú được tìm thấy."
+      },
+      "11": {
+        "accepted": [
+          "nuts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "full of fruit and nuts"
+          }
+        ],
+        "explanation": "Khu vực từng dồi dào quả và các loại hạt."
+      },
+      "12": {
+        "accepted": [
+          "wheat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the original strains of the modern wheat"
+          }
+        ],
+        "explanation": "Dạng lúa mì cổ được truy nguyên về một làng gần di tích."
+      },
+      "13": {
+        "accepted": [
+          "pigs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the first pigs raised in domestic conditions"
+          }
+        ],
+        "explanation": "Có dấu hiệu nuôi lợn thuần hóa ở một làng gần đó."
+      }
+    },
+    "lessonSha256": "14f3bdd7f7e5458515bc012122d1a8eb1da52ce1451af9478fb2c096fc7c45cf"
+  }
+}
