@@ -9,6 +9,7 @@
   if(![1,2,3].includes(d.part))errors.push('Invalid passage');
   if(d.mode&& !['practice','graded'].includes(d.mode))errors.push('Invalid lesson mode');
   if(!d.title?.trim()||!d.paragraphs?.length)errors.push('Missing passage');
+  if(d.passageTitle!==undefined&&d.passageTitle!==null&&(typeof d.passageTitle!=='string'||!d.passageTitle.trim()))errors.push('Invalid printed passage title');
   if(d.footnotes!==undefined&&(!Array.isArray(d.footnotes)||d.footnotes.some(f=>typeof f!=='string'||!f.trim()||/\s+[*†‡]+\s*[A-Za-z]/.test(f))))errors.push('Each footnote must be a separate entry');
   if(d.subtitle!==undefined&&(typeof d.subtitle!=='string'||/[\r\n]/.test(d.subtitle)))errors.push('Subtitle must be a single paragraph without source line breaks');
   if(!Array.isArray(d.paragraphs)||d.paragraphs.some(p=>!p||typeof p.text!=='string'||!p.text.trim()))return [...errors,'Missing or empty passage paragraph'];

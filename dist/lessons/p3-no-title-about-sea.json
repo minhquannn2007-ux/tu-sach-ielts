@@ -262,7 +262,13 @@
       "source column order and paragraph boundaries",
       "source-faithful notes and footnotes",
       "original task wording and word limits"
-    ]
+    ],
+    "printedTitleChecked": true,
+    "printedTitleSource": {
+      "sha256": "53a2dce490b3d2a7348f9d624bd2168d5e8e4901e39224319a46198d3b8e1827",
+      "page": 1,
+      "finding": "No printed passage title between source instructions and reading text; image visually checked."
+    }
   },
   "footnotes": [
     "* Hannibal: a famous military commander in the 2nd century BC"
@@ -274,5 +280,6 @@
     "credit": "Dmitry Domrin",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
-  }
+  },
+  "passageTitle": null
 }

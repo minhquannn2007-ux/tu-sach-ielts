@@ -165,7 +165,13 @@
       "source column order and paragraph boundaries",
       "source-faithful notes and footnotes",
       "original task wording and word limits"
-    ]
+    ],
+    "printedTitleChecked": true,
+    "printedTitleSource": {
+      "sha256": "dd58a21aa931520cf91fd922ae3da5bc6e2e6054d5e38f6c60a5fa51e39cfa2f",
+      "page": 1,
+      "finding": "No printed passage title between source instructions and reading text; image visually checked."
+    }
   },
   "cover": {
     "asset": "assets/p2-the-2003-heat-wave-cover.jpg",
@@ -174,5 +180,6 @@
     "credit": "Florian Pépellin",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
-  }
+  },
+  "passageTitle": null
 }

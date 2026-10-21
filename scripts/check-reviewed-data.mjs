@@ -6,7 +6,17 @@ import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..'),ctx={};
 vm.runInNewContext(fs.readFileSync(path.join(root,'dist/exam-data.js'),'utf8'),ctx);
 const lessons=fs.readdirSync(path.join(root,'dist/lessons')).filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync(path.join(root,'dist/lessons',f),'utf8')));
+const titleAudit=JSON.parse(fs.readFileSync(path.join(root,'import/passage-title-audit/2026-10-21.json'),'utf8'));
+const previousTitles=new Map(titleAudit.lessons.map(r=>[r.id,r]));
 for(const lesson of lessons){
+ const previous=previousTitles.get(lesson.id);
+ if(!previous||previous.title!==lesson.title||Object.hasOwn(lesson,'passageTitle')){
+  assert(Object.hasOwn(lesson,'passageTitle'),'Declare the printed source title or null: '+lesson.id);
+  assert.equal(lesson.review?.printedTitleChecked,true,'Printed title needs source review: '+lesson.id);
+  const proof=lesson.review?.printedTitleSource;
+  assert(proof&&/^[a-f0-9]{64}$/.test(proof.sha256)&&Number.isInteger(proof.page)&&proof.page>0&&proof.finding?.trim(),'Missing printed-title source evidence: '+lesson.id);
+ }
+ if(previous?.status==='confirmed-absent')assert.equal(lesson.passageTitle,null,'Source has no passage title: '+lesson.id);
  assert.equal(ctx.IELTSData.validate(lesson).join('; '),'');
  const empty=structuredClone(lesson);empty.paragraphs[0].text='';assert(ctx.IELTSData.validate(empty).includes('Missing or empty passage paragraph'));
  const pending=structuredClone(lesson);pending.status='queued';assert(ctx.IELTSData.validate(pending).includes('Lesson is awaiting review'));

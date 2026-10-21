@@ -271,5 +271,14 @@
     "source": "https://unsplash.com/photos/IkEpl3JkVqU",
     "license": "Unsplash License",
     "licenseUrl": "https://unsplash.com/license"
+  },
+  "passageTitle": null,
+  "review": {
+    "printedTitleChecked": true,
+    "printedTitleSource": {
+      "sha256": "ac1985672e3a7cd0df55a4b6912305e700b2b501d7080953df6e98839fd147e2",
+      "page": 1,
+      "finding": "No printed passage title between source instructions and reading text; image visually checked."
+    }
   }
 }

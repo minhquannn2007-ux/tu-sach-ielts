@@ -74,7 +74,12 @@ function explain(n){return window.IELTSExam.explain(n)}
   });return sections;
  }
  function renderPassage(mark){
-  const passage=document.getElementById('passage');passage.replaceChildren(element('div','passage-title',lesson.title));passage.classList.toggle('has-matching-headings',lesson.groups.some(g=>g.type==='matching-headings'));
+  const passage=document.getElementById('passage');passage.replaceChildren();
+  // A catalog/search label is not necessarily a heading printed in the source.
+  const printedTitle=Object.prototype.hasOwnProperty.call(lesson,'passageTitle')
+   ?lesson.passageTitle:(lesson.conversion?.sourceTitleAbsent?null:lesson.title);
+  if(printedTitle)passage.append(element('div','passage-title',printedTitle));
+  passage.classList.toggle('has-matching-headings',lesson.groups.some(g=>g.type==='matching-headings'));
   if(lesson.subtitle)passage.append(element('div','passage-sub',lesson.subtitle.replace(/\s+/g,' ').trim()));
   lesson.paragraphs.forEach((p,i)=>{
    const blocks=p.blocks?.length>1?p.blocks:[p.text],section=blocks.length>1?element('div','passage-section'):null;
