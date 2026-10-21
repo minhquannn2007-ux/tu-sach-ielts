@@ -1,0 +1,332 @@
+{
+  "p1-the-early-days-of-oil-production": {
+    "lessonId": "p1-the-early-days-of-oil-production",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "demands of the rapidly growing cities"
+          }
+        ],
+        "explanation": "Các đô thị phát triển khiến dầu cá voi không đủ đáp ứng."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a plant in New York producing 5,000 gallons a day"
+          }
+        ],
+        "explanation": "Gesner trực tiếp có nhà máy sản xuất kerosene."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "pharmacists, who prescribed it for headaches, worms, rheumatism"
+          }
+        ],
+        "explanation": "Bài nêu các chỉ định nhưng không đánh giá liệu chúng có được chứng minh."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "backed his opinion by putting money into the new Pennsylvania Rock Oil Company"
+          }
+        ],
+        "explanation": "Silliman đầu tư tiền vào công ty."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "after more than a year he had found nothing"
+          }
+        ],
+        "explanation": "Drake tìm hơn một năm chưa thấy dầu, còn bị yêu cầu dừng."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "barrels were more costly than the oil itself"
+          }
+        ],
+        "explanation": "Thùng chứa đắt hơn dầu trong cơn sốt dầu năm 1859."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "drivers tried sabotage and gunfire"
+          }
+        ],
+        "explanation": "Các lái xe chống lại đường ống bằng phá hoại và súng."
+      },
+      "8": {
+        "accepted": [
+          "Standard Oil"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "he founded Standard Oil"
+          }
+        ],
+        "explanation": "Rockefeller thành lập Standard Oil."
+      },
+      "9": {
+        "accepted": [
+          "oil wagons"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "all the oil wagons of the Pennsylvania Railroad"
+          }
+        ],
+        "explanation": "Công ty sở hữu cả xe chở dầu thuộc tuyến đường sắt."
+      },
+      "10": {
+        "accepted": [
+          "medical research"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "gave more than $500 million to medical research"
+          }
+        ],
+        "explanation": "Ông quyên góp cho nghiên cứu y học."
+      },
+      "11": {
+        "accepted": [
+          "sugar"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "permit the transport of sugar on the return voyage"
+          }
+        ],
+        "explanation": "Tàu có thể chở đường ở chiều về."
+      },
+      "12": {
+        "accepted": [
+          "Welsh tin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "tonnes of Welsh tin to be sent to the East and made into bright red cans"
+          }
+        ],
+        "explanation": "Vỏ hộp màu đỏ làm từ thiếc xứ Wales."
+      },
+      "13": {
+        "accepted": [
+          "seashells"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "names of seashells"
+          }
+        ],
+        "explanation": "Tàu được đặt theo tên các loại vỏ sò."
+      }
+    },
+    "lessonSha256": "77216c3974dc5d80e0097ca295f5bc790896ea94c59130d0e37c43d090ccd0f7"
+  },
+  "p1-the-olmec-and-their-great-stone-heads": {
+    "lessonId": "p1-the-olmec-and-their-great-stone-heads",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "majority of the Olmec population laboured in the fields producing crops"
+          }
+        ],
+        "explanation": "Phần lớn người Olmec làm nông."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "great traders who maintained contacts with other societies"
+          }
+        ],
+        "explanation": "Có mạng lưới giao thương nhưng không nêu phương tiện vận tải đường sông cho giao thương."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "spread their culture to different contemporary civilisations and to several later related civilisations such as the Aztecs"
+          }
+        ],
+        "explanation": "Văn hóa Olmec được truyền sang người Aztec."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Soon after this, other Olmec population centres disappeared"
+          }
+        ],
+        "explanation": "La Venta suy tàn trước những trung tâm khác."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "dependent on a few basic crops"
+          }
+        ],
+        "explanation": "Họ phụ thuộc vào một số ít cây lương thực cơ bản."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Human actions, such as warfare, over-farming or deforestation may also have played a role"
+          }
+        ],
+        "explanation": "Chiến tranh chỉ là giả thuyết, không nêu nhiều trận đánh với láng giềng."
+      },
+      "7": {
+        "accepted": [
+          "excavation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "first excavation of a head by Europeans in 1871"
+          }
+        ],
+        "explanation": "Việc khai quật các đầu đá bắt đầu năm 1871 và chiếc cuối phát hiện năm 1994."
+      },
+      "8": {
+        "accepted": [
+          "mountains"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "came from mountains located as far as 100 kilometres away"
+          }
+        ],
+        "explanation": "Đá basalt được đưa từ núi xa."
+      },
+      "9": {
+        "accepted": [
+          "rafts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "rafts on rivers"
+          }
+        ],
+        "explanation": "Bè được dùng trên sông để chuyển đá."
+      },
+      "10": {
+        "accepted": [
+          "metal"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The Olmec did not have metal tools"
+          }
+        ],
+        "explanation": "Người Olmec không có công cụ kim loại."
+      },
+      "11": {
+        "accepted": [
+          "size"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "their sheer size suggested they represent gods"
+          }
+        ],
+        "explanation": "Kích cỡ lớn khiến một số người cho là tượng thần."
+      },
+      "12": {
+        "accepted": [
+          "game"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "players in an ancient game the Olmec played with rubber balls"
+          }
+        ],
+        "explanation": "Mũ giống đồ đội đầu của người chơi một trò chơi cổ."
+      },
+      "13": {
+        "accepted": [
+          "rulers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "heads actually represent Olmec rulers"
+          }
+        ],
+        "explanation": "Giả thuyết hiện được ủng hộ là các thủ lĩnh Olmec."
+      }
+    },
+    "lessonSha256": "13529f45bcb6e10457b3176c33ac6af5c95f24ae1a2e3933d3a982cb645d4204"
+  }
+}

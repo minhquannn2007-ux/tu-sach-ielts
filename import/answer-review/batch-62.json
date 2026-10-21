@@ -1,0 +1,503 @@
+{
+  "p1-the-history-of-cakes-at-weddings": {
+    "lessonId": "p1-the-history-of-cakes-at-weddings",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "wedding ceremonies were finalized by breaking a cake"
+          }
+        ],
+        "explanation": "Nghi thức bẻ bánh kết thúc lễ cưới La Mã."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "confetti in the form of sweets and nuts was replaced"
+          }
+        ],
+        "explanation": "Các thành phần ấy đã được thay bằng gạo, hoa hoặc giấy."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Wedding guests were also supplied with sweetmeats called confetti"
+          }
+        ],
+        "explanation": "Không nêu gia đình chú rể cung cấp confetti."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "it augured a lifetime of riches"
+          }
+        ],
+        "explanation": "Hôn nhau qua chồng bánh báo hiệu cuộc sống sung túc."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Each guest had to eat a small piece"
+          }
+        ],
+        "explanation": "Khách đều phải ăn Bride Pie."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Bride Cake, the predecessor of the modern British wedding cake"
+          }
+        ],
+        "explanation": "Bride Cake là tiền thân của bánh cưới hiện đại."
+      },
+      "7": {
+        "accepted": [
+          "pastry"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "two large rounds of pastry sandwiched together"
+          }
+        ],
+        "explanation": "Bản rẻ hơn làm từ hai lớp pastry."
+      },
+      "8": {
+        "accepted": [
+          "ovens"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Very few homes at the time could boast of having ovens"
+          }
+        ],
+        "explanation": "Ít nhà có lò nướng nên dùng đá bên lò sưởi."
+      },
+      "9": {
+        "accepted": [
+          "hobby"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "depict the groom’s hobby"
+          }
+        ],
+        "explanation": "Bánh chú rể hiện nay có thể thể hiện sở thích."
+      },
+      "10": {
+        "accepted": [
+          "tiers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "first multi-tiered wedding cakes"
+          }
+        ],
+        "explanation": "Bánh cưới nhiều tầng xuất hiện cuối thế kỷ 19."
+      },
+      "11": {
+        "accepted": [
+          "columns"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "separated and supported by columns"
+          }
+        ],
+        "explanation": "Các tầng được ngăn và chống đỡ bằng cột."
+      },
+      "12": {
+        "accepted": [
+          "design"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "depending on the dimension and design"
+          }
+        ],
+        "explanation": "Giá tùy kích thước và thiết kế."
+      },
+      "13": {
+        "accepted": [
+          "icing"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the icing between each cake had had time to harden"
+          }
+        ],
+        "explanation": "Lớp icing cứng ngăn tầng trên lún xuống."
+      }
+    },
+    "assetHashes": {
+      "assets/diagram-p1-the-history-of-cakes-at-wedding-source-v2.png": "e44626928df0deed4b6d4217d0e0e442e2fdabf7dc49660bf96a90e85d61330e"
+    },
+    "lessonSha256": "4e7dc04930f41f5737dcdf708749a6f9fc2780a2f822100072a7c932cc73adb2"
+  },
+  "p1-the-tyne-bridge": {
+    "lessonId": "p1-the-tyne-bridge",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Two altars, dedicated to the water gods"
+          }
+        ],
+        "explanation": "Hai bàn thờ thần nước chứng tỏ ý nghĩa tôn giáo."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "connect with the existing main road from London to Scotland"
+          }
+        ],
+        "explanation": "Cầu nối vào đường chính đã tồn tại."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "to a design by the engineering firm of Mott, Hay and Anderson"
+          }
+        ],
+        "explanation": "Không nói hãng giành chiến thắng một cuộc thi."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "first use of such a construction technique in the UK"
+          }
+        ],
+        "explanation": "Đây được cho là lần đầu dùng kỹ thuật dựng vòm này tại Anh."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "mostly destroyed by floods in 1771"
+          }
+        ],
+        "explanation": "Cầu trung cổ bị lũ phá hủy phần lớn năm 1771."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "replaced with restaurants, bars and world-renowned cultural centres"
+          }
+        ],
+        "explanation": "Không so sánh lợi nhuận của doanh nghiệp mới và ngành cũ."
+      },
+      "7": {
+        "accepted": [
+          "Sydney"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Harbour Bridge in Sydney"
+          }
+        ],
+        "explanation": "Cùng hãng thiết kế Harbour Bridge tại Sydney."
+      },
+      "8": {
+        "accepted": [
+          "unemployment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "bringing down unemployment among skilled workers"
+          }
+        ],
+        "explanation": "Công trình nhằm giảm thất nghiệp."
+      },
+      "9": {
+        "accepted": [
+          "ship"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "very similar to that used to build a ship"
+          }
+        ],
+        "explanation": "Cách hàn tấm cầu gần giống đóng tàu."
+      },
+      "10": {
+        "accepted": [
+          "carriage"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "initial crossing in their carriage"
+          }
+        ],
+        "explanation": "Hoàng gia đi qua cầu trên xe ngựa."
+      },
+      "11": {
+        "accepted": [
+          "59"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "59 metres above the river when it's at high tide"
+          }
+        ],
+        "explanation": "Đỉnh vòm cao 59 m trên mặt nước triều cao."
+      },
+      "12": {
+        "accepted": [
+          "warehouse"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "provide space for a warehouse at either side"
+          }
+        ],
+        "explanation": "Mỗi trụ ban đầu dự kiến làm kho."
+      },
+      "13": {
+        "accepted": [
+          "162"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "162 metres in length from the base of one pier"
+          }
+        ],
+        "explanation": "Độ dài vòm từ chân trụ này đến chân trụ kia là 162 m."
+      }
+    },
+    "assetHashes": {
+      "assets/diagram-p1-the-tyne-bridge-source-v2.png": "501491034edd99c69879a02e5a80d92a2865d597f8b420ded2036ec8bc715977"
+    },
+    "lessonSha256": "3cebcb2d82657e3b96532077543f18bdd31cf9a60ed3f426b982282a7aa856f5"
+  },
+  "p1-the-history-of-the-guitar": {
+    "lessonId": "p1-the-history-of-the-guitar",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The earliest stringed instruments currently known to archaeologists are bowl harps"
+          }
+        ],
+        "explanation": "Bowl harps có trước cây đàn 11 dây trong mộ hoàng hậu."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "survived into modern times in almost unchanged form"
+          }
+        ],
+        "explanation": "Panchtar là ví dụ nhạc cụ tồn tại gần như không đổi."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "tanbur which belonged to the Egyptian singer Har-Mose"
+          }
+        ],
+        "explanation": "Chỉ nói cây đàn thuộc ca sĩ Har-Mose, không đánh giá kỹ năng."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "It can be seen today at the Archaeological Museum in Cairo"
+          }
+        ],
+        "explanation": "Chỉ nêu cây đàn này, không nói bảo tàng có nhiều nhạc cụ."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a long neck and sides that clearly curve inwards"
+          }
+        ],
+        "explanation": "Đặc điểm của hình khắc phù hợp định nghĩa của Kasha."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "variations with from three to five strings"
+          }
+        ],
+        "explanation": "Các nhạc cụ thời Trung cổ có số dây khác nhau."
+      },
+      "7": {
+        "accepted": [
+          "chartar"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "four-stringed Persian chartar arrived in Spain"
+          }
+        ],
+        "explanation": "Chitarra phát triển từ chartar Ba Tư."
+      },
+      "8": {
+        "accepted": [
+          "body"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "increased the size of the body"
+          }
+        ],
+        "explanation": "Torres tăng kích thước thân đàn."
+      },
+      "9": {
+        "accepted": [
+          "volume"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "increased the volume and improved the tone"
+          }
+        ],
+        "explanation": "Cải tiến giúp âm lượng lớn hơn."
+      },
+      "10": {
+        "accepted": [
+          "America"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "German immigrants to America"
+          }
+        ],
+        "explanation": "Những người nhập cư Đức ở Mỹ chế tạo đàn X-braced."
+      },
+      "11": {
+        "accepted": [
+          "steel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "Steel strings, which became widely available"
+          }
+        ],
+        "explanation": "Dây thép phổ biến từ đầu những năm 1900."
+      },
+      "12": {
+        "accepted": [
+          "pickups"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "pickups were fitted to Hawaiian and jazz guitars"
+          }
+        ],
+        "explanation": "Gắn pickups vào đàn trong thập niên 1920."
+      },
+      "13": {
+        "accepted": [
+          "Gibson"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "Gibson introduced its famous ES150 model"
+          }
+        ],
+        "explanation": "Hãng Gibson giới thiệu mẫu ES150."
+      }
+    },
+    "lessonSha256": "cd032fa5cb3f2cd24b21ea5ead99e9af5a188a2dc904bada771ab5fe55813190"
+  }
+}
