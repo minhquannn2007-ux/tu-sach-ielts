@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T14:21:34.822Z",
+  "updatedAt": "2026-10-21T16:18:27.093Z",
   "totalLessons": 798,
-  "reviewedLessons": 164,
-  "reviewedAnswers": 2147,
+  "reviewedLessons": 179,
+  "reviewedAnswers": 2342,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 630,
+  "pendingSolutions": 615,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -3401,7 +3401,7 @@
       "title": "Sydney Opera House",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-sydney-opera-house",
@@ -3569,7 +3569,7 @@
       "title": "The Baobabs of Madagascar",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-beginning-of-the-consumer-age",
@@ -3821,7 +3821,7 @@
       "title": "The development of the silk industry",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-digital-revolution-in-studying-history",
@@ -4108,14 +4108,14 @@
       "title": "The history of the British wool industry",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-car-industry",
       "title": "The history of the car industry",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-history-of-the-celtic-language",
@@ -4129,7 +4129,7 @@
       "title": "The History of the Chicken",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-history-of-the-doughnut",
@@ -4192,7 +4192,7 @@
       "title": "The Iditarod",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-impact-of-refrigeration",
@@ -4213,7 +4213,7 @@
       "title": "The impact of the potato in Europe",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-importance-of-being-playful",
@@ -4227,7 +4227,7 @@
       "title": "The Importance of Business Cards",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-importance-of-diet",
@@ -4535,7 +4535,7 @@
       "title": "The Origins of Weather Forecasting",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-ornithopter-a-new-way-to-fly",
@@ -4549,7 +4549,7 @@
       "title": "The owl: a most distinctive bird",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-the-peopling-of-patagonia",
@@ -4794,7 +4794,7 @@
       "title": "The Southern Cross",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-the-story-of-the-ocean",
@@ -4885,7 +4885,7 @@
       "title": "The Tuatara of New Zealand",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-the-tyne-bridge",
@@ -5249,7 +5249,7 @@
       "title": "What are Black Holes?",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-what-count-as-knowledge",
@@ -5438,7 +5438,7 @@
       "title": "Why good ideas fail",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-why-societies-collapse",

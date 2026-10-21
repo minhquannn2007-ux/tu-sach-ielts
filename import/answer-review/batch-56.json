@@ -1,0 +1,662 @@
+{
+  "p1-the-iditarod": {
+    "lessonId": "p1-the-iditarod",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "trail itself and the use of dog teams as a mode of transportation has a long and interesting past"
+          }
+        ],
+        "explanation": "Đường mòn có từ trước cuộc đua chính thức."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "transport medicine from the town of Nenana to the village of Nome"
+          }
+        ],
+        "explanation": "Đội chó vận chuyển thuốc tới nơi xa khi có dịch."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "replacement of sled dog teams by airplanes in some cases and finally, by snow mobiles"
+          }
+        ],
+        "explanation": "Phương tiện mới thay thế đội chó vận chuyển."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "to celebrate Alaska's Centennial Year"
+          }
+        ],
+        "explanation": "Cuộc đua đầu tổ chức kỷ niệm trăm năm Alaska."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "race would go all the way to Nome"
+          }
+        ],
+        "explanation": "Đích được đổi sang Nome."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "race would go all the way to Nome"
+          }
+        ],
+        "explanation": "Không có thông tin dân số Nome tăng do cuộc đua."
+      },
+      "7": {
+        "accepted": [
+          "ceremony"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "started from downtown Anchorage with a ceremony"
+          }
+        ],
+        "explanation": "Lễ nghi đánh dấu khởi đầu vào thứ Bảy."
+      },
+      "8": {
+        "accepted": [
+          "Wasilla"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "official start from the city of Wasilla"
+          }
+        ],
+        "explanation": "Điểm xuất phát chính thức là Wasilla."
+      },
+      "9": {
+        "accepted": [
+          "health"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "get the health of their dogs monitored"
+          }
+        ],
+        "explanation": "Ưu tiên sức khỏe của chó."
+      },
+      "10": {
+        "accepted": [
+          "prize"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "different teams split a monetary prize"
+          }
+        ],
+        "explanation": "Giải thưởng tiền được chia cho đội về đích."
+      },
+      "11": {
+        "accepted": [
+          "climate"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "harsh Alaskan climate"
+          }
+        ],
+        "explanation": "Chó được lai cho khí hậu khắc nghiệt."
+      },
+      "12": {
+        "accepted": [
+          "wheel"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "called wheel dogs"
+          }
+        ],
+        "explanation": "Chó khỏe nhất được gọi là wheel dogs."
+      },
+      "13": {
+        "accepted": [
+          "equipment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "per year on equipment"
+          }
+        ],
+        "explanation": "Chi phí trang bị cao."
+      }
+    },
+    "lessonSha256": "5f91b2a308185e04575382057c3bdae68607eb89582e95d68e7f538277516f05"
+  },
+  "p1-sydney-opera-house": {
+    "lessonId": "p1-sydney-opera-house",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a relatively little-known architect"
+          }
+        ],
+        "explanation": "Utzon ít được biết tới trước cuộc thi."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "looked through their rejected entries and stopped at the Utzon design"
+          }
+        ],
+        "explanation": "Thiết kế ban đầu nằm trong số bị loại."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "early exposure to shipbuilding provided the inspiration"
+          }
+        ],
+        "explanation": "Kiến thức đóng tàu gợi ý thiết kế mái."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "From his travels to Mexico"
+          }
+        ],
+        "explanation": "Chuyến đi Mexico gợi ý bệ ngang; không nói ông ấn tượng với nhà hát opera ở đó."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "throughout the early 1960s Utzon amended his original designs"
+          }
+        ],
+        "explanation": "Utzon sửa bản thiết kế sau khi khởi công."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "protests through the streets led by prominent architect Harry Seidler"
+          }
+        ],
+        "explanation": "Seidler dẫn đầu biểu tình đòi phục chức Utzon."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "He never returned"
+          }
+        ],
+        "explanation": "Ông không trở lại Australia dự lễ khai trương."
+      },
+      "8": {
+        "accepted": [
+          "102 million"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "having cost $102 million"
+          }
+        ],
+        "explanation": "Tổng chi phí là 102 triệu đô la."
+      },
+      "9": {
+        "accepted": [
+          "Sweden"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "tiles manufactured in a factory in Sweden"
+          }
+        ],
+        "explanation": "Gạch men được sản xuất ở Thụy Điển."
+      },
+      "10": {
+        "accepted": [
+          "granite"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "clad with granite quarried in Australia"
+          }
+        ],
+        "explanation": "Tường ngoài ốp đá granite khai thác ở Australia."
+      },
+      "11": {
+        "accepted": [
+          "four"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "including the four resident companies"
+          }
+        ],
+        "explanation": "Có bốn công ty nghệ thuật thường trú."
+      },
+      "12": {
+        "accepted": [
+          "forecourt"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "a sizeable outdoor forecourt"
+          }
+        ],
+        "explanation": "Khoảng sân ngoài trời nằm trước các bậc thang."
+      },
+      "13": {
+        "accepted": [
+          "harbour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "see the harbour for the first time from the theatre foyers"
+          }
+        ],
+        "explanation": "Lối mở cho người xem nhìn ra cảng từ tiền sảnh."
+      }
+    },
+    "lessonSha256": "dd2d8378baac83a9f63520fd9493abf69d35cc5996a7168f0371f7b59b60c416"
+  },
+  "p1-the-origins-of-weather-forecasting": {
+    "lessonId": "p1-the-origins-of-weather-forecasting",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "similar to astrology or fortune-telling"
+          }
+        ],
+        "explanation": "Dự báo thời tiết lúc đó không được tôn trọng."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "most famously his captaining of the ship HMS Beagle"
+          }
+        ],
+        "explanation": "FitzRoy có sự nghiệp đi biển nổi bật."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "secured a job as chief statistician"
+          }
+        ],
+        "explanation": "Không có thông tin về ứng viên cạnh tranh."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "suggestion by one Member of Parliament for this was met with laughter"
+          }
+        ],
+        "explanation": "Nghị sĩ khác cười nhạo đề nghị dự báo thời tiết."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "invention of the electric telegraph and Morse code in 1844 gave instant communication"
+          }
+        ],
+        "explanation": "Công nghệ truyền tin làm dịch vụ dự báo khả thi."
+      },
+      "6": {
+        "accepted": [
+          "instruments"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "ships with standardised instruments"
+          }
+        ],
+        "explanation": "Tàu được cấp dụng cụ đo chuẩn."
+      },
+      "7": {
+        "accepted": [
+          "ports"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "telegraph warnings to ports on the coast"
+          }
+        ],
+        "explanation": "Cảnh báo gửi tới cảng ven biển."
+      },
+      "8": {
+        "accepted": [
+          "flags"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "system of flags was hoisted up high"
+          }
+        ],
+        "explanation": "Cờ được giương cao ra hiệu cho tàu."
+      },
+      "9": {
+        "accepted": [
+          "lifeboat"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "after the introduction of the lifeboat"
+          }
+        ],
+        "explanation": "Phát triển an toàn hàng hải lớn nhất kể từ thuyền cứu sinh."
+      },
+      "10": {
+        "accepted": [
+          "island"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "an island which she liked to visit"
+          }
+        ],
+        "explanation": "Nữ hoàng dùng dự báo để qua biển tới hòn đảo yêu thích."
+      },
+      "11": {
+        "accepted": [
+          "owners"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "owners of fishing vessels, however, were not supportive"
+          }
+        ],
+        "explanation": "Chủ tàu đánh cá phản đối dự báo gây chậm trễ."
+      },
+      "12": {
+        "accepted": [
+          "name"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "an area of sea being given his name"
+          }
+        ],
+        "explanation": "Một vùng biển được đặt theo tên ông."
+      },
+      "13": {
+        "accepted": [
+          "book"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "published a book about weather forecasting"
+          }
+        ],
+        "explanation": "Cuốn sách được giới khoa học đánh giá cao."
+      }
+    },
+    "lessonSha256": "fd6e1e7c8005443cf72511cb608934eda6deab44010d0e423b805bf3958a120c"
+  },
+  "p1-the-history-of-the-chicken": {
+    "lessonId": "p1-the-history-of-the-chicken",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "blank canvas for the national flavours of almost any cuisine"
+          }
+        ],
+        "explanation": "Thịt gà thích hợp nhiều cách nấu theo từng nền ẩm thực."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "That's about as much flying as it can manage"
+          }
+        ],
+        "explanation": "Bài nói gà rừng bay hạn chế, không so sánh khả năng bay với gà nuôi."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "not the sole ancestor of the modern chicken"
+          }
+        ],
+        "explanation": "Gà hiện đại có hơn một tổ tiên."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "inherited at least one trait, their yellow skin, from the grey junglefowl"
+          }
+        ],
+        "explanation": "Da vàng được di truyền từ gà rừng xám."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "status in Europe appears to have diminished with the collapse of Rome"
+          }
+        ],
+        "explanation": "Sau La Mã, vị thế gà và số trại nuôi suy giảm."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "This factory farming represents the chicken's final step"
+          }
+        ],
+        "explanation": "Không nói người dân phê bình phương thức nuôi công nghiệp."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "fashion for keeping chickens in the backyard becomes more popular"
+          }
+        ],
+        "explanation": "Nuôi gà giống quý tại nhà ngày càng phổ biến."
+      },
+      "8": {
+        "accepted": [
+          "zoos"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "fighting birds and additions to zoos"
+          }
+        ],
+        "explanation": "Gà được đưa vào sở thú."
+      },
+      "9": {
+        "accepted": [
+          "tombs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "decorated royal tombs"
+          }
+        ],
+        "explanation": "Hình gà trang trí lăng mộ hoàng gia."
+      },
+      "10": {
+        "accepted": [
+          "incubation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "technique of artificial incubation"
+          }
+        ],
+        "explanation": "Người Ai Cập ấp trứng nhân tạo."
+      },
+      "11": {
+        "accepted": [
+          "humidity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "humidity must remain stable"
+          }
+        ],
+        "explanation": "Độ ẩm phải ổn định."
+      },
+      "12": {
+        "accepted": [
+          "ovens"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "which were essentially ovens"
+          }
+        ],
+        "explanation": "Phòng ấp giống lò nướng."
+      },
+      "13": {
+        "accepted": [
+          "predators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "as well as predators"
+          }
+        ],
+        "explanation": "Chuồng kín bảo vệ khỏi thú săn mồi."
+      }
+    },
+    "lessonSha256": "4c0daee488fd7a38c99654a64c5bb9382ba581d6e2bb2c2485beb830623df300"
+  }
+}

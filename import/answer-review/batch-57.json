@@ -1,0 +1,497 @@
+{
+  "p1-the-history-of-the-car-industry": {
+    "lessonId": "p1-the-history-of-the-car-industry",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "speeds across the city were faster than they are today in a car"
+          }
+        ],
+        "explanation": "Đi bằng ngựa ở London đầu thế kỷ 20 nhanh hơn xe hiện nay."
+      },
+      "2": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "published in 1687"
+          }
+        ],
+        "explanation": "Mô tả xe chạy bằng nhiên liệu ghi nhận vào thế kỷ 17."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "constructed under the supervision of Father Ferdinand Verbiest"
+          }
+        ],
+        "explanation": "Ông giám sát chế tạo, không nói hoàng đế ra lệnh."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "wildly uneconomical compared with contemporary steam engines"
+          }
+        ],
+        "explanation": "Xe của Brown thiếu hiệu quả kinh tế chứ không bị hỏng động cơ."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "patented his engine design, but did not build it"
+          }
+        ],
+        "explanation": "Rochas đề xuất và đăng ký thiết kế, không chế tạo."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Karl Benz started working on a petrol tricycle"
+          }
+        ],
+        "explanation": "Bài không nói Benz dùng động cơ của Daimler."
+      },
+      "7": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "had to fill up with dry-cleaning fluid when she ran out of fuel"
+          }
+        ],
+        "explanation": "Bertha gặp nhiều sự cố và phải sửa trên đường."
+      },
+      "8": {
+        "accepted": [
+          "France"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "to a company in France"
+          }
+        ],
+        "explanation": "Các bằng sáng chế Daimler được bán cho công ty Pháp."
+      },
+      "9": {
+        "accepted": [
+          "layout"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "It had an improved layout"
+          }
+        ],
+        "explanation": "Thiết kế bố trí các bộ phận tốt hơn."
+      },
+      "10": {
+        "accepted": [
+          "speed"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "capable of 80 miles per hour"
+          }
+        ],
+        "explanation": "Tốc độ xe tăng đáng kể."
+      },
+      "11": {
+        "accepted": [
+          "colour"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "any customer can have any colour he wants so long as it’s black"
+          }
+        ],
+        "explanation": "Ford chỉ sản xuất màu đen."
+      },
+      "12": {
+        "accepted": [
+          "legislation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "legislation introduced to protect the environment and enhance safety"
+          }
+        ],
+        "explanation": "Luật an toàn và môi trường làm tăng chi phí gia nhập."
+      },
+      "13": {
+        "accepted": [
+          "frame"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "as many different cars as possible on the same frame"
+          }
+        ],
+        "explanation": "Nhiều mẫu dùng chung khung xe."
+      }
+    },
+    "lessonSha256": "31f6b34daafc8ee4684cd76d1ae05027177975cc330fd0b5b4edaa240abd1602"
+  },
+  "p1-the-owl-a-most-distinctive-bird": {
+    "lessonId": "p1-the-owl-a-most-distinctive-bird",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "coins"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "owl portrayed on Greek coins"
+          }
+        ],
+        "explanation": "Người Hy Lạp khắc hình cú trên tiền."
+      },
+      "2": {
+        "accepted": [
+          "feathers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "wing feathers designed for silent flight"
+          }
+        ],
+        "explanation": "Lông cánh hỗ trợ bay yên lặng."
+      },
+      "3": {
+        "accepted": [
+          "markings"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "eye-like markings on the back of its head"
+          }
+        ],
+        "explanation": "Vệt trông như mắt giúp đánh lừa kẻ săn mồi."
+      },
+      "4": {
+        "accepted": [
+          "snow"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "prey hidden in total darkness or under the snow"
+          }
+        ],
+        "explanation": "Cú xác định mồi dưới tuyết."
+      },
+      "5": {
+        "accepted": [
+          "island"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "limited to a single island"
+          }
+        ],
+        "explanation": "Loài trên một đảo dễ bị đe dọa."
+      },
+      "6": {
+        "accepted": [
+          "recorder"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "portable digital recorder"
+          }
+        ],
+        "explanation": "Máy ghi âm kỹ thuật số giúp ghi tiếng cú."
+      },
+      "7": {
+        "accepted": [
+          "genes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "analyzing their genes"
+          }
+        ],
+        "explanation": "Phân tích gene tốn kém hơn dùng âm thanh."
+      },
+      "8": {
+        "accepted": [
+          "photographs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "there are no photographs"
+          }
+        ],
+        "explanation": "Một số loài ở vùng sâu chưa có ảnh."
+      },
+      "9": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "commonly found in densely populated parts of western Europe"
+          }
+        ],
+        "explanation": "Có cú ở nơi đông dân nhưng không nói cư dân chào đón chúng."
+      },
+      "10": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "provides open terrain that allows owls to more easily"
+          }
+        ],
+        "explanation": "Khoảng trống quanh đường điện giúp cú săn mồi."
+      },
+      "11": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "may be unaware of oncoming vehicles and be struck"
+          }
+        ],
+        "explanation": "Mắt hướng trước khiến cú không nhận thấy xe tới."
+      },
+      "12": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "pesticides has eliminated many of the large bugs it eats"
+          }
+        ],
+        "explanation": "Mất côn trùng làm cú nhỏ khan hiếm."
+      },
+      "13": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "spotted owl remains under a different threat"
+          }
+        ],
+        "explanation": "Bài nói mối đe dọa chứ không cho xu hướng tổng số cú đốm."
+      }
+    },
+    "lessonSha256": "8b7e51a82f9f4b75d6971d9ae918f49c9d7f458c0b4075967f568e4cada32b1f"
+  },
+  "p1-what-are-black-holes": {
+    "lessonId": "p1-what-are-black-holes",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "reduce in size to become what is known as a white dwarf"
+          }
+        ],
+        "explanation": "Mặt trời sẽ thành sao lùn trắng."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "shattered into even tinier bits, quarks and leptons"
+          }
+        ],
+        "explanation": "Có hạt nhỏ hơn proton, neutron, electron."
+      },
+      "3": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "rockets have been escaping Earth’s gravitational pull and heading into space since 1959"
+          }
+        ],
+        "explanation": "Không so sánh tốc độ tên lửa qua các năm."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "it can't defeat the gravitational pull of a black hole"
+          }
+        ],
+        "explanation": "Ngay cả ánh sáng không thể thoát."
+      },
+      "5": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "making a one-way trip"
+          }
+        ],
+        "explanation": "Qua chân trời sự kiện là hành trình một chiều."
+      },
+      "6": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Pierre-Simon Laplace proposed a similar concept a few years later"
+          }
+        ],
+        "explanation": "Không có thông tin Laplace lấy cảm hứng từ Michell."
+      },
+      "7": {
+        "accepted": [
+          "telescopes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "develop telescopes that were far more powerful"
+          }
+        ],
+        "explanation": "Kính thiên văn được cải thiện đáng kể."
+      },
+      "8": {
+        "accepted": [
+          "dust"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "dust, essential along with gas for creating stars, that makes it impossible"
+          }
+        ],
+        "explanation": "Bụi che khuất trung tâm thiên hà."
+      },
+      "9": {
+        "accepted": [
+          "mass"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "mass of the black hole in the galaxy Andromeda"
+          }
+        ],
+        "explanation": "Lỗ đen Andromeda có khối lượng lớn hơn."
+      },
+      "10": {
+        "accepted": [
+          "trillions"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "may well number in the trillions"
+          }
+        ],
+        "explanation": "Ước tính có thể lên đến hàng nghìn tỷ."
+      },
+      "11": {
+        "accepted": [
+          "friction"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "produce friction in huge quantities"
+          }
+        ],
+        "explanation": "Vật chuyển động gần lỗ đen sinh ma sát."
+      },
+      "12": {
+        "accepted": [
+          "spin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "because of this spin"
+          }
+        ],
+        "explanation": "Sự quay khiến nhiều vật chất bị hất ra."
+      },
+      "13": {
+        "accepted": [
+          "orbit"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "our orbit around the sun wouldn't change"
+          }
+        ],
+        "explanation": "Quỹ đạo Trái Đất vẫn không đổi."
+      }
+    },
+    "lessonSha256": "05a241e26345b5babc039a71686b8ece961d50d6c4ba3dfcb2a5c3d3b1869376"
+  }
+}

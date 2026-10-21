@@ -1,0 +1,332 @@
+{
+  "p1-the-southern-cross": {
+    "lessonId": "p1-the-southern-cross",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "convince Californian businessman G. Allan Hancock to pay for the aeroplane"
+          }
+        ],
+        "explanation": "Hancock tài trợ mua máy bay, không phải Ulm mua từ ông."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "They hired two Americans as crew"
+          }
+        ],
+        "explanation": "Không nêu Lyon và Warner từng cộng tác với hai phi công trước đó."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "take-off had to be aborted as Ulm accidentally shut down one engine"
+          }
+        ],
+        "explanation": "Ulm vô tình làm tắt máy gây chậm trễ."
+      },
+      "4": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "assisted them in locating the airfield in Hawaii"
+          }
+        ],
+        "explanation": "Dù thời tiết khó, máy bay vẫn hạ cánh ở Hawaii."
+      },
+      "5": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "one of the engines began to run rough"
+          }
+        ],
+        "explanation": "Động cơ chạy bất thường nhưng không nói được sửa ở Fiji."
+      },
+      "6": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "They downplayed their problems on the radio"
+          }
+        ],
+        "explanation": "Phi hành đoàn nói giảm mức nghiêm trọng qua radio."
+      },
+      "7": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "pilots from the escort aircraft met the crew"
+          }
+        ],
+        "explanation": "Có máy bay hộ tống gần Sydney."
+      },
+      "8": {
+        "accepted": [
+          "15 metres"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "almost 15 metres long"
+          }
+        ],
+        "explanation": "Máy bay dài gần 15 mét."
+      },
+      "9": {
+        "accepted": [
+          "compasses"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "four compasses to navigate by"
+          }
+        ],
+        "explanation": "La bàn hỗ trợ định hướng."
+      },
+      "10": {
+        "accepted": [
+          "rafts"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "wings so that they could float like rafts"
+          }
+        ],
+        "explanation": "Cánh có thể nổi như bè."
+      },
+      "11": {
+        "accepted": [
+          "week"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "food to last a week"
+          }
+        ],
+        "explanation": "Lương thực đủ một tuần."
+      },
+      "12": {
+        "accepted": [
+          "bravery"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "paid tribute to the bravery of his American companions"
+          }
+        ],
+        "explanation": "Kingsford-Smith ca ngợi sự dũng cảm đồng đội."
+      },
+      "13": {
+        "accepted": [
+          "money"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "did not need to pay back the money"
+          }
+        ],
+        "explanation": "Hancock miễn trả khoản tiền tài trợ."
+      }
+    },
+    "lessonSha256": "e5d54413d1523b0a1403b732f3d14bb13e8993bf6387b9a2cbfc2a8de6dc8fec"
+  },
+  "p1-the-baobabs-of-madagascar": {
+    "lessonId": "p1-the-baobabs-of-madagascar",
+    "reviewed": true,
+    "reviewedAt": "2026-10-21",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "six are found only there, while a seventh has made its way across"
+          }
+        ],
+        "explanation": "Có loài thứ bảy từ châu Phi đến nên không phải tất cả đều đặc hữu."
+      },
+      "2": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "named after two great 19th-century French botanists"
+          }
+        ],
+        "explanation": "Không nêu họ là nhà thực vật học nước ngoài đầu tiên đến Madagascar."
+      },
+      "3": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "only grow along the western margin of the island"
+          }
+        ],
+        "explanation": "Cây chỉ mọc ở rìa phía tây, không ở hầu hết đảo."
+      },
+      "4": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "cleared for rice and sugar-cane fields"
+          }
+        ],
+        "explanation": "Cảnh quan xung quanh được tạo bởi khai hoang làm nông."
+      },
+      "5": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "valuable as a food source and renewable building material"
+          }
+        ],
+        "explanation": "Cây cung cấp thực phẩm và vật liệu xây dựng."
+      },
+      "6": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The exact cause of the falling baobabs is uncertain"
+          }
+        ],
+        "explanation": "Nguyên nhân cây đổ chưa được thống nhất."
+      },
+      "7": {
+        "accepted": [
+          "water"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "water used to irrigate the nearby fields"
+          }
+        ],
+        "explanation": "Nước tưới từ ruộng có thể làm ngập rễ."
+      },
+      "8": {
+        "accepted": [
+          "cyclones"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "susceptible to cyclones"
+          }
+        ],
+        "explanation": "Cây đơn lẻ dễ bị bão lốc bật gốc."
+      },
+      "9": {
+        "accepted": [
+          "farming"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "land clearance for farming"
+          }
+        ],
+        "explanation": "Phát quang lấy đất canh tác."
+      },
+      "10": {
+        "accepted": [
+          "logging"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Human disturbance in the forest, such as logging"
+          }
+        ],
+        "explanation": "Khai thác gỗ gây cây bụi lan nhanh, cản nảy mầm."
+      },
+      "11": {
+        "accepted": [
+          "animals"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "absence of two large, now extinct animals"
+          }
+        ],
+        "explanation": "Thiếu động vật lớn từng phân tán hạt."
+      },
+      "12": {
+        "accepted": [
+          "maps"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "create maps of baobab distribution"
+          }
+        ],
+        "explanation": "Bond lập bản đồ phân bố cây."
+      },
+      "13": {
+        "accepted": [
+          "book"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "compile an illustrated children's book"
+          }
+        ],
+        "explanation": "Ông dự định làm sách minh họa về truyền thuyết cây."
+      }
+    },
+    "lessonSha256": "b6babb661c5c74a5feb90fbc81c01b2c2620105c5c250198bac36aad40345242"
+  }
+}
