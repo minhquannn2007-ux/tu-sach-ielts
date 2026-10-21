@@ -15,3 +15,11 @@ Pages workflow tự deploy dist/ khi main thay đổi. Không commit token, cach
 Chỉ lấy Word trực tiếp trong word ielts/p1 (116hQOjXoyZU2xggm71QxD0JNhUacSuQ0), p2 (1UaxL8QbgmK966Oy2IqN28FwLibG2nqF4), p3 (1WbEAa27WYEvDuEiaCIHyVjKVIVgqMepT). Kiểm tra parent_ids thực tế từ Drive; không lấy thư mục khác hoặc thư mục con, kể cả trùng tên bài. Index cũ chưa có parent_ids phải xác minh trước khi dùng. From princes to paupers đã bị người dùng xác nhận fake và cấm đăng lại; giữ nguyên bài Goya cũ.
 
 Listening: xuất bản trên GitHub Pages của repository này. Mỗi part là một bài riêng có audio tương ứng và ảnh bìa thật đúng nội dung. Part 1/4 lấy title trong đề; Part 2/3 ưu tiên title, nếu thiếu dùng tên map hoặc instruction matching. Không dùng ảnh bìa không liên quan.
+
+## Bàn giao liên tục — yêu cầu người dùng 21/10/2026
+
+File bàn giao hiện hành trong ChatGPT Library: `Tu_Sach_IELTS_Ban_Giao_Lien_Tuc.md`, Library ID `libfile_fe0ddca400b48191847c4497be916115`. Người dùng có thể gửi bản Markdown này vào chat mới. Đọc bản hiện hành cùng source mới nhất; HANDOFF.md trong repo là snapshot cũ, không phải trạng thái live.
+
+Sau mỗi lượt liên quan Tủ Sách IELTS có yêu cầu/quyết định/lưu ý/thay đổi/kết quả mới, cập nhật chính file bàn giao đó trước khi kết thúc. Sửa trạng thái hiện hành và thêm nhật ký ngắn: ngày, việc đã làm, kiểm tra/deploy, việc còn dở. Giữ Library identity và lịch sử phiên bản; không tạo bản riêng mỗi lượt, không chép log/mã nguồn lớn/Base64/token vào Markdown. Nếu được gửi file thay vì có Library connector, cập nhật file được gửi và trả lại bản mới; nói rõ nếu không lưu cập nhật được. Không hứa có tiến trình tự cập nhật sau khi lượt chat kết thúc.
+
+Quy tắc đáp án mới hơn hướng dẫn practice/no-key ban đầu: người dùng đã yêu cầu lời giải và chấm Reading sau nộp. Đọc `import/answer-review/README.md`; key được review nằm ở `dist/answer-keys.json` và progress trong `import/answer-review/progress.json`. Chỉ bật key đầy đủ, đúng fingerprint, có evidence; thiếu key thì giữ ungraded. Không kết luận bài practice chưa có key chỉ vì lesson JSON không có trường key.
