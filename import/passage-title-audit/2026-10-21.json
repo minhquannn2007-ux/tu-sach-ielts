@@ -10,16 +10,17 @@
   "policy": "Catalog names are navigation labels, not evidence of printed headings. An absent OCR hit is only a review candidate. Remove a heading only after checking the original source image. New lessons must declare passageTitle (null if absent) and source review metadata.",
   "passageCounts": {
     "title-found": 687,
-    "title-in-header": 41,
-    "printed-title-present": 40,
-    "source-unavailable": 21,
+    "title-in-header": 40,
+    "printed-title-present": 42,
+    "source-unavailable": 20,
     "confirmed-absent": 6,
-    "corrected-printed-wording": 3
+    "corrected-printed-wording": 2,
+    "preserved-user-approved-title": 1
   },
   "taskTitleCounts": {
     "found": 371,
     "visual-source-confirmed": 12,
-    "pending-clear-complete-matching-source": 7,
+    "matching-source-confirmed": 7,
     "ocr-found": 96,
     "source-unavailable": 11
   },
@@ -896,8 +897,10 @@
     {
       "id": "p1-optimism-and-health",
       "title": "Optimism and Health",
-      "status": "source-unavailable",
-      "method": "pending-original-source"
+      "status": "printed-title-present",
+      "method": "visual-source-page-and-opening-alignment",
+      "sourcePage": 1,
+      "sha256": "44581b86b08b40237a926fdff8b5de6835e05993b0b9b9be28f7cd52e261d113"
     },
     {
       "id": "p1-otters",
@@ -1437,9 +1440,10 @@
     {
       "id": "p1-the-history-of-the-pencil-manufacture",
       "title": "The history of the pencil",
-      "status": "title-in-header",
-      "sha256": "37a707226769e4e2b0240e8e09e952b16c66cf7a1f81c1819ac495942e0acb80",
-      "method": "source-header-text"
+      "status": "printed-title-present",
+      "sha256": "37cd0b6a5daf08b937b0e887d5d407c7d14ea15f65cbe7d797503f8cad173bac",
+      "method": "clear-matching-source-header",
+      "sourcePage": 1
     },
     {
       "id": "p1-the-history-of-the-pencil",
@@ -2870,10 +2874,9 @@
       "id": "p2-natures-positive-effects-on-well-being",
       "title": "Nature’s Positive Effects on Well-being",
       "status": "printed-title-present",
-      "sha256": "9a03f711cbfacec3ad73a463e0293cc9c6a0b353b53653e9e3985da14644f6c3",
-      "method": "visual-source-page",
-      "sourcePage": 1,
-      "limitation": "Title exists; masked scan does not establish every letter. Exact wording still needs a clearer original."
+      "sha256": "c7ca75953d15dc767abcb8d76abc1bd003673e6ce449df982406b40372bfa969",
+      "method": "clear-matching-source-header",
+      "sourcePage": 1
     },
     {
       "id": "p2-new-businesses-in-new-zealand",
@@ -5296,10 +5299,9 @@
       "id": "p3-the-significant-role-of-mother-tongue-in-education",
       "title": "The Significant Role of Mother Tongue in Education",
       "status": "printed-title-present",
-      "sha256": "b79470783c11ed3263e7df46c77c00787f6bf14415c8efb166a63e159f9c70b9",
-      "method": "visual-source-page",
-      "sourcePage": 1,
-      "limitation": "Title exists; masked scan does not establish every letter. Exact wording still needs a clearer original."
+      "sha256": "15d7c1f77950ab4ce145eb369b63b6db2a8d1fb62bf32bd42bfdc9ecba3666f3",
+      "method": "clear-matching-source-header",
+      "sourcePage": 1
     },
     {
       "id": "p3-the-sound-recording-industry-in-the-usa-before-1950",
@@ -5582,10 +5584,9 @@
       "id": "legacy-ielts_p2_goya",
       "file": "dist/bai/ielts_p2_goya.html",
       "catalogTitle": "Goya's portraits",
-      "sha256": "ba1171f6007f5ed7727b856a04899dc5d2b9e309bfb20970290a37e8fbd75bf4",
-      "status": "corrected-printed-wording",
-      "method": "source-header-text",
-      "sourcePage": 1
+      "status": "preserved-user-approved-title",
+      "method": "project-source-exclusion",
+      "finding": "Withdraw previous title edit: its reference source is explicitly prohibited in AGENTS.md. Restore existing Goya title; do not reuse excluded source."
     },
     {
       "id": "legacy-green_fingers_and_green_thoughts_ielts",
@@ -5746,10 +5747,16 @@
       "id": "p1-ahead-of-its-time",
       "group": 1,
       "title": "The events after the river flooded",
-      "status": "pending-clear-complete-matching-source",
+      "status": "matching-source-confirmed",
       "pages": [
         4
-      ]
+      ],
+      "verifiedSource": {
+        "sha256": "39a2ae6ebc931222d81cd6f183aed0b4bb178369969bd52a1505341e3bec0f8b",
+        "type": "pdf",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "page": 4
+      }
     },
     {
       "id": "p1-ambergris-what-is-it-and-where-does-it-come-from",
@@ -6352,8 +6359,15 @@
       "id": "p1-how-printed-books-began",
       "group": 2,
       "title": "Introduction of printed books to Italy",
-      "status": "pending-clear-complete-matching-source",
-      "pages": []
+      "status": "matching-source-confirmed",
+      "pages": [],
+      "verifiedSource": {
+        "sha256": "36e854b0ba1b478eab84cbb71ee080c40a9b4f49cf79304601117ad88b0fa327",
+        "type": "docx",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "location": "Word paragraph heading preceding Questions 11–13 notes",
+        "parentVerified": true
+      }
     },
     {
       "id": "p1-ice-ages",
@@ -7137,10 +7151,16 @@
       "id": "p1-the-history-of-the-pencil-manufacture",
       "group": 2,
       "title": "How pencils are manufactured today",
-      "status": "pending-clear-complete-matching-source",
+      "status": "matching-source-confirmed",
       "pages": [
         4
-      ]
+      ],
+      "verifiedSource": {
+        "sha256": "37cd0b6a5daf08b937b0e887d5d407c7d14ea15f65cbe7d797503f8cad173bac",
+        "type": "pdf",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "page": 4
+      }
     },
     {
       "id": "p1-the-history-of-the-pencil",
@@ -7891,10 +7911,16 @@
       "id": "p2-classical-music-over-the-centuries",
       "group": 3,
       "title": "The impact of today’s technology on music",
-      "status": "pending-clear-complete-matching-source",
+      "status": "matching-source-confirmed",
       "pages": [
         5
-      ]
+      ],
+      "verifiedSource": {
+        "sha256": "29e0ed990c359663394ff97767d51d46a33bc4f76713eacac35ef6acfa7edaec",
+        "type": "pdf",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "page": 5
+      }
     },
     {
       "id": "p2-coins-the-first-form-of-money",
@@ -8293,10 +8319,16 @@
       "id": "p2-natures-positive-effects-on-well-being",
       "group": 2,
       "title": "Nature and Public Health in Finland and South Korea",
-      "status": "pending-clear-complete-matching-source",
+      "status": "matching-source-confirmed",
       "pages": [
         4
-      ]
+      ],
+      "verifiedSource": {
+        "sha256": "c7ca75953d15dc767abcb8d76abc1bd003673e6ce449df982406b40372bfa969",
+        "type": "pdf",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "page": 4
+      }
     },
     {
       "id": "p2-new-businesses-in-new-zealand",
@@ -8819,10 +8851,16 @@
       "id": "p2-the-power-of-music",
       "group": 1,
       "title": "A study involving collaboration between researchers in Oxford and Montreal",
-      "status": "pending-clear-complete-matching-source",
+      "status": "matching-source-confirmed",
       "pages": [
         3
-      ]
+      ],
+      "verifiedSource": {
+        "sha256": "2640a67d63a6748da0ed5c88d3dacc660952aed91625f0400da5c9864e031ce6",
+        "type": "pdf",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "page": 3
+      }
     },
     {
       "id": "p2-the-rebirth-of-the-circus",
@@ -9890,10 +9928,16 @@
       "id": "p3-the-significant-role-of-mother-tongue-in-education",
       "group": 1,
       "title": "Bilingual Children",
-      "status": "pending-clear-complete-matching-source",
+      "status": "matching-source-confirmed",
       "pages": [
         4
-      ]
+      ],
+      "verifiedSource": {
+        "sha256": "15d7c1f77950ab4ce145eb369b63b6db2a8d1fb62bf32bd42bfdc9ecba3666f3",
+        "type": "pdf",
+        "finding": "Title and corresponding question range confirmed in complete matching source.",
+        "page": 4
+      }
     },
     {
       "id": "p3-the-sound-recording-industry-in-the-usa-before-1950",
@@ -10081,5 +10125,13 @@
         4
       ]
     }
-  ]
+  ],
+  "followup": {
+    "date": "2026-10-21",
+    "resolvedTaskTitles": 7,
+    "recoveredPassageSources": 1,
+    "excludedSourceCorrection": "Goya title restored according to existing user constraint recorded in AGENTS.md.",
+    "remainingPassageSources": 20,
+    "remainingTaskTitles": 11
+  }
 }
