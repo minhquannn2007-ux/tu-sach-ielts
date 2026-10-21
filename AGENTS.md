@@ -13,3 +13,5 @@ Không đoán nguồn mờ hoặc mất câu. Draft và OCR không tự được
 Pages workflow tự deploy dist/ khi main thay đổi. Không commit token, cache hay node_modules. Không ghi đè thay đổi của tài khoản khác: lấy main mới, giải quyết conflict hoặc tạo pull request. Tránh sửa đồng thời cùng bài.
 
 Chỉ lấy Word trực tiếp trong word ielts/p1 (116hQOjXoyZU2xggm71QxD0JNhUacSuQ0), p2 (1UaxL8QbgmK966Oy2IqN28FwLibG2nqF4), p3 (1WbEAa27WYEvDuEiaCIHyVjKVIVgqMepT). Kiểm tra parent_ids thực tế từ Drive; không lấy thư mục khác hoặc thư mục con, kể cả trùng tên bài. Index cũ chưa có parent_ids phải xác minh trước khi dùng. From princes to paupers đã bị người dùng xác nhận fake và cấm đăng lại; giữ nguyên bài Goya cũ.
+
+Listening: xuất bản trên GitHub Pages của repository này. Mỗi part là một bài riêng có audio tương ứng và ảnh bìa thật đúng nội dung. Part 1/4 lấy title trong đề; Part 2/3 ưu tiên title, nếu thiếu dùng tên map hoặc instruction matching. Không dùng ảnh bìa không liên quan.
