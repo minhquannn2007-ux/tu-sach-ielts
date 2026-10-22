@@ -51,5 +51,22 @@
       ],
       "wordLimit": "ONE WORD ONLY"
     }
-  ]
+  ],
+  "mapRestoration": {
+    "requestedAt": "2026-10-22",
+    "sourceKind": "PAPER photograph",
+    "sourceUpload": "131216.jpg",
+    "sourceSha256": "a15fab4aeb83cb3934d01f1494e52c692670519dbfd8f53dfbc614830b52bc1b",
+    "policy": "Perspective flattened, sharpened, paper/ghost text removed; transparent image. Road topology, compass, labels and A-J locations must match source.",
+    "asset": "assets/listening/55124/map-paper-restored.png",
+    "assetSha256": "df61d7d017598c127f331f08f9ca7671f6321bb681f2ee2d396d58bb1e63f8fa",
+    "dimensions": [
+      1183,
+      1330
+    ],
+    "transparent": true,
+    "method": "Built-in image editing; white-composite QA only for inspection. Original upload retained separately.",
+    "visualReview": "Checked title, compass N/E/S/W, A-J locations, road loop, roundabout, entrance, trees, car parks and classroom; paper ghost text removed.",
+    "generationPrompt": "Restore photographed map; flatten perspective and sharpen original linework and Arial-style labels; retain topology and all labels; remove paper and reverse-side text, output black/grey ink on transparent alpha."
+  }
 }
