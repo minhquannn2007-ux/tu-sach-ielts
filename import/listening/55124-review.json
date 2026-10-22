@@ -67,6 +67,22 @@
     "transparent": true,
     "method": "Built-in image editing; white-composite QA only for inspection. Original upload retained separately.",
     "visualReview": "Checked title, compass N/E/S/W, A-J locations, road loop, roundabout, entrance, trees, car parks and classroom; paper ghost text removed.",
-    "generationPrompt": "Restore photographed map; flatten perspective and sharpen original linework and Arial-style labels; retain topology and all labels; remove paper and reverse-side text, output black/grey ink on transparent alpha."
+    "generationPrompt": "Restore photographed map; flatten perspective and sharpen original linework and Arial-style labels; retain topology and all labels; remove paper and reverse-side text, output black/grey ink on transparent alpha.",
+    "status": "superseded-user-rejected-quality"
+  },
+  "mapUserReplacement": {
+    "date": "2026-10-22",
+    "sourceUpload": "131217.png",
+    "sourceSha256": "b3fdfd29c60260adee96a20c77e89e50e46746d037ba2b9b6eb08c737169a46d",
+    "asset": "assets/listening/55124/map-user-131217-transparent.png",
+    "assetSha256": "b1a9095c949b7f6558cf6de0e97e313751afa0c017b92545b1492b701c2f2830",
+    "dimensions": [
+      1313,
+      1198
+    ],
+    "transparent": true,
+    "request": "Only remove paper background from user-prepared sharpened image. No new sharpening, flattening, redrawing or title.",
+    "method": "Built-in image editing, background extraction only; checked A-J, labels, compass and road openings on white-composite QA.",
+    "futurePolicy": "User prepares sharpened map images. On request, scan Drive and list all map lesson titles with set/part."
   }
 }

@@ -24,6 +24,6 @@ Sau mỗi lượt liên quan Tủ Sách IELTS có yêu cầu/quyết định/lư
 
 Quy tắc đáp án mới hơn hướng dẫn practice/no-key ban đầu: người dùng đã yêu cầu lời giải và chấm Reading sau nộp. Đọc `import/answer-review/README.md`; key được review nằm ở `dist/answer-keys.json` và progress trong `import/answer-review/progress.json`. Chỉ bật key đầy đủ, đúng fingerprint, có evidence; thiếu key thì giữ ungraded. Không kết luận bài practice chưa có key chỉ vì lesson JSON không có trường key.
 
-## Listening maps — yêu cầu mới 22/10/2026
+## Listening maps — quy tắc thay thế ngày 22/10/2026
 
-Map có nguồn PAPER/ảnh chụp: làm phẳng phối cảnh, làm nét, xóa bóng/chữ xuyên từ mặt sau và tách nền trong suốt; giữ nguyên mọi đường đi, vị trí/ký hiệu/nhãn của nguồn. Map thuộc bản PDF vẽ lại: vẽ lại theo phong cách map IELTS (chữ Arial), giữ chính xác topology, vị trí và nội dung; sau đó tách nền và đưa lên web. Đây là quy tắc riêng cho map Listening theo yêu cầu người dùng, không áp lệnh cấm vẽ lại diagram Reading để bỏ qua bước vẽ lại PDF map. Kiểm đối chiếu A–J, compass, junctions/roundabout và nhãn trước khi publish; không để công cụ chỉnh ảnh làm thay đổi đường đi/đáp án.
+Người dùng không chấp nhận bản map trợ lý tự làm nét và đã gửi bản tự xử lý 131217.png. Từ nay không tự làm nét, làm phẳng hay dựng lại map thay người dùng. Khi người dùng hỏi danh sách map, rà soát đủ Drive (kể cả pagination) và đưa tên toàn bộ bài map, kèm set/part để phân biệt; người dùng chủ động làm nét ảnh rồi gửi lại. Với bản người dùng gửi, chỉ tách nền trong suốt, giữ nguyên hình/chữ/đường đi/vị trí, rồi đăng lên website khi được yêu cầu. Quy tắc này thay thế quy trình tự phục hồi PAPER và tự vẽ lại PDF map đã ghi trước đó. Không quét Drive ngay chỉ vì ghi chú quy tắc cho tương lai.
