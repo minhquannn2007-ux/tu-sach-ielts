@@ -8,8 +8,13 @@ html body .top-nav .audio-status{font-size:calc(13px * var(--exam-text-scale,1))
 html body .top-nav .audio-status:not(:empty)::before{content:'';display:inline-block;width:calc(11px * var(--exam-text-scale,1));height:calc(11px * var(--exam-text-scale,1));margin-right:6px;vertical-align:-1px;background:currentColor;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 9h4l5-4v14l-5-4H3zM15 8q5 4 0 8M18 5q8 7 0 14' fill='none' stroke='black' stroke-width='2'/%3E%3C/svg%3E") center/contain no-repeat}
 html body .top-nav .header-right{gap:0;flex:none}
 html body .top-nav .nav-icons{gap:calc(32px * var(--exam-text-scale,1));flex-wrap:nowrap}
-html body .top-nav .nav-icons>svg{width:calc(24px * var(--exam-text-scale,1))!important;height:calc(24px * var(--exam-text-scale,1))!important;stroke:currentColor;stroke-width:1.6;fill:none}
-/* Keep the running countdown available below the question navigation. */
-html body .nav-arrows>.nav-timer{position:absolute;top:auto;bottom:calc(100% + 10px);right:0;display:flex;gap:6px;align-items:baseline;white-space:nowrap;font:14px/1.2 Arial,Helvetica,sans-serif}
-html body .nav-arrows>.nav-timer strong{font-size:16px;margin:0}
+html body .top-nav .nav-icons>svg{width:calc(22px * var(--exam-text-scale,1))!important;height:calc(22px * var(--exam-text-scale,1))!important;stroke:currentColor;stroke-width:2.5;fill:none}
+/* Match the Reading toolbar glyphs, weights and rounded line ends. */
+html body .top-nav .nav-icons [aria-label="Connection"] path{d:path("M5 12.55a11 11 0 0 1 14.08 0M1.42 9a16 16 0 0 1 21.16 0M8.53 16.11a6 6 0 0 1 6.95 0M12 20h.01");stroke-linecap:round;stroke-linejoin:round}
+html body .top-nav .nav-icons [aria-label="Options"] line{stroke-linecap:round}
+html body .top-nav .nav-icons [aria-label="Notifications"]{stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+html body .top-nav .nav-icons [aria-label="Notes"]{width:calc(24px * var(--exam-text-scale,1))!important;height:calc(24px * var(--exam-text-scale,1))!important;stroke-linecap:round;stroke-linejoin:round}
+/* Listening has audio status instead of a visible countdown. Keep the timer
+   node for the existing audio/review controller, without showing or announcing it. */
+html body .nav-arrows>.nav-timer{display:none!important}
 @media(max-width:600px){html body .top-nav{padding-right:12px!important;gap:12px}html body .top-nav .nav-left{gap:14px}html body .top-nav .nav-icons{gap:12px}html body .top-nav .ielts-logo{width:72px}html body .top-nav .nav-taker{font-size:14px}html body .top-nav .audio-status{font-size:11px}}
