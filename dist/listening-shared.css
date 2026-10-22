@@ -1,0 +1,19 @@
+/* A placed answer owns its width; the border must enclose the whole phrase. */
+html body #qpanel .sample-drop.me-drop.filled,
+html body #qpanel .match-layout[data-choice-length="short"] .sample-drop.me-drop.filled{
+ width:max-content!important;min-width:var(--listening-drop-min,124px)!important;max-width:none!important;
+ height:auto!important;min-height:27px!important;flex:0 0 auto!important;
+ padding:2px 7px!important;line-height:1.4!important;white-space:nowrap!important;
+ display:inline-flex!important;align-items:center!important;box-sizing:border-box!important;
+}
+html body #qpanel .sample-drop.me-drop.filled .sample-filled{
+ position:static!important;display:inline!important;white-space:nowrap!important;overflow:visible!important;
+ width:auto!important;max-width:none!important;flex:none!important;text-overflow:clip!important;
+}
+html body #qpanel .match-layout .me-sentence{flex-wrap:wrap!important}
+html body #qpanel .match-layout>div:first-child{min-width:0;overflow-x:auto}
+html body #qpanel .flow-box{overflow-x:auto}
+html.listening-full-frame body .top-nav,html.listening-full-frame body .bottom-bar,
+html.listening-full-frame body .nav-arrows,html.listening-full-frame body #start-overlay,
+html.listening-full-frame body #buffering,html.listening-full-frame body .results{display:none!important}
+html.listening-full-frame body .qpanel{padding-bottom:50px}

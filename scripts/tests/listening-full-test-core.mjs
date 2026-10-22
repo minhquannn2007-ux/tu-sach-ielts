@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';import vm from 'node:vm';
+vm.runInThisContext(fs.readFileSync('dist/listening-full-test-core.js','utf8'));
+const C=globalThis.ListeningFullTestCore,map=new Map(),storage={getItem:k=>map.get(k)||null,setItem:(k,v)=>map.set(k,v),removeItem:k=>map.delete(k)};
+const catalog=JSON.parse(fs.readFileSync('dist/listening-catalog.json'));
+const chosen=C.select(catalog,storage,()=>0);assert.deepEqual(chosen.map(x=>x.part),[1,2,3,4]);assert(chosen.every(x=>x.count===10));assert.equal(map.size,0);
+for(const item of chosen)storage.setItem('listening-'+item.id+'-history',JSON.stringify([{completed:true}]));
+const fresh=C.select(catalog,storage,()=>0);assert(fresh.every((x,i)=>x.id!==chosen[i].id));
+for(const item of catalog)storage.setItem('listening-'+item.id+'-history',JSON.stringify([{completed:true}]));assert.equal(C.select(catalog,storage,()=>0).length,4);
+assert.throws(()=>C.select(catalog.filter(x=>x.part!==2),storage));
+map.clear();const set={id:'session-1',items:chosen,audioIndex:0,phase:'playing',reviewLeft:120};assert(C.valid(catalog,set));assert(!C.valid(catalog,{...set,audioIndex:4}));
+const snapshots=chosen.map((_,i)=>({answers:Object.fromEntries(Array.from({length:i===0?5:6},(_,j)=>[i*10+j+1,'answer']))}));storage.setItem(C.key,JSON.stringify(set));C.submit(storage,set,snapshots);assert.equal(storage.getItem(C.key),null);chosen.forEach((item,i)=>{const h=JSON.parse(storage.getItem('listening-'+item.id+'-history'));assert.equal(h.length,1);assert.equal(h[0].completed,i!==0)});C.submit(storage,set,snapshots,true);chosen.forEach(item=>assert.equal(JSON.parse(storage.getItem('listening-'+item.id+'-history')).length,1));
+console.log('PASS Listening random 4×10, fresh preference, exhausted fallback, draft validation, >5 completion, idempotent submission');
