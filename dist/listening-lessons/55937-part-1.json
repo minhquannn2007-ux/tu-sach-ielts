@@ -1,0 +1,33 @@
+{
+  "id": "55937-part-1",
+  "title": "Brown's Health and Fitness Club",
+  "part": 1,
+  "html": "<div class=\"task note-list\"><h3>Questions 1–7</h3><p class=\"instructions\">Complete the notes. Write <strong>NO MORE THAN TWO WORDS AND/OR A NUMBER</strong> for each answer.</p><h4 class=\"task-title\">Brown&#x27;s Health and Fitness Club</h4><div class=\"form-grid\"><div class=\"form-row \">Main gym:</div><div class=\"form-row \">holds about 50 people</div><div class=\"form-row \">Smaller gym:</div><div class=\"form-row \">for <input class=\"gap choice-gap\" data-q=\"1\" id=\"q1\" name=\"q1\" placeholder=\"1\" aria-label=\"Question 1\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"> only</div></div><div class=\"form-row section-heading\">New members see trainer for</div><div class=\"form-grid\"><div class=\"form-row \">Free consultation to:</div><div class=\"form-row \">gate <input class=\"gap choice-gap\" data-q=\"2\" id=\"q2\" name=\"q2\" placeholder=\"2\" aria-label=\"Question 2\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"></div><div class=\"form-row \"></div><div class=\"form-row \">Learn to use equipment</div><div class=\"form-row \"></div><div class=\"form-row \">Put together a <input class=\"gap choice-gap\" data-q=\"3\" id=\"q3\" name=\"q3\" placeholder=\"3\" aria-label=\"Question 3\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"></div><div class=\"form-row \">Futher meetings with trainer:</div><div class=\"form-row \">every <input class=\"gap choice-gap\" data-q=\"4\" id=\"q4\" name=\"q4\" placeholder=\"4\" aria-label=\"Question 4\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"></div><div class=\"form-row \">Swimming pool:</div><div class=\"form-row \">25 metres</div></div><div class=\"form-row section-heading\">Aerobics hall</div><div class=\"form-grid\"><div class=\"form-row \">Classes include:</div><div class=\"form-row \"><input class=\"gap choice-gap\" data-q=\"5\" id=\"q5\" name=\"q5\" placeholder=\"5\" aria-label=\"Question 5\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"></div><div class=\"form-row \"></div><div class=\"form-row \">Jazz dance</div><div class=\"form-row \"></div><div class=\"form-row \">Kick boxing</div></div><div class=\"form-row \"><input class=\"gap choice-gap\" data-q=\"6\" id=\"q6\" name=\"q6\" placeholder=\"6\" aria-label=\"Question 6\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"></div><div class=\"form-row section-heading\">Beauty salon:</div><div class=\"form-row \">Aromatherapy</div><div class=\"form-row \"><input class=\"gap choice-gap\" data-q=\"7\" id=\"q7\" name=\"q7\" placeholder=\"7\" aria-label=\"Question 7\" autocomplete=\"off\" spellcheck=\"false\" data-min-width=\"135\" style=\"--listening-gap-width:135px\"></div></div><div class=\"task note-list\"><h3>Questions 8–10</h3><p class=\"instructions\">Choose the correct answer.</p><div class=\"mc-question\" id=\"q8\" data-q=\"8\"><div class=\"mc-header\"><span class=\"mc-num\">8</span><span class=\"mc-stmt\">With Off-peak Gold membership you CANNOT use the club</span></div><div class=\"mc-options\"><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q8\" data-q=\"8\" value=\"A\" aria-label=\"Question 8, on weekday evenings.\"><span class=\"mc-radio-circ\"></span><span>on weekday evenings.</span></label><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q8\" data-q=\"8\" value=\"B\" aria-label=\"Question 8, at weekends.\"><span class=\"mc-radio-circ\"></span><span>at weekends.</span></label><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q8\" data-q=\"8\" value=\"C\" aria-label=\"Question 8, before 6 p.m.\"><span class=\"mc-radio-circ\"></span><span>before 6 p.m.</span></label></div></div><div class=\"mc-question\" id=\"q9\" data-q=\"9\"><div class=\"mc-header\"><span class=\"mc-num\">9</span><span class=\"mc-stmt\">With Silver membership you have to pay £5 extra</span></div><div class=\"mc-options\"><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q9\" data-q=\"9\" value=\"A\" aria-label=\"Question 9, for each visit to the club.\"><span class=\"mc-radio-circ\"></span><span>for each visit to the club.</span></label><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q9\" data-q=\"9\" value=\"B\" aria-label=\"Question 9, for extra classes.\"><span class=\"mc-radio-circ\"></span><span>for extra classes.</span></label><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q9\" data-q=\"9\" value=\"C\" aria-label=\"Question 9, for some facilities.\"><span class=\"mc-radio-circ\"></span><span>for some facilities.</span></label></div></div><div class=\"mc-question\" id=\"q10\" data-q=\"10\"><div class=\"mc-header\"><span class=\"mc-num\">10</span><span class=\"mc-stmt\">How much do Gold members have to pay each month?</span></div><div class=\"mc-options\"><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q10\" data-q=\"10\" value=\"A\" aria-label=\"Question 10, £250\"><span class=\"mc-radio-circ\"></span><span>£250</span></label><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q10\" data-q=\"10\" value=\"B\" aria-label=\"Question 10, £57\"><span class=\"mc-radio-circ\"></span><span>£57</span></label><label class=\"mc-opt-lbl\"><input type=\"radio\" name=\"q10\" data-q=\"10\" value=\"C\" aria-label=\"Question 10, £50\"><span class=\"mc-radio-circ\"></span><span>£50</span></label></div></div></div>",
+  "types": [
+    "Note Completion",
+    "Multiple Choice"
+  ],
+  "answerLabels": {
+    "8": {
+      "A": "on weekday evenings.",
+      "B": "at weekends.",
+      "C": "before 6 p.m."
+    },
+    "9": {
+      "A": "for each visit to the club.",
+      "B": "for extra classes.",
+      "C": "for some facilities."
+    },
+    "10": {
+      "A": "£250",
+      "B": "£57",
+      "C": "£50"
+    }
+  },
+  "coverKind": "gym",
+  "duration": 434.126792,
+  "audio": "assets/listening/55937/part1.ogg",
+  "bank": [],
+  "sourceReviewed": true,
+  "mapless": true
+}
