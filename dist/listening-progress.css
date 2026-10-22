@@ -1,0 +1,29 @@
+/* Listening reference footer: Reading's per-question states, four Full Test parts. */
+html body #footer.bottom-bar{height:54px!important;min-height:54px!important;display:flex;align-items:stretch;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;background:var(--exam-bg,#fff)!important;border:0!important}
+html body #footer .part-nav{flex:1 1 0!important;min-width:110px;display:flex;align-items:center;justify-content:center;gap:18px!important;padding:0 12px!important;font:400 calc(16px * var(--exam-text-scale,1))/1.2 Arial!important;background:var(--exam-bg,#fff)!important;color:var(--exam-fg,#202020)!important;border:0;position:relative}
+html body #footer .part-nav.active{min-width:max-content!important;justify-content:flex-start!important;gap:calc(36px * var(--exam-text-scale,1))!important;padding:0 22px!important}
+html body #footer .part-label,html body #footer .count{font:inherit!important;white-space:nowrap;margin:0!important;padding:0!important;color:inherit}
+html body #footer .active .part-label{font-weight:700!important}
+html body #footer .count{display:inline!important;color:#777!important}
+html body #footer .dots{display:flex!important;gap:3px!important;align-items:center;height:100%;flex:none}
+html body #footer .dot{font:400 calc(16px * var(--exam-text-scale,1))/22px Arial!important;height:calc(24px * var(--exam-text-scale,1))!important;min-width:calc(18px * var(--exam-text-scale,1))!important;width:auto!important;padding:0 2px!important;flex:none;border:1px solid transparent!important;border-radius:1px!important;outline:none!important;background:transparent!important;color:var(--exam-fg,#333)!important}
+html body #footer .dot.current{border-color:#418fc6!important;outline:1px solid #418fc6!important;outline-offset:0}
+html body #footer .dot:before,html body #footer .label-progress,html body #footer .complete-icon{display:none!important}
+html body #footer .listening-progress{position:absolute;top:0;left:0;right:0;height:3px;pointer-events:none;overflow:hidden}
+html body #footer .listening-progress span{position:absolute;top:0;height:3px;background:#d7d7d7}
+html body #footer .listening-progress span.done{background:#358e14}
+html body #footer .part-nav.complete:not(.active) .listening-progress{left:3px;right:3px;background:#358e14}
+html body #footer .part-nav.complete:not(.active) .count{display:none!important}
+html body #footer .part-nav.complete:not(.active) .part-label:before{content:'✔';color:#358e14;margin-right:7px}
+html body #footer .submit-tick{flex:0 0 76px!important;width:76px!important;align-self:stretch;border:0;border-radius:0;padding:0!important;background:#efefef!important;color:#555!important;font-size:0!important;display:flex;align-items:center;justify-content:center}
+html body #footer .submit-tick>svg{display:none}
+html body #footer .submit-tick:after{content:'';display:block;width:18px;height:18px;background:currentColor;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M3 10l4 4L17 4' fill='none' stroke='black' stroke-width='3.5'/%3E%3C/svg%3E") center/contain no-repeat}
+html[data-exam-dark] body #footer .count{color:var(--exam-fg)!important}
+html[data-exam-contrast="white-on-black"] body #footer .listening-progress span{background:#3e3e3e}
+html[data-exam-contrast="white-on-black"] body #footer .listening-progress span.done{background:#ca71eb}
+html[data-exam-contrast="white-on-black"] body #footer .dot.current{border-color:#ff8a00!important;outline-color:#ff8a00!important}
+html[data-exam-contrast="yellow-on-black"] body #footer .listening-progress span{background:#c1c1c1}
+html[data-exam-contrast="yellow-on-black"] body #footer .listening-progress span.done{background:#ff0dff}
+html[data-exam-contrast="yellow-on-black"] body #footer .dot.current{background:#808000!important;color:#000!important;font-weight:700!important;border-color:transparent!important;outline:none!important}
+html[data-exam-dark] body #footer .submit-tick{background:#171717!important;color:var(--exam-fg)!important}
+@media(max-width:800px){html body #footer .part-nav{min-width:95px;padding:0 8px!important;gap:8px!important}html body #footer .part-nav.active{padding:0 12px!important;gap:18px!important}html body #footer .submit-tick{flex-basis:54px!important;width:54px!important}}

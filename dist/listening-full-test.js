@@ -1,4 +1,5 @@
 (()=>{'use strict';
+ import('./listening-shared.js?v=footer-reference-0010');
  const C=ListeningFullTestCore,$=id=>document.getElementById(id),storage=localStorage;
  let set,frames=[],active=0,current=1,started=false,done=false,transitioning=false,starting=false,last=performance.now(),saving=false,unloading=false,footerSignature='';
  const api=i=>frames[i]?.contentWindow?.ListeningFrame;

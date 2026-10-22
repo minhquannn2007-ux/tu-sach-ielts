@@ -1,3 +1,4 @@
+@import url("listening-progress.css?v=reference-0010");
 @import url("exam-toolbar-icons.css?v=reference-2324");
 /* Listening toolbar reference: 53px at Regular, independent of question layout. */
 html body .top-nav{height:calc(53px * var(--exam-text-scale,1))!important;min-height:calc(53px * var(--exam-text-scale,1))!important;padding:0 calc(32px * var(--exam-text-scale,1)) 0 calc(16px * var(--exam-text-scale,1))!important;border-bottom:0;gap:24px}
@@ -6,7 +7,7 @@ html body .top-nav .ielts-logo{width:calc(94px * var(--exam-text-scale,1));heigh
 html body .top-nav .taker-stack{align-self:center;font:calc(16px * var(--exam-text-scale,1))/1.2 Arial,Helvetica,sans-serif}
 html body .top-nav .nav-taker{font-size:inherit;font-weight:700;white-space:nowrap}
 html body .top-nav .audio-status{font-size:calc(13px * var(--exam-text-scale,1));line-height:calc(16px * var(--exam-text-scale,1));min-height:calc(16px * var(--exam-text-scale,1));white-space:nowrap}
-html body .top-nav .audio-status:not(:empty)::before{content:'';display:inline-block;width:calc(11px * var(--exam-text-scale,1));height:calc(11px * var(--exam-text-scale,1));margin-right:5px;vertical-align:-1px;background:currentColor;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 9h4l5-4v14l-5-4H3z' fill='black'/%3E%3Cpath d='M15 8q5 4 0 8M18 5q8 7 0 14' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat}
+html body .top-nav .audio-status:not(:empty)::before{content:'';display:inline-block;width:calc(16px * var(--exam-text-scale,1));height:calc(16px * var(--exam-text-scale,1));margin-right:5px;vertical-align:-3px;background:currentColor;mask:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M3 9h4l5-4v14l-5-4H3z' fill='black'/%3E%3Cpath d='M15 8q5 4 0 8M18 5q8 7 0 14' fill='none' stroke='black' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E") center/contain no-repeat}
 html body .top-nav .header-right{gap:0;flex:none}
 html body .top-nav .nav-icons{gap:calc(32px * var(--exam-text-scale,1));flex-wrap:nowrap}
 html body .top-nav .nav-icons>svg{width:calc(22px * var(--exam-text-scale,1))!important;height:calc(22px * var(--exam-text-scale,1))!important;stroke:currentColor;stroke-width:2.5;fill:none}
