@@ -1,0 +1,14 @@
+/* Shared Reading/Listening toolbar proportions, reviewed against 22 Oct references.
+   Size the painted glyphs independently; retain existing keyboard and menu handlers. */
+html body .top-nav .nav-icons.nav-icons{gap:calc(28px * var(--exam-text-scale,1));align-items:center}
+html body .top-nav .nav-icons.nav-icons>svg{flex:none;color:var(--exam-fg,#222);fill:none;stroke:currentColor}
+html body .top-nav .nav-icons.nav-icons>svg:first-child{width:calc(28px * var(--exam-text-scale,1))!important;height:calc(28px * var(--exam-text-scale,1))!important;stroke-width:2.5}
+html body .top-nav .nav-icons.nav-icons>svg:first-child path{d:path("M5 12.55a11 11 0 0 1 14.08 0M1.42 9a16 16 0 0 1 21.16 0M8.53 16.11a6 6 0 0 1 6.95 0M12 20h.01");stroke-linecap:round;stroke-linejoin:round}
+html body .top-nav .nav-icons.nav-icons>svg:nth-child(2){width:calc(28px * var(--exam-text-scale,1))!important;height:calc(28px * var(--exam-text-scale,1))!important;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+html body .top-nav .nav-icons.nav-icons>svg:nth-child(2) path{d:path("M12 2v2M18 9a6 6 0 0 0-12 0c0 6-2 7-3 9h18c-1-2-3-3-3-9M10.5 21a1.5 1.5 0 0 0 3 0");stroke-width:1.4}
+html body .top-nav .nav-icons.nav-icons>[data-exam-options],
+html body .top-nav .nav-icons.nav-icons>[aria-label="Options"]{width:calc(26px * var(--exam-text-scale,1))!important;height:calc(26px * var(--exam-text-scale,1))!important;stroke-width:2.5}
+html body .top-nav .nav-icons.nav-icons>[data-exam-options] line,
+html body .top-nav .nav-icons.nav-icons>[aria-label="Options"] line{stroke-linecap:butt}
+html body .top-nav .nav-icons.nav-icons>[aria-label="Notes"]{width:calc(24px * var(--exam-text-scale,1))!important;height:calc(24px * var(--exam-text-scale,1))!important}
+@media(max-width:600px){html body .top-nav .nav-icons.nav-icons{gap:12px}}

@@ -1,3 +1,4 @@
+@import url("exam-toolbar-icons.css?v=reference-2324");
 /* Only exam pages load this stylesheet; home and duration setup stay unchanged. */
 html[data-exam-contrast]{--exam-bg:#fff;--exam-fg:#000;--exam-line:#c1c1c1;--exam-menu-icon:#c1c1c1;--exam-text-scale:1}
 html[data-exam-contrast="white-on-black"]{--exam-bg:#000;--exam-fg:#fff;--exam-selected:#44270f;--exam-focus:#ff8a00;--exam-accent:#ff8a00;--exam-highlight:#ffff99;--exam-progress:#ca71eb;--exam-footer:#101010;--exam-note-panel:#171717;--exam-note-border:#b202c9;--exam-note-edit-border:#b46f3a;--exam-note-delete:#ff8a00;--exam-radio-bg:#000;--exam-current-bg:#000}
