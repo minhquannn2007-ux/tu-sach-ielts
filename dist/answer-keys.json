@@ -29007,6 +29007,1709 @@
     },
     "lessonSha256": "13529f45bcb6e10457b3176c33ac6af5c95f24ae1a2e3933d3a982cb645d4204"
   },
+  "p3-200-years-of-australian-landscapes-at-the-royal-academy-in-london": {
+    "lessonId": "p3-200-years-of-australian-landscapes-at-the-royal-academy-in-london",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a flexible, wide-ranging notion of landscape"
+          }
+        ],
+        "explanation": "Tác phẩm thể hiện cách hiểu rộng và linh hoạt về phong cảnh, trái với narrow interpretation."
+      },
+      "28": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "British artistic values have directed this exhibition"
+          }
+        ],
+        "explanation": "Có nhận xét về ảnh hưởng của giá trị nghệ thuật Anh nhưng không nói Academy đã bác đề xuất nào của Australia."
+      },
+      "29": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "it would reflect Britain's devotion to the beloved landscape"
+          }
+        ],
+        "explanation": "Quan hệ thuộc địa khiến nghệ thuật Australia giai đoạn đầu phản ánh truyền thống phong cảnh Anh."
+      },
+      "30": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Australian art develops a real distinctiveness"
+          }
+        ],
+        "explanation": "Soriano muốn triển lãm thể hiện bản sắc riêng mà nghệ thuật Australia đã phát triển."
+      },
+      "31": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "British landscape painting is still relevant to a current generation of Australian practitioners"
+          }
+        ],
+        "explanation": "Truyền thống phong cảnh Anh vẫn có ảnh hưởng tới các nghệ sĩ hiện nay, dù gián tiếp."
+      },
+      "32": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "British artistic values have directed this exhibition"
+          }
+        ],
+        "explanation": "Đoạn hai đặt vấn đề Anh vẫn dùng hệ giá trị của mình để định hướng nghệ thuật Australia."
+      },
+      "33": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the underlying rules for selection of works seemed to have been so conservative"
+          }
+        ],
+        "explanation": "Mendelssohn ngạc nhiên vì tiêu chí chọn tác phẩm quá bảo thủ, truyền thống."
+      },
+      "34": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "I wanted to make it personal"
+          }
+        ],
+        "explanation": "Gladwell biến truyền thống phong cảnh thành trải nghiệm mang tính cá nhân qua văn hóa biển và trượt ván."
+      },
+      "35": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "seen as part of Australian art history, rather than a separate exhibition on its own"
+          }
+        ],
+        "explanation": "Soriano muốn nghệ thuật bản địa được nhìn nhận trong lịch sử nghệ thuật Australia chung."
+      },
+      "36": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "London is increasingly less important to today’s generation of artists"
+          }
+        ],
+        "explanation": "Ví dụ về Trung Quốc cho thấy London không còn giữ tầm quan trọng như trước."
+      },
+      "37": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the Academy is nevertheless embracing the peculiarities of Australian art"
+          }
+        ],
+        "explanation": "Dù bảo thủ, triển lãm vẫn chấp nhận những nét đặc thù của nghệ thuật Australia."
+      },
+      "38": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the influence of English, French or German art is much more evident in the early periods"
+          }
+        ],
+        "explanation": "Nghệ thuật đầu đến giữa thế kỷ XIX thể hiện rõ ảnh hưởng châu Âu."
+      },
+      "39": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "atmosphere affecting vision"
+          }
+        ],
+        "explanation": "Tác phẩm của Gladwell phản ánh bầu không khí và tác động của môi trường tự nhiên lên thị giác."
+      },
+      "40": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "Aboriginal art started in and on the landscape"
+          }
+        ],
+        "explanation": "Đưa nghệ thuật bản địa vào triển lãm ghi nhận mối quan hệ lịch sử giữa nghệ thuật và đất đai."
+      }
+    },
+    "lessonSha256": "8bf3e9128d13d37b89d62f27d632a4d4f80b62927208554b498c48be4b1c5b0c"
+  },
+  "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages": {
+    "lessonId": "p3-a-closer-examination-of-a-study-on-verbal-and-non-verbal-messages",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "tone of voice carried more meaning than the individual words"
+          }
+        ],
+        "explanation": "Nghiên cứu so sánh tác động của các kênh giao tiếp bằng lời và không lời."
+      },
+      "28": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "had to guess the speaker's emotions"
+          }
+        ],
+        "explanation": "Cả hai thí nghiệm đều yêu cầu nhận diện cảm xúc được truyền đạt."
+      },
+      "29": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "photos of female faces expressing the same three emotions"
+          }
+        ],
+        "explanation": "Thí nghiệm đầu so sánh giọng nói với nét mặt trong ảnh."
+      },
+      "30": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Three words had positive meanings"
+          }
+        ],
+        "explanation": "Thí nghiệm hai kết hợp ngữ điệu và ý nghĩa của các từ."
+      },
+      "31": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The first is that the entire study involved only 62 subjects"
+          }
+        ],
+        "explanation": "Tác giả trực tiếp coi cỡ mẫu nhỏ là hạn chế đầu tiên."
+      },
+      "32": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the findings may simply be a product of the nature of the sample"
+          }
+        ],
+        "explanation": "Đặc điểm nền tảng quá đồng đều là nguy cơ gây lệch kết quả, không phải lợi thế."
+      },
+      "33": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "pieced together from two different experiments"
+          }
+        ],
+        "explanation": "Tác giả phê bình việc ghép kết quả hai thí nghiệm nhưng không đề nghị đảo thứ tự thực hiện."
+      },
+      "34": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Clearly, such a methodology lacks validity"
+          }
+        ],
+        "explanation": "Chọn từ trung tính khiến tác động của nội dung lời nói không được đánh giá hợp lệ."
+      },
+      "35": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "people communicate in a particular context and speak in phrases and full-blown sentences"
+          }
+        ],
+        "explanation": "Tác giả bàn về ngữ cảnh và câu hoàn chỉnh, không nói cần nghiên cứu nhiều ngôn ngữ."
+      },
+      "36": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "one appealing aspect of the Mehrabian study is its numerical precision"
+          }
+        ],
+        "explanation": "Những con số chính xác làm kết luận hấp dẫn và có vẻ dễ tin hơn."
+      },
+      "37": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "encouraging people to believe in the overwhelming importance of the non-verbal message compared with the verbal one"
+          }
+        ],
+        "explanation": "Sự phổ biến của công thức dẫn đến đánh giá quá cao thông điệp không lời và xem nhẹ ngôn ngữ."
+      },
+      "38": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "it would be wasteful to spend time learning a language"
+          }
+        ],
+        "explanation": "Bradley dùng lập luận phản chứng: nếu ngôn ngữ ít quan trọng như vậy thì không cần bỏ công học nó."
+      },
+      "39": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 10,
+            "quote": "dealt with communications of feelings and attitudes"
+          }
+        ],
+        "explanation": "Mehrabian giới hạn phát hiện trong giao tiếp cảm xúc, thái độ; không áp dụng cho mọi thông điệp."
+      },
+      "40": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 11,
+            "quote": "Others try to play down the specific percentages"
+          }
+        ],
+        "explanation": "Đoạn này trình bày nhiều cách diễn giải: giữ ngữ cảnh, giảm nhấn mạnh tỷ lệ hoặc dùng số liệu không giới hạn."
+      }
+    },
+    "lessonSha256": "2f48a482cc67b1d9e8f27cef86aa2d9b6d75470553cc4e01d82027643943cbb4"
+  },
+  "p2-a-great-leap-forward": {
+    "lessonId": "p2-a-great-leap-forward",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "40 millimetres",
+          "40 millimeters"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "perhaps 40 millimetres long"
+          }
+        ],
+        "explanation": "Chiều dài được nêu là khoảng 40 millimetres; cần giữ đơn vị vì câu tóm tắt không có đơn vị sẵn."
+      },
+      "15": {
+        "accepted": [
+          "croaking"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "can be heard croaking to one another"
+          }
+        ],
+        "explanation": "Các loài ếch thường liên lạc bằng tiếng kêu croaking."
+      },
+      "16": {
+        "accepted": [
+          "eardrums"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "they have lost their eardrums"
+          }
+        ],
+        "explanation": "Do sống im lặng, ếch bản địa đã mất màng nhĩ."
+      },
+      "17": {
+        "accepted": [
+          "webs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "their tiny feet have no webs between their toes"
+          }
+        ],
+        "explanation": "Không sống dưới nước nên chúng không có màng giữa các ngón chân."
+      },
+      "18": {
+        "accepted": [
+          "tadpole"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Since a tadpole cannot move or survive on dry land, this stage is absent"
+          }
+        ],
+        "explanation": "Chúng bỏ qua giai đoạn nòng nọc vì sống trên cạn."
+      },
+      "19": {
+        "accepted": [
+          "males",
+          "male"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "incubated by the males"
+          }
+        ],
+        "explanation": "Ếch đực ấp trứng và mang ếch con trên lưng; trong câu tóm tắt cần danh từ số nhiều males."
+      },
+      "20": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "patterns and colouration unique to each frog"
+          }
+        ],
+        "explanation": "Đoạn G mô tả chụp màu sắc, hoa văn để phân biệt từng cá thể thay cho cắt ngón."
+      },
+      "21": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "In 1997, however, the Department of Conservation moved 300 to Motuara Island"
+          }
+        ],
+        "explanation": "Đoạn D lần lượt trình bày các lần chuyển ếch sang đảo và trở về đất liền."
+      },
+      "22": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "provide a lifeboat for the prehistoric frogs"
+          }
+        ],
+        "explanation": "New Zealand trồi lên đúng lúc tạo nơi trú cho ếch cổ, giúp chúng thoát tuyệt chủng."
+      },
+      "23": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "New Zealand native frogs are a very different creature"
+          }
+        ],
+        "explanation": "Đoạn B so sánh ếch nhập từ Australia với ếch bản địa New Zealand."
+      },
+      "24": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Do mice impact frogs directly through predation?"
+          }
+        ],
+        "explanation": "Đoạn F liệt kê những câu hỏi nghiên cứu về tác động của chuột lên các giai đoạn sống và sinh sản."
+      },
+      "25": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Rats, mice, and other four-legged enemies such as stoats and weasels all but wiped out the frogs"
+          }
+        ],
+        "explanation": "Động vật hoang dã như chuột và chồn là mối đe dọa được nhắc đến."
+      },
+      "26": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "tested for the lethal chytrid fungus"
+          }
+        ],
+        "explanation": "Nấm chytrid gây chết là mối đe dọa do bệnh tật; hai lựa chọn được chấm không phụ thuộc thứ tự."
+      }
+    },
+    "lessonSha256": "a37c80e97e3cfe6d1bbd9012a81ed3786653edfc2859e88ecac09a5a6a0c75bf"
+  },
+  "p2-a-history-of-early-inventions": {
+    "lessonId": "p2-a-history-of-early-inventions",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "they were all dwarfs when compared with Archimedes"
+          }
+        ],
+        "explanation": "Đoạn C đánh giá Archimedes vượt trội so với các nhà sáng chế khác."
+      },
+      "15": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the climate and the annual flooding of fertile soils favoured the development of agriculture"
+          }
+        ],
+        "explanation": "Khí hậu và đất đai thúc đẩy nông nghiệp, rồi sự phát triển đô thị ở đông Địa Trung Hải."
+      },
+      "16": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "there was little about the period between the fifth and tenth century that was dark or backward"
+          }
+        ],
+        "explanation": "Đoạn D bác cách gọi Dark Ages vì thời kỳ ấy vẫn có nhiều đổi mới."
+      },
+      "17": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "first to keep track of trading arrangements, then to communicate and record events, processes, philosophies"
+          }
+        ],
+        "explanation": "Đoạn B liệt kê các chức năng đầu tiên của chữ viết."
+      },
+      "18": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "used observations and measurements of the physical and natural world to design inventions"
+          }
+        ],
+        "explanation": "Hero, Strato, Cresibus và Philon quan sát, đo lường để sáng chế."
+      },
+      "19": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the invention of animal husbandry and agriculture"
+          }
+        ],
+        "explanation": "Chăn nuôi và nông nghiệp giúp người du mục định cư trong các thị trấn."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The single largest step in early man's social evolution"
+          }
+        ],
+        "explanation": "Nông nghiệp được xem là bước tiến lớn nhất trong tiến hóa xã hội thời sơ khai."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "This prompted barter methods to evolve into more sophisticated trading arrangements, culminating in the invention of early money"
+          }
+        ],
+        "explanation": "Sản xuất hàng hóa dẫn đến trao đổi phát triển và cuối cùng là tiền tệ."
+      },
+      "22": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "The stability of their rule allowed paper"
+          }
+        ],
+        "explanation": "Sự cai trị ổn định và coi trọng kỹ thuật tạo điều kiện phát minh giấy."
+      },
+      "23": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "The invaders are thought to have spread the use of stirrups, saddles and metal mouthpieces"
+          }
+        ],
+        "explanation": "Trang bị cưỡi ngựa được truyền đến bởi các bộ tộc xâm nhập."
+      },
+      "24": {
+        "accepted": [
+          "necessity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "periods of invention for the sake of necessity"
+          }
+        ],
+        "explanation": "Các phát minh trong hai thiên niên kỷ trước Công nguyên xuất phát từ nhu cầu."
+      },
+      "25": {
+        "accepted": [
+          "creativity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "when creativity ceased"
+          }
+        ],
+        "explanation": "Quan niệm sai lầm cho rằng sức sáng tạo chấm dứt sau khi đế quốc La Mã sụp đổ."
+      },
+      "26": {
+        "accepted": [
+          "grain"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "new agricultural techniques had resulted in grain surpluses"
+          }
+        ],
+        "explanation": "Kỹ thuật nông nghiệp mới tạo ra lượng ngũ cốc dư thừa."
+      }
+    },
+    "lessonSha256": "04038574097e011c726df2413598ed4e7e662c79a6c14ff061e31df7c2f663d4"
+  },
+  "p3-a-history-of-pirates": {
+    "lessonId": "p3-a-history-of-pirates",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Sales receipts have been lost"
+          }
+        ],
+        "explanation": "Không có số tiền nhuận bút hay thu nhập của Johnson; mất biên lai không chứng minh ông nhận ít tiền."
+      },
+      "28": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "British newspapers at the time were filled with accounts of piracy and pirate trials"
+          }
+        ],
+        "explanation": "Báo đương thời có rất nhiều tin về cướp biển, trái với thông tin in ấn hạn chế."
+      },
+      "29": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "within a few months a second edition was published and more soon followed"
+          }
+        ],
+        "explanation": "Sách nhanh chóng có ấn bản tiếp theo, cho thấy được đón nhận ngay."
+      },
+      "30": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Captain Johnson created the modern conception of pirates"
+          }
+        ],
+        "explanation": "Tác giả khẳng định Johnson định hình hình ảnh cướp biển hiện đại."
+      },
+      "31": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "inspired later generations of writers and film-makers"
+          }
+        ],
+        "explanation": "Thời kỳ Golden Age được nhắc trong phần giải thích di sản và ảnh hưởng của cuốn sách."
+      },
+      "32": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "it has struggled to maintain its reputation with the modern reader"
+          }
+        ],
+        "explanation": "Tiểu thuyết của Scott từng nổi tiếng nhưng suy giảm sức hút với độc giả hiện đại."
+      },
+      "33": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "it has tended to give a fictitious air to all stories about pirates"
+          }
+        ],
+        "explanation": "Phim ưu tiên giải trí và làm hình ảnh cướp biển trở nên hư cấu."
+      },
+      "34": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the majority of facts in Johnson's History have been proved remarkably accurate"
+          }
+        ],
+        "explanation": "Ý chính là phần lớn chi tiết trong sách phù hợp đáng ngạc nhiên với sử liệu."
+      },
+      "35": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "his name was an assumed one"
+          }
+        ],
+        "explanation": "Không tìm thấy cáo phó nên có khả năng Captain Charles Johnson là tên giả."
+      },
+      "36": {
+        "accepted": [
+          "I"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "dedicated himself to building up the fortunes of the publishing company"
+          }
+        ],
+        "explanation": "Rivington là nhà kinh doanh chuyên tâm và không đi khỏi London nên khó là tác giả."
+      },
+      "37": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Defoe spent much of his colourful life making journeys all around the world"
+          }
+        ],
+        "explanation": "Việc Defoe đi nhiều nơi là căn cứ cho giả thuyết ông viết cuốn sách."
+      },
+      "38": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "they questioned the reliability of his scholarship"
+          }
+        ],
+        "explanation": "Moore bị phê bình về phương pháp học thuật, đặc biệt việc nối các lập luận thiếu liên hệ logic."
+      },
+      "39": {
+        "accepted": [
+          "J"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "he sometimes shows an admiration for the pirates and an understanding of their lifestyles"
+          }
+        ],
+        "explanation": "Thái độ cảm thông, ngưỡng mộ cướp biển gợi ý tác giả từng là một người trong số họ."
+      },
+      "40": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "he understood the workings of the ships he describes"
+          }
+        ],
+        "explanation": "Kiến thức thực tế về tàu cho thấy tác giả có kinh nghiệm đi biển."
+      }
+    },
+    "lessonSha256": "1ac95b8196c454418dfcac8e11aa321f359903ce51f08b3ff4836367f485abd4"
+  },
+  "p2-a-mechanical-friend-for-children": {
+    "lessonId": "p2-a-mechanical-friend-for-children",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "While hugging of QRIO increased, hugging of Robby decreased"
+          }
+        ],
+        "explanation": "Đoạn D đối chiếu phản ứng của trẻ với robot QRIO và đồ chơi đối chứng Robby."
+      },
+      "15": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "approximate social skills like facial expression and eye gaze"
+          }
+        ],
+        "explanation": "Đoạn F dự đoán robot giao tiếp qua nét mặt, ánh mắt và phản ứng với tín hiệu xã hội."
+      },
+      "16": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "At first, the toddlers would touch the robot on its face, but later on they would touch it only on its hands and arms"
+          }
+        ],
+        "explanation": "Đoạn D mô tả cách chạm robot thay đổi theo thời gian."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "in sharp contrast to the long-term interactions and bonding that commonly develop between humans and their pets"
+          }
+        ],
+        "explanation": "Đoạn A so sánh sự gắn bó ngắn với robot và lâu dài với thú nuôi."
+      },
+      "18": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The researchers sent instructions to the robot about every two minutes"
+          }
+        ],
+        "explanation": "Đoạn C mô tả cách điều khiển robot và thay đổi mức đa dạng hành vi."
+      },
+      "19": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "endow machines with something similar to emotion"
+          }
+        ],
+        "explanation": "Movellan cho rằng máy cần khả năng tương tự cảm xúc ngoài trí thông minh truyền thống."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "researchers do not yet understand the consequences of increased human/robot interaction"
+          }
+        ],
+        "explanation": "Arkin cảnh báo chưa rõ tác động xã hội của tăng tiếp xúc với robot."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "they have no preconceived notions of robots"
+          }
+        ],
+        "explanation": "Tanaka giải thích trẻ rất nhỏ chưa có quan niệm sẵn về robot."
+      },
+      "22": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "make appropriate responses from a broad repertoire of behaviors"
+          }
+        ],
+        "explanation": "Powers nhấn mạnh phản ứng thích hợp từ tập hành vi đa dạng."
+      },
+      "23": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "It could have great potential in educational settings, assisting teachers and enriching the classroom environment"
+          }
+        ],
+        "explanation": "Tanaka nêu lợi ích tiềm năng trong giáo dục."
+      },
+      "24": {
+        "accepted": [
+          "storytellers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "The most successful robots so far have been storytellers"
+          }
+        ],
+        "explanation": "Robot kể chuyện từng giữ sự quan tâm tốt nhất."
+      },
+      "25": {
+        "accepted": [
+          "peer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the children progressively treated it more as a peer than a plaything"
+          }
+        ],
+        "explanation": "Trẻ dần coi robot là bạn ngang hàng hơn là đồ chơi."
+      },
+      "26": {
+        "accepted": [
+          "affection"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Arkin was not surprised by the affection demonstrated by the toddlers toward the robot"
+          }
+        ],
+        "explanation": "Arkin đã dự đoán trẻ sẽ có tình cảm với robot."
+      }
+    },
+    "lessonSha256": "8f7c7701a5358e27dcc83bf0ce7c353c52e5b4e36b7f32687183d9700b66b1fd"
+  },
+  "p3-a-most-unusual-theatre": {
+    "lessonId": "p3-a-most-unusual-theatre",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "may even surpass, the National Theatre in London"
+          }
+        ],
+        "explanation": "Curve có thể vượt thành tựu kỹ thuật của những nhà hát danh tiếng."
+      },
+      "28": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "When a city this size commits £61m to a single arts building, people take notice"
+          }
+        ],
+        "explanation": "Khoản chi lớn cho một công trình nghệ thuật ở thành phố nhỏ gây chú ý."
+      },
+      "29": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "urban regeneration in the centre"
+          }
+        ],
+        "explanation": "Cụm lights the touch-paper nói đến khởi động cải tạo đô thị ở khu trung tâm."
+      },
+      "30": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "set a new benchmark in terms of how a theatre is perceived"
+          }
+        ],
+        "explanation": "Thiết kế này thay đổi quan niệm về một nhà hát."
+      },
+      "31": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the usual demarcations between on-stage and backstage"
+          }
+        ],
+        "explanation": "Ranh giới sân khấu, hậu trường và công chúng bị xóa; hoạt động bên trong được phô bày."
+      },
+      "32": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the building's glass front"
+          }
+        ],
+        "explanation": "Vật liệu trong suốt được dùng để xây mặt ngoài."
+      },
+      "33": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "passers-by can see stagehands at work"
+          }
+        ],
+        "explanation": "Nâng phần vách cho người đi đường thấy hoạt động hậu trường."
+      },
+      "34": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the great pantechnicon transporter reverses in across the public floor"
+          }
+        ],
+        "explanation": "Xe vận chuyển lớn có thể lùi thẳng vào nhà hát."
+      },
+      "35": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "actors walk across a public section of the ground floor"
+          }
+        ],
+        "explanation": "Diễn viên đã xuất hiện trước công chúng ngay khi rời phòng thay đồ."
+      },
+      "36": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "stage areas and seating adjusted"
+          }
+        ],
+        "explanation": "Điều chỉnh màn, khu vực sân khấu và chỗ ngồi cho phép nhiều trải nghiệm sân khấu."
+      },
+      "37": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "give the theatre regional pre-eminence and pulling power"
+          }
+        ],
+        "explanation": "Dự báo sức hút trong vùng không khẳng định nhà hát khác sẽ đóng cửa vì Curve."
+      },
+      "38": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "it repeats aspects of the sweeping formal bravado of Viñoly's Tokyo International Forum"
+          }
+        ],
+        "explanation": "Tác giả so sánh Curve với công trình ở Tokyo và Philadelphia."
+      },
+      "39": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "if the outraged protests die out"
+          }
+        ],
+        "explanation": "Phản đối gay gắt kế hoạch Battersea trái với việc được công chúng ưa thích."
+      },
+      "40": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "He's got what he wanted, a theatre without boundaries: what will he do with it?"
+          }
+        ],
+        "explanation": "Biết Kerryson muốn nhà hát không ranh giới nhưng bài không mô tả phong cách dàn dựng để xác nhận độ phù hợp."
+      }
+    },
+    "lessonSha256": "397a1eeafe520cb060f409f71c3fe381b70e202e7443e29e05c52461079fc1d2"
+  },
+  "p2-a-new-way-of-reading": {
+    "lessonId": "p2-a-new-way-of-reading",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "dictation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "As this dictation sounded like an uninterrupted series of letters"
+          }
+        ],
+        "explanation": "Tác giả đọc cho người chép ghi lại, tức dictation."
+      },
+      "15": {
+        "accepted": [
+          "spaces"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Text was produced without spaces up until the 11th century"
+          }
+        ],
+        "explanation": "Văn bản trước thế kỷ XI không có khoảng cách giữa các từ."
+      },
+      "16": {
+        "accepted": [
+          "males"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "it was restricted to males exclusively"
+          }
+        ],
+        "explanation": "Ở châu Âu thế kỷ XV kỹ năng viết chỉ có ở nam giới theo bài."
+      },
+      "17": {
+        "accepted": [
+          "vocabulary"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the vocabulary of the average person expanded"
+          }
+        ],
+        "explanation": "Công nghệ in làm vốn từ của người bình thường tăng."
+      },
+      "18": {
+        "accepted": [
+          "Laws"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Laws were compiled into official publications"
+          }
+        ],
+        "explanation": "Luật pháp được tập hợp thành ấn phẩm chính thức."
+      },
+      "19": {
+        "accepted": [
+          "library"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a library in three quarters of all small towns in America"
+          }
+        ],
+        "explanation": "Thư viện là tiện ích phổ biến ở các thị trấn Mỹ năm 1910."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "even pockets, briefcases and dashboards"
+          }
+        ],
+        "explanation": "Đoạn C nêu các vị trí cho thấy màn hình nhỏ có thể mang đi khắp nơi."
+      },
+      "21": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "screens will routinely follow our eyes"
+          }
+        ],
+        "explanation": "Đoạn G dự đoán màn hình sẽ theo dõi ánh mắt và sự chú ý."
+      },
+      "22": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Educators were worried that the TV generation would be unable to write"
+          }
+        ],
+        "explanation": "Đoạn D nêu lo ngại của nhà giáo về ảnh hưởng của tivi lên kỹ năng viết."
+      },
+      "23": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "reveals its price, origins and even relevant comments by other purchasers"
+          }
+        ],
+        "explanation": "Quét mã vạch cho người mua biết giá, xuất xứ và nhận xét."
+      },
+      "24": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "launched an epidemic of writing that continues to swell"
+          }
+        ],
+        "explanation": "Đoạn D mô tả máy tính và điện thoại làm lượng nội dung viết tăng mạnh."
+      },
+      "25": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "fluency in all kinds of symbols, not just letters"
+          }
+        ],
+        "explanation": "Đọc trên màn hình đòi hỏi hiểu nhiều dạng ký hiệu chứ không riêng bảng chữ cái."
+      },
+      "26": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Screens engage our bodies"
+          }
+        ],
+        "explanation": "Màn hình cảm ứng yêu cầu thao tác và tương tác cơ thể; hai lựa chọn không phụ thuộc thứ tự."
+      }
+    },
+    "lessonSha256": "456af1ffc32988073227c5a03c573bc8eaebed0c1dfb3aff05d3c45841433cab"
+  },
+  "p2-a-report-on-the-state-of-the-music-market-2007": {
+    "lessonId": "p2-a-report-on-the-state-of-the-music-market-2007",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "this is a continuous process"
+          }
+        ],
+        "explanation": "Đoạn A nói ngành âm nhạc liên tục thử nghiệm và thích nghi với môi trường số."
+      },
+      "15": {
+        "accepted": [
+          "ix"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "it is wholly incorporated into all the products being offered and planned"
+          }
+        ],
+        "explanation": "Kỹ thuật số được tích hợp hoàn toàn vào hoạt động và sản phẩm của hãng đĩa."
+      },
+      "16": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Consumers have more choice than ever"
+          }
+        ],
+        "explanation": "Đoạn C tập trung vào lựa chọn, khả năng tiếp cận và tiện ích cho người mua nhạc."
+      },
+      "17": {
+        "accepted": [
+          "x"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the advances of technology have brought huge challenges"
+          }
+        ],
+        "explanation": "Đoạn D liệt kê nhiều trở ngại của ngành nhạc số."
+      },
+      "18": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "requiring more sophisticated anti-piracy enforcement strategies"
+          }
+        ],
+        "explanation": "Đoạn E trình bày cách chống vi phạm bản quyền, trở ngại lớn nhất của ngành."
+      },
+      "19": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "resulting in a worldwide overall market decline in 2007"
+          }
+        ],
+        "explanation": "Đoạn F tổng kết doanh số và mức suy giảm chung của thị trường năm 2007."
+      },
+      "20": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the case of Japan"
+          }
+        ],
+        "explanation": "Đoạn G phác họa riêng thị trường nhạc số Nhật Bản."
+      },
+      "21": {
+        "accepted": [
+          "games"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "except games"
+          }
+        ],
+        "explanation": "Trò chơi là lĩnh vực giải trí có thị phần trực tuyến cao hơn âm nhạc."
+      },
+      "22": {
+        "accepted": [
+          "music catalogues",
+          "catalogues"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "vast music catalogues that are far more extensive than the ones produced by traditional retail stores"
+          }
+        ],
+        "explanation": "Danh mục nhạc trực tuyến phong phú hơn danh mục cửa hàng truyền thống; cả dạng có và không có music đều phù hợp."
+      },
+      "23": {
+        "accepted": [
+          "storage capacity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "their enormous storage capacity"
+          }
+        ],
+        "explanation": "Dung lượng lưu trữ lớn cho phép mang theo toàn bộ bộ sưu tập nhạc."
+      },
+      "24": {
+        "accepted": [
+          "financial value"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "damaged consumers’ perception of its financial value"
+          }
+        ],
+        "explanation": "Khả năng truy cập quá dễ làm người tiêu dùng đánh giá thấp giá trị tài chính của âm nhạc."
+      },
+      "25": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "full-track mobile downloads, as opposed to single ringtones, are the leading digital format"
+          }
+        ],
+        "explanation": "Tải cả bài hát là định dạng dẫn đầu, vượt kiểu trích đoạn như nhạc chuông."
+      },
+      "26": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "is today the leading provider of content to mobile operators"
+          }
+        ],
+        "explanation": "Dịch vụ bán lẻ chung do các hãng đĩa sở hữu là nhà cung cấp nội dung chủ đạo cho các mạng di động."
+      }
+    },
+    "lessonSha256": "021645266bea2a53a76a9882d4537b836e4d81e02adf09acffd58c243f6986a9"
+  },
+  "p1-an-experiment-to-investigate-the-nature-of-language-ability": {
+    "lessonId": "p1-an-experiment-to-investigate-the-nature-of-language-ability",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "bonobo",
+          "chimp",
+          "chimpanzee"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "This new approach was used with bonobos"
+          }
+        ],
+        "explanation": "Matata là cá thể bonobo; sau mạo từ a cần số ít bonobo."
+      },
+      "2": {
+        "accepted": [
+          "play"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Kanzi was allowed to play freely"
+          }
+        ],
+        "explanation": "Trong khi dạy Matata, nhóm nghiên cứu để Kanzi chơi tự do."
+      },
+      "3": {
+        "accepted": [
+          "shapes"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a set of 256 geometrical shapes on a board"
+          }
+        ],
+        "explanation": "Các hình hình học trên bảng tượng trưng cho động từ và danh từ."
+      },
+      "4": {
+        "accepted": [
+          "naturalistic"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "place language learning in a context that was naturalistic"
+          }
+        ],
+        "explanation": "Nhóm cố tạo bối cảnh học ngôn ngữ giống tự nhiên hơn."
+      },
+      "5": {
+        "accepted": [
+          "observation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "observation is sufficient"
+          }
+        ],
+        "explanation": "Kanzi là động vật đầu tiên cho thấy quan sát thôi cũng đủ để tiếp thu ký hiệu ngôn ngữ."
+      },
+      "6": {
+        "accepted": [
+          "species"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "neither unique to him nor to his species"
+          }
+        ],
+        "explanation": "Một tinh tinh thường, khác loài bonobo, sau đó cũng học theo cách này."
+      },
+      "7": {
+        "accepted": [
+          "production"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "language training that is based on production is damaging"
+          }
+        ],
+        "explanation": "Dạy dựa vào việc buộc tạo ra ngôn ngữ bị cho là làm gián đoạn tiến trình tiếp thu tự nhiên."
+      },
+      "8": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "social play with different companions"
+          }
+        ],
+        "explanation": "Kanzi thường được chơi với các bạn khác nên không bị giữ tách biệt."
+      },
+      "9": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "used gestures and actions to make their meaning clear"
+          }
+        ],
+        "explanation": "Người chăm sóc dùng lời nói kèm ký hiệu, cử chỉ và hành động."
+      },
+      "10": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the chimps were asked to sit quietly and concentrate"
+          }
+        ],
+        "explanation": "Có yêu cầu ngồi yên, tập trung nhưng không nói Kanzi lúc nào cũng hợp tác."
+      },
+      "11": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "None of the sentences was practised, and each one was different"
+          }
+        ],
+        "explanation": "Ở tuổi mười, Kanzi thực hiện nhiều chỉ dẫn bằng lời khác nhau, chưa được tập trước."
+      },
+      "12": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Can you put the raisins in the bowl"
+          }
+        ],
+        "explanation": "Bài nêu nho khô, ngũ cốc và cam nhưng không cho biết chúng có phải món yêu thích hay không."
+      },
+      "13": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a clear, consistent order later"
+          }
+        ],
+        "explanation": "Kanzi chuyển từ thứ tự từ ngẫu nhiên sang thứ tự rõ ràng, nhất quán."
+      }
+    },
+    "lessonSha256": "0560b66268a090dc83128edc750df34280d74a35771563816cc4dfb4ae0653db"
+  },
   "p1-a-brief-history-of-fashion-retail": {
     "lessonId": "p1-a-brief-history-of-fashion-retail",
     "reviewed": true,

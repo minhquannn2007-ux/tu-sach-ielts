@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-10-20",
+  "reviewedAt": "2026-10-22",
   "scope": "Answer approval only; leave published lessons unchanged",
   "lessons": [
     {
@@ -181,6 +181,33 @@
       ],
       "reason": "Option C says the Number 2 Yellow Dent corn has not undergone genetic modification. The passage only says the products are free of genetically modified material and production does not require it; that does not establish the modification history of the corn itself. The other options are contradicted or unsupported, leaving no strictly supported choice.",
       "needed": "Check original wording of paragraph 9 and Q35 option C before certifying this whole key.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-no-title-a-decibel-hell",
+      "questions": [
+        9
+      ],
+      "reason": "Q9 asks for a WHO attribution about permanent hearing loss as the most common global workplace hazard, but the published 13-paragraph reading contains neither WHO nor that claim. The other organisations are present; selecting WHO only by elimination would invent missing evidence.",
+      "needed": "Compare the complete original reading and restore the omitted WHO statement with verified source evidence before approving the full key.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p3-a-digital-cinema-of-the-mind",
+      "questions": [
+        30
+      ],
+      "reason": "Paragraph E explicitly compares conventional film/fresco and digital film/oils, requiring heading ii (Painting and cinema – the comparison explained). The published example assigns ii to paragraph B and removes that bank option from play. Paragraph B instead discusses examining an earlier change of artistic medium. Do not publish a key that the current controls cannot enter.",
+      "needed": "Verify the original example answer for paragraph B and restore its correct heading from the source before approving the complete key.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p3-a-new-voyage-round-the-world",
+      "questions": [
+        38
+      ],
+      "reason": "Published statement Q38 reads “Dampier's patience was represented by the writer”, which has an unclear claim. It cannot be safely interpreted as either a positive claim about his patience or a claim about what the writer depicts.",
+      "needed": "Verify the exact original Q38 wording before assigning YES/NO/NOT GIVEN; do not grade a guessed replacement statement.",
       "answerApproved": false
     }
   ]

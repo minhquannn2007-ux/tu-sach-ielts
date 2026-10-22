@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-21T17:19:45.682Z",
+  "updatedAt": "2026-10-22T01:39:02.601Z",
   "totalLessons": 798,
-  "reviewedLessons": 184,
-  "reviewedAnswers": 2407,
+  "reviewedLessons": 194,
+  "reviewedAnswers": 2541,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 610,
+  "pendingSolutions": 600,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -13,7 +13,7 @@
       "title": "200 Years of Australian Landscapes at the Royal Academy in London",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-brief-history-of-ballet",
@@ -55,7 +55,7 @@
       "title": "A closer examination of a study on verbal and non-verbal messages",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-no-title-a-decibel-hell",
@@ -83,7 +83,7 @@
       "title": "A great leap forward",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-a-guide-to-healthy-eating",
@@ -97,14 +97,14 @@
       "title": "A history of early inventions",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-a-history-of-pirates",
       "title": "A history of pirates",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-look-at-the-history-of-poetry",
@@ -118,7 +118,7 @@
       "title": "A mechanical friend for children",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-moment-of-perfection",
@@ -132,7 +132,7 @@
       "title": "A most unusual theatre",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-a-much-travelled-vegetable",
@@ -160,14 +160,14 @@
       "title": "A new way of reading",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-a-report-on-the-state-of-the-music-market-2007",
       "title": "A report on the state of the music market – 2007",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
@@ -300,7 +300,7 @@
       "title": "An experiment to investigate the nature of language ability",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-an-important-language-development",
