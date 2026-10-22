@@ -1,0 +1,1193 @@
+{
+  "p2-are-the-rules-of-grammar-inherited-or-learned": {
+    "lessonId": "p2-are-the-rules-of-grammar-inherited-or-learned",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "no obvious way of determining exactly what is genetically inherited and what is learned"
+          }
+        ],
+        "explanation": "Khó phân biệt phần ngôn ngữ do di truyền với phần học từ cộng đồng."
+      },
+      "15": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "possess all the properties of spoken language, including grammar"
+          }
+        ],
+        "explanation": "Ngôn ngữ ký hiệu có các đặc tính cơ bản như ngôn ngữ nói."
+      },
+      "16": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The single founder of the village arrived 200 years ago from Egypt"
+          }
+        ],
+        "explanation": "Lịch sử hình thành làng và ngôn ngữ ký hiệu riêng được trình bày ở đoạn C."
+      },
+      "17": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "subject-object-verb, the most common order amongst the world's languages"
+          }
+        ],
+        "explanation": "Thứ tự chủ ngữ–tân ngữ–động từ là dạng phổ biến nhất trên thế giới."
+      },
+      "18": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "third generation of village children are signing twice as fast as their parents and grandparents"
+          }
+        ],
+        "explanation": "Tốc độ ký hiệu của thế hệ thứ ba gấp đôi thế hệ cha mẹ, ông bà."
+      },
+      "19": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "language evolved first in the form of a system of gestures"
+          }
+        ],
+        "explanation": "Đoạn F bàn về giả thuyết cử chỉ có trước âm thanh trong tiến hóa ngôn ngữ."
+      },
+      "20": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "question whether this Bedouin group will be able to withstand modernization"
+          }
+        ],
+        "explanation": "Hiện đại hóa và hôn nhân ngoài cộng đồng có thể ảnh hưởng ngôn ngữ."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "without the need for many generations of fine tuning, trial and error"
+          }
+        ],
+        "explanation": "Pinker cho rằng cấu trúc ngữ pháp có thể xuất hiện mà không cần nhiều thế hệ thử sai."
+      },
+      "22": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "look as if they come from an inherited grammatical machinery"
+          }
+        ],
+        "explanation": "Aronoff đề xuất khuynh hướng có thứ tự từ thuộc cơ chế ngữ pháp bẩm sinh; ông chưa xác quyết thứ tự SOV cụ thể."
+      },
+      "23": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "are not evidence about what came first"
+          }
+        ],
+        "explanation": "Senghas nói hai ngôn ngữ ký hiệu không chứng minh cử chỉ có trước lời nói."
+      },
+      "24": {
+        "accepted": [
+          "deaf"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "hearing people use it to communicate with their deaf relatives"
+          }
+        ],
+        "explanation": "Người nghe được cũng sử dụng ngôn ngữ ký hiệu này."
+      },
+      "25": {
+        "accepted": [
+          "moustache"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the twirl of a finger to indicate a moustache"
+          }
+        ],
+        "explanation": "Ký hiệu chỉ đàn ông mô phỏng ria mép."
+      },
+      "26": {
+        "accepted": [
+          "internet"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the deaf Bedouin children use the internet"
+          }
+        ],
+        "explanation": "Trẻ em trong làng tiếp xúc với Internet."
+      }
+    },
+    "lessonSha256": "3a527bbb78a2b885b5428c0b59d63ccf9dc5dd3b21a43c2f5291bd8e052157c2"
+  },
+  "p3-art-based-training-for-engineers": {
+    "lessonId": "p3-art-based-training-for-engineers",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "most communication breakdowns involving engineers happen"
+          }
+        ],
+        "explanation": "Communication breakdowns tương ứng với failures trong các lựa chọn."
+      },
+      "28": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "they know every aspect of their subject matter"
+          }
+        ],
+        "explanation": "Kỹ sư tập trung vào từng chi tiết của chuyên môn."
+      },
+      "29": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "audience has a divergent set of assumptions"
+          }
+        ],
+        "explanation": "Cần điều chỉnh theo kỳ vọng và giả định của khán giả."
+      },
+      "30": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "meet official requirements"
+          }
+        ],
+        "explanation": "Yêu cầu chính thức tương ứng regulations."
+      },
+      "31": {
+        "accepted": [
+          "I"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "To give engineering graduates the skills to close this gap"
+          }
+        ],
+        "explanation": "Khóa học cung cấp công cụ/kỹ năng để thu hẹp khoảng cách giao tiếp."
+      },
+      "32": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "as well as for formal talks"
+          }
+        ],
+        "explanation": "Formal talks là các bài thuyết trình."
+      },
+      "33": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "not every engineer is likely to become a great communicator"
+          }
+        ],
+        "explanation": "Bài chỉ nói gần như ai cũng có thể tiến bộ, không phải mọi người đều thành chuyên gia."
+      },
+      "34": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "including one in advanced non-verbal behavior"
+          }
+        ],
+        "explanation": "Nhà tuyển dụng đánh giá cao kỹ năng phi ngôn ngữ; không nêu khóa quản lý thời gian."
+      },
+      "35": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "mixed early assessment results led us to significantly refine our methods"
+          }
+        ],
+        "explanation": "Kết quả ban đầu khiến chương trình điều chỉnh đáng kể phương pháp."
+      },
+      "36": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "technical audiences need to be approached differently"
+          }
+        ],
+        "explanation": "Bài yêu cầu tiếp cận người học kỹ thuật theo cách khác, không xác định có học viên nào quá trẻ để hiểu mục đích khóa học."
+      },
+      "37": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "What we learned during this process can be distilled into 'rules'"
+          }
+        ],
+        "explanation": "Đoạn thứ năm giải thích hoàn cảnh hình thành các quy tắc huấn luyện."
+      },
+      "38": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "participants often felt that this part of the workshop was a 'waste of time'"
+          }
+        ],
+        "explanation": "Ban đầu kỹ sư chưa nhận thấy giá trị các hoạt động này."
+      },
+      "39": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "mirrors the way technical objects are accomplished"
+          }
+        ],
+        "explanation": "Cách minh họa phù hợp cách kỹ sư giải quyết vấn đề bằng kiểm tra và quan sát."
+      },
+      "40": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "can't close someone else's audience gap without looking at things from their perspective"
+          }
+        ],
+        "explanation": "Người hướng dẫn phải thực hành chính nguyên tắc hiểu khán giả mà họ dạy."
+      }
+    },
+    "lessonSha256": "85a2a2153a3cb6a33832b38d4590c69bc2e208cd20fc83a3599d30900667c328"
+  },
+  "p3-asian-space-return-of-an-asian-invention": {
+    "lessonId": "p3-asian-space-return-of-an-asian-invention",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Their story began long ago but rocket technology has progressed considerably"
+          }
+        ],
+        "explanation": "Sáng chế tên lửa cổ xưa dẫn đến hoạt động không gian hiện đại."
+      },
+      "28": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "especially adaptable for their particular problems"
+          }
+        ],
+        "explanation": "Các vấn đề môi trường châu Á tạo nhu cầu áp dụng công nghệ vệ tinh."
+      },
+      "29": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "in the field of health and telemedicine"
+          }
+        ],
+        "explanation": "Đoạn C nêu nhiều ứng dụng mới, từ động đất đến y tế và giáo dục."
+      },
+      "30": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Japan had to face serious time-consuming technological challenges"
+          }
+        ],
+        "explanation": "Nhật Bản khởi đầu sớm nhưng trải qua thử nghiệm kéo dài."
+      },
+      "31": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "individual countries to select more convenient orbits for their own particular purposes"
+          }
+        ],
+        "explanation": "Vệ tinh nhỏ giúp các nước tự xây năng lực và chọn quỹ đạo theo nhu cầu."
+      },
+      "32": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "influenced by education, culture and history"
+          }
+        ],
+        "explanation": "Giáo dục, văn hóa và lịch sử ảnh hưởng thực tiễn quản lý, kỹ thuật."
+      },
+      "33": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "including storms and flooding, forest fires, and crop failures"
+          }
+        ],
+        "explanation": "Cháy rừng và các sự cố môi trường thúc đẩy quan sát thực vật từ trên cao."
+      },
+      "34": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "patients in remote rural communities can be diagnosed"
+          }
+        ],
+        "explanation": "Công nghệ y tế từ xa phục vụ các khu vực khó tiếp cận."
+      },
+      "35": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "repeatedly to photograph any chosen parts of the Earth’s surface"
+          }
+        ],
+        "explanation": "Quỹ đạo cực cho phép chụp lặp lại bất cứ vùng nào cần lập bản đồ."
+      },
+      "36": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "influenced by education, culture and history"
+          }
+        ],
+        "explanation": "Cách quản lý gắn với lịch sử, văn hóa của từng nơi."
+      },
+      "37": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "rockets were first used to repel invaders at the battle of Kaifeng (Kai-fung-fu) in AD 1232"
+          }
+        ],
+        "explanation": "Năm 500 TCN dùng làm pháo hoa; dùng trong chiến trận là năm 1232."
+      },
+      "38": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "provide a constant flow of information invaluable for the prediction of earthquakes"
+          }
+        ],
+        "explanation": "Đo khoảng cách vệ tinh–ăng-ten liên tục để dự báo động đất."
+      },
+      "39": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "beneficial advances in distance education programs"
+          }
+        ],
+        "explanation": "Có nói giáo dục từ xa tiến bộ, không có số liệu về tỷ lệ biết chữ."
+      },
+      "40": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "globalisation of industrial and financial markets has improved avenues for transferring technological innovation"
+          }
+        ],
+        "explanation": "Cạnh tranh thương mại và toàn cầu hóa thúc đẩy chuyển giao đổi mới."
+      }
+    },
+    "lessonSha256": "ca2145364c87a016965c080b2c473caf2ceccaa93be0e49e1fc1633e75c7a090"
+  },
+  "p2-australia-s-artistic-heritage": {
+    "lessonId": "p2-australia-s-artistic-heritage",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "The Wandjina paintings of the Kimberley region"
+          }
+        ],
+        "explanation": "Đoạn B mô tả các nhân vật thần thoại Wandjina và Mimi."
+      },
+      "15": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Perhaps most damaging of all is human activity"
+          }
+        ],
+        "explanation": "Tác động của con người có lẽ gây hại nhất."
+      },
+      "16": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "earth colours – reds, browns and yellows, black and white – from natural ingredients"
+          }
+        ],
+        "explanation": "Đoạn D trình bày nguồn vật liệu làm màu vẽ."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Some of the oldest surviving examples so far found"
+          }
+        ],
+        "explanation": "Đoạn A nêu Pilbara và Olary là nơi có ví dụ cổ nhất."
+      },
+      "18": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "using fingers, the palm of the hand, sticks or feathers"
+          }
+        ],
+        "explanation": "Đoạn D liệt kê cách đưa màu lên đá, gồm cọ, thổi và dùng tay."
+      },
+      "19": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "beings who control rain, storms and floods"
+          }
+        ],
+        "explanation": "Wandjina được cho là điều khiển mưa, bão và lũ."
+      },
+      "20": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "might be known only to those who had gone through special ceremonies"
+          }
+        ],
+        "explanation": "Chỉ những người qua nghi lễ đặc biệt hiểu mã trong tranh."
+      },
+      "21": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a whale 13m long and 3.5m wide"
+          }
+        ],
+        "explanation": "Đoạn C cho kích thước hình khắc con cá voi."
+      },
+      "22": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Others are found within caverns"
+          }
+        ],
+        "explanation": "Một nơi là bên trong hang."
+      },
+      "23": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "protected from the weather by the smallest of overhanging ledges"
+          }
+        ],
+        "explanation": "Nơi còn lại là dưới gờ đá nhô ra."
+      },
+      "24": {
+        "accepted": [
+          "stone"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "by hitting it with a stone"
+          }
+        ],
+        "explanation": "Dùng đá làm công cụ khắc."
+      },
+      "25": {
+        "accepted": [
+          "surface"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the whole surface of the picture was hollowed out"
+          }
+        ],
+        "explanation": "Có khi toàn bộ bề mặt hình được khoét."
+      },
+      "26": {
+        "accepted": [
+          "ships"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "some that show sailing ships were created as recently as the time of European settlement"
+          }
+        ],
+        "explanation": "Tranh tàu thuyền cho thấy có hình khắc mới hơn."
+      }
+    },
+    "lessonSha256": "7e8c52883d5fcdea0671257d7bc25827e6cc01ee877d65c2edfcf06999147112"
+  },
+  "p3-australias-megafauna-controversy": {
+    "lessonId": "p3-australias-megafauna-controversy",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "claim that it provides unequivocal evidence of a long overlap of humans and megafauna"
+          }
+        ],
+        "explanation": "Field và Wroe cho rằng con người cùng tồn tại lâu với động vật khổng lồ."
+      },
+      "28": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "aridity leading up to the last Ice Age brought about their eventual demise"
+          }
+        ],
+        "explanation": "Có nói nguyên nhân tuyệt chủng, không nêu loài nhỏ hơn sống sót."
+      },
+      "29": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The dating of these layers is accurate"
+          }
+        ],
+        "explanation": "Tác giả xác nhận phép định tuổi các tầng đất là chính xác."
+      },
+      "30": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "blood and hair residues suggesting they were used in butchering animals"
+          }
+        ],
+        "explanation": "Dấu vết máu, lông cho thấy công dụng của một số công cụ."
+      },
+      "31": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "more than 300 tonnes of stone buried there"
+          }
+        ],
+        "explanation": "Lượng đá khổng lồ cùng than và hiện vật."
+      },
+      "32": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "only available for occupation when the lake was dry"
+          }
+        ],
+        "explanation": "Hồ có nước sẽ không thể cư trú để tạo số hiện vật đó."
+      },
+      "33": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "no cultural features such as oven pits"
+          }
+        ],
+        "explanation": "Không thấy hố lò nấu ăn."
+      },
+      "34": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "sand in the two upper levels is considerably younger than charcoal"
+          }
+        ],
+        "explanation": "Cát ở tầng trên trẻ hơn than."
+      },
+      "35": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "no stone artefacts or fossil bones whatsoever"
+          }
+        ],
+        "explanation": "Mũi khoan gần đó không gặp hiện vật đá hay xương hóa thạch."
+      },
+      "36": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "sediments have been moved about and some of the old charcoal has been re-deposited"
+          }
+        ],
+        "explanation": "Các tầng trầm tích bị xáo trộn theo thời gian."
+      },
+      "37": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Flood events more likely explain the accumulation of megafauna remains, and could have mixed old bones with fresh deposits"
+          }
+        ],
+        "explanation": "Lũ có thể trộn chứng tích cũ với trầm tích mới."
+      },
+      "38": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "small stones collected from further afield, including prehistoric quarries"
+          }
+        ],
+        "explanation": "Người chăn nuôi mang đá từ nơi khác đến lót giếng."
+      },
+      "39": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "killing only one juvenile Diprotodon each year would be sufficient to bring about the extinction"
+          }
+        ],
+        "explanation": "Giết số ít cá thể mỗi năm cũng có thể làm cả loài tuyệt chủng."
+      },
+      "40": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "our analysis revealed a number of inconsistencies"
+          }
+        ],
+        "explanation": "Kết luận của Field và Wroe dựa trên dữ liệu có nhiều mâu thuẫn."
+      }
+    },
+    "lessonSha256": "50a6450e7a18687eac5660deb1f80dbeeaae3cfc04651b5e2f20261699c86990"
+  },
+  "p2-australian-parrots": {
+    "lessonId": "p2-australian-parrots",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "I"
+        ],
+        "evidence": [
+          {
+            "paragraph": 8,
+            "quote": "destroying black cockatoo eggs in order to take the hole for their own use"
+          }
+        ],
+        "explanation": "Galah chiếm hốc tổ và làm giảm quần thể vẹt mào đen."
+      },
+      "15": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "red is the most attractive colour to birds"
+          }
+        ],
+        "explanation": "Hoa màu đỏ thu hút chim để được thụ phấn."
+      },
+      "16": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "galah and the pink, white and yellow corella have expanded their ranges"
+          }
+        ],
+        "explanation": "Galah và corella hưởng lợi khi rừng bị chặt thành đồng cỏ."
+      },
+      "17": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "diversified into a wide range of species with adaptations"
+          }
+        ],
+        "explanation": "Môi trường thay đổi khiến vẹt thích nghi thành nhiều loài."
+      },
+      "18": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "originated millions of years ago on the ancient southern continent of Gondwana"
+          }
+        ],
+        "explanation": "Nguồn gốc Gondwana giải thích phân bố ở các lục địa Nam bán cầu."
+      },
+      "19": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "disappearance of the double-eyed fig parrot"
+          }
+        ],
+        "explanation": "Vẹt sung hai mắt biến mất khi rừng mưa bị chặt."
+      },
+      "20": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "before it broke up into the separate southern hemisphere continents"
+          }
+        ],
+        "explanation": "Tổ tiên sống trên Gondwana trước khi lục địa tách ra."
+      },
+      "21": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "related to the type of food each species eats"
+          }
+        ],
+        "explanation": "Hình dạng mỏ phù hợp thức ăn của từng loài."
+      },
+      "22": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 9,
+            "quote": "there are not enough, they are expensive, and they are not an adequate substitute"
+          }
+        ],
+        "explanation": "Đoạn văn nêu thiếu, đắt và không thay thế chức năng cây; không nêu phải bảo trì."
+      },
+      "23": {
+        "accepted": [
+          "one-sixth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "One-sixth of the world's 345 parrot species are found there"
+          }
+        ],
+        "explanation": "Một phần sáu trong 345 loài vẹt sống ở Australia."
+      },
+      "24": {
+        "accepted": [
+          "16th century"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "In the 16th century, the German cartographer Mercator"
+          }
+        ],
+        "explanation": "Mercator lập bản đồ vào thế kỷ 16."
+      },
+      "25": {
+        "accepted": [
+          "Mercator"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the German cartographer Mercator"
+          }
+        ],
+        "explanation": "Mercator là nhà vẽ bản đồ được nhắc tới."
+      },
+      "26": {
+        "accepted": [
+          "John Gould"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "wildlife artist John Gould"
+          }
+        ],
+        "explanation": "John Gould là họa sĩ vẽ động vật hoang dã."
+      }
+    },
+    "lessonSha256": "896c7b8a4a2650b1bf7d1353b886d11cbbabef11e11df759fbecac0e2b1f89b3"
+  },
+  "p2-australian-society-before-european-settlement": {
+    "lessonId": "p2-australian-society-before-european-settlement",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "day-to-day hunting and other food gathering"
+          }
+        ],
+        "explanation": "Band phối hợp săn bắt và hái lượm hằng ngày."
+      },
+      "15": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Jack Kararlada, a Kimberley elder, is named after his totem"
+          }
+        ],
+        "explanation": "Tên Jack Kararlada lấy từ vật tổ chim butcher bird."
+      },
+      "16": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "important ceremonies or gatherings such as initiations"
+          }
+        ],
+        "explanation": "Các band tập hợp thành tribe khi có lễ quan trọng như nghi thức trưởng thành."
+      },
+      "17": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "nowadays most men have just one"
+          }
+        ],
+        "explanation": "Trước đây một người có thể có mười vợ, nay thường chỉ một."
+      },
+      "18": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "an estimated 500 Aboriginal tribes"
+          }
+        ],
+        "explanation": "Thời người châu Âu định cư ước có 500 bộ lạc."
+      },
+      "19": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "increasing genetic variation in the group"
+          }
+        ],
+        "explanation": "Kết hôn khác moiety tăng biến dị di truyền."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "represented by a large rock, a tree, hill, river or other land form"
+          }
+        ],
+        "explanation": "Vật tổ có thể được biểu trưng bằng một yếu tố cảnh quan."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "believed to be ancestrally related to a person"
+          }
+        ],
+        "explanation": "Vật tổ được xem có quan hệ tổ tiên với cá nhân."
+      },
+      "22": {
+        "accepted": [
+          "centre"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "in the centre and north of Australia"
+          }
+        ],
+        "explanation": "Cấu trúc bộ lạc vẫn còn ở miền bắc và trung tâm."
+      },
+      "23": {
+        "accepted": [
+          "Dreamtime"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "which Aboriginal people call the 'Dreamtime'"
+          }
+        ],
+        "explanation": "Thời sáng thế được gọi là Dreamtime."
+      },
+      "24": {
+        "accepted": [
+          "wooden pole"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a wooden pole or other decorated object"
+          }
+        ],
+        "explanation": "Cột gỗ có thể biểu trưng vật tổ."
+      },
+      "25": {
+        "accepted": [
+          "70"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "up to 70 relationship terms"
+          }
+        ],
+        "explanation": "Có tới 70 thuật ngữ quan hệ họ hàng."
+      },
+      "26": {
+        "accepted": [
+          "sick"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "care for the sick and the elderly"
+          }
+        ],
+        "explanation": "Luật thân tộc quy định người chăm sóc người bệnh và cao tuổi."
+      }
+    },
+    "lessonSha256": "28ae25582f8c208de95024d29070ff26c6f2eeac38d98d99e78547d45dd08dcc"
+  }
+}
