@@ -22,6 +22,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '24'
+      - name: Assemble Listening audio
+        run: node scripts/assemble-listening-audio.mjs
       - name: Validate source-reviewed lessons
         run: node scripts/check-reviewed-data.mjs
       - name: Validate catalog and local assets
