@@ -209,6 +209,26 @@
       "reason": "Published statement Q38 reads “Dampier's patience was represented by the writer”, which has an unclear claim. It cannot be safely interpreted as either a positive claim about his patience or a claim about what the writer depicts.",
       "needed": "Verify the exact original Q38 wording before assigning YES/NO/NOT GIVEN; do not grade a guessed replacement statement.",
       "answerApproved": false
+    },
+    {
+      "lessonId": "p2-an-innovative-american-school-black-mountain-college",
+      "questions": [
+        20
+      ],
+      "reason": "Published artist-matching Q20 reads only “made outside the US”. No passage statement attributes the making of an artwork outside the US to any of the five listed artists. Albers formerly taught in Germany and Asawa drew inspiration from Mexican basketry, but neither establishes where an artwork was made.",
+      "needed": "Compare the full original Q20 wording and passage before certifying the complete key; do not infer place of creation from nationality or cultural inspiration.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p2-ancient-treasures",
+      "questions": [
+        21,
+        22,
+        23
+      ],
+      "reason": "The published matching bank lists Dieter Hochuli, John Martin, Richard Major and Catherine Price, but the passage attributes the three claims to Paul Iversen, Hannes Schroeder and Alexander Jones. None of the listed researchers occurs in the reading, so no source-supported A-D key can be entered.",
+      "needed": "Restore the matching bank from the verified original Ancient Treasures task before enabling grading.",
+      "answerApproved": false
     }
   ]
 }

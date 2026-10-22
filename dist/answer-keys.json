@@ -30710,6 +30710,2526 @@
     },
     "lessonSha256": "0560b66268a090dc83128edc750df34280d74a35771563816cc4dfb4ae0653db"
   },
+  "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities": {
+    "lessonId": "p3-a-review-of-leon-holbrook-s-book-we-should-live-in-cities",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "what audience exactly is it aimed at?"
+          }
+        ],
+        "explanation": "Người viết đặt vấn đề không rõ cuốn sách hướng tới độc giả nào, trái với một đối tượng rõ ràng."
+      },
+      "28": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "with more people living in cities than ever before"
+          }
+        ],
+        "explanation": "Đoạn mở đầu nêu xu hướng dân số đô thị nhưng không đánh giá riêng việc di cư từ nông thôn là tích cực."
+      },
+      "29": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "unimaginative theories stitched together by cliche"
+          }
+        ],
+        "explanation": "Phê bình ý tưởng và lối viết sáo mòn không xác nhận Holbrook đã mượn quan điểm từ tác giả khác."
+      },
+      "30": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "when it comes to the development of cities over the centuries, his account is more biased and selective"
+          }
+        ],
+        "explanation": "Sách bao quát thành phố hiện đại khá tốt, còn lịch sử phát triển bị thiên lệch, chọn lọc."
+      },
+      "31": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a detailed and readable account of public transport in South America"
+          }
+        ],
+        "explanation": "Người bình sách khen phần giao thông Nam Mỹ chi tiết, dễ đọc, không yêu cầu thêm thông tin."
+      },
+      "32": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "at pains to retain a global perspective"
+          }
+        ],
+        "explanation": "Viết về BRIC giúp duy trì góc nhìn toàn cầu và mở rộng phạm vi thành phố được bàn luận."
+      },
+      "33": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "his awkwardness of expression"
+          }
+        ],
+        "explanation": "Đoạn bốn phê bình cách dùng từ, sáo ngữ và diễn đạt rườm rà, tức văn phong."
+      },
+      "34": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "had to leave London because of rising living costs"
+          }
+        ],
+        "explanation": "Ví dụ cha mẹ đơn thân, người nghèo và người cô lập cho thấy thành phố gây khó khăn cho một số nhóm."
+      },
+      "35": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "remarkably untouched by the physical structure and beauty of buildings"
+          }
+        ],
+        "explanation": "Người viết cho rằng Holbrook thiếu quan tâm đến cấu trúc và vẻ đẹp kiến trúc."
+      },
+      "36": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "the absurd tax system and the problem this creates for a true local democracy"
+          }
+        ],
+        "explanation": "Vấn đề tài chính London được quy cho hệ thống thuế bất hợp lý."
+      },
+      "37": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "rising living costs"
+          }
+        ],
+        "explanation": "Cha mẹ phải rời London vì chi phí sinh hoạt tăng, tức khó khăn tiền bạc."
+      },
+      "38": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a sense of profound isolation from the city"
+          }
+        ],
+        "explanation": "Cảm giác bị cô lập trong đời sống đô thị tương ứng loneliness."
+      },
+      "39": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "violence is already a feature of many contemporary urban centres"
+          }
+        ],
+        "explanation": "Holbrook thừa nhận bạo lực là một vấn đề hiện hữu."
+      },
+      "40": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "widening inequality may become an unavoidable problem of larger and larger cities"
+          }
+        ],
+        "explanation": "Khi thành phố mở rộng, bất bình đẳng có thể ngày càng nghiêm trọng."
+      }
+    },
+    "lessonSha256": "2791a3ec79ba2358f94505128e949217565b26954f705f0cebb1c2c8cee1a22c"
+  },
+  "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die": {
+    "lessonId": "p3-a-review-of-mimi-sheraton-s-book-1-000-foods-to-eat-before-you-die",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "detailed and insightful information on historic and cultural context"
+          }
+        ],
+        "explanation": "Mười năm thu thập món ăn, bối cảnh văn hóa và công thức cho thấy khả năng nghiên cứu của Sheraton."
+      },
+      "28": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "I wanted to give an overall representation of what the world eats"
+          }
+        ],
+        "explanation": "Mục tiêu là đại diện cân bằng cho ẩm thực nhiều vùng, không chỉ các nền ẩm thực nổi tiếng."
+      },
+      "29": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "This can be a bit confusing at first, but once you get the hang of it"
+          }
+        ],
+        "explanation": "Cách tổ chức ban đầu có thể gây bối rối nhưng sẽ dễ dùng sau khi quen."
+      },
+      "30": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "good restaurants can quickly go out of business"
+          }
+        ],
+        "explanation": "Nhà hàng có thể đóng cửa nhanh, làm thông tin trong sách lỗi thời."
+      },
+      "31": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "motivation to get out and experience the sights and tastes of the world"
+          }
+        ],
+        "explanation": "Cuốn sách khuyến khích độc giả tìm hiểu và thử những trải nghiệm ẩm thực mới."
+      },
+      "32": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Inspired by Patricia Schultz's best-selling book"
+          }
+        ],
+        "explanation": "Được truyền cảm hứng từ sách Schultz không có nghĩa hai người đã gặp nhau."
+      },
+      "33": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "who now says that this was for the best"
+          }
+        ],
+        "explanation": "Sheraton cho rằng giảm từ 1.800 xuống 1.000 mục là tốt, không hối tiếc."
+      },
+      "34": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "make room for something like East Africa's Zanzibar duck"
+          }
+        ],
+        "explanation": "Món Zanzibar duck được chọn để tăng tính đại diện toàn cầu."
+      },
+      "35": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "genuinely reflect the culinary traditions and practice of the countries they come from"
+          }
+        ],
+        "explanation": "Các chuyên gia đều xác nhận tính xác thực của công thức đối với vùng xuất xứ."
+      },
+      "36": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the link between food and exploration has been evident for centuries"
+          }
+        ],
+        "explanation": "Cuốn sách gắn ẩm thực với việc khám phá, du lịch thế giới."
+      },
+      "37": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "each place in the world is individual because its cooking styles and dishes are not found anywhere else"
+          }
+        ],
+        "explanation": "Phong cách nấu ăn góp phần tạo bản sắc riêng cho từng nơi."
+      },
+      "38": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the way a dish is served and how it appears on the plate"
+          }
+        ],
+        "explanation": "Sheraton coi trọng cả cách phục vụ, hình thức trình bày món ăn."
+      },
+      "39": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "as important as looking at a cathedral, a palace or ancient statues"
+          }
+        ],
+        "explanation": "Bà so sánh trải nghiệm món truyền thống với việc chiêm ngưỡng kiến trúc, di sản lịch sử."
+      },
+      "40": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "help migrants keep their heritage alive"
+          }
+        ],
+        "explanation": "Ẩm thực giúp người nhập cư duy trì di sản và sự tiếp nối văn hóa."
+      }
+    },
+    "lessonSha256": "c6e01644b456a28dd2d425d6b8f6784c17810227e2d59a88b901bcaddf540a19"
+  },
+  "p2-a-study-of-introvert-and-extrovert-characters": {
+    "lessonId": "p2-a-study-of-introvert-and-extrovert-characters",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "These projects might be big (such as career ambitions) or small (like cleaning the car)"
+          }
+        ],
+        "explanation": "Đoạn A giới thiệu free-traits và các mục tiêu, hoàn cảnh khiến ta hành xử khác bản tính."
+      },
+      "15": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "We do things, say things, and then we observe the reactions"
+          }
+        ],
+        "explanation": "Đoạn B ví ta với nhà khoa học nghiệp dư học từ hành động, phản ứng và thử nghiệm."
+      },
+      "16": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "The reason for basing the research on this environment"
+          }
+        ],
+        "explanation": "Đoạn C giải thích vì sao nhóm chọn môi trường làm việc để nghiên cứu."
+      },
+      "17": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "introvert employees make frequent use of ‘restorative resources’"
+          }
+        ],
+        "explanation": "Các không gian nghỉ phục hồi giúp người hướng nội thành công khi phải cư xử hướng ngoại."
+      },
+      "18": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "extremely hard — and stressful — to rein back their personalities"
+          }
+        ],
+        "explanation": "Đoạn E mô tả áp lực khi người hướng ngoại phải kiềm chế tính cách cởi mở."
+      },
+      "19": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "highly competitive environments"
+          }
+        ],
+        "explanation": "Văn hóa cạnh tranh có thể ngăn nhân viên theo đuổi dự án cá nhân và làm giảm sức khỏe tinh thần."
+      },
+      "20": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "organisations should adopt policies and build work environments"
+          }
+        ],
+        "explanation": "Đoạn G đưa khuyến nghị về chính sách, đánh giá nhân viên và môi trường hỗ trợ."
+      },
+      "21": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "we adopt these free-traits only when we need them"
+          }
+        ],
+        "explanation": "Free-traits chỉ được dùng lúc cần, không phải liên tục."
+      },
+      "22": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "behave in a manner which contrasts with our natural selves"
+          }
+        ],
+        "explanation": "Free-traits cho phép hành xử khác bản tính thông thường; hai lựa chọn được chấm không phụ thuộc thứ tự."
+      },
+      "23": {
+        "accepted": [
+          "competitive"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "highly competitive environments"
+          }
+        ],
+        "explanation": "Môi trường quá cạnh tranh làm hạn chế dự án có ý nghĩa cá nhân."
+      },
+      "24": {
+        "accepted": [
+          "implications"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "The implications of Little and Balsari-Palsule’s research are numerous"
+          }
+        ],
+        "explanation": "Nghiên cứu có nhiều hệ quả, hàm ý cho doanh nghiệp."
+      },
+      "25": {
+        "accepted": [
+          "surveys"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "management should rely less on handing out personality surveys"
+          }
+        ],
+        "explanation": "Balsari-Palsule cho rằng quản lý phụ thuộc quá nhiều vào khảo sát phân loại tính cách."
+      },
+      "26": {
+        "accepted": [
+          "productivity"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "increases in productivity in the long run"
+          }
+        ],
+        "explanation": "Giảm áp lực và hỗ trợ nhân viên có thể làm năng suất tăng về lâu dài."
+      }
+    },
+    "lessonSha256": "adfbb2f918a3e95a5049f1b8a2e74657c084b0a5e470373ce9cd00d84622adb7"
+  },
+  "p2-a-unique-golden-textile": {
+    "lessonId": "p2-a-unique-golden-textile",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "the only large piece of cloth made from natural spider silk existing in the world today"
+          }
+        ],
+        "explanation": "Đoạn A giới thiệu tấm vải tơ nhện độc nhất."
+      },
+      "15": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "very elastic and strong compared with steel or Kevlar"
+          }
+        ],
+        "explanation": "Đoạn B liệt kê độ bền, nhẹ, dẻo và khả năng chịu lạnh của tơ nhện."
+      },
+      "16": {
+        "accepted": [
+          "ix"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "spiders have a habit of chomping off each other’s heads when housed together"
+          }
+        ],
+        "explanation": "Đoạn C nêu khó khăn nuôi nhện tập trung vì chúng tấn công nhau."
+      },
+      "17": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "build a replica of this 24-spider-silking machine"
+          }
+        ],
+        "explanation": "Đoạn D mô tả thử nghiệm máy lấy tơ dựa trên một ý tưởng cũ."
+      },
+      "18": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "drastically scale up their plan"
+          }
+        ],
+        "explanation": "Đoạn E nói lượng nhện và nhân công rất lớn cần cho dự án."
+      },
+      "19": {
+        "accepted": [
+          "vi"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "rearrange the protein’s molecular structure and transform it into solid silk"
+          }
+        ],
+        "explanation": "Đoạn F phân tích quá trình tạo tơ ở cấp protein và khó khăn tái tạo trong phòng thí nghiệm."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Fourteen thousand spiders yield about an ounce of silk"
+          }
+        ],
+        "explanation": "Godley nhấn mạnh cần rất nhiều nhện mới có lượng tơ nhỏ."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "apply it to all sorts of areas in medicine and industry"
+          }
+        ],
+        "explanation": "Peers nói các nhà nghiên cứu muốn ứng dụng đặc tính tơ vào y học và công nghiệp."
+      },
+      "22": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Every year we're getting closer and closer to being able to mass-produce it"
+          }
+        ],
+        "explanation": "Blackledge nhận định giới nghiên cứu đang tiến gần hơn đến sản xuất đại trà."
+      },
+      "23": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Spider silk is very elastic and strong compared with steel or Kevlar"
+          }
+        ],
+        "explanation": "Peers so sánh tơ nhện thuận lợi với thép và Kevlar."
+      },
+      "24": {
+        "accepted": [
+          "bacteria"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "inserting spider genes into bacteria or even cows and goats"
+          }
+        ],
+        "explanation": "Một hướng thử nghiệm là đưa gene nhện vào vi khuẩn hoặc động vật."
+      },
+      "25": {
+        "accepted": [
+          "gland"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a special gland in the spider’s abdomen"
+          }
+        ],
+        "explanation": "Protein lỏng được tạo ra trong một tuyến ở bụng nhện."
+      },
+      "26": {
+        "accepted": [
+          "transformation"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "produce a transformation from liquid to solid"
+          }
+        ],
+        "explanation": "Khi nhện kéo tơ, lực gây sự chuyển đổi protein từ lỏng sang rắn."
+      }
+    },
+    "lessonSha256": "3eb6ca47aacd78392107760eb237cfc6e40237bbe28a9a019eed7c0b27983884"
+  },
+  "p2-adventures-in-comic-land": {
+    "lessonId": "p2-adventures-in-comic-land",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "one of the first Australian firms to respond"
+          }
+        ],
+        "explanation": "FJP nhanh chóng đáp ứng nhu cầu bằng Amazing Comics rồi nhiều đầu truyện khác."
+      },
+      "15": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the National Library of Australia purchased his collection of comics, monographs and personal papers"
+          }
+        ],
+        "explanation": "Bộ sưu tập tư nhân đáng kể của John Ryan được thư viện quốc gia mua, đưa vào nơi công chúng tiếp cận."
+      },
+      "16": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "hosts an online archive for The Frontiers of Science"
+          }
+        ],
+        "explanation": "Đoạn F nêu kho trực tuyến lưu truyện báo cũ The Frontiers of Science."
+      },
+      "17": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the provision of ‘good’ children’s literature through free government libraries"
+          }
+        ],
+        "explanation": "Cung cấp sách thiếu nhi được cho là tốt trong thư viện miễn phí nhằm đối phó ảnh hưởng xấu của truyện tranh."
+      },
+      "18": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the Australian government prohibited the import of foreign periodicals"
+          }
+        ],
+        "explanation": "Đoạn B nói chính phủ cấm nhập ấn phẩm định kỳ nước ngoài khi chiến tranh nổ ra."
+      },
+      "19": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Japanese manga, American superhero comics"
+          }
+        ],
+        "explanation": "Đoạn A liệt kê manga, truyện siêu anh hùng và Asterix, Tintin trong thư viện Australia."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Australian publishers could not compete on cost"
+          }
+        ],
+        "explanation": "Truyện Mỹ giá rẻ khiến nhà xuất bản Australia khó cạnh tranh."
+      },
+      "21": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the advent of television in 1956"
+          }
+        ],
+        "explanation": "Sự xuất hiện của truyền hình năm 1956 góp phần gây khó khăn cho truyện tranh nội địa."
+      },
+      "22": {
+        "accepted": [
+          "cost"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Australian publishers could not compete on cost"
+          }
+        ],
+        "explanation": "Giá thành là nguyên nhân truyện Mỹ lấn át sản phẩm Australia."
+      },
+      "23": {
+        "accepted": [
+          "genres"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a wide variety of genres"
+          }
+        ],
+        "explanation": "FJP hợp tác với tác giả và họa sĩ để tạo nhiều thể loại truyện."
+      },
+      "24": {
+        "accepted": [
+          "removed"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "restrictions on new periodicals were finally removed after the war"
+          }
+        ],
+        "explanation": "Bùng nổ xảy ra khi các hạn chế được dỡ bỏ."
+      },
+      "25": {
+        "accepted": [
+          "licence",
+          "license"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "reprinted under licence by Australian firms"
+          }
+        ],
+        "explanation": "Các công ty Australia có giấy phép in lại truyện Mỹ; chấp nhận hai cách viết Anh–Mỹ."
+      },
+      "26": {
+        "accepted": [
+          "censorship"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "state government censorship laws"
+          }
+        ],
+        "explanation": "Metcalfe bảo vệ quyền đọc truyện tranh thay vì ủng hộ kiểm duyệt."
+      }
+    },
+    "lessonSha256": "762c8feda93d47352d2fec2b4597c6291f4a7aa1a42292ac0cc1da7f2fde067c"
+  },
+  "p3-all-in-the-family": {
+    "lessonId": "p3-all-in-the-family",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "27": {
+        "accepted": [
+          "NO"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "even more influential in determining what kind of adult we will become are our brothers and sisters"
+          }
+        ],
+        "explanation": "Tác giả cho rằng anh chị em ảnh hưởng lớn hơn, không ngang bằng cha mẹ."
+      },
+      "28": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "our brothers and sisters are the human beings who people our first social relationships"
+          }
+        ],
+        "explanation": "Bài nói quan hệ xã hội đầu đời với anh chị em nhưng không so sánh cùng giới và khác giới."
+      },
+      "29": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "no less emotionally intense than the bonds we form with our spouses and our own children"
+          }
+        ],
+        "explanation": "So sánh cường độ tình cảm không cho biết anh chị em nhận ít sự quan tâm hơn sau khi ta kết hôn."
+      },
+      "30": {
+        "accepted": [
+          "YES"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "more positive parenting of younger children, who display fewer behavioural problems as a result"
+          }
+        ],
+        "explanation": "Parental basking giúp cách nuôi dạy trẻ sinh sau tích cực hơn và giảm vấn đề hành vi."
+      },
+      "31": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "These are roles that can stick for life"
+          }
+        ],
+        "explanation": "Vai trò gắn với thứ tự sinh có thể kéo dài tới tuổi trưởng thành."
+      },
+      "32": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "and it might not have been true"
+          }
+        ],
+        "explanation": "Niềm tin rằng cha mẹ đối xử bất công của một số thân chủ có thể không đúng."
+      },
+      "33": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "turning those attention-seeking characteristics into strengths like determination and leadership"
+          }
+        ],
+        "explanation": "Đặc điểm gây phiền lúc nhỏ có thể trở thành quyết tâm, khả năng lãnh đạo khi lớn."
+      },
+      "34": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The parents themselves are growing up too, weathering hardship or good fortune"
+          }
+        ],
+        "explanation": "Mỗi anh chị em lớn lên trong hoàn cảnh gia đình khác nhau do môi trường và cha mẹ thay đổi theo thời gian."
+      },
+      "35": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "acquiring entire phrases and an understanding of social concepts such as politeness"
+          }
+        ],
+        "explanation": "Trẻ nhỏ học ngôn ngữ và khái niệm xã hội từ anh chị lớn."
+      },
+      "36": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "a rich world of play and make-believe"
+          }
+        ],
+        "explanation": "Ngay cả khi hay xung đột, anh chị em vẫn tạo trò chơi giàu tưởng tượng."
+      },
+      "37": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "stronger personalities and a better sense of their own identity"
+          }
+        ],
+        "explanation": "Nỗ lực khác biệt để thu hút chú ý thúc đẩy cá tính và bản sắc riêng."
+      },
+      "38": {
+        "accepted": [
+          "I"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "siblings tend to know each other better and remain lifelong friends"
+          }
+        ],
+        "explanation": "Gia đình nhỏ giúp anh chị em hiểu nhau và gần gũi lâu dài hơn."
+      },
+      "39": {
+        "accepted": [
+          "K"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "less likely to feel lonely, unloved, self-conscious or fearful"
+          }
+        ],
+        "explanation": "Có chị/em gái liên quan đến tinh thần khỏe mạnh hơn ở trẻ 10–14 tuổi."
+      },
+      "40": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 7,
+            "quote": "promoted good deeds, such as helping a neighbour"
+          }
+        ],
+        "explanation": "Quan hệ anh chị em yêu thương khuyến khích hành động giúp đỡ, rộng lượng."
+      }
+    },
+    "lessonSha256": "735bf142884f52f1b108344e2115b19a461ca54f0212981597f4717fe68be404"
+  },
+  "p2-american-businesses-aim-to-support-employees-and-their-families": {
+    "lessonId": "p2-american-businesses-aim-to-support-employees-and-their-families",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "pays, at least partially, for educational opportunities and textbooks"
+          }
+        ],
+        "explanation": "Đoạn B nói Plastic Solutions hỗ trợ chi phí học và sách cho nhân viên."
+      },
+      "15": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Family-friendly entrepreneurs are becoming more commonplace internationally"
+          }
+        ],
+        "explanation": "Đoạn E nói xu hướng quốc tế trong chính sách doanh nghiệp và ảnh hưởng của người tiêu dùng."
+      },
+      "16": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "six 5-year anniversaries, and one 25-year anniversary"
+          }
+        ],
+        "explanation": "Đoạn C nêu số năm làm việc liên tục của nhân viên Margaret Mills Corporation."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "negative experiences they have had in the workplace"
+          }
+        ],
+        "explanation": "Nhiều người lập doanh nghiệp riêng do từng trải nghiệm tiêu cực khi làm thuê."
+      },
+      "18": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Working mothers still need to be taken more seriously"
+          }
+        ],
+        "explanation": "Gibbs cho rằng các bà mẹ đi làm và làm chủ vẫn phải đấu tranh để được tôn trọng."
+      },
+      "19": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "they also get an update about the company"
+          }
+        ],
+        "explanation": "Harper cung cấp thông tin khách hàng, thành công và thách thức khi trả lương."
+      },
+      "20": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "a more productive and stable workforce"
+          }
+        ],
+        "explanation": "Davies cho rằng cân bằng công việc và gia đình tạo lực lượng lao động năng suất, ổn định hơn."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "everyone, from managers to workers, realizes that they count"
+          }
+        ],
+        "explanation": "Gibbs nhấn mạnh mọi thành viên phải hiểu vai trò của mình có giá trị."
+      },
+      "22": {
+        "accepted": [
+          "gossip"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "This addresses issues like gossip"
+          }
+        ],
+        "explanation": "Phần coaching đề cập việc bàn tán trong các khu vực sinh hoạt chung."
+      },
+      "23": {
+        "accepted": [
+          "seminar"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "his monthly invitation-only Business Pragmatics seminar"
+          }
+        ],
+        "explanation": "Buổi seminar hằng tháng chỉ dành cho người được mời rất được nhân viên mong đợi."
+      },
+      "24": {
+        "accepted": [
+          "machines"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "kids can experiment with the company's machines"
+          }
+        ],
+        "explanation": "Gia đình nhân viên được thử máy móc trong ngày mở cửa."
+      },
+      "25": {
+        "accepted": [
+          "school"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "when school is over"
+          }
+        ],
+        "explanation": "Con nhân viên được tới nơi làm việc sau khi tan trường."
+      },
+      "26": {
+        "accepted": [
+          "trip"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the company took all employees and their families on a 2-day trip"
+          }
+        ],
+        "explanation": "Công ty có thể thưởng bằng chuyến đi cho nhân viên và gia đình."
+      }
+    },
+    "lessonSha256": "cd6b64f13fa46928ad7e87b59a39267950a03562063fe1405986f20e3926d1c3"
+  },
+  "p2-an-ancient-city": {
+    "lessonId": "p2-an-ancient-city",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "using hand-held magnetometers"
+          }
+        ],
+        "explanation": "Đoạn D nêu máy đo từ cầm tay giúp lập bản đồ nền móng."
+      },
+      "15": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "its ruins are not obscured by layers of debris and later sites"
+          }
+        ],
+        "explanation": "Titris không được tái định cư nên ít bị lớp xây dựng sau che phủ, dễ nghiên cứu hơn."
+      },
+      "16": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "farm villages developed over time into cities"
+          }
+        ],
+        "explanation": "Đoạn B giải thích nông nghiệp thặng dư, thương mại và nghề thủ công thúc đẩy hình thành đô thị."
+      },
+      "17": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "many were used for more than just residential purposes"
+          }
+        ],
+        "explanation": "Đoạn F nêu bồn xử lý len, đồ dệt và mộ trong nhà, ngoài chức năng cư trú."
+      },
+      "18": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "At the centre of the city, on high ground, once stood a palace"
+          }
+        ],
+        "explanation": "Cung điện ở khu đất cao giữa thành phố."
+      },
+      "19": {
+        "accepted": [
+          "courtyard"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "15 rooms, opening out around a courtyard"
+          }
+        ],
+        "explanation": "Các phòng mở ra quanh sân trong ở trung tâm ngôi nhà."
+      },
+      "20": {
+        "accepted": [
+          "doorway"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "entered the house through a doorway directly off the street"
+          }
+        ],
+        "explanation": "Lối cửa từ phố cho phép đi vào nhà."
+      },
+      "21": {
+        "accepted": [
+          "cooking areas"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "for each contained several cooking areas"
+          }
+        ],
+        "explanation": "Nhiều khu nấu ăn cho thấy nhà có gia đình mở rộng cùng sinh sống."
+      },
+      "22": {
+        "accepted": [
+          "oval basins",
+          "basins"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "oval basins which archaeologists think were used for washing and treating sheep's wool"
+          }
+        ],
+        "explanation": "Các bồn cho thấy một phần nhà dùng giặt, xử lý nguyên liệu len; oval là chi tiết có thể thêm."
+      },
+      "23": {
+        "accepted": [
+          "sheep's wool",
+          "wool",
+          "sheep’s wool"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "washing and treating sheep's wool"
+          }
+        ],
+        "explanation": "Len cừu được xử lý và dệt thành vải trong nhà; câu cho phép có hoặc không có từ chỉ loài."
+      },
+      "24": {
+        "accepted": [
+          "tomb"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "each household had a tomb"
+          }
+        ],
+        "explanation": "Mỗi hộ có mộ là đặc điểm hiếm thấy ở nhà ở hiện đại."
+      },
+      "25": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "powerful rulers, who wanted to expand and strengthen their bases of power"
+          }
+        ],
+        "explanation": "Tham vọng củng cố quyền lực của người cai trị là một nguyên nhân phát triển đô thị."
+      },
+      "26": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "humans simply like to live and work in groups"
+          }
+        ],
+        "explanation": "Mong muốn sống và làm việc theo nhóm là nguyên nhân còn lại; hai lựa chọn không phụ thuộc thứ tự."
+      }
+    },
+    "lessonSha256": "480f475913c49a6fff5e4b4df8d53e9d9df1f3cf5df92053c79fbca29d694f0b"
+  },
+  "p2-an-australian-tree-abroad": {
+    "lessonId": "p2-an-australian-tree-abroad",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "pull out the baby trees"
+          }
+        ],
+        "explanation": "Đoạn F nói người phản đối nhổ cây non và xích mình vào máy móc."
+      },
+      "15": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "screw-top wine caps have largely replaced traditional cork stoppers"
+          }
+        ],
+        "explanation": "Nắp vặn thay nút bần làm người trồng sồi bần mất thị trường truyền thống."
+      },
+      "16": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Portuguese blue gum eucalyptus forests are deathly quiet"
+          }
+        ],
+        "explanation": "Đoạn D đối chiếu rừng bạch đàn Bồ Đào Nha vắng động vật với rừng Australia."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "drain swamps which pose health risks because of malaria-carrying mosquitos"
+          }
+        ],
+        "explanation": "Bạch đàn được trồng làm khô đầm lầy có muỗi truyền sốt rét."
+      },
+      "18": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the drying up of village water supplies"
+          }
+        ],
+        "explanation": "Mất nguồn nước là yếu tố kích hoạt làn sóng phản đối của các làng."
+      },
+      "19": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "boost the weakening economy"
+          }
+        ],
+        "explanation": "Bồ Đào Nha chấp nhận dự án nước ngoài để lấy tiền hỗ trợ kinh tế đang yếu."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the breakdown of financial and trading systems in villages"
+          }
+        ],
+        "explanation": "Đồn điền làm tan vỡ hệ thống kinh tế nông thôn truyền thống."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "special laws were created to allow for the expansion of the eucalyptus plantings"
+          }
+        ],
+        "explanation": "Luật đặc biệt tạo thuận lợi cho công ty mở rộng trồng bạch đàn."
+      },
+      "22": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the high cost of transporting wood pulp from Brazil to Europe"
+          }
+        ],
+        "explanation": "Ngành Bồ Đào Nha còn cạnh tranh được nhờ chi phí vận chuyển từ Brazil sang châu Âu cao."
+      },
+      "23": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "very unlikely that the pulp-producing companies will be willing to convert their plantation forest back into native forest"
+          }
+        ],
+        "explanation": "Nếu cầu bột giấy giảm, khó biết đồn điền sẽ ra sao vì công ty khó bỏ tiền phục hồi rừng bản địa."
+      },
+      "24": {
+        "accepted": [
+          "koalas"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Australian blue gum eucalyptus forests are home to a host of species such as koalas"
+          }
+        ],
+        "explanation": "Koala là ví dụ động vật sống được nhờ bạch đàn ở Australia."
+      },
+      "25": {
+        "accepted": [
+          "birds"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "Our insects can’t eat eucalyptus, so there are no birds"
+          }
+        ],
+        "explanation": "Côn trùng không ăn bạch đàn nên rừng thiếu chim."
+      },
+      "26": {
+        "accepted": [
+          "hectare"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "in one hectare of woodland"
+          }
+        ],
+        "explanation": "Bingre so sánh số loài thực vật trên mỗi hectare rừng sồi và rừng bạch đàn."
+      }
+    },
+    "lessonSha256": "e2f1b53628b3e19260ca3f10a97f844c616eb5c890731c61153a02fe8a3ea71d"
+  },
+  "p1-ancient-peoples-of-the-sahara": {
+    "lessonId": "p1-ancient-peoples-of-the-sahara",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "1": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "thousands of their rock engravings"
+          }
+        ],
+        "explanation": "Bài mô tả tranh khắc động vật nhưng không so sánh chúng với tranh khắc nơi khác."
+      },
+      "2": {
+        "accepted": [
+          "FALSE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "whether they were nomads, or staked out territories and built permanent homes there"
+          }
+        ],
+        "explanation": "Các nhà khảo cổ chưa chắc họ du mục hay định cư, trái với khẳng định đã tin họ định cư một chỗ."
+      },
+      "3": {
+        "accepted": [
+          "TRUE"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "he stumbled across human remains"
+          }
+        ],
+        "explanation": "Sereno tình cờ gặp hài cốt người khi đang tìm dấu tích khủng long."
+      },
+      "4": {
+        "accepted": [
+          "NOT GIVEN"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "invite her to accompany him to the site"
+          }
+        ],
+        "explanation": "Bài nêu lời mời Garcea tới Gobero nhưng không cho biết hai người từng làm việc chung chưa."
+      },
+      "5": {
+        "accepted": [
+          "a map",
+          "map"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "walked carefully around the site and drew a map"
+          }
+        ],
+        "explanation": "Trong vài tuần đầu nhóm vẽ bản đồ di chỉ."
+      },
+      "6": {
+        "accepted": [
+          "teeth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "took out some teeth, one from each of four skulls"
+          }
+        ],
+        "explanation": "Sereno gửi răng đi định tuổi bằng carbon phóng xạ."
+      },
+      "7": {
+        "accepted": [
+          "8,000 years",
+          "8000 years",
+          "8,000 years old",
+          "8000 years old"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the tightly bundled burials were 8,000 years old"
+          }
+        ],
+        "explanation": "Các bộ xương lớn thuộc nhóm chôn bó chặt, khoảng 8.000 năm tuổi."
+      },
+      "8": {
+        "accepted": [
+          "injuries"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The lack of injuries suggests they weren't doing much fighting"
+          }
+        ],
+        "explanation": "Không có thương tích gợi ý người Kiffian ít đánh nhau."
+      },
+      "9": {
+        "accepted": [
+          "strenuous"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "he had a rather strenuous life"
+          }
+        ],
+        "explanation": "Chỗ bám cơ lớn cho thấy lao động, lối sống đòi hỏi nhiều sức lực."
+      },
+      "10": {
+        "accepted": [
+          "protein"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "he ate a lot of protein"
+          }
+        ],
+        "explanation": "Phân tích xương cho thấy khẩu phần giàu protein."
+      },
+      "11": {
+        "accepted": [
+          "cow"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "only three came from a cow"
+          }
+        ],
+        "explanation": "Trong số xương gia súc, chỉ thấy ba mảnh thuộc bò; cần cow sau a."
+      },
+      "12": {
+        "accepted": [
+          "transition"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the Tenerian at Gobero were experiencing a transition"
+          }
+        ],
+        "explanation": "Sereno cho rằng họ đang trong giai đoạn chuyển đổi sinh kế."
+      },
+      "13": {
+        "accepted": [
+          "hunting"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "still relied heavily on hunting for their survival"
+          }
+        ],
+        "explanation": "Ngoài chăn nuôi, họ vẫn phụ thuộc lớn vào săn bắt."
+      }
+    },
+    "lessonSha256": "b076b2c0012613d582760a57013257d1086bd98771d4a3949de82f53360b0c35"
+  },
+  "p2-antarctic-architecture-halley-vi": {
+    "lessonId": "p2-antarctic-architecture-halley-vi",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "They were usually dirty, stuffy places, where tempers flared"
+          }
+        ],
+        "explanation": "Đoạn E mô tả điều kiện sống thiếu tiện nghi ở các trạm thám hiểm đầu thế kỷ XX."
+      },
+      "15": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "enlisted the help of a colour expert"
+          }
+        ],
+        "explanation": "Đoạn C nêu chuyên gia màu sắc và nhóm phát triển ánh sáng hỗ trợ tạo môi trường dễ chịu."
+      },
+      "16": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a power outage left the entire station exposed to record low temperatures for 19 hours"
+          }
+        ],
+        "explanation": "Đoạn D mô tả mất điện gây tình huống khẩn cấp trong 19 giờ."
+      },
+      "17": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Broughton ticked zero of those boxes"
+          }
+        ],
+        "explanation": "Broughton không đáp ứng tiêu chí kinh nghiệm nào trước khi dự thi thiết kế trạm."
+      },
+      "18": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "watch movies, eat and play pool"
+          }
+        ],
+        "explanation": "Đoạn C liệt kê xem phim, chơi bi-a và sân mini golf."
+      },
+      "19": {
+        "accepted": [
+          "pods"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "eight conjoined pods"
+          }
+        ],
+        "explanation": "Trạm gồm các khoang pods nối nhau."
+      },
+      "20": {
+        "accepted": [
+          "bulldozers"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "the entire station to be moved by bulldozers"
+          }
+        ],
+        "explanation": "Xe ủi di chuyển trạm nhờ hệ thống ván trượt."
+      },
+      "21": {
+        "accepted": [
+          "summer"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "only the 12 weeks of summer were suitable for construction work"
+          }
+        ],
+        "explanation": "Công việc xây dựng chỉ thực hiện tại chỗ vào mùa hè."
+      },
+      "22": {
+        "accepted": [
+          "ship"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "transported by ship"
+          }
+        ],
+        "explanation": "Các cấu kiện được chế tạo sẵn rồi vận chuyển bằng tàu."
+      },
+      "23": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a lot of people living in very close contact with each other"
+          }
+        ],
+        "explanation": "Pip Cheshire nói các nhà thám hiểm trước kia sống chen chúc."
+      },
+      "24": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "Antarctica is the place on Earth that is the least like Earth"
+          }
+        ],
+        "explanation": "Sam Jacob nhấn mạnh Nam Cực khác mọi nơi trên Trái Đất."
+      },
+      "25": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a background in building in remote locations"
+          }
+        ],
+        "explanation": "Ferguson và Rapley yêu cầu kinh nghiệm xây ở nơi xa xôi và hiểu khí hậu cực đoan."
+      },
+      "26": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "give an idea of how we might actually colonise other places"
+          }
+        ],
+        "explanation": "Jacob cho rằng Halley có thể gợi ý cách xây trạm ở hành tinh khác."
+      }
+    },
+    "lessonSha256": "c63054e027db8b02ad00a457115f46f07e32cec44c7ab72fc5648f686eed9a63"
+  },
+  "p2-antarctic-research": {
+    "lessonId": "p2-antarctic-research",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "deep-sea trawl nets, hi-definition cameras and water samplers"
+          }
+        ],
+        "explanation": "Đoạn D liệt kê lưới kéo biển sâu, camera và thiết bị lấy mẫu nước."
+      },
+      "15": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "katabatic winds"
+          }
+        ],
+        "explanation": "Đoạn B mô tả sóng do gió mạnh, băng trôi và khó nhận biết độ dày băng."
+      },
+      "16": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "bringing together zoologists, oceanographers, meteorologists and other scientists"
+          }
+        ],
+        "explanation": "Đoạn A trình bày các ngành và cơ quan tham gia đoàn nghiên cứu."
+      },
+      "17": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Quinn’s inclusion wasn’t welcomed at first"
+          }
+        ],
+        "explanation": "Đoạn F nói sự tham gia của nhà quay phim Max Quinn ban đầu không được hoan nghênh."
+      },
+      "18": {
+        "accepted": [
+          "starfish"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "the starfish that measured more than half a metre across"
+          }
+        ],
+        "explanation": "Sao biển gây ấn tượng bởi chiều ngang lớn hơn nửa mét."
+      },
+      "19": {
+        "accepted": [
+          "predators"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "few predators"
+          }
+        ],
+        "explanation": "Ít loài săn mồi là một giả thuyết giải thích hiện tượng khổng lồ."
+      },
+      "20": {
+        "accepted": [
+          "icebergs"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "icebergs have scoured out deep scars and ravines in the sea floor"
+          }
+        ],
+        "explanation": "Băng trôi cào xước tạo rãnh sâu dưới đáy biển."
+      },
+      "21": {
+        "accepted": [
+          "glass"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "appear to be fashioned from glass"
+          }
+        ],
+        "explanation": "Động vật tunicate trông như làm bằng thủy tinh."
+      },
+      "22": {
+        "accepted": [
+          "teeth"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "shedding their teeth and growing a new set"
+          }
+        ],
+        "explanation": "Daggertooth có khả năng rụng rồi thay bộ răng mới."
+      },
+      "23": {
+        "accepted": [
+          "chin"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "a piece of cord hanging from its chin"
+          }
+        ],
+        "explanation": "Stareater có phần phụ như dây ở cằm để nhử mồi."
+      },
+      "24": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Science,’ says Livingston, ‘is intrepid, more so than people realise"
+          }
+        ],
+        "explanation": "Livingston nói công việc khoa học gan dạ hơn hình dung phổ biến."
+      },
+      "25": {
+        "accepted": [
+          "G"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "We could have filled the science positions four times over"
+          }
+        ],
+        "explanation": "Hanchet nói lượng người muốn tham gia vượt xa số chỗ."
+      },
+      "26": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "He knows when not to intrude"
+          }
+        ],
+        "explanation": "Quinn quay cảnh công việc và tránh xâm phạm sinh hoạt riêng để được hợp tác."
+      }
+    },
+    "lessonSha256": "b3e8195b519c7df0a42f900118c6c6774c0435312a02b2b2b81007a672cb3152"
+  },
+  "p2-antarctica-s-climate": {
+    "lessonId": "p2-antarctica-s-climate",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "graziers in northern Australia are able to avoid an over-supply of cattle and sheep"
+          }
+        ],
+        "explanation": "Đoạn D nêu dự báo mưa giúp chăn nuôi giảm mất gia súc và suy thoái đồng cỏ."
+      },
+      "15": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "it reoxygenates and revitalises the ocean"
+          }
+        ],
+        "explanation": "Nước lạnh từ Nam Cực bổ sung oxy, hồi phục sức sống cho đại dương."
+      },
+      "16": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "the staple diet for baleen whales, penguins, some seals"
+          }
+        ],
+        "explanation": "Đoạn E giải thích băng biển tác động sinh sản krill rồi đến các loài ăn krill."
+      },
+      "17": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "Gradually this broke up with the northward movements"
+          }
+        ],
+        "explanation": "Đoạn C mô tả lục địa tách ra, hình thành ACC rồi Nam Cực lạnh dần."
+      },
+      "18": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "a place with no apparent value to anyone"
+          }
+        ],
+        "explanation": "Đoạn A nói thời kỳ Nam Cực bị xem là xa xôi, vô giá trị."
+      },
+      "19": {
+        "accepted": [
+          "F"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Antarctica's great mass and low temperature exert a major influence"
+          }
+        ],
+        "explanation": "Toàn cầu chịu ảnh hưởng từ khối lượng lớn và nhiệt độ thấp của Nam Cực."
+      },
+      "20": {
+        "accepted": [
+          "H"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "under the influence of the prevailing westerly winds"
+          }
+        ],
+        "explanation": "Gió tây thịnh hành ảnh hưởng hướng chảy của ACC."
+      },
+      "21": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "the pressure difference between Darwin and Tahiti"
+          }
+        ],
+        "explanation": "Southern Oscillation Index dựa vào chênh lệch khí áp."
+      },
+      "22": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "a key component in the Earth System"
+          }
+        ],
+        "explanation": "Ý chính đoạn B là vai trò trung tâm của Nam Cực trong hệ khí hậu và hải lưu toàn cầu."
+      },
+      "23": {
+        "accepted": [
+          "C"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "avoid an over-supply of cattle and sheep which won't survive"
+          }
+        ],
+        "explanation": "Người chăn nuôi muốn tránh tổn thất gia súc khi năm ít mưa."
+      },
+      "24": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "breed well in years when sea ice is extensive, and poorly when it is not"
+          }
+        ],
+        "explanation": "Thiếu băng biển làm krill sinh sản kém."
+      },
+      "25": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the water that remains becomes increasingly salty and dense"
+          }
+        ],
+        "explanation": "Gió katabatic liên tục thổi băng mới đi, để lại nước mặn và đặc hơn rồi chìm xuống thềm lục địa."
+      },
+      "26": {
+        "accepted": [
+          "D"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "Cold water carries more oxygen than warm water"
+          }
+        ],
+        "explanation": "Nước lạnh giàu oxy đi lên phía bắc, hỗ trợ hệ sinh học đại dương."
+      }
+    },
+    "lessonSha256": "8f13f3b93551067a86e2facb5dd9abd9d7e9a688222f43a323b972302dceb3d1"
+  },
+  "p2-arctic-foxes": {
+    "lessonId": "p2-arctic-foxes",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "Canadian biologists began monitoring a female Arctic fox"
+          }
+        ],
+        "explanation": "Đoạn A theo dõi hành trình của một cá thể cáo cái."
+      },
+      "15": {
+        "accepted": [
+          "ix"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "We learned absolutely nothing"
+          }
+        ],
+        "explanation": "Đoạn B mô tả những cố gắng theo dõi cáo trước kia thất bại, gây thất vọng."
+      },
+      "16": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "thanks to progress in the 21st century in the field of satellite technology"
+          }
+        ],
+        "explanation": "Tiến bộ vệ tinh giúp giải đáp cáo ở đâu và sống ra sao vào mùa đông."
+      },
+      "17": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "They have a very good sense of orientation"
+          }
+        ],
+        "explanation": "Đoạn D dẫn nhận xét về khả năng định hướng đáng kinh ngạc."
+      },
+      "18": {
+        "accepted": [
+          "iii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "Almost half never left Bylot Island"
+          }
+        ],
+        "explanation": "Đoạn E cho thấy phạm vi và kiểu di chuyển giữa các cá thể rất khác nhau."
+      },
+      "19": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "what is not available at home — particularly lemmings"
+          }
+        ],
+        "explanation": "Thiếu thức ăn tại nơi ở có thể thúc đẩy cáo đi xa."
+      },
+      "20": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "will the species survive as global warming reduces the extent of Arctic sea ice?"
+          }
+        ],
+        "explanation": "Đoạn G bàn cách sinh tồn và thay đổi phạm vi của loài trong môi trường ấm lên."
+      },
+      "21": {
+        "accepted": [
+          "fox footprints",
+          "footprints"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "amazed to encounter fox footprints"
+          }
+        ],
+        "explanation": "Dấu chân cáo trên chỏm băng năm 1895 cho thấy chúng đi rất xa."
+      },
+      "22": {
+        "accepted": [
+          "ear tags"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "Arctic foxes fitted with ear tags"
+          }
+        ],
+        "explanation": "Nghiên cứu thập niên 1970 gắn thẻ tai cho cáo."
+      },
+      "23": {
+        "accepted": [
+          "radio collars"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "attached radio collars to foxes"
+          }
+        ],
+        "explanation": "Garrott gắn vòng cổ phát sóng vô tuyến năm 1979."
+      },
+      "24": {
+        "accepted": [
+          "satellite technology"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "satellite technology"
+          }
+        ],
+        "explanation": "Công nghệ vệ tinh thế kỷ XXI cho phép theo dõi cáo trong những tháng khó tiếp cận."
+      },
+      "25": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "in greatly reduced numbers"
+          }
+        ],
+        "explanation": "Nhiều chuyên gia dự báo quần thể cáo Bắc Cực sẽ giảm mạnh."
+      },
+      "26": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 6,
+            "quote": "the range expansion of red foxes: larger rivals"
+          }
+        ],
+        "explanation": "Cáo đỏ mở rộng lên phía bắc khiến cạnh tranh giữa các loài tăng; hai lựa chọn không phụ thuộc thứ tự."
+      }
+    },
+    "lessonSha256": "09e7996ab40995c5d52ada2e2abf965da08deca17c2720f2e0ca97224eecd938"
+  },
+  "p2-are-artists-liars": {
+    "lessonId": "p2-are-artists-liars",
+    "reviewed": true,
+    "reviewedAt": "2026-10-22",
+    "method": "passage-based-solving-and-second-pass-review",
+    "answers": {
+      "14": {
+        "accepted": [
+          "iv"
+        ],
+        "evidence": [
+          {
+            "paragraph": 0,
+            "quote": "as the writers Oscar Wilde and Mark Twain have observed"
+          }
+        ],
+        "explanation": "Đoạn A dẫn Brando, Wilde và Twain về sự tương đồng giữa nói dối và sáng tạo."
+      },
+      "15": {
+        "accepted": [
+          "vii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "spring from a common neurological root"
+          }
+        ],
+        "explanation": "Đoạn B nêu cơ sở thần kinh chung giữa kể chuyện nghệ thuật và nói dối."
+      },
+      "16": {
+        "accepted": [
+          "i"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "One patient, asked about his surgical scar"
+          }
+        ],
+        "explanation": "Đoạn C minh họa bằng các chuyện hoang đường của bệnh nhân bịa ký ức."
+      },
+      "17": {
+        "accepted": [
+          "v"
+        ],
+        "evidence": [
+          {
+            "paragraph": 3,
+            "quote": "what it tells us about ourselves"
+          }
+        ],
+        "explanation": "Đoạn D bàn điều bệnh lý này tiết lộ về tính sáng tạo và bản chất kể chuyện của con người."
+      },
+      "18": {
+        "accepted": [
+          "viii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "his case collapsed in June 1997"
+          }
+        ],
+        "explanation": "Đoạn E mô tả nỗ lực lừa dối thất bại của Aitken."
+      },
+      "19": {
+        "accepted": [
+          "ii"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "The key way in which artistic 'lies' differ from normal lies"
+          }
+        ],
+        "explanation": "Đoạn F phân biệt ý nghĩa và mục đích của hư cấu nghệ thuật với lời nói dối khác."
+      },
+      "20": {
+        "accepted": [
+          "B"
+        ],
+        "evidence": [
+          {
+            "paragraph": 1,
+            "quote": "without the conscious intention to deceive"
+          }
+        ],
+        "explanation": "Bệnh nhân không cố ý lừa dối."
+      },
+      "21": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 2,
+            "quote": "conjured up instantaneously"
+          }
+        ],
+        "explanation": "Các câu chuyện được tạo ra tức thì, không cần chuẩn bị."
+      },
+      "22": {
+        "accepted": [
+          "A"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "a significance and resonance beyond their creator"
+          }
+        ],
+        "explanation": "Hư cấu của nghệ sĩ có ý nghĩa rộng hơn lợi ích cá nhân người kể."
+      },
+      "23": {
+        "accepted": [
+          "E"
+        ],
+        "evidence": [
+          {
+            "paragraph": 5,
+            "quote": "the rules are laid out in advance: come to the theatre, or open this book, and we'll lie to you"
+          }
+        ],
+        "explanation": "Nghệ sĩ ngầm thông báo trước rằng khán giả đang tiếp nhận hư cấu."
+      },
+      "24": {
+        "accepted": [
+          "newspaper"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "accusations by a national newspaper"
+          }
+        ],
+        "explanation": "Một tờ báo toàn quốc cáo buộc Aitken liên hệ với người buôn vũ khí."
+      },
+      "25": {
+        "accepted": [
+          "arms"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "a group of arms dealers"
+          }
+        ],
+        "explanation": "Các đối tượng mua bán vũ khí, tức arms."
+      },
+      "26": {
+        "accepted": [
+          "enjoyment"
+        ],
+        "evidence": [
+          {
+            "paragraph": 4,
+            "quote": "just for the enjoyment of it"
+          }
+        ],
+        "explanation": "Một số lời nói dối có vẻ chỉ nhằm đem lại niềm thích thú cho chính Aitken."
+      }
+    },
+    "lessonSha256": "6afc40ce2d0a15cd8ded6a6b03b3290e27a1efdf72b3f222db2a0bce4e061c5e"
+  },
   "p1-a-brief-history-of-fashion-retail": {
     "lessonId": "p1-a-brief-history-of-fashion-retail",
     "reviewed": true,
