@@ -20,3 +20,6 @@ html body .top-nav .nav-icons [aria-label="Notes"]{width:calc(24px * var(--exam-
    node for the existing audio/review controller, without showing or announcing it. */
 html body .nav-arrows>.nav-timer{display:none!important}
 @media(max-width:600px){html body .top-nav{padding-right:12px!important;gap:12px}html body .top-nav .nav-left{gap:14px}html body .top-nav .nav-icons{gap:12px}html body .top-nav .ielts-logo{width:72px}html body .top-nav .nav-taker{font-size:14px}html body .top-nav .audio-status{font-size:11px}}
+
+/* Match Reading: vertically center the Notes title within the header row. */
+html body .exam-notes-head{align-items:center}
