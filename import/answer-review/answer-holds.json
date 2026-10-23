@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-10-22",
+  "reviewedAt": "2026-10-23",
   "scope": "Answer approval only; leave published lessons unchanged",
   "lessons": [
     {
@@ -228,6 +228,33 @@
       ],
       "reason": "The published matching bank lists Dieter Hochuli, John Martin, Richard Major and Catherine Price, but the passage attributes the three claims to Paul Iversen, Hannes Schroeder and Alexander Jones. None of the listed researchers occurs in the reading, so no source-supported A-D key can be entered.",
       "needed": "Restore the matching bank from the verified original Ancient Treasures task before enabling grading.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-discovering-ancient-cities",
+      "questions": [
+        12
+      ],
+      "reason": "The note asks for the absence of a substance causing plant colour changes, but the published passage explains limestone and yellow colouration without naming an absent substance. Do not infer chlorophyll or another word from external knowledge.",
+      "needed": "Compare the original Mayan-site explanation and restore any omitted sentence with source evidence.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p2-doodling",
+      "questions": [
+        20
+      ],
+      "reason": "Paragraphs F and G are identical. The question asks why Ingrid Collins supported Sydney psychologists, but no Sydney study or that explanation appears in the published passage.",
+      "needed": "Restore the missing distinct paragraph from the original source before approving the complete key.",
+      "answerApproved": false
+    },
+    {
+      "lessonId": "p1-dugongs",
+      "questions": [
+        10
+      ],
+      "reason": "The short-answer question mixes resemblance and comparison with manatees by the tail; the published passage has no manatee/tail comparison. Its target is grammatically unclear, so dolphin must not be selected speculatively.",
+      "needed": "Compare the original question and opening paragraph, preserving exact source wording.",
       "answerApproved": false
     }
   ]
