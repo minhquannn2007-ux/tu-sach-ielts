@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-23T03:41:12.638Z",
+  "updatedAt": "2026-10-23T03:55:49.143Z",
   "totalLessons": 798,
-  "reviewedLessons": 230,
-  "reviewedAnswers": 3020,
+  "reviewedLessons": 237,
+  "reviewedAnswers": 3113,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 564,
+  "pendingSolutions": 557,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -727,14 +727,14 @@
       "title": "Bristlecone Pines",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-british-woodlands",
       "title": "British woodlands",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-brutalist-architecture",
@@ -755,7 +755,7 @@
       "title": "Buried cities of the Amazon Rainforest",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-business-innovation",
@@ -769,7 +769,7 @@
       "title": "Butterfly Farms: valuable resource or insect zoo?",
       "part": 1,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-buying-time",
@@ -783,14 +783,14 @@
       "title": "Can a global database of fossils help us predict the future of biodiversity on Earth?",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-can-business-learn-from-computer-games",
       "title": "Can business learn from computer games?",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-can-hurricanes-be-moderated-or-diverted",
@@ -804,7 +804,7 @@
       "title": "Canal discovered at ancient quarry in Egypt",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-candles",
