@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-10-22T17:52:06.731Z",
+  "updatedAt": "2026-10-23T03:41:12.638Z",
   "totalLessons": 798,
-  "reviewedLessons": 223,
-  "reviewedAnswers": 2926,
+  "reviewedLessons": 230,
+  "reviewedAnswers": 3020,
   "existingLegacyKeysAwaitingReview": 4,
-  "pendingSolutions": 571,
+  "pendingSolutions": 564,
   "allSolved": false,
   "policy": "Only reviewed solutions are newly enabled. Pending lessons must not be reported as solved. Existing legacy keys retain their prior scoring.",
   "lessons": [
@@ -615,21 +615,21 @@
       "title": "Bird Migration",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p2-birds-in-the-city",
       "title": "Birds in the City",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-blind-to-change",
       "title": "Blind to Change",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-bodie-americas-most-famous-ghost-town",
@@ -657,14 +657,14 @@
       "title": "Book Review: Architecture in the United States",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-book-review-the-discovery-of-slowness",
       "title": "Book Review: The Discovery of Slowness",
       "part": 3,
       "questions": 14,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p1-book-review-triumph-of-the-city",
@@ -685,7 +685,7 @@
       "title": "Boring buildings",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-brain-makeover",
@@ -713,7 +713,7 @@
       "title": "Bravery and Courage",
       "part": 2,
       "questions": 13,
-      "status": "pending-solution"
+      "status": "answer-reviewed"
     },
     {
       "id": "p3-bright-sparks",
