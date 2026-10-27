@@ -156,6 +156,7 @@ html,body{height:100%;overflow:hidden;font-family:Arial,Helvetica,sans-serif;fon
 .note-save-btn:hover{background:#e6c800;}
 .sep{border:none;margin:32px 0;}
 .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0;}
+
 </style>
 <link rel="stylesheet" href="exam-behavior.css">
 <link rel="stylesheet" href="zoom-layout.css">
@@ -1084,6 +1085,14 @@ html body.exam-summary-dragging :is(.sample-drag-ghost,.dnd-ghost){white-space:n
 .answer-results{border-collapse:collapse;width:100%;font:inherit;margin:16px 0}
 .answer-results th,.answer-results td{border:1px solid currentColor;padding:12px;vertical-align:top;text-align:left;overflow-wrap:anywhere}
 .answer-results th{font-weight:700}
+
+/* Reading question artwork: composite transparent ink on paper before recolouring.
+   Shared by standalone Reading and Full Test frames; never target passage photos. */
+html body #qpanel img{background-color:#fff!important}
+html[data-exam-contrast="black-on-white"] body #qpanel img{filter:none!important}
+html[data-exam-contrast="white-on-black"] body #qpanel img{filter:grayscale(1) invert(1)!important}
+html[data-exam-contrast="yellow-on-black"] body #qpanel img{filter:grayscale(1) invert(1) sepia(1) saturate(10000%)!important}
+html[data-exam-dark] body #qpanel :is(.shared-diagram,.perfume-diagram,.jenny-diagram,.diagram-glass,.reviewed-diagram-figure,.reviewed-diagram-viewport){background:#000!important}
 </style><link rel="stylesheet" href="exam-progress.css?v=notes-layout-v324"><link rel="stylesheet" href="submit-review.css"><script src="submit-review.js"></script><link rel="stylesheet" href="exam-options.css?v=nav-motion-v1"><script src="exam-options.js?v=active-v1"></script><script src="exam-question-focus.js?v=active-v1"></script><script src="exam-drag-start.js?v=drag-shape-v1"></script><link rel="stylesheet" href="exam-toolbar-icons.css?v=reference-2324"></head>
 <body>
 
